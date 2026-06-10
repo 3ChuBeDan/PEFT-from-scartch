@@ -1,0 +1,27 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 535,
+      "text": "[TABLE] [CONTEXT] section: Báo cáo tiêu thụ năng lượng [ROWS] STT | Tổng năng lượng sử dụng phân loại theo từng nguồn | 2019 [ROW] 1 | Điện (Kwh) | 23.923.000 [ROW] Tổng năng lượng tiêu thụ | 23.923.000 [ROW] 2 | Gas (kg) | 16.000 [ROW] Tổng năng lượng tiêu thụ | 16.000",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 149,
+      "text": "Luôn lấy con người làm trọng tâm, KIDO tạo ra môi trường làm việc an toàn, thân thiện, chuyên nghiệp với tinh thần tự chủ cùng nhiều cơ hội phát triển nghề nghiệp hấp dẫn để khuyến khích nhân viên làm việc lâu dài. Việc trải nghiệm một môi trường thân thiện, cởi mở, làm việc đội nhóm, không giới hạn giúp nhân viên khám phá được tiềm năng của mình, và đặt sự tin tưởng vào Ban Lãnh đạo. Song song đó, KIDO còn tập trung vào việc xác định nhân tài, tạo cơ hội cho nhân viên phát triển nghề nghiệp tại các đơn vị trực thuộc Tập đoàn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

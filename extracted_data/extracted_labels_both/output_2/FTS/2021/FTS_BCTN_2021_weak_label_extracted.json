@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "2003 - 2010: Kế toán trưởng, Trưởng ban kế toán tài chính Công ty hệ thống thông tin FPT(FIS) ổ g g g 2010 -2017: Phó Tổng Giám đốc, Trưởng ban kế toán tài chính Công ty hệ thống thông tin FPT ổ g g g (FIS); Thành viên HĐQT Công ty Cổ phần Chứng khoán FPT",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

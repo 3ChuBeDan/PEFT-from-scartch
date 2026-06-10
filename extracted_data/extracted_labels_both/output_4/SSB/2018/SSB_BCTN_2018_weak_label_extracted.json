@@ -1,0 +1,65 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S24"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S24"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Để thực hiện quản lý rủi ro rửa tiền hiệu quả, đảm bảo tuân thủ quy định pháp luật, SeABank đã thiết lập cơ bản đầy đủ hệ thống chính sách liên quan, cụ thể: xây dựng/chỉnh sửa quy định chung PCRT/TTKB, chính sách chấp nhận khách hàng, quy trình nhận biết, cập nhật thông tin khách hàng (KYC), quy trình báo cáo rủi ro rửa tiền, tài trợ khủng bố, quy trình rà soát và phê duyệt yếu tố cấm vận của giao dịch (WLF) tại SeABank nhằm đảm bảo sự phù hợp với thực tiễn hoạt động và hướng tới thông lệ quốc tế. SeABank cũng đã thiết lập chương trình đào tạo PCRT/TTKB hàng năm cho cán bộ mới và cho lãnh đạo, cán bộ ở tất cả các đơn vị bao gồm trụ sở chính và chi nhánh theo vị trí công việc. Nội dung đào tạo hàng năm thường xuyên cập nhật các thay đổi theo quy định pháp luật, quy định nội bộ, các cơ chế rửa tiền mới và rút ra bài học kinh nghiệm cho cán bộ.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "SeABank đã ban hành Quy định quản lý rủi ro chuẩn mực nghề nghiệp về gian lận nội bộ, Quy trình quản lý sự kiện rủi ro để thống nhất khái niệm, nội dung liên quan, các công cụ phòng ngừa, phát hiện, phản hồi các sự kiện vi phạm, quyền hạn, trách nhiệm của các cá nhân, đơn vị liên quan. SeABank chú trọng thực hiện phòng ngừa gian lận nội bộ qua việc thiết lập văn hóa tuân thủ, trung thực qua các quy tắc đạo đức, tiêu chuẩn nghề nghiệp rõ ràng, cơ chế khen thưởng, kỷ luật phù hợp, công khai, thiết lập môi trường kiểm soát hiệu quả đối với mọi hoạt động trọng yếu mới hoặc khi có thay đổi, thực hiện công tác truyền thông, đào tạo cho mọi cán bộ ở các vị trí...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

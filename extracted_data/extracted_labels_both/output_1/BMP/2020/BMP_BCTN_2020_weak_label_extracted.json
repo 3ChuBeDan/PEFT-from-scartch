@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 514,
+      "text": "Chất thải: Tất cả các loại chất thải được công ty tổ chức phân loại từ nguồn, do đó thuận lợi trong việc quản lý, chuyển giao cho các đơn vị chuyên ngành và được Nhà nước cấp phép để xử lý. Trong năm 2020, toàn Công ty (bao gồm BMP và NBM) đã phát sinh trong quá trình sản xuất 142 tấn Chất thải nguy hại và tất cả đã được bàn giao cho đơn vị có chức năng xử lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    }
+  ]
+}

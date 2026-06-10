@@ -1,0 +1,31 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

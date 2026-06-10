@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 822,
+      "text": "Công tác quản lý rủi ro gian lận (QLRRGL) tiếp tục được chú trọng, với việc thực hiện nghiêm túc chính sách, quy trình và công cụ QLRRGL, cũng như triển khai cơ chế tố giác và các quy định liên quan về quản lý nhân sự nhằm phòng ngừa và phát hiện sớm rủi ro gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

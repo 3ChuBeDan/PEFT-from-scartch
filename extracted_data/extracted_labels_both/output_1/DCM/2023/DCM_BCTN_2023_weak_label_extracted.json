@@ -1,0 +1,331 @@
+{
+  "extracted_count": 17,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Công ty đã thực hiện lắp đặt 5 trạm quan trắc môi trường tự động (3 trạm khí và 2 trạm nước) các hệ thống quan trắc tự động, liên tục giám sát khí thải, nước thải truyền trực tiếp dữ liệu về Sở Tài nguyên Môi trường tỉnh Cà Mau, thực hiện quan trắc môi trường định kỳ 4 lần/năm theo đúng cam kết đánh giá tác động môi trường, thực hiện lấy mẫu phân tích định kỳ trong từng ca trực nhằm đảm bảo tuân thủ nghiêm túc các yêu cầu của Pháp luật về bảo vệ môi trường. Các thông số xả thải luôn đạt theo các quy định của Pháp luật hiện hành. Đối với chất thải rắn (chất thải sinh hoạt, chất thải rắn công nghiệp thông thường, chất thải nguy hại) đều được phân loại, thu gom và xử lý đúng quy định.",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 11,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Quản lý Giao dịch với các bên có liên quan: Công ty đã ban hành quy chế quản lý xung đột lợi ích và giao dịch với người có liên quan. Quy chế này quy định cụ thể các trường hợp được coi là xung đột lợi ích, giao dịch với các bên liên quan, các nguyên tắc chung để quản lý các xung đột này. Theo đó, UB KT&QLRR (bao gồm 100% các thành viên HĐQT không điều hành) có trách nhiệm rà soát và giám sát giao dịch với các bên liên quan. Giao dịch với các bên liên quan sẽ được thực hiện và đánh giá theo nguyên tắc công bằng và theo giá thị trường đảm bảo được lợi ích tối đa của Công ty. Cũng theo quy chế này, các thành viên có liên quan sẽ không được tham gia vào quá trình đánh giá/phê duyệt các giao dịch này.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Quy chế cảnh báo sai phạm cho phép các báo cáo ẩn danh cũng như đưa ra các nguyên tắc và biện pháp để bảo vệ người báo cáo khỏi bị trả đũa vì đã tiết lộ hành vi không hợp pháp, không phù hợp đạo đức. Trong năm tài chính 2023, Công ty không phát sinh các trường hợp hoặc các cuộc điều tra đang diễn ra liên quan đến tham nhũng và hối lộ hoặc hành vi gian lận, trốn thuế .",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Hội đồng quản trị Công ty đã ban hành quy chế quản lý xung đột lợi ích và giao dịch với người có liên quan theo Quyết định số 2988/QĐ-PVCFC ngày 06/12/2022. Quy chế quy định những nguyên tắc và hướng dẫn các nội dung liên quan đến nhận diện, ngăn chặn và cơ chế tiếp nhận, xử lý thông tin, báo cáo về vấn đề xung đột lợi ích có thể phát sinh tại PVCFC. Quy chế này cũng quy định các hướng dẫn nâng cao hiệu quả quản lý và giám sát, tăng tính minh bạch trong các giao dịch với người có liên quan tại PVCFC; quy định cụ thể thẩm quyền phê duyệt của Đại hội đồng cổ đông, Hội đồng quản trị; trình tự, thủ tục chấp thuận, các trường hợp hợp đồng, giao dịch vô hiệu liên quan đến các hợp đồng, giao dịch giữa PVCFC với người có liên quan. Quy chế quy định cụ thể trách nhiệm của các cấp quản lý trong việc triển khai, thực hiện chính sách về quản lý xung đột lợi ích và giao dịch với người có liên quan tại PVCFC. Chính sách về phê duyệt giao dịch với người có liên quan quy định tại quy chế này được công bố bằng Tiếng Việt và Tiếng Anh trên website Công ty. Chính sách có nêu rõ thành viên Hội đồng quản trị hoặc bất kỳ ai/tổ chức nào có lợi ích liên quan không được tham gia bỏ phiếu tại cuộc họp thông qua giao dịch bên liên quan mà trong đó thành viên đó có liên quan, cụ thể tại Điểm c Điều 9 \"Thành viên Hội đồng quản trị có lợi ích liên quan đến các bên trong hợp đồng, giao dịch không có quyền biểu quyết\". Ngoài ra bất cứ bên nào có xung đột lợi ích đều phải khai báo. Quy chế cũng quy định cụ thể yêu cầu về giao dịch tuân thủ theo nguyên tắc thị trường. PVCFC xây dựng kênh tiếp nhận thông tin liên hệ chuyên biệt để các bên có quyền lợi liên quan có thể sử dụng để lên tiếng về những lo ngại và/hoặc khiếu nại về các vi phạm có thể xảy ra đối với quyền lợi của họ. Công ty chưa xảy ra sự việc không tuân thủ quy định pháp luật, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu kể từ đầu năm tài chính 2023 đến nay.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    },
+    {
+      "text": "Tại Nhà máy Đạm Cà Mau, Chúng tôi luôn duy trì vận hành liên tục các hệ thống xử lý nước thải sinh hoạt, nước thải nhiễm dầu và nước thải khác 24/24 và có hệ thống quan trắc môi trường liên tục kiểm soát chất lượng nước thải ra môi trường và tuân thủ các QCVN như sau:",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Đầu ra hệ thống xử lý nước thải nhiễm dầu và đầu ra hệ thống xử lý nước thải nhiễm amoniac: Các thông số quan trắc: pH, Màu, BOD5, COD, Chất rắn lơ lửng, Asen, Thủy ngân, Chì, Cadimi, Sắt, Đồng, Tổng dầu mỡ khoáng, Sunfua, Amoni, Tổng nitơ, Tổng photpho, Clo dư, Coliform, Lưu lượng nước thải, tuân thủ theo QCVN 40:2011/BTNMT.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "PVCFC luôn tuân thủ nghiêm ngặt các quy định về báo cáo phát thải khí nhà kính. Là doanh nghiệp sản xuất và kinh doanh phân bón, PVCFC thực hiện báo cáo tuân thủ theo Nghị định Chính phủ số 06/2022/NĐ-CP về quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ôzôn, Thông tư số 38/202/3 TT-BCT về việc đo đạc, báo cáo thẩm định giảm nhẹ phát thải khí nhà kính và kiểm kê khí nhà kính ngành Công thương. Năm 2023, Chúng tôi đã kiểm tra thu thập thông tin đánh giá theo hướng dẫn như sau:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 7
+      }
+    },
+    {
+      "text": "Kết quả quan trắc định kỳ năm 2023 tại tất cả các vị trí đều nằm trong giới hạn cho phép. Ngoài thực hiện quan trắc môi trường định kỳ, Công ty còn lắp đặt các hệ thống quan trắc tự động, liên tục giám sát khí thải tại một số vị trí và thông số như sau: Khí thải tại ống khói tạo hạt: lưu lượng, áp suất, bụi, nhiệt độ và NH 3 ; Khí thải tại ống khói Amoniac: nhiệt độ, lưu lượng, áp suất, bụi, NO x , SO 2 ; Khí thải tại ống khói NPK: Nhiệt độ, áp suất, bụi.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.20767,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "PVCFC luôn có các kế hoạch, phương án thu gom, PVCFC hiểu rằng hoạt động sản xuất kinh doanh của Công ty có tác động lớn tới sự đa dạng sinh học. Việc sử dụng các sản phẩm phân bón sẽ ảnh hưởng trực tiếp và gián tiếp tới sự đa dạng sinh học. Do đó, ngoài việc nghiên cứu và cải tiến công nghệ sản xuất, Chúng tôi cũng tiến hành nghiên cứu các tác động của việc sử dụng sản phẩm đến đa dạng sinh học và đưa ra các sản phẩm có tác động tích cực hơn tới môi trường nói chung và đa dạng sinh học nói riêng.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 4
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E8"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E8"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THÔNG TIN VỀ THÀNH VIÊN HĐQT, CÁC ỦY BAN, BAN KTNB (TIẾP THEO) ; column_headers: STT | Thành viên HĐQT | Sở hữu, nắm giữ các chức vụ quản lý, điều hành tại các công ty niêm yết khác | Có xung đột lợi ích đến PVCFC [ROWS] STT | Thành viên HĐQT | Sở hữu, nắm giữ các chức vụ quản lý, điều hành tại các công ty niêm yết khác | Có xung đột lợi ích đến PVCFC [ROW] 1 | Ông Trần Ngọc Nguyên | Không | Không [ROW] 2 | Ông Văn Tiến Thanh | Không | Không [ROW] 3 | Ông Trần Mỹ | Không | Không [ROW] 4 | Ông Nguyễn Đức Hạnh | Không | Không [ROW] 5 | Ông Lê Đức Quang | Không | Không [ROW] 6 | Ông Trương Hồng | Không | Không [ROW] 7 | Bà Đỗ Thị Hoa | Không | Không [ROW] 8 | Ông Nguyễn Đức Thuận | Chủ tịch HĐQT công ty con PPC | Có (từ ngày được bầu là TV HĐQT 10/01/2024)",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MÔI TRƯỜNG ; column_headers: Các rủi ro | Hành động quản lý rủi ro [ROWS] Các rủi ro | Hành động quản lý rủi ro [ROW] Rò rỉ khí | Để quản trị và kiểm soát các rủi ro này, Công ty đã ban hành các quy trình, quy định vận hành đối với hoạt động sản xuất và yêu cầu tuân thủ một cách nghiêm ngặt nhằm ngăn ngừa và giảm tối đa việc rò rỉ khí. Công ty tiến hành lắp đặt các trạm quan trắc tại những nơi cần thiết để theo dõi liên tục chất lượng không khí nhằm phát hiện sớm hiện tượng rò rỉ để có biện pháp kịp thời xử lý, khắc phục. [ROW] Biến đổi khí hậu Do đặc thù của hoạt động Công ty với nguyên vật liệu đầu vào là khí tự nhiên và sử dụng nhiều năng lượng trong quá trình sản xuất, PVCFC tạo ra một lượng phát thải khí nhà kính trong quá trình sản xuất. | Liên tục cải tiến hiệu suất sử dụng khí đầu vào Nghiên cứu cải tiến quy trình sản xuất để sử dụng năng lượng hiệu quả hơn Sử dụng năng lượng tái tạo Nghiên cứu các sản phẩm xanh hơn với môi trường... [ROW] Nguồn nước thải, chất thải rắn ảnh hưởng đến chất lượng không khí và đa dạng sinh học | Các quy định, quy trình sử dụng nước sạch và xử lý nước thải và chất thải cũng được xây dựng và ban hành để thực hiện đảm bảo tuân thủ theo tiêu chuẩn chất lượng của Việt Nam và các quốc gia/ vùng lãnh thổ trong phạm vi hoạt động của PVCFC. Ký kết các hợp đồng xử lý chất thải rắn với các đơn vị chuyên nghiệp có nhiều kinh nghiệm và được công nhận bởi các tổ chức uy tín hay cấp có thẩm quyền. [ROW] Rủi ro về dùng sản phẩm phân bón hóa học quá nhiều so với nhu cầu của cây trồng có thể ảnh hưởng đến sức khỏe đất, ô nhiễm nguồn nước ảnh hưởng đến hệ sinh thái, tạo ra phát thải khí nhà kính. | Hướng dẫn sử dụng sản phẩm/chăm sóc cây trồng của Công ty được phổ biến dưới nhiều hình thức: phát tờ rơi, đăng tải trên website, trên app 2Nông trên thiết bị di động, tổ chức các buổi hội thảo trực tiếp để hướng dẫn đại lý/nông dân sử dụng sản phẩm đúng lúc, đúng loại, đúng liều lượng, đúng cách, giảm thiểu thất thoát và giảm tác động không mong muốn đối với môi trường.",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E3": 0.777029,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 9,
+        "E3": 2,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÁC LĨNH VỰC TRỌNG YẾU (TIẾP THEO) ; column_headers: LĨNH VỰC Ế Ự TRỌNG YẾU | TẦM QUAN TRỌNG [ROWS] LĨNH VỰC Ế Ự TRỌNG YẾU | TẦM QUAN TRỌNG [ROW] QUẢN TRỊ | Hiệu quả kinh tế | Việc đạt được hiệu quả cao trong các hoạt động kinh doanh là rất quan trọng đối với PVCFC vì thông qua đó PVCFC có thể mang lại giá trị bền vững và thịnh vượng cho các bên liên quan, đồng thời đóng góp tích cực vào các mục tiêu phát triển bền vững. [ROW] Nước tiêu thụ và nước thải | Việc quản lý nước tiêu thụ và nước thải không hiệu quả có thể gây ra rủi ro cho hoạt động của Công ty, chẳng hạn như sự gián đoạn trong chuỗi cung ứng hoặc thiệt hại về danh tiếng do sự cố môi trường. Bằng cách thực hiện các biện pháp giảm mức tiêu thụ nước và tái chế nước thải, PVCFC góp phần giảm thiểu tác động đến môi trường và thể hiện cam kết của mình đối với sự phát bền vững. [ROW] Nguyên vật liệu đầu vào | Nguyên liệu đầu vào của PVCFC chủ yếu là nguồn khí tự nhiên từ nguồn nhiên liệu hóa thạch. PVCFC liên tục cải tiến/cải hoán để tiết kiệm nguyên liệu, hạn chế rủi ro thất thoát và đang nỗ lực trong việc tìm các nguồn nguyên liệu thay thế nhằm giảm các tác động đến môi trường. [ROW] MÔI TRƯỜNG | Biến đổi khí hậu | Biến đổi khí hậu có tác động đáng kể đến ngành Nông nghiệp, bao gồm những thay đổi về năng suất cây trồng, tỷ lệ sâu bệnh và độ phì nhiêu của đất. Bên cạnh đó, việc sản xuất và sử dụng phân bón cũng góp phần phát thải khí nhà kính, đặc biệt là phát thải N 2 O và CO 2 . Điều này mang lại cả thách thức và cơ hội cho PVCFC trong việc cải tiến các sản phẩm phù hợp với điều kiện khí hậu thay đổi song song với việc giảm khí thải từ sản xuất phân bón, góp phần thúc đẩy nông nghiệp Việt theo hướng an toàn, bền vững. [ROW] Quản lý năng lượng | Quy trình sản xuất phân bón đòi hỏi nguồn năng lượng đáng kể, đặc biệt cho các hoạt động như gia nhiệt, sấy khô và phản ứng hóa học. Quản lý năng lượng hiệu quả là điều cần thiết để giảm thiểu chi phí năng lượng và duy trì khả năng cạnh tranh của PVCFC. Bên cạnh đó, việc sản xuất và tiêu thụ năng lượng là nguyên nhân chính gây phát thải khí nhà kính và các tác động tiêu cực đến môi trường. Bằng cách giảm mức tiêu thụ năng lượng và chuyển đổi sang các nguồn năng lượng sạch hơn, PVCFC có thể giảm thiểu tác động đến môi trường và góp phần đạt được các mục tiêu bền vững.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.830679,
+        "E3": 0.777029,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 4,
+        "E3": 2,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÁC LĨNH VỰC TRỌNG YẾU (TIẾP THEO) ; column_headers: LĨNH VỰC Ế Ự TRỌNG YẾU | TẦM QUAN TRỌNG [ROWS] LĨNH VỰC Ế Ự TRỌNG YẾU | TẦM QUAN TRỌNG [ROW] Quản lý chất thải An toàn và sức khỏe nghề nghiệp bền vững | Quá trình sản xuất phân bón tạo ra nhiều loại chất thải khác nhau, bao gồm chất thải rắn, nước thải và khí thải. Quản lý chất thải phù hợp là điều cần thiết để giảm thiểu tác động môi trường, ngăn ngừa ô nhiễm không khí, đất và nước, đồng thời bảo vệ hệ sinh thái và sức khỏe con người. [ROW] Đa dạng sinh học | Đa dạng sinh học rất cần thiết cho sự bền vững và khả năng phục hồi lâu dài của hệ thống nông nghiệp và sản xuất phân bón. Bằng cách nhận ra tầm quan trọng của đa dạng sinh học và tích hợp bảo tồn đa dạng sinh học vào hoạt động và chiến lược kinh doanh của mình, PVCFC có thể góp phần đáng kể vào các mục tiêu bảo vệ môi trường, phát triển bền vững và an ninh lương thực. [ROW] Chuỗi cung ứng | Trách nhiệm của PVCFC là luôn ưu tiên sức khỏe và sự an toàn của mọi người. Quản lý tốt vấn đề an toàn và sức khỏe nghề nghiệp sẽ bảo vệ Công ty khỏi những tổn thất về mặt tài chính, nhân lực, vật lực cũng như các hậu quả về pháp lý. [ROW] Đào tạo và phát triển | Nguồn nhân lực là một trong những nền tảng vững chắc giúp Chúng tôi hoàn thành những kế hoạch, mục tiêu chiến lược. Công [ROW] Thu hút và giữ chân nhân tài | tác đào tạo và phát triển nguồn nhân lực cũng như các chính sách thu hút và giữ chân nhân tài là điều cần thiết để tạo sự gắn kết lâu dài giữa CBCNV và PVCFC, từ đó thúc đẩy sự thành công của PVCFC trong hiện tại, cũng như chuẩn bị tốt cho những thách thức và cơ hội trong tương lai. [ROW] Quản lý chuỗi cung ứng bền vững giúp giảm thiểu các tác động tiêu cực đến môi trường, tiết kiệm chi phí hoạt động và đảm bảo lợi ích của người lao động trong toàn chuỗi cung ứng. [ROW] Lao động và nhân quyền | Bảo vệ người lao động và tuân thủ các vấn đề nhân quyền nhằm xây dựng một môi trường làm việc ổn định và toàn diện không những cho PVCFC mà còn cho tất cả các bên liên quan. Điều này giúp thúc đẩy công bằng xã hội và hành vi kinh doanh có trách nhiệm trong cộng đồng doanh nghiệp tại Việt Nam. [ROW] Phúc lợi của người nông dân/ khách hàng | Việc quan tâm đến lợi ích của người nông dân giúp PVCFC hiểu rõ hơn về các nhu cầu, mối quan tâm và những thách thức cụ thể mà nông dân/khách hàng đang gặp phải. Điều này rất cần thiết để phát triển các sản phẩm, chương trình, dịch vụ và chính sách phù hợp kịp thời đáp ứng yêu cầu của nông dân/khách hàng. [ROW] Cộng đồng địa phương | Các chương trình gắn kết cộng đồng sẽ nuôi dưỡng niềm tin và củng cố mối quan hệ giữa PVCFC với cộng đồng. Bên cạnh đó, đây cũng là vấn đề cần thiết để PVCFC góp phần xây dựng cộng đồng thịnh vượng, và thúc đẩy sự phát triển bền vững của xã hội.",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 6,
+        "E_COMMON": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI ; column_headers: Tiêu chuẩn GRI | Chỉ số GRI | Trang [ROWS] Tiêu chuẩn GRI | Chỉ số GRI | Trang [ROW] 304-2 Tác động đáng kể của các hoạt động, sản phẩm và dịch vụ đối với đa dạng sinh học | N/A [ROW] 304-3 Các môi trường sống được bảo tồn hoặc phục hồi | N/A [ROW] 304-4 Các loài trong Sách Đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trường sống trong các khu vực chịu ảnh hưởng bởi các hoạt động | N/A [ROW] GRI 305: Phát thải 2016 | 305-1 Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) | 233 [ROW] 305-2 Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) | 233 [ROW] 305-3 Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) | N/A [ROW] 305-4 Thâm dụng phát thải khí nhà kính (GHG) | N/A [ROW] 305-5 Giảm phát thải khí nhà kính (GHG) | 232-233 [ROW] 305-6 Phát thải chất phá hủy tầng ô-zôn (ODS) | N/A [ROW] 305-7 Nitrogen oxides (NOx), sulfur oxides (SOx) và các phát thải khí đáng kể khác | N/A [ROW] GRI 306: Chất thải 2020 | 306-1 Phát sinh chất thải và các tác động đáng kể liên quan đến chất thải | N/A [ROW] 306-2 Quản lý các tác động đáng kể liên quan đến chất thải | N/A [ROW] 306-3 Chất thải phát sinh | 237 [ROW] 306-4 Chất thải được chuyển hướng khỏi việc thải bỏ | 237 [ROW] 306-5 Chất thải được xử lý | N/A [ROW] GRI 308: Đánh giá Nhà cung cấp về | 308-1 Các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về môi trường | 245 [ROW] Môi trường 2016 | 308-2 Các tác động môi trường tiêu cực trong chuỗi cung ứng và các hành động đã thực hiện | N/A [ROW] GRI 401: Việc làm 2016 | 401-1 Số lượng nhân viên thuê mới và tỷ lệ thôi việc | 245 [ROW] 401-2 Phúc lợi cung cấp cho nhân viên toàn thời gian không dành cho nhân viên tạm thời hoặc bán thời gian | 244-245 [ROW] 401-3 Nghỉ thai sản | 245 [ROW] GRI 402: Mối quan hệ Lao động/Quản lý 2016 | 402-1 Thời hạn thông báo tối thiểu về những thay đổi trong hoạt động | N/A",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 8,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

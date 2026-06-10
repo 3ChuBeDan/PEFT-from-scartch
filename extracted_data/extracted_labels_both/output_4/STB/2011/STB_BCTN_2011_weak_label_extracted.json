@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Dự đoán được tình hình kinh tế khó khăn, Sacombank đã chủ động thực hiện một cách quyết liệt và xuyên suốt các biện pháp ngăn chặn và xử lý nợ quá hạn qua cơ chế hoạt động của Ban và Phân ban ngăn chặn & Xử lý nợ quá hạn của từng đơn vị. Nhờ đó, chất lượng tín dụng được bảo đảm, tỷ lệ nợ quá hạn được kiểm soát ở mức thấp so với mức bình quân của Ngành. Cụ thể, tỷ lệ nợ quá hạn của Sacombank là 0,86%, tỷ lệ nợ xấu là 0,56% (bình quân Ngành 3,4%).",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "text": "Với nguyên tắc luôn đặt mục tiêu An toàn lên hàng đầu, công tác quản trị rủi ro luôn được Sacombank thực hiện chặt chẽ nhằm tạo nền tảng tốt nhất để vượt qua thách thức, tận dụng cơ hội kinh doanh phù hợp trên thị trường, phát huy cao nhất hiệu quả hoạt động và hoàn thành tốt kế hoạch kinh doanh năm 2011. Sacombank đã phát huy vai trò của Ban/Phân ban ngăn chặn và xử lý nợ quá hạn tại Hội sở và các Khu vực nhằm đưa ra những cảnh báo và xử lý kịp thời nguy cơ phát sinh nợ quá hạn, giúp giữ được tỷ lệ nợ xấu chỉ 0,56% và nợ quá hạn là 0,86% trên tổng dư nợ trong năm 2011.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

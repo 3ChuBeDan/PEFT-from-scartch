@@ -1,0 +1,68 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Hoàn thành 22 cuộc kiểm toán tại các Phòng/Ban/Trung tâm Trụ sở chính VCB, các Chi nhánh, công ty con, văn phòng đại diện của VCB trong nhiều lĩnh vực: hoạt động tín dụng, phòng chống rửa tiền, nghiệp vụ thẻ, kế toán, đầu tư xây dựng cơ bản, mua sắm, quản lý và kinh doanh vốn; hoạt động của các công ty con, văn phòng đại diện; kiểm toán quản lý rủi ro và đánh giá nội bộ về mức đủ vốn (gồm: kiểm toán quy trình đánh giá nội bộ về mức đủ vốn (ICAAP); đánh giá, rà soát tỷ lệ an toàn vốn tối thiểu CAR theo Thông tư số 41/2016/TT-NHNN); kiểm toán dự án/hệ thống công nghệ thông tin (CNTT) với nhiều nội dung bao gồm kiểm tra, đánh giá độc lập việc tuân thủ cơ chế, chính sách, quy định nội bộ về giám sát quản lý cấp cao, kiểm soát nội bộ, quản lý rủi ro, đánh giá nội bộ về mức đủ vốn.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G11": 0.5,
+        "G9": 1.0
+      },
+      "themes": [
+        "G11",
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 1,
+        "G9": 3
+      }
+    },
+    {
+      "text": "Với ảnh hưởng của dịch bệnh Covid-19 dẫn tới nhiều khó khăn chung của nền kinh tế, cùng với chuyển đổi của hệ thống ngân hàng lên kênh số để đáp ứng nhu cầu của khách hàng, khả năng phát sinh các rủi ro hoạt động liên quan, đặc biệt là rủi ro gian lận bên ngoài, có khả năng tăng lên. Do đó, Vietcombank liên tục đẩy mạnh thực hiện những hành động cụ thể để quản lý rủi ro hoạt động như triển khai toàn diện khung quản lý rủi ro gian lận, khung quản lý rủi ro công nghệ thông tin, QLRRHĐ đối với hoạt động thuê ngoài.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "rộng tín dụng xanh cho nền kinh tế, đặc biệt đối với các dự án năng lượng tái tạo, nông nghiệp xanh và xử lý môi trường. Đến cuối năm 2022, dư nợ cho các dự án xanh tại Vietcombank đã chiếm trên 4% tổng dư nợ của Ngân hàng. Cụ thể, vốn tài trợ cho các dự án năng lượng tái tạo, năng lượng sạch chiếm ~87,3%, các dự án quản lý nước bền vững chiếm 7,2%, dự án tái chế, tái sử dụng các nguồn tài nguyên ~1,3%, xử lý chất thải, phòng chống ô nhiễm ~1,3%, công nghiệp xanh ~1%, nông nghiệp xanh ~1%, công trình xanh và giao thông bền vững ~1%. Đặc biệt, hoạt động tài trợ vốn trung dài hạn cho các dự án năng lượng tái tạo, năng lượng sạch đã tăng trưởng gần 350% trong năm vừa qua, thể hiện sự ưu tiên định hướng tín dụng cho các ngành phát triển bền vững tại Vietcombank. Bên cạnh việc trực tiếp dành nguồn lực cho tín dụng xanh, năm 2022, công ty chứng khoán Vietcombank Securities cũng tư vấn phát hành thành công 1.725 tỷ đồng trái phiếu xanh cho Công ty Tài chính cổ phần Điện lực EVNFinance. Đây là trái phiếu doanh nghiệp đầu tiên được xác định là Trái phiếu xanh theo tiêu chuẩn quốc tế tại thị trường Việt Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 1,
+        "E3": 6,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

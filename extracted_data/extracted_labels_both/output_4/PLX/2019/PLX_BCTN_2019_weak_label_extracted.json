@@ -1,0 +1,129 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "text": "» Tiếp tục thực hiện chiến lược chuyển đổi số, tập trung nguồn lực áp dụng các giải pháp công nghệ để giải quyết các vấn đề cốt lõi như: Củng cố, nâng cấp cơ sở hạ tầng của hệ thống thông tin hiện hữu và hoàn thiện chiến lược phát triển thông tin, đồng thời tối ưu hoá hiệu quả sử dụng của các phân hệ trên ERP_SAP; Triển khai giải pháp thanh toán không dùng tiền mặt và hệ thống quản trị quan hệ khách hàng (CRM); Triển khai hệ thống thông tin hỗ trợ lãnh đạo ra quyết định (BI);...",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Chất thải phát sinh từ các hoạt động xăng dầu được quản lý theo quy định pháp luật về chất thải sinh hoạt và chất thải nguy hại. Thành phần chất thải nguy hại chủ yếu là: bùn cặn từ hệ thống xử lý nước thải, găng tay và giẻ lau nhiễm dầu, các thùng phuy, can chứa đựng mẫu,... Các chất thải này được Petrolimex thuê các đơn vị thu gom và có chức năng xử lý chất thải nhiễm dầu tại địa phương.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MỐI QUAN HỆ BỀN VỮNG VỚI CÁC BÊN LIÊN QUAN (tiếp theo) ; column_headers: Các bên liên quan | Các mối quan tâm Phương thức tiếp cận của Petrolimex | Tần suất tham vấn | Hành động của Petrolimex [ROWS] Các bên liên quan | Các mối quan tâm Phương thức tiếp cận của Petrolimex | Tần suất tham vấn | Hành động của Petrolimex [ROW] » Thực hiện đầy đủ nghĩa vụ và triển khai, ủng hộ các chủ trương, chính sách của Nhà nước; » Tuân thủ quy định pháp luật; » Đảm bảo sản xuất kinh doanh có hiệu quả; | » Tiên phong trong việc áp dụng, triển khai các các chủ trương, chính sách, quy định mới của Nhà nước; » Tích cực tham gia và đóng góp ý kiến tại các hội nghị, hội thảo và các chương trình làm việc chuyên ngành; » Tích cực tương tác, chủ động đề xuất và đóng góp ý kiến điều chỉnh, bổ sung các văn bản quy phạm pháp luật; » Tham gia các hội nghị, các tổ chức, hiệp hội. | » Tiếp tục thực hiện nghiêm túc Quyết định 49/2011/QĐ-TTg và Quyết định 53/QĐ\u0002 TTg, đồng thời chuẩn bị đầy đủ điều kiện về nguồn hàng, cơ sở vật chất kỹ thuật sẵn sàng kinh doanh, đưa vào lưu thông nhiên liệu hàng hàng mới tuân thủ Quy định giới hạn lưu huỳnh của Tổ chức hàng hải quốc tế (IMO), đúng thời hạn từ ngày 01/01/2020; » Tiến hành sửa đổi, bổ sung hàng loạt các quy chế, quy định liên quan đến công tác điều hành kinh doanh, công tác đầu tư, pháp chế... để thống nhất thực hiện trong toàn Tập đoàn; » Tiếp tục triển khai chương trình hóa đơn điện tử; » Tuân thủ nghĩa vụ nộp ngân sách Nhà nước. | Chính phủ, Cơ quan QLNN » Thường xuyên, liên tục; » Thường xuyên; » Khi được yêu cầu; » Thường xuyên; [ROW] » Đảm bảo hiệu quả sử dụng vốn đầu tư; » Đảm bảo thông tin công khai, minh bạch và được cung cấp kịp thời; » Ổn định và gia tăng giá trị của doanh nghiệp và giá trị cổ phiếu trên sàn chứng khoán; » Không ngừng nâng cao năng lực quản trị doanh nghiệp; » Đối xử bình đẳng, đảm bảo quyền lợi cổ đông. | » Gặp gỡ tham vấn tại ĐHCĐ (thường niên/ bất thường theo QĐ của pháp luật); » Trao đổi với các cổ đông lớn liên quan tới các dự án đầu tư; » Tổ chức các chương trình Roadshow, gặp gỡ nhà đầu tư; » Tham vấn, lấy ý kiến bằng văn bản, website, email, mạng xã hội...; » Phát hành Báo cáo thường niên, Báo cáo phát triển bền vững. | » Định kỳ/ khi có phát sinh » Khi có phát sinh; » Thường xuyên: » Định kỳ. » Tổ chức Đại hội Cổ đông thường niên năm 2019; » Tổ chức Roadshow tại thị trường Việt Nam và tại 3 quốc gia gồm Singapore, Vương quốc Anh và Hàn Quốc với gần 40 quỹ đầu tư lớn trong và ngoài nước. » Tổ chức gặp gỡ và đón tiếp hàng trăm quỹ đầu tư, phần lớn đều thuộc những công ty quản lý tài sản lớn trên thế giới và đã đầu tư vào Việt Nam; » Lộ trình trả cổ tức 2019: tạm ứng 20%, ngày thanh toán 27/04/2020. 10% còn lại sau ĐHĐCĐ; » Phát hành Báo cáo thường niên và Báo cáo PTBV năm 2019. | Cổ đông, Nhà đầu tư [ROW] » Đảm bảo nguồn thu nhập, chế độ phúc lợi và an toàn lao động; » Môi trường làm việc văn minh, không phân biệt đối xử; » Được đào tạo, nâng cao năng lực, tay nghề và có cơ hội phát triển bản thân; » Được ghi nhận sự cống hiến, đóng góp. | » Cung cấp các sản phẩm đáp ứng yêu cầu của khách hàng; » Tham vấn lấy ý kiến, lắng nghe khách hàng qua website, email, mạng xã hội ...; » Tổ chức Hội nghị khách hàng bán lẻ; » Cung cấp thông tin qua các phương tiện truyền thông đại chúng. | » Thường xuyên; » Thường xuyên; » Khi có phát sinh; » Thường xuyên; » Tiếp tục kinh doanh nhiên liệu chất lượng cao (Diesel tiêu chuẩn Euro 5, xăng Ron95 tiêu chuẩn Euro 4), thân thiện với môi trường (xăng E5Ron92). Chú trọng nghiên cứu, phát triển các sản phẩm năng lượng mới, thân thiện với môi trường như LNG; » Thí điểm triển khai thanh toán bằng thẻ ATM nội địa, ví điện tử tại CHXD. Định hướng áp dụng hình thức thanh toán không dùng tiền mặt trên diện rộng để tối ưu hoá trải nghiệm của khách hàng, nâng cao hiệu quả chăm sóc khách hàng. | Khách hàng [ROW] » Hợp tác cùng phát triển; » Thực hiện sản xuất kinh doanh có trách nhiệm. | » Gặp gỡ, đàm phán trực tiếp trong các chương trình làm việc, hội nghị; » Tiếp nhận phản hồi qua các kênh email, điện thoại, văn bản; » Tổ chức hội nghị khách hàng. | » Thường xuyên; » Thường xuyên; » Định kỳ; » Thường xuyên cung cấp thông tin và liên lạc; » Chủ động nguồn hàng, chia sẻ khó khăn trong bối cảnh với Nhà máy Lọc dầu trong nước liên tục gặp sự cố kỹ thuật; » Tổ chức Hội nghị khách hàng toàn quốc năm 2019. | Đối tác [ROW] » Thực thi các quy định về môi trường đảm bảo an toàn phòng cháy chữa cháy (PCCC) và an toàn môi trường (ATMT) tại các công trình xăng dầu; » Hỗ trợ phát triển kinh tế, cơ sở vật chất, y tế, giáo dục... cho địa phương. » Sản phẩm có chất lượng tiên tiến, thân thiện với môi trường; » Đóng góp vào ngân sách Nhà nước và sự phát triển của địa phương nơi các đơn vị thành viên | » Phối hợp với chính quyền địa phương; » Phổ biến và nâng cao nhận thức về ATMT; | » Thường xuyên; » Thường xuyên. » Thực hiện sản xuất kinh doanh gắn liền với trách nhiệm bảo vệ môi trường, an toàn và an sinh xã hội. Năm 2019 Petrolimex dành 75,2 tỷ đồng cho các hoạt động an sinh xã hội hỗ trợ xây nhà tình thương, công trình giáo dục, y tế....; » Tự nguyện đóng góp ủng hộ các quỹ; | Cộng đồng [ROW] » Đảm bảo nguồn thu nhập, chế độ phúc lợi và an toàn lao động; » Môi trường làm việc văn minh, không phân biệt đối xử; » Được đào tạo, nâng cao năng lực, tay nghề và có cơ hội phát triển bản thân; » Được ghi nhận sự cống hiến, đóng góp | » Phản hồi và trao đổi trực tiếp qua email, hoặc điện thoại; » Hội nghị người lao động; » Làm việc qua tổ chức công đoàn; » Khảo sát ý kiến người lao động; » Phát động các phong trào Cửa hàng trưởng, Nhân viên bán hàng xuất sắc; » Tổ chức phong trào rèn luyện sức khỏe. | » Thường xuyên; » Định kỳ; » Thường xuyên; » Thường xuyên; » Định kỳ; » Thường xuyên. » Triển khai mua bảo hiểm chăm sóc sức khỏe cho người lao động; » Tổ chức hội nghị người lao động năm 2019; » Tổ chức các chương trình giao lưu, giải thi đấu, hội thao; Tổ chức các chương trình du lịch nội bộ; » Tổ chức các chương trình tổng kết, chúc tết đầu năm, ... | Cán bộ công nhân viên, người lao động",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: PHÂN TÍCH VỀ PHÁT THẢI KHÍ NHÀ KÍNH TỪ CÁC HOẠT ĐỘNG CỦA PETROLIMEX ; column_headers: STT | Lĩnh vực kinh doanh | Hoạt động gây phát thải khí nhà kính | Phạm vi phát thải khí nhà kính | Mức độ phát thải trực tiếp từ hoạt động sản xuất kinh doanh [ROWS] STT | Lĩnh vực kinh doanh | Hoạt động gây phát thải khí nhà kính | Phạm vi phát thải khí nhà kính | Mức độ phát thải trực tiếp từ hoạt động sản xuất kinh doanh [ROW] 1 | Kinh doanh xăng dầu | Từ phương tiện giao thông mua bán xăng dầu | Gián tiếp | Ít [ROW] Hơi xăng dầu từ cửa hàng và hệ thống kho, bể, đường ống | Trực tiếp | Thường xuyên [ROW] 2 | Kinh doanh dầu mỡ nhờn và các sản phẩm hóa dầu | N/A(**) | N/A | N/A [ROW] 3 | Kinh doanh khí hóa lỏng | N/A | N/A | N/A [ROW] 4 | Vận tải xăng dầu | Phát thải từ vận hành phương tiện vận tải đường bộ, đường thủy | Gián tiếp | Ít [ROW] 5 | Thiết kế, xây lắp cơ khí | Phát thải từ phương tiện, máy móc hoạt động xây dựng | Gián tiếp | Ít [ROW] 6 | Kinh doanh thiết bị xăng dầu | N/A | N/A | N/A [ROW] 7 | Các ngành nghề thương mại dịch vụ (bảo hiểm, ngân hàng...) | Sử dụng năng lượng cho khu vực văn phòng | Gián tiếp | Không đáng kể",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: LỰA CHỌN KINH DOANH SẢN PHẨM SẠCH ĐỂ GIẢM THIỂU KHÍ THẢI ; column_headers: Khí thải NOx | Khí thải NOx +HC | Bụi thải PM | Khí thải CO | Tổng Hydrocacbon (THC) [ROWS] Khí thải NOx | Khí thải NOx +HC | Bụi thải PM | Khí thải CO | Tổng Hydrocacbon (THC) [ROW] Tấn | Tấn | Tấn | Tấn | Tấn [ROW] 2.573 | 2.765 | 441 | 20.346 | 1.035",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 7
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

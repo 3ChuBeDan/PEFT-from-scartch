@@ -1,0 +1,134 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 507,
+      "text": "Mảng nhiệt điện than dự kiến vẫn đảm bảo tăng trưởng trong năm 2025. Theo Kế hoạch vận hành hệ thống điện, các nhà máy nhiệt điện than vẫn sẽ được huy động ở mức cao với tỷ lệ alpha 80%, đặc biệt là các nhà máy ở khu vực phía Bắc, đảm bảo hầu hết các nhà máy đều được huy động vận hành 6.400 – 6.500 giờ trong năm 2025 để đáp ứng nhu cầu sử dụng điện trong mọi tình huống. Tuy nhiên, giá nguyên liệu đầu vào biến động theo diễn biến tình hình quốc tế vẫn là một trở ngại lớn đối với các nhà máy điện than, nhất là với các nhà máy sử dụng than trộn và than nhập khẩu. Về dài hạn, điện than khó có khả năng duy trì vai trò trọng tâm trong phát triển năng lượng do lượng phát thải cao, thách thức trong việc huy động tài chính và các cam kết của Việt Nam về giảm phát thải ròng bằng 0 vào năm 2050.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 6
+      }
+    },
+    {
+      "paragraph_id": 520,
+      "text": "Tổng kết lại, năm 2025 sẽ đánh dấu sự khởi đầu cho một giai đoạn quan trọng trong sự phát triển của ngành điện Việt Nam. Với những chính sách đột phá và quyết tâm cao của Chính phủ, năm 2025 hứa hẹn sẽ là một năm đầy triển vọng cho đầu tư vào ngành điện. Dù ngành điện đang đối mặt với không ít thách thức, như tình trạng thiếu hụt cung cấp điện tại khu vực miền Bắc, sự phụ thuộc vào các nguồn nhiệt điện khí và than, cũng như vấn đề về hạ tầng truyền tải không đồng bộ, nhưng những chính sách mới về cơ chế mua bán điện trực tiếp (DPPA), điều chỉnh giá điện và hỗ trợ phát triển năng lượng tái tạo sẽ mở ra cơ hội lớn cho ngành điện. Do đó, để ngành điện phát triển bền vững, Chính phủ cần có sự đầu tư mạnh mẽ vào hạ tầng lưới điện và hệ thống lưu trữ điện, đồng thời tiếp tục hoàn thiện các cơ chế chính sách để tạo ra môi trường thuận lợi cho các dự án năng lượng tái tạo. Việc xây dựng một thị trường điện hoạt động đồng nhất với Nguyên tắc hoạt động của thị trường điện theo Luật điện lực mới cũng hết sức là cần thiết nhằm hướng tới một thị trường điện hoạt động cạnh tranh, minh bạch, thu hút các nhà đầu tư. Sự phối hợp giữa chính phủ, doanh nghiệp và các cơ quan liên quan sẽ đóng vai trò then chốt trong việc đáp ứng nhu cầu điện năng và đảm bảo an ninh năng lượng quốc gia trong tương lai.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 649,
+      "text": "Trong năm 2024, REE đã đạt được những kết quả khả quan trong chiến lược phát triển bền vững. Chúng tôi tiếp tục phát triển công suất các nguồn năng lượng tái tạo trong danh mục đầu tư và đề xuất thực hiện nhiều dự án năng lượng tái tạo tiềm năng với địa phương, giảm thiểu tỉ trọng năng lượng hóa thạch theo đúng định hướng cam kết Phát thải ròng bằng 0 – \"Net Zero\" vào năm 2050 của chính phủ. Các dự án điện gió và điện mặt trời hiện hữu cung cấp nguồn năng lượng sạch ổn định cho xã hội. Các nhà máy thủy điện tối ưu vận hành và cắt giảm chi phí trong điều kiện thời tiết không thuận lợi.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 716,
+      "text": "Năm 2024, REE Corporation đã đầu tư mạnh mẽ vào việc nâng cao nhận thức về ESG trong toàn bộ tổ chức. Chúng tôi đã tổ chức thành công hai khóa đào tạo chuyên sâu về tiêu chuẩn ESG do Bureau Veritas triển khai, kéo dài 4 ngày mỗi khóa, dành cho 70 lãnh đạo, quản lý và nhân viên. Qua các buổi đào tạo, người học đã được trang bị kiến thức toàn diện về các nguyên tắc ESG, hiểu rõ tầm quan trọng của việc tích hợp ESG vào các hoạt động kinh doanh hàng ngày. Điều này không chỉ góp phần nâng cao năng lực cạnh tranh của REE mà còn khẳng định cam kết của công ty đối với sự phát triển bền vững của cộng đồng và môi trường. Bên cạnh việc tổ chức các khóa đào tạo chuyên sâu, công ty còn áp dụng những sáng kiến phát triển bền vững khi kinh doanh như: Theo đuổi tiêu chuẩn xây dựng xanh LOTUS, LEED cho các dự án M&E, tập trung đầu tư vào dự án năng lượng tái tạo và chọn lựa nguyên vật liệu thân thiện môi trường để sử dụng hiệu quả và tiết kiệm trong mọi dự án đang triển khai.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.4,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3,
+        "E_COMMON": 1,
+        "G9": 1
+      }
+    },
+    {
+      "paragraph_id": 761,
+      "text": "Trong lĩnh vực bất động sản, chúng tôi áp dụng các công nghệ và sử dụng vật liệu thân thiện với môi trường, tiết kiệm năng lượng trong xây dựng và vận hành các tòa nhà thông minh. Điển hình là việc REE đã xây dựng tòa nhà e.town Central đạt tiêu chuẩn LEED Gold, tòa nhà văn phòng e.town 5 đạt tiêu chuẩn EDGE – chứng chỉ của SGS (Ngân hàng Thế giới), tòa nhà văn phòng e.town 6 đạt tiêu chuẩn LEED Platinum – chứng chỉ của Hội đồng Công trình xanh Hoa Kỳ. Hai tòa nhà này đáp ứng các tiêu chí chính như",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 762,
+      "text": "Trong lĩnh vực năng lượng, REE đẩy mạnh đầu tư vào các dự án năng lượng tái tạo đồng thời giảm đầu tư vào các dự án nhiệt điện than. Cụ thể chúng tôi đặt mục tiêu phát triển công suất NLTT thêm 100MW trong năm 2025, thêm 500MW trong vòng 3 năm tới và kỳ vọng tổng công suất đạt 2.000 – 2.500 MW cuối năm 2030. Đồng thời, chúng tôi đã dần thoái vốn tại các công ty nhiệt điện than (Ninh Bình và Phả Lại).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    }
+  ]
+}

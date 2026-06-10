@@ -1,0 +1,92 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Bên cạnh đó, công tác quản trị rủi ro hoạt động tại SeABank trong năm 2021 tiếp tục được củng cố và tăng cường thông qua việc vận hành hiệu quả mô hình 3 tuyến bảo vệ và triển khai các công cụ quản lý rủi ro hoạt động đã được Ngân hàng ban hành theo Thông tư 13. Hoạt động phòng chống gian lận cũng được củng cố thông qua việc nâng cấp bộ công cụ nhận diện giao dịch thẻ tín dụng khống và tiếp tục quản lý hệ thống danh sách cảnh báo tín dụng gian lận, giả mạo.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Nhận định văn hóa tuân thủ là một cấu phần của văn hóa tổ chức vững mạnh, SeABank không ngừng nỗ lực nâng cao văn hóa tuân thủ nhằm đảm bảo sự minh bạch trong hoạt động, ngăn ngừa rủi ro đạo đức nghề nghiệp và phòng chống gian lận thông qua việc thiết lập các chương trình hành động tuân thủ và Ban hành bộ Chuẩn mực tuân thủ \"5T\" với tinh thần \"nói KHÔNG với vi phạm và gian lận\" theo 05 tiêu chí Tự giác -Trung thực - Tỉnh táo -Tố giác -Truyền thông, kiện toàn bộ Quy tắc Đạo đức nghề nghiệp theo chuẩn mực mới.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G11": 2
+      }
+    },
+    {
+      "text": "Nước sinh hoạt của Văn phòng được gom vào bể phốt và được đưa vào trạm xử lý nước thải 40m3/ngày-đêm đặt dưới tầng hầm B2. Sau đó được thải ra hệ thống thu gom của nước thải sinh hoạt nước thải của thành phố Hà Nội. Hệ thống xử lý nước thải của SeABank đáp ứng tiêu chuẩn xả thải ra môi trường theo QCVN 14:2008/BTNMT cột B.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "Phù hợp với xu thế chung của nền kinh tế nhằm góp phần thực hiện mục tiêu trong Chiến lược quốc gia về tăng trưởng xanh cũng như hỗ trợ cho các hoạt động kinh doanh thuộc các ngành, lĩnh vực thân thiện với môi trường, thích ứng với biến đổi khí hậu mang lại lợi ích về môi trường (nông nghiệp xanh, công nghiệp xanh, năng lượng tái tạo, năng lượng sạch...), trong giai đoạn 2021 - 2025, SeABank định hướng thúc đẩy hoạt động cấp tín dụng cho lĩnh vực xanh, đồng thời đặt nền tảng để triển khai thực hiện quản lý các rủi ro về môi trường và xã hội trong giai đoạn tiếp theo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S24"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S24"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

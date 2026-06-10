@@ -1,0 +1,80 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 381,
+      "text": "Tính đến thời điểm 31/12/2022 KCN này đã đầu tư 1.326,1 tỷ đồng, trong năm 2022 dự án đã đầu tư là 247,51 tỷ đồng để đền bù , xây dựng nhà máy nước sạch, nhà máy nước thải và hạ tầng KCN. Dự án đang hoàn thiện xây dựng nhà máy nước sạch, hệ thống xử lý nước thải để đáp ứng nhu cầu cung cấp nước sạch và xử lý nước thải cho KCN Nam Sơn Hạp Lĩnh và cung cấp 1 phần nhu cầu nước sạch cho KCN Quế Võ.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 536,
+      "text": "Công tác bảo vệ môi trường, bảo vệ tài nguyên điện, nước luôn được Tổng Công ty quan tâm chú trọng. Từ việc tuân thủ các quy định về thủ tục hành chính theo luật Bảo vệ Môi trường 2020 (có hiệu lực thực thi từ 01/01/2022) cho đến việc thực hiện các công tác Bảo vệ Môi trường (như công trình xử lý nước thải) đảm bảo xử lý toàn bộ nước thải của KCN đạt quy chuẩn vô trùng trước khi thải ra nguồn tiếp nhận, thực hiện đầu tư thêm hệ thống xử lý nước thải dự phòng trong trường hợp khẩn cấp.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 569,
+      "text": "-Xỷ lý nước thải: Công ty SHP đã phối hợp với 2 công ty xử lý nước thải là Công ty TNHH KHCN Môi Trường Quốc Việt và công ty Cổ phần Môi trường xanh Posbee với tổng công suất của 2 nhà máy xử lý nước thải tập trung tại KCN Tràng Duệ là 12.000m3/ngày đêm. Cả hai nhà máy đều đã được Bộ Tài nguyên và Môi trường cấp giấy phép xả thải, đảm bảo đáp ứng xử lý lượng nước thải phát sinh của KCN Tràng Duệ .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 647,
+      "text": "Hiện nay, Tổng Công ty đang có các KCN, Cụm công nghiệp mới được phê duyệt quyết định chủ trương đầu tư và chấp thuận nhà đầu tư bao gồm: Tại Long An có KCN Tân Tập 654 ha, KCN Lộc Giang 466 ha, các Cụm công nghiệp Tân Tập và Phước Vĩnh Đông có diện tích 219,4 ha; Tại Hưng Yên có Cụm công nghiệp Đặng Lễ, Chính Nghĩa Kim động có diện tích là 225 ha. Các dự án này đều do các công ty con là chủ đầu tư, đã sẵn sàng tập trung vào các nhiệm vụ quan trọng sau:",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

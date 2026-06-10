@@ -1,0 +1,70 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 1659,
+      "text": "[TABLE] [CONTEXT] section: Những t hành tựunổi bật niên độ 2016-2017 ; column_headers: Ngày | Danh hiệu/ Giải thưởng | Đơn vị tổ chức/ trao tặng [ROWS] Ngày | Danh hiệu/ Giải thưởng | Đơn vị tổ chức/ trao tặng [ROW] 09/2016 | Top 50 Thương hiệu giá trị nhất Việt Nam năm 2016 | Brand Finance Việt Nam (trụ sở tại Anh) [ROW] Top 30 Báo cáo Thường niên tốt nhất 2016; Báo cáo có nội dung Phát triển bền vững tiến bộ nhất | Sở GDCK TP.HCM và Báo Đầu tư [ROW] 09/2016 | Top 50 Thương hiệu tiêu biểu trong hội nhập kinh tế Châu Á - Thái Bình Dương | Tạp chí Kinh tế Châu Á - Thái Bình Dương phối hợp với Mạng hội đồng Doanh nghiệp Việt Nam (Vietnam Business Council), CLB Doanh nhân Châu Á - Thái Bình Dương, Ấn phẩm đối ngoại Asia Pacific Economic Review và VINABRA - Thương hiệu Việt Nam [ROW] Top 50 Thương hiệu vì Môi trường xanh quốc gia; Top 50 Nhà máy xanh thân thiện; Top 10 sản phẩm thân thiện có lợi cho người tiêu dùng | Hội Kinh tế Môi trường Việt Nam; Chương trình Truyền thông, Xây dựng và Phát triển nền kinh tế xanh quốc gia [ROW] Top 10 Thương hiệu - Sản phẩm - Dịch vụ hàng đầu Việt Nam 2016 | Hiệp hội Chống hàng giả và Bảo vệ thương hiệu Việt Nam (Vatap) cùng Tạp chí Hàng hoá và Thương hiệu [ROW] 16/09/2016 Sản phẩm nông nghiệp tiêu biểu 2015 | Trung ương Hội Nông dân Việt Nam [ROW] Thương vụ M&A giữa công ty CP Mía đường Thành Thành Công Tây Ninh và Công ty cổ phần Đường Biên Hòa (BHS) được bình chọn là Thương vụ Hợp nhất - Sáp nhập tiêu biểu 2017 | Do Báo Đầu tư và AVM Việt Nam bình chọn dưới sự bổ trợ của Bộ Kế hoạch và Đầu tư [ROW] Giấy khen “Đã có thành tích tốt thực hiện tốt chính sách pháp luật thuế 2015” | Tổng Cục Thuế [ROW] 2017 | Top 10 doanh nghiệp tín nhiệm nhất Việt Nam cùng hệ thống ngành kinh tế 2016 | Trung tâm Khoa học Thẩm định Tín nhiệm Doanh nghiệp Quốc gia [ROW] Giải Vàng Chất lượng Quốc gia 2016 | Thủ tướng Chính phủ/ Bộ Khoa học và Công nghệ [ROW] 2017 Thương hiệu Mạnh Việt Nam | Thời báo Kinh tế Việt Nam [ROW] Top 50 Công ty niêm yết tốt nhất Việt Nam 2017 Forbes Việt Nam",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1721,
+      "text": "[TABLE] [CONTEXT] section: T ổng ngân sách cho công tác an sinh xã hội vì cộng đồng năm 2016-2017: 2,1 tỷ đồng ; column_headers: Tiêu chuẩn GRI | Thông tin công bố | Nội dung báo cáo | Trang [ROWS] Tiêu chuẩn GRI | Thông tin công bố | Nội dung báo cáo | Trang [ROW] GRI 306: NƯỚC THẢI VÀ CHẤT THẢI [ROW] Phương pháp quản trị | Quản lý các mối lo hàng đầu về môi trường đối với ngành mía đường | 150 [ROW] Nước thải và quản lý xả thải | 152-153 [ROW] GRI 306-1 | Tổng nước thải theo chất lượng và địa điểm thải | Nước thải và quản lý xả thải | 152-153 [ROW] Quản lý nước xả thải | 154, 155 [ROW] GRI 306-2 | Tổng lượng chất thải theo loại và phương pháp xử lý | Chất thải | 156 [ROW] GRI 306-3 | Sự cố tràn đáng kể | Niên vụ 2016-2017, TTCS không xảy ra sự cố tràn nào | 150 [ROW] GRI 306-5 | Các khu vực chứa nước bị ảnh hưởng bởi tổng lượng nước thải và/hoặc dòng nước thải | Chất nước nước xả thải của TTCS luôn nằm trong giá trị giới hạn cột A nên không gây ảnh hưởng cho môi trường | 153 [ROW] GRI 307: TUÂN THỦ VỀ MÔI TRƯỜNG [ROW] Phương pháp quản trị | Quản lý các mối lo hàng đầu về môi trường đối với ngành mía đường và tuân thủ pháp luật về môi trường | 150, 155 [ROW] GRI 307-1 | Không tuân thủ pháp luật và các quy định về môi trường | Niên vụ 2016-2017, TTCS không xảy ra sự cố môi trường nào và không có vi phạm quy định pháp luật về môi trường. | 150 [ROW] GRI 400: CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN VỀ XÃ HỘI [ROW] GRI 401: VIỆC LÀM [ROW] Phương pháp quản trị | Tóm tắt chính sách và thay đổi trong chính sách đối với người lao động | 87-91 [ROW] Các chính sách liên quan đến người lao động | 162-172 [ROW] GRI 401-1 | Số lượng nhân viên thuê mới và tỷ lệ thôi việc | Tình hình tuyển mới và tỷ lệ thôi việc niên độ 2016-2017 | 83 [ROW] Tỷ lệ thôi việc niên độ 2016-2017 | 166 [ROW] GRI 401-2 | Phúc lợi cung cấp cho nhân viên toàn thời gian không dành cho nhân viên | Chính sách phúc lợi | 90 [ROW] tạm thời hoặc bán thời gian | Các chính sách liên quan đến người lao động | 162-172",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1723,
+      "text": "[TABLE] [CONTEXT] section: T ổng ngân sách cho công tác an sinh xã hội vì cộng đồng năm 2016-2017: 2,1 tỷ đồng ; column_headers: Tiêu chuẩn GRI | Thông tin công bố | Nội dung báo cáo | Trang [ROWS] Tiêu chuẩn GRI | Thông tin công bố | Nội dung báo cáo | Trang [ROW] GRI 405: SỰ ĐA DẠNG VÀ CƠ HỘI BÌNH ĐẲNG [ROW] Phương pháp quản trị | Công bằng trong đánh giá và khen thưởng; Bình đẳng trong đối xử | 167 [ROW] Không phân biệt đối xử | 173 [ROW] GRI 405-1 | Sự đa dạng của cấp quản lý và nhân viên | Cơ cấu lao động | 172 [ROW] GRI 405-2 | Tỷ lệ lương cơ bản và thù lao của phụ nữ so với nam giới | Mức lương cơ bản theo giới tính niên độ 2016-2017 | 172 [ROW] GRI 406: KHÔNG PHÂN BIỆT ĐỐI XỬ [ROW] Phương pháp quản trị | Không phân biệt đối xử | 173 [ROW] GRI 406-1 | Các vụ việc phân biệt đối xử và các hành động khắc phục đã thực hiện | Trong niên độ 2016-2017 không có khiếu nại nào về phân biệt đối xử ở TTCS | 173 [ROW] GRI 407: TỰ DO LẬP HỘI/ QUYỀN THAM GIA CÔNG ĐOÀN VÀ THƯƠNG LƯỢNG TẬP THỂ [ROW] Phương pháp quản trị | Quan hệ giữa người lao động và người sử dụng lao động | 167 [ROW] GRI 408: LAO ĐỘNG TRẺ EM [ROW] Phương pháp quản trị | Quan hệ giữa người lao động và người sử dụng lao động | 167 [ROW] Lao động trẻ em và lao động cưỡng bức 173 [ROW] GRI 409: LAO ĐỘNG CƯỠNG BỨC HOẶC BẮT BUỘC [ROW] Phương pháp quản trị | Quan hệ giữa người lao động và người sử dụng lao động | 167 [ROW] Lao động trẻ em và lao động cưỡng bức 173 [ROW] GRI 411: QUYỀN CỦA NGƯỜI BẢN ĐỊA [ROW] Phương pháp quản trị | Quyền của người dân bản địa | 173 [ROW] GRI 411-1 | Các vụ vi phạm liên quan đến quyền của người bản địa | Niên vụ 2016-2017, TTCS không có vụ vi phạm liên quan đến quyền người bản địa [ROW] GRI 413: CỘNG ĐỒNG ĐỊA PHƯƠNG [ROW] Phương pháp quản trị [ROW] GRI 413-1 | Những hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển | Báo cáo trách nhiệm liên quan đến cộng đồng, địa phương | 174",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "S4": 6,
+        "S6": 6
+      }
+    }
+  ]
+}

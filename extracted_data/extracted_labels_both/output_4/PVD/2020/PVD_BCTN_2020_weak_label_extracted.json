@@ -1,0 +1,106 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Các giàn khoan của PV Drilling tuân thủ tuyệt đối các quy định, công ước, luật định quốc tế và sở tại đối với môi trường. Đối với việc xử lý nước thải tại các giàn khoan ngoài khơi, PV Drilling lắp đặt các hệ thống xử lý nước thải hiện đại để xử lý nước thải sinh hoạt, nước thải sản xuất, nước vỉa,... đạt theo yêu cầu của quy chuẩn Việt Nam hoặc tiêu chuẩn quốc tế trước khi thải xuống biển, phù hợp với những công ước quốc tế mà Việt Nam tham gia. Hệ thống xử lý xả thải ra môi trường luôn được bảo trì bảo dưỡng định kỳ, đảm bảo hoạt động trong điều kiện tốt nhất và luôn đáp ứng được với các tiêu chuẩn/yêu cầu luật định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: PHỤ LỤC 1 DANH SÁCH NGHỊ QUYẾT/QUYẾT ĐỊNH CỦA HĐQT PV DRILLING ; column_headers: 16 | 01/04/2020/NQ-HĐQT | 03/4/2020 | Chấp thuận Hợp đồng thuê - cho thuê thân giàn khoan PV DRILLING V. | 100% [ROWS] 16 | 01/04/2020/NQ-HĐQT | 03/4/2020 | Chấp thuận Hợp đồng thuê - cho thuê thân giàn khoan PV DRILLING V. | 100% [ROW] 17 | 01/04/2020/QĐ-HĐQT | 03/4/2020 | Tạm hoãn tổ chức họp ĐHĐCĐ thường niên năm 2020. | Theo ủy quyền của HĐQT. [ROW] 18 | 02/04/2020/NQ-HĐQT | 22/4/2020 | Ký quỹ và bảo lãnh mở LC theo Hợp đồng NOV. | 100% [ROW] 19 | 03/04/2020/NQ-HĐQT | 27/4/2020 | Thông qua các hợp đồng và giao dịch của PV Drilling và các công ty thành viên. | 83% [ROW] 20 | 04/04/2020/NQ-HĐQT | 29/4/2020 | Ký điều chỉnh hợp đồng cho thuê giàn PV DRILLING V. | 100% [ROW] 21 | 01/05/2020/QĐ-HĐQT | 29/5/2020 | Thành lập Ban chỉ đạo xây dựng chiến lược phát triển PV Drilling. | 100% [ROW] 22 | 01/06/2020/QĐ-HĐQT | 01/6/2020 | Tổ chức họp ĐHĐCĐ thường niên năm 2020. | Theo ủy quyền của HĐQT. [ROW] 23 | 01/06/2020/NQ-HĐQT | 08/6/2020 | Bổ nhiệm Phó giám đốc PVD Logging. | 100% [ROW] 24 | 02/06/2020/QĐ-HĐQT | 08/6/2020 | Bổ nhiệm Phó Tổng giám đốc PV Drilling. | 100% [ROW] 25 | 03/06/2020/QĐ-HĐQT | 08/6/2020 | Bổ nhiệm lại Phó Tổng giám đốc PV Drilling. | 100% [ROW] 26 | 04/06/2020/QĐ-HĐQT | 08/6/2020 | Bổ nhiệm lại Phó Tổng giám đốc PV Drilling. | 100% [ROW] 27 | 02/06/2020/NQ-HĐQT | 10/6/2020 | Thế chấp, cầm cố, bảo lãnh cụm DES. | 100% [ROW] 28 | 03/06/2020/NQ-HĐQT | 11/6/2020 | Sáp nhập Ban Tài chính và Ban Kế toán. | 100% [ROW] 29 | 04/06/2020/NQ-HĐQT | 26/6/2020 | Công tác cán bộ tại PVD Training. | 86% [ROW] 30 | 05/06/2020/NQ-HĐQT | 26/6/2020 | Thông qua nội dung họp ĐHĐCĐ thường niên 2020 của PVD Training. | 100% [ROW] 31 | 06/06/2020/NQ-HĐQT | 26/6/2020 | Thông qua nội dung họp ĐHĐCĐ thường niên 2020 của PVD Tech. | 100% [ROW] 32 | 01/07/2020/NQ-HĐQT | 10/7/2020 | Lựa chọn đơn vị kiểm toán độc lập. | 100% [ROW] 33 | 02/07/2020/NQ-HĐQT | 17/7/2020 | Công tác cán bộ. | 100% [ROW] 34 | 01/07/2020/QĐ-HĐQT | 17/7/2020 | Công tác cán bộ. | 100% [ROW] 35 | 02/07/2020/QĐ-HĐQT | 17/7/2020 | Công tác cán bộ. | 100% [ROW] 36 | 03/07/2020/NQ-HĐQT | 21/7/2020 | Điều chỉnh hợp đồng giàn PV DRILLING V. | 100% [ROW] 37 | 04/07/2020/NQ-HĐQT | 31/7/2020 | Bảo lãnh hạn mức tín dụng ngắn hạn cho PVD Tubulars. | 100% [ROW] 38 | 01/08/2020/NQ-HĐQT | 25/8/2020 | Ký kết các phụ lục điều chỉnh và làm rõ Hợp đồng thuê DES. | 100% [ROW] 39 | 01/08/2020/QĐ-HĐQT | 25/8/2020 | Xếp lương Phó Tổng giám đốc. | 100% [ROW] 40 | 01/09/2020/NQ-HĐQT | 14/9/2020 | Bổ nhiệm Kế toán trưởng PVD Overseas. | 100% [ROW] 41 | 01/10/2020/NQ-HĐQT | 15/10/2020 | Điều chỉnh hạng mục BOP Lifting Rings của Dự án DES. | 100% [ROW] 42 | 02/10/2020/NQ-HĐQT | 27/10/2020 | Chấp thuận các hợp đồng, giao dịch của PV Drilling và người có liên quan của PVN. | 100% [ROW] 43 | 03/10/2020/NQ-HĐQT | 27/10/2020 | Chia lợi nhuận năm 2019 của Liên doanh PVD Baker Hughes. | 100% [ROW] 44 | 01/11/2020/NQ-HĐQT | 12/11/2020 | Sửa đổi Quy chế tiền lương. | 100% [ROW] 45 | 02/11/2020/NQ-HĐQT | 12/11/2020 | Sửa đổi thang bảng lương | 100% [ROW] 46 | 01/12/2020/NQ-HĐQT | 09/12/2020 | Quỹ lương kế hoạch 2020 Công ty mẹ PV Drilling. | 100% [ROW] 47 | 02/12/2020/NQ-HĐQT | 28/12/2020 | Công tác cán bộ. | 100% [ROW] 48 | 03/12/2020/NQ-HĐQT | 28/12/2020 | Chấp thuận điều chỉnh Hợp đồng thuê-cho thuê thân giàn khoan PV DRILLING V. | 100% [ROW] 49 | 04/12/2020/NQ-HĐQT | 28/12/2020 | Gia hạn thời gian chia cổ tức 2019. | 100% [ROW] 50 | 05/12/2020/NQ-HĐQT | 31/12/2020 | Chấp thuận giao dịch mua bán thiết bị khoan dầu khí cho PVD Baker Hughes. | 100%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: V. CẢI TIẾN VỀ CHÍNH SÁCH QUẢN LÝ VÀ TRÁCH NHIỆM LIÊN QUAN ĐẾN MÔI TRƯỜNG NĂM 2020 ; column_headers: Năm 2019 | Năm 2020 | % tăng/giảm ; row_headers: CTR thông thường (tấn) | CTNH (tấn) | Nước thải sinh hoạt (m 3 ) | Nước thải công nghiệp (m 3 ) | Mức tăng/giảm bình quân [ROWS] Chất thải | Năm 2019 | Năm 2020 | % tăng/giảm [ROW] CTR thông thường (tấn) | 212,79 | 240,09 | 12,83 [ROW] CTNH (tấn) | 165,13 | 213,16 | 29,09 [ROW] Nước thải sinh hoạt (m 3 ) | 8.848 | 13.161 | 48,74 [ROW] Nước thải công nghiệp (m 3 ) | 4.420 | 3.758 | (14,94) [ROW] Mức tăng/giảm bình quân | 18,92",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Bảng 3. Tổng lượng chất thải phát sinh năm 2020 ; column_headers: TT | Loại chất thải phát sinh | Đơn vị | Lượng phát thải [ROWS] TT | Loại chất thải phát sinh | Đơn vị | Lượng phát thải [ROW] 1 | Chất thải rắn sinh hoạt | tấn | 211,50 [ROW] 2 | Chất thải rắn công nghiệp thông thường | tấn | 28,59 [ROW] 3 | Chất thải nguy hại | tấn | 213,16",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 14
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 6. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG ; column_headers: Số cuối năm | VND | Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng ; row_headers: Công ty TNHH MTV Điều Hành Thăm Dò Khai Thác Dầu Khí Trong Nước | Dầu khí | Destini Oil Services Sdn Bhd | Các khách hàng khác [ROWS] Số cuối năm [ROW] VND | VND [ROW] Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng | Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng [ROW] Công ty TNHH MTV Điều Hành Thăm Dò Khai Thác Dầu Khí Trong Nước | 45.258.960.685 | (45.253.224.970) | 45.368.376.000 | (40.611.343.520) [ROW] Tổng Công ty Thăm dò Khai thác [ROW] Dầu khí | 28.887.502.450 | (28.185.879.385) | 186.831.633.360 | (150.871.502.080) [ROW] Destini Oil Services Sdn Bhd | 16.246.078.730 | (12.968.958.385) | 987.085.280 | (296.120.960) [ROW] Các khách hàng khác | 20.377.382.945 | (7.602.448.365) | 19.160.098.880 | (9.404.060.000) [ROW] 110.769.924.810 | (94.010.511.105) | 252.347.193.520 | (201.183.026.560)",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

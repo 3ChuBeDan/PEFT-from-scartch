@@ -1,0 +1,163 @@
+{
+  "extracted_count": 10,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E10",
+        "E5",
+        "E85"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E10",
+        "E5",
+        "E85"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "» Nước thải tại các kho xăng dầu phát sinh khi có vệ sinh công nghiệp, nước mưa chảy tràn tại khu vực có khả năng nhiễm dầu. Một số trường hợp phát sinh khi súc rửa bể chứa hoặc đường ống xăng dầu. Bằng các phương pháp quản lý khác nhau, lượng bùn thải này có thể được các công ty súc rửa mang đi xử lý như chất thải nguy hại. Petrolimex đang nghiên cứu và hoàn thiện phương án chuẩn hóa hệ thống thu gom và xử lý nước thải nhiễm dầu tại các kho xăng dầu để áp dụng trên toàn hệ thống.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Định kỳ hàng năm, các đơn vị phối hợp với đơn vị tư vấn có đầy đủ năng lực tiến hành quan trắc môi trường tại các kho, cảng xăng dầu, tuyến ống xăng dầu và các cửa hàng xăng dầu theo nội dung được phê duyệt tại các báo cáo đánh giá tác động môi trường/Cam kết/Kế hoạch/Đề án BVMT, báo cáo xả nước thải vào nguồn nước và các quy định, hướng dẫn của Nhà nước. Qua kết quả phân tích cho thấy các thông số môi trường hàng năm đều nằm trong giới hạn cho phép của các quy chuẩn và tiêu chuẩn Việt Nam hiện hành. Sau mỗi đợt quan trắc môi trường định kỳ các đơn vị đã gửi báo cáo kết quả quan trắc môi trường định kỳ về cơ quan quản lý môi trường địa phương theo quy định. Trong năm 2022, Petrolimex không bị xử phạt vi phạm do không tuân thủ các quy định về môi trường.",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E_COMMON": 5
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Để thực hiện sứ mệnh mới \"Nâng cao giá trị cho cổ đông, mang lại lợi ích cho người lao động, cộng đồng; nâng cao giá trị cuộc sống; góp phần phục vụ sự nghiệp phát triển kinh tế xã hội của đất nước\", Petrolimex sẽ nỗ lực trở thành Tập đoàn số 1 tại Việt Nam về kinh doanh sản phẩm năng lượng sạch, thân thiện với môi trường vào năm 2030, đến năm 2045 sẽ đạt 100% tỷ trọng năng lượng sạch và thân thiện với môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Hệ thống quản lý chất thải của Petrolimex đảm bảo chất thải nguy hại và chất thải rắn thông thường được thu gom triệt để, không gây nguy hại cho môi trường, ảnh hưởng nguồn nước ngầm chảy ra biển.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

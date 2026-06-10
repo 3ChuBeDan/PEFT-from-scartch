@@ -1,0 +1,45 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "-Giám sát việc lắp đặt các thiết bị Hệ thống xử lý nước thải, khí thải, kho chứa chất thải nguy hại, chất thải rắn đảm bảo tuân thủ đúng thiết kế và yêu cầu của pháp luật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Thống kê đánh giá, tình hình quản lý chất thải: ; column_headers: STT | CHỈ TIÊU | ĐVT | LƯỢNG PHÁT THẢI | LƯỢNG XỬ LÝ | MỨC ĐỘ XỬ LÝ (TỐT/BÌNH THƯỜNG/ CHƯA TỐT) [ROWS] STT | CHỈ TIÊU | ĐVT | LƯỢNG PHÁT THẢI | LƯỢNG XỬ LÝ | MỨC ĐỘ XỬ LÝ (TỐT/BÌNH THƯỜNG/ CHƯA TỐT) [ROW] 1 | Nước thải sản xuất | m3/năm | 156.280 | 156.280 | Tốt [ROW] 2 | Nước thải sinh hoạt | m3 /năm | 8.801 | 8.801 | Tốt [ROW] 3 | Nước làm mát | m3 /năm | 20.193.584 | 20.193.584 | Tốt [ROW] 4 | Khí thải | Mm3 /h | 5.513.240 | 5.513.240 | Tốt [ROW] 5 | Chất thải rắn sinh hoạt | Kg/năm | 137.100 | 137.100 | Tốt [ROW] 6 | Chất thải rắn công nghiệp | Kg/năm | 517.080 | 517.080 | Tốt [ROW] 7 | Chất thải nguy hại | Kg/năm | 169.594 | 169.594 | Tốt",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 10
+      }
+    }
+  ]
+}

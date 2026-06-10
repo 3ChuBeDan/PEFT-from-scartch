@@ -1,0 +1,198 @@
+{
+  "extracted_count": 10,
+  "extracted": [
+    {
+      "paragraph_id": 449,
+      "text": "Nguồn năng lượng sơ cấp (khí, dầu, than) suy giảm sản lượng và lệch pha với nhu cầu vận hành sản xuất, ảnh hưởng lớn đến khả năng vận hành, giảm sức cạnh tranh các nhà máy nhiệt điện của PV Power. Sự suy giảm sản lượng cung cấp của nguồn khí Đông Nam Bộ cùng với việc Hợp đồng mua bán khí cung cấp cho Nhà máy điện Nhơn Trạch 1 hết thời điểm cam kết lượng khí tối thiểu nên sẽ ảnh hưởng đến hiệu quả tham gia thị trường các nhà máy điện; nguồn cung cấp khí Tây Nam Bộ cho khu Điện-Đạm-Khí Cà Mau đi vào giai đoạn suy giảm, phải chia sẻ khí cho nhà máy xử lý khí Cà Mau. Tại Nhà máy điện Vũng Áng 1, việc thiếu than và phải sử dụng 100% than cám 5a10 và tỷ lệ than phối trộn có chất bốc cao >10% làm gia tăng khả năng xảy ra sự cố.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 484,
+      "text": "1 ến Với việc giảm nguồn than trong nước trong giai đoạn vừa qua và hiện nay, Nhà máy điện Vũng Áng 1 phải sử dụng than cám 5b10 (nhập khẩu), than 5a14 (trộn) với giá 1 cao, tăng từ tháng 3/2024 đến nay, cùng với đó SHT tăng cao hơn so với định mức 1 được thanh toán từ PPA làm giảm sự cạnh tranh khi tham gia thị trường điện, vận hành sản xuất hiệu quả sản xuất kinh doanh điện của Nhà máy điện Vũng Áng 1.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 628,
+      "text": "Các sáng kiến và biện pháp giảm thiểu phát thải khí nhà kính: Theo kế hoạch đã đăng ký với PVN và được ban hành theo kế hoạch chung của PVN tại Quyết định số 2128/QĐ-DKVN ngày 19/04/2024 về việc \"Ban hành kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu của Tập đoàn Dầu khí, giai đoạn 2018-2030\" PV Power có 13 dự án giảm nhẹ phát thải khí nhà kính thực hiện tại các nhà máy điện, dự kiến theo tính toán của PVN sẽ giảm thiểu được 160.884 tấn CO 2 e trong giai đoạn 2018-2025 và 109.420 tấn CO 2 e trong giai đoạn 2026-2030. Trong đó, trừ giải pháp vận hành Nhà máy Nhiệt điện Nậm Cắt (hiện nay không thuộc sở hữu PV Power), 12 giải pháp còn lại dự kiến giảm thiểu 101.252 tấn CO 2 e trong giai đoạn 2018-2025 và 72.150 tấn CO 2 e trong giai đoạn 2026-2030.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 700,
+      "text": "Nhà máy điện Vũng Áng 1 phải sử dụng than cám 5a.14 và than nhập khẩu tại Lào, làm giảm sức cạnh tranh khi tham gia thị trường do tăng suất hao và giá than.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 718,
+      "text": "Về lĩnh vực cung ứng nhiên liệu: PV Power đã nỗ lực phối hợp với các nhà cung cấp để đảm bảo nguồn than cấp ổn định, đảm bảo tồn kho an toàn, không xảy ra tình trạng thiếu than, kiểm soát tốt chất lượng than. Chủ động tìm kiếm nguồn than bổ sung, mở ra hướng mới là đốt than Lào, loại than phù hợp với thiết kế của nhà máy.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 6
+      }
+    },
+    {
+      "paragraph_id": 729,
+      "text": "Đối với dự án LNG Quảng Ninh: Công ty Cổ phần Điện khí LNG Quảng Ninh đã trình lại Bộ Công thương thẩm định Báo cáo NCKT Dự án sau khi đã hoàn thiện báo cáo đánh giá tác động môi trường, báo cáo PCCC, cập nhật Báo cáo NCKT. Đang triển khai lập báo cáo Đánh giá tác động môi trường và xã hội (ESIA); Hoàn thiện và ký hợp đồng với tư vấn quốc tế, hợp đồng với Ban QLDA Điện thực hiện lập hồ sơ mời thầu EPC dự án; Đang làm việc với địa phương về công tác đền bù GPMB, chuẩn bị công tác thuê tư vấn thiết kế san lấp mặt bằng.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 4
+      }
+    },
+    {
+      "paragraph_id": 786,
+      "text": "Tìm kiếm nguồn và đảm bảo cấp than (ưu tiên nguồn than cám 5a.10) ổn định, liên tục và dài hạn cho nhà máy điện Vũng Áng 1; triển khai tốt công tác tiêu thụ tro xỉ nhằm đảm bảo vận hành an toàn, liên tục cho nhà máy điện Vũng Áng 1. Triển khai đàm phán giá điện chính thức nhà máy điện Vũng Áng 1 sau khi quyết toán vốn đầu tư dự án được phê duyệt; cũng như đệ trình các cấp có thẩm quyền và đàm phán với EVN về giá điện khi sử dụng than chất bốc cao.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1323,
+      "text": "[TABLE] [CONTEXT] section: DANH MỤC VIẾT TẮT [ROWS] BCTC | Báo cáo tài chính [ROW] CTCP | Công ty Cổ phần [ROW] ĐHĐCĐ | Đại hội đồng cổ đông [ROW] EVN | Tập đoàn Điện lực Việt Nam - Công ty TNHH MTV [ROW] EVNEPTC | Công ty Mua bán điện (đơn vị được EVN ủy quyền) [ROW] EVNI | CTCP EVN Quốc tế [ROW] GPMB | Giải phóng mặt bằng [ROW] HĐQT | Hội đồng quản trị [ROW] Hợp đồng GSA | Hợp đồng bán khí (GSA) là hợp đồng bán khí giữa bên bán khí với các hộ tiêu thụ khí hạ nguồn [ROW] IPO | Chào bán lần đầu ra công chúng [ROW] LNG | Liquefied Natural Gas (Khí tự nhiên hóa lỏng) [ROW] MTV | Một thành viên [ROW] NCC | CTCP Thủy điện Nậm Chiến [ROW] NCKT | Nghiên cứu khả thi [ROW] NLTT | Năng lượng tái tạo [ROW] NSMO | Công ty TNHH MTV Vận hành hệ thống điện và thị trường điện Quốc gia [ROW] O&M | Operate and Maintenance (Bảo dưỡng và sửa chữa) [ROW] PCCC | Phòng cháy chữa cháy [ROW] PPA | Power Purchase Agreement (Hợp đồng mua bán điện)",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1336,
+      "text": "[TABLE] [CONTEXT] section: CTCP NĂNG LƯỢNG TÁI TẠO ĐIỆN LỰC DẦU KHÍ [ROWS] TÊN ĐẦY ĐỦ | CTCP NĂNG LƯỢNG TÁI TẠO ĐIỆN LỰC DẦU KHÍ [ROW] Địa chỉ | Tầng 05, tòa nhà Viện Dầu khí Việt Nam, số 167 đường Trung Kính, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội, Việt Nam [ROW] Mã số | 0109308963 [ROW] Ngành nghề kinh doanh chính | Sản xuất, truyền tải và bán điện; Nghiên cứu, đầu tư, phát triển, xây dựng, sở hữu, vận hành, khai thác các dự án năng lượng sạch, năng lượng tái tạo (điện gió, điện mặt trời, sinh khối, địa nhiệt và điện rác và các loại hình năng lượng tái tạo khác) [ROW] Vốn điều lệ | 270.000.000.000 đồng [ROW] Tỉ lệ nắm giữ của PV POWER | 51%",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 6
+      }
+    },
+    {
+      "paragraph_id": 1354,
+      "text": "[TABLE] [CONTEXT] section: BÁO CÁO ĐÁNH GIÁ LIÊN QUAN ĐẾN TRÁCH NHIỆM Ề ỜÀ ỦỔ VỀ MÔI TRƯỜNG VÀ XÃ HỘI CỦA TỔNG CÔNG TY [ROWS] CHỈ TIÊU | ĐƠN VỊ [ROW] Nước sạch tiêu thụ | m 3 | 1.929.950 [ROW] Nước mặt làm mát(1) | m 3 | 1.517.767.337 [ROW] Tiêu thụ năng lượng (tỉ lệ điện tự dùng) | 4,21% [ROW] Tổng lượng khí thải | triệu m 3 | 123,83 [ROW] Tổng lượng nước thải(2) | m 3 | 282.796.205 [ROW] Chất thải rắn thông thường | tấn | 823,46 [ROW] Tro xỉ nhiệt điện than | tấn | 788.894 [ROW] Chất thải nguy hại | tấn | 414,70",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5,
+        "E3": 1
+      }
+    }
+  ]
+}

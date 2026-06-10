@@ -1,0 +1,116 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 816,
+      "text": "Trên cơ sở phân loại chất thải, Công ty bố trí các khu vực chức năng để lưu trữ phù hợp và phối hợp với các Nhà thầu có chức năng, giấy phép môi trường phù hợp để thu gom, xử lý định kỳ. Đối với chất thải rắn có khả năng tái sử dụng như xà bần sẽ được tận dụng để san ủi các điểm trũng trong dự án. Chất thải rắn sinh hoạt được phân loại tại nguồn, thu gom hàng ngày. Riêng chất thải nguy hiểm sẽ bố trí các thùng chứa có nhãn dán, gắn biển báo nhà kho chứa chất thải nguy hiểm và đảm bảo xử lý đúng Quy trình.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 817,
+      "text": "Việc xử lý nước thải tại các dự án được thực hiện chặt chẽ, có bể chứa nước thải xây dựng, tái sử dụng nguồn nước để vệ sinh đường và làm mát công trường sau quá trình xử lý đáp ứng yêu cầu về bảo vệ môi trường; nước thải sinh hoạt được thu gom và xử lý định kỳ; nước thải phát sinh từ nhà và công trình sẽ được xử lý sơ bộ qua bể tự hoại và thu gom vào trạm xử lý nước thải tập trung để xử lý theo đúng quy định hiện hành.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 1192,
+      "text": "Ban Tổng Giám đốc không nhận thấy có bất kỳ thông tin nào liên quan đến gian lận hoặc nghi ngờ gian lận có thể có ảnh hưởng đến Tập đoàn và liên quan đến: Ban Tổng Giám đốc; Ban Giám đốc các đơn vị thành viên; những nhân viên có vai trò quan trọng trong kiểm soát nội bộ; hoặc các vấn đề khác mà gian lận có thể ảnh hưởng trọng yếu đến Báo cáo tài chính hợp nhất.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 2731,
+      "text": "Based on waste classification, the Company designates functional areas for appropriate storage and coordinates with Contractors who have the relevant environmental functions and licenses for periodic collection and treatment. Reusable solid waste, such as construction debris, will be utilized to level low-lying areas within the project. Household solid waste is sorted at the source and collected daily. As for hazardous waste, labeled containers and marked warehouses for hazardous waste are arranged, ensuring proper handling according to procedures.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "paragraph_id": 2732,
+      "text": "Wastewater treatment at projects is carried out strictly, with construction wastewater storage tanks, and reuse of treated water for road cleaning and site cooling to meet environmental protection requirements; domestic wastewater is collected and treated periodically; wastewater from buildings and structures is preliminarily treated through septic tanks and collected into centralized wastewater treatment plants for proper treatment according to current regulations.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 3141,
+      "text": "The Board of Management do not perceive any information related to fraud or suspected fraud that could affect the Group and relate to: the Board of Management; the Management of subsidiaries; employees with significant roles in internal control; or other matters where fraud could materially impact the Consolidated Financial Statements.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 440,
+      "text": "Khi Công ty phải ngừng hoạt động sản xuất kinh doanh theo quy định của Chính phủ, chỉ có thể bố trí việc làm cho 30% lao động, 70% lao động còn lại phải ngừng việc nhưng Công ty vẫn cố gắng duy trì mức tiền lương tối thiểu hằng tháng cho người lao động, không để cho người lao động rơi vào tình trạng khó khăn. Bên cạnh đó, Công ty còn thực hiện các khoản trợ cấp thêm để giảm bớt khó khăn cho người lao động, bình quân mỗi người lao động được nhận hơn mức lương tối thiểu là 40%.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "G9": 0.5,
+        "S4": 1.0
+      },
+      "themes": [
+        "G9",
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 1,
+        "S4": 3
+      }
+    },
+    {
+      "paragraph_id": 519,
+      "text": "Chất thải: Tất cả các loại chất thải được Công ty tổ chức phân loại từ nguồn, do đó thuận lợi trong việc quản lý, chuyển giao cho các đơn vị chuyên ngành và được Nhà nước cấp phép để xử lý. Toàn bộ 100% chất thải nguy hại đã được bàn giao cho đơn vị có chức năng xử lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 980,
+      "text": "[TABLE] [CONTEXT] section: VI. BÁO CÁO ESG: ; column_headers: Khía cạnh | Mục đánh giá | Chi tiết đánh giá | Kết quả | Đánh giá ; row_headers: Môi trường | Chính sách | Hệ thống quản lý | Chỉ số hiệu suất | Xã hội | Quản trị | Quyền của ổ Qy cổ đông | Đảm bảo vai trò của các bên liên quan | Công bố và minh bạch thông tin | Trách nhiệm của Hội đồng quản trị | Môi trường ể kiểm soát [ROWS] Khía cạnh | Mục đánh giá | Chi tiết đánh giá | Kết quả | Đánh giá [ROW] Môi trường | Chính sách | - Sự hiện diện của chính sách môi trường. - Nội dung của chính sách môi trường: ề g + Các khía cạnh đề cập. + Quy mô chính sách. ế y + Độ chi tiết của nội dung chính sách. | 100% | Công ty thực hiện tốt ố g y và có thống kê/báo cáo đáng tin cậy. [ROW] Hệ thống quản lý | - Trách nhiệm Ban Lãnh đạo. - Hệ thống quản lý môi trường. ể g qý g - Nghiên cứu và phát triển liên quan đến môi trường. | 75% | Công ty thực hiện tốt ố g y và có thống kê/báo cáo đáng tin cậy. [ROW] Chỉ số hiệu suất | - Nguyên vật liệu. - Năng lượng. - Nước. - Đa dạng sinh học. ấắ g - Xử lý chất thải rắn, nước thải, khí thải. ý - Đánh giá tác động môi trường của nhà cung cấp. - Tuân thủ pháp luật môi trường. | 69% | Công ty thực hiện tốt, g y tuy nhiên Công ty có yếu ố ể ề y g y tố có thể cải thiện về: Chỉ số hoạt động hiệu ề g quả về môi trường. [ROW] Xã hội | Chính sách | - Chính sách về mối quan hệ với người lao động. ề ề qgg - Chính sách về đảm bảo quyền con người, bình ẳốố qy đẳng và chống phân biệt đối xử. ề ồ g g p - Chính sách về cộng đồng địa phương. ố g g p - Chính sách đối với khách hàng. | 35% | Công ty có một số yếu ố ầ g y y tố cần cải thiện hoặc thông tin cung cấp chưa ầềề g g p đầy đủ về: Chính sách về xã hội. [ROW] Hệ thống quản lý | - Yếu tố quản lý trong mối quan hệ với người lao động. ếố ề ềẳ qý g qg - Yếu tố quản lý về quyền con người, bình đẳng và ốố qý qy chống phân biệt đối xử. ếố ố g p - Yếu tố quản lý trong mối quan hệ cộng đồng địa phương. ếố ốố qý g qg g pg - Yếu tố quản lý trong mối quan hệ đối với khách hàng. | 53% | Công ty thực hiện tốt, g y tuy nhiên Công ty có yếu ố ể ề y g y tố có thể cải thiện về: Các thực hành quản lý ề qý về trách nhiệm xã hội. [ROW] Chỉ số hiệu suất | - Chỉ số đo lường về mối quan hệ với người lao động. ố ề ềẳ g qg - Chỉ số đo lường về quyền con người, bình đẳng và ốố g qy chống phân biệt đối xử. ố ề ố g p - Chỉ số đo lường về mối quan hệ cộng đồng địa phương. ố ốố g qg g p - Chỉ số đo lường mối quan hệ đối với khách hàng. | 56% | Công ty thực hiện tốt, g y tuy nhiên Công ty có yếu ố ể ề y g y tố có thể cải thiện về: Các chỉ số về mặt xã hội của Công ty. [ROW] Quyền của ổ Qy cổ đông | - Quy trình tổ chức đại hội đồng cổ đông. ếế y g g - Chính sách liên quan đến khiếu nại của cổ đông. ồ qg - Chính sách xác định mức thù lao Hội đồng quản trị. ổ - Thực hiện chi trả cổ tức đúng thời hạn. | 78% | Công ty thực hiện tốt ố g y và có thống kê/báo cáo đáng tin cậy. [ROW] Đảm bảo vai trò của các bên liên quan | - Xác định các bên liên quan của Công ty. ầấ qg y - Có chính sách, phương thức và tần suất tương tác với các bên liên quan. | 50% | Công ty thực hiện tốt, g y tuy nhiên Công ty có yếu ố ể ề y g y tố có thể cải thiện về: Đảm bảo vai trò của các bên liên quan. [ROW] Quản trị | Công bố và minh bạch thông tin | - Có bộ phận chịu trách nhiệm truyền thông ra bên ngoài và lưu trữ thông tin theo quy định. ố ề gg qy - Công bố thông tin về tính độc lập của Thành viên hội ồ g g đồng quản trị. g q - Thực hiện công bố thông tin về thù lao của từng TV ể g g HĐQT, Ban TGĐ/GĐ, Ban kiểm soát. | 67% | Công ty thực hiện tốt, tuy nhiên Công ty có ếố ể ề y g y yếu tố có thể cải thiền ềố y về: Công bố thông tin và minh bạch. [ROW] Trách nhiệm của Hội đồng quản trị | - Các vấn đề về kiêm nhiệm. - Cơ cấu HĐQT về tính độc lập, đa dạng về kiến thức, kinh nghiệm và giới tính. ể gg - Việc thành lập các tiểu ban HĐQT và phân bổ TV độc ể p lập HĐQT vào các tiểu ban đó. | 36% | Công ty có một số yếu ố ầ g y y tố cần cải thiện hoặc thông tin cung cấp chưa ầề g g p đầy đủ về: Trách nhiệm ồ y của Hội đồng quản trị. [ROW] Môi trường ể kiểm soát | - Thiết lập hệ thống kiểm soát nội bộ và khung quản lý rủi ro hiệu quả. Ủ q - Thành lập Ủy ban kiểm toán hỗ trợ HĐQT rà soát định ốể p y kỳ hiệu quả của hệ thống kiểm soát nội bộ của Công ty. ếể ỳ qg g y - Thiết lập các tiêu chí lựa chọn Công ty kiểm toán độc lập. | 33% | Công ty có một số yếu ố ầ g y y tố cần cải thiện hoặc thông tin cung cấp chưa ầề g g p đầy đủ về: Môi trường ể y kiểm soát.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.75,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 3,
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

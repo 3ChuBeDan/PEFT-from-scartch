@@ -1,0 +1,116 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 301,
+      "text": "Dự án phòng chống tội phạm, gian lận tài chính & rửa tiền – Oracle Financial Crime and Compliance Management (Oracle FCCM)",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 343,
+      "text": "Năm 2023 OCB thực hiện đầu tư, triển khai và đưa vào vận hành hệ thống quản lý gian lận trên nền tảng IBM® Safer Payments để giám sát, chủ động ngăn chặn và quản lý các hành vi gian lận trong hoạt động ngân hàng đa kênh kỹ thuật số hướng đến việc bảo vệ khách hàng, mang lại trải nghiệm tối ưu, an toàn khi sử dụng sản phẩm dịch vụ, giảm thiểu tổn thất cho ngân hàng và đáp ứng các quy định của NHNN về giám sát giao dịch và phòng chống gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 536,
+      "text": "Đặc biệt, năm 2023 OCB thực hiện đầu tư, triển khai và đưa vào vận hành hệ thống quản lý gian lận trên nền tảng IBM® Safer Payments để giám sát, chủ động ngăn chặn và quản lý các hành vi gian lận trong hoạt động ngân hàng đa kênh kỹ thuật số hướng đến việc bảo vệ khách hàng, mang lại trải nghiệm tối ưu, an toàn khi sử dụng sản phẩm dịch vụ, giảm thiểu tổn thất cho ngân hàng và đáp ứng các quy định của NHNN về giám sát giao dịch và phòng chống gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 591,
+      "text": "Có thể nói, năm 2023 là năm bản lề để OCB tái khởi động các chiến dịch hướng đến mục tiêu trở thành ngân hàng xanh. Cụ thể, OCB đã và đang từng bước xanh hóa hoạt động ngân hàng, hướng dòng vốn tín dụng vào việc tài trợ dự án thân thiện với môi trường, thúc đẩy các ngành sản xuất, dịch vụ, tiêu dùng xanh, năng lượng sạch và năng lượng tái tạo; góp phần tích cực thúc đẩy tăng trưởng xanh, phát triển bền vững.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1012,
+      "text": "[TABLE] [CONTEXT] section: QUẢN TRỊ CÔNG TY ; column_headers: STT | Tên dự án | Diễn giải | Lợi ích mang lại Tình trạng [ROWS] STT | Tên dự án | Diễn giải | Lợi ích mang lại Tình trạng [ROW] 8 | Ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử trong 1 số hoạt động NH | Nâng cấp các hệ thống liên quan để triển khai ứng dụng dữ liệu dân cư, định danh và xác thực điện tử trong các giao dịch on boarding, giao dịch tại các kênh quầy, OMNI, Thẻ nhằm gia tăng tiện ích cung cấp đến khách hàng và tăng cường độ an toàn trong giao dịch | Gia tăng sản phẩm dịch vụ, tiện ích cung cấp đến khách hàng | Đã hoàn tất [ROW] 9 | Xây dựng hệ thống Fraud management system | Trển khai hệ thống giám sát/phát hiện giao dịch gian lận cho các giao dịch thẻ, online nhằm gia tăng mức độ an toàn trong giao dịch | Gia tăng năng lực giám sát và quản trị rủi ro, đảm bảo an toàn giao dịch | Đã hoàn tất [ROW] 10 | Dự án Mở tài khoản KHDN Online (eKYC) | Triển khai dịch vụ mở tài khoản Online cho khách hàng nhằm gia tăng tiện ích cho khách hàng qua đó gia tăng khách hàng mới và doanh thu | Gia tăng sản phẩm dịch vụ, tiện ích cung cấp đến khách hàng | Đã hoàn tất [ROW] 11 | Dự án Hệ thống cảnh báo nợ sớm (EWS) | Triển khai hệ thống cho phép cảnh báo nợ sớm giúp các đơn vị chuyên môn có phương án/biện pháp xử lý kịp thời và hiệu quả | Gia tăng năng lực giám sát và quản trị rủi ro, đảm bảo an toàn giao dịch | Đã hoàn tất [ROW] 12 | Dự án OMNI CORP App (Phase 2) | Nâng cấp/bổ sung các dịch vụ, tiện ích dành cho khách hàng doanh nghiệp nhằm gia tăng sức thu hút khách hàng mới, giữ chân khách hàng hiện hữu qua đó gia tăng doanh thu và phí dịch vụ | Gia tăng sản phẩm dịch vụ, tiện ích cung cấp đến khách hàng | Đã hoàn tất [ROW] 13 | Hệ thống báo cáo mới thay thế cho thông tư 11 | Triển khai hệ thống báo cáo NHNN mới thay thế cho hệ thống báo cáo theo thông tư 11 | Mục tiêu đáp ứng tuân thủ chế độ báo cáo thống kê NHNN | Đã hoàn tất",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1030,
+      "text": "[TABLE] [CONTEXT] section: 1. OCB – BẢN SẮC VĂN HÓA PHƯƠNG ĐÔNG ; caption: Tại OCB, không có sự khác biệt về mức lương tối thiểu vùng đang áp dụng cho người lao động nam và nữ. ; column_headers: Vùng | Tỷ lệ % so với mức lương tối thiểu vùng | Mức lương tối thiểu đối với Nam | Mức lương tối thiểu đối với Nữ [ROWS] Vùng | Tỷ lệ % so với mức lương tối thiểu vùng | Mức lương tối thiểu đối với Nam | Mức lương tối thiểu đối với Nữ [ROW] 1 | Bằng 107% mức lương tối thiểu vùng | 5.007.600 đồng | 5.007.600 đồng [ROW] 2 | Bằng 108% mức lương tối thiểu vùng | 4.451.200 đồng | 4.451.200 đồng [ROW] 3 | Bằng 111% mức lương tối thiểu vùng | 3.894.800 đồng | 3.894.800 đồng",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "PVCFC là nơi tập trung những nhân sự Việt Nam ưu tú, tài năng và bản lĩnh, tinh thần làm việc quyết liệt hướng về những mục tiêu chung đã đặt ra. Mỗi thành viên PVCFC luôn chủ động trong công việc và nỗ lực học hỏi, phấn đấu không ngừng để hoàn thiện bản thân, luôn lấy văn hoá doanh nghiệp và tinh thần của 7 thói quen hiệu quả mà Công ty triển khai vào đầu năm 2016 làm kim chỉ nam. Đây cũng là khởi điểm cho một nền văn hoá PVCFC có phong cách làm việc hiện đại, toàn cầu hoá kết hợp hài hoà những giá trị truyền thống tốt đẹp của dân tộc Việt Nam, là tiền đề cho một Công ty tiên phong trong lĩnh vực phân bón nông nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CỦA CÁC BÊN LIÊN QUAN [ROWS] ĐỐI VỚI KHÁCH HÀNG - NHÀ NÔNG | » Lấy sự tin tưởng và hài lòng của khách hàng làm thước đo giá trị chất lượng sản phẩm và uy tín thương hiệu trên thị trường. » Đảm bảo cung cấp cho thị trường những sản phẩm chất lượng, phù hợp với nhiều loại đất, nhiều loại cây trồng, thân thiện với môi trường và giá cả hợp lý. » Thể hiện sự tri ân đối với khách hàng thông qua việc tổ chức các chương trình đồng hành, gắn kết cùng bà con nhà nông “Hạt Ngọc Mùa Vàng, Gởi Ngàn Tri Ân”; chương trình khuyến mại và chính sách hậu mãi sau bán hàng. [ROW] ĐỐI VỚI KHÁCH HÀNG - NHÀ PHÂN PHỐI, ĐẠI LÝ | » Cam kết lợi ích lâu dài cho nhà phân phối, đặc biệt là hệ thống đại lý thông các hoạt động hỗ trợ về xúc tiến bán hàng tại điểm bán, các chương trình hội thảo nông dân, kho bãi, vận chuyển, khuyến mại, chiết khấu thương mại... theo chính sách bán hàng của Công ty. » Hỗ trợ kiến thức tư vấn về sản phẩm mới N46.Plus mà Công ty đã phân phối ra thị trường trong năm 2016, tư vấn rõ về hiệu quả sử dụng và sự thân thiện với môi trường. [ROW] ĐỐI VỚI NHÂN VIÊN | » Ý thức con người là yếu tố quan trọng nhất của sự phát triển doanh nghiệp, PVCFC luôn áp dụng các chế độ phúc lợi, các chính sách đãi ngộ hấp dẫn cũng như xây dựng môi trường làm việc thân thiện, đoàn kết, thi đua cùng phát triển cho CBCNV. » Dự kiến trong năm 2017, PVCFC áp dụng đánh giá hiệu quả công việc bằng KPI giúp Công ty đánh giá công bằng và minh bạch hơn năng lực của CBCNV, đảm bảo cho người lao động thực hiện đúng các trách nhiệm công việc ở từng vị trí, chức danh cụ thể. » PVCFC không ngừng nghiên cứu ban hành, sửa đổi một số chính sách về lương, thưởng, phụ cấp rõ ràng sao cho thỏa đáng với công sức và tâm huyết của người lao động, đặc biệt có những chế độ trợ cấp phù hợp cho công nhân làm việc tại Nhà máy. [ROW] ĐỐI VỚI ĐỐI TÁC | » Thực hiện trên nguyên tắc kinh doanh công bằng, chính trực, đôi bên cùng có lợi trong mọi hoạt động hợp tác kinh doanh cùng PVCFC. » Xây dựng cơ chế hợp tác minh bạch, trong đó không có tình trạng cố tình gây khó khăn vì lợi ích cá nhân, làm ảnh hưởng đến hoạt động chung của Công ty. » Thực hiện đối xử công bằng giữa các đối tác trong và ngoài nước.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÁC GIẢI PHÁP GIÚP HOẠT ĐỘNG BẢO VỆ MÔI TRƯỜNG NGÀY CÀNG HOÀN THIỆN [ROWS] Vận hành và kiểm tra thường xuyên hệ thống xử lý nước thải đảm bảo nước thải đầu ra đạt chuẩn QCVN 14/2008/BTNMT, QCVN 40:2011/BTNMT. [ROW] Vận hành, theo dõi các thông số về khí thải đảm bảo các chỉ tiêu xả thải đạt QCVN19/2009/BTNMT, QCVN21/2009/BTNMT. [ROW] Tăng cường thực hiện công tác an toàn vệ sinh lao động công nghiệp trong khu vực sản xuất và các khu vực gia công, chế tạo. [ROW] Trang bị bảo hộ lao động và giám sát việc thực hiện công tác bảo vệ môi trường của công nhân. [ROW] Xử lý tốt chất thải rắn bằng cách thu gom và xử lý theo Nghị định 38/2015/ NĐ-CP và Thông tư 36/2015/TT-BTNMT. [ROW] Thực hiện thường xuyên các chương trình quan trắc môi trường theo định kỳ. [ROW] Trồng cây xanh xung quanh khuôn viên tạo cảnh quan và không khí trong lành.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

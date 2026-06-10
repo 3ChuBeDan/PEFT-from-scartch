@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Với mục tiêu góp phần thúc đẩy giáo dục cả nước nói chung và phát triển tỉnh nhà Đồng Tháp nói riêng, qua nhiều năm gắn bó với chương trình Quỹ Khuyến học Nguyễn Sinh Sắc, Imexpharm ngày càng gia tăng đầu tư cho chương trình cả về vật chất lẫn tinh thần, từ đó đẩy mạnh truyền thông về giá trị của việc học tập và khuyến khích tinh thần học tập rèn luyện không ngừng để phát triển bản thân và đóng góp cho gia đình, xã hội của thế hệ trẻ .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

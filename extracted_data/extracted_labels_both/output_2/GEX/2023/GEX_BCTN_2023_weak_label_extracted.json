@@ -1,0 +1,45 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Rủi ro chính trị, chiến tranh, thiên tai: Căng thẳng địa chính trị giữa các quốc gia trên thế giới có thể gây ra các rủi ro lớn trong hoạt động kinh doanh, chuỗi cung ứng của các đơn vị trong hệ thống GELEX dẫn đến gián đoạn chuỗi cung ứng và giảm doanh số bán hàng. Thêm vào đó, thiên tai và các hiện tượng thời tiết cực đoan như El Nino cũng gây ảnh hưởng tiêu cực đến hoạt động sản xuất kinh doanh của GELEX cũng như tình hình phát triển chung của kinh tế Việt Nam. Để góp phần vào mục tiêu ứng phó biến đổi khí hậu như Việt Nam đã cam kết tại COP26, GELEX tiếp tục đầu tư vào lĩnh vực năng lượng tái tạo cũng như hướng tới sản xuất xanh, đáp ứng các tiêu chuẩn quốc tế cũng như nghiên cứu đưa ra thị trường nhiều sản phẩm xanh, thân thiện môi trường để hướng đến mô hình kinh doanh bền vững, thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "GELEX nghiên cứu và phát triển KCN theo mô hình mới xanh và thân thiện môi trường, khởi đầu là dự án KCN Thuận Thành Eco-smart IP tại Bắc Ninh. Các KCN mới hướng tới mục tiêu sử dụng năng lượng sạch và tiết kiệm, sử dụng hiệu quả tài nguyên, giảm phát thải ra môi trường, đồng hành với nhà đầu tư trong quá trình xây dựng nhà máy sản xuất xanh, sạch hơn, cộng sinh công nghiệp; cung cấp cho các nhà đầu tư những dịch vụ, tiện ích tốt nhất và nâng cao trách nhiệm với cộng đồng. KCN mới cũng sẽ tập trung vào các giải pháp xanh, giải pháp thông minh đồng bộ, gồm: Nhóm giải pháp tiết kiệm năng lượng, ứng dụng hệ thống chiếu sáng thông minh, sử dụng pin năng lượng mặt trời tập trung, tối ưu hóa năng lượng tái tạo, hạn chế năng lượng sử dụng nhiên liệu hóa thạch; Nhóm giải pháp Kiểm soát phát thải ra môi trường, ứng dụng công nghệ thông minh trong quản lý hệ thống cấp nước, xây dựng hệ thống tưới cây tự động, thu gom, xử lý và tái sử dụng nước mưa và nhóm giải pháp xanh hóa khu công nghiệp, mục tiêu đạt tối thiểu 60% diện tích cây xanh sử dụng các loại cây có mức độ hấp thụ C02 cao, đạt được chứng chỉ xanh cho khu công nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    }
+  ]
+}

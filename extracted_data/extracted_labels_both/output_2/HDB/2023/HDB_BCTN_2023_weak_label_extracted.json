@@ -1,0 +1,143 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 483,
+      "text": "HDBank đang áp dụng hệ thống xếp hạng tín dụng nội bộ đối với khách hàng là cá nhân, doanh nghiệp, tổ chức tín dụng được Ngân hàng Nhà nước phê duyệt chính thức kể từ năm 2011, làm cơ sở quan trọng trong quá trình xem xét cấp tín dụng, phân loại nợ và trích lập dự phòng rủi ro. Hệ thống xếp hạng tín dụng này được HDBank rà soát, hoàn thiện liên tục qua các năm. Hiện, HDBank đang xây dựng mô hình xếp hạng tín dụng, xác suất vỡ nợ (PD - Probability of Default), rủi ro vỡ nợ (EAD - Exposure at Default), các tham số tổn thất vỡ nợ (LGD - Loss Given at Default) có ứng dụng công nghệ trí tuệ nhân tạo (A.I), dự kiến bắt đầu áp dụng từ năm 2024 - 2025.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    },
+    {
+      "paragraph_id": 1557,
+      "text": "Những năm gần đây, HDBank luôn là ngân hàng tích cực trong việc thu hút nguồn vốn để hỗ trợ các dự án phát triển nông nghiệp nông thôn, nông nghiệp công nghệ cao, doanh nghiệp nhỏ và vừa (SME), năng lượng tái tạo, các doanh nghiệp do phụ nữ làm chủ, góp phần thúc đẩy kinh tế xanh, kinh tế tuần hoàn và tài chính toàn diện.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1558,
+      "text": "Trong năm 2023, Ngân hàng chính thức áp dụng Quy chế về Chính sách Môi trường, Xã hội và Quản trị (ESG) định hướng cho người lao động và các bên liên quan về các tiêu chuẩn ngân hàng hướng đến, cũng như hình thành cơ chế quản trị, giám sát giúp thực thi các cam kết của Hội đồng Quản trị. Song song đó, HDBank đã chính thức ban hành Quy định về quản lý rủi ro về môi trường và xã hội trong hoạt động cấp tín dụng của khách hàng doanh nghiệp (ESMS). Quy định này được thực hiện dưới sự tư vấn của tổ chức tư vấn uy tín quốc tế, tuân thủ các quy định hiện hành cùng các tiêu chuẩn hoạt động môi trường và xã hội của Tổ chức Tài chính Quốc tế (IFC). Mục tiêu của Quy định này là đảm bảo việc triển khai hiệu quả Chính sách Môi trường và Xã hội của HDBank, chủ động đánh giá, quản lý rủi ro và cơ hội đối với yếu tố Môi trường và Xã hội trong các sản phẩm/dịch vụ tín dụng. Trong quy định này, HDBank cam kết không tài trợ các hoạt động liên quan đến than đá, thăm dò sản xuất dầu mỏ, cũng như các hoạt động dịch vụ cơ sở hạ tầng liên quan đến than đá, nhà máy nhiệt điện than.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1653,
+      "text": "Danh sách loại trừ Môi trường và Xã hội xác định các loại hoạt động và dự án mà HDBank không cấp tín dụng. Một trong những hành động thiết thực của HDBank trong việc ủng hộ cam kết của Chính phủ về việc đạt mức phát thải carbon ròng bằng 0 vào năm 2050 là ban hành chính thức Danh sách loại trừ nhiên liệu hóa thạch. Từ năm 2021, HDBank kiên định cam kết không tài trợ các hoạt động liên quan đến than đá, bao gồm khai thác than, vận chuyển than hoặc xây dựng nhà máy điện than, cũng như các dịch vụ cơ sở hạ tầng liên quan. Ngoài ra, trong danh sách, HDBank cam kết không tài trợ các dự án thăm dò hoặc sản xuất dầu, khí hóa thạch độc lập, đường ống dẫn dầu thô, và nhà máy lọc dầu.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 2366,
+      "text": "[TABLE] [CONTEXT] section: (ĐVT: Tỷ đồng,%) ; column_headers: CHỈ TIÊU | Năm 2021 | Năm 2022 | Năm 2023 ; row_headers: ▶ Vốn điều lệ | ▶ Tổng tài sản | ▶ Tỷ lệ an toàn vốn | ▶ Doanh số Tiền gửi (riêng lẻ) | ▶ Doanh số Cho vay (riêng lẻ) | ▶ Doanh số Thu nợ (riêng lẻ) | ▶ Nợ quá hạn | ▶ Nợ khó đòi | ▶ Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | ▶ Tỷ lệ nợ quá hạn/Cho vay KH | ▶ Tỷ lệ nợ khó đòi/Cho vay KH | ▶ Khả năng thanh toán ngay | ▶ Khả năng thanh toán chung [ROWS] CHỈ TIÊU | Năm 2021 | Năm 2022 | Năm 2023 [ROW] 1. Quy mô vốn [ROW] ▶ Vốn điều lệ | 20.073 | 25.303 | 29.076 [ROW] ▶ Tổng tài sản | 374.612 | 416.273 | 602.315 [ROW] ▶ Tỷ lệ an toàn vốn | 14,3% | 13,4% | 12,6% [ROW] 2. Kết quả hoạt động kinh doanh [ROW] ▶ Doanh số Tiền gửi (riêng lẻ) | 2.505.144 | 3.442.169 | 4.071.397 [ROW] ▶ Doanh số Cho vay (riêng lẻ) | 236.467 | 281.843 | 343.919 [ROW] ▶ Doanh số Thu nợ (riêng lẻ) | 210.725 | 224.660 | 263.619 [ROW] ▶ Nợ quá hạn | 8.698 | 11.791 | 24.165 [ROW] ▶ Nợ khó đòi | 3.360 | 4.404 | 6.160 [ROW] ▶ Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | 0,01% | 0,02% | 0,04% [ROW] ▶ Tỷ lệ nợ quá hạn/Cho vay KH | 4,28% | 4,47% | 7,04% [ROW] ▶ Tỷ lệ nợ khó đòi/Cho vay KH | 1,65% | 1,67% | 1,79% [ROW] 3. Khả năng thanh khoản [ROW] ▶ Khả năng thanh toán ngay | 14,0% | 15,2% | 22,47% [ROW] ▶ Khả năng thanh toán chung | 74,32% | 61,4% | 87,14%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "paragraph_id": 2385,
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ DỰA TRÊN THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: STT | Tiêu chí | Tính tuân thủ của HDBank | Cơ sở đánh giá cho năm 2023 [ROWS] STT | Tiêu chí | Tính tuân thủ của HDBank | Cơ sở đánh giá cho năm 2023 [ROW] B.2.3 | Có cung cấp tiểu sử của Thành viên Hội đồng Quản trị sẽ được bầu chọn/bầu chọn lại? | HDBank thực hiện công bố tiểu sử của các ứng viên sẽ được bầu chọn/bầu chọn lại trên Website Ngân hàng. [ROW] B.2.4 | Kiểm toán viên chuẩn bị được bầu chọn/bầu chọn lại có được xác định rõ ràng? | Thể hiện trong các tài liệu họp Đại hội đồng Cổ đông thường niên 2023. [ROW] B.2.5 | Giấy ủy quyền tham dự Đại hội đồng Cổ đông thường niên được cung cấp dễ dàng? | Giấy ủy quyền tham dự Đại hội đồng Cổ đông thường niên 2023 được công bố rộng rãi trên Website Ngân hàng và gửi đến Cổ đông. [ROW] B.3 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] B.3.1 | Công ty có chính sách hoặc quy định cấm Thành viên Hội đồng Quản trị và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | Quy định tại Điều lệ, Quy chế Nội bộ về Quản trị Ngân hàng và các tài liệu có liên quan khác. [ROW] B.3.2 | Thành viên Hội đồng Quản trị có được yêu cầu phải báo cáo giao dịch cổ phiếu Công ty trong 3 ngày làm việc? | HDBank cam kết tuân thủ theo quy định công bố thông tin hiện hành trên thị trường. [ROW] B.4 | Giao dịch bên liên quan bởi Hội đồng Quản trị và Ban Điều hành [ROW] B.4.1 | Công ty có chính sách yêu cầu Thành viên Hội đồng Quản trị công bố lợi ích liên quan trong các giao dịch và mọi xung đột lợi ích với Công ty không? | Quy định tại Điều lệ, Quy chế Nội bộ về Quản trị Ngân hàng và các tài liệu có liên quan khác. HDBank cam kết tuân thủ theo quy định công bố thông tin hiện hành trên thị trường. [ROW] B.4.2 | Công ty có chính sách yêu cầu một Tiểu ban gồm Thành viên Hội đồng Quản trị độc lập rà soát giao dịch bên liên quan trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của Công ty và cổ đông? | Ban Kiểm soát thực hiện chức năng giám sát công tác quản trị điều hành của Hội đồng Quản trị và Ban Điều hành. [ROW] B.4.3 | Công ty có chính sách yêu cầu Thành viên Hội đồng Quản trị không tham gia họp Hội đồng Quản trị trong các cuộc họp về các hoạt động giao dịch mà Thành viên đó có xung đột lợi ích? | Quy định tại Điều lệ, Quy chế Nội bộ về Quản trị Ngân hàng. [ROW] B.4.4 | Công ty có chính sách về khoản vay cho Thành viên Hội đồng Quản trị trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Quy định tại Điều lệ, Quy chế Nội bộ về Quản trị Ngân hàng và các tài liệu có liên quan khác về cấp tín dụng. [ROW] B.5 | Bảo vệ cổ đông nhỏ lẻ từ các hành vi tư lợi cá nhân [ROW] B.5.1 | Công ty có công bố về việc giao dịch bên liên quan được thực hiện theo phương thức đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | Quy định tại Điều lệ và đảm bảo tuân thủ quy định pháp luật. [ROW] B.5.2 | Đối với những giao dịch bên liên quan được chấp thuận bởi Đại hội đồng Cổ đông, có được thông qua bởi những c ổ đông không có liên quan lợi ích? | Quy định tại Điều lệ .",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5,
+        "S4": 0.642575
+      },
+      "themes": [
+        "G10",
+        "G11",
+        "S4"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1,
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 2401,
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ KẾT QUẢ HOẠT ĐỘNG QUẢN TRỊ - MÔI TRƯỜNG - XÃ HỘI Ế Ị DỰA TRÊN LĨNH VỰC TRỌNG YẾU ; column_headers: Trụ cột | Chủ đề trọng yếu | Kết quả nổi bật trong năm 2023 | Gắn với mục tiêu phát triển bền vững (SDG) của Liên Hợp Quốc [ROWS] Trụ cột | Chủ đề trọng yếu | Định hướng | Kết quả nổi bật trong năm 2023 | Gắn với mục tiêu phát triển bền vững (SDG) của Liên Hợp Quốc [ROW] Quản trị | Tạo dựng giá trị kinh tế | Đặt mục tiêu duy trì tốc độ tăng trưởng trung bình trên 25%/năm, đảm bảo hoạt động an toàn, bền vững và hoàn thành kế hoạch 5 năm từ 2021 đến 2025. Phấn đấu trở thành một trong những ngân hàng có lợi nhuận hàng đầu vào năm 2025. Định hướng chiến lược phát triển gắn với trục nông nghiệp, nông thôn, thị trường đô thị loại hai, các doanh nghiệp vừa và nhỏ (SME), hộ gia đình, cho vay theo chuỗi và chuyển đổi số . Cam kết mang những giá trị tốt nhất cho cổ đông, khách hàng, người lao động, cộng đồng xã hội, kinh tế địa phương và đóng góp tích cực vào Ngân sách Nhà nước thông qua hoạt động kinh doanh bền vững của mình. | Lợi nhuận trước thuế đạt 13.017 tỷ đồng, mức cao nhất từ trước đến nay trong lịch sử hoạt động của HDBank, phù hợp kế hoạch Đại hội đồng cổ đông giao. Tỷ suất sinh lời ROE đạt 24,2% ở top dẫn đầu thị trường. Tỷ lệ cổ tức bằng tiền mặt và cổ phiếu cổ đông HDBank nhận được đạt 25%. HDBank được Ủy ban Nhân dân Thành phố Hồ Chí Minh vinh danh là một trong những doanh nghiệp gia tăng và đóng góp lớn nhất cho Ngân sách Nhà nước | 8 12 PARTMERSHIPS 9 17 [ROW] Tích hợp Phát triển bền vững vào quản trị rủi ro | Xem việc quản lý rủi ro hướng đến phát triển bền vững là hoạt động không thể tách rời với các nghiệp vụ kinh doanh và vận hành thường ngày. Quản lý hiệu quả các rủi ro liên quan đến môi trường - xã hội - quản trị góp phần tạo điều kiện cho việc đưa ra quyết định của Ban Lãnh đạo nhằm nắm bắt những cơ hội đến từ những chuyển đổi hướng tới phát triển bền vững trên quy mô toàn cầu. Liên tục hoàn thiện và cải tiến hệ thống các chính sách, quy trình quản lý rủi ro, bắt kịp các thay đổi về mặt pháp luật và tham chiếu đến các thông lệ tốt trong lĩnh vực ngân hàng trên thế giới. Đảm bảo tất cả các nhân viên được truyền thông và có nhận thức tốt về tầm quan trọng của việc quản lý các rủi ro liên quan đến phát triển bền vững, cũng như vai trò của họ trong công tác này. Định hướng đẩy mạnh ứng dụng công nghệ để giám sát, dự báo sớm và cảnh báo kịp thời mọi rủi ro, bao gồm cả các rủi ro liên quan đến môi trường và xã hội. | Tỷ lệ an toàn vốn CAR (theo chuẩn Basel II) ở mức 12,6%. Hoàn thành dự án nâng cấp khung quản lý rủi ro hoạt động. Hoàn thành và chính thức áp dụng Quy định về Quản lý Rủi ro Môi trường và Xã hội trong Hoạt động Cấp tín dụng (ESMS) trong hoạt động cấp tín dụng cho khách hàng doanh nghiệp. Bắt đầu phân loại mức độ rủi ro Môi trường và Xã hội và đưa ra khuyến nghị theo Quy định về Quản lý Rủi ro Môi trường và Xã hội trong Hoạt động Cấp tín dụng (ESMS) từ tháng 9 năm 2023. Là một trong những ngân hàng tại Việt Nam tiên phong triển khai nâng cấp toàn diện Basel II lên Basel III Reforms ở tất cả các chỉ số và tuân thủ theo các yêu cầu khắt khe được Ủy ban Basel về Giám sát Ngân hàng Quốc tế (Bank for International Settlement - BIS) khuyến nghị các ngân hàng quốc tế áp dụng từ năm 2023. | 13 ACTION SUSTAINABUE CITIES 14 BELOW WATER 12 15 ON LAND [ROW] Tài chính bền vững | Đổi mới và cải tiến các chính sách và hoạt động tiến đến định hướng Ngân hàng xanh. Không tài trợ các ngành có tác động xấu đến môi trường và xã hội. Đẩy mạnh các sản phẩm tài chính ưu đãi dành cho các doanh nghiệp, danh mục tài trợ chuỗi cung ứng và dự án phát triển bền vững. | Là Ngân hàng tốt nhất về tài chính bền vững - The Asset Magazine. Đạt giải thưởng Sản phẩm & Dịch vụ Tài chính - Ngân hàng tiêu biểu 2023 (IDG 2023): Ngân hàng tiêu biểu về tín dụng xanh, Ngân hàng đồng hành cùng SME. Hơn 170 triệu USD nguồn vốn xanh được tài trợ tính đến năm 2023. Trên 8.700 tỷ đồng tín dụng xanh đã giải ngân cho các dự án sản xuất kinh doanh bảo | 7ero 2 10 INEQUALTIES quALITY SUSTAINABLE CieS EDUCATION",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    }
+  ]
+}

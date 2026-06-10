@@ -1,0 +1,86 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Chăm lo đời sống vật chất tinh thần cho CBNV, tạo điều kiện cho CBNV được phát triển nghề nghiệp và hoàn thiện bản thân thông qua các khóa đào tạo về chuyên môn nghiệp vụ và kỹ năng làm việc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Văn hóa Coteccons được hình thành từ những ngày đầu thành lập với định hướng xây dựng bản sắc văn hóa kinh doanh riêng biệt. Mỗi nhân viên Coteccons đều giữ vai trò quyết định trong việc tạo nên một môi trường làm việc chuyên nghiệp, sáng tạo, kết hợp hài hòa giữa trí thức và tinh thần đoàn kết. Trải qua chặng đường 10 năm hình thành và phát triển, văn hóa Coteccons không ngừng được hoàn thiện. Nét đẹp văn hóa Coteccons đã trở thành tài sản tinh thần vô giá đảm bảo cho Công ty luôn hoàn thành các mục tiêu kinh doanh, trở thành một nhà thầu xây dựng có sức cạnh tranh mạnh mẽ trên thị trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Duy trì các hoạt động gắn kết CBNV Coteccons thông qua việc tổ chức tiệc họp mặt tất niên Công ty hàng năm, tổ chức các chuyến du lịch nghỉ dưỡng thường niên và tổ chức du lịch tập trung định kỳ với sự tham gia của CBNV và người thân trong gia đình. Ngoài ra, nhằm tạo cơ hội giao lưu, chia sẻ thông tin giữa Ban Lãnh đạo Công ty và CBNV, hằng năm Coteccons đều tổ chức Hội nghị Cán bộ nhân viên chức giúp mọi người hiểu rõ hơn về hoạt động của Công ty và cảm nhận được tinh thần đoàn kết, sự gắn bó giữa các bộ phận và đồng nghiệp với nhau. Đồng thời tạo điều kiện cho các nhân viên được đóng góp ý kiến về hoạt động Công ty cũng như trình bày nguyện vọng cá nhân đến trực tiếp Ban Lãnh đạo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Song song với việc tập trung cho hoạt động sản xuất kinh doanh, với tinh thần tương thân tương ái, hướng đến cộng đồng, các chương trình từ thiện luôn được Ban lãnh đạo và cán bộ nhân viên Coteccons hưởng ứng tích cực và duy trì thực hiện trong những năm qua.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

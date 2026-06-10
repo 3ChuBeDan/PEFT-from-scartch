@@ -1,0 +1,112 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "text": "Nhận thức được tầm quan trọng của công tác giảm lượng phát thải khí nhà kính toàn cầu cũng như hiểu rõ mức độ ảnh hưởng đến sự phát triển kinh tế - xã hội của đất nước, Tập đoàn luôn tích cực nghiên cứu và đưa ra các giải pháp nhằm tiết kiệm việc tiêu thụ điện năng, giảm thiểu phát thải khí nhà kính như:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Tập đoàn luôn tuân thủ các quy định của pháp luật về bảo vệ môi trường. Thực hiện đầu tư đầy đủ các hệ thống xử lý khí thải, nước thải tại tại tất cả các đơn vị. Tuân thủ việc lập báo cáo đánh giá tác động môi trường (ĐTM) trước khi triển khai xây dựng và lập báo cáo đề xuất cấp giấy phép môi trường trước khi vào vận hành chính thức; Thực hiện quan trắc môi trường định kỳ và lập báo cáo công tác bảo vê môi trường định kỳ hàng năm nộp cho các cơ quan quản lý môi trường đúng thời hạn để nắm bắt, theo dõi và giám sát chỉ tiêu về môi trường đáp ứng các tiêu chuẩn qui định. Qa",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.5,
+        "E_COMMON": 1.0,
+        "S6": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E_COMMON": 5,
+        "S6": 1
+      }
+    },
+    {
+      "text": "Nguồn nước thải chăn nuôi được xử lý đạt tiêu chuẩn quy định hiện hành trước khi đưa ra ngoài môi trường bằng việc đầu tư xây dựng hoàn chỉnh hệ thống biogas, hệ thống xử lý nước thải bằng phương pháp sinh học kết hợp hoá lý cho các đơn chăn nuôi. Sau xử lý, nguồn nước thải hoàn toàn có thể sử dụng tuần hoàn cho mục đích tưới tiêu.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Tổ chức thăm hỏi CBCNV-LĐ lúc ốm đau, thai sản, sinh nhật, đám hiếu, hỷ của bản thân người lao động và tứ thân phụ mẫu; tặng quà cho cán bộ nữ CNVC –LĐ nhân dịp 8/3; tặng quà cho các cháu là con cán bộ công nhân viên công ty có thành tích học tập tốt, ngày Quốc tế thiếu nhi và Tết Trung thu...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Ban Tổng Giám đốc làm việc với tinh thần trách nhiệm cao vì lợi ích của Công ty và cổ đông; không ngừng đổi mới công tác quản lý, điều hành, xây dựng cơ chế chính sách phù hợp với tình hình sản xuất kinh doanh thực tế của Công ty, quan tâm nâng cao đời sống vật chất và tinh thần cho người lao động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

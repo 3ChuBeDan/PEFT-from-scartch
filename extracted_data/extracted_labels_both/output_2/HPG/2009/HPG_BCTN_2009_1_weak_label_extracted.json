@@ -1,0 +1,153 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "text": "Năm 2009 đánh dấu nỗ lực tuyệt vời của tập thể Công ty Năng lượng Hòa phát để mẻ than Coke đầu tiên sản xuất theo công nghệ sạch ra đời, là bước tiến quan trọng trong kế hoạch vận hành các hạng mục giai đoạn 1 của dự án xây dựng Nhà máy sản xuất than Coke và nhiệt điện. Tháng 8/2009, Công ty đã tổ chức lễ sấy 80 buồng lò đầu tiên và đến tháng 10/2009, mẻ than Coke đầu tiên được ra lò, đánh dấu việc sản xuất thành công than Coke sạch, chất lượng cao, cung cấp cho Khu liên hợp Sản xuất Gang thép Hòa phát tại Kinh Môn, Hải Dương, cũng như nhu cầu nội địa và xuất khẩu. Việc nhà máy coke đi vào hoạt động ổn định tạo điều kiện thuận lợi để vận hành Nhà máy sấy nồi hơi trong tổ hợp nhà máy phát điện số 1, công suất 15MW, sử dụng khí nóng cung cấp từ Nhà máy than Coke.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": "Hiện nay, các nhà máy sản xuất than coke trong nước vẫn chủ yếu sử dụng công nghệ cũ là phân than mỡ theo kiểu truyền thống với sản phẩm đầu ra ngoài than Coke còn có các sản phẩm phụ như dầu Coke, dầu nhẹ, hắc ín gây ô nhiễm không khí và nguồn",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "nước. Với việc áp dụng công nghệ mới nhất sản xuất than coke từ than mỡ và than gầy kết hợp với sản xuất nhiệt điện từ nguồn nhiệt dư. Đây là công nghệ sản xuất than Coke sạch và thu hồi nhiệt đạt các tiêu chuẩn môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Công nghệ sản xuất than Coke dựa trên thu hồi nhiệt mà Nhà máy sản xuất than Coke Hòa Phát đang áp dụng sử dụng nguyên liệu than gầy (Antraxit) phù hợp với điều kiện Việt Nam, nơi có nguồn tài nguyên than gầy phong phú và chất lượng, đem lại hiệu quả kinh tế cao, giúp tiết kiệm đáng kể chi phí nhập khẩu than mỡ, đặc biệt là phù hợp với định hướng phát triển nền công nghiệp hiện đại và sạch của Việt Nam trong tương lai.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": "Thực tế cho thấy việc sản xuất than Coke theo công nghệ sạch & thu hồi nhiệt của Công ty Năng lượng Hòa Phát là một bước tiến quan trọng trong việc khẳng định tầm nhìn chiến lược cũng như việc tiếp nhận và làm chủ các công nghệ tiến tiến trên thế giới, góp phần hiện đại hóa nền Công nghiệp Việt Nam trong xu thế hội nhập. Sản phẩm than Coke sẽ giúp Khu liên hợp Sản xuất Gang thép Hòa Phát chủ động nguồn nguyên liệu cho sản xuất thép, cung cấp nguồn than Coke luyện kim chất lượng cao cho nhiều nhà máy thép trong nước và phục vụ cho xuất khẩu.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Sớm nhận rõ tầm quan trọng của việc bảo vệ môi trường song song với việc đáp ứng nhu cầu than Coke phục vụ cho dự án Khu liên hợp Sản xuất Gang thép Hòa Phát, Tập đoàn Hòa Phát đã quyết định đầu tư xây dựng Nhà máy than Coke với công nghệ theo chiều sâu và khép kín tại huyện Kinh Môn, tỉnh Hải Dương. Sản phẩm than Coke của Nhà máy được sản xuất áp dụng công nghệ sạch, tiên tiến nhất trên thế giới cũng như tại Việt Nam hiện nay với nhiều ưu điểm vượt trội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Một trong nhưng công nghệ mới nhất - thành công nhất mà nhà máy sản xuất than Coke Hòa Phát ứng dụng đó là công nghệ sản xuất than Coke từ than mỡ và than gầy kết hợp với sản xuất nhiệt điện từ nguồn nhiệt dư. Công nghệ này được gọi là công nghệ sản xuất than Coke sạch & thu hồi nhiệt đạt các tiêu chuẩn môi trường và đây còn là cơ chế phát triển sạch CDM (Clean Development Mechanism) giảm lượng khí thải nhà kính theo Nghị định thư Kyoto.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 5,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Xử lý nước thải: Nước thải tại Nhà máy Xi măng chủ yếu chỉ là nước thải sinh hoạt, văn phòng ; trong dự án có quy hoạch và quy trình xử lý nước thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

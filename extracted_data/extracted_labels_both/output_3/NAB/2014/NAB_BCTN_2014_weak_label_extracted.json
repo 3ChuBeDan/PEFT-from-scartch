@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 307,
+      "text": "Á được đài thọ chi phí để may đồng phục.r\u0001$Ĭ\u0001å̓\u0001OHI̋\u0001OHˇJ\u0001WÆ\u0001WVJ\u0001DIˇJ\u0001U˽Q\u0001UÏ\u001b\u0001$#/7\u0001MÆN\u0001WJ̊D\u0001tại Ngân hàng Nam Á được hưởng 12 ngày nghỉ phép/năm và cứ mỗi 5 năm thâm niên làm việc tại Ngân hàng Nam Á thì CBNV được hưởng thêm 01 ngày phép/năm.r\u0001/DžN\u0001\u0013\u0011\u0012\u0015\u0001/HÄO\u0001IÆOH\u0001/BN\u0001¦\u0001I̒\u0001US̘\u0001DIP\u0001$#/7\u0001åBOH\u0001làm việc trên toàn hệ thống đi tham quan, nghỉ mát với số tiền 1.700.000 đồng/CBNV. Ngân hàng Nam Á thường xuyên quan tâm đến đời sống vật chất và tinh thần của người lao động, chi thăm hỏi CBNV ốm đau, thăm viếng nguời quá cố (tứ thân phụ mẫu), mừng kết hôn của CBNV, tặng quà cho CBNV Nữ nhân ngày Quốc tế Phụ nữ, tặng quà và tổ chức các hoạt động vui chơi cho con CBNV nhân ngày Quốc tế thiếu nhi, ..., tạo sân chơi lành mạnh, thân thiện và vui tươi cho các CBNV qua các hoạt động kỷ niệm những ngày Lễ lớn của đất nước, kỷ niệm ngày thành lập Ngân hàng Nam Á, ngày thành lập Đoàn Thanh Niên... do Công đoàn và Đoàn Thanh niên Ngân hàng Nam Á tổ chức.r\u0001$Ĭ\u0001å̓\u0001DIP\u0001WBZ\u0001å̏J\u0001W̔J\u0001$#/7\u0001DÓ\u0001OIV\u0001D˺V\u0001WÆ\u0001å̚\u0001åJ̇V\u0001kiện theo quy định của Ngân hàng Nam Á để tiêu dùng, mua xe gắn máy, xe ôtô, nhà ở... với mức vay và thời gian vay theo quy định của Ngân hàng Nam Á.r\u00015˹U\u0001D˸\u0001$#/7\u0001DIÎOI\u0001UI̛D\u0001D̚B\u0001/HÄO\u0001IÆOH\u0001/BN\u0001¦\u0001åˈ̘D\u0001đài thọ tiền ăn trưa theo giá cả thị trường, được quan tâm chúc mừng và có quà tặng nhân ngày sinh nhật, được quyền mua cổ phần ưu đãi theo quy định của nhân",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 337,
+      "text": "tại Ngân hàng Nam Á được 12 ngày nghỉ phépl năm và cứmỗi 5 năm thâm niên làm việc tại Ngân Nam Á thì CBNV được hưởng thêm 01 ngày phép/năm. Năm 2014 Ngân Nam Á hỗ trợ cho CBNV đang làm việc trên toàn hệ đi tham quan, nghỉ mát với số tiển 1.700.000 đổng/CBNV. Ngân Nam Á thường xuyên quan tâm đến đời vật chất và tinh thẩn của lao động, chi thăm hỏi CBNV ốm đau; thăm nguời quá cố (tứ thân phụ mẫu) , mừng kết hôn của CBNV, cho CBNV Nữ nhân ngày Quốc tế Phụ nữ; tặng quà và tổ chức các hoạt động vui chơi cho con CBNV nhân ngày Quốc tế thiếu nhi, tạo sân chơi lành mạnh; thân thiện và vui tươi cho các CBNV qua các hoạt động kỷ niệm những ngày Lễ lớn của đất nước, kỷ niệm ngày thành lập Ngân Nam Á, ngày thành lập Đoàn Thanh Niên . do đoàn và Đoàn Thanh niên Ngân hàng Nam Á tổ chức hưởng hàng hàng thống hàng sống người viếng tặng quà hàng Công",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

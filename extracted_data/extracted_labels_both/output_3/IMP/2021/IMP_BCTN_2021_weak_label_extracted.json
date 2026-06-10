@@ -1,0 +1,80 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 89,
+      "text": "\"Muốn đi nhanh hãy đi một mình, muốn đi xa hãy đi cùng nhau\", đây là triết lý mà Imexpharm muốn truyền tải đến tất cả các nhân viên của Imexpharm trong nguyên tắc văn hóa số 2 này. Mỗi sự vật, sự việc điều có lý do riêng của nó nhưng tuyệt đối không nên quy trách nhiệm cho người khác khi vấn đề xảy ra mà thay vào đó hãy đồng tâm hợp lực để cùng nhau vượt qua thách thức, khó khăn. Hãy nghĩ đến trách nhiệm của bản thân trong một tập thể gắn kết để từ đó nêu cao tinh thần hợp tác, chung tay vì một ngày mai tốt đẹp hơn. Sự đồng lòng, tinh thần vì cái chung, hợp tác không ngừng vươn xa là văn hóa đẹp mà Imexpharm quyết tâm gầy dựng trong suốt hành trình phát triển của mình.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 771,
+      "text": "Trong gian khó, hy vọng được thắp lên, niềm tin được nâng niu, gìn giữ từng ngày và trong gần 45 năm qua, Imexpharm đã mạnh mẽ, bền bỉ vượt qua sóng to gió lớn để giữ vững \"SỰ CAM KẾT NGAY TỪ ĐẦU\", đó là điều mà cả tập thể Công ty tự hào. Mỗi cá nhân hay một tổ chức đều sẽ có những điểm không hoàn hảo nhưng nếu tổ chức/cá nhân ấy luôn vận động không ngừng, luôn giữ tinh thần phấn đấu, kiên trì đến cùng với mục tiêu đã định thì tổ chức/cá nhân ấy sẽ tiến tới thành công! Dù năm 2021 chứa đầy những yếu tố bất lợi nhưng Imexpharm cũng đã an toàn vượt qua một năm 2021 đầy những sự kiện khó ngờ. Ban Điều hành tự nhìn nhận dù vẫn còn nhiều hạn chế, vẫn còn nhiều điều nếu được làm lại có thể làm tốt hơn nhưng chúng tôi cũng không quên gửi lời tri ân sâu sắc đến toàn thể quý cổ đông, nhà đầu tư, và đặc biệt là hơn 1.200 nhân viên của Imexpharm, những người đến góp phần làm nên thành công của Công ty. Có nhiều người chắc sẽ không bao giờ muốn nhớ đến năm 2021 vì quá nhiều đau thương, mất mát về cả vật chất lẫn tinh thần nhưng chúng ta thấm thía được rằng, trong những ngày tháng gian khó ấy, chúng ta đã nhận được sự gắn kết gần như tuyệt đối của đội ngũ để duy trì hoạt động sản xuất kinh doanh liên tục, sự hỗ trợ nhiệt tình từ các đối tác góp phần thuận lợi cho quá trình cung ứng thuốc ra thị trường. Và với tư cách là một doanh nghiệp của Việt Nam, chúng ta đã sát cánh cùng ngành Y tế và chính quyền địa phương để vượt qua đại dịch COVID-19, trăm năm có một và không mong gặp lại. Tất cả những điều này đều là kết tinh của trí tuệ, của tinh thần tương thân, tương ái và sự hy sinh để rồi \"THÁCH THỨC ĐI QUA",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1147,
+      "text": "[TABLE] [CONTEXT] section: ƯU ĐIỂM BÙ KHUYẾT ĐIỂM ; column_headers: Bên liên quan | Kỳ vọng | Đáp ứng của Imexpharm [ROWS] Bên liên quan | Kỳ vọng | Đáp ứng của Imexpharm [ROW] Nhà cung cấp | Hoạt động chào thầu công khai, minh bạch Đối xử công bằng giữa các nhà cung cấp Thanh toán đầy đủ và đúng hạn | Imexpharm xây dựng quy trình chuẩn để thực hiện việc mua nguyên liệu và thông báo đến các nhà cung cấp tiềm năng khi công ty chào thầu. Các nhà cung cấp sẽ được đánh giá chất lượng dựa trên các tiêu chí mà Imexpharm xây dựng để từ đó Công ty sẽ chọn ra nhà cung cấp đủ tiêu chí và giá cả hợp lý. Imexpharm luôn duy trì vốn lưu động ở mức cao, giảm thiểu tối đa rủi ro thanh khoản, nên luôn đáp ứng việc thanh toán [ROW] Nhân viên | Môi trường làm việc an toàn, thân thiện, thúc đẩy sự phát triển Chính sách lương thưởng cạnh tranh Chính sách phúc lợi tốt và chăm lo đời sống tinh thần | đầy đủ, đúng hạn. Imexpharm luôn xây dựng môi trường làm việc theo các tiêu chuẩn tiên tiến, luôn quan tâm đến sức khỏe và sự an toàn của nhân viên. Bên cạnh đó, môi trường làm việc theo hướng cạnh tranh công bằng để tạo ra sự phát triển, đồng thời Imexpharm có bộ phận Phát triển Nguồn nhân lực để tập trung việc đào tạo, phát triển năng lực chuyên môn và kỹ năng của các nhân viên Imexpharm. Imexpharm xây dựng chính sách lương, thưởng dựa trên năng lực, có tính cạnh tranh so với các doanh nghiệp trong ngành đồng thời thúc đẩy sự phấn đấu trong mỗi nhân viên Imexpharm. Imexpharm có các chương trình du lịch hè, các chuyên đề [ROW] Các tổ chức tín dụng | Thanh toán gốc và lãi đúng hạn Hoạt động kinh doanh hiệu quả, góp phần xây dựng cộng đồng Tạo ra môi trường làm việc công bằng, trao quyền cho phụ nữ, thúc đẩy sự phát triển. | Imexpharm quản lý tài chính thận trọng, luôn đáp ứng yêu cầu thanh khoản, do đó công ty có uy tín cao với các ngân hàng và các tổ chức tín dụng Hoạt động kinh doanh của Imexpharm được thực hiện theo chiến lược bền vững, tạo ra lợi ích cho các bên liên quan và đưa công ty phát triển lâu dài Imexpharm luôn đánh giá hiệu quả công việc dựa trên kết quả và năng lực của nhân viên, không phân biệt đối xử, cơ hội được trao cho nam và nữ như nhau, từ đó thúc đẩy bình đẳng giới trong nội bộ công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1170,
+      "text": "[TABLE] [CONTEXT] section: Công tác môi trường: ; column_headers: Các công việc thực hiện trong năm [ROWS] Các công việc thực hiện trong năm [ROW] Trụ sở tại Đồng Tháp và nhà máy IMP 1, nhà máy sản xuất dược liệu và Trung tâm kiểm nghiệm | • Năm 2021 không có thanh tra, kiểm tra môi trường. • Công việc thực hiện môi trường năm 2021: thực hiện quan trắc các thông số môi trường theo báo cáo đánh giá tác động môi trường được phê duyệt. • Thực hiện hồ sơ xác nhận hoàn thành các công trình xử lý chất thải của nhà máy sau khi nâng cấp, bổ sung thêm nhà máy TPCN. • Làm thủ tục xin cấp lại giấy phép xả thải nước thải vào nguồn nước khi đã hết hạn và được UBND tỉnh Đồng Tháp cấp lại ngày 27/5/2021. [ROW] Nhà máy kháng sinh công nghệ cao Vĩnh Lộc (IMP 2) | • Ký hợp đồng với Công ty TNHH Môi trường Sen Vàng xử lý nước thải. [ROW] Nhà máy Cephalosporin Bình Dương (IMP 3) | • Trung tâm kỹ thuật tiêu chuẩn đo lường chất lượng 3 lấy mẫu phân tích một số chỉ tiêu khí Nitơ. • Ký hợp đồng với Công ty TNHH Môi trường Sen Vàng xử lý chất thải nguy hại. [ROW] Nhà máy công nghệ cao Bình Dương (IMP 4) | • Hợp đồng với Công ty TNHH Môi trường Sen Vàng xử lý chất thải nguy hại.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9,
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

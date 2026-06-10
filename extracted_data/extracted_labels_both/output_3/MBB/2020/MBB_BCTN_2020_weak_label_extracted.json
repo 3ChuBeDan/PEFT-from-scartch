@@ -1,0 +1,56 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Bên cạnh đó, MB đã từng bước triển khai khung quản trị rủi ro gian lận, thực hiện phân tích dữ liệu phát hiện gian lận nhằm chủ động phòng ngừa, phát hiện sớm gian lận (nếu có) và giảm thiểu những tổn thất tài chính cũng như những tác động tiêu cực đến uy tín, hình ảnh của ngân hàng và bảo vệ quyền lợi của khách hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "Trong năm 2020, với sự hỗ trợ mạnh mẽ từ các giải pháp công nghệ, phương pháp luận tiên tiến, MB đã triển khai đồng bộ 02 dự án trọng điểm là Dự án Đánh giá mức độ đủ vốn (ICAAP) và Dự án Phòng chống tội phạm tài chính (FCRM), từng bước làm chủ quá trình chuyển đổi số, hướng đến phát triển bền vững, kiểm soát tốt rủi ro song song với tăng trưởng doanh thu và lợi nhuận. Đối với dự án ICAAP, MB đã hoàn thành khung đánh giá mức độ đủ vốn đảm bảo tuân thủ quy định của Ngân hàng Nhà nước và đang tiếp tục triển khai ứng dụng kết quả của dự án, thiết lập hệ thống phần mềm ứng dụng vào quá trình phân bổ vốn nhằm tối ưu hóa danh mục tài sản, tối đa hóa lợi nhuận sau rủi ro, thiêt lập cơ sở xác định giá dựa trên rủi ro để bù đắp các rủi ro trọng yếu có liên quan đảm bảo ra quyết định kinh doanh hiệu quả; Đồng thời thiết lập heatmap rủi ro tích hợp để đánh giá tổng thể bức tranh rủi ro toàn hàng và phân bổ nguồn lực kiểm soát hiệu quả, phù hợp mức độ tác động của từng loại rủi ro. Đối với dự án FCRM, MB là một trong số ít các Ngân hàng tại Việt Nam tiên phong triển khai Dự án Phòng chống tội phạm tài chính một cách đồng bộ và toàn diện, kết hợp đồng thời giữa tư vấn phương pháp luận và phát triển phẩn mềm để thiết lập, hoàn thiện khung quản trị rủi ro vững chắc, đảm bảo quản trị hiệu quả được 02 nhóm tội phạm tài chính điển hình là Gian lận và Rửa tiền. Việc triển khai dự án FCRM đóng vai trò đặc biệt quan trọng với MB trong bối cảnh tình hình tội phạm tài chính ngày càng có xu hướng gia tăng, các cơ quan quản lý trong nước và quốc tế đã/ đang đưa ra các yêu cầu ngày càng khắt khe, buộc các Tổ chức tín dụng phải tuân thủ nhằm đảm bảo an toàn cho hệ thống tài chính và giao dịch của khách hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Dự phòng cụ thể ; column_headers: Nhóm nợ | Phân loại nợ theo phương pháp định tính | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Phân loại nợ theo phương pháp định lượng | Phân loại nợ theo phương pháp định tính | Tỷ lệ dự phòng [ROW] 1 Nợ đủ tiêu chuẩn | a. Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc b. Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn. | 0% [ROW] 2 Nợ cần chú ý | a. Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc b. Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi nhưng có dấu hiệu khách hàng suy giảm khả năng trả nợ. | 5% [ROW] 3 Nợ dưới tiêu chuẩn | a. Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc b. Nợ gia hạn nợ lần đầu; hoặc c. Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc d. Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: - Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. e. Nợ trong thời hạn thu hồi theo kết luận thanh tra. | Các khoản nợ được đánh giá là không có khả năng thu hồi đầy đủ cả nợ gốc và lãi khi đến hạn, có khả năng tổn thất | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

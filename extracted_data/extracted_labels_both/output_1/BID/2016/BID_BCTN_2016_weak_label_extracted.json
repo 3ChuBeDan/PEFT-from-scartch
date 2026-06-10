@@ -1,0 +1,245 @@
+{
+  "extracted_count": 12,
+  "extracted": [
+    {
+      "paragraph_id": 118,
+      "text": "Các chương trình: Hội thao toàn hệ thống; Hội diễn văn nghệ ở cấp chi nhánh và khu vực, tạo không khí vui tươi, phấn khởi trong cán bộ; duy trì và phát triển phong trào rèn luyện, nâng cao thể chất, xây dựng đời sống văn hoá tinh thần lành mạnh. Tình cảm gắn bó của đoàn viên công đoàn toàn hệ thống, tinh thần đoàn kết, thân ái, trung thực và cao thượng, văn minh... trở thành những giá trị tinh thần bồi đắp ngôi nhà chung BIDV.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 441,
+      "text": "Ngoài ra, trước các nguy cơ về an ninh mạng ngày càng gia tăng, BIDV đã tăng cường các công tác chuẩn bị, nâng cao tính sẵn sàng CNTT tại BIDV để đối phó với những tác động xấu từ bên ngoài và đáp ứng đầy đủ các yêu cầu ngày càng khắt khe về tuân thủ trong thời gian tới như: thành lập tổ công tác đặc biệt ứng phó với các tình huống về an ninh mạng; thành lập tổ SOC để theo dõi, giám sát, phát hiện sớm và phân tích, xử lý sự sự cố bảo mật; phối hợp/ký kết thỏa thuận hợp tác với CMC, VNCert trong công tác",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 442,
+      "text": "đánh giá an ninh ANBM hệ thống CNTT của BIDV. Phối hợp chặt chẽ với Ngân hàng Nhà nước, Hiệp hội an ninh mạng Việt Nam (VNISA), Bộ Công an thực hiện tốt công tác cảnh báo và giám sát an ninh mạng của BIDV.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 598,
+      "text": "Năm 2016, đất nước đối mặt với nhiều khó khăn, thách thức từ nội tại trong nước và tình hình quốc tế, thiên tai bất thường như lũ lụt tại miền Trung, xâm nhập mặn tại Đồng bằng Sông Cửu Long, hạn hán tại Tây Nguyên, sự cố môi trường biển... gây ảnh hưởng không nhỏ đến đời sống của nhân dân và tình hình sản xuất kinh doanh của doanh nghiệp. Trong bối cảnh khó khăn lớn đặt ra, Nhà nước và chính quyền các cấp đã quyết liệt chỉ đạo, triển khai các chủ trương, quyết sách lớn với mục tiêu tháo gỡ khó khăn cho doanh nghiệp, cải thiện môi trường đầu tư, nâng cao năng lực cạnh tranh quốc gia, đảm bảo ổn định đời sống nhân dân và an sinh xã hội. Kinh tế Việt Nam đã có nhiều khởi sắc đáng ghi nhận, được bạn bè quốc tế đánh giá cao, tăng trưởng GDP đạt 6,21%, lạm phát được kiềm chế ở mức 4,74%, tiếp tục xuất siêu 2,68 tỉ USD, số doanh nghiệp thành lập mới tăng kỷ lục, các chỉ tiêu về cải cách hành chính, đổi mới môi trường kinh doanh đạt mức khá theo đánh giá của ASEAN.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "E_COMMON": 0.5,
+        "G9": 1.0
+      },
+      "themes": [
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 1,
+        "G9": 2
+      }
+    },
+    {
+      "paragraph_id": 726,
+      "text": "Tham gia xem xét báo cáo tài chính do kiểm toán viên độc lập chuẩn bị, có ý kiến hoặc yêu cầu người quản trị, điều hành ngân hàng, kiểm toán viên độc lập và kiểm toán nội bộ giải trình các vấn đề có liên quan đến báo cáo;",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 855,
+      "text": "Với vai trò vị thế của một ngân hàng hàng đầu đất nước, BIDV xác định sứ mệnh của mình là: \"luôn đồng hành, chia sẻ và cung cấp dịch vụ tài chính – ngân hàng hiện đại, tốt nhất cho khách hàng; cam kết mang lại giá trị tốt nhất cho các cổ đông; tạo lập môi trường làm việc chuyên nghiệp, thân thiện, cơ hội phát triển nghề nghiệp và lợi ích xứng đáng cho mọi nhân viên; và là ngân hàng tiên phong trong hoạt động phát triển cộng đồng\". Việc hài hòa lợi ích giữa các bên liên quan: cổ đông, người lao động, khách hàng và cộng đồng chính là vì sự tồn tại lâu dài của chính bản thân ngân hàng, thúc đẩy tăng trưởng một cách toàn diện, dài hạn và bền vững, mang lại lợi ích cho nền kinh tế đất nước và toàn xã hội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 936,
+      "text": "Công tác đo lường sự hài lòng cán bộ nhân viên được BIDV tổ chức định kỳ hàng năm nhằm giúp Ban Lãnh đạo BIDV, Lãnh đạo các đơn vị nắm được tâm tư nguyện vọng của cán bộ. Chương trình đo lường sự hài lòng cán bộ nhân viên năm 2016 đã thu hút được đông đảo cán bộ tham gia, hầu hết cán bộ hài lòng và mong muốn tiếp tục làm việc tại BIDV trong vòng 05 năm tới. Cán bộ BIDV khá tự tin về năng lực của bản thân và khả năng đáp ứng các yêu cầu của công việc, đồng thời cho biết họ cảm thấy tự hào khi nói chuyện về BIDV với người thân và bạn bè.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1039,
+      "text": "Cho đến nay, 100% cán bộ tín dụng của các NHTM tham gia Dự án nắm rõ qui trình lồng ghép quá trình thẩm định về mặt kinh tế, tài chính với quá trình thẩm định về mặt môi trường trước khi ra quyết đinh cho vay. 100% người vay khi tiếp cận với nguồn vốn Dự án TCNT -WB đều ký \"Bản cam kết về BVMT\", hoặc các \"Báo cáo Đánh giá tác động môi trường\" được phê duyệt... trong quá trình triển khai tiểu dự án.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1040,
+      "text": "Đặc biệt qua 4 đợt \"Kiểm toán môi trường\" Dự án TCNT: gồm Dự án TCNT II vào các năm 2006 và 2007 và Dự án TCNT III vào các năm 2012 và 2013, cũng như hàng loạt đợt kiểm tra giám sát định kỳ và đột xuất của WB phối hợp với Ban quản lý Dự án (SGDIII-BIDV) từ khi triển khai Dự án đến nay cho thấy: tại các thời điểm kiểm toán cũng như tại các thời điểm kiểm tra, giám sát, trong tổng số hơn 1 triệu khoản vay (tiểu dự án), không có tiểu dự án nào có mức tác động nghiêm trọng tới môi trường, chỉ ở mức trung bình, nhẹ, thậm chí ngược lại có hàng trăm tiểu dự án có tác động tích cực tới môi trường do cải tạo và trồng rừng, trồng rau sạch, áp dụng các công nghệ sạch vào sản xuất..v.v...; Đây là thành công, là đóng góp to lớn của chuỗi Dự án đối với sự nghiệp bảo vệ môi trường tại VN trong những năm qua, đã được các Bộ tài nguyên và môi trường, Bộ Kế hoạch và Đầu tư, Ngân hàng Nhà nước VN, Bộ Tài chính, Ngân hàng Thế giới...đánh giá cao tại các cuộc Hội thảo công bố kết quả kiểm toán môi trường, cũng như các ghi nhận của WB tại các Báo cáo giám sát định kỳ.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1314,
+      "text": "[TABLE] [CONTEXT] section: TỔNG QUAN VỀ CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN CHUNG GRI G4 ; column_headers: TT | GRI | Thông tin công bố | Nội dung chi tiết [ROWS] TT | GRI | Thông tin công bố | Nội dung chi tiết [ROW] I | Chiến lược và phân tích [ROW] G4-1 | Tuyên bố của lãnh đạo cấp cao của doanh nghiệp | Thông điệp HĐQT (T.02) [ROW] G4-2 | Mô tả các tác động, rủi ro và cơ hội chính | Các rủi ro bên ngoài và bên trong (T.35) [ROW] II | Hồ sơ tổ chức [ROW] G4-3 | Báo cáo tên tổ chức | Mục Thông tin khái quát về BIDV (T.17) [ROW] G4-4 | Báo cáo các nhãn hiệu, sản phẩm và dịch vụ chính [ROW] G4-5 | Báo cáo vị trí trụ sở chính của tổ chức [ROW] G4-6 | Số quốc gia mà tại đó tổ chức hoạt động và tên của các quốc gia mà tổ chức có hoạt động đáng kể hoặc liên quan cụ thể đến các chủ đề phát triển bền vững đề cập tới trong báo cáo. | Sơ đồ mạng lưới (T.134) [ROW] G4-7 | Báo cáo tính chất sở hữu và hình thái pháp lý của tổ chức. | Quá trình hình thành và phát triển (T.18) [ROW] G4-8 | Báo cáo thị trường phục vụ (bao gồm sự phân chia về địa lý, các khu vực phục vụ, và các loại khách hàng và người thụ hưởng). | Tổng quan BIDV (T.02) [ROW] G4-9 | Qui mô của doanh nghiệp báo cáo | Giới thiệu BIDV qua một số chỉ tiêu tài chính và phi tài chính trọng yếu [ROW] G4-10 | Thống kê về lực lượng lao động | Danh mục người lao động được phân loại theo cấp quản lý, trình độ, độ tuổi (mục Tình hình nhân sự - T.45) [ROW] G4-11 | Tỷ lệ phần trăm người lao động được hưởng thỏa ước lao động tập thể | 100% cán bộ tham gia thỏa ước lao động tập thể (tham khảo Mục Trách nhiệm với người lao động - Phát huy tính dân chủ trong tổ chức - T.105) [ROW] G4-12 | Mô tả chuỗi cung ứng của tổ chức | Lĩnh vực kinh doanh (T.20) [ROW] G4-13 | Báo cáo bất kỳ thay đổi đáng kể nào trong giai đoạn báo cáo liên quan đến quy mô, cấu trúc, quyền sở hữu hoặc chuỗi cung ứng của tổ chức | Các nội dung liên quan đến HĐQT, BKS, BĐH và Cơ cấu cổ đông (T.24) [ROW] G4-14 | Báo cáo tổ chức có đưa ra phương pháp phòng ngừa hoặc nguyên tắc phòng ngừa hay không và áp dụng xử lý như thế nào. | Các rủi ro bên ngoài và bên trong (T.35) [ROW] G4-15 | Liệt kê các điều khoản, nguyên tắc về kinh tế, môi trường và xã hội được phát triển bên ngoài tổ chức hoặc các sáng kiến khác mà tổ chức tán thành hoặc ủng hộ. | * Quản trị rủi ro theo thông lệ (Basel) - Mục Quản trị rủi ro theo thông lệ (T.104) * Sử dụng khung nghiên cứu của dự án Xanh - Project Blue do PwC cung cấp để xác định các xu hướng bao trùm mang tính toàn cầu (mega-trend) có ảnh hưởng chi phối đến nền kinh tế vĩ mô thế giới trong việc xác định và thực thi Chiến lược phát triển CNTT BIDV giai đoạn 2015-2020, tầm nhìn đến 2030. (Mục Đầu tư chiến lược về CNTT- T.102) * Sử dụng các quy trình kinh doanh mang tính xã hội trong hoạt động Ngân hàng tại Trung tâm Contact Center, Trung tâm Mạng xã hội. (Mục Tăng trưởng theo xu hướng bền vững hơn với động lực từ mảng thị trường bán lẻ và dịch vụ số - T.103) * Sử dụng các công nghệ điện toán đám mây, các ứng dụng ngân hàng di động. (Mục Đầu tư chiến lược về CNTT- T.102) [ROW] G4-16 | Hội viên các Hiệp hội | Hiệp hội Ngân hàng Việt Nam (VNBA), Hiệp hội thị trường Trái phiếu Việt Nam (VBMA), Hiệp hội các nhà đầu tư Việt Nam sang Myanmar (AVIM), Campuchia (AVIC), Lào (AVIL)... [ROW] III | Xác định các lĩnh vực và ranh giới trọng yếu [ROW] G4-17 | Liệt kê các đơn vị bao gồm trong báo cáo hợp nhất và không thuộc phạm vi báo cáo hợp nhất. | Tình hình hoạt động công ty con, liên doanh liên kết (T.48)",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 1317,
+      "text": "[TABLE] [CONTEXT] section: TỔNG QUAN VỀ CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN CỤ THỂ GRI G4 [ROWS] A. CÔNG BỐ THÔNG TIN VỀ PHƯƠNG PHÁP QUẢN TRỊ [ROW] G4 DMA | Cách thức tổ chức quản trị các lĩnh vực trọng yếu và đánh giá phương pháp quản trị. | Quản trị doanh nghiệp (T.83) [ROW] B. CHỈ SỐ THEO LĨNH VỰC [ROW] I. Danh mục kinh tế [ROW] G4-EC1 | Giá trị kinh tế được tạo ra và phân phối | Hiệu quả kinh doanh vững chắc qua các năm (Mục Phát triển bền vững về kinh tế - T.100) [ROW] G4-EC2 | Các tác động về tài chính cũng như các yếu tố rủi ro và cơ hội khác đối với hoạt động của doanh nghiệp bị gây ra bởi biến đổi khí hậu | Chưa phát sinh [ROW] G4-EC7 | Sự phát triển và tác động của các khoản đầu tư cơ sở hạ tầng và dịch vụ được hỗ trợ. | Thông qua các hoạt động nghiệp vụ, BIDV hỗ trợ phát triển các ngành nghề kinh tế, kinh tế các điạ phương. Thực hiện các hoạt động an sinh xã hội, [ROW] G4-EC8 | Tác động kinh tế gián tiếp đáng kể, bao gồm phạm vi tác động. | đóng góp tích cực vào công cuộc xóa đói giảm nghèo, cải thiện và nâng cao chất lượng cuộc sống cho người dân. (Mục Trách nhiệm xã hội - T.111) [ROW] II. Danh mục môi trường [ROW] G4 EN3 | Tiêu thụ năng lượng trong tổ chức | Thực hiện các biện pháp tiết kiệm, sử dụng năng lượng hiệu quả (Mục 5. Đóng góp cải thiện môi trường- T.116) [ROW] G4 EN11 | Cơ sở hoạt động được sở hữu, cho thuê, quản trị trong hoặc gần kề các khu vực bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu được bảo vệ. | Các vị trí văn phòng, trụ sở chi nhánh của BIDV đều nằm ở vị trí gần khu dân cư, thuận tiện cho việc giao dịch của người dân. Chúng tôi không xây dựng các trụ sở tại địa điểm có nguy cơ ảnh hưởng đến hệ sinh thái và đa dạng sinh học cần được bảo vệ. [ROW] G4-EN27 | Các sáng kiến nhằm giảm thiểu tác động môi trường của các sản phẩm, dịch vụ và mức độ giảm thiểu tác động. | Với những thành công trong công cuộc bảo vệ môi trường của chuỗi Dự án TCNT, WB tiếp tục nhân rộng và áp dụng các quy chuẩn về BVMT đã được BIDV và các ĐCTC thực hiện trong khuôn khổ chuỗi Dự án TCNT vào quá trình triển khai “Dự án chuyển đổi nông nghiệp bền vững tại VN” (VnSAT). (Mục Thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường và xã hội trong hoạt động cấp tín dụng - T.117) [ROW] G4-EN29 | Giá trị bằng tiền của các khoản phạt đáng kể và tổng số hình phạt phi tiền tệ cho việc không tuân thủ luật pháp và các quy định về môi trường. | Chưa phát sinh [ROW] G4-EN30 | Tác động môi trường đáng kể của việc vận chuyển sản phẩm và hàng hóa khác và vật liệu cho hoạt động của tổ chức và việc vận chuyển các thành viên trong lực lượng lao động của tổ chức. | BIDV sử dụng các hệ thống cơ sở hạ tầng CNTT thân thiện với môi trường (sử dụng công nghệ xanh, tiết kiệm năng lượng, hạn chế khí thải có tác động xấu đến môi trường, ...); Đầu tư xây dựng và triển khai hệ thống hội nghị truyền hình (Video conference), hệ thống đào tạo trực tuyến (E-learn\u0002 ing) để tiết giảm thời gian và chi phí đi lại, ăn ở... (Mục Xây dựng môi trường làm việc khoa học và hiệu quả - T.116) [ROW] G4-EN31 | Tổng chi phí và đầu tư bảo vệ môi trường. | BIDV tiếp tục thực hiện các biện pháp tiết kiệm (Mục Thực hiện các biện pháp tiết kiệm - T.116) [ROW] G4-EN33 | Các tác động môi trường tiêu cực thực tế và tiềm ẩn đáng kể trong chuỗi cung ứng và các biện pháp đã triển khai. | Chưa phát sinh",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 0.5,
+        "E_COMMON": 1.0,
+        "G9": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 1,
+        "E_COMMON": 2,
+        "G9": 1
+      }
+    },
+    {
+      "paragraph_id": 1319,
+      "text": "[TABLE] [CONTEXT] section: TỔNG QUAN VỀ CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN CỤ THỂ GRI G4 ; column_headers: 2. Quyền con người | G4-HR1 | Tổng số và tỷ lệ các thỏa thuận đầu tư quan trọng có điều khoản về quyền con người | Chúng tôi đang xem xét để lượng hóa [ROWS] 2. Quyền con người [ROW] G4-HR1 | Tổng số và tỷ lệ các thỏa thuận đầu tư quan trọng có điều khoản về quyền con người | Chúng tôi đang xem xét để lượng hóa [ROW] G4-HR3 | Tổng số việc phân biệt đối xử và biện pháp khắc phục đã triển khai. | Không phát sinh [ROW] G4-HR5 | Các hoạt động và nhà cung cấp đã xác định có rủi ro đáng kể về các vụ việc lao động trẻ em và các biện pháp đã thực hiện góp phần xóa bỏ lao động trẻ em. | Chúng tôi không sử dụng lao động trẻ em dưới bất kỳ hình thức nào trong hoạt động kinh doanh [ROW] G4-HR6 | Các hoạt động được xác định là có nguy cơ liên quan tới lao động cưỡng bức hoặc bắt buộc và các biện pháp được thực hiện để góp phần loại trừ lao động cưỡng bức hoặc bắt buộc | Không phát sinh [ROW] G4-HR8 | Tổng số vụ vi phạm liên quan đến các quyền của người dân bản địa và biện pháp đã triển khai. | Chưa phát sinh [ROW] G4-HR9 | Tổng số và tỉ lệ phần trăm các hoạt động cần phải rà soát v ề Quyền con người hoặc đánh giá tác động | BIDV luôn coi con người là tài sản quý báu nhất của ngân hàng. Chính vì vậy nguồn nhân lực là một trong những nguồn lực mà ngân hàng ưu tiên hàng đầu trong việc đầu tư phát triển, đảm bảo quyền của người lao động, nâng cao bình đẳng giới, các chế độ phúc lợi, phát huy tính dân chủ... (Mục Trách nhiệm với người lao động - T.105) [ROW] G4-HR11 | Các tác động về Quyền con người tiêu cực thực tế và tiềm ẩn đáng kể trong chuỗi cung ứng và những biện pháp đã triển khai | Chúng tôi chưa thống kê được đầy đủ các vi phạm về quyền con người tác động đến Ngân hàng [ROW] G4-HR12 | Số lượng khiếu nại về các tác động về quyền con người đã nộp, xử lý và giải quyết thông qua cơ chế khiếu nại chính thức. | Chưa phát sinh [ROW] 3. Xã hội [ROW] G4-SO1 | Tỉ lệ phần trăm các hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển đã thực hiện | Các hoạt động an sinh xã hội (Mục Trách nhiệm xã hội - T.111) [ROW] G4-SO2 | Các hoạt động có tác động tiêu cực thực tế hoặc tiềm ẩn đáng kể đối với các cộng đồng địa phương | Chúng tôi đang xem xét để lượng hóa những tác động đối với cộng đồng địa phương [ROW] FS13 | Tạo cơ hội tiếp cận cho các khu vực khó khăn về kinh tế theo loại hình hoặc dân cư thưa thớt | Thông qua hoạt động nghề nghiệp hoặc công tác an sinh xã hội (Mục Trách nhiệm với xã hội - T.111) [ROW] G4-SO6 | Tổng giá trị của những đóng góp chính trị theo quốc gia và người nhận/người thụ hưởng. | Hỗ trợ phát triển các ngành nghề kinh tế theo chủ trương của Chính phủ, giảm lãi suất cho vay... (Mục Trách nhiệm cộng đồng - T.105) [ROW] G4-SO7 | Tổng số hành động pháp lý đối với hành vi hạn chế cạnh tranh, chống độc quyền và các thông lệ chống độc quyền và kết quả của hành động đó. | Chưa phát sinh [ROW] G4-SO8 | Giá trị bằng tiền của các khoản tiền phạt đáng kể và tổng số hình phạt phi tiền tệ đối với hành vi không tuân thủ luật pháp và các quy định. | Chưa phát sinh [ROW] G4-SO9 | Tỷ lệ % các nhà cung cấp được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về tác động đối với xã hội. | Chúng tôi đang xem xét để lượng hóa [ROW] G4-SO10 | Các tác động tiêu cực thực tế và tiềm ẩn đáng kể đối với xã hội trong chuỗi cung ứng và những hành động đã triển khai | Chúng tôi đang xem xét để lượng hóa bằng việc xác định các tiêu chí đối với nhà cung cấp liên quan đến tác động đối với xã hội trong chuỗi cung ứng [ROW] G4-SO11 | Số lượng khiếu nại về tác động đối với xã hội đã nộp, xử lý và giải quyết thông qua cơ chế khiếu nại chính thức. | Chưa phát sinh",
+      "hard_labels": [
+        "E2",
+        "G11",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "G11": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "G11",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "G11": 2,
+        "S4": 5,
+        "S6": 5
+      }
+    }
+  ]
+}

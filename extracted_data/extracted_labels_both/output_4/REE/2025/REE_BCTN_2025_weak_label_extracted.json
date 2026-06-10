@@ -1,0 +1,142 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Trong khi đó, năng lượng tái tạo được đánh giá là một trong những điểm sáng của ngành điện Việt Nam trong năm 2026. Việc từng bước hoàn thiện khung pháp lý cho các dự án năng lượng tái tạo, bao gồm điện gió, điện mặt trời và các nguồn năng lượng sạch khác, cùng với các cơ chế đấu thầu, đàm phán giá điện và mua bán điện trực tiếp (DPPA), được kỳ vọng sẽ tạo động lực mới cho hoạt động đầu tư trong lĩnh vực này. Các dự án năng lượng tái tạo trên bờ, đặc biệt là điện gió và điện mặt trời quy mô lớn, nhiều khả năng sẽ được triển khai trở lại sau giai đoạn chờ hoàn thiện cơ chế và quy hoạch. Đối với các dự án năng lượng tái tạo quy mô lớn và có tính chất chiến lược, đặc biệt là điện gió ngoài khơi và các dự án tích hợp lưu trữ năng lượng, năm 2026 chủ yếu vẫn là giai đoạn",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 5
+      }
+    },
+    {
+      "text": "chứng nhận LEED Platinum trong khuôn viên e.town — là minh chứng tiêu biểu cho định hướng phát triển dựa trên các tiêu chuẩn bền vững. Phản hồi tích cực từ khách thuê mới và tiềm năng, cùng với tỷ lệ lấp đầy ngày càng cải thiện, cho thấy cả doanh nghiệp trong nước và quốc tế đều ưu tiên lựa chọn các tòa nhà dẫn đầu về tính bền vững và hiệu quả năng lượng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Trong lĩnh vực bất động sản, chúng tôi áp dụng các công nghệ và sử dụng vật liệu thân thiện với môi trường, tiết kiệm năng lượng trong xây dựng và vận hành các tòa nhà thông minh. Điển hình là việc REE đã xây dựng tòa nhà văn phòng e.town 5 theo tiêu chuẩn EDGE – chứng chỉ của SGS (Ngân hàng Thế giới), tòa nhà văn phòng e.town 6 theo tiêu chuẩn LEED Platinum – chứng chỉ của Hội đồng Công trình xanh Hoa Kỳ. Hai tòa nhà này đáp ứng các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện đến 31%, giảm lượng nước sử dụng tới 51%, giảm tối đa lượng khí thải CO2 và sử dụng vật liệu thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 4,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

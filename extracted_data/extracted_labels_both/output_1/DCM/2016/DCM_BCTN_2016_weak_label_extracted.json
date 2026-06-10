@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "» Môi trường làm việc ngày càng được cải thiện, an toàn và thân thiện. Dự án \"Tái tạo văn hóa PVCFC\" đã thúc đẩy quá trình làm mới bản thân của mỗi CBCNV trên tất cả các phương diện thể chất, trí tuệ, tình cảm và tinh thần với triết lý từ thành công cá nhân đến thành công tập thể.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Bên cạnh công tác quản lý rủi ro trong sản xuất, PVCFC đặc biệt quan tâm đến việc kiểm soát các rủi ro về môi trường thông qua việc trang bị các hệ thống quan trắc và xử lý như: hệ thống xử lý nước thải toàn diện (xử lý nước thải công nghệ, nước thải nhiễm dầu, nước thải sinh hoạt); trạm quan trắc môi trường online EMS (Environmental Monitoring Stations); hệ thống theo dõi phát thải liên tục CEMS (Continuos Emission Monitoring Systems)... để đảm bảo các thông số/chỉ số bảo vệ môi trường theo tiêu chuẩn Việt Nam (TCVN) và quốc tế (ISO, IEC...)",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: giữa các bên liên quan [ROWS] Đối với Khách hàng - Nhà nông | » Lấy sự tin tưởng và hài lòng của khách hàng làm thước đo giá trị chất lượng sản phẩm và uy tín thương hiệu trên thị trường. » Đảm bảo cung cấp cho thị trường những sản phẩm chất lượng, phù hợp với nhiều loại đất, nhiều loại cây trồng, thân thiện với môi trường và giá cả hợp lý. » Thể hiện sự tri ân đối với khách hàng thông qua việc tổ chức các chương trình đồng hành, gắn kết cùng bà con nhà nông “Hạt Ngọc Mùa Vàng, Gởi Ngàn Tri Ân”; chương trình khuyến mại và chính sách hậu mãi sau bán hàng. » Tích cực tham gia bảo vệ khách hàng trước vấn nạn phân bón giả, kém chất lượng, truyền thông rộng rãi những phương pháp phân biệt sản phẩm chính hãng và sản phẩm giả mạo. [ROW] Đối với Khách hàng - Nhà phân phối , đại lý | » Cam kết lợi ích lâu dài cho nhà phân phối, đặc biệt là hệ thống đại lý thông các hoạt động hỗ trợ về xúc tiến bán hàng tại điểm bán, các chương trình hội thảo nông dân, kho bãi, vận chuyển, khuyến mại, chiết khấu thương mại... theo chính sách bán hàng của Công ty. » Hỗ trợ kiến thức tư vấn về sản phẩm mới N46.Plus mà Công ty đã phân phối ra thị trường trong năm 2016, tư vấn rõ về hiệu quả sử dụng và sự thân thiện với môi trường. [ROW] Đối với Nhân viên | » Ý thức con người là yếu tố quan trọng nhất của sự phát triển doanh nghiệp, PVCFC luôn áp dụng các chế độ phúc lợi, các chính sách đãi ngộ hấp dẫn cũng như xây dựng môi trường làm việc thân thiện, đoàn kết, thi đua cùng phát triển cho CBCNV. » Dự kiến trong năm 2017, PVCFC áp dụng đánh giá hiệu quả công việc bằng KPI [ROW] Đối với Đối tác | » Thực hiện trên nguyên tắc kinh doanh công bằng, chính trực, đôi bên cùng có lợi trong mọi hoạt động hợp tác kinh doanh cùng PVCFC. » Xây dựng cơ chế hợp tác minh bạch, trong đó không có tình trạng cố tình gây khó khăn vì lợi ích cá nhân, làm ảnh hưởng đến hoạt động chung của Công ty. » Thực hiện đối xử công bằng giữa các đối tác trong và ngoài nước.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

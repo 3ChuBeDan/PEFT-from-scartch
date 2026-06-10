@@ -1,0 +1,52 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Công đoàn công ty gồm 12 công đoàn cơ sở, bộ phận trực thuộc với hơn 1.500 đoàn viên công đoàn. Trong những năm qua, Lãnh đạo, Đảng ủy và Công đoàn luôn quan tâm đến đời sống vật chất, tinh thần đối với cán bộ, người lao động, đặc biệt là với những đoàn viên công đoàn có hoàn cảnh khó khăn. Đây là những người lao động gặp phải những không may trong cuộc sống, bản thân bị bệnh nặng, ốm đau thường xuyên, phải chữa trị bệnh trong thời gian dài, chi phí tốn kém trong khi điều kiện gia đình cũng hết sức khó khăn; hoặc có trường hợp bản thân khỏe mạnh là trụ cột chính trong gia ể gg g đình đông người, có người thân bệnh nặng, hiểm nghèo, chi phí hàng tháng tốn kém...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "03 Công ty Cổ phần Năng lượng Bảo Lâm (BLEC) là doanh nghiệp có trụ sở chính tại huyện Bảo Lâm, tỉnh Cao Bằng, được thành lập từ 2014 với chức năng quản lý vận hành các nhà máy điện của PCC1. vì cộng đồng là một trong những mục tiêu nhằm hướng đến một xã hội tốt đẹp, những chương trình thiện nguyện, hỗ trợ những đối tượng thiếu may mắn trong cuộc sống hay những hoàn cảnh, hộ gia đình còn thuộc đối tượng rất nghèo không chỉ giúp chúng ta hướng đến giá trị chân-thiện-mỹ mà đây còn là cơ hội ể g để tất cả chúng ta nâng cao tinh thần đoàn kết, tương thân tương ái, lá rách ít đùm lá rách nhiều. Xuất phát từ ý nghĩa trên, với tinh thần, trách nhiệm là Doanh nghiệp có trụ sở, có công trình tại địa phương, BLEC phối hợp với PCC1 và EIC Ấ ạịpgpợp xây dựng chương trình Đông Ấm Vùng Cao cùng với những quà tặng bằng hiện vật dành tặng trực tiếp cho 100 hộ gia đình nghèo đang sinh tại Xã Vĩnh Phong, huyện Bảo Lâm, tỉnh Cao Bằng",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

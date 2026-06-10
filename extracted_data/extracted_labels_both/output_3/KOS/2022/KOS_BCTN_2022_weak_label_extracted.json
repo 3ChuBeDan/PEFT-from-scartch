@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 1061,
+      "text": "[TABLE] [CONTEXT] section: c) Hợp đồng hoặc giao dịch với người nội bộ và bên liên quan ; column_headers: Bên liên quan | Mối quan hệ | Năm 2021 | Năm 2022 ; row_headers: Ông Nguyễn Việt Cường | + Tạm ứng | + Hoàn ứng | + Hoán đổi 14.000.000 cổ phiếu | của Công ty cổ phần Tư vấn | đầu tư Xây dựng thủy điện | Bà Nguyễn Thị Hằng | + Hoán đổi 3.500.000 cổ phiếu của Công ty cổ phần Tư vấn | Ông Nguyễn Tiến Hoàn + Tạm ứng | Bà Trần Thị Thu Hoài | + Chi phí hoạt động | + Thanh toán tiền | Công ty cổ phần tập đoàn Sơn Phúc | + Xuất bán hàng hóa | + Thu tiền hàng | + Mua dịch vụ | + Thanh toán tiền mua dịch vụ | Công ty Cổ phần Tư vấn kiến trúc và Xây dựng Đông Đô | + Giá trị dịch vụ được nghiệm thu | + Thanh toán tiền dịch vụ [ROWS] Bên liên quan | Mối quan hệ | Năm 2021 | Năm 2022 [ROW] I. CÁ NHÂN [ROW] Ông Nguyễn Việt Cường | Chủ tịch HĐQT [ROW] + Tạm ứng | - | 81.900.000 [ROW] + Hoàn ứng | - | 81.900.000 [ROW] + Hoán đổi 14.000.000 cổ phiếu | 210.000.000.000 | - [ROW] của Công ty cổ phần Tư vấn [ROW] đầu tư Xây dựng thủy điện [ROW] Bà Nguyễn Thị Hằng | Phó CT HĐQT/TV thân cận [ROW] + Tạm ứng | trong gia đình CT HĐQT | - | - [ROW] + Hoàn ứng | - | - [ROW] + Hoán đổi 3.500.000 cổ phiếu của Công ty cổ phần Tư vấn | 52.500.000.000 | - [ROW] đầu tư Xây dựng thủy điện [ROW] Ông Nguyễn Tiến Hoàn + Tạm ứng | Phó Tổng Giám đốc [ROW] (miễn nhiệm ngày | - | - [ROW] + Hoàn ứng | 01/03/2022) | 258.000.000 | - [ROW] Bà Trần Thị Thu Hoài | Thành viên Ban Kiểm soát [ROW] + Tạm ứng | 79.887.586 | - [ROW] + Hoàn ứng | 72.258.586 | 7.629.000 [ROW] + Chi phí hoạt động | 13.762.000 | - [ROW] + Thanh toán tiền | 13.762.000 | - [ROW] II. TỔ CHỨC [ROW] Công ty cổ phần tập đoàn Sơn Phúc | CT của TV thân cận trong gia đình của CT HĐQT [ROW] + Xuất bán hàng hóa | - | - [ROW] + Thu tiền hàng | - | - [ROW] + Mua dịch vụ | 1.071.475.364 | 84.848.181 [ROW] + Thanh toán tiền mua dịch vụ | 140.000.000 | 352.259.900 [ROW] Công ty Cổ phần Tư vấn kiến trúc và Xây dựng Đông Đô | CT của TV thân cận trong gia đình của CT HĐQT [ROW] + Giá trị dịch vụ được nghiệm thu | - | - [ROW] + Thanh toán tiền dịch vụ | 954.545.455 | -",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

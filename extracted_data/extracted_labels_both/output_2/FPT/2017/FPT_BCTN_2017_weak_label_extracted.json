@@ -1,0 +1,69 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "-Dịch vụ CNTT truyền thống: phát triển phần mềm, hiện đại hóa các hệ thống thông tin, quản trị hệ thống thông tin, dịch vụ kiểm thử và đảm bảo chất lượng phần mềm, dịch vụ BPO;",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THÀNH VIÊN VÀ CƠ CẤU HĐQT ; column_headers: STT | Họ và tên | Thành viên HĐQT | Tỷ lệ sở hữu cổ phần có quyền biểu quyết | Chức danh kiêm nhiệm trong HĐQT của các công ty khác (tính đến 31/12/2017) [ROWS] STT | Họ và tên | Thành viên HĐQT | Tỷ lệ sở hữu cổ phần có quyền biểu quyết | Chức danh kiêm nhiệm trong HĐQT của các công ty khác (tính đến 31/12/2017) [ROW] 1 | Ông Trương Gia Bình | Chuyên trách không điều hành | 7,10% | • Thành viên HĐQT Công ty cổ phần Viễn Thông FPT. • Thành viên HĐQT Trường Đại Học FPT. • Ủy viên HĐTV Công ty TNHH Hệ thống Thông tin FPT. [ROW] 2 | Ông Bùi Quang Ngọc | Điều hành | 3,42% | • Thành viên HĐQT Công ty cổ phần Viễn Thông FPT. • Thành viên HĐQT Trường Đại Học FPT. • Ủy viên HĐTV Công ty TNHH Hệ thống thông tin FPT. [ROW] 3 | Ông Đỗ Cao Bảo | Điều hành | 1,13% | • Ủy viên HĐQT Công ty Cổ phần Đô thị FPT Đà Nẵng. • Ủy viên HĐTV Công ty TNHH Hệ thống thông tin FPT. [ROW] 4 | Ông Lê Song Lai | Không điều hành | 0% | • Chủ tịch HĐQT kiêm nhiệm Tổng công ty Cổ phần Bảo Minh. • Chủ tịch HĐQT Tổng công ty Cổ phần Tái bảo hiểm Quốc gia Việt Nam. • Chủ tịch HĐTV Công ty TNHH MTV Đầu tư SCIC. • Chủ tịch HĐTV Công ty TNHH Đầu tư Thương mại Tràng Tiền. [ROW] 5 | Ông Jean-Charles Belliol | Độc lập | 0% [ROW] 6 | Ông Tomokazu Hamaguchi | Độc lập | 0% | • Thành viên HĐQT Công ty East Japan Railway. • Thành viên HĐQT Công ty Kuraray. [ROW] 7 | Ông Dan E Khoo | Độc lập | 0%",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: SỰ THAM GIA CỦA CÁC BÊN LIÊN QUAN TRONG CHÍNH SÁCH VÀ HOẠT ĐỘNG CỦA FPT ; column_headers: Mối quan tâm của CBNV | Hành động của FPT | Giá trị FPT mang lại cho cbnv trong năm 2017 [ROWS] Mối quan tâm của CBNV | Hành động của FPT | Giá trị FPT mang lại cho cbnv trong năm 2017 [ROW] • Được tạo điều kiện và cơ hội để phát huy cao nhất năng lực của mình để thành công cùng Công ty; | • Liên tục tạo cơ hội và thách thức, đảm bảo môi trường hợp tác, đầy đủ thông tin, bình đẳng trong thăng tiến và khuyến khích sáng tạo; | • Tổng chi phí chi cho các hoạt động đào tạo CBNV của Công ty đạt 77,9 tỷ đồng; Số giờ đào tạo bình quân đạt 59 giờ/ CBNV. [ROW] • Được đảm bảo các quyền lợi chính đáng cả về vật chất và tinh thần; | • Xây dựng và duy trì liên tục chương trình đào tạo và huấn luyện đội ngũ lãnh đạo kế cận trung thành với lý tưởng và sự nghiệp của Công ty; | • Khám sức khỏe định kỳ một lần/năm và phối hợp với công ty bảo hiểm uy tín thực hiện Chương trình FPT Care dành riêng cho CBNV và người thân. [ROW] • Môi trường làm việc thân thiện, sáng tạo. | • Xây dựng và thực thi kế hoạch phát triển nhân lực phù hợp với các mục tiêu và chiến lược phát triển của Công ty; | • Tiếp tục đứng trong danh sách 100 nơi làm việc tốt nhất Việt Nam do Mạng nghề nghiệp Anphabe và Nielsen công bố. [ROW] • Xây dựng và áp dụng các chế độ chính sách khuyến khích, cổ vũ, động viên và bù đắp phù hợp với kết quả công việc và sự đóng góp của nhân viên; • Định kỳ khảo sát, thu thập ý kiến của nhân viên về Công ty và có hành động phù hợp thông qua các khảo sát định kỳ và các trao | • Xây dựng môi trường làm việc theo mô hình campus của các tập đoàn công nghệ lớn trên thế giới. Trong năm 2017, FPT đã khởi công 02 khu tổ hợp văn phòng làm việc; trung tâm xuất khẩu phần mềm và đào tạo tại Hà Nội và Cần Thơ nâng tống số công trình thuộc sở hữu của FPT trên phạm vi toàn quốc lên con số 17. [ROW] đổi trực tiếp, gián tiếp; [ROW] • Thực hiện các chế độ bảo hiểm, các chế độ phúc lợi theo quy định của Công đoàn Công ty; | • Tổ chức các sự kiện văn hóa thể thao như: Hội làng FPT; Hội thao, Hội diễn kỷ niệm ngày thành lập Công ty. [ROW] • Xây dựng và phát triển văn hoá, các giá trị cốt lõi của Công ty; | • Thực hiện đầy đủ các chế độ phúc lợi đối với CBNV như: bảo hiểm y tế, bảo [ROW] • Xây dựng các khu làm việc theo mô hình campus của các tập đoàn lớn trên thế giới. | hiểm xã hội, nghỉ mát...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

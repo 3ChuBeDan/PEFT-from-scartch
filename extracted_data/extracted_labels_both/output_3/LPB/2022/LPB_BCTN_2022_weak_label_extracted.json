@@ -1,0 +1,131 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 196,
+      "text": "rà soát hoạt động chuyển đổi số của Ngân hàng đảm bảo hệ thống văn bản đầy đủ, cập nhật và tuân thủ theo các quy định hiện hành. Các dấu hiệu rủi ro, gian lận điển hình của hoạt động ngân hàng: gian lận giả mạo hồ sơ, tội phạm công nghệ, an toàn bảo mật thông tin, an toàn kho quỹ,...được tăng cường rà soát, cảnh báo sớm và xây dựng các phương án phòng ngừa hiệu quả.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 206,
+      "text": "Năm 2022, Ngân hàng tiếp tục triển khai đồng bộ các nội dung của khung công tác về phòng, chống rửa tiền/tài trợ khủng bố và phòng, chống phổ biến vũ khí hủy diệt hàng loạt, trong đó chú trọng triển khai các ứng dụng công nghệ thông tin (áp dụng chính thức cấu phần KYC của hệ thống phòng, chống rửa tiền, triển khai ứng dụng Transaction Screening) để nâng cao hiệu quả tuân thủ và phòng ngừa rủi ro rửa tiền/tài trợ khủng bố cho Ngân hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 207,
+      "text": "Hoạt động đào tạo, cảnh báo về phòng chống rửa tiền/tài trợ khủng bố tiếp tục được triển khai trên toàn Ngân hàng nhằm nâng cao hiểu biết và ý thức, trách nhiệm của các cán bộ, nhân viên trong công tác phòng chống tội phạm, phòng chống rửa tiền/ tài trợ khủng bố.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 213,
+      "text": "Năm 2023, Ngân hàng đặt mục tiêu hoàn thiện khung năng lực quản trị rủi ro, phòng chống rửa tiền/tài trợ khủng bố và tái cơ cấu khung công tác về phòng, chống rửa tiền/tài trợ khủng bố nhằm đáp ứng theo các thay đổi của pháp luật về phòng chống rửa tiền. Đồng thời, tiếp tục đẩy mạnh tiến độ và hoàn thành các dự án trọng điểm khác như: Nâng cấp hệ thống PCRT, đánh giá an toàn bảo mật công nghệ thông tin,... góp phần nâng cao hiệu quả và năng lực quản trị của Ngân hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 431,
+      "text": "hợp với chiến lược kinh doanh, các quy định của Pháp luật và Điều lệ Ngân hàng; quyết định phê duyệt các khoản đầu tư, các giao dịch có liên quan, về công tác phòng, chống rửa tiền trong toàn hệ thống ngân hàng; trong công tác quản lý, giám sát thực hiện các chủ trương, chính sách của Ngân hàng về phòng, chống rửa tiền.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1135,
+      "text": "[TABLE] [CONTEXT] section: CÁC CHỈ TIÊU TÀI CHÍNH CHỦ YẾU ; column_headers: Chỉ tiêu/ Indicators | Năm 2020 | Năm 2021 | Năm 2022 | Đánh giá ; row_headers: Vốn điều lệ | Tổng tài sản có | Tỷ lệ an toàn vốn | Doanh số cho vay | Doanh số thu nợ | Nợ quá hạn | Nợ khó đòi | Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | Tỷ lệ nợ quá hạn/Tổng dư nợ | Tỷ lệ nợ khó đòi/Tổng dư nợ | Tỷ lệ dự trữ thanh khoản | - Ngoại tệ [ROWS] Chỉ tiêu/ Indicators | Năm 2020 | Năm 2021 | Năm 2022 | Đánh giá [ROW] 1. Quy mô vốn [ROW] Vốn điều lệ | 10.746.389 | 12.035.905 | 17.291.054 [ROW] Tổng tài sản có | 242.342.951 | 289.193.879 | 327.745.847 [ROW] Tỷ lệ an toàn vốn | 10,81% | 11,26% | 12,36% | Tuân thủ quy định [ROW] 2. Kết quả hoạt động kinh doanh [ROW] Doanh số cho vay | 165.556.591 | 202.108.411 | 285.735.526 [ROW] Doanh số thu nợ | 129.436.100 | 169.979.065 | 259.211.147 [ROW] Nợ quá hạn | 3.843.644 | 4.864.444 | 6.993.244 | Mặc dù nền kinh tế có nhiều biến động nhưng Ngân hàng vẫn kiểm soát được tỷ [ROW] Nợ khó đòi | 2.527.349 | 2.863.454 | 3.426.818 [ROW] Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | 0,00% | 0,00% | 0,00% | lệ nợ xấu nằm trong ngưỡng dưới 1,5%. Lienvietpostbank nằm [ROW] Tỷ lệ nợ quá hạn/Tổng dư nợ | 2,17% | 2,33% | 2,97% | trong nhóm những [ROW] Tỷ lệ nợ khó đòi/Tổng dư nợ | 1,43% | 1,37% | 1,45% | ngân hàng có tỷ lệ nợ xấu tương đối thấp. [ROW] 3. Khả năng thanh khoản [ROW] Tỷ lệ dự trữ thanh khoản | 14,79% | 11,54% | 16% [ROW] Tỷ lệ khả năng chi trả trong 30 ngày - VND [ROW] 77,80% | 67,56% | 140,58% [ROW] - Ngoại tệ | -18,32% | 157,83% | 35,18%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "paragraph_id": 1154,
+      "text": "[TABLE] [CONTEXT] section: (i) Phân loại nợ ; column_headers: Nhóm | Tình trạng quá hạn [ROWS] Nhóm | Tình trạng quá hạn [ROW] 1 Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 Nợ cần chú ý | (a) Nợ quá hạn đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn. [ROW] 3 Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu còn trong hạn; hoặc (c) Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

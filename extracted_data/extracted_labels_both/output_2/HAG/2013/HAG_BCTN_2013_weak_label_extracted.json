@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Tinh thần làm việc giữa nhân viên với nhân viên: Để tăng cường tinh thần hợp tác, hòa đồng giữa các cán bộ công nhân viên, HAGL thường xuyên tổ chức các khóa teambuilding, tổ chức làm việc theo nhóm nhằm vừa nâng cao hiệu quả công việc vừa thắt chặt tinh thần làm việc giữa các cá nhân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": " Ngày 16/10/2013, HAGL và tổ chức BirdLife International, đối tác bảo tồn thiên nhiên lớn nhất thế giới, hoạt động tại 121 quốc gia đã chính thức ký hợp đồng hợp tác. Theo đó, tổ chức này đã tiến hành điều tra xác định tính đa dạng sinh học trong và xung quanh dự án của HAGL tại khu vực huyện Koun Mum, tỉnh Rattanakiri, Campuchia, từ đó xây dựng một kế hoạch quản lý đa dạng sinh học cho khu vực vùng dự án. Sau khi có kết quả khảo sát dự kiến vào tháng 4/2014, BirdLife sẽ xây dựng một kế hoạch quản lý đa dạng sinh học cho khu vực dự án. Kế hoạch này bao gồm một lộ trình hành động để thực hiện những yêu cầu đưa ra từ cuộc điều tra, và một chương trình giám sát với các mốc thời gian và các chỉ số thực hiện cụ thể cho các ma trận của môi trường sống và các thuộc tính đa dạng sinh học trong bối cảnh dự án. Đặc biệt quan trọng là việc tiến hành khảo sát đa dạng sinh học trong các khu rừng khộp rụng lá còn lại trong phạm vi dự án và đề xuất các yêu cầu cho việc quản lý bền vững phù hợp, bao gồm các hành lang rừng nhằm duy trì các giá trị đa dạng sinh học vĩnh viễn trong khu vực.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 6
+      }
+    }
+  ]
+}

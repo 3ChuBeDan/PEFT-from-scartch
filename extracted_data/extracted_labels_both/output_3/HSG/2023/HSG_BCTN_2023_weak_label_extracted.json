@@ -1,0 +1,95 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 307,
+      "text": "Ngoài ra, Tập đoàn Hoa Sen đã triển khai và hoàn thành việc kiểm kê khí nhà kính tại 03 nhà máy sản xuất tôn là: Nhà máy Tôn Hoa Sen Phú Mỹ, Nhà máy Hoa Sen Nghệ An tại Đông Hồi, Nhà máy Hoa Sen Nhơn Hội – Bình Định, đảm bảo đáp ứng đầy đủ các yêu cầu, đạt chứng nhận tiêu chuẩn ISO 14064-1:2018 về kiểm kê khí nhà kính tại doanh nghiệp. Cùng với đó, Tập đoàn Hoa Sen cũng hoàn thành việc truy vết carbon trên gần 20 dòng sản phẩm Tôn Hoa Sen theo tiêu chuẩn ISO 14067:2018, bước đầu đáp ứng một số yêu cầu cho việc xuất khẩu hàng hóa sang thị trường Châu Âu theo Cơ chế Điều chỉnh Biên giới Carbon (CBAM), đánh dấu cột mốc quan trọng trên con đường mở rộng xuất khẩu cho các sản phẩm Tôn Hoa Sen trong tương lai.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 845,
+      "text": "Cụ thể hơn, tiêu chuẩn ISO 14064-1:2018 và ISO 14067:2018 là cơ sở để tính toán lượng phát thải khí nhà kính của một doanh nghiệp. Đây được xem là 02 tiêu chuẩn tham chiếu cho báo cáo truy vết carbon trên sản phẩm nhằm xác định các nguyên tắc, yêu cầu và hướng dẫn để định lượng khí thải carbon của một sản phẩm. Để đạt được các chứng nhận tiêu chuẩn ISO này, Tập đoàn Hoa Sen đã thực hiện triển khai việc cung cấp số liệu hoạt động, thông tin liên quan để kiểm kê khí nhà kính năm 2023. Việc tuân thủ các quy định hiện hành, cũng như chủ động kiểm kê, thiết lập báo cáo định lượng phát thải, hướng đến loại bỏ khí nhà kính là bước hành động nhằm cải thiện, cũng như quản lý nguồn phát thải khí nhà kính tại các nhà máy sản xuất tôn mạ của Tập đoàn Hoa Sen trên cả nước, tiến đến thực hiện thành công việc truy vết carbon trên các dòng sản phẩm tôn của Tập đoàn Hoa Sen.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6
+      }
+    },
+    {
+      "paragraph_id": 846,
+      "text": "Kết quả, Tập đoàn Hoa Sen đã hoàn thành việc kiểm kê khí nhà kính tại 03 nhà máy lớn, đáp ứng đầy đủ các yêu cầu, đạt chứng nhận tiêu chuẩn ISO 14064-1:2018 về kiểm kê khí nhà kính tại doanh nghiệp. Đồng thời, Tập đoàn Hoa Sen cũng hoàn thành việc truy vết carbon trên gần 20 dòng sản phẩm Tôn Hoa Sen theo tiêu chuẩn ISO 14067:2018, bước đầu đáp ứng một số yêu cầu cho việc xuất khẩu hàng hóa sang thị trường Châu Âu theo Cơ chế Điều chỉnh Biên giới Carbon (CBAM) có hiệu lực từ tháng 10/2023.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 860,
+      "text": ". Chất thải rắn phát sinh trong công ty đều được thực hiện phân loại, thu gom và chuyển giao xử lý theo đúng yêu cầu của pháp luật. Chất thải được phân loại tại nguồn, mỗi loại chất thải đều chứa trong thùng rác có dấu hiện nhận dạng riêng. Khi thùng chứa chất thải đầy thì được chuyển về nhà chứa rác của công ty theo đúng khu vực quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 861,
+      "text": "Đối với chất thải nguy hại, Tập đoàn Hoa Sen đã được cấp Sổ chủ nguồn thải chất thải nguy hại. Tập đoàn Hoa Sen đã ký hợp đồng với các đơn vị có đủ chức năng và được cấp phép để vận chuyển và xử lý chất thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

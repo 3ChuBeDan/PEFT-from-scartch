@@ -1,0 +1,270 @@
+{
+  "extracted_count": 16,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S5",
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S5",
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Mảng năng lượng tái tạo tiếp tục đóng vai trò quan trọng nhất trong thị trường điện nhằm giúp quốc gia hướng đến cam kết phát thải ròng bằng không vào năm 2050, với tỷ trọng đóng góp lần lượt là 28% và 54% vào tổng công suất đặt hệ thống điện vào năm 2030 và 2045. Mảng năng lượng tái tạo sở hữu nhiều triển vọng tích cực về dài hạn, đặc biệt trong bối cảnh nguồn vốn ESG càng ngày càng gia tăng. Tuy nhiên, về ngắn hạn, năng lượng tái táo vẫn sẽ đối diện với nhiều khó khăn đến từ Quy hoạch Điện VIII cùng các chính sách năng lượng liên quan chưa được phê duyệt và ban hành cũng như những rủi ro liên quan đến vấn đề nguồn cung thiết bị vẫn đang hiện hữu.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3,
+        "G9": 1
+      }
+    },
+    {
+      "text": "Đối với mảng nước thải và phát điện đốt rác, công ty sẽ tiếp tục theo dõi thêm các chính sách về kêu gọi đầu tư các nhà máy xử lý nước thải trên địa bàn TP.HCM và tiếp tục theo sát các cơ hội dự án xử lý chất thải rắn và phát điện đốt rác tại thị trường các đô thị lớn, với quy mô xử lý từ 2.000 tấn chất thải rắn mỗi ngày. Đồng thời sẽ tìm hiểu và nghiên cứu các công nghệ tiên tiến trong xử lý chất thải rắn sinh hoạt nhằm ứng dụng cho các dự án môi trường trong tương lai.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tại Diễn đàn và Triển lãm kinh tế Xanh, tập đoàn REE tham gia với nhiều vai trò, vừa là nhà triển lãm và là nhà tài trợ của sự kiện. REE đã và đang đóng góp vào mục tiêu phát triển kinh tế xanh thông qua việc xây dựng chiến lược phát triển hệ sinh thái năng lượng tái tạo, các dự án công trình xanh được cập nhật các công nghệ mới nhất và giải pháp tiên tiến nhằm đẩy nhanh quá trình chuyển đổi năng lượng xanh bền vững. Đặc biệt, tại buổi triển lãm REE đã cho ra mắt dự án tòa nhà văn phòng e.town 6 – đạt chứng chỉ",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "LEED Platinum do tập đoàn đầu tư với các tiêu chuẩn cao nhất về công trình xanh được công nhận trên toàn cầu về sự vững bền và thân thiện với môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

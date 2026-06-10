@@ -1,0 +1,26 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 469,
+      "text": "Cụ thể đối với nhà máy Đồng Tháp, tất cả nƣớc thải từ quá trình sản xuất, đƣợc thu gom và đƣa qua hệ thống xử lý nƣớc thải trƣớc khi thải ra môi trƣờng. Nƣớc thải đạt cột A, QCVN 24:2009/BTNMT đối với nƣớc thải công nghiệp, với tần số lấy mẫu nƣớc thải 3 tháng/lần. Khí thải trong quá trình sản xuất và kiểm nghiệm đƣợc xử lý qua lọc Hepa 13 trƣớc khi thải ra môi trƣờng bên ngoài, với hiệu suất xử lý bụi đến 99.99%. Khí thải đạt đƣợc các tiêu chuẩn: QCVN số 05: 2009/BTNMT (trung bình 1 giờ) qui định đối với môi trƣờng không khí xung quanh nhà máy, QCVN số 19: 2009/BTNMT (trung bình 1 giờ) qui định đối với khí thải tại nguồn xả, quyết định số 3733/2002/QĐ -BYT qui định khí thải; với tần suất quan trắc khí thải 3 tháng/lần. Chất thải nguy hại phát sinh trong quá trình sản xuất đƣợc tập trung tại kho chứa chất thải và do công ty Holcim xử lý theo qui định của nhà nƣớc. Ngoài ra Imexpharm còn diệt côn trùng và đầu tƣ hệ thống cây xanh xung quanh nhà máy và khu văn phòng làm việc. Imexpharm có đầy đủ hồ sơ môi trƣờng và thực hiện nghiêm túc báo cáo định kỳ hàng quý cho cơ quan quản lý môi trƣờng nơi nhà máy hoạt động.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.830679
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 7,
+        "E2": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tất cả các nguồn thải (nước thải, khí thải) đều được xử lý và đáp ứng tiêu chuẩn ISO14001:2015 trước khi xả thải ra môi trường. Chất thải rắn, chất thải nguy hại đều được thu gom và xử lý theo đúng quy định của Thông tư, Nghị định hiện hành.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "text": "Song song, lắp đặt hệ thống máy móc đúng yêu cầu kỹ thuật đảm bảo an toàn lao động, thì Nhà máy Đạm Cà Mau lắp đặt các thiết bị xử lý thải, trạm quan trắc tự động và online giúp việc giám sát được chặt chẽ hơn. Tất cả các nguồn thải (nước thải, khí thải) đều được xử lý và đáp ứng tiêu chuẩn ISO14001:2015 trước khi xả thải ra môi trường. Chất thải rắn, chất thải nguy hại đều được thu gom và xử lý theo đúng quy định của Thông tư, Nghị định hiện hành.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "text": "Cùng với các Công ty trong cụm công nghiệp Khí Điện - Đạm Cà Mau thuộc Tập đoàn Dầu khí Quốc gia Việt Nam, các doanh nghiệp tại đây đã đóng góp trên 40% nguồn thu ngân sách và tạo ra trên 30% việc làm cho lao động địa phương, Cụm công nghiệp Khí - Điện - Đạm Cà Mau là động lực kinh tế quan trọng giúp Tỉnh Cà Mau \"bừng sáng\" nơi cực Nam tổ quốc. Cũng trên cơ sở nền tảng của cụm Công nghiệp Khí - Điện - Đạm Cà Mau, hạ tầng khu công nghiệp, hệ thống đường giao thông, điện, cấp thoát nước, sân bay đã được hình thành giúp Cà Mau khai thác tiềm năng du lịch sinh thái, nuôi trồng xuất khẩu thủy sản cũng như kết nối gần hơn với các tỉnh, thành phố trong cả nước.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Công ty đã đăng ký sổ chủ nguồn thải chất thải nguy hại mã số QLCTNH: 96.000016.T do Sở Tài nguyên Môi trường tỉnh Cà Mau cấp lần 4 ngày 23/12/2014. Trong năm 2020, phát sinh với khối lượng 200.436 kg và được phân loại, thu gom tại nguồn, lưu chứa tạm tại kho chứa chất thải nguy hại của Nhà máy sau đó chuyển giao cho đơn vị đủ năng lực xử lý theo quy định của pháp luật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ TÌNH HÌNH THỰC HIỆN QUẢN TRỊ CÔNG TY DỰA TRÊN THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN (TIẾP THEO) ; column_headers: CÂU HỎI | NỘI DUNG CÂU HỎI | ĐÁNH GIÁ | CƠ SỞ ĐÁNH GIÁ [ROWS] CÂU HỎI | NỘI DUNG CÂU HỎI | ĐÁNH GIÁ | CƠ SỞ ĐÁNH GIÁ [ROW] B.4.2 | Công ty có chính sách yêu cầu một Tiểu ban gồm TV HĐQT độc lập rà soát giao dịch bên liên quan trọng yếu quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của Công ty và cổ đông không? | Tham chiếu Khoản 2, Điều 39 và Khoản 4, Điều 42 tại Điều lệ Công ty. [ROW] B.4.3 | Công ty có chính sách yêu cầu TV HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động giao dịch mà TV đó có xung đột lợi ích? | Các thành viên HĐQT có tham gia họp nhưng không được biểu quyết các nội dung khi có các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích. [ROW] B.4.4 | Công ty có chính sách về khoản vay cho TV HĐQT trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Công ty không quy định điều này. [ROW] B.5 | Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng [ROW] B.5.1 | Công ty có công bố về việc giao dịch bên liên quan được thực hiện theo phương thức đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? [ROW] B.5.2 | Trong trường hợp cần có phê duyệt của cổ đông thông qua các giao dịch các bên liên quan, việc biểu quyết phê duyệt phải được biểu quyết bởi các cổ đông không liên quan lợi ích. | Được trình bày trong Báo cáo thường niên. [ROW] C | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng Công ty có công bố chính sách và các thực hành về: [ROW] C.1.1 | Công bố chính sách và các thực hành nhằm bảo vệ quyền lợi khách hàng? | Được trình bày trong Báo cáo thường niên. [ROW] C.1.2 | Công bố chính sách và các thực hành, quy trình và thủ tục lựa chọn nhà cung cấp nhà thầu? [ROW] C.1.3 | Công bố chính sách và các thực hành, mô tả nỗ lực của Công ty nhằm bảo đảm chuỗi giá trị của Công ty thân thiện với môi trường hoặc phù hợp với việc thúc đẩy phát triển bền vững?",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ TÌNH HÌNH THỰC HIỆN QUẢN TRỊ CÔNG TY DỰA TRÊN THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN (TIẾP THEO) ; column_headers: ĐÁNH GIÁ | CƠ SỞ ĐÁNH GIÁ [ROWS] CÂU HỎI NỘI DUNG CÂU HỎI | ĐÁNH GIÁ | CƠ SỞ ĐÁNH GIÁ [ROW] (P) B. | ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG [ROW] (P) B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] (P) B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, Ban Điều hành và nhân viên Công ty trong ba năm qua? | Công ty không ghi nhận bất kỳ vi phạm nào. [ROW] (P) B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] (P) B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | Công ty không ghi nhận bất kỳ vi phạm nào. [ROW] (P) B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? [ROW] (P) C. | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] (P) C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng [ROW] (P) C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động, việc làm, người tiêu dùng, phá sản, thương mại, cạnh tranh hay môi trường? | Công ty không ghi nhận bất kỳ vi phạm nào. [ROW] (P) C.2 | Khi các bên có quyền lợi liên quan tham gia vào quá trình Quản trị Công ty, họ phải được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên [ROW] (P) C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý và đã không CBTT trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | PVCFC đã thực hiện CBTT và không ghi nhận bất kỳ vi phạm nào đối với các sự kiện trọng yếu. [ROW] (P) D. | CÔNG BỐ THÔNG TIN VÀ MINH BẠCH [ROW] (P) D.1 | Hình phạt của cơ quan quản lý liên quan đến Báo cáo tài chính [ROW] (P) D.1.1 | Công ty có nhận được “ý kiến loại trừ” trong Báo cáo kiểm toán độc lập? | Ý kiến của kiểm toán độc lập đối với Báo cáo tài chính hàng năm đều là “Chấp nhận toàn phần và có nhấn mạnh”. [ROW] (P) D.1.2 | Công ty có nhận được “ý kiến bất lợi” trong Báo cáo kiểm toán độc lập? [ROW] (P) D.1.3 | Công ty có nhận được “từ chối đưa ra ý kiến” trong Báo cáo kiểm toán độc lập?",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Quan trắc môi trường định kỳ ; column_headers: Vị trí quan trắc | Thông số quan trắc | QCVN [ROWS] Vị trí quan trắc | Thông số quan trắc | QCVN [ROW] Ống khói reforming sơ cấp | 19/2009/BTNMT [ROW] Ống khói nồi hơi Phụ trợ Ống khói tạo hạt | Bụi, CO, NO x , SO 2 , NH 3 , tiếng ồn, độ rung | 21/2009/BTNMT [ROW] Nước thải sinh hoạt | pH, BOD 5 , TSS, TDS, Chất hoạt động bề mặt, Dầu mỡ động thực vật, Sunfua, Amoni, Tổng phốt pho, Tổng nitơ, Coliform, Lưu lượng | 14/2008/BTNMT [ROW] Đầu ra hệ thống xử lý nước thải nhiễm dầu Đầu ra hệ thống xử lý nước thải nhiễm Amoniac | pH, Màu, BOD 5 , COD, Chất rắn lơ lửng, Asen, Thủy ngân, Chì, Cadimi, Sắt, Đồng, Tổng dầu mỡ khoáng, Sunfua, Amoni, Tổng nitơ, Tổng photpho, Clo dư, Coliform, Lưu lượng nước thải | 40:2011/BTNMT [ROW] Đầu ra chung của 03 hệ thống xử lý nước thải nhiễm dầu, nhiễm Amoniac, nước thải sinh hoạt, Trên kênh thoát nước chung | Nhiệt độ, Màu, pH, BOD 5 , COD, TSS, Tổng chất rắn hòa tan (TDS), Asen, Thủy ngân, Chì, Cadimi, Đồng, Sắt, Tổng dầu mỡ khoáng, Tổng các chất hoạt động bề mặt, Dầu mỡ động, thực vật, Sunfua, Amoni (tính theo Nitơ), Tổng nitơ, Tổng photpho, Clo dư, Coliform. | 40:2011/BTNMT [ROW] Đầu ra nước sông làm mát thải | pH, Nhiệt độ, Cl 2 , TSS | 40:2011/BTNMT",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 286,
+      "text": "OCB cũng tiếp tục đẩy mạnh triển khai các quy trình, hành động cụ thể để quản lý các rủi ro hoạt động đặc thù như triển khai toàn diện khung quản lý rủi ro gian lận, khung quản lý rủi ro công nghệ thông tin, QLRRHĐ đối với hoạt động thuê ngoài. Các công cụ phân tích dữ liệu, ứng dụng mô hình hóa, machine learning trong công tác nhận diện gian lận, phân tích rủi ro hoạt động cũng đã và đang được tăng cường. Ngoài các biện pháp phòng ngừa, phát hiện và giảm thiểu rủi ro hoạt động, OCB tiếp tục thực hiện chuyển giao rủi ro hoạt động thông qua các gói bảo hiểm rủi ro hoạt động đối với tài sản của ngân hàng như một biện pháp QLRRHĐ bổ sung, giúp bảo vệ ngân hàng trong trường hợp phát sinh các tổn thất nghiêm trọng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 581,
+      "text": "Ứng dụng machine learning trong việc xây dựng triển khai thành công các mô hình phát hiện gian lận đối với tập khách hàng eKYC, thẻ...để phát hiện sớm gian lận/rủi ro nhằm ngăn ngừa, giảm thiểu tổn thất cho ngân hàng...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 621,
+      "text": "Về phía ngân hàng, Open Banking giúp ngân hàng tiếp cận đa dạng đối tượng khách hàng với chi phí hợp lý Về phía ngân hàng, Open Banking giúp ngân hàng tiếp cận đa dạng đối tượng khách hàng với chi phí hợp lý thông qua các ứng dụng khác của đối tác. Ngân hàng có thể tạo ra được các sản phẩm dịch vụ mang tính cá thông qua các ứng dụng khác của đối tác. Ngân hàng có thể tạo ra được các sản phẩm dịch vụ mang tính cá nhân hóa, từ đó giữ chân khách hàng lâu hơn và lượng khách hàng thân thiết tăng bền vững hơn. Ngoài ra, nhân hóa, từ đó giữ chân khách hàng lâu hơn và lượng khách hàng thân thiết tăng bền vững hơn. Ngoài ra, quyền truy cập vào dữ liệu khách hàng còn hỗ trợ ngân hàng chấm điểm tín dụng khách hàng chính xác hơn. quyền truy cập vào dữ liệu khách hàng còn hỗ trợ ngân hàng chấm điểm tín dụng khách hàng chính xác hơn. Về phía ngân hàng, Open Banking giúp ngân hàng tiếp cận đa dạng đối tượng khách hàng với chi phí hợp lý Về phía ngân hàng, Open Banking giúp ngân hàng tiếp cận đa dạng đối tượng khách hàng với chi phí hợp lý thông qua các ứng dụng khác của đối tác. Ngân hàng có thể tạo ra được các sản phẩm dịch vụ mang tính cá thông qua các ứng dụng khác của đối tác. Ngân hàng có thể tạo ra được các sản phẩm dịch vụ mang tính cá nhân hóa, từ đó giữ chân khách hàng lâu hơn và lượng khách hàng thân thiết tăng bền vững hơn. Ngoài ra, nhân hóa, từ đó giữ chân khách hàng lâu hơn và lượng khách hàng thân thiết tăng bền vững hơn. Ngoài ra, quyền truy cập vào dữ liệu khách hàng còn hỗ trợ ngân hàng chấm điểm tín dụng khách hàng chính xác hơn. quyền truy cập vào dữ liệu khách hàng còn hỗ trợ ngân hàng chấm điểm tín dụng khách hàng chính xác hơn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 654,
+      "text": "Mức lương tối thiểu của vùng 1 và vùng 3 bằng 107% mức lương tối thiểu vùng, mức lương tối thiểu của vùng 2 bằng 109% mức lương tối thiểu vùng.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 4
+      }
+    },
+    {
+      "paragraph_id": 808,
+      "text": "[TABLE] [CONTEXT] section: Một số chỉ tiêu tài chính của OCB giai đoạn 2020 – 2021 ; column_headers: Chỉ tiêu | Thực hiện 2020 | Thực hiện 2021 | Ghi chú ; row_headers: Vốn điều lệ | Vốn chủ sở hữu | Tổng tài sản | Tỷ lệ an toàn vốn | Lợi nhuận trước thuế | Doanh số huy động tiền gửi | Doanh số cho vay | Nợ quá hạn | Nợ khó đòi | Hệ số sử dụng vốn | Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | Tỷ lệ nợ quá hạn/Tổng dư nợ | Tỷ lệ nợ khó đòi/Tổng dư nợ | Tỷ lệ dự trữ thanh khoản | Tỷ lệ khả năng chi trả 30 ngày_VND | Tỷ lệ khả năng chi trả 30 ngày_USD | Cổ tức | EPS (đồng) [ROWS] Chỉ tiêu | Thực hiện 2020 | Thực hiện 2021 | Ghi chú [ROW] Quy mô vốn [ROW] Vốn điều lệ | 10.959 | 13.698 | Số liệu BCTC hợp nhất [ROW] Vốn chủ sở hữu | 17.435 | 21.805 | Số liệu BCTC hợp nhất [ROW] Tổng tài sản | 152.529 | 184.491 | Số liệu BCTC hợp nhất [ROW] Tỷ lệ an toàn vốn | 12,73% | 12,34% | CAR hợp nhất [ROW] Kết quả hoạt động kinh doanh [ROW] Lợi nhuận trước thuế | 4.419 | 5.519 [ROW] Doanh số huy động tiền gửi | 108.441 | 126.430 [ROW] Doanh số cho vay | 90.237 | 103.595 [ROW] Doanh số thu nợ [ROW] Nợ quá hạn | 4.219 | 3.686 | Nợ nhóm 2,3,4,5 [ROW] Nợ khó đòi | 1.508 | 1.349 | Nợ xấu nhóm 3,4,5 [ROW] Hệ số sử dụng vốn | 108.441 | 126.430 [ROW] Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | 0,24% | 0,015% | Phân nhóm nợ 2,3 4,5 bị kéo theo (chỉ lấy số dư bảo lãnh) [ROW] Tỷ lệ nợ quá hạn/Tổng dư nợ | 3,97% | 2,65% | Tỷ lệ nợ nhóm 2,3,4,5 /Tổng TS có [ROW] Tỷ lệ nợ khó đòi/Tổng dư nợ | 1,42% | 0,97% | Tỷ lệ nợ nhóm 3,4,5 /Tổng TS có [ROW] Khả năng thanh khoản [ROW] Tỷ lệ dự trữ thanh khoản | 19,42% | 16,4% | Số liệu BCTC hợp nhất [ROW] Tỷ lệ khả năng chi trả 30 ngày_VND | 76,92% | 99,84% | Số liệu BCTC hợp nhất [ROW] Tỷ lệ khả năng chi trả 30 ngày_USD | Không phát sinh | Không phát sinh | Số liệu BCTC hợp nhất [ROW] Cổ tức | 25% | 25% [ROW] EPS (đồng) | 2.798 | 3.188",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

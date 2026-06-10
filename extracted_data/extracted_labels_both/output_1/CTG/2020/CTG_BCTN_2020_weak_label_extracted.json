@@ -1,0 +1,105 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 303,
+      "text": "Cùng với sự phát triển ngày càng cao của khoa học kỹ thuật, thủ đoạn của các đối tượng gian lận ngày càng tinh vi và là thách thức lớn đối với việc QLRR hoạt động của mỗi ngân hàng. Nhận diện được vấn đề này, công tác QLRR hoạt động của VietinBank năm 2020 cũng đồng thời tập trung vào kiểm soát rủi ro gian lận thông qua việc triển khai mua sắm hệ thống giám sát giao dịch nhằm giám sát và phát hiện sớm gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 304,
+      "text": "Mặt khác, với phương châm công tác QLRR cần được thực hiện toàn diện, xuyên suốt, liên tục đối với tất cả các loại rủi ro, VietinBank cũng luôn chú trọng để nhận diện, đo lường và kiểm soát rủi ro rửa tiền, tài trợ khủng bố ở mức tốt nhất. Không chỉ dừng lại ở việc hoàn thiện phương pháp luận QLRR khi thường xuyên cập nhật, ban hành mới các văn bản quy định, quy trình QLRR rửa tiền, tài trợ khủng bố căn cứ trên tình hình thị trường, thông lệ quốc tế, đồng thời đảm bảo tuân thủ quy định pháp luật, VietinBank thường xuyên rà soát để hoàn thiện hơn nữa hệ thống phần mềm phòng, chống rửa tiền, tài trợ khủng bố nhằm kịp thời ngăn chặn rủi ro mới phát sinh.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 769,
+      "text": "VietinBank đã chủ động xây dựng các chính sách, sản phẩm tạo cơ chế linh hoạt trong tài trợ các dự án Xanh như: Chính sách cấp tín dụng cho dự án điện mặt trời mái nhà; Chính sách tín dụng tài trợ đặc thù dự án năng lượng tái tạo; Bộ điều kiện và hướng dẫn thẩm định với dự án năng lượng tái tạo; Cung cấp giải pháp tài chính toàn diện cho các doanh nghiệp trong lĩnh vực năng lượng, phục vụ toàn diện chuỗi giá trị ngành năng lượng từ năng lượng sơ cấp, sản xuất, truyền tải, phân phối và dịch vụ phục vụ ngành năng lượng; Nâng cao năng lực tư vấn và thu xếp vốn cho các dự án năng lượng, đặc biệt là các dạng năng lượng mới như điện khí LNG (Liquefied Natural Gas – Khí thiên nhiên hóa lỏng), thủy điện tích năng, năng lượng tái tạo,... Tiếp tục triển khai có hiệu quả chương trình kết nối ngân hàng - doanh nghiệp, các chương trình, chính sách của Nhà nước hỗ trợ doanh nghiệp trong tiếp cận vốn tín dụng, đặc biệt là các dự án hoặc doanh nghiệp đầu tư vào lĩnh vực năng lượng tái tạo, năng lượng sạch, góp phần gia tăng sự đóng góp của lĩnh vực tư nhân trong sự phát triển ngành năng lượng.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E3": 6
+      }
+    },
+    {
+      "paragraph_id": 770,
+      "text": "Các hoạt động được triển khai đồng bộ, mạnh mẽ trên toàn hệ thống đã đem lại kết quả khả quan, trong đó 88% dư nợ là cho vay trung dài hạn, 71% cho lĩnh vực năng lượng tái tạo, năng lượng sạch, 14% cho lĩnh vực quản lý nước bền vững tại khu vực đô thị và nông thôn, 13% cho lĩnh vực xử lý chất thải và phòng chống ô nhiễm... Đặc biệt, 100% các đề nghị cấp tín dụng đã phê duyệt đều được thực hiện đánh giá rủi ro về môi trường và xã hội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1547,
+      "text": "[TABLE] [CONTEXT] section: Phân loại nợ ; column_headers: Nhóm nợ Phân loại nợ theo định lượng | Phân loại nợ theo định tính [ROWS] Nhóm nợ Phân loại nợ theo định lượng | Phân loại nợ theo định tính [ROW] 1 Nợ đủ tiêu chuẩn | a. Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc b. Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn. [ROW] 2 Nợ cần chú ý | a. Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc b. Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi nhưng có dấu hiệu khách hàng suy giảm khả năng trả nợ. [ROW] 3 Nợ dưới tiêu chuẩn | a. Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc b. Nợ gia hạn nợ lần đầu; hoặc c. Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc d. Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: - Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. | Các khoản nợ được đánh giá là không có khả năng thu hồi đầy đủ cả nợ gốc và lãi khi đến hạn, có khả năng tổn thất. [ROW] 4 ngờ | Nợ nghi a. Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc b. Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc c. Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc | Các khoản nợ được đánh giá là có khả năng tổn thất cao.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

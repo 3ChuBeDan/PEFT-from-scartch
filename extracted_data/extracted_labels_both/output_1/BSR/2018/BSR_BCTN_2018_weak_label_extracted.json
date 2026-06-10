@@ -1,0 +1,342 @@
+{
+  "extracted_count": 17,
+  "extracted": [
+    {
+      "paragraph_id": 273,
+      "text": "Nhận thức được tầm quan trọng của dự án Nâng cấp mở rộng Nhà máy lọc dầu Dung Quất đối với sự tồn tại và phát triển của Công ty trong tương lai nên BSR đã nỗ lực giải quyết các khó khăn vướng mắc của dự án. Đến nay Báo cáo đánh giá tác động môi trường của dự án đã được Bộ TN & MT phê duyệt, hoàn thành phê duyệt Thiết kế FEED và Dự toán công trình để phát hành hồ sơ mời thầu EPC giai đoạn 1.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 335,
+      "text": "chăm lo chu đáo. Quan trắc môi trường và quản lý chất thải được thực hiện đúng theo quy định pháp luật: Nước thải, khí thải được xử lý đạt tiêu chuẩn về môi trường hiện hành trước khi xả thải; thực hiện thu gom, phân loại, lưu chứa và bàn giao chất thải cần xử lý đáp ứng các quy chuẩn về môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 616,
+      "text": "Dự án NCMR NMLD Dung Quất: Đã triển khai được 44 tháng trên kế hoạch tổng thể 78 tháng. Về tổng thể, Dự án đã hoàn thành thiết kế tổng thể FEED. Tập đoàn DKVN đã có văn bản ủy quyền cho Công ty phê duyệt thiết kế FEED và dự toán xây dựng công trình (sau khi ĐTM được phê duyệt); Công ty/ban DQRE đang làm các thủ tục xin phê duyệt Báo cáo đánh giá tác động môi trường (ĐTM), phát hành Hồ sơ mời thầu EPC giai đoạn 1 (công việc này triển khai kéo dài do có nhiều thay đổi về danh sách các nhà thầu tham gia đấu thầu, chờ kết quả phê duyệt FEED chính thức...), thực hiện công tác giải phóng mặt bằng và tái định cư, công tác thu xếp vốn. Một số công việc chính:",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0,
+        "S6": 0.5
+      },
+      "themes": [
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2,
+        "S6": 1
+      }
+    },
+    {
+      "paragraph_id": 736,
+      "text": "» Rủi ro phát triển sản phẩm mới: Xu hướng thế giới đang dần dịch chuyển nhu cầu sử dụng nguồn năng lượng truyền thống (dầu mỏ/ khí đốt, than,...) sang năng lượng tái tạo, năng lượng sạch (điện, gió, khí...) vì các ưu điểm như giảm thiểu khí thải, tiếng ồn, tiết kiệm nhiên liệu,... Tuy nhiên với cơ sở hạ tầng hiện nay ở Việt Nam còn hạn chế thì việc phát triển các nguồn năng lượng sạch cần lộ trình khá dài, kinh phí đầu tư lớn. Vì vậy, trong ngắn hạn, BSR có thể chủ động trong việc tiêu thụ các loại sản phẩm lọc hóa dầu tại thị trường Việt Nam và trong khu vực trước các rủi ro phát triển sản phẩm mới.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 860,
+      "text": "Lập và trình phê duyệt các báo cáo đánh giá tác động môi trường cho dự án",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 862,
+      "text": "Lập, trình phê duyệt và định kỳ tổ chức diễn tập các kế hoạch ứng phó sự cố môi trường: Tràn dầu, hóa chất, bức xạ",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 866,
+      "text": "Tất cả các loại chất thải rắn/ chất thải nguy hại phát sinh tại Nhà máy đã được Công ty đăng ký, được Sở Tài nguyên và Môi trường Quảng Ngãi cấp sổ chủ nguồn thải với mã số QLCTNH 51.000010.T ngày 11/8/2014 (cấp phát lần đầu vào ngày 25/8/2009). Các loại chất thải khác nhau sẽ được phân loại, thu gom, và lưu chứa tạm thời trước khi chuyển giao cho đơn vị có chức năng xử lý theo đúng quy định tại Thông tư 36/2015/TT-BTNMT.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 867,
+      "text": "Toàn bộ nước thải phát sinh trong quá trình vận hành sản xuất được thu gom và đưa về xử lý tại hệ thống xử lý nước thải sản xuất của NMLD Dung Quất. Hệ thống xử lý được đầu tư với công suất thiết kế 566 m3/h để xử lý tất cả các dòng nước thải phát sinh trong quá trình sản xu ất bởi các phương pháp khác nhau như xử lý cơ học (vật lý), hoá lý (tuyển nổi), sinh học, lắng và lọc cát.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 869,
+      "text": "Phân xưởng xử lý nước thải của Nhà máy hoạt động ổn định và hiệu quả từ năm 2010 đến nay. Tất cả thông số nước thải Nhà máy sau xử lý luôn thấp hơn giới hạn cho phép của QCVN 40:2011/ BTNMT. Tại bể chứa nước thải sau xử lý, công ty trồng một số loài cây thủy sinh như sen, súng, thả cá để làm chỉ thị sinh học. Hiện tại các loài này đều đang phát triển rất tốt, thể hiện chất lượng nước thải đầu ra của NMLD Dung Quất rất sạch, có thể đảm bảo cho sự sinh sống và phát triển của các sinh vật",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 874,
+      "text": "» Thiết kế và lắp đặt chiều cao ống khói được đúng theo các báo cáo đánh giá tác động môi trường cho Nhà máy lọc dầu Dung Quất;",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 877,
+      "text": "» Định kỳ, Công ty đều thuê đơn vị có chức năng để tiến hành quan trắc chất lượng các nguồn thải. Kết quả, các thông số chất lượng khí thải của Nhà máy đều đáp ứng QCVN 34:2010/BTNMT Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp lọc hoá dầu đối với bụi và các chất vô cơ.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 884,
+      "text": "» Quản lý tiếng ồn và độ rung: Phát sinh từ quá trình vận hành của các máy móc thiết bị. Để đảm bảo sức khỏe cho NLĐ, Công ty đã trang bị đầy đủ các thiết bị BHLĐ, kẻ vạch cảnh báo khu vực có độ ồn cao, thường xuyên kiểm tra, bảo dưỡng",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 886,
+      "text": "» Sẵn sàng ứng phó sự cố môi trường",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 894,
+      "text": "Tính từ thời điểm triển khai chương trình đến nay đã có 147.000 thẻ SAO được ghi nhận và hơn 11.300 khuyến nghị đã được các bộ phận khắc phục xử lý, góp phần cải thiện điều kiện làm việc an toàn, nhân rộng phát huy những việc làm tốt, từ đó đã từng bước nâng cao văn hóa an toàn đến từng CBCNV.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 980,
+      "text": "LAO ĐỘNG TRẺ EM VÀ LAO ĐỘNG CƯỠNG BỨC",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 981,
+      "text": "BSR không sử dụng lao động trẻ em và lao động cưỡng bức. Năm 2018, ở BSR không xẩy ra vụ việc nào liên quan đến lao động trẻ em hay lao động cưỡng bức.",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "S4": 4,
+        "S6": 4
+      }
+    },
+    {
+      "paragraph_id": 1349,
+      "text": "[TABLE] [CONTEXT] section: Biểu đồ diễn biến khí thải công nghiệp qua các đợt - Thông số SO2 ; column_headers: Năm | Lượng khí nhà kính và khí thải khác giảm qua các năm | CO2e (tấn) | SOx (tấn) | NOx (tấn) [ROWS] Năm | Lượng khí nhà kính và khí thải khác giảm qua các năm [ROW] CO2e (tấn) | SOx (tấn) | NOx (tấn) [ROW] 2015 | 74.801 | 67,48 | 28,92 [ROW] 2016 | 41.855 | 37,76 | 16,18 [ROW] 2017 | 67.898 | 61,25 | 26,25 [ROW] 2018 | 52.515 | 41,37 | 20,30",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5
+      }
+    }
+  ]
+}

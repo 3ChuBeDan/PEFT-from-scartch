@@ -1,0 +1,209 @@
+{
+  "extracted_count": 11,
+  "extracted": [
+    {
+      "text": "Cam kết giảm phát thải khí nhà kính theo lộ trình quốc gia thông qua việc minh bạch kiểm kê phát thải khí nhà kính trong hoạt động kinh doanh đồng thời triển khai các dự án cắt giảm phát thải khí nhà kính.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Song song với đó, vấn đề an ninh mạng (Cyber Security) nổi lên như một thách thức đặc biệt nghiêm trọng trong năm 2024. Theo báo cáo của Hiệp hội An ninh mạng quốc gia, có tới 46,15% cơ quan, doanh nghiệp cho biết đã từng bị tấn công mạng ít nhất 1 lần trong năm qua, trong đó 6,77% thường xuyên bị tấn công. Tổng số vụ tấn công mạng trong năm ước tính lên tới hơn 659.000 vụ. Các cuộc tấn công mạng ngày càng trở nên tinh vi, phức tạp hơn, không chỉ gây tổn thất lớn về tài chính, gián đoạn hoạt động mà còn gây ra những thiệt hại nặng nề về uy tín thương hiệu của nhiều doanh nghiệp lớn.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Ngoài ra, với tinh thần chủ động ứng phó trước các nguy cơ an ninh mạng ngày càng gia tăng, PNJ tiếp tục thực hiện việc gia cố hệ thống công nghệ từ sớm và duy trì trạng thái cảnh giác cao độ. Các hoạt động kiểm tra đánh giá, mô phỏng và xử lý các tình huống an ninh mạng được thực hiện thường xuyên và định kỳ, nhằm đảm bảo một hệ thống vận hành liên tục, ổn định, an toàn và đáng tin cậy, hạn chế tối đa các rủi ro và gián đoạn có thể xảy ra.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 2
+      }
+    },
+    {
+      "text": "PNJ đã đầu tư hệ thống xử lý nước thải đạt tiêu chuẩn, đảm bảo nước thải được xử lý triệt để trước khi xả ra môi trường. Toàn bộ quy trình xử lý nước thải được giám sát nghiêm ngặt, thực hiện quan trắc định kỳ để đảm bảo tuân thủ các quy định về môi trường và giảm thiểu tối đa ô nhiễm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Hướng tới mô hình kinh tế tuần hoàn, PNJ không chỉ tập trung vào xử lý nước thải mà còn tích cực tái sử dụng nguồn nước trong hoạt động sản xuất. Các sáng kiến tái chế nước thải được triển khai nhằm tăng tỷ lệ tuần hoàn nước, giúp giảm lượng nước đầu vào, tối ưu hóa tài nguyên và giảm tác động đến môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Trong năm 2024, PNJ tiếp tục chú trọng phát triển các chương trình Phúc lợi nhằm mang lại giá trị an sinh thiết thực cho nhân viên. Bên cạnh việc toàn bộ nhân viên của PNJ đều tham gia chương trình bảo hiểm bắt buộc theo quy định của nhà nước, bao gồm bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp, nhân viên còn được tham gia chương trình Bảo hiểm Sức khỏe và Bảo hiểm tai nạn cho bản thân và người thân nhằm góp phần duy trì cuộc sống khỏe mạnh cho nhân viên, chia sẻ gánh nặng về tài chính khi phát sinh chi phí điều trị, từ đó giúp nhân viên an tâm hơn trong cuộc sống và công việc. Nhân viên nữ được tham gia chương trình chăm sóc sức khỏe sinh sản nữ, các dịch vụ tư vấn tâm lý hoặc hỗ trợ tinh thần cho nhân viên, có phòng vắt, trữ sữa nhằm hỗ trợ lao động nữ nuôi con bằng sữa mẹ. Ngoài ra, công ty cũng triển khai chương trình hỗ trợ chi phí giữ trẻ, mẫu giáo từ 6 tháng đến ≤ 6 tuổi cho một số đối tượng nhân viên. Tổ chức các hoạt động team building và chương trình Happy Hour mừng sinh nhật nhân viên hàng tháng, nhằm tạo ra một môi trường làm việc thân thiện, vui vẻ và gắn bó hơn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: GIÁM SÁT VÀ QUẢN LÝ RỦI RO [ROWS] RỦI RO NGOẠI CẢNH | Các yếu tố bên ngoài có thể ảnh hưởng lớn đến hoạt động kinh doanh của PNJ, bao gồm các yếu tố như kinh tế, chính trị, chính sách, biến động của thị trường tài chính, môi trường, xã hội, hành vi tiêu dùng của khách hàng, và tác động của thiên tai hoặc dịch bệnh. | Thiết lập hệ thống theo dõi và cảnh báo liên tục các yếu tố bên ngoài có thể ảnh hưởng đến PNJ. Ngoài ra, PNJ phát triển các kế hoạch ứng phó linh hoạt và đa dạng hóa hoạt động kinh doanh giúp giảm thiểu tác động tiêu cực từ những biến động không lường trước nhằm đảm bảo mục tiêu kinh doanh. [ROW] RỦI RO HOẠT ĐỘNG | Hoạt động kinh doanh hàng hóa có giá trị cao luôn có rủi ro về an ninh, thất thoát, chất lượng sản phẩm, và hiệu quả chi phí trong quá trình vận hành. | Xây dựng các công cụ nhận diện, đo lường, cảnh báo sớm các chỉ số rủi ro chính (KRIs). Thiết lập hệ thống an ninh và giám sát cảnh báo an ninh tiên tiến. Triển khai lực lượng kiểm tra kiểm soát hệ thống kinh doanh xuyên suốt các chi nhánh trên toàn quốc. Áp dụng quy trình kiểm soát chất lượng nghiêm ngặt từ khâu nhập nguyên liệu đến sản xuất và giao hàng. [ROW] RỦI RO THANH KHOẢN | Hoạt động mua lại hàng hóa từ khách hàng có thể gây ra rủi ro thanh khoản cho PNJ. | PNJ xây dựng các công cụ đo lường và cảnh báo các chỉ số về mua lại hàng hóa. Định kỳ PNJ dự báo dòng tiền trong hoạt động kinh doanh, tương ứng sẽ xây dựng danh mục tài sản thanh khoản phù hợp để ứng phó với việc mua lại hàng hóa từ khách hàng. [ROW] RỦI RO NGUỒN NHÂN LỰC | Công ty có thể gặp phải các vấn đề từ quản lý và sử dụng lao động, thiếu hụt nhân sự kỹ năng cao, giữ chân nhân tài, lưu chuyển nhân sự cao, và rủi ro liên quan đến an toàn và sức khỏe của nhân viên. | Xây dựng chính sách nhân sự rõ ràng, chú trọng vào việc đào tạo và phát triển kỹ năng cho nhân viên, cũng như tạo dựng một môi trường làm việc an toàn và tích cực để thu hút và giữ chân nhân tài. [ROW] RỦI RO CÔNG NGHỆ THÔNG TIN | Với sự phát triển nhanh của công nghệ thông tin, PNJ có thể sẽ gặp phải thách thức về chi phí đầu tư hợp lý cho công nghệ và nguồn nhân lực, liên kết đồng bộ các hệ thống thông tin, tối ưu hóa dữ liệu phục vụ cho hoạt động sản xuất, kinh doanh. Ngoài ra công ty có thể gặp phải các rủi ro về an ninh mạng và bảo mật làm cho thông tin có thể bị rò rỉ do tấn công mạng hoặc lỗi bảo mật. | Xác định các công nghệ mang lại giá trị tối ưu nhất và đầu tư ưu tiên vào những lĩnh vực đó, đảm bảo rằng mọi khoản đầu tư đều hợp lý và phục vụ trực tiếp cho mục tiêu sản xuất kinh doanh. Xây dựng hệ thống bảo mật để bảo vệ thông tin khách hàng và dữ liệu công ty khỏi các cuộc tấn công mạng. Đánh giá định kỳ hệ thống IT, phát triển và thực hiện các chính sách bảo mật thông tin chặt chẽ. Áp dụng các biện pháp như mã hóa dữ liệu, quản lý truy cập, và phân quyền sử dụng hợp lý. Ngoài ra, đào tạo nhân viên về an ninh mạng và nhận thức về rủi ro công nghệ là yếu tố quan trọng để giảm thiểu rủi ro từ nguồn nhân lực.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: GIÁM SÁT VÀ QUẢN LÝ RỦI RO [ROWS] RỦI RO DANH TIẾNG | Các vấn đề liên quan đến chất lượng sản phẩm hoặc dịch vụ, hành vi không đạo đức của nhân viên hoặc lãnh đạo, các vụ việc pháp lý, và sự tiếp xúc tiêu cực trên truyền thông xã hội. An ninh công nghệ thông tin là mối quan tâm hàng đầu của PNJ khi công ty ghi nhận nhiều trường hợp tấn công qua email chứa mã độc, giả mạo thương hiệu PNJ trên mạng. | Thực hiện giám sát truyền thông liên tục, đánh giá và phản hồi kịp thời đối với các thông tin tiêu cực. Đồng thời phối hợp với các cơ quan chức năng để xử lý, đối phó với các hành vi gây ảnh hưởng tiêu cực đến thương hiệu PNJ. [ROW] RỦI RO MÔI TRƯỜNG | Phát thải khí nhà kính PNJ phát thải lượng khí nhà kính (chủ yếu là CO2) từ hoạt động sản xuất và kinh doanh, trong đó phát thải Scope 2 (từ tiêu thụ năng lượng) chiếm tỷ trọng lớn. | PNJ cam kết giảm phát thải khí nhà kính theo lộ trình quốc gia thông qua việc minh bạch kiểm kê khí nhà kính trong hoạt động kinh doanh, đồng thời triển khai các dự án cắt giảm phát thải khí nhà kính. [ROW] Sử dụng năng lượng Với đặc thù doanh nghiệp sản xuất và kinh doanh bán lẻ, nguồn năng lượng được sử dụng ở PNJ được đa dạng từ các nguồn khác nhau dựa vào mục đích sử dụng như điện, xăng, dầu, khí gas. | PNJ thúc đẩy việc sử dụng hiệu quả năng lượng và tài nguyên thông qua việc kiểm toán năng lượng, dòng vật liệu, và cắt bỏ lãng phí đồng thời hướng đến sử dụng năng lượng tái tạo hợp lý. [ROW] Quản lý chất thải Sản xuất và kinh doanh tại PNJ phát sinh nhiều loại chất thải, bao gồm cả chất thải nguy hại. Cần thiết phải quản lý chất thải hiệu quả nhằm bảo vệ môi trường. | PNJ thúc đẩy mô hình kinh tế tuần hoàn bằng việc tối đa hóa giá trị vòng đời sản phẩm, sử dụng tài nguyên thiên nhiên một cách có trách nhiệm và giảm thiểu chất thải. Đồng thời, tăng cường giám sát và báo cáo minh bạch về quản lý chất thải. [ROW] Biến đổi khí hậu Biến đổi khí hậu làm tăng tần suất xảy ra thiên tai như lũ lụt, bão, hạn hán ảnh hưởng đến cơ sở hạ tầng, nhà máy, cửa hàng của PNJ, và có thể làm thay đổi hoạt động sản xuất, kinh doanh theo các chính sách, quy định mới về môi trường. | Công ty liên tục theo dõi các dự báo về thiên tai, đánh giá tác động của các quy định mới về môi trường, đồng thời xây dựng kế hoạch ứng phó khẩn cấp và tăng cường đầu tư vào hạ tầng, công nghệ để sản xuất kinh doanh bền vững.",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E3": 1.0,
+        "G9": 0.852803
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "G9"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 7,
+        "E2": 8,
+        "E3": 3,
+        "G9": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: CÂU HỎI | NỘI DUNG | ĐÁNH GIÁ GIẢI THÍCH KẾT QUẢ [ROWS] CÂU HỎI | NỘI DUNG | ĐÁNH GIÁ GIẢI THÍCH KẾT QUẢ [ROW] B.2.5 | Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng? | Mẫu giấy uỷ quyền được gửi kèm trong thư mời tham dự ĐHĐCĐ và đăng tải trên website mục Quan hệ cổ đông. IR contact và hotline hỗ trợ đại hội luôn trực tiếp trả lời và hỗ trợ cổ đông trong việc thực hiện uỷ quyền tham dự ĐHĐCĐ theo quy định. Tỉ lệ hiệu quả trả lời và hỗ trợ (responsive rate) cho cổ đông là 100%. [ROW] B.3 | Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] B.3.1 | Mỗi nghị quyết trong ĐHĐCĐ gần nhất chỉ liên quan đến một nội dung của dự thảo nghị quyết, nghĩa là không gộp nhiều nội dung vào trong cùng một nghị quyết? | Quy định và thực hiện theo Quy chế nội bộ về Quản trị công ty. [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Quy định và thực hiện theo Điều lệ Công ty, phù hợp Thông tư 96/2020/TT-BTC [ROW] B.4 | Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty không? | Quy định và thực hiện theo Điều lệ Công ty, Quy chế nội bộ về Quản trị công ty, Quy chế hoạt động của HĐQT, Quy chế công bố thông tin. Truyền thông, đào tạo và hướng dẫn cho toàn Công ty (bao gồm công ty con) nhằm nâng cao nhận thức về quản trị công ty bao gồm việc công bố lợi ích có liên quan trong giao dịch và mọi xung đột lợi ích với [ROW] B.4.2 | Công ty có chính sách yêu cầu một tiểu ban bao gồm thành viên độc lập HĐQT rà soát giao dịch với bên liên quan trọng yéu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông không? | Ủy ban Kiểm toán trực thuộc HĐQT, trong đó có 2/3 thành viên là thành viên độc lập HĐQT thực hiện chức năng này. [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Quy định và thực hiện theo Quy chế nội bộ về Quản trị công ty. Thành viên HĐQT có thể tham gia họp trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích để giải trình giao dịch nhưng không tham gia bỏ phiếu biểu quyết. [ROW] B.4.4 | Công ty có chính sách về khoản vay cho thành viên HĐQT, trong đó qui định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Quy định và thực hiện theo Điều lệ Công ty. [ROW] B.5 | Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng [ROW] B.5.1 | Công ty có công bố về việc giao dịch bên liên quan được thực hiện theo cách đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | Công ty có công bố các giao dịch bên liên quan trong báo cáo quản trị công ty. Trong báo cáo hoạt động của thành viên độc lập HĐQT trong UBKT có ghi rõ báo cáo đánh giá giao dịch này tuân thủ quy chế hoạt động công ty, điều lệ công ty và pháp luật hiện hành.",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 1.0
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4,
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: CÂU HỎI | NỘI DUNG | ĐÁNH GIÁ GIẢI THÍCH KẾT QUẢ [ROWS] CÂU HỎI | NỘI DUNG | ĐÁNH GIÁ GIẢI THÍCH KẾT QUẢ [ROW] (P)A.2 | Cổ đông, bao gồm cả cổ đông tổ chức, phải được trao đổi với nhau về các vấn đề liên quan tới quyền cơ bản của cổ đông như nêu trong bộ Nguyên tắc Quản trị công ty này, trừ trường hợp ngoại lệ nhằm ngăn ngừa lạm dụng [ROW] (P)A.2.1 | Có bằng chứng gì về rào cản đối với việc cổ đông không được trao đổi thông tin hoặc tham khảo ý kiến các cổ đông khác? | PNJ không ghi nhận bất kỳ rào cản nào. [ROW] (P)A.3 | Quyền tham gia hiệu quả vào và biểu quyết trong ĐHĐCĐ và được thông báo về các quy định, bao gồm thủ tục biểu quyết diễn ra trong ĐHĐCĐ [ROW] (P)A.3.1 | Công ty có đưa nội dung bổ sung và không được thông báo trước trong chương trình nghị sự vào thông báo ĐHĐCĐ/ĐHĐCĐ bất thường? | PNJ luôn thông báo trước cho cổ đông các nội dung bổ sung trong chương trình cuộc họp ĐHĐCĐ/ĐHĐCĐ bất thường. [ROW] (P)A.3.2 | Chủ tịch HĐQT, Chủ tịch Ủy ban kiểm toán và Tổng giám đốc/Giám đốc có tham dự ĐHĐCĐ mới nhất? | Chủ tịch HĐQT, Chủ tịch Ủy ban kiểm toán và Tổng giám đốc/Giám đốc có tham dự ĐHĐCĐ mới nhất. [ROW] (P)A.4 | Cơ cấu vốn và các thoả ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai [ROW] (P)A.4.1 | Thỏa thuận cổ đông? | PNJ không phát sinh trường hợp này [ROW] (P)A.4.2 | Giới hạn biểu quyết? | PNJ không phát sinh trường hợp này [ROW] (P)A.4.3 | Cổ phiếu nhiều quyền biểu quyết? | PNJ không phát sinh trường hợp này [ROW] (P)A.5 | Cơ cấu vốn và các thoả ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai [ROW] (P)A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc Cấu trúc sở hữu chéo có tồn tại không? | PNJ không ghi nhận sự tồn tại của cấu trúc sở hữu kim tự tháp hay cấu trúc sở hữu chéo. [ROW] (P)B. | Đối xử công bằng với cổ đông [ROW] (P)B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] (P)B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, Ban điều hành và nhân viên công ty trong ba năm qua? | PNJ không ghi nhận bất kỳ vi phạm nào. [ROW] (P)B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] (P)B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | PNJ không ghi nhận bất kỳ trường hợp không tuân thủ nào. [ROW] (P)B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | PNJ không ghi nhận bất kỳ giao dịch bên liên quan nào có đặc điểm như đề cập.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

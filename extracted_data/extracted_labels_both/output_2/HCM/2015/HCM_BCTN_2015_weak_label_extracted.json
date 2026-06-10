@@ -1,0 +1,174 @@
+{
+  "extracted_count": 11,
+  "extracted": [
+    {
+      "text": "Việt Nam, là một nước đang phát triển về kinh tế và xã hội, chắc chắn đã tiến bộ nhiều mặt trong hơn hai mươi năm qua. Nói cách khác, Việt Nam đã từ một nước có thu nhập thấp trở thành quốc gia có thu nhập trung bình. Nhưng tôi nghĩ chỉ một mình mức thu nhập không thể định hình được Tinh Thần Nhân văn. Tôi tin rằng Tinh Thần Nhân Văn cần phải được xây dựng từ nhân phẩm mỗi cá nhân chúng ta trao cho những người xung quanh, và các phẩm chất mà bản thân chúng ta luôn giữ gìn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Liên quan đến khái niệm về \"thông tin nội bộ\" trong Điều 9, Luật Chứng khoán định nghĩa như sau: \"thông tin nội bộ là thông tin về công ty đại chúng hoặc quỹ đại chúng chưa được công bố, mà nếu được công bố có thể ảnh hưởng lớn đến giá chứng khoán của công ty đại chúng hoặc quỹ đại chúng đó\". Chúng tôi tích hợp các chính sách về Giao dịch Cá nhân và Giao dịch nội gián vào trong bộ quy tắc nội bộ trong đó nêu rõ quyền lợi khách hàng của HSC phải được ưu tiên đảm bảo so với quyền lợi cá nhân của nhân viên. HSC cũng duy trì các chính sách và thủ tục để đảm bảo mức độ tuân thủ, phát hiện và ngăn chặn các hành vi lạm dụng quyền hạn gây ảnh hưởng đến khách hàng. Trong năm 2015, công ty không phát hiện bất kỳ trường hợp gian lận giao dịch nào.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "HSC cam kết xây dựng một môi trường làm việc công khai và minh bạch cho phép nhân viên có thể chia sẻ các mối lo ngại đi ngược lại với các chính sách, nội quy hoặc nguyên tắc kinh doanh của HSC xảy ra trong công việc hoặc giữa các mối quan hệ đồng nghiệp mà không e sợ việc ảnh hưởng tới công việc của mình về sau. Những hành động này cũng có thể là các hành vi phi đạo đức, tội phạm hình sự hoặc vi phạm pháp luật. Ví dụ như hành vi lạm dụng thị trường, vi phạm các điều khoản bảo mật của khách hàng, rửa tiền, giao dịch nội gián, trộm cắp, lừa đảo, hoặc các hành vi vi phạm luật định về tài chính.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E4",
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E4",
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 615,
+      "text": "[TABLE] [CONTEXT] section: Trong năm, Công ty đã có các giao dịch chủ yếu sau với các bên liên quan: ; column_headers: Năm nay ; row_headers: Công ty TNHH Hệ thống thông tin FPT | Công ty TNHH Phần mềm FPT | Công ty Cổ phần Viễn thông FPT | Công ty Cổ phần FPT | Bà Nguyễn Bạch Diệp | Phải thu ngắn hạn của khách hàng [ROWS] Năm nay [ROW] Bán hàng [ROW] Công ty TNHH Hệ thống thông tin FPT | 8.972.035.754 [ROW] Công ty TNHH Phần mềm FPT | 3.572.255.137 [ROW] Công ty Cổ phần Viễn thông FPT | 5.794.803.872 [ROW] Công ty Cổ phần FPT | 1.309.009.282 [ROW] 19.648.104.045 [ROW] Mua hàng [ROW] Công ty Cổ phần FPT | 6.625.519.356 [ROW] Công ty Cổ phần Viễn thông FPT | 25.555.420.433 [ROW] Công ty TNHH Phần mềm FPT | 240.625.000 [ROW] 32.421.564.789 [ROW] Doanh thu lãi đầu tư [ROW] Công ty Cổ phần FPT | 147.701.046 [ROW] 147.701.046 [ROW] Thu hồi khoản cho vay [ROW] Bà Nguyễn Bạch Diệp | 70.859.066.193 [ROW] 70.859.066.193 [ROW] Đi vay [ROW] Công ty Cổ phần FPT | 20.000.000.000 [ROW] 20.000.000.000 [ROW] Trong năm, Công ty đã có các giao dịch chủ yếu sau với các bên liên quan: [ROW] Số cuối năm [ROW] VND [ROW] Phải thu ngắn hạn của khách hàng | 742.250.000 [ROW] Công ty TNHH Hệ thống thông tin FPT | 150.254.000 [ROW] Công ty Cổ phần Viễn thông FPT | 82.440.000 [ROW] Công ty TNHH Phần mềm FPT | 577.490.000 [ROW] Công ty Cổ phần FPT",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "paragraph_id": 645,
+      "text": "[TABLE] [CONTEXT] section: Trong năm, Công ty đã có các giao dịch chủ yếu sau với các bên liên quan: ; column_headers: Năm nay | VND | Năm trước ; row_headers: Công ty TNHH Hệ thống thông tin FPT | Công ty TNHH Phần mềm FPT | Công ty Cổ phần Viễn thông FPT | Công ty Cổ phần FPT | Công ty Cổ phần Dược phẩm FPT Long Châu | Bà Nguyễn Bạch Diệp [ROWS] Năm nay | Năm trước [ROW] VND | VND [ROW] Bán hàng [ROW] Công ty TNHH Hệ thống thông tin FPT | 8.972.035.754 | 9.972.387.002 [ROW] Công ty TNHH Phần mềm FPT | 3.572.255.137 | 3.100.392.233 [ROW] Công ty Cổ phần Viễn thông FPT | 5.794.803.872 | 3.690.569.471 [ROW] Công ty Cổ phần FPT | 1.309.009.282 | 1.144.047.275 [ROW] Công ty Cổ phần Dược phẩm FPT Long Châu | 23.064.545 | - [ROW] 19.671.168.590 | 17.907.395.981 [ROW] Mua hàng [ROW] Công ty Cổ phần FPT | 6.625.519.356 | 6.313.257.340 [ROW] Công ty Cổ phần Viễn thông FPT | 25.555.420.433 | 24.954.771.688 [ROW] Công ty TNHH Phần mềm FPT | 240.625.000 | 562.500.000 [ROW] 32.421.564.789 | 31.830.529.028 [ROW] Góp vốn [ROW] Công ty Cổ phần Dược phẩm FPT Long Châu | 75.000.000.000 | - [ROW] 75.000.000.000 | - [ROW] Doanh thu lãi đầu tư [ROW] Công ty Cổ phần FPT | 147.701.046 | 23.886.490.606 [ROW] 147.701.046 | 23.886.490.606 [ROW] Cho vay [ROW] Bà Nguyễn Bạch Diệp | - | 50.460.665.760 [ROW] Công ty Cổ phần FPT | - | 765.000.000.000 [ROW] - | 815.460.665.760 [ROW] Thu hồi khoản cho vay [ROW] Bà Nguyễn Bạch Diệp | 70.859.066.193 | - [ROW] Công ty Cổ phần FPT | - | 2.060.000.000.000 [ROW] 70.859.066.193 | 2.060.000.000.000 [ROW] Đi vay [ROW] Công ty Cổ phần FPT [ROW] 20.000.000.000 | - [ROW] 20.000.000.000 | -",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 646,
+      "text": "[TABLE] [CONTEXT] section: Số dư chủ yếu với các bên liên quan tại ngày kết thúc niên độ kế toán: ; column_headers: Số cuối năm | VND | Số đầu năm ; row_headers: Công ty TNHH Hệ thống thông tin FPT | Công ty Cổ phần Viễn thông FPT | Công ty TNHH Phần mềm FPT | Công ty Cổ phần FPT | Công ty Cổ phần Dược phẩm FPT Long Châu | Bà Nguyễn Bạch Diệp [ROWS] Số cuối năm | Số đầu năm [ROW] VND | VND [ROW] Phải thu ngắn hạn của khách hàng [ROW] Công ty TNHH Hệ thống thông tin FPT | 742.250.000 | 584.005.977 [ROW] Công ty Cổ phần Viễn thông FPT | 150.254.000 | 360.111.972 [ROW] Công ty TNHH Phần mềm FPT | 82.440.000 | 231.149.999 [ROW] Công ty Cổ phần FPT | 577.490.000 | - [ROW] Công ty Cổ phần Dược phẩm FPT Long Châu | 341.696.600 | - [ROW] 1.894.130.600 | 1.175.267.948 [ROW] Phải thu khác [ROW] Công ty Cổ phần FPT | - | 16.513.848.461 [ROW] - | 16.513.848.461 [ROW] Phải trả người bán [ROW] Công ty TNHH Phần mềm FPT | 562.500.000 | 421.875.000 [ROW] Công ty Cổ phần Viễn Thông FPT | 1.377.538.817 | 1.234.733.920 [ROW] Công ty Cổ phần FPT | 2.698.990.636 | - [ROW] 4.639.029.453 | 1.656.608.920 [ROW] Phải trả khác [ROW] Công ty Cổ phần FPT | - | 548.597.608 [ROW] Công ty Cổ phần Viễn Thông FPT | 597.189.068 | - [ROW] 597.189.068 | 548.597.608 [ROW] Các khoản cho vay [ROW] Bà Nguyễn Bạch Diệp | - | 70.859.066.193 [ROW] - | 70.859.066.193",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

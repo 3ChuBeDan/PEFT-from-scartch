@@ -1,0 +1,47 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 388,
+      "text": "- Phát thải (GRI 305) đối với phương tiện vận chuyển: luôn trang bị những phương tiện vận chuyển, công cụ lao động hiện đại, đảm bảo tiêu chuẩn khí thải và đăng kiểm theo quy định của Nhà nước. Bên cạnh đó, thực hiện bảo dưỡng/sửa chữa định kỳ các phương tiện vận chuyển để đảm bảo an toàn, tiết kiệm nhiên liệu. Hàng năm thực hiện rà soát và đánh giá chất lượng phương tiện trên toàn công ty để kịp thời thay thế các phương tiện cũ không đạt tiêu chuẩn. Đối với khí thải từ hệ thống điều hòa không khí, máy phát điện luôn lựa chọn những trang thiết bị hiện đại, thân thiện môi trường và đáp ứng các tiêu chuẩn cao nhất về khí thải và tiếng ồn. Thực hiện bảo dưỡng theo đúng lịch trình và kỹ thuật của nhà cung cấp để đảm bảo hiệu suất cao, tiết kiệm năng lượng, giảm thiểu phát sinh khi thải và kịp thời sửa chữa, thay thế khi thiết bị cũ, hư hỏng.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.388514,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 389,
+      "text": "- Đối với chất thải rắn, chất thải nguy hại chủ yếu tại các hầm đường bộ, Công ty đã ký hợp đồng với cơ quan chuyên ngành để phân loại, thu gom và có nhân viên xử lý theo đúng quy trình. Khối lượng chất thải nguy hại lắng đọng tại các bể chứa trong quá trình quản lý vận hành các dự án hầm đường bộ trung bình là 60 tấn/năm/4 hầm. Chi phí xử lý chất thải nguy hại trung bình 370 triệu đồng/năm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    }
+  ]
+}

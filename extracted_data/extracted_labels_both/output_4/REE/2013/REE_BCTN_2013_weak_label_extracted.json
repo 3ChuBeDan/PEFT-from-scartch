@@ -1,0 +1,56 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: 13.2. Đâ`u tư vào các công ty liên kết và công ty đô`ng kiểm soát [ROWS] Hoạt động kinh doanh | Nhiệt điện | Cung cấp nước | Thủy điện | Thủy điện | Bất động sản | Thủy điện | Khai thác than | Khai thác than | Nhiệt điện | Bất động sản | Cung cấp nước | Cung cấp nước | Cơ điện | Cơ điện | Cơ điện | Bất động sản [ROW] Số đầu năm | Giá trị đầu tư (VNĐ) | - | 399.092.098.331 | 331.156.851.503 | 230.762.992.238 | 126.420.735.337 | - | - | - | 67.747.029.719 | 46.857.175.643 | - | 19.042.624.413 | 22.386.592.012 | 2.408.139.991 | 1.994.088.317 1.247.868.327.504 | 372.169.428 | 1.248.240.496.932 [ROW] Tỷ lệ sở hữu (%) | - | 42,10 | 35,48 | 23,97 | 46,37 | - | - | - | 29,44 | 27,96 | - | 30,00 | 35,00 | 35,62 | 35,00 | 40,00 [ROW] Số cuối năm | Giá trị đầu tư (VNĐ) | 1.206.817.318.391 | 349.597.976.134 | 333.897.933.962 | 217.736.579.551 | 164.458.336.855 | 153.057.104.039 | 85.974.944.278 | 74.276.928.023 | 66.849.671.976 | 62.674.195.177 | 56.800.812.652 | 46.012.592.781 | 24.566.214.974 | 2.885.966.064 | 2.242.500.267 2.847.849.075.124 | 248.112.952 | 2.848.097.188.076 [ROW] Tỷ lệ sở hữu (%) | 22,37 | 42,10 | 35,48 | 23,97 | 46,37 | 33,85 | 23,62 | 24,01 | 29,44 | 28,87 | 43,11 | 30,00 | 35,00 | 35,62 | 35,00 | 40,00 [ROW] Tên công ty | Công ty Cổ phần Nhiệt Điện Phả Lại (i) | Công ty Cổ phần B.O.O Thủ Đức | Công ty Cổ phần Thủy điện Thác Mơ | Công ty Cổ phần Thủy điện Thác Bà | Công ty Cổ phần Đầu tư Hạ tầng và Bất động sản Việt Nam | Công ty Cổ phần thủy điện Srok Phu Miêng (i) | Công ty Cổ phần Than Núi Béo (i) | Công ty Cổ phần Than Đèo Nai (i) | Công ty Cổ phần Nhiệt điện Ninh Bình | Công ty Cổ phần Địa ốc Sài Gòn | Công ty Cổ phần Cấp nước Thủ Đức (i) | Công ty Cổ phần Đầu tư và Kinh doanh Nước Sạch Sài Gòn | Công ty Cổ phần Cơ điện Đoàn Nhất | Công ty Cổ phần Cơ điện Chất Lượng | Công ty Cổ phần Cơ điện Hợp Phát Tổng cộng các công ty liên kết | Công ty liên doanh đồng kiểm soátTòa nhà số 41B Lý Thái Tổ, Hà Nội | TỔNG CỘNG",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 13. Investment (continued) [ROWS] Busines | Power | Water supply Power | Power | Real Estate | Power | Coal mining | Coal mining | Power | Real Estate | Water supply | Water supply | Mechanical and Engineering | Mechanical and Engineering | Mechanical and Engineering | Bất động sản [ROW] Beginning balance | Carrying value of investment (VND) - | 399,092,098,331 | 331,156,851,503 | 230,762,992,238 | 126,420,735,337 | - | - | - | 67,747,029,719 | 46,857,175,643 | - | 19,042,624,413 | 22,386,592,012 | 2,408,139,991 | 1,994,088,317 1,247,868,327,504 | 372,169,428 | 1,248,240,496,932 [ROW] % Interest - | 42.10 | 35.48 | 23.97 | 46.37 | - | - | - | 29.44 | 27.96 | - | 30.00 | 35.00 | 35.62 | 35.00 | 40.00 [ROW] Ending balance | Carrying value of investment (VND) 1,206,817,318,391 | 349,597,976,134 | 333,897,933,962 | 217,736,579,551 | 164,458,336,855 | 153,057,104,039 | 85,974,944,278 | 74,276,928,023 | 66,849,671,976 | 62,674,195,177 | 56,800,812,652 | 46,012,592,781 | 24,566,214,974 | 2,885,966,064 | 2,242,500,267 | 2,847,849,075,124 | 248,112,952 | 2,848,097,188,076 [ROW] % Interest | 22.37 | 42.10 | 35.48 | 23.97 | 46.37 | 33.85 | 23.62 | 24.01 | 29.44 | 28.87 | 43.11 | 30.00 | 35.00 | 35.62 | 35.00 | 40.00 [ROW] Name | Associates Pha Lai Thre-mo Electricity Joint Stock Company (i) | Thu Duc Water B.O.O Corporation | Thac Mo Hydropower Joint-Stock Company | Thac Ba Hydropower Joint-Stock Company | Vietnam Infrastructure and Real Estate Joint Stock Company | Srok Phu Mieng Hydropower Joint-Stock Company (i) | Nui Beo Coal Joint Stock Company (i) | Deo Nai Coal Joint Stock Company (i) | Ninh Binh Thermal Electricity Joint Stock Company | Saigon Real Estate Joint Stock Company | Thu Duc Water Supply Joint Stock Company (i) | Saigon Water Investment and Trading Joint Stock Company | Doan Nhat Mechanical Electrical Joint Stock Company | Quality Mechanical Electrical Joint Stock Company | Hop Phat Mechanical Electrical Joint Stock Company | TOTAL ASSOCIATES Joint venture | Building at 41B Ly Thai To, Ha Noi | TOTAL",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Liquidity risk ; column_headers: VND TOTAL | From 1 to 5 years | More than 5 years ; row_headers: Loans and borrowings | Convertible bond | Trade payables | Other payables and accrued expenses [ROWS] Less than 1 year | From 1 to 5 years | More than 5 years | VND TOTAL [ROW] 31 December 2013 [ROW] Loans and borrowings | 251,571,946,603 | 60,411,815,300 | 72,000,000,000 | 383,983,761,903 [ROW] Convertible bond | - | 138,900,000,000 | - | 138,900,000,000 [ROW] Trade payables | 168,707,988,402 | - | - | 168,707,988,402 [ROW] Other payables and accrued expenses | 264,398,615,943 | - | - | 264,398,615,943 [ROW] 684,678,550,948 | 199,311,815,300 | 72,000,000,000 | 955,990,366,248 [ROW] 31 December 2012 [ROW] Loans and borrowings | 83,196,052,715 | 44,411,815,300 | 88,000,000,000 | 215,607,868,015 [ROW] Convertible bond | - | 557,846,000,000 | - | 557,846,000,000 [ROW] Trade payables | 170,675,957,212 | - | - | 170,675,957,212 [ROW] Other payables and accrued expenses | 509,366,321,172 | 96,185,831,348 | - | 605,552,152,520 [ROW] 763,238,331,099 | 698,443,646,648 | 88,000,000,000 | 1,549,681,977,747",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

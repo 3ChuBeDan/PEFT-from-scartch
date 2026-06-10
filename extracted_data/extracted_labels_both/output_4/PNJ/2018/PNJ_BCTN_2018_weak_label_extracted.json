@@ -1,0 +1,101 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 392,
+      "text": "Theo kết quả phân tích nước thải của Công ty PNJP vào 2 đợt lấy mẫu (ngày 16/09/2016 và ngày 23/12/2016) thì tất cả các chỉ tiêu phân tích trong mẫu nước thải sau Hệ thống xử lý nước thải đều đạt QCVN 40:2011/ BTNMT, loại B – Quy chuẩn kỹ thuật quốc gia về nước thải công nghiệp.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 397,
+      "text": "Chất thải rắn sinh hoạt chủ yếu chứa nhiều chất hữu cơ dễ phân hủy, nếu không được thu gom và xử lý đúng quy định sẽ sinh ra mùi hôi thối gây ảnh hưởng đến sức khỏe người lao động, gây ô nhiễm môi trường không khí xung quanh. Chất thải nguy hại là chất thải chứa các chất hoặc hợp chất có một trong các đặc tính gây nguy hại hoặc tương tác với các chất khác gây nguy hại tới môi trường, đe dọa đến sức khỏe con người như: tổn thương cơ thể, có khả năng gây dị ứng, các bệnh mãn tính và cấp tính, gây bệnh đường hô hấp, ung thư, rối loạn hệ thần kinh, gây đột biến... Nếu chất thải nguy hại không được thải bỏ đúng cách sẽ hủy hoại môi trường và gây ra những mối nguy hại tiềm ẩn đến sức khỏe cộng đồng.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 414,
+      "text": "Bùn thải từ bể tự hoại và hệ thống xử lý nước thải tập trung. Bùn thải từ hệ thống xử lý nước thải tập trung bao gồm bùn sinh học, dễ phân hủy từ Bể lắng sinh học và bùn nguy hại từ Bể lắng hóa lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 457,
+      "text": "Hơn nữa tất cả các thiết bị gây ồn đêu đặt trên cao thoáng có độ khuyếch tán tốt nên ít ảnh hưởng với các khu vực khác trong công ty và những khu vực gần khu dân cư lân cận. Nguồn gây ra tiếng ồn lớn nhất là máy phát điện dự phòng chỉ mang tính chất gián đoạn do chỉ sử dụng khi có sự cố mất điện nên mức độ ảnh hưởng cũng không đáng kể. Xe ra vào vận chuyển hàng hóa trong nhà máy cũng áp dụng biện pháp chạy chậm 5km/h để giảm tiếng ồn. Định kỳ, PNJ đều được Sở y tế thực hiện Báo cáo kết quả thực hiện quan trắc môi trường lao động theo Nghị định số 44/2016/NĐ-CP ngày 29 tháng 7 năm 2016. Đồng thời, PNJ cũng thực hiện theo đúng khuyến nghị của Sở Y tế về đo kiểm môi trường lao động, khám sức khỏe định kỳ, khám bệnh nghề nghiệp hàng năm, trang bị đầy đủ phương tiện bảo hộ lao động, như nút bịt tai chống ồn đối với khu vực có tiếng ồn do máy móc thiết bị.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 4
+      }
+    },
+    {
+      "paragraph_id": 1295,
+      "text": "[TABLE] [CONTEXT] section: 6. Đảm bảo điều kiện kinh tế cho người lao động ; caption: GRI 202-1: Tỷ lệ của mức lương gộp khởi điểm theo giới tính so với mức lương tối thiểu của vùng (Phạm vi: Toàn Công ty) ; column_headers: 2015 2016 | 2017 | 2018 | Deloitte đảm bảo | ĐVT ; row_headers: Lương tối thiểu theo quy định | Lương trung bình với lao động nữ | Lương trung bình cấp quản lý nam | Tỷ lệ lương trung bình của lđ nữ/lương tối thiểu | Lương trung bình với lao động nam | Lương trung bình cấp quản lý nữ | Tỷ lệ lương trung bình của lđ nam/lương tối thiểu | Thù lao trung bình cấp quản lý nam | Thù lao trung bình cấp quản lý nữ | Lương trung bình của nhân viên [ROWS] Chỉ tiêu | Deloitte đảm bảo | ĐVT | 2015 2016 | 2017 | 2018 [ROW] Lương tối thiểu theo quy định | Triệu đồng | 3.1 | 3.5 | 3.75 | 3.98 [ROW] Lương trung bình với lao động nam | Triệu đồng | 10.5 | 11.5 | 12.9 | 13.0 [ROW] Lương trung bình cấp quản lý nam | Triệu đồng | 34.2 | 40.8 | 46.9 | 52.2 [ROW] Thù lao trung bình cấp quản lý nam | Triệu đồng | 34.2 | 40.8 | 46.9 | 52.2 [ROW] Lương trung bình với lao động nữ | Triệu đồng | 9.6 | 10.8 | 12.1 | 12.2 [ROW] Lương trung bình cấp quản lý nữ | Triệu đồng | 34.8 | 11.5 | 12.9 | 13.0 [ROW] Lương trung bình cấp quản lý nam | Triệu đồng | 34.2 | 41.2 | 47.9 | 52.0 [ROW] Thù lao trung bình cấp quản lý nữ | Triệu đồng | 35.2 | 39.7 | 44.3 | 52.0 [ROW] Tỷ lệ lương trung bình của lđ nam/lương tối thiểu | % | 339% | 331% | 369% | 327% [ROW] Tỷ lệ lương trung bình của lđ nữ/lương tối thiểu | % | 310% | 309% | 345% | 321% [ROW] Lương trung bình của nhân viên | Triệu đồng | 10.2 | 11.2 | 12.5 | 12.9",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 7
+      }
+    }
+  ]
+}

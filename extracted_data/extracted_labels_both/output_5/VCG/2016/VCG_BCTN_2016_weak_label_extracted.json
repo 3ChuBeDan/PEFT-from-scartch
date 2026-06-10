@@ -1,0 +1,57 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E9"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E9"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E9"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E9"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

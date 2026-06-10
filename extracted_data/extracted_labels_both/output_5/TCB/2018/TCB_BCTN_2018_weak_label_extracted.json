@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 246,
+      "text": "Với cá nhân tôi, Techcombank đã giúp tôi mở rộng tầm nhìn của chính bản thân mình để bứt phá. Chỉ đơn giản với những hoạt động cộng đồng như giải chạy marathon mà Techcombank tổ chức, tôi có cơ hội khám phá giới hạn bản thân và vượt qua thách thức mà trước đây tôi từng nghĩ mình sẽ không thể làm được. Mỗi tuần, tôi lại đặt ra mục tiêu cho mình phải chạy xa thêm một chút. Cộng với sự hỗ trợ và đồng hành của các đồng nghiệp, mọi việc không còn khó khăn như tôi nghĩ. Với mỗi cột mốc đạt được, tôi lại cảm thấy rất rất hài lòng đã chiến thắng chính bản thân mình.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 734,
+      "text": "Các cán bộ nhân viên luôn được tạo điều kiện tối đa để phát triển bản thân thông qua môi trường làm việc chuyên nghiệp, thân thiện với lộ trình phát triển nghề nghiệp rõ ràng. Techcombank khuyến khích mỗi cán bộ nhân viên làm tốt công việc đồng thời trau dồi thêm kiến thức kỹ năng để phát triển bản thân thông qua chế độ đào tạo và kế hoạch phát triển bản thân cùng chương trình kế cận, vừa giúp đảm bảo nguồn nhân lực nội bộ chất lượng cao, vừa tạo điều kiện giúp cán bộ nhân viên phát triển hơn ngay trong Ngân hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1340,
+      "text": "[TABLE] [CONTEXT] section: 4.6 Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro cho tiền gửi và cấp tín dụng cho các tổ chức tín dụng khác, mua và ủy thác mua trái phiếu doanh nghiệp chưa niêm yết, cho vay khách hàng và ủy thác cấp tín dụng ; column_headers: STT | Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROWS] STT | Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

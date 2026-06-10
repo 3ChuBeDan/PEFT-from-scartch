@@ -1,0 +1,264 @@
+{
+  "extracted_count": 12,
+  "extracted": [
+    {
+      "paragraph_id": 195,
+      "text": "Thúc đẩy đầu tư các dự án năng lượng sạch, năng lượng tái tạo, đây sẽ là một trụ cột rất quan trọng cho động lực tăng trưởng mới, phát triển kinh tế xanh, sử dụng hiệu quả nguồn lực của Tập Đoàn trong giai đoạn 20252030 và tầm nhìn đến 2050.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 297,
+      "text": "Tập đoàn đã thành lập Ban Chỉ đạo và Tổ thực hiện Quy hoạch phát triển năng lượng sạch nhằm rà soát các diện tích phù hợp cho việc phát triển nguồn năng lượng sạch, năng lượng tái tạo cung cấp cho các khu công nghiệp, đơn vị sử dụng năng lượng lớn theo cơ chế mua bán điện trực tiếp và bán cho Tập đoàn Điện lực Việt Nam bằng hình thức phù hợp theo quy định.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 519,
+      "text": "Khai thác và sử dụng tài nguyên một cách hiệu quả: Ứng dụng công nghệ hiện đại trong quá trình canh tác cây cao su, ưu tiên sử dụng các nguồn năng lượng tái tạo như năng lượng mặt trời, năng lượng sinh khối. Đồng thời, tối ưu hóa việc sử dụng đất đai, nước và các nguồn tài nguyên thiên nhiên khác nhằm giảm thiểu tác động đến hệ sinh thái.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 628,
+      "text": "Trên cơ sở kết quả đạt được năm 2024, tiếp tục áp dụng các giải pháp tiết kiệm nguyên nhiên liệu sử dụng trong sản xuất, giảm thiểu chất thải ra môi trường, triển khai các giải pháp chuyển đổi, sử dụng các nguồn năng lượng xanh, năng lượng tái tạo vào hoạt động sản xuất như năng lượng mặt trời, Biomass, ... Tận dụng, tái sử dụng chất thải nhằm thúc đẩy giảm phát thải CO2 và kinh tế tuần hoàn. Kiểm toán, thống kê đánh giá kết quả, hiệu quả đạt được trong công tác bảo vệ môi trường, sản xuất sạch hơn của Tập đoàn, cụ thể như sau:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.830679,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 4,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 668,
+      "text": "» Đã lắp 28 hệ thống lò đốt Biomass thay thế lò đốt Dầu DO nhằm tận dụng phụ phẩm gỗ, tiết kiệm chi phí, bảo vệ môi trường, công suất sinh hơi của 28 hệ thống sấy chuyển đổi nhiên liệu sang Biomass là trên 105 tấn hơi/giờ, nâng tổng số hệ thống nồi hơi công nghiệp sử dụng nhiên liệu Biomass trong Tập đoàn lên 58 hệ thống (nhà máy gỗ, công nghiệp cao su, chế biến cao su...); công tác chuyển đổi cấp nhiệt các hệ thống sấy đã làm lợi cho Tập đoàn hơn 94,9 tỷ đồng, giảm phát thải khí nhà kính từ nhiên liệu hóa thạch tương đương 53.627,9 tấn CO2 qui đổi (dựa trên 20% tiết giảm khi chuyển đổi nhiêu liệu từ DO/LPG sang Biomass bằng hình thức mua nhiệt và tự đầu tư nồi hơi), năm 2024 sấy được 235.800 tấn mủ bằng Biomass, việc chuyển đổi làm lợi cho Tập đoàn số tiền 36,38 tỷ đồng;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 736,
+      "text": "Specific results achieved include: Total revenue of the entire Group reached 28739 billion VND, reaching 115% of the plan and increasing by 16% compared to the previous year; pre-tax profit of 5606 billion VND, reaching 137% of the plan and 36% higher than the previous year; after-tax profit of 4826 billion VND, reaching 140% of the plan and 43% higher than in 2023; budget payment of the entire Group was 6460 billion VND, 63% higher than the plan and 67% higher than the same period last year, the disbursement of investment capital of the entire Group was 6182 billion VND/ 6393 billion VND plan, equal to 96.7%/ the set plan.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1055,
+      "text": "The Group has established a Steering Committee and a Development Plan Implementation Team for Clean Energy to review suitable areas for the development of clean energy and renewable energy sources to supply industrial parks and large energy-consuming units under the direct power purchase mechanism and sell to Vietnam Electricity (EVN) in a manner consistent with regulations.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1338,
+      "text": "Based on the results achieved in 2024, continue to apply solutions for saving raw materials and energy in production, minimizing environmental waste, and implementing measures to transition to and use green energy and renewable energy sources in production activities (such as solar power, biomass, etc.). Make use of and reuse waste to promote CO2 emissions reduction and circular economy practices. Carry out audits, statistics, and assessments of the outcomes and effectiveness of environmental protection and cleaner production across the Group, specifically as follows:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 0.623009,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 3,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1340,
+      "text": "The target is to completely switch to using biomass fuel (Biomass) for rubber drying kilns in all rubber companies by the end of 2025 (the entire volume of rubber dried using biomass is expected to reach 507,422.51 tons, achieving 100%).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1382,
+      "text": "28 Biomass boilers have been installed to replace DO oil-fired boilers, aiming to utilize wood byproducts, save costs, and protect the environment. The total steam output of the 28 systems that switched fuel to Biomass is over 105 tons of steam/hour, raising the total number of Biomass-fueled industrial boilers in the Group to 58 systems (wood factories, rubber industry, rubber processing, etc.); the conversion of drying systems has brought the Group a benefit of over 94.9 billion VND, reduced greenhouse gas emissions from fossil fuels equivalent to 53,627.9 tons of CO2 (based on a 20% reduction when switching from DO/LPG to Biomass through both heat purchase and selfinvested boilers). In 2024, 235,800 tons of latex were dried with Biomass, resulting in 36.38 billion VND in savings for the Group;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 1451,
+      "text": "[TABLE] [CONTEXT] section: a) Tiết kiệm nguyên nhiên vật liệu, sử dụng hiệu quả năng lượng, giảm xả thải và chuyển đổi sử dụng năng lượng xanh/năng lượng tái tạo ; column_headers: STT | Hạng mục | ĐVT | Khối lượng thực hiện [ROWS] STT | Hạng mục | ĐVT | Khối lượng thực hiện [ROW] I | TIẾT KIỆM/GIẢM THIỂU [ROW] 1 | Tiết kiệm năng lượng điện sử dụng | Kwh | Đạt tối thiểu 3.000.000 kwh [ROW] 2 | Tiết kiệm nhiên liệu sử dụng (dầu DO, gas LPG, gỗ, củi,...) | Kg | Đạt tối thiểu 600.000 kg [ROW] II | GIẢM THIỂU XẢ THẢI [ROW] 4 | Tiết kiệm và giảm thiểu hóa chất sử dụng | Kg | Đạt tối thiểu 200.000 kg [ROW] 5 | Tái sử dụng nước thải | % | Tối thiểu 20% trên tổng lượng sử dụng [ROW] 6 | Giảm thiểu xả thải chất thải rắn thông thường ra môi trường. | % | Tối thiểu 20% trên tổng lượng chất thải rắn thông thường ra môi trường [ROW] 7 | Giảm thiểu xả thải chất thải nguy hại (CTNH) ra môi trường | % | Tối thiểu 20% trên tổng lượng chất thải nguy hại ra môi trường",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E3": 0.777029
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 9,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1511,
+      "text": "[TABLE] [CONTEXT] section: a) Saving raw materials and fuel, using energy efficiently, reducing emissions, and transitioning to green/renewable energy sources ; column_headers: No. | Item | Unit | Actual quantity [ROWS] No. | Item | Unit | Actual quantity [ROW] I | SAVINGS/REDUCTIONS [ROW] 1 | Electricity savings | kWh | Minimum 3,000,000 kWh [ROW] 2 | Fuel savings (DO oil, LPG gas, wood, firewood, etc.) | kg | Minimum 600,000 kg [ROW] II | WASTE EMISSION REDUCTION [ROW] 4 | Chemical use savings and reduction | kg | Minimum 200,000 kg [ROW] 5 | Wastewater reuse | % | Minimum 20% of total water usage [ROW] 6 | Reduction of ordinary solid waste emissions to the environment | % | Minimum 20% of total ordinary solid waste emissions to the environment [ROW] 7 | Reduction of hazardous waste emissions (hazardous waste) to environment | % | Minimum 20% of total hazardous waste emissions to the environment",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6,
+        "E2": 12,
+        "E3": 1
+      }
+    }
+  ]
+}

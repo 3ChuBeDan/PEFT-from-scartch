@@ -1,0 +1,31 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E8"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E8"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S0"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S0"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Công tác môi trường: Năm 2018 công ty có báo cáo giám sát môi trường gửi cơ quan có thẩm quyền. Nộp phí bảo vệ môi trường đối với nước thải công nghiệp và phí bảo vệ môi trường đầy đủ. Công ty ký hợp đồng xử lý chất thải nguy hại với công ty TNHH Siam City Cement Việt Nam. Báo cáo quản lý chất thải nguy hại năm 2018 gửi Sở tài nguyên và môi trường.Việc thu gom và vận chuyển rác công ty ký hợp đồng với Công ty CP cấp nước và môi trường đô thị Đồng Tháp. Ngày 02/4/2018 Trung tâm kiểm định môi trường tiến hành kiểm định nước thải tại hiện trường, kết quả các chỉ số đều đạt theo qui định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "Tại nhà máy IMP 2, Công ty ký hợp đồng xử lý chất thải nguy hại với công ty xử lý môi trường Thành Lập và Nhà máy IMP3 Công ty ký hợp đồng với công ty TNHH Sen Vàng để xử lý chất thải nguy hại.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

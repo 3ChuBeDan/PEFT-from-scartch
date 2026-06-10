@@ -1,0 +1,28 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "23 nhà máy sản xuất bia trong hệ thống bia Sài Gòn đều có hệ thống xử lý nước thải đạt chất lượng theo tiêu chuẩn QCVN 40:2011 (loại A hoặc loại B) trước khi xả ra môi trường hoặc xả vào hệ thống thu gom nước thải của khu công nghiệp. Chỉ có nhà máy bia Sài Gòn -Sóc Trăng nước thải được đấu nối vào mạng lưới thu gom của hệ thống thoát nước của khu công nghiệp An Nghiệp và khu công nghiệp tự xử lý trước khi thải ra môi trường. Công tác quan trắc môi trường nước thải định kỳ của các đơn vị đều tuân thủ đúng tần suất như trong báo cáo ĐTM được phê duyệt.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

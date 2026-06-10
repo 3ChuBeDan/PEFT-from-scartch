@@ -1,0 +1,446 @@
+{
+  "extracted_count": 24,
+  "extracted": [
+    {
+      "text": "Sử dụng tài nguyên tiết kiệm, hiệu quả, gắn liền với bảo vệ môi trường sinh thái. Chủ động thực hiện các giải pháp giảm thiểu và thích ứng với biến đổi khí hậu. Phát triển năng lượng mới, năng lượng tái tạo.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Lộ trình áp dụng tiêu chuẩn khí thải đối với ô tô: Việc áp dụng tiêu chuẩn khí thải mức 5 đối với các loại xe ôtô sản xuất, lắp ráp và nhập khẩu mới từ 01/01/2022 theo Quyết định số 49/2011/ QĐ-TTg về việc Quy định lộ trình áp dụng tiêu chuẩn khí thải đối với xe ô tô, xe mô tô hai bánh sản xuất, lắp ráp và nhập khẩu mới sẽ ảnh hưởng rất lớn đến việc tiêu thụ xăng dầu của NMLD Dung Quất. Tuy nhiên đến nay Chính phủ vẫn chưa ban hành lộ trình lưu hành các sản phẩm xăng dầu với chất lượng khác nhau (tương đương tiêu chuẩn Euro 2, 3, 4, 5), gây bị động cho các doanh nghiệp trong việc xây dựng kế hoạch để đáp ứng lộ trình này. Song song với việc triển khai dự án Nâng cấp mở rộng Nhà máy lọc dầu Dung Quất, BSR đã và đang tiếp tục làm việc, kiến nghị với các cấp có thẩm quyền để có phương án tiêu thụ các sản phẩm xăng dầu hiện nay của BSR phù hợp với khả năng công nghệ của Nhà máy lọc dầu Dung Quất theo từng giai đoạn cụ thể. Bên cạnh đó, để chủ động hơn trong công tác sản xuất và xuất bán, BSR đã sản xuất, xuất bán sản phẩm khác (gồm Jet A-1K, DO-L62, Xăng RON83) nhằm tìm kiếm cơ hội thị trường mới đối với sản phẩm xăng dầu.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3
+      }
+    },
+    {
+      "text": "Tính đến 31/10/2022, Công ty đã thu gom, phân loại và chuyển giao cho đơn vị có chức năng xử lý 882,91 tấn chất thải nguy hại, 3.498,54 tấn chất thải rắn công nghiệp.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Thực hiện 04 đợt quan trắc môi trường theo đánh giá tác động môi trường, 04 đợt quan trắc chất lượng nguồn nước biển khai thác sử dụng và 06 đợt quan trắc chất lượng nước thải sau xử lý và nguồn nước tiếp nhận.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Triển khai có hiệu quả Kế hoạch Văn hóa an toàn thông qua các chương trình quan sát an toàn và triển khai Thực hành Văn hóa an toàn các quý với các chủ đề theo kế hoạch.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "Tăng cường công tác bảo mật an ninh mạng trên tổng thể các phương diện Con người - Quy trình - Công nghệ. Thực hiện đào tạo nhận thức, kiểm tra giám sát người dùng định kỳ và thực hiện truyền thông các vấn đề an ninh mạng một cách hiệu quả. Xây dựng các quy trình quy định về đảm bảo an toàn an ninh mạng. Tăng cường các giải pháp công nghệ theo hướng tích hợp, kiểm soát toàn diện. Phối hợp với đơn vị chuyên trách về an toàn an ninh mạng trong việc thực hiện theo dõi giám sát các vấn đề an ninh mạng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 5
+      }
+    },
+    {
+      "text": "Năm 2022 là năm điểm nhấn trong công tác chuyển đổi số của BSR, trong đó Công ty là đơn vị tiên phong trong công tác chuyển đổi số của Tập đoàn Dầu khí Việt Nam. Trong năm 2022, BSR tiếp tục khai thác hiệu quả và tiếp tục hoàn thiện hệ thống quản trị tổng thể nguồn lực doanh nghiệp (ERP) giai đoạn 1 được tích hợp đồng bộ với các hệ thống quản lý sản xuất, điều hành. Bên cạnh đó, Công ty xây dựng hệ thống mua sắm điện tử E-Procure, hệ thống quản lý toàn diện công tác An toàn Sức khỏe Môi trường (HSES), thực hiện các giải pháp để tối ưu hóa sản xuất, nâng cao năng lực bảo dưỡng sửa chữa chẩn đoán (Predictive Maintenance); tăng cường công tác bảo mật an ninh mạng trên tổng thể các phương diện Con người - Quy trình - Công nghệ. Thực hiện đào tạo nhận thức, kiểm tra giám sát người dùng định kỳ và thực hiện truyền thông các vấn đề an ninh mạng một cách hiệu quả.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Quản lý chất thải phát sinh trong quá trình vận hành, bảo dưỡng, sinh hoạt (chất thải nguy hại, nước thải công nghiệp, chất thải rắn, nước sinh hoạt). Quản lý các hoạt động xả thải, khí thải và các hoạt động của thiết bị/ máy móc (nước, bụi, khí, tiếng ồn...).",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Năm 2022, Nhà máy sử dụng nước biển trong vịnh Việt Thanh để làm mát thiết bị với lưu lượng trung bình là 32.308 m3/h và nước ngọt được lấy từ Nhà máy nước Vinaconex nằm trong khu Kinh tế Dung Quất để cung cấp cho toàn bộ khu vực Nhà máy; khu bể chứa sản phẩm; phân xưởng nước khử khoáng; hệ thống nước chữa cháy với lưu lượng 337 m3/h. Quá trình làm mát của nước biển là gián tiếp, không có tiếp xúc với chất ô nhiễm và nhiệt độ đầu cao nhất là 34,150C, đối với nước thải được thu gom và xử lý đạt tiêu chuẩn môi trường tại hệ thống xử lý nước thải của Nhà máy. Do đó, việc xả nước biển sau làm mát và nước thải đã qua xử lý tại vịnh Việt Thanh hầu như không có tác động đáng kể đến môi trường biển cũng như sinh kế, an ninh an toàn trong khu vực.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Nước thải công nghiệp: Chủ yếu là nước thải nhiễm dầu với thông số ô nhiễm đặc trưng là tổng dầu và COD. Toàn bộ nước thải phát sinh được thu gom và xử lý tại hệ thống xử lý nước thải của Nhà máy với lưu lượng trung bình năm 2022 khoảng 262 m3/h;",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Khí thải phát thải từ các lò đốt, lò gia nhiệt và lò đốt coke tái sinh xúc tác với chất ô nhiễm đặc trưng là SOx, NOx và bụi được xử lý, lọc bụi tĩnh điện và quan trắc tự động trước khi phát thải qua các ống khói. Lượng khí thải nhà kính phát thải năm 2022 khoảng 1,76 triệu tấn CO2 tương đương (CO2e);",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1
+      }
+    },
+    {
+      "text": "Chất thải rắn phát sinh trong quá trình hoạt động của Nhà máy chủ yếu là chất thải rắn công nghiệp thông thường như: xúc tác thải RFCC, chất thải sinh hoạt của người lao động ... và chất thải nguy hại như: các loại dầu thải, giẻ lau nhiễm thành phần nguy hại... Toàn bộ lượng chất thải rắn và nguy hại phát sinh sẽ được thu gom phân loại và lưu chứa tại các kho lưu chứa chất thải tạm thời của Nhà máy có tổng diện tích trên 1.000 m2 trước khi chuyển giao cho nhà thầu có chức năng xử lý đúng quy định pháp luật. ·",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    },
+    {
+      "text": "Năm 2022, BSR đã ký hợp đồng với liên danh nhà thầu Pedaco và Lilama EME để thu gom và xử lý 1.292.371 kg chất thải nguy hại, 3.873.290 kg chất thải rắn công nghiệp thông thường và 436.570 kg chất thải sinh hoạt.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "Hệ thống xử lý nước thải của Nhà máy hoạt động ổn định và hiệu quả từ năm 2010 đến nay. Tất cả thông số nước thải Nhà máy sau xử lý luôn đạt QCVN 40:2011/BTNMT. Năm 2019, BSR đã hoàn thành lắp đặt trạm tự động, liên tục cho hệ thống xử lý nước thải và kết nối, truyền dữ liệu về Sở Tài Nguyên và Môi Trường tỉnh Quảng Ngãi.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Nhà máy có các nguồn phát sinh khí thải chủ yếu từ các ống khói của các lò gia nhiệt (các phân xưởng U11, U12, U13, U24), các nồi hơi (phân xưởng U40, U52), lò đốt coke và tái sinh xúc tác (phân xưởng U15) và phân xưởng thu hồi lưu huỳnh (SRU). Các hạng mục xử lý khí thải đảm bảo khí thải phát sinh đáp ứng quy chuẩn môi trường cho phép gồm:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3
+      }
+    },
+    {
+      "text": "Thiết kế và lắp đặt chiều cao ống khói được đúng theo các báo cáo đánh giá tác động môi trường cho Nhà máy lọc dầu Dung Quất;",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Để giám sát và kiểm soát việc phát thải ra môi trường, Công ty đã triển khai lắp đặt hệ thống quan trắc tự động, liên tục cho các ống khói tại các phân xưởng U11, U40, U25 và kết nối, truyền dữ liệu về Sở TNMT tỉnh Quảng Ngãi. Ngoài ra, định kỳ hàng quý Công ty thuê đơn vị có chức năng (EMC) để tiến hành quan trắc chất lượng các nguồn thải. Kết quả, các thống số chất lượng khí thải của Nhà máy đều đáp ứng QCVN 34:2010/BTNMT Quy chuẩn kỹ thuật Quốc gia về khí thải công nghiệp lọc hóa dầu đối với bụi và các chất vô cơ.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Sẵn sàng ứng phó sự cố môi trường",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Nhà máy lọc dầu Dung Quất hiện hữu và mở rộng tương lai có diện tích sử dụng khoảng 956 ha, bao gồm 485 ha mặt đất và 471 ha mặt biển. Các hoạt động sản xuất và xả thải của Nhà máy có cácnguy cơ về tràn dầu trong quá trình xuất-nhập, lưu chứa các sản phẩm và dầu thô, xả nước thải và khí thải có thể tác động đến hệ sinh thái biển trong vịnh Việt Thanh và vịnh Dung Quất, ô nhiễm môi trường không khí xung quanh. Tuy nhiên, các nguy cơ này đã được BSR kiểm soát chặt chẽ thông qua: quy trình quản lý, quy trình vận hành; vận hành các hệ thống xử lý nước thải, xử lý khí thải; quan trắc môi trường tự động liên tục và quan trắc định kỳ bởi đơn vị có chức năng; định kỳ tổ chức diễn tập ứng phó sự cố môi trường.",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 5,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Theo kết quả phân tích, đánh giá về đa dạng sinh học của Trung tâm Nghiên cứu Môi trường Dầu khí (CPSE) năm 2017 cho Báo cáo Đánh giá tác động môi trường của Dự án NCMR Nhà máy và dữ liệu quan trắc qua các năm trước đó, các quần xã sinh vật biển xung quanh Nhà máy lọc dầu Dung Quất có chỉ số đa dạng sinh học (Hs) và chỉ số cân bằng (J) ở mức cao (Trích Báo cáo đánh giá tác động môi trường năm 2019).",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 6
+      }
+    },
+    {
+      "text": "Chương trình Quan sát hành vi an toàn (SAO) là một công cụ hữu hiệu trong việc khuyến khích hành động an toàn và giảm thiểu hành vi không an toàn của từng cá nhân người lao động. Ngoài ra, đây cũng là công cụ để phát huy được sức mạnh trí tuệ của tập thể người lao động trong công tác nhận diện và kiểm soát các mối nguy hiểm, góp phần cải thiện môi trường làm việc an toàn. Tính từ thời điểm triển khai chương trình đến nay đã có 278.360 thẻ SAO được ghi nhận và hơn 13.850 phát hiện và cải tiến đã được các bộ phận khắc phục xử lý, góp phần cải thiện điều kiện làm việc an toàn, nhân rộng, phát huy những việc làm tốt, từ đó đã từng bước nâng cao văn hóa an toàn đến từng CBCNV.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "Công ty Cổ phần Nhiên liệu Sinh học Dầu khí Miền Trung (\"BSR-BF\" – công ty con của Công ty đã tạm ghi tăng nguyên giá các tài sản cố định của dự án Nhà máy Nhiên liệu Sinh học Bio-Ethanol Dung Quất (\"Nhà máy\") trong năm 2014 và hiện nay, đang tạm dừng hoạt động sản xuất. Tại ngày lập báo cáo tài chính hợp nhất này, BSR-BF đang trong quá trình thực hiện các thủ tục quyết toán chi phí đầu tư xây dựng. Giá trị quyết toán Nhà máy sẽ được điều chỉnh khi có phê duyệt của các cơ quan có thẩm quyền. Tại ngày 31 tháng 12 năm 2022, nợ ngắn hạn của BSR-BF vượt quá tài sản ngắn hạn là 1.429 tỷ VND, lỗ lũy kế của BSR-BF là 1.413 tỷ VND và nợ quá hạn thanh toán là 1.467 tỷ VND. BSR-BF đang thiếu hụt vốn lưu động để thanh toán các khoản nợ đến hạn. Các khoản nợ quá hạn thanh toán tại ngày 31 tháng 12 năm 2022 chủ yếu bao gồm (1) số dư nợ phải trả chi phí lãi vay khoảng 369,2 tỷ VND, (2) số dư gốc vay khoảng 1.097,7 tỷ VND.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Các mục tiêu ; column_headers: GRI | THÔNG TIN CÔNG BỐ | TRANG ; row_headers: GRI 303-1 | Lượng nước đầu vào theo nguồn | GRI 303-2 | Những nguồn nước chịu ảnh hưởng đáng kể bởi lượng nước đầu vào | GRI 303-3 | Tuần hoàn và tái sử dụng nước | GRI 304-1 | Các cơ sở hoạt động được sở hữu, cho thuê, quản lý trong, hoặc gần kề các khu vực được bảo tồn và các khu vực đa dạng sinh học cao bên ngoài các khu được bảo tồn | GRI 304-2 | Tác động đáng kể của các hoạt động, sản phẩm và dịch vu đối với đa dạng sinh học | GRI 304-3 | Các môi trường sống được bảo tồn hoặc phục hồi | GRI 304-4 | Các loài trong Sách Đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trường sống trong các khu vực chịu ảnh hưởng bởi các hoạt động | GRI 305-1 | Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) | GRI 305-2 | Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) | GRI 305-3 | Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) | GRI 305-4 | Thâm dụng phát thải khí nhà kính (GHG) | GRI 305-5 | Giảm phát thải khí nhà kính (GHG) | GRI 305-6 | Phát thải các chất phá hủy tầng ô-zôn (ODS) | GRI 305-7 | Phát thải khí NOX, SOX, và các phát thải khí đáng kể khác | GRI 306-1 | Tổng nước thải theo chất lượng và địa điểm thải [ROWS] GRI | THÔNG TIN CÔNG BỐ | TRANG [ROW] GRI 303: NƯỚC [ROW] GRI 303-1 | Lượng nước đầu vào theo nguồn | 146 [ROW] GRI 303-2 | Những nguồn nước chịu ảnh hưởng đáng kể bởi lượng nước đầu vào | 146 [ROW] GRI 303-3 | Tuần hoàn và tái sử dụng nước | 146 [ROW] GRI 304: ĐA DẠNG SINH HỌC [ROW] GRI 304-1 | Các cơ sở hoạt động được sở hữu, cho thuê, quản lý trong, hoặc gần kề các khu vực được bảo tồn và các khu vực đa dạng sinh học cao bên ngoài các khu được bảo tồn | Không có [ROW] GRI 304-2 | Tác động đáng kể của các hoạt động, sản phẩm và dịch vu đối với đa dạng sinh học | 152 [ROW] GRI 304-3 | Các môi trường sống được bảo tồn hoặc phục hồi | Không có [ROW] GRI 304-4 | Các loài trong Sách Đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trường sống trong các khu vực chịu ảnh hưởng bởi các hoạt động | Không có [ROW] GRI 305: PHÁT THẢI [ROW] GRI 305-1 | Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) | x [ROW] GRI 305-2 | Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) | x [ROW] GRI 305-3 | Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) | x [ROW] GRI 305-4 | Thâm dụng phát thải khí nhà kính (GHG) | x [ROW] GRI 305-5 | Giảm phát thải khí nhà kính (GHG) | x [ROW] GRI 305-6 | Phát thải các chất phá hủy tầng ô-zôn (ODS) | Không có [ROW] GRI 305-7 | Phát thải khí NOX, SOX, và các phát thải khí đáng kể khác | 150 [ROW] GRI 306: NƯỚC THẢI VÀ CHẤT THẢI [ROW] GRI 306-1 | Tổng nước thải theo chất lượng và địa điểm thải | 147-149 [ROW] GRI 306-2 | Tổng lượng chất thải theo loại và phương pháp xử lý | 150-151 [ROW] GRI 306-3 | Sự cố tràn đáng kể | Không có [ROW] GRI 306-4 | Vận chuyển chất thải nguy hại | 148 [ROW] GRI 306-5 | Các khu vực chứa nước bị ảnh hưởng bởi tổng lượng nước thải và/hoặc dòng nước thải | Không có [ROW] GRI 307: TUÂN THỦ VỀ MÔI TRƯỜNG [ROW] GRI 307-1 | Không tuân thủ pháp luật và các quy định về môi trường | x [ROW] GRI 401: VIỆC LÀM [ROW] GRI 401-1 | Số lượng nhân viên thuê mới và tỷ lệ thôi việc | 156 [ROW] GRI 401-2 | Phúc lợi cung cấp cho nhân viên toàn thời gian không dành cho nhân viên tạm thời hoặc bán thời gian | 156 [ROW] GRI 401-3 | Nghỉ thai sản | 156 [ROW] GRI 403: AN TOÀN VÀ SỨC KHỎE NGHỀ NGHIỆP [ROW] GRI 403-1 | Đại diện của người lao động trong các liên ủy ban an toàn và sức khỏe nghề nghiệp chính thức giữa ban lãnh đạo và người lao động | 156-160 [ROW] GRI 403-2 | Loại thương tích và tỷ lệ thương tích, bệnh nghề nghiệp, ngày công bị mất, tình trạng vắng mặt và số vụ tử vong liên quan đến công | 156-160 [ROW] GRI 403-3 | Người lao động có tỷ lệ cao hoặc có nguy cơ cao mắc các bệnh liên quan đến nghề nghiệp | 156-160 [ROW] GRI 403-4 | Các chủ đề về sức khỏe và an toàn được đề cập trong thỏa thuận chính thức với công đoàn | x",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 1.0,
+        "S4": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON",
+        "S4"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 10,
+        "E2": 9,
+        "E_COMMON": 5,
+        "S4": 1
+      }
+    }
+  ]
+}

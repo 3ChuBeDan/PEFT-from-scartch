@@ -1,0 +1,353 @@
+{
+  "extracted_count": 20,
+  "extracted": [
+    {
+      "text": "TINH THẦN HỢP TÁC Thể hiện tinh thần hợp tác và tôn trọng đồng nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "TINH THẦN TRÁCH NHIỆM Có tinh thần trách nhiệm với khách hàng, cộng đồng, đồng nghiệp và trung thực trong công việc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Tinh thần ham học hỏi, tinh thần say mê với nghề nghiệp được kế thừa và phát huy qua các thế hệ người Bảo Việt đã trở thành động lực cốt lõi cho sự phát triển của Bảo Việt suốt nửa thế kỷ qua. Đội ngũ cán bộ Bảo Việt năng động, sáng tạo, sẵn sàng tiếp thu cái mới, vượt qua thử thách để chinh phục đỉnh cao.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Hướng tới kỷ niệm 50 năm thành lập Bảo Việt, vào tháng 9/2014, hơn 120 cán bộ Bảo Việt đã chinh phục thành công \"nóc nhà Đông Dương\" - đỉnh Fansipan. Chương trình \"Vươn tới tầm cao mới\" thể hiện không chỉ niềm tin vào chiến thắng, lòng kiên trì, bền bỉ vượt qua gian nan thử thách mà còn là hành trình vượt qua khó khăn để giành chiến thắng quan trọng nhất - vượt qua chính mình. Hoạt động này nhằm khích lệ tinh thần khám phá thử thách của mỗi cá nhân cũng như khơi dậy tinh thần đoàn kết, sức mạnh đồng đội của người Bảo Việt.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": " Giảm cường độ phát thải khí nhà kính và thúc đẩy việc sử dụng năng lượng sạch, năng lượng tái tạo",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": " Đề xuất lựa chọn Công ty Kiểm toán độc lập, mức phí kiểm toán và mọi vấn đề liên quan; Thảo luận với Kiểm toán viên độc lập về tính chất và phạm vi kiểm toán trước khi bắt đầu việc kiểm toán; Thảo luận về những vấn đề khó khăn và tồn tại phát hiện từ các kết quả kiểm toán giữa kỳ hoặc cuối kỳ cũng như mọi vấn đề kiểm toán viên độc lập muốn bàn bạc.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "Tháng 02 năm 2015, nhằm kiện toàn nhân sự của Ủy ban Chiến lược và Đầu tư phục vụ cho các mục tiêu chiến lược năm 2015 và giai đoạn tới, HĐQT đã bổ nhiệm bà Thân Hiền Anh – Thành viên HĐQT – là Chủ nhiệm Ủy ban Chiến lược và Đầu tư thay ông Nguyễn Đức Tuấn. Với kinh nghiệm trong lĩnh vực xây dựng và quản trị chiến lược, bà Thân Hiền Anh sẽ đóng vai trò quan trọng trong hoạt động của Ủy ban Chiến lược và Đầu tư trong việc tham mưu, tư vấn HĐQT về đánh giá triển khai Kế hoạch chiến lược 2011 – 2015 và xây dựng chiến lược phát triển giai đoạn 2016 – 2020; triển khai kiện toàn hoạt động quản lý đầu tư toàn hệ thống; tập trung thực hiện dự án tăng vốn điều lệ nhằm nâng cao sức mạnh tài chính và phát triển hoạt động kinh doanh cho Tập đoàn và các đơn vị thành viên.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Tập đoàn Bảo Việt đã xây dựng và triển khai việc đánh giá, phân loại các tổ chức tín dụng dựa trên mô hình phân tích tín dụng nội bộ, làm căn cứ để RMC Tập đoàn Bảo Việt xác định hạn mức tín dụng đối với mỗi tổ chức tín dụng mà Tập đoàn và các Công ty con được phép gửi tiền, các hạn mức này được rà soát định kỳ. Mô hình phân tích tín dụng nội bộ không ngừng được hoàn thiện cho phù hợp với tình hình kinh tế, tài chính, chính sách vĩ mô và các quy định của pháp luật. Tập đoàn Bảo Việt và các Công ty con thiết lập các biện pháp giám sát nhằm hạn chế rủi ro tích tụ trong hoạt động đầu tư tiền gửi, đồng thời đưa ra hành động kịp thời khi phía đối tác xuất hiện các dấu hiệu suy giảm chất lượng tín dụng. Rủi ro tín dụng được theo dõi và đánh giá trong Báo cáo rủi ro hàng tháng.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro để thực hiện các hoạt động kiểm toán của mình, theo đó Kiểm toán nội bộ căn cứ vào kết quả đánh giá rủi ro để xác định mục tiêu, đối tượng kiểm toán, phạm vi kiểm toán và cách thức thực hiện kiểm toán.",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "text": "Ngoài lương, thưởng, phụ cấp, Bảo Việt tiếp tục duy trì các chế độ phúc lợi như bảo hiểm an nghiệp thành công, bảo hiểm sức khỏe toàn diện, bảo hiểm kết hợp con người, bảo hiểm cho người thân, tổ chức khám sức khỏe định kỳ, tổ chức các hoạt động văn hóa, văn nghệ, thể thao, ngày hội doanh nghiệp... để chúc mừng, khuyến khích động viên, đáp ứng các nhu cầu đời sống tinh thần của người lao động, nâng cao chất lượng cuộc sống và sức khỏe, tạo sự hứng thú, say mê trong công việc, tạo sự gắn kết, đồng lòng và xây dựng tinh thần gắn kết trong tổ chức.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Nằm trong chuỗi hoạt động chào mừng kỷ niệm 50 năm thành lập Bảo Việt, năm 2014 các hoạt động thi đấu thể thao, hội diễn văn nghệ trên mọi miền đất nước là nguồn cổ vũ, khích lệ tinh thần to lớn về mặt tinh thần cho các cán bộ, nhân viên, qua đó Bảo Việt đã truyền tải các thông điệp nhằm cam kết luôn đồng hành và hỗ trợ khách hàng, cổ đông, người lao động và cộng đồng vì niềm tin vào sự thành công, hạnh phúc và thịnh vượng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Báo cáo tình hình thực hiện công tác bảo vệ môi trường của cơ sở trong thời gian đã qua bao gồm biện pháp khống chế môi trường không khí, ô nhiễm môi trường nước, xử lý chất thải rắn, chất thải rắn nguy hại; lực lượng và phương tiện PCCC tại chỗ.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Trên cơ sở đánh giá các tác động tới môi trường, Bảo Việt đã xây dựng Đề án bảo vệ môi trường và đã được Sở Tài nguyên và môi trường phê duyệt. Đề án này bao gồm các nội dung liên quan đến giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Chất thải rắn phát sinh chủ yếu là từ hoạt động văn phòng của cán bộ nhân viên trong tòa nhà. Thành phần chất thải rắn bao gồm giấy in hỏng, bút hết mực, giấy bìa carton, vỏ hoa quả",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Do lượng chất thải này phát sinh rất ít, nhưng để đảm bảo vệ sinh môi trường và thực hiện theo đúng quy định của nhà nước, các tòa nhà của Bảo Việt tiến hành lưu giữ, phân loại và thu gom theo đúng thông tư 12/2011/TT-BNTMT ngày 18 tháng 4 năm 2011 về quản lý chất thải nguy hại. Theo đó, chất thải nguy hại được đựng trong thùng riêng biệt, có khu vực lưu giữ riêng và dán nhãn cảnh báo chất thải nguy hại.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "Tiếp đó, Bảo Việt ký hợp đồng với đơn vị có chức năng thu gom, vận chuyển chất thải nguy hại của Tòa nhà. Thời gian lưu trữ chất thải nguy hại tại tòa nhà không quá 1 năm theo đúng quy định 12/2011/TT_BTNMT",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo thông qua việc áp dụng giả định thận trọng để tránh các biến động lớn trong thực tiễn. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảo Việt Nhân thọ đang sử dụng Bảng tỷ lệ tử vong CSO 1980.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: BẢNG TUÂN THỦ (TÓM TẮT) ; column_headers: GRI | Nội dung trong Báo cáo [ROWS] GRI | Nội dung trong Báo cáo [ROW] Vai trò của HĐQT trong việc thiết lập mục tiêu, giá trị và chiến lược phát triển bền vững | Vấn đề phát triển bền vững được thực hiện xuyên suốt toàn Tập đoàn, từ cấp độ Hội đồng Quản trị đến Ban điều hành; các đơn vị thành viên và phòng ban chức năng của Bảo Việt. HĐQTcó các vai trò: - Hoạch định mục tiêu chiến lược và định hướng phát triển bền vững - Đánh giá năng lực và cách thức triển khai liên quan đến vấn đề phát triển bền vững thông qua xây dựng chỉ tiêu đánh giá hiệu quả; Theo dõi, nắm bắt và chỉ đạo các vấn đề liên quan đến phát triển bền vững; Chỉ đạo thực hiện Báo cáo phát triển bền vững Xem Quản trị Công ty hướng tới phát triển bền vững, trang [ROW] MỤC TIÊU KINH TẾ | Bảo Việt luôn gắn liền tăng trưởng kinh tế với bảo vệ môi trường và trách nhiệm xã hội - ba yếu tố đóng vai trò nền tảng cho thành công lâu dài của Bảo Việt.Trong đó, mục tiêu kinh tế là mục tiêu quan trọng nhất của Bảo Việt vì việc thực hiện mục tiêu này là điều kiện cần để thực hiện các mục tiêu xã hội, môi trường. [ROW] Hiệu quả kinh tế | Bảo Việt đạt tăng trưởng và phát triển kinh tế bền vững và ổn định qua các năm. Trong giai đoạn 2009-2014, tốc độ tăng trưởng bình quân của doanh thu hợp nhất đạt 12,8%, của tài sản hợp nhất đạt 13,1%. Riêng năm 2014, Bảo Việt đóng góp 18,7 tỷ đồng cho hoạt động An sinh xã hội, chi trả gần 885 tỷ đồng cổ tức cho cổ đông và đóng góp 869 tỷ đồng vào Ngân sách nhà nước. [ROW] Các ảnh hưởng kinh tế gián tiếp | Thông qua việc đầu tư cơ sở hạ tầng cho đồng bào các tỉnh khó khăn, Bảo Việt muốn hỗ trợ người dân nơi đây yên tâm lao động sản xuất để nuôi sống bản thân và gia đình họ. Năm 2014, Bảo Việt đã đầu tư hơn 12,8 tỷ đồng cho hoạt động xóa đói giảm nghèo, tập trung cho 2 huyện Quế Phong (Nghệ An) và Pác Nặm (Bặc Kạn); góp phần giảm tỷ lệ hộ nghèo cho 2 huyện từ trên 50% ( năm 2009) xuống còn 28,7% (năm 2014) tại huyện Pác Nặm; tại huyện Quế Phong, tỷ lệ giảm nghèo bình quân là 4%/năm [ROW] MỤC TIÊU XÃ HỘI | Bảo Việt ưu tiên thực hiện mục tiêu đầu tư cho cộng đồng vì một cộng đồng phát triển an toàn và thịnh vượng là điều kiện quan trọng để doanh nghiệp kinh doanh trong lĩnh vực bảo hiểm, dịch vụ tài chính như Bảo Việt có thể tiếp tục tăng trưởng và phục vụ lâu dài.. [ROW] Trách nhiệm với người lao động | Tại Bảo Việt, chúng tôi luôn coi trọng mục tiêu cá nhân và khuyến khích người lao động phấn đấu hoàn thành mục tiêu của họ, đảm bảo hài hòa với mục tiêu của tổ chức. Bảo Việt tăng cường mức độ gắn bó của cán bộ thông qua chính sách lương và phúc lợi, thăng tiến, đào tạo bồi dưỡng, môi trường làm việc và văn hóa doanh nghiệp. [ROW] Đào tạo và giáo dục | Bảo Việt đã đào tạo được gần 7.909 lượt cán bộ, từng bước trang bị các kỹ năng và nâng cao những năng lực cơ bản và cốt lõi mang tính nền tảng cho đội ngũ cán bộ, nhân viên. Đồng thời, Bảo Việt đã cử cán bộ tham gia các chương trình Hội thảo ở nước ngoài, hướng đến mục tiêu hội nhập và tiếp cận các tiêu chuẩn quốc tế [ROW] Đa dạng và công bằng trong nắm bắt cơ hội; Khen thưởng công bằng không phân biệt giới tính | Chiến lược phát triển nguồn nhân lực của Bảo Việt tập trung xây dựng và phát triển đội ngũ chuyên gia giỏi trong các lĩnh vực then chốt, xây dựng môi trường làm việc hấp dẫn, chuyên nghiệp và thân thiện. Bảo Việt thực hiện quản lý và đánh giá người lao động theo năng suất và hiệu quả công việc, đem lại cơ hội công bằng cho tất cả các cán bộ trong quá trình làm việc, cống hiến và tạo điều kiện để họ phát huy năng lực tối đa. [ROW] Trách nhiệm với xã hội [ROW] Cộng đồng địa phương | Năm 2014, Bảo Việt đã dành gần 18,7 tỷ đồng cho các hoạt động cộng đồng. Đặc biệt, chúng tôi đẩy mạnh chuỗi chương trình “Kết nối yêu thương”, gắn kết các hoạt động của các đơn vị trong hệ thống, mang thương yêu đến người dân các vùng khó khăn. Năm 2014, chúng tôi có tổng cộng 850 lượt cán bộ tham gia các dự án cộng đồng, giá trị tương đương 198.900 giờ đóng góp và khoảng 1.460.000.000 đồng. [ROW] Đánh giá hiệu quả | Hiệu quả các dự án cộng đồng được đánh giá dựa trên Bảng đánh giá hiệu quả dự án cộng đồng (Score Matrix). Bảng đánh giá đề cập sâu hơn với các nội dung lượng hóa cụ thể để đánh giá rõ ràng hơn về hiệu quả của dự án đầu tư cộng đồng của Bảo Việt. [ROW] Trách nhiệm với khách hàng [ROW] Vì sức khỏe và an toàn của khách hàng | Là doanh nghiệp bảo hiểm và tài chính, các sản phẩm Bảo Việt đem lại sự an tâm cho khách hàng trước những rủi ro trong cuộc sống, chúng tôi mong muốn chia sẻ gánh nặng trước những bất trắc liên quan đến sức khỏe, tài sản của bản thân, gia đình và doanh nghiệp. [ROW] Truyền thông tiếp thị | Khi nhận thức về các sản phẩm bảo hiểm và dịch vụ tài chính tại thị trường Việt Nam vẫn chưa cao thì việc thông tin đầy đủ tới khách hàng về sản phẩm, giúp khách hàng hiểu rõ các quyền lợi và nghĩa vụ khi tham gia sản phẩm là trách nhiệm bắt buộc của của Bảo Việt. Một trong nguyên tắc quan trọng được quy định trong đạo đức nghề nghiệp của cán bộ bán hàng Bảo Việt đó là tư vấn đầy đủ, rõ ràng, và có trách nhiệm các nội dung trong Hợp đồng ký kết, không vì các lợi ích trước mắt mà gây ảnh hưởng đến quyền lợi cho khách hàng và doanh nghiệp. [ROW] MỤC TIÊU MÔI TRƯỜNG | Thực hiện theo Chiến lược Quốc gia về tăng trưởng xanh của Bộ Kế hoạch và Đầu tư, Bảo Việt tiếp tục đẩy mạnh các chuỗi hoạt động Baoviet GoGreen, hướng đến một công sở xanh và góp phần xây dựng môi trường xanh thông qua các hoạt động: - Xanh hóa hoạt động kinh doanh: sử dụng tiết kiệm và hiệu quả tài nguyên - Xanh hóa lối sống và thúc đẩy tiêu dùng bền vững thông qua gắn kết trực tiếp cán bộ, khách hàng, đối tác trong các hành động cụ thể vì môi trường - Giảm cường độ phát thải khí nhà kính và thúc đẩy việc sử dụng năng lượng sạch, năng lượng tái tạo: Hạn chế giấy văn phòng, tái sử dụng giấy;",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 39. Quản lý rủi ro bảo hiểm (tiếp theo) ; column_headers: Thay đổi biến % | Thay đổi nghĩa vụ được bảo hiểm (triệu VNĐ) | Ảnh hưởng đến nguồn vốn chủ sở hữu (triệu VNĐ) ; row_headers: Tỷ lệ chiết khấu | Tỷ lệ tử vong [ROWS] Thay đổi biến % | Thay đổi nghĩa vụ được bảo hiểm (triệu VNĐ) | Ảnh hưởng đến nguồn vốn chủ sở hữu (triệu VNĐ) [ROW] Ngày 31 tháng 12 năm 2014 [ROW] Tỷ lệ chiết khấu | +0.25 | (151.005) | 116.606 [ROW] Tỷ lệ chiết khấu | -0.25 | 172.106 | (132.900) [ROW] Tỷ lệ tử vong | +10 | (1.934) | 1.493 [ROW] Tỷ lệ tử vong | -10 | 2.673 | (2.064) [ROW] Tỷ lệ tử vong | +20 | (3.161) | 2.441 [ROW] Tỷ lệ tử vong | -20 | 6.164 | (4.760) [ROW] Ngày 31 tháng 12 năm 2013 [ROW] Tỷ lệ chiết khấu | +0.25 | (244.194) | 181.314 [ROW] Tỷ lệ chiết khấu | -0.25 | 287.450 | (213.432) [ROW] Tỷ lệ tử vong | +10 | 6.997 | (5.195) [ROW] Tỷ lệ tử vong | -10 | (6.150) | 4.566 [ROW] Tỷ lệ tử vong | +20 | 14.682 | (10.901) [ROW] Tỷ lệ tử vong | -20 | (11.441) | 8.495",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "extracted_count": 13,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Không ngừng nâng cấp cơ sở hạ tầng, cải tiến máy móc thiết bị, trong NĐ 18-19, Công ty ghi nhận không có tai nạn lao động đáng tiếc nào xảy ra. Định kỳ hàng năm, Công ty đều phối hợp với Cơ quan Chức năng để tiến hành quan trắc Môi trường làm việc, kiểm tra nồng độ bụi, tiếng ồn, độ rung... để có cơ sở đưa ra những giải pháp cải thiện, bổ sung thêm trang bị bảo hộ lao động cho Nhân viên nhằm hạn chế những tác động của Môi trường đến sức khỏe của người lao động.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Công ty đã ban hành nhiều văn bản lập quy như Hướng dẫn quản lý Chất thải, Quy trình xử lý Nước thải, Quy trình xử lý tình huống khẩn cấp để quản lý và xử lý Nước thải, đặc biệt là trong những trường hợp có sự cố để hạn chế tối đa các tác động tiêu cực đến hệ sinh thái và Môi trường sống của Cộng đồng xung quanh khu vực các Nhà máy nơi Công ty hoạt động. Trường hợp xảy ra khiếu nại từ Cộng đồng địa phương, Phòng QHSE và Hành chính Nhân sự sẽ là đơn vị chịu trách nhiệm chính trong việc tiếp nhận và giải quyết các vấn đề phát sinh theo đúng Quy trình xử lý khiếu nại Cộng đồng.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Mọi hoạt động xử lý Chất thải của Công ty đều tuân theo Quy trình quản lý Chất thải cam kết tuân thủ 100% theo quy định của Pháp luật. Chất thải được Công ty thu gom và phân loại tại nguồn, định kỳ sẽ thuê các đơn vị chức năng để xử lý đối với Chất thải nguy hại và rác thải sinh hoạt. Riêng các Chất thải thông thường khác trong quá trình sản xuất như Bã Mía, Bã Bùn, Tro Lò sẽ được tận dụng để làm nguyên liệu cho quá trình sản xuất khác theo đúng tinh thần của chính sách \"Không Chất thải\".",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8,
+        "E3": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÁC RỦI RO TRỌNG YẾU VÀ PHƯƠNG THỨC QUẢN TRỊ LIÊN TỤC TẠI TTC BIÊN HÒA ; column_headers: Rủi ro | Mô tả | Biện pháp thực hiện [ROWS] Rủi ro | Mô tả | Biện pháp thực hiện [ROW] Kế hoạch chiến lược | Kế hoạch phát triển trung và dài hạn không phù hợp | » Thuê đội ngũ tư vấn của Deloitte Châu Á để hoàn thiện chiến lược trung hạn » Chiến lược được HĐQT theo dõi để điều chỉnh kịp thời khi có sự thay đổi lớn có thể ảnh hưởng đến chiến lược đã đề ra [ROW] Hoạt động tài chính | » Biến động tỷ giá hối đoái » Biến động lãi suất » Khó khăn trong thanh khoản | » Lập kế hoạch về nhu cầu thanh toán, nhu cầu ngoại tệ » Theo dõi, phân tích biến động thị trường vốn để có sự cân đối nhu cầu và điều chỉnh phù hợp » Cân đối cơ cấu nợ vay ngắn và dài hạn » Quản lý chặt chẽ dòng tiền nhằm đảm bảo duy trì khả năng thanh khoản [ROW] Vùng nguyên liệu | » Nguy cơ không đủ nguyên liệu đầu vào cho sản xuất » Thời tiết hạn hán gây ảnh hưởng đến phát triển Cây Mía » Thoái hóa giống » Phân bón hóa học, thuốc bảo vệ thực vật làm thoái hóa đất » Thiếu công nhân lao động | » Xây dựng nhiều chính sách hỗ trợ để Người Nông dân tiếp tục giữ lại cánh đồng Mía » Chủ động mở rộng diện tích các nông trường » Trung tâm Nghiên cứu, Hội đồng Khoa học luôn quan tâm đến công tác phục tráng giống, các biện pháp canh tác để tăng cường khả năng giữ nước của đất » Sản xuất phân hữu cơ, sử dụng phân hữu cơ để thay thế dần cho phân hóa học » Thả ong mắt đỏ để trừ sâu, thay thế dần việc sử dụng thuốc bảo vệ thực vật » Xây dựng các chính sách khuyến khích Người Nông dân, hỗ trợ Người Nông dân thực hiện cơ giới hóa trong công tác trồng, chăm sóc, thu hoạch để ứng phó với [ROW] Hoạt động sản xuất | » Ô nhiễm Môi trường do nước thải, khí thải » Thiếu lao động » Chất lượng sản phẩm không đảm bảo yêu cầu | » Đầu tư hệ thống xử lý nước thải, đảm bảo nước thải ra Môi trường không gây ô nhiễm » Đầu tư hệ thống quan trắc khí thải, nước thải để phát hiện, xử lý kịp thời dấu hiệu vượt mức quy định » Tận dụng tối đa Bã Mía để thay thế cho nguồn nhiên liệu hóa thạch » Nghiên cứu, sử dụng các nhiên liệu hóa thạch ít gây ô nhiễm hơn » Đầu tư mạnh vào nguồn Năng lượng tái tạo - Điện Mặt trời » Ưu tiên tuyển dụng lao động địa phương » Hỗ trợ tối đa về phương tiện đưa đón, chỗ ở cho các lao động từ địa phương khác đến » Chính sách đào tạo liên tục để đảm bảo nguồn Nhân sự kế thừa ở các cấp độ » Thiết lập Phòng QHSE thường xuyên kiểm tra chất lượng sản phẩm, tiếp nhận các thông phản hồi của Khách hàng để xác định nguyên nhân, có hướng xử lý phù hợp » Sản phẩm mới được đội R&D thử nghiệm nhiều lần, đảm bảo đạt các tiêu chuẩn chất lượng trước khi đưa vào sản xuất hàng loạt [ROW] Hoạt động kinh doanh | » Khách hàng mua sản phẩm của đơn vị khác » Mất lợi thế cạnh tranh » Không thích nghi kịp thời với sự thay đổi của Môi trường kinh tế xã hội, ảnh hưởng đến kế hoạch kinh doanh | » Đa dạng hóa sản phẩm, đặc biệt là các sản phẩm tự nhiên, Hữu cơ - Organic, hướng đến đảm bảo sức khỏe người tiêu dùng, gia tăng giá trị sản phẩm » Nhận diện, phân tích kịp thời các thay đổi của đối thủ cạnh tranh, môi trường kinh doanh, mối quan tâm, thị hiếu Khách hàng » Xây dựng các chương trình hành động kịp thời, đảm bảo duy trì lợi thế cạnh tranh » Thích nghi nhanh với môi trường thay đổi, đáp ứng được nhu cầu ngày càng đa dạng của Khách hàng [ROW] Chính trị | Thay đổi môi trường chính trị tại các nước mà Công ty đầu tư, giao dịch ảnh hưởng đến hoạt động SXKD | » Cập nhật thông tin thường xuyên tình hình chính trị tại các quốc gia này » Có các quyết định điều chỉnh kịp thời trong hoạt động đầu tư cũng như hoạt động xuất nhập khẩu.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 1.0,
+        "E3": 0.388514,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "G9"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 5,
+        "E3": 1,
+        "G9": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: TÌNH HÌNH THỰC HIỆN QUẢN TRỊ CÔNG TY NIÊN ĐỘ 18-19 THEO BỘ NGUYÊN TẮC QUẢN TRỊ CÔNG TY TỐT NHẤT DÀNH CHO CÔNG TY ĐẠI CHÚNG VIỆT NAM T8/2019 ; column_headers: Mã | Chỉ tiêu | Nhận định | Thực hiện [ROWS] Mã | Chỉ tiêu | Nhận định | Thực hiện [ROW] 1. THIẾT LẬP RÕ VAI TRÒ, TRÁCH NHIỆM VÀ CAM KẾT CỦA HỘI ĐỒNG QUẢN TRỊ [ROW] 1.1 Hội đồng Quản trị cần phải xác định rõ ràng và công bố toàn bộ các vai trò, trách nhiệm và trách nhiệm giải trình của mình [ROW] 1 | HĐQT thông qua quy chế hoạt động riêng, xác định rõ vai trò, trách nhiệm, trách nhiệm giải trình của HĐQT; quy chế hoạt động của HĐQT phải được công bố trên Web | þ | » Quy chế QTNB » Quy chế tổ chức, hoạt động HĐQT chưa công bố lên Web [ROW] 2 | HĐQT cần phải xem xét, định hướng chiến lược Công ty, các kế hoạch hoạt động lớn, chính sách QLRR, ngân sách, kế hoạch kinh doanh hàng năm; đặt ra các mục tiêu hoạt động; theo dõi việc thực hiện mục tiêu, hoạt động | þ | » Điều lệ: Quyền hạn, nhiệm vụ HĐQT » Tiểu ban Chiến lược, Nhân sự thuộc HĐQT [ROW] 4 | HĐQT cần phải thực hiện, thúc đẩy các chuẩn mực cao về đạo đức kinh doanh, giám sát việc thực hiện bộ quy tắc để mang lại văn hoá liêm chính | þ | » Bộ QCƯX » Phòng KTNB có trách nhiệm giám sát [ROW] 5 | HĐQT cần phải đánh giá được những rủi ro lớn mà Công ty phải đối diện, các bước mà BĐH phải thực hiện để theo dõi, kiểm soát những rủi ro đó | þ | BCTN 18-19: QLRR, Báo cáo của các Tiểu ban thuộc HĐQT [ROW] 6 | HĐQT cần phải giám sát, đảo đảm tính liêm chính của hệ thống báo cáo kế toán, tài chính, bao gồm Kiểm toán độc lập, đảm bảo có các hệ thống kiểm soát phù hợp, hệ thống QLRR, kiểm soát tài chính, hoạt động, tuân thủ pháp luật, tiêu chuẩn liên quan | þ | BCTN 18-19: QTCT - Báo cáo HĐQT, Báo cáo của các Tiểu ban thuộc HĐQT [ROW] 7 | HĐQT cần phải tuyển lựa, đưa ra đãi ngộ, giám sát, thay thế các cán bộ quản lý then chốt nếu cần thiết, giám sát kế hoạch kế nhiệm của các vị trí này | þ | Quy chế tổ chức và hoạt động Tiểu ban Nhân sự [ROW] 9 | HĐQT cần phải theo dõi, quản lý các xung đột lợi ích tiềm tàng của các TV trong BĐH, HĐQT, BKS và các CĐ, việc sử dụng tài sản Công ty sai mục đích, lạm dụng các giao dịch với các BLQ | þ | Điều lệ, Quy chế QTNB, Quy chế tổ chức và hoạt động TBKT, Bộ QCƯX [ROW] 10 | HĐQT cần phải giám sát quá trình CBTT, truyền thông | þ | » CT HĐQT là người phát ngôn chính thức » BCTN 18-19: Hoạt động QH NĐT và thị trường vốn [ROW] 1.2 Thành viên Hội đồng Quản trị cần phải hiểu đầy đủ về nghĩa vụ, trách nhiệm ủy thác của mình, làm việc trên cơ sở có đầy đủ thông tin, một cách trung thành, mẫn cán, cẩn trọng, vì lợi ích cao nhất của Công ty và Cổ đông, quan tâm đến lợi ích của các Bên liên quan [ROW] 1 | TV HĐQT cần phải thực hiện trách nhiệm một cách có thiện ý, vì lợi ích cao nhất của Công ty, tất cả CĐ, tránh các xung đột lợi ích phát sinh thực tế, tiềm tàng | þ | » Điều lệ, Quy chế QTNB » BCTN 18-19: QTCT [ROW] 4 | TV HĐQT cần phải hiểu biết đầy đủ và thực hiện một cách hiệu quả vai trò, trách nhiệm theo quy định của luật pháp, chính sách Công ty | þ | Điều lệ, Quy chế QTNB, Quy chế tổ chức và hoạt động HĐQT [ROW] 5 | TV HĐQT cần phải tự trang bị các kiến thức phù hợp về QTCT, các yêu cầu đạo đức, bảo đảm Công ty liên tục hành động trên cơ sở tuân thủ các chính sách về Quản trị tốt, đạo đức ứng xử | þ | » Bộ QCƯX » BCTN 18-19: QTCT [ROW] 8 | Trong quá trình làm việc trong HĐQT hoặc sau đó, ngoại trừ Luật pháp có quy định, TV HĐQT không được tiết lộ bất kỳ thông tin mật nào mà TV đó biết được trong quá trình làm việc hoặc sử dụng những thông tin mật đó vì lợi ích cá nhân | þ | » Điều lệ, Quy chế QTNB, Bộ QCƯX » BCTN 18-19: QTCT",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: TÌNH HÌNH THỰC HIỆN QUẢN TRỊ CÔNG TY NIÊN ĐỘ 18-19 THEO BỘ NGUYÊN TẮC QUẢN TRỊ CÔNG TY TỐT NHẤT DÀNH CHO CÔNG TY ĐẠI CHÚNG VIỆT NAM T8/2019 ; column_headers: Mã | Chỉ tiêu | Nhận định | Thực hiện [ROWS] Mã | Chỉ tiêu | Nhận định | Thực hiện [ROW] 7.5 Hội đồng Quản trị cần phải bảo đảm việc Công ty thiết lập một khung quản lý an ninh mạng phù hợp [ROW] 1 | HĐQT cần phải có năng lực phù hợp để hiểu được rủi ro an ninh mạng, ảnh hưởng pháp lý mà các rủi ro này có thể mang lại. Nếu cần thiết, HĐQT nên sử dụng các chuyên gia độc lập về an ninh mạng để tìm hiểu về nội dung này | ý | BCTN 18-19: QTCT [ROW] 2 | Các rủi ro an ninh mạng cần được quản lý như là 1 phần của hệ thống QLRR tổng thể thay vì quản lý tách rời khỏi hệ thống. HĐQT cần dành đủ thời gian để xem xét trao đổi về nội dung này trong các cuộc họp để bảo đảm rằng Công ty sẽ được bảo vệ an toàn trước các rủi ro an ninh mạng | ý [ROW] 3 | HĐQT cần phải phê duyệt chiến lược của Công ty có tính đến đến việc giảm thiểu các rủi ro an ninh mạng gồm cả việc mua bảo hiểm để hạn chế các rủi ro | ý [ROW] 4 | HĐQT cần phải xem xét các báo cáo hàng năm của bộ phận KTNB về chương trình an ninh mạng của Công ty | ý [ROW] 8. TĂNG CƯỜNG HOẠT ĐỘNG CÔNG BỐ THÔNG TIN CỦA CÔNG TY [ROW] 8.1 Hội đồng Quản trị cần phải thiết lập các nguyên tắc, quy trình để Công bố thông tin cho Cổ đông, các bên liên quan khác, giám sát việc thực hiện các nguyên tắc, quy trình này [ROW] 1 | HĐQT cần phải phê duyệt chính sách CBTT để bảo đảm mọi thông tin liên quan về hoạt động của Công ty được công bố một cách chính xác, kịp thời, đầy đủ theo quy định pháp lý. Những thông tin công bố cần phải được cung cấp cho CĐ, các BLQ đồng thời | þ | » HĐQT ký duyệt ban hành Quy chế CBTT theo Thông tư 155 » BCTN 18-19: Hoạt động QH NĐT và thị trường vốn [ROW] 8.2 Để thúc đẩy tiếp cận hiệu quả, tối ưu về chi phí đối với các thông tin liên quan, Hội đồng Quản trị cần bảo đảm có được sự tiếp cận dễ dàng, không phân biệt đối xử với những thông tin đã được công bố bằng cách sử dụng các công cụ truyền thông đa dạng [ROW] 3 | Công ty cần cho phép các NĐT, nhà phân tích đặt ra các câu hỏi liên quan đến hoạt động. Điều này có thể được thực hiện thông qua các cuộc họp mở với NĐT/nhà phân tích, họp báo, họp ngắn với NĐT | þ | BCTN 18-19: Hoạt động QH NĐT và thị trường vốn [ROW] 9. THIẾT LẬP KHUÔN KHỔ ĐỂ THỰC HIỆN HIỆU QUẢ QUYỀN CỦA CỔ ĐÔNG [ROW] 9.4 Đối xử bình đẳng đối với tất cả các Cổ đông [ROW] 4 | Công ty cần thiết lập, công bố trên trang Web Chính sách, cơ chế khiếu nại hiệu quả cho phép CĐ, người khác thực hiện khiếu nại, đảm bảo các khiếu nại này được điều tra, xử lý | þ | » BCTN 18-19: Hoạt động QH NĐT và thị trường vốn, Thông tin liên hệ BLQ » Trang Web: Quan hệ NĐT - Hoạt động QH NĐT - Liên hệ [ROW] 10. TĂNG CƯỜNG THAM GIA HIỆU QUẢ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] 10.1 Hội đồng Quản trị cần đảm bảo thiết lập các quy tắc để bảo vệ, thúc đẩy sự tham gia của Bên liên quan [ROW] 5 | HĐQT cần đảm bảo các yêu cầu về Môi trường, Xã hội được đưa vào các yêu cầu đối với các nhà thầu | þ | » Quy định trên các Thư mời thầu, Hợp đồng với nhà Thầu » BCTN 18-19: Gắn kết cùng Cộng đồng",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 7
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ẢNH HƯỞNG VỀ KẾT QUẢ TÀI CHÍNH VÀ CÁC RỦI RO/CƠ HỘI DO BIẾN ĐỔI KHÍ HẬU ; column_headers: Tên gọi | Các tác động đến kinh tế do rủi ro/ cơ hội mang lại | Ảnh hưởng về mặt tài chính trước khi áp dụng biện pháp quản lý | Biện pháp Quản lý rủi ro/cơ hội [ROWS] Tên gọi | Các tác động đến kinh tế do rủi ro/ cơ hội mang lại | Ảnh hưởng về mặt tài chính trước khi áp dụng biện pháp quản lý | Biện pháp Quản lý rủi ro/cơ hội [ROW] Gió bão | Làm Mía đổ ngã, giảm chất lượng và tăng chi phí thu hoạch Mía, tỷ lệ thất thoát Mía cao | Mía đổ ngã làm giảm Chữ Đường ít nhất 0,5 CCS, chi phí thu hoạch tăng 10-20% | » Trồng Mía với độ sâu đảm bảo giảm tỷ lệ đổ ngã » Chọn giống chống chịu đổ ngã cho vùng bị gió bão nhiều [ROW] Rủi ro | Ngập úng | Mía chết, giảm năng suất | Năng suất giảm 10 - 20% đối với các diện tích bị ngập nặng | » Trồng Mía vun mô/vun luống » Chọn giống chịu úng cho vùng đất thấp thường xuyên bị ngập trong mùa mưa [ROW] Hạn hán (Elnino) | Mía giảm năng suất | Năng suất giảm 30 - 50%, đặc biệt Vùng Duyên hải Miền Trung Việt Nam | » Chọn giống chống hạn cho vùng đất cao, Miền Trung » Cày sâu chống hạn cho Mía [ROW] Cơ hội | Ngập úng và hạn hán | Canh tranh giữa Cây Mía và cây trồng khác | Cây Mía có sức chịu đựng tốt hơn so với các cây trồng ngắn ngày khác đối với điều kiện ngập úng và hạn hán. Do đó, các vùng đất hay bị ngập úng và hạn hán thì Cây Mía có lợi thế cạnh tranh nên phát triển diện tích VNL tốt | » Tập trung đầu tư các vùng đất khó khăn kèm theo giải pháp như đã đề cập ở phần rủi ro để ổn định VNL » Các vùng đất thuận lợi ít bị ảnh hưởng bởi thời tiết thì tăng đầu tư thâm canh tăng năng suất, từ đó giúp tối đa LN cho Người Nông dân.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Mức lương tối thiểu Vùng và mức lương khởi điểm của Cán bộ nhân viên TTC Biên Hòa ; column_headers: Vùng | Khu vực | Mức lương tối thiểu vùng (VND) | Chênh lệch thu nhập Cán bộ nhân viên TTC Biên Hòa với mức lương tối thiểu Vùng (%) | Lao động phổ thông | Nhân viên | Chuyên viên [ROWS] Vùng | Khu vực | Mức lương tối thiểu vùng (VND) | Chênh lệch thu nhập Cán bộ nhân viên TTC Biên Hòa với mức lương tối thiểu Vùng (%) [ROW] Lao động phổ thông | Nhân viên | Chuyên viên [ROW] I | Khu vực Đồng Nai | 4.180.000 | 12% | 30% | 108% [ROW] I | Khu vực TP. HCM | 4.180.000 | 30% | 72% | 154% [ROW] III | Khu vực Khánh Hòa | 3.250.000 | 38% | 91% | 168% [ROW] IV | Khu vực Tây Ninh | 3.250.000 | 48% | 114% | 155% [ROW] V | Khu vực Gia Lai | 2.920.000 | 25% | 66% | 147%",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Đối với Chất thải ; caption: Tổng lượng Nước thải theo chất lượng và địa điểm tiếp nhận Nước thải Niên độ 18-19 ; column_headers: Địa điểm xả thải | Lượng nước thải (m 3 ) | Phương pháp xử lý | Chất lượng nước thải đầu ra | Nước thải sử dụng lại bởi tổ chức khác | NĐ 17-18 | NĐ 18-19 | % [ROWS] Địa điểm xả thải | Lượng nước thải (m 3 ) | Phương pháp xử lý | Chất lượng nước thải đầu ra | Nước thải sử dụng lại bởi tổ chức khác [ROW] NĐ 17-18 | NĐ 18-19 | % [ROW] TTCS: Tây Ninh | 443.060 | 434.235 | -2 | Phương pháp sinh học kết hợp hóa lý | Cột A, QCVN 40:2011/BTNMT [ROW] Phan Rang: Ninh Thuận | 363.350 | 214.080 | -41 | Cột A, QCVN 40:2011/BTNMT | » Tái sử dụng Nước thải sau xử lý cho hệ thống Nước [ROW] Ninh Hòa: Khánh Hòa | 256.290 | 191.718 | -25 | Cột B, QCVN 40:2011/BTNMT | tạo chân không trong Nhà máy [ROW] Attapeu: Tưới Mía Khu vực Nông trường cạnh Nhà máy | Không thống kê | 178.848 | - | Cột B, QCVN 40:2011/BTNMT | » Nhà máy tái sử dụng [ROW] Biên Hòa Đồng Nai: Đồng Nai | 106.480 | 78.511 | -26 | Cột A, QCVN 40:2011/BTNMT [ROW] Biên Hòa Trị An: Đồng Nai | 135.784 | 34.312 | -75 | Cột A, QCVN 40:2011/BTNMT | Nước thải sau khi được xử lý sẽ đươc thải ra ngoài [ROW] Gia Lai: Gia Lai | 48.957 | 28.272 | -42 | Cột B, QCVN 40:2011/BTNMT | » Tái sử dụng Nước thải sau xử lý cho hệ thống Nước tạo chân không trong Nhà máy » Nhà máy tái sử dụng [ROW] Biên hòa Tây Ninh: Tây Ninh | 25.200 | 17.400 | -31 | Cột A, QCVN 40:2011/BTNMT | Nước thải sau khi được xử lý sẽ được thải ra ngoài [ROW] Nước Trong: Không xả thải ra Môi trường, tái sử dụng lại trong Nhà máy tại Tây Ninh | 16.358 | 9.111 | -44 | Cột A, QCVN 40:2011/BTNMT | Tái sử dụng",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 13
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Phân loại Chất thải theo phương pháp xử lý ; column_headers: Chỉ tiêu | 2017 | 2018 | Chênh lệch | Chất thải nguy hại (tấn) | Chất thải thông thường (tấn) | Chất thải nguy hại | Chất thải thông thường ; row_headers: Ủ phân (tấn) | Đốt (đốt khối lượng lớn) (tấn) | Thuê đơn vị chức năng xử lý [ROWS] 2017 | 2018 | Chênh lệch [ROW] Chỉ tiêu | Chất thải nguy hại (tấn) | Chất thải thông thường (tấn) | Chất thải nguy hại (tấn) | Chất thải thông thường (tấn) | Chất thải nguy hại | Chất thải thông thường [ROW] Ủ phân (tấn) | - 12.251.142 | 6.768.077 | - | -45% [ROW] Đốt (đốt khối lượng lớn) (tấn) | - | 937.145 | 837.525 | - | -11% [ROW] Thuê đơn vị chức năng xử lý | 23 | 516 | 437 | -48% | -15%",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 16
+      }
+    }
+  ]
+}

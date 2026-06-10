@@ -1,0 +1,29 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 1428,
+      "text": "[TABLE] [CONTEXT] section: CÔNG TÁC MÔI TRƯỜNG ; column_headers: Các công việc thực hiện trong năm [ROWS] Các công việc thực hiện trong năm [ROW] Trụ sở tại Đồng Tháp và nhà máy IMP 1, nhà máy Thực phẩm bảo vệ sức khỏe và Trung tâm kiểm nghiệm | Năm 2020 công ty đã hoàn thành công trình bảo vệ môi trường do Trung tâm quan trắc tài nguyên và môi trường xác nhận của hạng mục hệ thống xử lý nước thải, khí thải của dự án nhà máy sản xuất dược phẩm, đầu tư bổ sung nhà máy thực phẩm chức năng, tăng công suất từ 1,5 tỷ đơn vị sản phẩm/năm lên 1,65 tỷ đơn vị sản phẩm/năm.Trung tâm quan trắc tài nguyên và môi trường lấy mẫu nước thải đã xử lý và mẫu khí thải nhà máy Đồng Tháp. Ký hợp đồng với Công ty TNHH MTV SX TM DV môi trường Tiến Phát thu gom, vận chuyển và xử lý chất thải nguy hại. Trung tâm kiểm soát bệnh tật tỉnh Đồng Tháp quan trắc môi trường lao động cho nhà máy Đồng Tháp. [ROW] Nhà máy kháng sinh công nghệ cao Vĩnh Lộc (IMP 2) | Ký hợp đồng với Công ty Cổ phần Công nghệ môi trường trái đất xanh thu gom xử lý chất thải. [ROW] Nhà máy Cephalosporin Bình Dương (IMP 3) | Trung tâm kỹ thuật tiêu chuẩn đo lường chất lượng 3 lấy mẫu phân tích một số chỉ tiêu khí Nitơ. Ký hợp đồng với Công ty TNHH Môi trường Sen Vàng xử lý chất thải nguy hại. Ký hợp đồng với Chi nhánh Công ty CP khử trùng Việt Nam tại TP.HCM xử lý côn trùng. [ROW] Nhà máy công nghệ cao Bình Dương (IMP 4) | Công ty TNHH TM DV TV và thẩm định môi trường Nam Việt lấy mẫu đo đạc phân tích các chỉ tiêu giám sát môi trường. Hợp đồng với Công ty TNHH Môi trường Sen Vàng xử lý chất thải nguy hại. Ký hợp đồng với Chi nhánh Công ty CP khử trùng Việt Nam tại TP.HCM xử lý côn trùng khu vực bên ngoài nhà máy",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 11,
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Hiện nay, gần như tất cả các nhà máy đều chuyển qua sử dụng nhiên liệu tái tạo (Biomass) như trấu, mùn cưa, vỏ hạt điều, ... để đốt lò hơi tạo hơi nước bão hòa cho sản xuất. Công nghệ sản xuất hơi nước bão hòa từ Biomass vừa nhằm tiết kiệm chi phí và bảo vệ môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Sabeco luôn quán triệt ý thức bảo vệ môi trường đến từng Nhà máy, cán bộ, công nhân viên. Các Nhà máy sản xuất Bia Sài Gòn bắt buộc phải có hệ thống xử lý nước thải, kho chứa chất thải rắn theo quy định. Việc vận hành, quản lý hệ thống xử lý nước thải tuân theo quy định của pháp luật như: đạt tiêu chuẩn tối thiểu loại B, có hệ thống quan trắc tự động, có diễn tập xử lý các tình huống khẩn cấp. Chất thải rắn được thu gom và hợp đồng với đơn vị có chức năng xử lý. 100% CBNV được đào tạo huấn luyện về ATLĐ và VSATTP.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    }
+  ]
+}

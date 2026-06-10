@@ -1,0 +1,44 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 419,
+      "text": "» Tất cả các nguồn thải (nước thải, khí thải...) đều được xử lý và đáp ứng tiêu chuẩn ISO 14001: 2015 trước khi xả ra môi trường. Chất thải rắn, chất thải nguy hại được thu gom và xử lý theo đúng quy định của Thông tư, Nghị định hiện hành.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 667,
+      "text": "Cùng với các Công ty trong cụm công nghiệp Khí - Điện Đạm Cà Mau thuộc Tập đoàn Dầu khí Quốc gia Việt Nam, các doanh nghiệp tại đây đã đóng góp trên 40% nguồn thu ngân sách và tạo ra trên 30% việc làm cho lao động địa phương, Cụm công nghiệp Khí - Điện - Đạm Cà Mau là động lực kinh tế quan trọng giúp Cà Mau \"bừng sáng\" nơi cực Nam tổ quốc. Cũng trên cơ sở nền tảng của cụm Công nghiệp Khí - Điện - Đạm Cà Mau, hạ tầng khu công nghiệp, hệ thống đường giao thông, điện, cấp thoát nước, sân bay đã được hình thành giúp Cà Mau khai thác tiềm năng du lịch sinh thái, nuôi trồng xuất khẩu thủy sản cũng như kết nối gần hơn với các tỉnh, thành phố trong cả nước.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

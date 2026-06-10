@@ -1,0 +1,146 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "text": "Rủi ro tuân thủ là rủi ro gây nên tổn thất cho Pan do việc không tuân thủ các luật, quy định, quy tắc, tổ chức quy định tiêu chuẩn... dẫn đến sai sót trong quy trình làm việc, nhân viên thực hiện vượt quyền, sai quy chế, gian lận nội bộ, gian lận trộm cắp bên ngoài.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Vấn đề xử lý nước thải cũng là một trong những mối quan ngại hàng đầu của Pan. Trong năm 2014, lượng nước thải trung bình trong lĩnh vực thủy sản lên đến 122 m3 /ngày. Nếu không có những biện pháp xử lý lượng nước thải hợp lý sẽ gây ô nhiễm môi trường, phá hủy hệ sinh thái, ảnh hưởng nghiêm trọng đến sức khỏe cũng như cuộc sống của cộng đồng xung quanh khu nhà máy chế biến sản xuất của công ty. Xác định được những tác động tiêu cực có thể xảy ra quanh khu vực nhà máy, đặc biệt là nơi chế biến thủy hải sản, ABT đã tiến hành phân tích lượng nước thải cũng như theo dõi sát sao các công trình xử lý nước thải. Hiện nay, chất lượng nước thải của nhà máy đạt QCVN 11: 2008/BTNMT loại A có thể thải trực tiếp ra sông với công suất 400 m3 /ngày. Hệ thống này hoàn toàn đáp ứng công suất sản xuất hiện tại vì lưu lượng nước thải cực đại của nhà máy chưa vượt quá ngưỡng 400 m3 /ngày.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "Nuôi trồng chế biến thủy sản tạo lượng khí thải đáng kể nhất trong các lĩnh vực hoạt động của Pan do công ty phải đối mặt với những vấn đề như ô nhiễm ao, cá chết, khí thải từ nhà máy hoạt động công suất cao, v.v. trong khi khí thải từ hoạt động nông nghiệp là không đáng kể. Vì vậy, Pan sẽ tập trung báo cáo việc kiểm soát khí thải từ ABT.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Trong quá trình nuôi cá, chất thải rắn được phân loại thành chất thải rắn nguy hại và chất thải rắn không nguy hại. Hai loại trên sẽ được thu gom và tách riêng ở khu vực chứa khác nhau.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Khí thải [ROWS] Loại khí thải (đơn vị mg/Nm 3 | Lượng khí thải 2013 | Lượng khí thải 2014 | QCVN 19/2009/BTNMT (cột B) [ROW] NO 2 | 110 | 130 | 850 [ROW] SO 2 | 130 | 50 | 500",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Chất thải rắn ; column_headers: Năm 2013 | Năm 2014 ; row_headers: Tổng khối lượng (kg) | Kg/tấn sản phẩm | Tỷ lệ chất thải nguy hại trong tổng lượng chất thải (%) [ROWS] Chất thải rắn | Năm 2013 | Năm 2014 [ROW] Tổng khối lượng (kg) | 5.935.200 | 5.522.400 [ROW] Kg/tấn sản phẩm | 652,8 | 657 [ROW] Tỷ lệ chất thải nguy hại trong tổng lượng chất thải (%) | 0,008 | 0,007",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

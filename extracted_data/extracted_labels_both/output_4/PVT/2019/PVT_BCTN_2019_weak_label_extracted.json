@@ -1,0 +1,105 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 364,
+      "text": "-Dịch vụ vận tải hàng rời (than): Doanh thu từ dịch vụ vận tải hàng rời đạt 215 tỷ đồng. Trong năm 2019, PVTrans đã tiếp tục phát triển dịch vụ vận tải than quốc tế song song với việc chuẩn bị phương tiện cho các dự án điện than Sông Hậu 1, Long Phú 1 và một số NMNĐ than khác trong nước. Các tàu hàng rời của PVTrans và tàu thuê ngoài tham gia phân khúc vận chuyển than nhập khẩu từ Indonesia về các NMNĐ trong nước với sản lượng khoảng 1 triệu tấn, khẳng định năng lực của PVTrans trong việc đảm bảo cung cấp chuỗi vận chuyển than từ vận chuyển quốc tế đến chuyển tải trong nước làm tiền đề về vận chuyển than cho các NMNĐ Sông Hậu 1 và Long Phú 1.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 7
+      }
+    },
+    {
+      "paragraph_id": 497,
+      "text": "Đẩy mạnh marketing, khai thác và tham gia vận chuyển than cho các nhà máy nhiệt điện chạy than cho EVN, TKV, PVN. Chủ động huy động đầu tư phương tiện vận tải phù hợp đáp ứng kịp thời nhu cầu của khách hàng, đảm bảo hiệu quả đầu tư. Xây dựng các phương án cấp than, vận chuyển và chuyển tải cho nhà máy.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1389,
+      "text": "[TABLE] [CONTEXT] section: 5. Đánh giá quản trị công ty theo thẻ điểm quản trị khu vực ASEAN ; column_headers: Câu hỏi | Nội dung câu hỏi | Đánh | giá | Cơ sở đánh giá | Cơ sở đánh giá năm 2019 | Cơ sở đánh giá năm 2018 [ROWS] Đánh | Cơ sở đánh giá [ROW] Câu hỏi | Nội dung câu hỏi | giá | Cơ sở đánh giá năm 2019 | Cơ sở đánh giá năm 2018 [ROW] khoán/trang thông tin điện tử của cơ quan quản lý)? [ROW] B.2 | Thông báo ĐHĐCĐ [ROW] B.2.1 | Mỗi nghị quyết trong ĐHĐCĐ gần nhất chỉ liên quan đến một nội dung của dự thảo nghị quyết, nghĩa là không gộp nhiều nội dung vào trong cùng một nghị quyết? | Tốt | PVTrans thực hiện tốt tiêu chuẩn này [ROW] B.2.2 | Thông báo và tài liệu ĐHĐCĐ gần nhất có được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu theo ngôn ngữ địa phương | Thực hiện một phần | PVTrans công bố các nội dung chính bằng tiếng Anh trên Website và sẽ thực hiện công bố tài liệu ĐHĐCĐ đầy đủ bằng tiếng Anh trong thời gian tới [ROW] Thông báo về ĐHĐCĐ có những chi tiết sau không: [ROW] B.2.3 | Có cung cấp tiểu sử của thành viên/ủy viên HĐQT sẽ được bầu chọn/bầu chọn lại (tối thiểu là tuổi, trình độ đào tạo, chuyên môn, ngày bổ nhiệm đầu tiên, kinh nghiệm, và v ị trí thành viên HĐQT đang tại vị trong các công ty niêm yết khác)? | Tốt | PVTrans luôn công bố sơ yếu lý lịch/tiểu sử của các thành viên/ủy viên HĐQT sẽ được bầu chọn/bầu chọn lại trong tài liệu ĐHĐCĐ, tuân thủ quy định pháp luật và Điều lệ Tổng công ty [ROW] B.2.4 | Kiểm toán viên/công ty kiểm toán chuẩn bị được bầu chọn/bầu chọn lại có được xác định rõ ràng? | Tốt | Danh sách công ty kiểm toán dự kiến được bầu chọn/bầu chọn lại luôn được xác định rõ ràng trong Tờ trình đính kèm Nghị quyết ĐHĐCĐ [ROW] B.2.5 | Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng? | Tốt | Được gửi thư đến cổ đông và công bố trên website, được đính kèm theo tài liệu ĐHĐCĐ [ROW] B.3 | Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] B.3.1 | Công ty có chính sách và/hoặc quy định cấm thành viên HĐQT và nhân viên không được kiếm lợi từ ế g những kiến thức không được công bố ra bên ngoài? | Tốt | Được quy định tại Điều 38 Điều lệ PVTrans (Trách nhiệm trung thực ề g và tránh các xung đột về quy ền lợi) | Được quy định tại Điều 38 Điều lệ PVTrans (Trách nhiệm trung thực ề g và tránh các xung đột về quy ền lợi) [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Tốt | Thành viên HĐQT PVTrans đã và đang tuân thủ tốt quy định về báo cáo giao dịch cổ phiếu theo Thông tư 155/2015/TT - | BTC và Điều lệ PVTrans [ROW] B.4 | Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty không? | Tốt | Chính sách/yêu cầu được quy định tại Điều lệ PVTrans và Quy chế nội bộ về quản trị Công ty, tuân thủ theo quy định pháp luật [ROW] B.4.2 | Công ty có chính sách yêu cầu một tiểu ban bao gồm thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông không? | Tốt | PVTrans có các Ban chuyên môn có nhiệm vụ rà soát các GDBLQ trọng yếu/quan trọng trong phạm vi chức năng, nhiệm vụ. Trong trường hợp cần thiết sẽ thành lập tổ chuyên môn có bao gồm thành viên Ban lãnh đạo [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Tốt | Chính sách/yêu cầu được quy định tại Điều 21 Quy chế nội bộ về quản trị Công ty, trong đó các thành viên HĐQT tham gia họp nhưng không được biểu quy ết về nội dung mà thành viên đó có lợi ích liên quan",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "paragraph_id": 1398,
+      "text": "[TABLE] [CONTEXT] section: 5. Đánh giá quản trị công ty theo thẻ điểm quản trị khu vực ASEAN ; column_headers: Câu hỏi | Nội dung câu hỏi | Đánh | giá | Cơ sở đánh giá | Cơ sở đánh giá năm 2019 | Cơ sở đánh giá năm 2018 [ROWS] Đánh | Cơ sở đánh giá [ROW] Câu hỏi | Nội dung câu hỏi | giá | Cơ sở đánh giá năm 2019 | Cơ sở đánh giá năm 2018 [ROW] 50% số thành viên HĐQT với chủ tịch là thành viên độc lập? [ROW] E.4.2 | Chủ tịch có phải là thành viên HĐQT độc lập? | N/A | Chủ tịch HDQT PVTrans không phải là thành viên HDQT độc lập [ROW] E.4.3 | Có bất kỳ thành viên HĐQT là nguyên TGĐ/Giám đốc điều hành của công ty trong 02 năm trước? | Tốt | Thực hiện tốt | Thực hiện tốt [ROW] E.4.4 | Vai trò và trách nhiệm của chủ tịch có được công bố công khai? | Tốt | Được cụ thể tại Điều lệ và Quy chế quản trị công ty [ROW] Trưởng thành viên HĐQT độc lập [ROW] E.4.5 | Nếu chủ tịch không phải là thành viên HĐQT độc lập, HĐQT có bầu chọn Trưởng thành viên độc lập (Lead independent director) và vai trò của vị trí này có được xác định rõ ràng? | N/A | PVTrans chưa áp dụng [ROW] Kỹ năng và năng lực [ROW] E.4.6 | Công ty có tối thiểu 01 thành viên HĐQT không điều hành có kinh nghiệm làm việc trước đó trong lĩnh vực chính mà công ty đang hoạt động? | Tốt | Có 02 người là thành viên HĐQT không điều hành có kinh nghiệm về lĩnh vực chính của PVTrans [ROW] E.5 | Hiệu quả HĐQT [ROW] Phát triển thành viên HĐQT [ROW] E.5.1 | Công ty có chương trình định hướng cho thành viên HĐQT mới? | Tốt | PVTrans có xây dựng các quy định, phân công nhiệm [ROW] E.5.1 (a) | HĐQT có mô tả quy trình quản trị v ề vấn đề liên quan công nghệ thông tin như gián đoạn, an ninh mạng, khôi phục thảm họa, để đảm bảo rằng tất cả các rủi ro chính được xác định, quản lý và báo cáo cho HĐQT? | Tốt | vụ/chức năng đối với từng thành viên trong HĐQT HĐQT giao nhiệm vụ cho các Ban chuyên môn (Bộ phận IT, Ban An toàn pháp chế, ...) trong việc quản trị rủi ro liên quan đến công nghệ thông tin, an ninh mạng, ... để xác định, quản lý và báo cáo cho HĐQT [ROW] E.5.2 | Công ty có chính sách khuyến khích thành viên HĐQT tham gia các chương trình đào tạo liên tục hay đào tạo chuyên môn? | Tốt | PVTrans khuyến khích HĐQT tham gia các chương trình đào tạo chuyên môn [ROW] Bổ nhiệm và hiệu quả của TGĐ/Ban điều hành [ROW] E.5.3 | Công ty có công bố cách thức thành viên HĐQT xây dựng quy hoạch kế nhiệm cho vị trí TGĐ/Giám đốc điều hành/Quản lý chủ chốt? | Tốt | Hàng năm, PVTrans có xây dựng và hiệu chỉnh về việc quy hoạch cán bộ kế nhiệm cho các vị trí chủ chốt [ROW] E.5.4 | Thành viên HĐQT có thực hiện đánh giá hiệu quả hàng năm đối với TGĐ/Giám đốc điều hành/Quản lý chủ chốt? | Tốt | Thành viên HĐQT có thực hiện đánh giá hàng năm đối với TGĐ, được cụ thể trong báo cáo của HĐQT tại ĐHĐCĐ thường niên [ROW] Đánh giá HĐQT [ROW] E.5.5 | Công ty có tiến hành đánh giá năng lực hằng năm đối với HĐQT và công bố quy trình đánh giá cũng như các tiêu chí dung trong đánh giá? | Tốt | PVTrans có tiến hành đánh giá năng lực đối với HĐQT hằng năm và kết quả đánh giá hàng năm về việc hoàn thành nhiệm vụ được giao cho HĐQT được chi tiết trong Báo cáo của HĐQT tại ĐHĐCĐ thường niên",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1401,
+      "text": "[TABLE] [CONTEXT] section: -Thực hiện các mục tiêu kinh tế bền vững [ROWS] Phát triển kinh tế | Tác động kinh t ế gián tiếp | Không ngừng đào tạo nâng cao kỹ năng kiến thức nghiệp vụ cho đội ngũ CBCNV của PVTrans và các đơn vị thành viên, từ đó góp phần tăng cường kỹ năng, kiến thức của cộng đồng nhân sự chuyên môn ngành v ận tải biển trong nước. 90% dịch vụ đầu vào được cung c ấp bởi các doanh nghiệp trong nước [ROW] Phát triển xã hội | Đảm bảo thu nhập cho CBCNV Đa dạng và bình đẳng trong công việc Tôn trọng quy ền con người | Đảm bảo thu nhập và đời sống cho cán bộ công nhân viên. Cán bộ công nhân viên PVTrans có mức thu nhập bình quân 24 triệu đồng/ người/ tháng cao hơn so với năm 2018. Lương khởi điểm của nhân viên PVTrans cao hơn khá nhiều so với mức lương tối thiểu của địa phương ở những khu vực làm việc cụ thể. Mức thu nhập khởi điểm đối với nhân viên mức thấp nhất cũng cao hơn gấp 2 lần so với mức lương tối thiểu vùng Nhà nước quy định cho vùng I. Ban lãnh đạo PVTrans cam kết tạo điều kiện làm việc bình đẳng cho tất cả các cán bộ công nhân viên, không phân biệt dân tộc, giới tính, độ tuổi hay tôn giáo Ban lãnh đạo PVTrans cam kết tôn trọng quyền con người trong sử dụng lao động. Cụ thể: - Lao động trẻ em: Không sử dụng lao động trẻ em. Không sử dụng hàng hóa dịch vụ của nhà cung cấp có sử dụng lao động trẻ em. - Lao động ép buộc, cưỡng bức: Không sử dụng lao động cưỡng bức, ép buộc.",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "S4": 6,
+        "S6": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 1207,
+      "text": "[TABLE] [CONTEXT] section: Tại ngày 31 tháng 12 năm 2016 (triệu VND) ; column_headers: Quá hạn trên Quá hạn trên 3 tháng 3 tháng ên 3 thán uá hạn tr Quá hạn Quá hạn trên 3 tháng trên 3 tháng | Quá hạn đến Quá hạn đến 3 tháng 3 tháng ến 3 thán uá hạn đế Quá hạn Quá hạn đến 3 tháng đến 3 tháng ; row_headers: Tiền mặt và vàng | Tiền gửi tại NHNN | Tiền gửi và cho vay các TCTD khác - gộp | Chứng khoán kinh doanh - gộp | Các công cụ tài chính phái sinh và các tài sản tài chính khác | Cho vay khách hàng - gộp | Chứng khoán đầu tư - gộp | Góp vốn, đầu tư dài hạn - gộp | Tài sản cố định và bất động sản đầu tư | Tài sản Có khác - gộp | Tiền gửi và vay các TCTD khác | Tiền gửi của khách hàng | Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro | Phát hành giấy tờ có giá | Các khoản nợ khác | Mức chênh thanh khoản ròng [ROWS] Quá hạn đến Quá hạn đến 3 tháng 3 tháng ến 3 thán uá hạn đế Quá hạn Quá hạn đến 3 tháng đến 3 tháng | Quá hạn trên Quá hạn trên 3 tháng 3 tháng ên 3 thán uá hạn tr Quá hạn Quá hạn trên 3 tháng trên 3 tháng [ROW] Tài sản [ROW] Tiền mặt và vàng | - | - [ROW] Tiền gửi tại NHNN | - | - [ROW] Tiền gửi và cho vay các TCTD khác - gộp | - | 196.000 [ROW] Chứng khoán kinh doanh - gộp | - | - [ROW] Các công cụ tài chính phái sinh và các tài sản tài chính khác | - | - [ROW] Cho vay khách hàng - gộp | 1.904.761 | 2.257.645 [ROW] Chứng khoán đầu tư - gộp | - | 400.000 [ROW] Góp vốn, đầu tư dài hạn - gộp | - | 32.530 [ROW] Tài sản cố định và bất động sản đầu tư | - | - [ROW] Tài sản Có khác - gộp | - | 1.081.295 [ROW] 1.904.761 | 3.967.470 [ROW] Nợ phải trả [ROW] Tiền gửi và vay các TCTD khác | - | - [ROW] Tiền gửi của khách hàng | - | - [ROW] Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro | - | - [ROW] - | - [ROW] Phát hành giấy tờ có giá [ROW] Các khoản nợ khác | - | - [ROW] - | - [ROW] Mức chênh thanh khoản ròng | 1.904.761 | 3.967.470",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

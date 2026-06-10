@@ -1,0 +1,48 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Công nghệ được ứng dụng mạnh mẽ trong hoạt động quản trị rủi ro (ví dụ: các phần mềm, ứng dụng v ề xếp hạng tín dụng, quản lý tài s ản bảo đảm, thu hồi nợ, quản lý hạn mức, thu thập dữ liệu tổn thất, phòng chống rửa tiền, phòng chống gian lận, quản lý rủi ro thị trường, ...) , phù hợp với xu hướng số hóa ẩ ) pp g các quy trình nghiệp vụ, sản phẩm c ủa ngành ngân hàng nói chung và chiến lược của MB nói riêng. Việc ứng dụng các công nghệ này là sự hỗ trợ hiệu quả cho công tác giám sát rủi ro tại MB, giúp tăng cường hiệu lực thực thi của Khung chính sách đã được xây dựng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

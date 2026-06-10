@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 145,
+      "text": "Sài Gòn VRG luôn chú trọng đến việc giảm tác động của hoạt động sản xuất công nghiệp đến môi trường thông qua nhiều giải pháp thiết thực. Công ty đã đầu tư hệ thống xử lý nước thải tập trung giai đoạn 2 tại KCN Lộc An - Bình Sơn, nâng công suất từ 4.500 m3 lên 9.500 m3/ngày đêm, đảm bảo nước thải trước khi xả ra môi trường đạt tiêu chuẩn QCVN 40:2011/BTNMT. Tương tự, tại KCN Phước Đông, hệ thống xử lý nước thải được duy trì với công suất 160,000 m3/ngày đêm, giúp hạn chế ô nhiễm nguồn nước.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 631,
+      "text": "[TABLE] [CONTEXT] section: NGÀNH NGHỀ KINH DOANH ; column_headers: Mã ngành Tên ngành, nghề kinh doanh [ROWS] Mã ngành Tên ngành, nghề kinh doanh [ROW] 3812 | Thu gom rác thải độc hại (không hoạt động tại trụ sở). (Trừ dịch vụ thu gom rác thải trực tiếp từ hộ gia đình) [ROW] 3821 | Xử lý và tiêu huỷ rác thải không độc hại (không hoạt động tại trụ sở). (Trừ dịch vụ thu gom rác thải trực tiếp từ hộ gia đình) [ROW] 3822 | Xử lý và tiêu huỷ rác thải độc hại (không hoạt động tại trụ sở). (Trừ dịch vụ thu gom rác thải trực tiếp từ hộ gia đình) [ROW] 3830 | Tái chế phế liệu (không hoạt động tại trụ sở). [ROW] 0161 | Hoạt động dịch vụ trồng trọt (không hoạt động tại trụ sở) [ROW] 1104 | Sản xuất đồ uống không cồn, nước khoáng Chi tiết: Sản xuất nước khoáng, nước tinh khiết đóng chai [ROW] 3311 | Sửa chữa các sản phẩm kim loại đúc sẵn (không hoạt động tại trụ sở) [ROW] 3314 | Sửa chữa thiết bị điện (không hoạt động tại trụ sở) [ROW] 3600 | Khai thác, xử lý và cung cấp nước Chi tiết: Sản xuất và phân phối nước phục vụ sinh hoạt và sản xuất. [ROW] 3700 | Thoát nước và xử lý nước thải Chi tiết: Dịch vụ xử lý nước thải ( không hoạt động tại trụ sở) [ROW] 4312 | Chuẩn bị mặt bằng Chi tiết: San lấp mặt bằng ( không hoạt động tại trụ sở) [ROW] 4321 | Lắp đặt hệ thống điện (không hoạt động tại trụ sở) [ROW] 4329 | Lắp đặt hệ thống xây dựng khác (không hoạt động tại trụ sở) [ROW] 4330 | Hoàn thiện công trình xây dựng (không hoạt động tại trụ sở) [ROW] 4390 | Hoạt động xây dựng chuyên dụng khác (không hoạt động tại trụ sở) [ROW] 4620 | Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống (không hoạt động tại trụ sở) (trừ thực hiện quyền xuất khẩu, quyền nhập khẩu, quyền phân phối đối với các hàng hóa thuộc danh mục hàng hóa nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài không được quyền xuất khẩu, quyền nhập khẩu, quyền phân phối: thuốc lá và xì gà, sách, báo và tạp chí, vật phẩm đã ghi hình, kim loại quý và đá quý, dược phẩm, thuốc nổ, dầu thô và dầu đã qua chế biến, gạo, đường mía và đường củ cải) [ROW] 4632 | Bán buôn thực phẩm (không hoạt động tại trụ sở) (trừ thực hiện quyền xuất khẩu, quyền nhập khẩu, quyền phân phối đối với các hàng hóa thuộc danh mục hàng hóa nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài không được quyền xuất khẩu, quyền nhập khẩu, quyền phân phối: thuốc lá và xì gà, sách, báo và tạp chí, vật phẩm đã ghi hình, kim loại quý và đá quý, dược phẩm, thuốc nổ, dầu thô và dầu đã qua chế biến, gạo, đường mía và đường củ cải)",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

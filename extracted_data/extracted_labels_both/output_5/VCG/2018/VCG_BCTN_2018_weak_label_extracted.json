@@ -1,0 +1,48 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Tất cả các đơn vị trực thuộc VINACONEX đều thực hiện tốt chính sách ăn ca cho người lao động với mức ăn cao nhất là 40.000 đồng/người/bữa. Bên cạnh đó, hàng năm, VINACONEX đều tổ chức các đợt khám sức khỏe định kỳ, tổ chức các chương trình tập huấn kết hợp thăm quan, nghỉ mát cho cán bộ công nhân viên lao động nhằm tái tạo sức lao động, nâng cao tinh thần đoàn kết nội bộ. Trước tình hình thời tiết nắng nóng trong mùa hè 2018, Tổng công ty đã tổ chức thăm hỏi, tặng quà (bình giữ nhiệt, quạt, nước giải khát...) cho người lao động tại một số công trường/dự án với kinh phí là 248 triệu đồng. Vào các ngày lễ lớn hay các dịp lễ tết, VINACONEX còn tổ chức các phong trào văn hóa, văn nghệ, thể thao, giúp nâng cao đời sống tinh thần cho người lao động. Đặc biệt, năm 2018 là năm quan trọng kỷ niệm 60 năm truyền thống ngành Xây dựng và kỷ niệm 30 năm thành lập Tổng công ty cổ phần VINACONEX nên các hoạt động văn hóa, văn nghệ, thể thao được tổ chức sôi nổi trên toàn Tổng công ty với chi phí lên tới gần 932 triệu đồng. Từ tháng 4/2018 đến hết tháng 9/2018, VINACONEX đã tổ chức thành công Giải bóng đá VINACONEX Cup 2018 với 18 đội bóng tham gia; Giải thi đấu các môn thể thao trong nhà (gồm: Cờ vua, Cờ tướng, Cầu lông, Bóng bàn, Tennis) thu hút hơn 100 vận động viên tham gia; Giải Golf VINACONEX cho CBCNV Tổng công ty và các đối tác, nhà đầu tư, khách hàng thân thiết của Tổng công ty; Cuộc thi Viết với chủ đề \"VINACONEX - 30 năm hình thành và phát triển\" với 33 tác phẩm dự thi có chất lượng; Hội diễn Văn nghệ với sự tham gia của 50 tiết mục thuộc nhiều thể loại.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E9"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E9"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E9"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E9"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

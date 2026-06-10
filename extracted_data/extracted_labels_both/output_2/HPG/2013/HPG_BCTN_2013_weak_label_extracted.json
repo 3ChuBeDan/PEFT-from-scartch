@@ -1,0 +1,120 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "text": "Hoạt động cải tiến đáng quan tâm đầu tiên là bổ sung thêm thiết bị rải liệu đáy cho máy thiêu kết giúp tăng độ thấu khí và tính ổn định của quá trình thiêu kết cũng như chất lượng quặng. Hệ thống này đã đi vào hoạt động ổn định từ tháng 12/2013. Với hệ thống lọc bụi khí than, Công ty đã đầu tư mở rộng từ 7 bồn lên 10 bồn lọc bụi và đưa vào sử dụng từ tháng 09/2013, và kết quả đã khắc phục triệt để những vấn đề quá tải do khí than lò cao gây ra. Hệ thống này không những đảm bảo cho thiết bị vận hành ổn định còn khắc phục triệt để vấn đề ô nhiễm môi trường, tăng tuổi thọ của các thiết bị sử dụng năng lượng là khí than lò cao.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Ngoài ra, các cán bộ công nghệ tại Khu liên hợp (KLH) còn triển khai ý tưởng bổ sung thiết bị thu hồi khí than lò thổi và bồn chứa khí than nhằm tận thu khí than từ lò thổi để làm năng lượng đốt lò gia nhiệt cho các Nhà máy cán trong KLH. Hệ thống đã hoạt động từ tháng 11/2013, góp phần làm giảm rất đáng kể tiêu hao than của lò sinh khí. Nếu trước đây phải sử dụng 8 lò sinh khí, nay chỉ còn dùng 5 lò. Theo tính toán ban đầu, hệ thống thu hồi khí than lò thổi sẽ giảm được khoảng 45-50% lượng than đốt cho lò sinh khí.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 6
+      }
+    },
+    {
+      "text": "Việc tìm kiếm và thử nghiệm các nguồn than mới trở thành trọng tâm nghiên cứu của Công ty CP Năng lượng Hòa Phát trong năm 2013. Trong năm có gần 20 loại than mới được nghiên cứu và thử nghiệm thành công. Than Lake Vermont trong sản xuất than coke chất lượng loại 1, hoàn toàn phù hợp cho vận hành của lò cao Khu liên hợp sản xuất gang thép. Công ty đã mạnh dạn nhập khẩu 25,000 tấn than Lake Vermont và than PCI Jellinbah từ nước Úc để tiến hành sản xuất đại trà nhằm giảm việc sử dụng than premium giá cao. Việc thành lập ban công nghệ và tổ chức các buổi họp hàng tháng giúp công tác nghiên cứu trở nên sôi động và tạo ra thêm nhiều ý tưởng sản xuất mới, giảm chi phí và gia tăng sức cạnh tranh của than coke Hòa Phát trên thị trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 8
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": " Năng lượng và thăm dò khai thác khoáng sản: Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung trong đó chủ yếu là quặng sắt, sản xuất và bán buôn than cốc, khai thác và thu gom than cứng, sản xuất sản phẩm dầu mỏ tinh chế, sản xuất, truyền tải, phân phối điện, bán buôn kim loại và quặng kim loại, và buôn bán than luyện cốc và than các loại.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Mẫu B 0 9 – DN /HN [ROWS] 31/12/ 2012 | 99,72% | 99,60% | 99,86% | 99,67% | 99,67% 99,00% | 85,00% | 99, 96 % | 84,95% | 99,89% | 99,80% | 100% [ROW] Lợi ích và quyền biểu quyết của Tập đoàn 3 1 / 12 / 2013 | 99,72% | 99,60% | 99,89% | 99,67% | 99,67% 99,00% | 99,99% | 99, 96 % | 84,95% | 99,89% | 99,80% | 100% [ROW] Sản xuất thiết bị xây dựng; kinh doanh thương mại máy móc và thiết bị xây dựng và khai thác khoáng sản loại nhỏ và vừa. | Sản xuất và kinh doanh thương mại các sản phẩm nội thất. | Sản xuất và kinh doanh thương mại ống thép. | Sản xuất và kinh doanh thương mại sản phẩm điện lạnh. | Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật. Buôn bán và xuất nhập khẩu sắt thép các loại, vật liệu xây dựng, đồ nội thất, máy điều | Sản xuất thép, gang, khai thác quặng sắt, khai thác và thu gom than non; bán buôn kim loại và quặng kim loại; và sản xuất, mua bán than cốc. | Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung trong đó chủ yếu là quặng sắt. | Kinh doanh bất động sản. | Sản xuất và bán buôn Sản xuất và bán buôn than cốc, khai thác và thu gom than cứng; sản xuất sản phẩm dầu mỏ tinh chế; bán buôn kim loại và quặng kim loại; và buôn bán than luyện cốc và than các loại. | Khai thác và thu gom than non; khai thác quặng sắt, bô xít, các kim loại quý hiếm; khai thác đá, cát, sỏi, đất sét; sản xuất than cốc, thạch cao, vôi, kim loại màu và kim | kim loại và quặng kim loại. [ROW] Công ty TNHH Ống thép Hòa | Điện lạnh Hòa [ROW] cấp 1 | Công ty CP Xây dựng và Phát triển Đô thị Hòa Phát | Công ty CP Thép Hòa Phát | Công ty CP Golden Gain Việt | Công ty CP Khoáng sản Hòa [ROW] Công ty TNHH [ROW] Phát [ROW] Phát [ROW] Phát [ROW] Phát [ROW] Công ty CP Đầu tư Khoáng sản [ROW] Công ty TNHH Thương mại [ROW] Công ty CP Nội thất Hòa Phát | Công ty CP Năng lượng Hòa [ROW] Công ty con [ROW] Hoạt động chính | Sản xuất sắt, thép, gang; bán buôn [ROW] Công ty TNHH Thiết bị Phụ tùng Hòa Phát | hòa, máy giặt, tủ lạnh. [ROW] Hòa Phát [ROW] Nam [ROW] 10 [ROW] 3 | 4 | 5 6 | 7 | 8 | 9 [ROW] 1 [ROW] 2 | 12 [ROW] STT [ROW] Một thành viên Thép Hòa Phát [ROW] An Thông | 11 Công ty TNHH",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 8
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Mẫu B 0 9 – DN /HN ; caption: Tại ngày 3 1 tháng 12 năm 2 013 , Tập đoàn có 9. 701 nhân viên ( 31/12/ 2012 : 8.084 nhân viên ). [ROWS] Mẫu B 09 – DN/HN Lợi ích và đoàn | 31/12/ 2012 | 100% | 99,57% | 99,75% | 63,37% | 99,80% 38% | Lợi ích và quyền biểu quyết của Tập đoàn 31/12/ 2012 [ROW] quyền biểu quyết gián tiếp của Tập đoàn | 3 1 / 12 / 2013 | 100% | 99,77% | 99,98% | 2013 | 38% | 50% [ROW] 63,50% | - | 1 / 12 / [ROW] 3 [ROW] Tìm kiếm và thăm dò quặng đồng đỏ, vàng, bạc và các quặng cộng sinh. [ROW] Khai thác và sản xuất quặng sắt, bô xít và các kim loại quý hiếm; bán buôn kim loại và | không chứa sắt; hoạt động dịch vụ [ROW] các kim loại quý hiếm; bán buôn kim loại và [ROW] loại và quặng kim loại. [ROW] Khai thác và sản xuất quặng sắt, bô xít và các kim loại quý hiếm; bán buôn kim loại và [ROW] Khai thác mỏ và quặng sắt; sản xuất than cốc; sản xuất sắt, thép, gang và khai thác và thu gom than non, than bùn và quặng bô xít. [ROW] móc. [ROW] Khai thác và sản xuất quặng sắt, bô xít và [ROW] Sản xuất sắt, thép, gang; bán buôn kim [ROW] Khai thác và thu gom than non; khai thác quặng sắt hỗ trợ khai thác mỏ và quặng khác; và sản xuất than cốc, vôi, thạch cao. [ROW] quặng kim loại và bán buôn máy [ROW] quặng kim loại. [ROW] Hoạt động chính | Hoạt động chính [ROW] quặng kim loại. [ROW] Công ty con của Công ty con của Công ty CP Khoáng sản Hòa Phát Công ty CP Khoáng sản Hòa | Công Ty TNHH Đức Tiên | Công ty CP Khai khoáng Hòa [ROW] Công ty con của Công ty TNHH Một thành viên thép Hòa Phát | Công ty TNHH Một thành viên Hòa Phát Bình Định | Công ty CP Khoáng sản Đức Công ty CP Khoáng sản Hòa Phát Mitraco | Công ty liên kết | – SSG [ROW] Công ty con cấp 2 | Yên | Công ty CP Đầu tư Khai thác Khoáng Sản Yên Phú [ROW] Long [ROW] Phát – [ROW] 9 | 11 12 [ROW] 10 | 13 | 1 [ROW] STT | STT | 2",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    }
+  ]
+}

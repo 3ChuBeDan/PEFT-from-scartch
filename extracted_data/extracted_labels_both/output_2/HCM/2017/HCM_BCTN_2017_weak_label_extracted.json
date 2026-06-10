@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 457,
+      "text": "Đảm bảo an ninh mạng. Với sự đe dọa ngày càng tăng từ các tin tặc, vi phạm an ninh và rò rỉ dữ liệu, HSC đã liên tục tăng cường các biện pháp an ninh mạng thông qua các giải pháp khác nhau. Điển hình là việc nâng cấp Chương trình Hệ thống An ninh Thông tin (ISMS) theo tiêu chuẩn ISO 27001:2013 để cải thiện tổng thể Kiến trúc An ninh bằng việc giảm thiểu và loại bỏ các điểm yếu an ninh trước đây. HSC cũng yêu cầu toàn thể nhân viên tuân thủ nghiêm ngặt quy tắc sở hữu trí tuệ nhằm đảm bảo an toàn dữ liệu của tất cả các bộ phận chức năng, tuân theo Ma trận Thẩm quyền của chúng tôi trong việc phân bổ thẩm quyền tiếp cận thông tin theo yều cầu nghiệp vụ.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 883,
+      "text": "Chính sách về xung đột lợi ích nhằm cung cấp cơ sở cho BĐH và nhân viên Công ty trong việc nhận biết và kiểm soát các xung đột lợi ích phát sinh trong quá trình giao dịch với cổ đông, khách hàng, nhà cung ứng, bên cấp tín dụng, nhà thầu và các bên khác có quan hệ kinh doanh với HSC hoặc các mâu thuẫn phát sinh từ quy trình quản lý và điều hành nội bộ của Công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 884,
+      "text": "Chính sách Kiểm soát Gian lận đã được thiết lập và bao gồm các yêu cầu cần thiết cho việc xây dựng các thủ thuật kiểm soát để hỗ trợ việc phát hiện, ngăn chặn và giải quyết các gian lận. Bộ phận phụ trách Chính sách Kiểm soát Gian lận trực thuộc Hội đồng Quản trị (EXCO) xúc tiến việc duy trì tính nhất quán trong hành vi của tổ chức thông qua việc:",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

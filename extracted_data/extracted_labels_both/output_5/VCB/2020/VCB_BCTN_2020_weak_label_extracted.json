@@ -1,0 +1,47 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 723,
+      "text": "Quyết định 1604/QĐ-NHNN về việc phê duyệt Đề án phát triển ngân hàng xanh tại Việt Nam, với mục tiêu nhằm tăng cường nhận thức và trách nhiệm xã hội của hệ thống ngân hàng đối với việc bảo vệ môi trường, chống biến đổi khí hậu, từng bước xanh hóa hoạt động ngân hàng, hướng dòng vốn tín dụng vào việc tài trợ dự án thân thiện với môi trường, thúc đẩy các ngành sản xuất, dịch vụ và tiêu dùng xanh, năng lượng sạch và năng lượng tái tạo; góp phần tích cực thúc đẩy tăng trưởng xanh và phát triển bền vững;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 738,
+      "text": "Với sự nỗ lực, tinh thần trách nhiệm, quyết tâm cao của toàn hệ thống Vietcombank, kết quả thực hiện các giải pháp hỗ trợ khách hàng bị ảnh hưởng bởi dịch Covid19 đã phát huy tác dụng lớn: Vietcombank đã hỗ trợ hơn 300 nghìn khách hàng bị ảnh hưởng bởi dịch với dư nợ 660 nghìn tỷ đồng, hạ lãi suất/áp dụng lãi suất ưu đãi, chiếm hơn 80% tổng dư nợ cho vay của toàn hệ thống. Doanh số cho vay mới lũy kế đối với khách hàng bị ảnh hưởng bởi dịch là gần 900 nghìn tỷ đồng với số lượng khách hàng được hưởng ưu đãi hơn 167 nghìn khách. Thực hiện cơ cấu thời hạn trả nợ, giữ nguyên nhóm nợ theo Thông tư 01 gần 50 nghìn tỷ đồng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 3
+      }
+    }
+  ]
+}

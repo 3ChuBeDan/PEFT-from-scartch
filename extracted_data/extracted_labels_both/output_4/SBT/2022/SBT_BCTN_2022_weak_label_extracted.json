@@ -1,0 +1,255 @@
+{
+  "extracted_count": 14,
+  "extracted": [
+    {
+      "text": "Đồng hành cùng sự chuyển mình ngoạn mục của TTC AgriS trong niên độ vừa qua trên cương vị Phó TGĐ thường trực, Tôi đánh giá cao tinh thần nỗ lực của Tập thể đội ngũ cán bộ nhân viên tinh nhuệ của TTC AgriS cùng đồng hành thúc đẩy tinh thần dấn thân – học hỏi – đổi mới giúp nâng cao năng lực của tổ chức cũng là gia tăng năng lực cạnh tranh cốt lõi của công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "HĐQT có quy trình để giải quyết các xung đột lợi ích, khi một thành viên HĐQT hoặc thành viên Ban TGĐ đối mặt với rủi ro hoặc vấn đề tiềm ẩn xung đột lợi ích, thành viên có liên quan có trách nhiệm báo cáo thông tin đến HĐQT tại các cuộc họp, cân nhắc và đưa ra quyết định liên quan đến vấn đề là đối tượng người có liên quan để tránh xung đột theo quy định.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Trong các tình huống có xung đột lợi ích, đảm nhận vai trò của người giám sát khách quan phù hợp đối với các hoạt động của Ban Điều hành, bao gồm việc cân bằng và ngăn ngừa những xung đột lợi ích, góp phần bảo vệ lợi ích chính đáng của Cổ đông, đặc biệt là các Cổ đông nhỏ lẻ.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Trên cơ sở báo cáo kết quả kiểm toán của đơn vị Kiểm toán độc lập, UBKT đồng ý kết luận kiểm toán BCTC niên độ 2022-2023 của Công ty được lập và trình bày trung trực, hợp lý trên cơ sở tuân thủ chuẩn mực và chế độ kế toán hiện hành, chính sách kế toán áp dụng nhất quán, thuyết minh đầy đủ các thông tin trọng yếu trên BCTC, không có sai sót trọng yếu hoặc bất hợp lý, không có biến động bất thường đối với doanh thu, lợi nhuận hoặc các khoản mục tài sản trọng yếu và không phát hiện các gian lận hoặc rủi ro gian lận tiềm tàng trên BCTC.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Bên cạnh việc phát triển hệ sinh thái phần mềm và cơ sở hạ tầng, TTC AgriS đặc biệt chú trọng và đẩy mạnh các biện pháp bảo mật an ninh mạng, an ninh dữ liệu và các chính sách an toàn về thông tin. Bao gồm triển khai các giải pháp bảo mật tiên tiến như tường lửa, phát hiện xâm nhập, mã hóa dữ liệu, và hệ thống phòng thủ chủ động. Ngoài ra, TTC AgriS đã và sẽ nâng cao các chính sách và quy định an toàn về thông tin để đảm bảo tính bảo mật của dữ liệu quan trọng và thông tin của Khách hàng. Công ty sẽ tuân thủ các quy tắc và tiêu chuẩn an ninh mạng quốc tế để đảm bảo rằng thông tin của Khách hàng được bảo vệ một cách tối đa.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "ít ảnh hưởng môi trường, cụ thể Tổng tiêu thụ Năng lượng từ việc sử dụng nhiên liệu có nguồn gốc không tái tạo giảm 14%, Tiêu thụ Năng lượng điện từ nguồn cấp lưới điện quốc gia giảm 11% và Tổng tiêu thụ Năng lượng từ các nguồn năng lượng sạch do TTC AgriS tạo ra như điện sinh khối (có nguồn gốc tái tạo như bã mía, mùn cưa, vỏ trấu), Năng lượng mặt trời,... tăng 8% so với cùng kỳ. Đáng chú ý Tổng Năng lượng TTC AgriS bán ra tăng 29% so với NĐ trước, qua những dữ liệu trên cho thấy tinh thần tiết kiệm, chủ động tạo ra nguồn năng lượng sạch và nỗ lực phát triển Công ty trên cơ sở tiết giảm tiêu hao năng lượng và bảo vệ môi trường xung quanh đã được kiểm soát tốt.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Hiện tại Công ty quản lý dữ liệu quan trắc khí thải Lò hơi tự động, liên tục trên phần mềm trực tuyến. Các Nhà máy Đường của Công ty đều được xây dựng hệ thống xử lý khí thải, đạt yêu cầu của Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp đối với bụi và các chất vô cơ theo Quy chuẩn Việt Nam 19:2009/BTNMT và các quy định khác theo Luật Môi trường. Đồng thời, nhằm giám sát chất lượng khí thải, các Nhà máy được trang bị hệ thống quan trắc khí thải theo đúng quy định của Thông tư 10/2021/TT-BTNMT Quy định về kỹ thuật quan trắc môi trường và quản lý thông tin, dữ liệu quan trắc chất lượng môi trường. Dữ liệu quan trắc được gửi trực tiếp đến Sở Tài nguyên Môi trường của từng địa phương. Trong NĐ 2022-2023, Công ty đã quản lý tốt phát thải trong quá trình sản xuất, không có vi phạm nào được phát hiện trong năm.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.20767,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Hầu hết lò hơi của các Nhà máy chủ yếu sử dụng nhiên liệu Sinh khối chủ yếu là Bã mía, Biomass,... thay cho Than đá, nhờ vậy hạn chế được đáng kể Phát thải nhà kính. Mặt khác, công nghệ sản xuất Đường tinh luyện của Công ty áp dụng công nghệ Cacbonat hóa, nghĩa là sử dụng CO 2 và vôi trong quy trình sản xuất nhằm loại bỏ tạp chất. Do đó, lượng khí CO 2 sinh ra trong quá trình đốt lò hơi sẽ được trích thu về và tái sử dụng vào sản xuất. Ước tính tỷ lệ trích thu này khoảng 9-12% tổng lượng khói phát thải ra ngoài môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Là một doanh nghiệp sản xuất, TTC AgriS luôn ý thức cao vấn đề bảo vệ môi trường thông qua hành động thiết thực Công ty có chủ trương tái sử dụng chất thải phát sinh trong quá trình sản xuất tạo ra để bảo vệ môi trường, gia tăng giá trị và giảm giá thành sản phẩm. Đồng thời, quản lý Nước thải và Chất thải trên cơ sở tổng Nước thải theo chất lượng, địa điểm thải và tổng lượng Chất thải theo loại và phương pháp xử lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "TTC AgriS đề ra các KPI về quản lý chất thải và thực hiện đánh giá nội bộ 1 lần/năm. Trong NĐ vừa qua, không có vi phạm nào về việc quản lý Chất thải và Nước thải được phát hiện. Công ty quản lý Nước thải và Chất thải theo các Quy chuẩn sau:",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Tuân thủ: Định kỳ hàng năm, Công ty đều phối hợp với cơ quan chức năng để tiến hành quan trắc môi trường làm việc, kiểm tra nồng độ bụi, tiếng ồn, độ rung,... để có căn cứ nghiên cứu và trang bị bổ sung thêm đồng phục, thiết bị bảo hộ cho nhân viên nhằm hạn chế ảnh hưởng môi trường đến sức khỏe Người lao động. Thường xuyên kiểm tra các phương tiện Phòng cháy chữa cháy và hệ thống quản lý An toàn lao động theo tiêu chuẩn và quy định của pháp luật.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: TỔNG LƯỢNG CHẤT THẢI THEO LOẠI VÀ PHƯƠNG PHÁP XỬ LÝ ; column_headers: Phân loại Chất thải phát sinh tại các Nhà máy TTC AgriS (tấn) | Niên độ 2021-2022 | Niên độ 2022-2023 | Chất thải nguy hại | Chất thải thông thường ; row_headers: Ủ phân | Đốt (đốt khối lượng lớn) | Thuê đơn vị chức năng xử lý [ROWS] Phân loại Chất thải phát sinh tại các Nhà máy TTC AgriS (tấn) | Niên độ 2021-2022 | Niên độ 2022-2023 [ROW] Chất thải nguy hại | Chất thải thông thường | Chất thải nguy hại | Chất thải thông thường [ROW] Ủ phân | 0 | 19.349 | 0 | 15.817 [ROW] Đốt (đốt khối lượng lớn) | 0 | 656.680 | 0 | 791.896 [ROW] Thuê đơn vị chức năng xử lý | 31 | 23,5",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 14
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Hoạt động sản xuất ; column_headers: Rủi ro | Hành động [ROWS] Rủi ro | Hành động [ROW] • Ô nhiễm đất, nguồn nước, không khí, tiếng ồn • Vấn đề thất nghiệp | • Về nước thải: Đầu tư hệ thống xử lý nước thải hiện đại, đảm bảo nước thải ra môi trường không gây ô nhiễm; • Về chất thải rắn: Tận dụng hầu như toàn bộ các phụ phẩm sinh ra trong quá trình sản xuất để sử dụng cho các mục đích khác nhau; • Về ô nhiễm không khí và tiếng ồn: Quy định chi tiết trong vận hành máy móc thiết bị, đảm bảo không phát thải đáng kể bụi cũng như tiếng ồn; • Tạo điều kiện tối đa cho lao động địa phương có việc làm tại Công ty; • Trong quá trình sáp nhập, tái cơ cấu, Công ty vẫn giữ lại những lao động cũ có năng lực; • Hỗ trợ phương tiện đưa đón, ăn ở khi điều động công tác tại địa phương khác.",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

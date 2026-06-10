@@ -1,0 +1,73 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "VBSE bước vào chu kỳ tăng trưởng mới với tinh thần thận trọng nhưng không thụ động, kiên định chuyển đổi và củng cố nền tảng vận hành. 66",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Dù chủ động xây dựng các kịch bản ứng phó và nâng cao năng lực quản trị rủi ro, VBSE nhận thức rõ rằng bối cảnh địa chính trị toàn cầu đang tạo ra các tác động mạnh mẽ đến thị trường tài chính – chứng khoán quốc tế và trong nước, ảnh hưởng trực tiếp tới tâm lý nhà đầu tư, dòng vốn và thanh khoản thị trường. Trước những bất định đó, VBSE bước vào chu kỳ tăng trưởng mới với tinh thần thận trọng nhưng không thụ động, kiên định chuyển đổi và củng cố nền tảng vận hành, bởi chỉ có thích ứng linh hoạt và đổi mới liên tục mới giúp Công ty vượt qua biến động thị trường và tận dụng cơ hội trong thách thức.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Công ty luôn đảm bảo lợi ích cho người lao động về lương, phụ cấp và các khoản phúc lợi khác, tạo điều kiện cho người lao động yên tâm làm việc, gắn bó với Công ty góp phần thực hiện mục tiêu phát triển bền vững doanh nghiệp. Có thể nói năm 2025 là một năm nhiều biến động, khó khăn của nền kinh tế nói chung và các Công ty chứng khoán nói riêng. Với sự lãnh đạo sáng suốt của Lãnh đạo Công ty và sự đoàn kết của tập thể cán bộ nhân viên, Công ty đạt được kết quả kinh doanh tốt, thu nhập bình quân năm 2025 đối với cán bộ nhân viên Công ty đạt: 44,670 triệu đồng/tháng tăng 27,7% so với năm 2024; đối với cán bộ quản lý tiền lương bình quân của Chủ tịch Hội đồng quản trị, Thành viên Ban Kiểm soát cũng tăng 27,7% so với năm 2024. Ngoài ra các chính sách về khen thưởng, các chương trình phúc lợi cũng được Công ty thực hiện đầy đủ đối với người lao động, tạo động lực to lớn về tinh thần cũng như vật chất để gắn kết tinh thần đoàn kết, tạo động lực làm việc nâng cao vị thế của Công ty, cạnh tranh về thu nhập trên thị trường chứng khoán.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 3.11 Các khoản vay ; column_headers: Tại ngày 1/1/2025 VND | Tăng trong năm VND | Giảm trong năm VND | Tại ngày 31/12/2025 VND ; row_headers: Vay ngân hàng | Ngân hàng TMCP Thịnh vượng và Phát triển | Ngân hàng TMCP Ngoại thương Việt Nam – Chi nhánh Tây Hồ | Ngân hàng TMCP Á Châu – Chi nhánh Định Công | Ngân hàng TMCP Tiên Phong | Ngân hàng TMCP Quốc tế Việt Nam – Hội sở chính | Ngân hàng TMCP An Bình – Chi nhánh Hà Nội | Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Thanh Xuân | Ngân hàng Công nghiệp Hàn Quốc – Chi nhánh Hà Nội | Ngân hàng Thương mại Taipei Fubon | Ngân hàng TMCP Xuất nhập khẩu – Chi nhánh Hà Nội | Ngân hàng TMCP Hàng hải Việt Nam – Trụ sở chính | Ngân hàng TNHH MTV Việt Nam Hiện Đại – Chi nhánh Thăng Long | Ngân hàng TNHH MTV Shinhan Việt nam – Chi nhánh Hoàn Kiếm | Ngân hàng iM – Chi nhánh Thành phố Hồ Chí Minh | Ngân hàng TMCP Việt Nam Thương Tín – Chi nhánh Thành phố Hồ Chí Minh | Ngân hàng Malayan Banking Berhad – Chi nhánh Hà Nội | Ngân hàng Malayan Banking Berhad – Chi nhánh Thành phố Hồ Chí Minh | Ngân hàng TMCP Kỹ thương Việt Nam | Ngân hàng TMCP Việt Nam Thịnh Vượng – Hội sở chính | Ngân hàng TMCP Đông Nam Á – Hội sở chính | Ngân hàng TNHH MTV Woori Việt Nam – Chi nhánh Bắc Ninh | Ngân hàng TNHH CTBC – Chi nhánh Thành phố Hồ Chí Minh | Ngân hàng SinoPac – Chi nhánh Thành phố Hồ Chí Minh | Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam – Chi nhánh Sở Giao dịch | Ngân hàng TMCP Sài Gòn Thương Tín – Chi nhánh Thăng Long | Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh – Chi nhánh Hoàn Kiếm | Ngân hàng TMCP Ngoại thương Việt Nam – Chi nhánh Hà Thành | Vay các tổ chức khác | Công ty Cổ phần Cơ điện Trần Phú [ROWS] Tại ngày 1/1/2025 VND | Tăng trong năm VND | Giảm trong năm VND | Tại ngày 31/12/2025 VND [ROW] Vay ngân hàng | 5.301.096.820.000 | 44.973.508.816.260 | (42.889.652.363.028) | 7.384.953.273.232 [ROW] Ngân hàng TMCP Thịnh vượng và Phát triển | 700.000.000.000 | 3.121.985.637.143 | (3.121.985.637.143) | 700.000.000.000 [ROW] Ngân hàng TMCP Ngoại thương Việt Nam – Chi nhánh Tây Hồ | 620.730.000.000 | 1.561.712.000.000 | (1.914.147.446.000) | 268.294.554.000 [ROW] Ngân hàng TMCP Á Châu – Chi nhánh Định Công | 600.000.000.000 | 3.281.310.618.501 | (3.881.310.618.501) | - [ROW] Ngân hàng TMCP Tiên Phong | 500.000.000.000 | 2.005.947.212.857 | (2.505.947.212.857) | - [ROW] Ngân hàng TMCP Quốc tế Việt Nam – Hội sở chính | 474.486.540.000 | 3.083.985.785.000 | (2.752.952.392.143) | 805.519.932.857 [ROW] Ngân hàng TMCP An Bình – Chi nhánh Hà Nội | 444.000.000.000 | 1.699.219.550.000 | (2.143.219.550.000) | - [ROW] Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Thanh Xuân | 370.663.500.000 | 6.127.211.170.262 | (4.943.813.672.646) | 1.554.060.997.616 [ROW] Ngân hàng Công nghiệp Hàn Quốc – Chi nhánh Hà Nội | 300.000.000.000 | 400.000.000.000 | (400.000.000.000) | 300.000.000.000 [ROW] Ngân hàng Thương mại Taipei Fubon | 248.380.000.000 | - | (248.380.000.000) | - [ROW] Ngân hàng TMCP Xuất nhập khẩu – Chi nhánh Hà Nội | 200.000.000.000 | 3.104.355.978.465 | (2.842.963.079.706) | 461.392.898.759 [ROW] Ngân hàng TMCP Hàng hải Việt Nam – Trụ sở chính | 165.834.000.000 | 200.000.000.000 | (365.834.000.000) | - [ROW] Ngân hàng TNHH MTV Việt Nam Hiện Đại – Chi nhánh Thăng Long | 150.000.000.000 | 130.925.000.000 | (280.925.000.000) | - [ROW] Ngân hàng TNHH MTV Shinhan Việt nam – Chi nhánh Hoàn Kiếm | 147.002.780.000 | - | (147.002.780.000) | - [ROW] Ngân hàng iM – Chi nhánh Thành phố Hồ Chí Minh | 120.000.000.000 | 240.000.000.000 | (360.000.000.000) | - [ROW] Ngân hàng TMCP Việt Nam Thương Tín – Chi nhánh Thành phố Hồ Chí Minh | 100.000.000.000 | 10.862.621.407.324 | (10.962.621.407.324) | - [ROW] Ngân hàng Malayan Banking Berhad – Chi nhánh Hà Nội | 90.000.000.000 | 270.000.000.000 | (270.000.000.000) | 90.000.000.000 [ROW] Ngân hàng Malayan Banking Berhad – Chi nhánh Thành phố Hồ Chí Minh | 70.000.000.000 | 210.000.000.000 | (210.000.000.000) | 70.000.000.000 [ROW] Ngân hàng TMCP Kỹ thương Việt Nam | - | 1.895.909.294.000 | (1.466.897.790.000) | 429.011.504.000 [ROW] Ngân hàng TMCP Việt Nam Thịnh Vượng – Hội sở chính | - | 855.033.936.708 | (855.033.936.708) | - [ROW] Ngân hàng TMCP Đông Nam Á – Hội sở chính | - | 2.095.396.650.000 | (2.095.396.650.000) | - [ROW] Ngân hàng TNHH MTV Woori Việt Nam – Chi nhánh Bắc Ninh | - | 300.000.000.000 | - | 300.000.000.000 [ROW] Ngân hàng TNHH CTBC – Chi nhánh Thành phố Hồ Chí Minh | - | 600.000.000.000 | (500.000.000.000) | 100.000.000.000 [ROW] Ngân hàng SinoPac – Chi nhánh Thành phố Hồ Chí Minh | - | 261.221.190.000 | (261.221.190.000) | - [ROW] Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam – Chi nhánh Sở Giao dịch | - | 719.990.000.000 | (360.000.000.000) | 359.990.000.000 [ROW] Ngân hàng TMCP Sài Gòn Thương Tín – Chi nhánh Thăng Long | - | 500.000.000.000 | - | 500.000.000.000 [ROW] Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh – Chi nhánh Hoàn Kiếm | - | 1.000.000.000.000 | - | 1.000.000.000.000 [ROW] Ngân hàng TMCP Ngoại thương Việt Nam – Chi nhánh Hà Thành | - | 446.683.386.000 | - | 446.683.386.000 [ROW] Vay các tổ chức khác | 1.029.494.635.000 | 4.004.000.000.000 | (3.995.494.635.000) | 1.038.000.000.000 [ROW] Công ty Cổ phần Cơ điện Trần Phú | - | 290.000.000.000 | (290.000.000.000) | - [ROW] Công ty Cổ phần Đầu tư Sài Gòn VRG | 639.494.635.000 | 2.174.000.000.000 | (2.285.494.635.000) | 528.000.000.000 [ROW] Công ty Cổ phần Dây điện Và Phích cắm Trần Phú | - | 290.000.000.000 | (200.000.000.000) | 90.000.000.000 [ROW] Công ty Cổ phần Thế giới Di động | - | 100.000.000.000 | - | 100.000.000.000 [ROW] Công ty Tài Chính Tổng hợp Cổ phần Tín Việt | 90.000.000.000 | 90.000.000.000 | (180.000.000.000) | - [ROW] Công ty Tài chính Tín dụng Tiêu dùng TNHH MB Shinsei | 300.000.000.000 | 770.000.000.000 | (750.000.000.000) | 320.000.000.000 [ROW] Công ty TNHH Xuất nhập khẩu Thương mại Công nghệ Dịch vụ Hùng Duy | - | 290.000.000.000 | (290.000.000.000) | - [ROW] Tổng cộng | 6.330.591.455.000 | 48.977.508.816.260 | (46.885.146.998.028) | 8.422.953.273.232",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    }
+  ]
+}

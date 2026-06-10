@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Rủi ro gian lận, phòng chống rửa tiền và tài trợ khủng bố",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Trong năm 2023, VietinBank tiếp tục ẩy mạnh tiến ộ xây dựng hệ thống phòng chống rửa tiền, tài trợ khủng bố và phòng, chống gian lận - giai oạn 2 nhằm hỗ trợ giám sát phát hiện, nhận diện sớm các rủi ro, dấu hiệu bất thường của giao dịch trên tất cả các kênh, các mảng nghiệp vụ, thúc ẩy tăng trưởng gắn với an toàn, hiệu quả. Bên cạnh ó, VietinBank cũng ồng thời áp dụng a dạng các hình thức truyền thông về những thủ oạn, hành vi lừa ảo và biện pháp ứng xử ể không những nâng cao nhận biết, cảnh giác của không chỉ cán bộ trong VietinBank mà của các khách hàng, từ ó ảm bảo an toàn cho tài sản của khách hàng và VietinBank.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Đồng thời, nhận thức \u0003ược vai trò quan trọng và ảnh hưởng của các yếu tố MT - XH \u0003ối với sự PTBV của ngân hàng, thực hiện mục tiêu PTBV trong Chiến lược phát triển \u0003ến năm 2030, tầm nhìn \u0003ến năm 2045, VietinBank \u0003ã chủ \u0003ộng xây dựng các chính sách, sản phẩm tạo cơ chế linh hoạt trong tài trợ các dự án xanh, \u0003ồng thời luôn ưu tiên nguồn lực \u0003ể tài trợ các dự án \u0003ầu tư vào lĩnh vực bảo vệ môi trường, ứng phó biến \u0003ổi khí hậu và PTBV. Năm 2022, tỷ trọng tài trợ dự án xanh trong tổng dư nợ tín dụng của VietinBank \u0003ã tăng lên 6,05% (từ mức 1,47% năm 2018). Tổng số lượng khách hàng \u0003ã ký kết hợp \u0003ồng tín dụng là trên 1.000 khách hàng, trong \u0003ó lĩnh vực chiếm tỷ trọng lớn nhất là năng lượng tái tạo. Ngoài ra, VietinBank tích cực \u0003ẩy mạnh ứng dụng công nghệ, xây dựng thói quen thân thiện với môi trường cho khách hàng, phát triển các kênh giao dịch \u0003iện tử qua eFAST, iPay, các dịch vụ, phương thức thanh toán mới trên nền tảng công nghệ hiện \u0003ại; theo \u0003ó, các giao dịch thanh toán trên kênh số năm 2022 tiếp tục tăng trưởng mạnh mẽ khoảng 92% so với cùng kỳ năm 2021, góp phần hướng tới mục tiêu xanh hóa hoạt \u0003ộng hệ thống ngân hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    }
+  ]
+}

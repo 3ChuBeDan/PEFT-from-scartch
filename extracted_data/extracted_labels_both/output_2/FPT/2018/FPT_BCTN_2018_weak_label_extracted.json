@@ -1,0 +1,52 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "; Dịch vụ CNTT truyền thống gồm: phát triển phần mềm, hiện đại hóa các hệ thống thông tin, quản trị hệ thống thông tin, dịch vụ kiểm thử và đảm bảo chất lượng phần mềm, dịch vụ BPO;",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: SỰ THAM GIA CỦA CÁC BÊN LIÊN QUAN TRONG CHÍNH SÁCH VÀ HOẠT ĐỘNG CỦA FPT ; column_headers: Mối quan tâm của CBNV | Hành động của FPT | Một số kết quả nổi bật trong năm 2018 [ROWS] Mối quan tâm của CBNV | Hành động của FPT | Một số kết quả nổi bật trong năm 2018 [ROW] h Được tạo điều kiện và cơ hội để phát huy cao nhất năng lực của mình để thành công cùng Tập đoàn. h Được đảm bảo các quyền lợi chính đáng cả về vật chất và tinh thần. h Môi trường làm việc thân thiện, sáng tạo. | h Liên tục tạo cơ hội và thách thức, đảm bảo môi trường hợp tác, đầy đủ thông tin, bình đẳng trong thăng tiến và khuyến khích sáng tạo. h Xây dựng và duy trì liên tục chương trình đào tạo và huấn luyện đội ngũ lãnh đạo kế cận trung thành với lý tưởng và sự nghiệp của Tập đoàn. h Xây dựng và thực thi kế hoạch phát triển nhân lực phù hợp với các mục tiêu và chiến lược phát triển của Tập đoàn. h Xây dựng và áp dụng các chế độ chính sách khuyến khích, cổ vũ, động viên và bù đắp phù hợp với kết quả công việc và sự đóng góp của nhân viên. h Định kỳ khảo sát, thu thập ý kiến của nhân viên về Tập đoàn và có hành động phù hợp thông qua các khảo sát định kỳ và các trao đổi trực tiếp, gián tiếp. h Thực hiện các chế độ bảo hiểm, các chế độ phúc lợi theo quy định của Công đoàn Công ty. h Xây dựng và phát triển văn hoá, các giá trị cốt lõi của Tập đoàn. h Xây dựng các khu làm việc theo mô hình campus của các tập đoàn lớn trên thế giới. | h Tổng chi phí chi cho các hoạt động đào tạo của Tập đoàn đạt 79,6 tỷ đồng; Số giờ đào tạo bình quân đạt 74,3 giờ/CBNV. h Khám sức khỏe định kỳ một lần/năm và phối hợp với công ty bảo hiểm uy tín thực hiện Chương trình FPT Care dành riêng cho CBNV và người thân. h Là một trong 28 công ty tại thị trường Việt Nam và Top 130 công ty tại khu vực châu Á có môi trường làm việc tốt nhất trong khu vực này do Tạp chí Nhân sự Châu Á (HR Asia Magazine) bình chọn dựa trên khảo sát các công ty thuộc 24 lĩnh vực khác nhau tại khu vực Châu Á. h Khánh thành giai đoạn 1 tổ hợp Đào tạo và công viên phần mềm tại Cần Thơ và khởi công hai khu campus tại Đà Nẵng và Tp.HCM. h Tổ chức các sự kiện văn hóa thể thao như: Hội làng FPT, Hội thao, Hội diễn kỷ niệm ngày thành lập Công ty thu hút hàng chục nghìn CBNV trên toàn quốc tham dự. h Thực hiện đầy đủ các chế độ phúc lợi đối với CBNV như: bảo hiểm y tế, bảo hiểm xã hội, nghỉ mát...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

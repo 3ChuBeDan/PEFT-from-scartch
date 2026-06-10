@@ -1,0 +1,86 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 704,
+      "text": "Trong năm 2020, Novaland liên tục cập nhật quy định nội bộ nhằm đảm bảo tuân thủ quy định pháp luật, cụ thể: Tập đoàn đã (i) cập nhật các chính sách, quy định, quy trình nội bộ liên quan đến hoạt động đầu tư, kinh doanh nhằm đáp ứng quy định của Luật doanh nghiệp, Luật Chứng khoán, Luật Đầu tư, Luật Xây dựng (có hiệu lực từ ngày 01/01/2021); (ii) sửa đổi, bổ sung Nội quy lao động của Tập đoàn để phù hợp quy định của Bộ luật Lao động 2019 (có hiệu lực thi hành từ 01/01/2021); (iii) nghiên cứu, xây dựng quy định nội bộ phù hợp nhằm đáp ứng quy định pháp luật về chống tin nhắn rác, thư điện tử rác, cuộc gọi rác, ngay sau khi Chính phủ ban hành Nghị định 91/2020/NĐ-CP (có hiệu lực thi hành từ ngày 01/10/2020)... Liên quan đến công tác QTCT đại chúng, Novaland đã hoàn thành việc rà soát và điều chỉnh Điều lệ, Quy chế QTCT trình ĐHĐCĐ thông qua, đảm bảo tuân thủ quy định của pháp luật và phù hợp với tình hình thực tiễn. Đối với công tác phòng, chống rửa tiền, Novaland cũng đã hoàn thành việc cập nhật và ban hành mới quy định, quy trình nội bộ để đảm bảo phòng, chống rửa tiền tuân thủ chặt chẽ các quy định của Ngân hàng Nhà nước đồng thời vẫn tạo thuận lợi cho khách hàng trong quá trình giao dịch. Bên cạnh đó, Tập đoàn luôn chủ động minh bạch thông tin dự án, tiến độ dự án, giải đáp các vướng mắc của khách hàng về vấn đề pháp lý liên quan đến các dự án đang triển khai cho các đối tác kinh doanh, NĐT, khách hàng và công chúng. Chính những hoạt động tuân thủ pháp luật của Tập đoàn đã tạo niềm tin cho khách hàng, NĐT, đối tác kinh doanh và là tiền đề để Tập đoàn ngày càng vươn cao, vươn xa.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1169,
+      "text": "Tập đoàn Novaland đảm bảo nhiệm vụ quản lý nước thải và chất thải phát sinh; đồng thời theo dõi, giám sát chặt chẽ bằng nhiều biện pháp kiểm soát tối ưu lượng nước thải và chất thải từ các dự án. Nguồn nước thải từ quá trình xây dựng, vận hành các công trình dự án được xử lý đạt tiêu chuẩn môi trường, đồng thời đảm bảo kết quả quan trắc được báo cáo thường xuyên cho các cơ quan quản lý mỗi 6 tháng 01 lần theo yêu cầu.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1859,
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CHI TIẾT VỀ THỰC HÀNH QUẢN TRỊ CÔNG TY CỦA Ể ỰỊ TẬP ĐOÀN NOVALAND THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: STT | Tiêu chí | Tình hình tuân thủ tại NVL | Cơ sở đánh giá cho năm 2020 | Ghi chú/Đề xuất cải tiến | 2019 | 2020 [ROWS] STT | Tiêu chí | Tình hình tuân thủ tại NVL | Cơ sở đánh giá cho năm 2020 | Ghi chú/Đề xuất cải tiến [ROW] 2019 | 2020 [ROW] B.3 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] B.3.1 | CT có chính sách hoặc quy định cấm Thành viên HĐQT và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | ● | ● | Quy định tại Chương IX Điều lệ CT và Điều 7 Bộ Quy tắc ứng xử. [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu CT trong 3 ngày làm việc? | ● | ● | Quy định tại Điều 17 Quy chế QTCT. [ROW] B.4 | Giao dịch bên liên quan bởi HĐQT và Ban TGĐ [ROW] B.4.1 | CT có chính sách yêu cầu Thành viên HĐQT công bố lợi ích liên quan trong các giao dịch và mọi xung đột lợi ích với CT không? | ● | ● | Quy định tại Điều 46 Điều lệ CT, Điều 47, Điều 48 Quy chế QTCT. [ROW] B.4.2 | CT có chính sách yêu cầu một Tiểu ban gồm Thành viên HĐQT độc lập rà soát giao dịch bên liên quan trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của CT và Cổ đông? | ● | ● | Hiện tại các giao dịch với các bên liên quan/trọng yếu do HĐQT thông qua trực tiếp. [ROW] B.4.3 | CT có chính sách yêu cầu Thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động giao dịch mà Thành viên đó có xung đột lợi ích? | ● | ● | Quy định tại Điều 38 Điều lệ CT, Điều 19 Quy chế QTCT. [ROW] B.4.4 | CT có chính sách về khoản vay cho Thành viên HĐQT trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | ● | ● | Quy định tại Điều 46 Điều lệ CT. [ROW] B.5 | Bảo vệ Cổ đông nhỏ lẻ từ các hành vi tư lợi cá nhân [ROW] B.5.1 | CT có công bố về việc giao dịch bên liên quan được thực hiện theo phương thức đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | ● | ● | Quy định tại Điều 46 Điều lệ CT. [ROW] B.5.2 | Đối với những giao dịch bên liên quan được chấp thuận bởi ĐHĐCĐ, có được thông qua bởi những Cổ đông không có liên quan lợi ích? | ● | ● | Quy định tại Điều 32 Điều lệ CT. [ROW] C | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] C.1 | Quyền lợi của các bên có liên quan được quy định bởi pháp luật hoặc theo những thỏa thuận song phương phải được tôn trọng [ROW] C.1.1 | Ban hành các quy định và thực thi nỗ lực nhằm bảo vệ khách hàng? | ● | ● | Quy định tại Điều 48 Quy chế QTCT, Bộ quy tắc ứng xử. [ROW] C.1.2 | Công bố các chính sách và thực hành, quy trình và thủ tục lựa chọn Nhà cung cấp/Nhà thầu? | ● | ● | Quy định ở Quy trình cung ứng hoạt động, Quy trình hoạt đồng đấu thầu do CT ban hành, Bộ Quy tắc ứng xử. [ROW] C.1.3 | Mô tả nỗ lực của CT nhằm đảm bảo chuỗi giá trị của CT thân thiện với môi trường hoặc phù hợp với việc thúc đẩy PTBV? | ● | ● | Quy định tại Điều 31, Điều 48 Quy chế QTCT, Thể thiện tại Báo cáo PTBV, BCTN 2020.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "E3",
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "paragraph_id": 1871,
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CHI TIẾT VỀ THỰC HÀNH QUẢN TRỊ CÔNG TY CỦA Ể ỰỊ TẬP ĐOÀN NOVALAND THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: STT | Tiêu chí | Tình hình | tuân thủ tại NVL | Cơ sở đánh giá cho năm 2020 [ROWS] Tình hình | Cơ sở đánh giá cho năm 2020 | STT [ROW] Tiêu chí | tuân thủ tại NVL [ROW] (P) A.2 | QUYỀN THAM GIA VÀO CÁC QUYẾT ĐỊNH LIÊN QUAN ĐẾN NHỮNG THAY ĐỔI CƠ BẢN CỦA CÔNG TY [ROW] (P) A.2.1 | Có bằng chứng gì về rào cản đối với việc Cổ đông không được trao đổi thông tin hoặc tham khảo ý kiến các Cổ đông khác? | ● | ● | Hoàn toàn không xảy ra Quy định tại Điều lệ CT và Quy chế QTCT: Quyền lợi của Cổ đông được xác định rõ ràng, cụ thể [ROW] (P) A.3 | QUYỀN THAM GIA VÀ BIỂU QUYẾT TẠI ĐHĐCĐ, ĐƯỢC THÔNG TIN VỀ QUY ĐỊNH HỌP ĐẠI HỘI ĐỒNG CỔ ĐÔNG, BAO GỒM THỦ TỤC BIỂU QUYẾT [ROW] (P) A.3.1 | CT có đưa nội dung bổ sung và không được thông báo trước trong chương trình nghị sự vào thông báo ĐHĐCĐ/ ĐHĐCĐ bất | ● | ● | Bất kỳ thông tin nào được thêm vào chương trình nghị sự đều được thông báo trước cho Cổ đông | thường [ROW] Chủ tịch HĐQT, Trưởng ban TBKT và TGĐ có tham dự ĐHĐCĐ gần nhất? | ● | ● | Trưởng TBKT tại thời điểm tổ chức ĐHĐCĐ 2020 là bà Nguyễn Thanh Bích Thùy không thể tham dự cuộc họp vì tình hình diễn biến phức tạp của dịch bệnh COVID-19 | (P) A.3.2 [ROW] (P)A.4 | CƠ CẤU VỐN VÀ CÁC THỎA ƯỚC CHO PHÉP MỘT SỐ CỔ ĐÔNG NẮM GIỮ QUYỀN KIỂM SOÁT KHÔNG TƯƠNG ỨNG VỚI TỶ LỆ CỔ PHẦN MÀ HỌ SỞ HỮU PHẢI ĐƯỢC CÔNG BỐ CÔNG KHAI [ROW] (P) A.4.1 | CT có không công bố sự tồn tại của thỏa thuận Cổ đông? | ● | ● | Không tồn tại thỏa thuận này [ROW] (P) A.4.2 | CT có không công bố sự tồn tại của giới hạn biểu quyết? | ● | ● | Không tồn tại giới hạn này [ROW] (P) A.4.3 | CT có không công bố sự tồn tại của cổ phiếu có nhiều quyền biểu quyết? | ● | ● | Không tồn tại loại cổ phiếu này [ROW] (P) A.5 | CƠ CẤU VỐN VÀ CÁC THỎA ƯỚC CHO PHÉP MỘT SỐ CỔ ĐÔNG NẮM GIỮ QUYỀN KIỂM SOÁT KHÔNG TƯƠNG ỨNG VỚI TỶ LỆ CỔ PHẦN MÀ HỌ SỞ HỮU PHẢI ĐƯỢC CÔNG BỐ CÔNG KHAI [ROW] (P) A.5.1 | Cấu trúc sở hữu kim tự tháp hoặc cấu trúc sở hữu chéo có tồn tại không? | ● | ● | Người có liên quan đến Chủ tịch HĐQT [ROW] (P) B | ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] (P) B.1 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] (P) B.1.1 | CT có bị kết luận vi phạm về giao dịch nội gián của HĐQT, Ban TGĐ và nhân viên trong 3 năm qua? | ● | ● | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi hoàn toàn bị cấm tại CT",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

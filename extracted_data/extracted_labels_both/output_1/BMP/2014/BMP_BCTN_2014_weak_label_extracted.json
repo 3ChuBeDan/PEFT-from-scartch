@@ -1,0 +1,62 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 142,
+      "text": "Văn hóa là giá trị nền tảng của doanh nghiệp nên để thực hiện được những định hướng chiến lược nêu trên đòi hỏi phải định hình và không ngừng hoàn thiện. Công ty khẳng định sẽ tiếp tục phát huy truyền thống đoàn kết, cẩn trọng, hợp tác và gắn kết với sự sáng tạo, tinh thần sẵn sàng đổi mới để nâng cao hiệu quả hoạt động quản trị nội bộ và xây dựng môi trường làm việc thân thiện nhưng chuyên nghiệp. Tiếp tục xây dựng văn hóa Nhựa Bình Minh, cải tiến hệ thống chính sách, nội quy, quy chế nội bộ và chăm lo ngày càng tốt hơn cho đời sống vật chất và tinh thần của Người lao động trong Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 473,
+      "text": "Phát huy truyền thống văn hóa Nhựa Bình Minh, xây dựng môi trường làm việc thân thiện, chuyên nghiệp, an toàn và chăm lo ngày càng tốt hơn cho đời sống vật chất và tinh thần của người lao động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 930,
+      "text": "Cũng trong năm 2014, Công ty đã thực hiện báo cáo đánh giá tác động môi trường (ĐTM) cho Nhà máy 2 (có công suất dự kiến mở rộng: 75.000 tấn sản phẩm/năm) và Nhà máy 4 tại Long An – Giai đoạn 1 (Công suất: 10.000 tấn sản phẩm/năm). Cả 2 ĐTM này đều đã được sự chấp thuận của Sở Tài Nguyên Môi trường tỉnh Bình Dương và Sở Tài Nguyên Môi trường tỉnh Long An.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0,
+        "S6": 0.5
+      },
+      "themes": [
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2,
+        "S6": 1
+      }
+    }
+  ]
+}

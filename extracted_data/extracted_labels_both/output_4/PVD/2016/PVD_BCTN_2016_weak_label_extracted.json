@@ -1,0 +1,76 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "\"Vào những ngày đầu mới thành lập, dịch vụ Xưởng cơ khí PV Drilling còn non yếu về lực lượng, máy móc nên có ít khách hàng quan tâm sử dụng. Từ thực hiện dịch vụ kiểm định thiết bị khoan, bảo trì bảo dưỡng, gia công cơ khí đến cọ rửa, sơn phết, mười mấy anh em trong Xưởng chúng tôi đều làm hết. Ngày ấy, hóa đơn dịch vụ phát cho khách hàng chỉ vỏn vẹn có vài mươi dollar lẻ, rất ít ỏi so với các công ty bạn như PTSC, VSP... Anh Phạm Tiến Dũng - Xưởng Trưởng Xưởng cơ khí lúc bấy giờ thường động viên và khuyên nhủ anh em trong Xưởng: \"Thị trường dịch vụ khoan trước mắt còn rất lớn, anh em cứ làm và nỗ lực hơn nữa để phát triển thương hiệu PV Drilling, rồi khách hàng sẽ tin tưởng sử dụng ta nhiều hơn\". Cũng nhờ những động viên, chia sẻ chỉ đạo này, chúng tôi như được tiếp thêm nhiều năng lượng hơn, nhiều \"lửa\" hơn để không quản ngày đêm lăn lộn khắp các kho bãi của khách hàng trong cảng PTSC, các giàn khoan dầu khí trên biển, các vùng miền Nam, Bắc. Trưởng thành cùng với sự phát triển của Xưởng cơ khí, tôi cũng đã được học rất nhiều điều bổ ích để củng cố, phát triển bản thân. Tôi học được cách \"truyền lửa\" từ Anh Phạm Tiến Dũng, tôi học được tính cần cù, kiên nhẫn từ các đồng nghiệp, tôi học được tính quyết đoán từ các cấp lãnh đạo. Tôi cũng nhận ra được giá trị văn hóa của mái nhà PV Drilling, nơi mà mọi người, mọi cấp không chỉ coi nhau như là những đồng nghiệp, mà còn coi nhau như những người bạn thân, luôn luôn chia sẻ, hỗ trợ, đứng cạnh nhau khi \"bạn thân\" của mình gặp khó. 15 năm qua dường như vẫn chưa đủ để tôi thỏa mãn niềm đam mê cống hiến của mình, trong tôi vẫn còn nhiều ước mơ, hoài bão để phát triển PV Drilling ngày càng lớn mạnh hơn nữa. Tôi nghĩ mình sẽ dành toàn bộ phần đời còn lại để gắn bó với nơi này. Đơn giản, chỉ bởi vì nó là mái nhà thứ 2 của tôi - PV Drilling.\"",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Cùng với các tổ chức đoàn thể khác, Đảng ủy và Đoàn Thanh niên Tổng Công ty PV Drilling tiếp tục duy trì nhiều hoạt động tích cực và ý nghĩa góp phần nâng cao ý thức, tinh thần lao động, học tập hăng say, đoàn kết và tương thân tương ái. Phát động phong trào sáng tạo trẻ nhằm nâng cao tinh thần \"Tiết kiệm, làm việc hiệu quả\" đến các chi đoàn trong Tổng công ty nhân dịp Tháng Thanh niên; Triển khai hoạt động \"Sáng tạo Trẻ\" nhằm đưa ra những sáng kiến, công trình mang lại lợi ích trực tiếp đến hoạt động sản xuất kinh doanh; Tổ chức các hoạt động về nguồn và công tác thiện nguyện; Tham gia chuyến công tác an sinh xã hội cùng với Văn phòng chính phủ phía Nam tại Tây Ninh; Tổ chức thành công đêm nhạc gây quỹ từ thiện cho đồng bào miền Trung bị thiên tai lũ lụt.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "G9": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Bảng thống kê các sự cố trên toàn Tổng Công ty qua các năm 2012 - 2016 ; column_headers: 2012 | 2013 | 2014 | 2015 | 2016 ; row_headers: Cận nguy - Near miss | Hư hỏng tài sản - Property Damage | Sơ cấp cứu - First Aid | Điều trị y tế/ chuyển sang công việc khác Medical Treatment Case/RWTC | Tai nạn mất thời gian lao động LTI - Lost time injury | Chết người - Fatality [ROWS] Loại sự cố | 2012 | 2013 | 2014 | 2015 | 2016 [ROW] Cận nguy - Near miss | 19 | 8 | 14 | 9 | 9 [ROW] Hư hỏng tài sản - Property Damage | 16 | 7 | 6 | 10 | 12 [ROW] Sơ cấp cứu - First Aid | 8 | 5 | 5 | 10 | 4 [ROW] Điều trị y tế/ chuyển sang công việc khác Medical Treatment Case/RWTC | 4 | 2 | 2 | 2 | 1 [ROW] Tai nạn mất thời gian lao động LTI - Lost time injury | 2 | 2 | 0 | 0 | 0 [ROW] Chết người - Fatality | 0 | 0 | 0 | 1 | 0",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: KPI: NEARMISSES - TÌNH HUỐNG CẬN NGUY ; column_headers: Năm | Sự cố tràn dầu (tấn) | Chất thải nguy hại (tấn) | Chất thải thông thường (tấn) | Sự cố tràn dầu ảnh ế ự hưởng đến môi trường | Khối lượng chất thải phát sinh [ROWS] Sự cố tràn dầu ảnh ế ự hưởng đến môi trường | Khối lượng chất thải phát sinh [ROW] Năm | Sự cố tràn dầu (tấn) | Năm | Chất thải nguy hại (tấn) | Chất thải thông thường (tấn) [ROW] 2012 | 0 | 2014 | 262 | 260 [ROW] 2013 2014 | 0 0 | 2015 | 473 | 342 [ROW] 2015 2016 | 0 0 | 2016 | 325 | 259",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    }
+  ]
+}

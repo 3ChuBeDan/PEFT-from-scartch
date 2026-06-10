@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 377,
+      "text": "Do nhu cầu thép chậm dẫn đến các nhà máy thép cũng thận trọng trong việc sản xuất do vậy nhu cầu than cốc cũng giảm theo. Thị trường than cốc dự kiến sẽ phải đối mặt với tình trạng cung vượt cầu, sản lượng dự kiến khoảng 560 triệu tấn, trong khi mức tiêu thụ khó có thể vượt qua mốc 550 triệu tấn. Sản lượng tăng chủ yếu do sự phục hồi công suất khai thác của các mỏ quặng. Ngược lại, nhu cầu đang phải đối mặt với áp lực kép là tình trạng dư thừa công suất trong ngành than cốc và nhu cầu chậm chạp trên thị trường thép.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

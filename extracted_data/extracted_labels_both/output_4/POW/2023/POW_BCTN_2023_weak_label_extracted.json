@@ -1,0 +1,140 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "text": "Việc phát triển nguồn năng lượng tái tạo để hiện thực hóa những cam kết của Việt Nam tại COP26 sẽ khiến cho khả năng được huy động của các nhà máy điện khí, than giảm đặc biệt là vào các giai đoạn mùa mưa và những khoảng thời gian thuận lợi cho các nguồn năng lượng tái tạo phát điện.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Với việc thiếu nguồn than trong nước trong giai đoạn vừa qua và hiện nay, Nhà máy điện Vũng Áng 1 phải sử dụng 100% than cám 5a.10 phối trộn. Nguồn cung than cám 5a.10 cũng đang không đủ cấp cho các Nhà máy điện than, hiện tại nhà máy điện đang thử nghiệm than cám 5a.14 để đảm bảo nguồn than trong năm 2024 và giai đoạn tiếp theo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 6
+      }
+    },
+    {
+      "text": "Các sáng kiến và biện pháp giảm thiểu phát thải khí nhà kính: Theo kế hoạch đã đăng ký với PVN và được ban hành theo kế hoạch chung của PVN tại Quyết định số 2128/QĐ-DKVN ngày 19/04/2021 về việc \"Ban hành kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu của Tập đoàn Dầu khí Việt Nam, giai đoạn 2018-2030\", PV Power có 13 dự án giảm nhẹ phát thải khí nhà kính thực hiện tại các nhà máy điện, dự kiến theo tính toán của PVN sẽ giảm thiểu được 160.884 tấn CO2e trong giai đoạn 2018-2025 và 109.420 tấn CO2e trong giai đoạn 2026-2030. Trong đó, trừ giải pháp vận hành nhà máy nhiệt điện Nậm Cắt (hiện nay không thuộc sở hữu PV Power), 12 giải pháp còn lại dự kiến giảm thiểu 101.252 tấn CO2e trong giai đoạn 2018-2025 và 72.150 tấn CO2e trong giai đoạn 2026-2030.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Tìm kiếm nguồn và đảm bảo cấp than (than cám 5a1, 5a10 và phối trộn có chất bốc lớn hơn 10%) ổn định, liên tục và dài hạn cho Nhà máy điện Vũng Áng 1; triển khai tốt công tác tiêu thụ tro xỉ nhằm đảm bảo vận hành an toàn, liên tục cho Nhà máy điện Vũng Áng 1. Triển khai đàm phán giá điện chính thức Nhà máy điện Vũng Áng 1 sau khi quyết toán vốn đầu tư dự án được phê duyệt; cũng như đệ trình các cấp có thẩm quyền và đàm phán với EVN về giá điện khi sử dụng than chất bốc cao.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Công ty Cổ phần Năng lượng tái tạo ầ g y p Điện lực Dầu khí [ROWS] TÊN ĐẦY ĐỦ | CÔNG TY CỔ PHẦN NĂNG LƯỢNG TÁI TẠO ĐIỆN LỰC DẦU KHÍ [ROW] ĐỊA CHỈ | Tầng 05, Toà nhà Viện Dầu khí Việt Nam, Số 167 đường Trung Kính, Phường Yên Hòa, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam [ROW] MÃ SỐ CHI NHÁNH | 0109308963 [ROW] NGÀNH NGHỀ KINH DOANH CHÍNH | Sản xuất, truyền tải và bán điện; Nghiên cứu, đầu tư, phát triển, xây dựng, sở hữu, vận hành, khai thác các dự án năng lượng sạch, năng lượng tái tạo (điện gió, điện mặt trời, sinh khối, địa nhiệt và điện rác và các loại hình năng lượng tái tạo khác) [ROW] VỐN ĐIỀU LỆ | 206.160.000.000 đồng [ROW] TỈ LỆ NẮM GIỮ CỦA PV POWER | 51%",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 6.3. Tiêu thụ năng lượng ; column_headers: STT | ĐƠN VỊ | NĂNG LƯỢNG TIẾT KIỆM [ROWS] STT | ĐƠN VỊ | NĂNG LƯỢNG TIẾT KIỆM [ROW] 1 | Cải tiến Holders (bộ đỡ chổi than kích từ Máy phát) Nhà máy điện Nhơn Trạch 2. | PV Power Nhơn Trạch 2 [ROW] 2 | Cải tiến vị trí làm kín trục V seal bộ lược Debris nước làm mát chính PR-BW tại Nhà máy điện | PV Power Nhơn Trạch 2 [ROW] 3 | Hệ thống phun sương làm mát các máy biến áp chính | PV Power Hủa Na [ROW] 4 | Bọc bảo ôn cho đường ống làm mát các ổ của tổ máy | PV Power Hủa Na [ROW] 5 | Phương án nâng cấp transfer pump Nhà máy điện Cà Mau 1 | PV Power Cà Mau [ROW] 6 | Phương án tối ưu hóa hệ thống phòng mòn lò NMĐ Cà Mau 1&2 | PV Power Cà Mau [ROW] 7 | Giải pháp lắp đặt khớp nối mềm đường ống châm Clo nước làm mát chính NMĐ Cà Mau 2 | PV Power Cà Mau [ROW] 8 | Giải pháp thu gom nước chèn bợ trục bơm chữa cháy để sử dụng tưới cây tự động | PV Power Cà Mau [ROW] 9 | Tối ưu quá trình đánh lửa trong khởi động tua bin khí | PV Power Cà Mau [ROW] 10 | Giải pháp giám sát và cảnh báo cường độ lửa trong buồng đốt tua bin khí trên OM | PV Power Cà Mau [ROW] 11 | Tối ưu, tận dụng nước thải từ hệ thống bơm rút chân không bình ngưng, nước bình ngưng xả | PV Power Hà Tĩnh [ROW] 12 | Tối ưu, tận dụng nước thải từ hệ thống bơm rút chân không hệ thống tro bay đưa về bể xả | PV Power Hà Tĩnh [ROW] 13 | Xây dựng chương trình thí nghiệm hiệu chỉnh cho Nhà máy Nhiệt điện Vũng Áng 1 | PV Power Hà Tĩnh [ROW] 14 | Sử dụng nguồn nước thải đã qua xử lý thay thế cho nguồn nước dịch vụ tại khu vực silo tro bay | PV Power Hà Tĩnh [ROW] 15 | Cải tiến hiệu chỉnh Logic điều khiển nhiệt độ yêu cầu của hơi (T required live steam) khi nhà máy vận hành cấu hình 1-1-1 | PV Power Nhơn Trạch [ROW] 16 | Cải tiến điều chỉnh tiến trình mở Diverter Damper và các tham số, logic trong quá trình khởi động | PV Power Nhơn Trạch",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E3": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Bảng thông số các chỉ tiêu môi trường toàn Tổng công ty năm 2023 ; column_headers: ĐƠN VỊ ; row_headers: Nước sạch tiêu thụ | Nước mặt làm mát (1) | Tiêu thụ năng lượng (tỷ lệ điện tự dùng) | Tổng lượng khí thải | Tổng lượng nước thải (2) | Chất thải rắn thông thường | Tro xỉ nhiệt điện than | Chất thải nguy hại [ROWS] CHỈ TIÊU | ĐƠN VỊ [ROW] Nước sạch tiêu thụ | m3 | 1.622.174 [ROW] Nước mặt làm mát (1) | m3 | 1.266.779.664 [ROW] Tiêu thụ năng lượng (tỷ lệ điện tự dùng) | 4,64% [ROW] Tổng lượng khí thải | triệu m3 | 97,699 [ROW] Tổng lượng nước thải (2) | m3 | 203.108.557 [ROW] Chất thải rắn thông thường | tấn | 977,603 [ROW] Tro xỉ nhiệt điện than | tấn | 573.258 [ROW] Chất thải nguy hại | tấn | 4.940",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E3": 0.777029
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 10,
+        "E3": 2
+      }
+    }
+  ]
+}

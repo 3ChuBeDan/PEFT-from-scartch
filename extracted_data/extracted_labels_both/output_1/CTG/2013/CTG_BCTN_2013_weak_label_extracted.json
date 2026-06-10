@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Trong công tác đền ơn, đáp nghĩa, VietinBank chăm sóc và phụng dưỡng suốt đời 265 Mẹ Việt Nam Anh hùng, hiện nay còn 88 Mẹ. Thăm hỏi, trợ cấp hằng tháng cho thương binh nặng tại các trung tâm điều dưỡng; tôn tạo, nâng cấp gần 60 nghĩa trang liệt sĩ, nhà bia, đài liệt sĩ và các công trình di tích lịch sử khác; hỗ trợ nạn nhân chất độc da cam, trẻ em tàn tật, ủng hộ thiên tai, bão lụt, chương trình Lục lạc vàng... Đặc biệt, thực hiện \"Chiến lược biển đảo đến năm 2020\" theo tinh thần Nghị quyết TW 4, VietinBank đã tài trợ 60 tỷ đồng cho Bộ Tư lệnh Hải quân để xây dựng công trình Trung tâm Văn hóa đảo Nam Yết thuộc quần đảo Trường Sa đã được khánh thành và đưa vào sử dụng. Năm 2013, VietinBank đang tiếp tục triển khai xây dựng thêm 04 bể chứa nước ngọt trên các đảo chìm, 01 nhà văn hóa đa năng trên đảo Đá Lớn B và 01 trạm phát sóng FM tại quần đảo Trường Sa, góp phần làm phong phú thêm đời sống vật chất, văn hóa, tinh thần cho cán bộ, chiến sĩ trên đảo. Bên cạnh đó, VietinBank còn phá kỷ lục Việt Nam về số người tham gia hiến máu nhân đạo tại 10 tỉnh, thành phố trong cả nước với trên 8.000 đơn vị máu, chia sẻ với người bệnh bằng dòng máu của chính mình.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

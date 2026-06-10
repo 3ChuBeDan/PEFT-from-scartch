@@ -1,0 +1,42 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Bên cạnh đó, Tập đoàn cũng luôn tìm hiểu và chia sẻ về vật chất lẫn tinh thần cho người lao động có hoàn cảnh khó khăn nhằm kịp thời động viên và khuyến khích tinh thần vượt khó của người lao động. Các hoạt động quyên góp, thiện nguyện cũng được Tập đoàn phát động thường xuyên nhằm động viên, san sẻ gánh nặng, hỗ trợ những mảnh đời bất hạnh, kém may mắn, những hoàn cảnh khó khăn. Vào những dịp Lễ, Tết Nguyên đán, Tết Trung thu, ngày Quốc tế phụ nữ, ngày Phụ nữ Việt Nam, Tập đoàn tổ chức gặp mặt, trao tặng các phần quà và tiền mặt cho người lao động cũng như cho các con em của người lao động có thành tích cao trong lao động và học tập. Tổ chức những hoạt động văn nghệ, thể thao và các hoạt động tham quan du lịch nhằm nâng cao tinh thần đoàn kết, giải trí, nghỉ ngơi cho người lao động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "chuyển đổi sấy lò từ nhiên liệu hóa thạch sang nhiên liệu biomass; tận dụng nước mưa ước tính khoảng 250 m3/ năm; nước thải tái sử dụng ước tính khoảng 1.500.000 m3 trên tổng lượng nước sử dụng khoảng 6.500.000 m3 (chiếm tỷ lệ khoảng 23%); giảm thiểu chất thải nguy hại bằng giải pháp các vỏ, bao bì hóa chất được khuyến khích trả về lại cho doanh nghiệp cung cấp để xử lý hoặc tái sử dụng, giải pháp có thể giảm thiểu chi phí xử lý ước tính khoảng 3.500.000 - 4.000.000 đồng/1.000 tấn sản phẩm; Tận dụng bùn thải trong công trình xử lý nước thải để tạo mùn cho đất ngoài vườn cây, đặc biệt, có 1 đơn vị sử dụng bùn thải để sản xuất và thương mại phân bón vi sinh cho cây trồng. Ngoài ra, để giảm thiểu xả thải ra môi trường công tác tái sử dụng các phụ phẩm luôn được quan tâm, chất thải cũng đang được tái sử dụng như vụn cao su được thu hồi tái chế, gỗ vụn/ cành nhánh cây cao su được thu hồi sản xuất dăm gỗ hoặc thanh nhiên liệu.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E3": 1
+      }
+    }
+  ]
+}

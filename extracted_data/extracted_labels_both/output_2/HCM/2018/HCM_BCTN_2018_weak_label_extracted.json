@@ -1,0 +1,73 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Xây dựng thành công hệ thống Cybersecurity. Nhằm đảm bảo an toàn, bảo mật và chống rò rỉ, mất dữ liệu khách hàng trước tình hình hoạt động ngày càng tinh vi của tin tặc, HSC 2018 đã xây dựng hệ thống Cybersecurity với sự tăng cường các biện pháp an ninh tối đa thông qua các giải pháp khác nhau. HSC đã nâng cấp chương trình Hệ thống An ninh Thông tin (ISMS) theo tiêu chuẩn ISO 27001:2013 và liên tục cải tiến để loại bỏ dần các điểm yếu an ninh của hệ thống thông qua các tấn công giả lập (Pentest).",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Chính sách Kiểm soát Gian lận đã được thiết lập và bao gồm các yêu cầu cần thiết cho việc xây dựng các thủ thuật kiểm soát để hỗ trợ việc phát hiện, ngăn chặn và giải quyết các gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Chính sách về xung đột lợi ích nhằm cung cấp cơ sở cho BĐH và nhân viên Công ty trong việc nhận biết và kiểm soát các xung đột lợi ích phát sinh trong quá trình giao dịch với cổ đông, khách hàng và các đối tác.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Các hoạt động Kiểm toán Nội bộ từ khi thành lập cho đến nay ; column_headers: STT | Quy trình kiểm toán [ROWS] STT | Quy trình kiểm toán [ROW] 2014 [ROW] 1 | Quy trình Giao dịch Ký quỹ (kiểm toán lần 1) [ROW] 2 | Quy trình Môi giới Khách hàng Cá nhân (kiểm toán lần 1) [ROW] 2015 [ROW] 3 | Báo cáo hoạt động Phòng chống rửa tiền (kiểm toán hằng năm) [ROW] 4 | Quy trình Công nghệ Thông tin (kiểm toán lần 1) [ROW] 5 | Quy trình Môi giới Khách hàng Tổ chức (kiểm toán lần 1) [ROW] 2016 [ROW] 6 | Báo cáo hoạt động Phòng chống rửa tiền (kiểm toán hằng năm) [ROW] 7 | Quy trình Quản lý vốn và Tự doanh (kiểm toán lần 1) [ROW] 8 | Quy trình Kế toán và Báo cáo Tài chính (kiểm toán lần 1) [ROW] 2017 [ROW] 9 | Báo cáo hoạt động Phòng chống rửa tiền (kiểm toán hằng năm)",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

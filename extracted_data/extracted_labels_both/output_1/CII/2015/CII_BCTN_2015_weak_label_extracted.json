@@ -1,0 +1,149 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "paragraph_id": 287,
+      "text": "Hien nay, dang khan timing tiep 'than nhang down con 10 do dia phucmg ban giao va thi cong phin da 'than mat bang.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 919,
+      "text": "Quyen thu phi nay Warn de hoan van dau tu Dv an du tu ma rang tuyen trash Quac la 1A, doan qua thanh pha Phan Rang - Thap Chant, tinh Ninh Thuan vii nguyen gia tam xac dinh tai ngay khga s6 lap bao cao tai chinh la 584.311.273.573 VND. Nguyen gia nay duqc )(tic dinh dun tren cac chi phi Gang ty da bit ra de thuc hien Au tu du an theo Hqp dang B.O.T kjr nkay 8, 8, thing 12 nam 2008 giOa Cuc dulyng NI Viet Nam va Lien doanh giOa Cong ty va Cong ty Co phan Diu tu Nam Bay Bay. Tram thu phi da chinh Otte duqc dtra vao thu phi hoin An tir than diem Oh ngay 20 than 5 nam 2013. Quyen thu phi giao thang duqc khau hao theo tjr' tong doanh thu vii ty le khan hao hien nay la 44,2%.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 925,
+      "text": "Tai ngay mua Cong ty TNHH Diu tu Ha tang VRG , Cling ty da danh gia 1si gia tri tai san than ctia dog ty con nay. Theo do, gia tri quyen thu phi giao thong duqc ghi nhan tang len 276.430.752.980 VND, day la khoan chenh loch gift gia tri do Cong ty thue hien anti gia lai theo phucmg phap chi& khau dong tien thu dtrqc trong tucmg lai tir host dung thu phi hoin von so yeti gia tri ghi so cira tai sin than cita ding ty con Lai ngay hgp nhat kinh doanh. Gia tri tang them nay chi duqc ghi nhan vio bio cao tai chinh hqp !that ma khong c6 bit IcSt str dieu chic' nio cho gia tri ghi se ctia tai san tren bio cao tai chinh rieng cult ding ty con. Viec thue hien &nit giit lai gia tri hqp ly curl ding ty con duqc thuc hien bai ding ty c6 chirc nang cung cap dich vv tham dinh gia tri doanh nghiep theo quy dinh cna phip lust.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1207,
+      "text": "[TABLE] [CONTEXT] section: 2.5 S6 luvng can IV, nhiin vien ; column_headers: Veu CO | 31/12/2015 | -UST 4 (%) ; row_headers: SO living can be cong !than vien (ngtrai) | Tien luang binh quan (dengingtrai/thang) | - Dai hgc va tren Dai hgc (nguoi) | - Cao ding, trung cAp (nguiri) | - Khac (nguai) | - Hap ding killing xac dinh than han (nguai) | - Hip ding co xac dinh than han (nguiri) | - Hip ding lao Ong dual 12 thang (ngtrai) [ROWS] Veu CO | 31/12/2015 | -UST 4 (%) [ROW] SO living can be cong !than vien (ngtrai) | 130 [ROW] Tien luang binh quan (dengingtrai/thang) | 11.671.618 [ROW] Phan theo trinh do chuyin mon [ROW] - Dai hgc va tren Dai hgc (nguoi) | 35 | 26,92 [ROW] - Cao ding, trung cAp (nguiri) | 14 | 10,77 [ROW] - Khac (nguai) | 81 | 62,31 [ROW] Phan theo hop ding [ROW] - Hap ding killing xac dinh than han (nguai) | 102 | 78,46 [ROW] - Hip ding co xac dinh than han (nguiri) | 28 | 21,54 [ROW] - Hip ding lao Ong dual 12 thang (ngtrai) | 0",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 6
+      }
+    },
+    {
+      "paragraph_id": 1212,
+      "text": "[TABLE] [CONTEXT] section: 4.1 Kb qua kinh doanh hop nhtit ; column_headers: Chi tieu | Nam 2014 | Nam 2015 | 2015/2014 ; row_headers: T6ng tai sin | Doanh thu than | Lqi nhan than tir boat deng kinh doanh | Lqi nhan !chic | Lqi nhan tnrerc thue | Lcri nhan sau thue | LN sau thue oh cO ding thitu s6 | LN sau thue ctla c..6 ding caa cong ty Mc | Lai co ban tren cti phieu [ROWS] Chi tieu | Nam 2014 | Nam 2015 | 2015/2014 [ROW] T6ng tai sin | 8.994.450.770.065 | 15.065.848.796.815 | 67.50% [ROW] Doanh thu than | 2.606.471.373.995 | 1.750.947.734.745 | -32.82% [ROW] Lqi nhan than tir boat deng kinh doanh | 607.367.011.545 | 812.811.006.457 | 33.83% [ROW] Lqi nhan !chic | (6.993.038.968) | 124.028.775.073 [ROW] Lqi nhan tnrerc thue | 600.373.972.577 | 936.839.781.530 | 56.04% [ROW] Lcri nhan sau thue | 544.284.669.971 | 791.610.771.582 | 45.44% [ROW] LN sau thue oh cO ding thitu s6 | 156.116.180.748 | 167.017.266.673 | 6.98% [ROW] LN sau thue ctla c..6 ding caa cong ty Mc | 388.168.489.223 | 624.593.504.909 | 60.91% [ROW] Lai co ban tren cti phieu | 3.353 d/CP | 2.959 d/CP | -11.75%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1242,
+      "text": "[TABLE] [CONTEXT] section: BAO CAO KET QUA HOiST BONG KINH DOANH HOP NHAT ; column_headers: CHI T1EU | Ma so A | Thuyet m ink | 2015 | 2014 ; row_headers: 1. Doanh thu bin hang vi cung A . A . cap d jch vg | 2. Citc khoan giitm trir doanh thu | 3. Doanh thu than ve bin hang vi cung alp djch vg | 4. Gia von hang ban | 5. Lqi nhujn Op ve bin hang va cung cap djch vg | 6. Doanh thu ho3t d'qng tai chinh | 7. Chi phi tai chinh | - Trong do: Chi phi kW vay | 8. Ph'an Iii trong cong ty lien doanh, lien ket | 9. Chi phi ban hang | 10. Chi phi quan 1y doanh nghiep | 11. Lqi nhui)n thmin tfr hogt Ong kinh doanh | 12. Thu nha‘p khac | 13. Chi phi khic | 14. Lqi nhujin/(1O) khic | 15. TOng Igi nhu#n ke toin tru*c thue | 16. Chi phi thug TNDN hien hanh | 17. (Thunhap)/chi phi thug TNDN hoan 10i | 18. Lqi nhu$n sau three thu nh#p doanh nghiep | 19. Lqi nhua'n sau thug cila ding ty mg | 20. Lqi nhuan sau thug cua c..15 dong khong kiem soot | 21. Lai co. bin tren do phien | 22. Lai suy giim tren do phiOu [ROWS] CHI T1EU | Ma so A | Thuyet m ink | 2015 | 2014 [ROW] 1. Doanh thu bin hang vi cung A . A . cap d jch vg | 01 | 31 | 1,774,657,403,704 | 2,626,126,540,664 [ROW] 2. Citc khoan giitm trir doanh thu | 02 | 31 | 23,709,668,959 | 19,655,166,669 [ROW] 3. Doanh thu than ve bin hang vi cung alp djch vg | 10 | 31 | 1,750,947,734,745 | 2,606,471,373,995 [ROW] 4. Gia von hang ban | 11 | 32 | 1,161,841,229,700 | 2,300,751,803,976 [ROW] 5. Lqi nhujn Op ve bin hang va cung cap djch vg | 20 | 589,106,505,045 | 305,719,570,019 [ROW] 6. Doanh thu ho3t d'qng tai chinh | 21 | 33 | 1,029,970,200,093 | 624,343,863,480 [ROW] 7. Chi phi tai chinh | 22 | 34 | 617,916,650,424 | 246,753,004,656 [ROW] - Trong do: Chi phi kW vay | 23 | 448,932,002,037 | 231,159,472,420 [ROW] 8. Ph'an Iii trong cong ty lien doanh, lien ket | 24 | 16,893,828,203 | 61,018,629,673 [ROW] 9. Chi phi ban hang | 25 | 35 | 27,649,847,217 | 19,549,038,739 [ROW] 10. Chi phi quan 1y doanh nghiep | 26 | 36 | 177,593,029,243 | 117,413,008,232 [ROW] 11. Lqi nhui)n thmin tfr hogt Ong kinh doanh | 30 | 812,811,006,457 | 607,367,011,545 [ROW] 12. Thu nha‘p khac | 31 | 37 | 131,601,507,578 | 4,320,742,2% [ROW] 13. Chi phi khic | 32 | 38 | 7,572,732,505 | 11,313,781,264 [ROW] 14. Lqi nhujin/(1O) khic | 40 | 124,028,775,073 | (6,993,038,968) [ROW] 15. TOng Igi nhu#n ke toin tru*c thue | 50 | 936,839,781,530 | 600,373,972,577 [ROW] 16. Chi phi thug TNDN hien hanh | 51 | 39 | 147,913,449,353 | 56,018,692,568 [ROW] 17. (Thunhap)/chi phi thug TNDN hoan 10i | 52 | 19 | (2,684,439,405) | 70,610,038 [ROW] 18. Lqi nhu$n sau three thu nh#p doanh nghiep | 60 | 791,610,771,582 | 544,284,669,971 [ROW] 19. Lqi nhua'n sau thug cila ding ty mg | 61 | 624,593,504,909 | 388,168,489,223 [ROW] 20. Lqi nhuan sau thug cua c..15 dong khong kiem soot | 62 | 167,017,266,673 | 156,116,180,748 [ROW] 21. Lai co. bin tren do phien | 70 | 40 | 2,959 | 3,353 [ROW] 22. Lai suy giim tren do phiOu | 71 | 41 | 2,532 | 2,033",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1252,
+      "text": "[TABLE] [CONTEXT] section: 6. PHAI THU KHACH HANG ; column_headers: 31/12/2015 VND | 01/01/2015 VND ; row_headers: a. Phil' thu nein hin | Phai thu UBND Thanh phi H6 Chi Minh gia tri dautudvanCau Sai Gen (0 | Cong ty Co phin Diu to Xay dung Twin Lesc | Phai thu Se Tai chinh Thanh phi Ho Chi Minh ve giit tri dau ttr dg an Tlnh b 25B | Cong ty TNHH Xay Dvng Nen Mang Tam Dot | Ban Quail LS, S, Dv an Dtrimg Hi Chi Minh | Cong ty C6 phin Diu to XNK Ky Thuit Viet | Cong ty TNHH MTV Cip thoat ntrec Lam DOng | Ban Quan Dtr an Giao Thong N8ng Than Vith Long | Phil thu khach hang kluic | b. Phil thu dai hon | Phai thu UBND Thanh phi H6 Chi Minh gia tri diu ttr dv an Ciu Sal Gen (i) | Cing [ROWS] 31/12/2015 VND | 01/01/2015 VND [ROW] a. Phil' thu nein hin | 510.389.473.797 | 364.991.518.270 [ROW] Phai thu UBND Thanh phi H6 Chi Minh gia tri dautudvanCau Sai Gen (0 | 251.418.309.508 | 251.418.309.508 [ROW] Cong ty Co phin Diu to Xay dung Twin Lesc | 57.638.930.777 [ROW] Phai thu Se Tai chinh Thanh phi Ho Chi Minh ve giit tri dau ttr dg an Tlnh b 25B | 36.652.154.476 | 36.652.154.476 [ROW] Cong ty TNHH Xay Dvng Nen Mang Tam Dot | 24.076.155.561 [ROW] Ban Quail LS, S, Dv an Dtrimg Hi Chi Minh | 21.511.388.527 [ROW] Cong ty C6 phin Diu to XNK Ky Thuit Viet | 10.099.100.000 [ROW] Cong ty TNHH MTV Cip thoat ntrec Lam DOng | 7.917.681.675 [ROW] Ban Quan Dtr an Giao Thong N8ng Than Vith Long | 6.359.003.754 | 13.110.557.009 [ROW] Phil thu khach hang kluic | 94.716.749.519 | 63.810.497.277 [ROW] b. Phil thu dai hon | 513.557.918.202 | 764.162.014.150 [ROW] Phai thu UBND Thanh phi H6 Chi Minh gia tri diu ttr dv an Ciu Sal Gen (i) | 513.557.918.202 | 764.162.014.150 [ROW] Cing | 1.023.947.391.999 | 1.129.153.532.420",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1269,
+      "text": "[TABLE] [CONTEXT] section: 19. THUE THU NHAP HOAN LAI ; column_headers: Dinh gia lei gia trj tai san than cong ty con tai ngay mua (*) VND | I-ban nhhp dir pheng giam gia dau to vao cong ty con, cong ty lien ket VND | Cic khoan lai/(113) chua thuc hien bj loci trh khi hqp nhafit VND | COng VND ; row_headers: Tai ngay 1 thing 1 nam 2014 | Thue sulk thue TNDN sir dung de tfnh thue hotin li | Ghi nh(in vao ket qua kith doanh trong ky | Toi ugly 1 thing 1 nam 2015 | Thue sat thue TNDN sir dung de tinh thue hoan lai | Ghi nhhn vao ket qua kinh doanh trong nam | Tang do hqp &tit cong ty con trong nam | Thi ugly 31 thing 12 nam 2015 | Thi ugly 1 thing 1 nam 2014 | Thue suAt thue TNDN str dung de tinh thue hoan lai | Ghi nhlein vao kit qua kinh doanh trong nam | TO ugly 1 thing 1 nam 2015 | Thui suAt thue TNDN sv dung de tinh thue holin lai | Ghi nh(in vao kit qua kinh doanh trong nam | Mua cong ty con | Tfi ugly 31 thing 12 nam 2015 [ROWS] Dinh gia lei gia trj tai san than cong ty con tai ngay mua (*) VND | I-ban nhhp dir pheng giam gia dau to vao cong ty con, cong ty lien ket VND | Cic khoan lai/(113) chua thuc hien bj loci trh khi hqp nhafit VND | COng VND [ROW] a. Tai san [ROW] Tai ngay 1 thing 1 nam 2014 [ROW] Thue sulk thue TNDN sir dung de tfnh thue hotin li | 22% | 22% | 22% | 22% [ROW] Ghi nh(in vao ket qua kith doanh trong ky [ROW] Toi ugly 1 thing 1 nam 2015 [ROW] Thue sat thue TNDN sir dung de tinh thue hoan lai | 22% | 22% | 22% | 22% [ROW] Ghi nhhn vao ket qua kinh doanh trong nam | (4.235.889.023) | (4.235.889.023) [ROW] Tang do hqp &tit cong ty con trong nam | (162.515.175) | (162.515.175) [ROW] Thi ugly 31 thing 12 nam 2015 | 4.398.404.198 | 4.398.404.198 [ROW] b. Nq phai tra [ROW] Thi ugly 1 thing 1 nam 2014 [ROW] Thue suAt thue TNDN str dung de tinh thue hoan lai | 22% | 22% | 22% | 22% [ROW] Ghi nhlein vao kit qua kinh doanh trong nam | 70.610.038 | 70.610.038 [ROW] TO ugly 1 thing 1 nam 2015 | 70.610.038 | 70.610.038 [ROW] Thui suAt thue TNDN sv dung de tinh thue holin lai | 20% | 22% | 22% | 22% [ROW] Ghi nh(in vao kit qua kinh doanh trong nam | 1.622.059.656 | (70.610.038) | 1.551.449.618 [ROW] Mua cong ty con | 55.286.150.596 [ROW] Tfi ugly 31 thing 12 nam 2015 | 55.286.150.596 | 1.622.059.656 | 56.908.210.252 [ROW] Tong thu nhhp thuIn ghi nh(in vho bao cao kit qui kWh doanh hqp nhit | (2.684.439.405)",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

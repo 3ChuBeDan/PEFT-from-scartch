@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 801,
+      "text": "Petrolimex quản lý chất thải rắn bằng các phương pháp quản trị môi trường chung, chia làm 2 loại: chất thải rắn sinh hoạt và chất thải nguy hại.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 803,
+      "text": "Chất thải nguy hại (CTNH) của Petrolimex quản lý theo quy định pháp luật về CTNH bao gồm/tùy từng cơ sở có thể khác nhau nhưng không nằm ngoài danh mục 9 chất thải sau: Chất thải lẫn dầu; Các loại dầu nhờn, dầu động cơ thải; Bùn thải từ hố lắng gạn, hệ thống xử lý nước thải; Vỏ dầu lon, hộp bằng nhựa có bám dính dầu; Bóng đèn huỳnh quang thải; Hộp mực in thải; Pin, ắc quy chì thải; Găng tay, giẻ lau nhiễm dầu.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 807,
+      "text": "Nước thải tại các kho xăng dầu phát sinh khi có vệ sinh công nghiệp, nước mưa chảy tràn tại khu vực có khả năng nhiễm dầu. Một số trường hợp phát sinh khi xúc rửa bể chứa hoặc đường ống xăng dầu. Bằng các phương pháp quản lý khác nhau, lượng bùn thải này có thể được các công ty xúc rửa mang đi xử lý như chất thải nguy hại. Hiện nay, Petrolimex đang nghiên cứu Đề án chuẩn hóa hệ thống thu gom và xử lý nước thải nhiễm dầu tại các kho xăng dầu để áp dụng trên toàn hệ thống.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

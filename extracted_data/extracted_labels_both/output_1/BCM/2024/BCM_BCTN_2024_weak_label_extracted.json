@@ -1,0 +1,44 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 174,
+      "text": "Hạ tầng xử lý nước thải: Tại các khu công nghiệp đều có nhà máy xử lý nước thải tập trung với công suất lớn, đảm bảo tiếp nhận và xử lý đạt tiêu chuẩn theo quy định trước khi thải ra môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 329,
+      "text": "Để hạn chế đến mức thấp nhất các rủi ro về môi trường, Tổng Công ty tập trung triển khai xây dựng và nâng cấp các trạm xử lý nước thải tập trung công nghệ cao. Nước thải đầu ra được lấy mẫu tự động và truyền tín hiệu liên tục về trung tâm điều khiển của Tổng Công ty cũng như Sở Tài nguyên môi trường nhằm theo dõi và kịp thời xử lý khi nước thải đầu ra vượt ngưỡng cho phép.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 45,
+      "text": "Thành lập Trung tâm Tích hợp Hệ thống (tiền thân của CMC SI) và Trung tâm Giải pháp Phần mềm (tiền thân của CMC Soft) đặt trụ sở tại thành phố Hồ Chí Minh",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 189,
+      "text": "Đầu tư Trung tâm an ninh mạng (SoC) thứ 2 tại Thành phố Hồ Chí Minh cung cấp dịch vu ủy quyền giám sát an ninh mạng tai khu vực phía Nam.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 342,
+      "text": "Trong năm 2020, CMC tiếp tục có những hoạt động thiết thực hướng tới cộng đồng như: CMC thực hiện trợ cấp thường xuyên cho 15 trẻ em có hoàn cảnh khó khăn quận Cầu Giấy từ 2010. Nhiều năm qua, CMC duy trì nhận nuôi phụng dưỡng trọn đời hai mẹ liệt sỹ ở xã Hiền Ninh, huyện Sóc Sơn, Hà Nội. Với tinh thần tương thân tương ái nhằm chia sẻ với những mất mát và hỗ trợ trường học sớm khôi phục cơ sở vật chất để chuẩn bị cho năm học mới, CMC đã đến thăm và trang bị cho phòng máy của trường mầm non Hoa Lan 5 dàn máy CMS và trường Tiểu học & THCS Thị trấn 35 dàn máy CMS, tổng trị giá 400 triệu đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 355,
+      "text": "Ưu tiên sử dụng các dạng năng lượng sạch, thân thiện với môi trường, hạn chế sự thất thoát, lãng phí các nguồn tài nguyên và năng lượng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 398,
+      "text": "An ninh mạng và quyền riêng tư: Nhu cầu ngày càng tăng về an ninh mạng và quyền riêng tư đối với số lượng ngày càng tăng các doanh nghiệp và người tiêu dùng tham gia vào nền kinh tế kỹ thuật số và đối với các hệ thống quan trọng đang được số hóa trong lĩnh vực tài chính và chính phủ.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 449,
+      "text": "Làm chủ 100% hệ sinh thái an toàn an ninh mạng Tháng 12/2020, Giải pháp bảo mật CMC Malware Detection and Defense (CMDD) của CMC Cyber Security được Virus Bulletin (VB) – Tổ chức quốc tế về đánh giá và xếp hạng các phần mềm phòng chống mã độc – xác nhận đạt chứng chỉ VB100 với điểm số tuyệt đối 100%, lọt top 17 sản phẩm bảo mật có kết quả tốt nhất thế giới. CMDD cũng là một trong 5 sản phẩm, dịch vụ của CMC Cyber Security đạt danh hiệu \"Chìa khóa vàng 2020\" do Hiệp hội An toàn thông tin Việt Nam (VNISA) trao tặng. Trước đó, CMC TS được VINASA vinh danh Top 5 doanh nghiệp bảo mật - an ninh an toàn thông tin trong giải thưởng \"Top 10 doanh nghiệp ICT Việt Nam 2020\". CMC TS có hơn 12 năm kinh nghiệm tư vấn và triển khai các dịch vụ giải pháp về an toàn thông tin, cũng là doanh nghiệp duy nhất tại Việt Nam sở hữu 2 Trung tâm điều hành an ninh mạng ứng dụng trí tuệ nhân tạo tại Hà Nội và TP. HCM.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 637,
+      "text": "[TABLE] [CONTEXT] section: Quản trị các rủi ro quan trọng ; column_headers: RỦI RO | MÔ TẢ RỦI RO | BIỆN PHÁP KIỂM SOÁT [ROWS] RỦI RO | MÔ TẢ RỦI RO | BIỆN PHÁP KIỂM SOÁT [ROW] CẠNH TRANH | Rủi ro trong việc giảm lợi thế cạnh tranh trong khi mức độ cạnh tranh về cả số lượng lẫn chất lượng ngày càng tăng | CMC luôn dành nhiều nguồn lực và thời gian để nghiên cứu các sản phẩm đặc biệt, nâng cao chất lượng sản phẩm, mở rộng hạ tầng và phát triển năng lực kỹ thuật, giải pháp đặc thù ngành góp phần làm tăng giá trị cho khách hàng, đồng thời nới rộng khoảng cách giữa CMC với đối thủ cạnh tranh Nâng cao chất lượng dịch vụ chăm sóc khách hàng, lấy “Hướng khách hàng” làm trọng tâm. Nâng cao năng lực cạnh tranh thông qua việc đào tạo nhân sự, đẩy mạnh chuyển đổi số trong nội bộ Tập đoàn nhằm tăng năng suất, hiệu quả công việc. Đây cũng là yếu tố giúp CMC vượt qua những thách thức trong bối cảnh Covid 19 diễn biến phức tạp. [ROW] NHÂN SỰ | Rủi ro mất nhân sự và thiếu nhân sự | Tiếp tục thực hiện chính sách đãi ngộ cạnh tranh và minh bạch dựa vào kết quả công việc Xây dựng đội ngũ nhân sự kế cận làm nòng cốt tương lai cho CMC Xây dựng lộ trình nghề nghiệp rõ ràng, đồng thời tổ chức các khóa đào tạo nhằm nâng cao kiến thức chuyên môn và kỹ năng mềm cho nhân viên và cán bộ lãnh đạo kế cận Tiếp tục nâng cao hiệu quả, hiệu suất của công tác tuyển dụng, phát triển thương hiệu tuyển dụng Xây dựng môi trường làm việc tốt để thu hút nguồn nhân lực [ROW] AN NINH THÔNG TIN | Những rủi ro đối với các thông tin như bị lộ, bị thay đổi, bị mất mát thông tin đều ảnh hưởng nghiêm trọng đến hoạt động, uy tín, và chiến lược của CMC | Áp dụng triệt để các biện pháp chống thất thoát dữ liệu và an toàn hệ thống nhằm đảm bảo an ninh thông tin của CMC. Triển khai hệ thống quản lý an ninh thông tin ISMS Gán trách nhiệm an toàn thông tin với các thành viên trong tổ chức, nhằm tránh vi phạm an toàn thông tin dẫn tới hậu quả nghiêm trọng. Tiếp tục giám sát an toàn an ninh mạng tự động qua Trung tâm điều hành an ninh mạng CMC (CMC NextGen SOC) – được tích hợp trí tuệ nhân tạo & công nghệ Automation. [ROW] TUÂN THỦ | CMC có quy mô hoạt động ngày càng lớn, không chỉ ở phạm vi Việt Nam. Do đó, các rủi ro liên quan tới việc không tuân thủ quy định, pháp luật nước sở tại sẽ ảnh hưởng đến uy tín của tập đoàn. | Nâng cao nhận thức, ý thức tuân thủ của toàn bộ cán bộ nhân viên của CMC tại các thị trường nước sở tại Chủ động nghiên cứu, cập nhật quy định, chính sách, luật pháp của các thị trường nước ngoài có liên quan Nâng cao năng lực quản trị rủi ro pháp lý, năng lực chuyên môn nghiệp vụ của Khối Pháp chế - Kiểm soát tuân thủ. Sử dụng đơn vị tư vấn luật trong nước và quốc tế trong trường hợp cần thiết để hỗ trợ CMC trong việc tuân thủ luật pháp tại các nước sở tại.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

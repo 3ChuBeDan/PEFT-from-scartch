@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 183,
+      "text": "Công tác phòng, chống rửa tiền (AML) tiếp tục được thực hiện tuân thủ quy định, đã phát hiện, báo cáo 01 vụ việc có dấu hiệu tội phạm, ngăn chặn được thiệt hại 40.978,19 đô la Mỹ. cho khách hàng, nâng cao uy tín của Maritime Bank. Trong năm 2014, phần mềm AML sẽ được cơ bản triển khai, đáp ứng tốt hơn yêu cầu về công tác phòng chống rửa tiền cho Ngân hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

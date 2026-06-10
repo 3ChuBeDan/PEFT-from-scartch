@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: c) Hợp đồng hoặc giao dịch với người nội bộ và bên liên quan ; column_headers: Bên liên quan | I. CÁ NHÂN | Mối quan hệ | Năm 2020 | Năm 2019 ; row_headers: Bà Nguyễn Thị Phương Thảo + Tạm ứng | + Hoàn ứng | Ông Nguyễn Việt Cường + Cho vay | + Trả gốc vay | + Tạm ứng | Bà Nguyễn Thị Hằng + Tạm ứng | Ông Nguyễn Đức Diệp + Tạm ứng | Ông Nguyễn Tiến Hoàn + Tạm ứng | Ủy viên HĐQT/TV thân cận trong GĐ của Chủ tịch HĐQT | Chủ tịch HĐQT | Phó CT HĐQT/TV thân cận trong gia đình CT HĐQT | Phó Tổng Giám đốc [ROWS] Bên liên quan | Mối quan hệ | Năm 2020 | Năm 2019 [ROW] I. CÁ NHÂN [ROW] Bà Nguyễn Thị Phương Thảo + Tạm ứng | Ủy viên HĐQT/TV thân cận trong GĐ của Chủ tịch HĐQT | 200.000.000 | - [ROW] + Hoàn ứng | 200.000.000 | - [ROW] Ông Nguyễn Việt Cường + Cho vay | Chủ tịch HĐQT | - | 33.000.000.000 [ROW] + Trả gốc vay | - | 33.000.000.000 [ROW] + Tạm ứng | 81.900.000 | 340.900.000 [ROW] + Hoàn ứng | 81.900.000 | 340.900.000 [ROW] Bà Nguyễn Thị Hằng + Tạm ứng | Phó CT HĐQT/TV thân cận trong gia đình CT HĐQT | 4.075.000.000 | 4.743.000.000 [ROW] + Hoàn ứng | 4.075.000.000 | 4.743.000.000 [ROW] Ông Nguyễn Đức Diệp + Tạm ứng | Phó Tổng Giám đốc | - | 178.000.000 [ROW] + Hoàn ứng | - | 178.000.000 [ROW] Ông Nguyễn Tiến Hoàn + Tạm ứng | Phó Tổng Giám đốc | 1.388.000.000 | 248.000.000 [ROW] + Hoàn ứng | 1.378.000.000 | 33.326.500.000",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: c) Hợp đồng hoặc giao dịch với người nội bộ và bên liên quan ; column_headers: TV thân cận trong GĐ của CTHĐQT | - | 500.000.000 ; row_headers: Ông Đỗ Quốc Việt + Tạm ứng | + Hoàn ứng | Ông Nguyễn Đức Trang + Ứng tiền giải phóng mặt bằng DA Đông Anh | Bà Nguyễn Thị Mai + Tạm ứng | Bà Hoàng Thị Yến + Tạm ứng + Hoàn ứng | Bà Trần Thị Thu Hà + Tạm ứng | II. TỔ CHỨC Công ty cổ phần đầu tư Sơn Phúc + Xuất bán hàng hóa + Thu tiền hàng | + Mua dịch vụ + Thanh toán tiền mua dịch vụ Công ty cổ phần Hồng Việt ể g g + Ứng tiền để thực hiện công trình + Chi phí thi công | Công ty cổ phần KPT Việt Nam + Giá trị công trình được nghiệm thu | + Thanh toán tiền thi công công trình | Công ty Cổ phần Tư vấn kiến trúc | và Xây dựng Đông Đô + Giá trị dịch vụ được nghiệm thu | + Thanh toán tiền dịch vụ | Phó Tổng Giám đốc | Ủy viên HĐQT đến ngày 25/06/2020 | Nguyên Phó Tổng Giám đốc | Thành viên Ban Kiểm soát | Công ty liên kết đến ngày 01/04/2020 | Công ty đầu tư khác, cùng | Ban lãnh đạo với Kosy | CT của TV thân cận trong GĐ của CTHĐQT [ROWS] Ông Nguyễn Ngọc Sáu + Tạm ứng + Hoàn ứng | TV thân cận trong GĐ của CTHĐQT | - | 500.000.000 [ROW] - | 500.000.000 [ROW] Ông Đỗ Quốc Việt + Tạm ứng | Phó Tổng Giám đốc | 6.000.000 | - [ROW] + Hoàn ứng | 6.000.000 | - [ROW] Ông Nguyễn Đức Trang + Ứng tiền giải phóng mặt bằng DA Đông Anh | Ủy viên HĐQT đến ngày 25/06/2020 | - | 84.382.651.273 [ROW] Bà Nguyễn Thị Mai + Tạm ứng | Nguyên Phó Tổng Giám đốc | - | 6.505.000.000 [ROW] + Hoàn ứng | - | 6.505.000.000 [ROW] Bà Hoàng Thị Yến + Tạm ứng + Hoàn ứng | Thành viên Ban Kiểm soát | 4.055.525.000 4.845.525.000 | 950.000.000 160.000.000 [ROW] Bà Trần Thị Thu Hà + Tạm ứng | Thành viên Ban Kiểm soát | - [ROW] + Hoàn ứng | 3.000.000.000 | - [ROW] II. TỔ CHỨC Công ty cổ phần đầu tư Sơn Phúc + Xuất bán hàng hóa + Thu tiền hàng | CT của TV thân cận trong gia đình của CT HĐQT | 3.000.000.000 | 145.454.545 [ROW] + Mua dịch vụ + Thanh toán tiền mua dịch vụ Công ty cổ phần Hồng Việt ể g g + Ứng tiền để thực hiện công trình + Chi phí thi công | Công ty liên kết đến ngày 01/04/2020 | 3.192.175.659 5.232.035.098 857.730.090 621.623.100 | 421.281.026 4.725.436.100 [ROW] Công ty cổ phần KPT Việt Nam + Giá trị công trình được nghiệm thu | Ban lãnh đạo với Kosy | - - | 647.850.000 17.006.722.720 27.886.645.454 [ROW] + Thanh toán tiền thi công công trình | Công ty đầu tư khác, cùng [ROW] 22.858.544.545 | 12.513.840.909 12.513.840.909 [ROW] và Xây dựng Đông Đô + Giá trị dịch vụ được nghiệm thu | CT của TV thân cận trong GĐ của CTHĐQT [ROW] Công ty Cổ phần Tư vấn kiến trúc | 18.480.000.000 [ROW] 943.363.636 | - [ROW] + Thanh toán tiền dịch vụ | 943.363.636 | -",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    }
+  ]
+}

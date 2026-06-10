@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 976,
+      "text": "[TABLE] [CONTEXT] section: Tên công ty [ROWS] Nhiệt điện | Thủy điện | - Thủy điện | 349.597.976.134 Cung cấp nước | Bất động sản | Thủy điện | Khai thác than | Nhiệt điện | Khai thác than | Bất động sản | Cung cấp nước | Cung cấp nước | Cơ điện | Cung cấp nước | Cung cấp nước | Cơ điện | Cơ điện | Thủy điện | Bất động sản [ROW] 22,37 1.206.817.318.391 | 35,48 333.897.933.962 | - | 42,10 | 46,37 164.458.336.855 | 33,85 153.057.104.039 | 23,62 85.974.944.278 | 29,44 66.849.671.976 | 24,01 74.276.928.023 | 28,87 62.674.195.177 | 30,00 46.012.592.781 | 43,11 56.800.812.652 | 35,00 24.566.214.974 | - - | - - | 35,62 2.885.966.064 | 35,00 2.242.500.267 | 23,97 217.736.579.551 | 2.847.849.075.124 | 248.112.952 [ROW] 1.268.341.447.108 | 400.489.996.401 | 368.000.000.000 | 342.511.604.982 | 211.640.550.248 | 173.808.962.643 | 94.493.223.883 | 73.776.315.114 | 67.154.434.165 | 65.531.933.111 | 60.571.743.037 | 60.556.547.693 | 24.949.744.974 | 23.093.725.398 | 22.623.120.000 | 3.021.424.762 | 2.163.300.482 | - | 3.262.728.074.001 | - [ROW] 22,35 | 39,02 | 25,00 | 42,10 | 46,37 | 34,30 | 23,81 | 29,44 | 24,01 | 28,87 | 40,00 | 43,11 | 35,00 | 32,00 | 29,00 | 35,62 | 35,00 | - | - [ROW] Công ty Cổ phần Nhiệt điện Ninh Bình | Công ty Cổ phần Đầu tư và Kinh doanh Nước Sạch Sài Gòn | Công ty Cổ phần Cấp nước Trung An | Công ty Cổ phần Cơ điện Hợp Phát | Công ty Cổ phần Thủy điện Thác Bà (*) [ROW] Công ty Cổ phần Thủy điện Sông Ba Hạ | Công ty Cổ phần Than Đèo Nai | Công ty Cổ phần Địa ốc Sài Gòn | Công ty Cổ phần Cấp nước Thủ Đức | Công ty Cổ phần Cơ điện Đoàn Nhất [ROW] Công ty Cổ phần Thủy điện Thác Mơ [ROW] Công ty Cổ phần Đầu tư Nước Tân Hiệp | Công ty Cổ phần Cơ điện Chất Lượng [ROW] Công ty Cổ phần Nhiệt Điện Phả Lại | Công ty Cổ phần Than Núi Béo [ROW] Công ty Cổ phần B.O.O Nước Thủ Đức | Công ty Cổ phần Hạ tầng và Bất động sản Việt Nam | Tòa nhà số 41B Lý Thái Tổ, thành phố Hà Nội [ROW] Công ty Cổ phần Thủy điện Srok Phu Miêng [ROW] Công ty liên kết [ROW] Đồng kiểm soát",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

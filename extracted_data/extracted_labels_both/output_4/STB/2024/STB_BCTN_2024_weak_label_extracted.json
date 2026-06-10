@@ -1,0 +1,174 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 427,
+      "text": "Triển khai và hoàn thành dự án Phương pháp phòng chống gian lận; phát triển các mô hình, kịch bản trong nhận diện rủi ro gian lận, làm cơ sở cho việc phát triển hệ thống công nghệ thông tin trong hoạt động kiểm soát, phòng ngừa rủi ro gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 648,
+      "text": "Công tác phòng, chống tham nhũng và rửa tiền là một trong các nhiệm vụ quan trọng của các tổ chức tín dụng. Ủy ban Phòng, chống tham nhũng, tội phạm và rửa tiền tại Sacombank đã không ngừng nỗ lực xây dựng khung pháp lý, tổ chức bộ máy quản lý hiệu quả. Năm 2024, Ủy ban đã họp 2 kỳ.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 787,
+      "text": "Những hạn chế vốn có của dịch vụ đảm bảo có giới hạn bao gồm việc sử dụng phán đoán và kiểm tra chọn mẫu dữ liệu, dẫn tới rủi ro gian lận, sai sót hoặc không tuân thủ có thể xảy ra và không bị phát hiện. Do vậy, vẫn tồn tại rủi ro sai sót trọng yếu trong các Chỉ số phát triển bền vững được lựa chọn không bị phát hiện. Ngoài ra, dịch vụ đảm bảo có giới hạn không nhằm phát hiện ra các gian lận, sai sót không trọng yếu.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 820,
+      "text": "Với mục tiêu tuân thủ nghiêm túc quy định của pháp luật và đảm bảo an toàn hoạt động, Sacombank đã và đang tiếp tục xây dựng, áp dụng các chính sách quản lý rủi ro, phòng chống hối lộ, rửa tiền và tội phạm tài chính theo quy định của Việt Nam, đồng thời hướng tới việc tuân thủ các chuẩn mực quốc tế. Hiệu quả mang lại khi có một hệ thống quản trị rủi ro luôn được chú trọng và không ngừng cải tiến đã giúp Sacombank phát hiện sớm các vấn đề trong hoạt động và đưa ra các giải pháp phòng chống gian lận, ngăn chặn, xử lý kịp thời rủi ro.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 937,
+      "text": "Nâng tầm quản trị điều hành hướng đến chuẩn mực quốc tế, ứng dụng các chuẩn mực quản trị rủi ro theo Basel III, hoàn thành Dự án xây dựng báo cáo tài chính quốc tế theo chuẩn mực IFRS9 và triển khai dự án Giải pháp phòng chống gian lận nội bộ và bên ngoài nhằm phát hiện các giao dịch bất thường, tăng cường khả năng phát hiện gian lận và giảm thiểu tổn thất.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1099,
+      "text": " Nhận thức được tầm quan trọng của công tác phòng, chống tham nhũng, rửa tiền, tội phạm tài chính, Ủy ban phòng, chống tham nhũng, tội phạm, tiêu cực và rửa tiền Sacombank đã không ngừng nỗ lực xây dựng khung pháp lý, tổ chức bộ máy quản lý hiệu quả, định kỳ 6 tháng/lần và đột xuất, Ủy ban phòng, chống tham nhũng, tội phạm, tiêu cực và rửa tiền tổ chức họp để chỉ đạo các Hội đồng, Ban trực thuộc Ủy ban, Đơn vị tổ chức thực hiện công tác phòng, chống tham nhũng, tội phạm, tiêu cực và rửa tiền trên toàn hệ thống Sacombank.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "paragraph_id": 1112,
+      "text": " Nước thải từ hệ thống các thiết bị vệ sinh sẽ thu gom và xử lý sơ bộ tại hai bể tự hoại, sau đó bơm ra hệ thống xử lý nước thải tập trung của tòa nhà. Quy trình xử lý nước thải tại Sacombank đạt quy chuẩn QCVN 14:2008/ BTNMT.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1746,
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI (tiếp theo) ; column_headers: Số tiêu chuẩn Tiêu đề tiêu chuẩn GRI | Báo cáo PTBV | Trang [ROWS] Số tiêu chuẩn Tiêu đề tiêu chuẩn GRI | Báo cáo PTBV | Trang [ROW] GRI 304-2 Tác động đáng kể của các hoạt động, sản phẩm và du lịch đối với đa dạng sinh học | x [ROW] GRI 304-3 Các môi trường sống được bảo tồn hoặc phục hồi | x [ROW] GRI 304-4 Các loài trong Sách Đỏ của IUCN và các loài trong các khu vực chịu ảnh hưởng bởi các hoạt động | x [ROW] GRI 305 Phát thải [ROW] GRI 305-1 Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) | x [ROW] GRI 305-2 Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) | x [ROW] GRI 305-3 Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) | x [ROW] GRI 305-4 Thâm dụng phát thải khí nhà kính (GHG) | x [ROW] GRI 305-5 Giảm phát thải khí nhà kính (GHG) | x [ROW] GRI 305-6 Phát thải các chất phá hủy tầng ô-zôn (ODS) | x [ROW] GRI 305-7 Nitrogen oxides (Nox), sulfur oxides (SOx), và các phát thải khí đáng kể khác | x [ROW] GRI 306 Chất thải [ROW] GRI 306-1 Phát sinh chất thải và các tác động đáng kể liên quan đến chất thải | x [ROW] GRI 306-2 Quản lý các tác động đáng kể liên quan đến chất thải | x [ROW] GRI 306-3 Chất thải phát sinh | x [ROW] GRI 306-4 Chất thải được chuyển hướng khỏi việc thải bỏ | x [ROW] GRI 306-5 Chất thải được xử lý | x [ROW] GRI 308 Đánh giá nhà cung cấp về môi trường [ROW] GRI 308-1 Các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về môi trường | x [ROW] GRI 308-2 Các tác động môi trường tiêu cực trong chuỗi cung ứng và các hành động đã thực hiện x [ROW] GRI 401 Việc làm [ROW] GRI 401-1 Số lượng nhân viên thuê mới và tỷ lệ thôi việc | √ | 142-143 [ROW] GRI 401-2 Phúc lợi cung cấp cho nhân viên toàn thời gian không dành cho nhân viên tạm thời hoặc bán thời gian | x [ROW] GRI 401-3 Nghỉ thai sản | √ | 133 [ROW] GRI 402 Mối quan hệ Lao động/Quản lý",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 8,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1759,
+      "text": "[TABLE] [CONTEXT] section: THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT ; column_headers: Nhóm | Tình hình quá hạn [ROWS] Nhóm | Tình hình quá hạn [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Khoản nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Khoản nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn; hoặc (c) Khoản nợ được phân loại vào nhóm 1 do đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn. [ROW] 2 Nợ cần chú ý | (a) Khoản nợ quá hạn đến 90 ngày, trừ khoản nợ quy định tại điểm (b) của Nợ đủ tiêu chuẩn và khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc (b) Khoản nợ được điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn, trừ khoản nợ đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn và khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc (c) Khoản nợ được phân loại vào nhóm 2 do đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn hoặc do khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định. [ROW] 3 Nợ dưới tiêu chuẩn | (a) Khoản nợ quá hạn từ 91 ngày đến 180 ngày; trừ khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc (b) Khoản nợ gia hạn nợ lần đầu còn trong hạn, trừ khoản nợ đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn và khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc (c) Khoản nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận, trừ khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc (d) Khoản nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi:  Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 134 Luật Các tổ chức tín dụng; hoặc  Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 135 Luật Các tổ chức tín dụng; hoặc  Khoản nợ vi phạm quy định tại các khoản 1, 2, 5, 9 Điều 136 Luật Các tổ chức tín dụng. (e) Khoản nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc (f) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng do khách hàng vi phạm thỏa thuận với Ngân hàng chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khoản nợ được phân loại vào nhóm 3 do đáp ứng tiêu chí được phân loại vào nhóm nợ có rủi ro thấp hơn hoặc do khoản nợ phân loại vào nhóm nợ có rủi ro cao hơn theo quy định; hoặc (h) Khoản nợ phải phân loại vào nhóm 3 theo yêu cầu của NHNN phù hợp với mức độ rủi ro của khoản nợ đó căn cứ kết quả thanh tra, giám sát và thông tin tín dụng có liên quan.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E2",
+        "G6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E2",
+        "G6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Triển khai công tác đánh giá, quản lý và phòng ngừa Rủi ro gian lận (Fraud risk) tại Tập đoàn.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Tập đoàn Novaland đảm bảo nhiệm vụ quản lý nước thải và chất thải phát sinh, đồng thời theo dõi, giám sát chặt chẽ bằng nhiều biện pháp kiểm soát tối ưu lượng nước thải và chất thải từ các dự án. Nguồn nước thải từ quá trình xây dựng, vận hành các công trình dự án được xử lý đạt tiêu chuẩn môi trường, đồng thời đảm bảo kết quả quan trắc được báo cáo thường xuyên cho các cơ quan quản lý mỗi 06 tháng/lần theo yêu cầu.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "G1",
+        "G5",
+        "G6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "G1",
+        "G5",
+        "G6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CHƯƠNG TRÌNH CSR 2023 ; column_headers: CHƯƠNG TRÌNH CSR 2023 [ROWS] CHƯƠNG TRÌNH CSR 2023 [ROW] MỤC TIÊU | Tập đoàn Novaland tập trung nghiên cứu, ứng dụng và thực thi các giải pháp hiệu quả nhằm đóng góp vào mục tiêu chung “Net Zero” (*) Tiếp tục hỗ trợ, xây dựng cộng đồng địa phương nơi Tập đoàn đầu tư & phát triển dự án, chú trọng đến dân sinh xã hội và tạo công ăn việc làm bền vững cho người dân địa phương [ROW] PHƯƠNG THỨC | Giảm thiểu carbon trong quá trình xây dựng dự án và vận hành tòa nhà | Tăng cường trung hòa lượng carbon tối thiểu sản sinh trong hoạt động sản xuất | Đồng hành cùng các công ty thành viên phát triển dự án, hỗ trợ & xây dựng các hoạt động cụ thể cho cộng đồng [ROW] CHƯƠNG TRÌNH | (1) Giảm thiểu sử dụng điện năng từ các nguồn năng lượng dễ gây ô nhiễm như than đá, dầu mỏ...; Tăng cường sử dụng điện năng từ các nguồn năng lượng thân thiện với môi trường như năng lượng mặt trời, năng lượng gió (2) Ứng dụng/ Triển khai thí điểm mô hình kinh tế tuần hoàn tại ít nhất một Dự án tiêu biểu do Novaland phát triển | Tiếp nối các hoạt động cộng đồng về môi trường, giáo dục và an sinh xã hội | Linh hoạt, chủ động tư vấn đội ngũ phát triển dự án thực hiện các hoạt động hỗ trợ, tài trợ an sinh xã hội, giáo dục, y tế và phát triển xã hội phù hợp với nhu cầu của cộng đồng tại địa phương [ROW] NGƯỜI HƯỞNG LỢI | Cộng đồng địa phương, Khách hàng, Đối tác, Nhân viên...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 3
+      }
+    }
+  ]
+}

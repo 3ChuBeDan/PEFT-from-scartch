@@ -1,0 +1,140 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 1148,
+      "text": "Rủi ro tuân thủ là rủi ro gây nên tổn thất cho Pan do việc không tuân thủ các luật, quy định, quy tắc, tổ chức quy định tiêu chuẩn... dẫn đến sai sót trong quy trình làm việc, nhân viên thực hiện vượt quyền, sai quy chế, gian lận nội bộ, gian lận trộm cắp bên ngoài.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1558,
+      "text": "Vấn đề xử lý nước thải cũng là một trong những mối quan ngại hàng đầu của Pan. Trong năm 2014, lượng nước thải trung bình trong lĩnh vực thủy sản lên đến 122 m3 /ngày. Nếu không có những biện pháp xử lý lượng nước thải hợp lý sẽ gây ô nhiễm môi trường, phá hủy hệ sinh thái, ảnh hưởng nghiêm trọng đến sức khỏe cũng như cuộc sống của cộng đồng xung quanh khu nhà máy chế biến sản xuất của công ty. Xác định được những tác động tiêu cực có thể xảy ra quanh khu vực nhà máy, đặc biệt là nơi chế biến thủy hải sản, ABT đã tiến hành phân tích lượng nước thải cũng như theo dõi sát sao các công trình xử lý nước thải. Hiện nay, chất lượng nước thải của nhà máy đạt QCVN 11: 2008/BTNMT loại A có thể thải trực tiếp ra sông với công suất 400 m3 /ngày. Hệ thống này hoàn toàn đáp ứng công suất sản xuất hiện tại vì lưu lượng nước thải cực đại của nhà máy chưa vượt quá ngưỡng 400 m3 /ngày.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "paragraph_id": 1569,
+      "text": "Nuôi trồng chế biến thủy sản tạo lượng khí thải đáng kể nhất trong các lĩnh vực hoạt động của Pan do công ty phải đối mặt với những vấn đề như ô nhiễm ao, cá chết, khí thải từ nhà máy hoạt động công suất cao, v.v. trong khi khí thải từ hoạt động nông nghiệp là không đáng kể. Vì vậy, Pan sẽ tập trung báo cáo việc kiểm soát khí thải từ ABT.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 1581,
+      "text": "Trong quá trình nuôi cá, chất thải rắn được phân loại thành chất thải rắn nguy hại và chất thải rắn không nguy hại. Hai loại trên sẽ được thu gom và tách riêng ở khu vực chứa khác nhau.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 2000,
+      "text": "[TABLE] [CONTEXT] section: Khí thải [ROWS] Loại khí thải (đơn vị mg/Nm 3 | Lượng khí thải 2013 | Lượng khí thải 2014 | QCVN 19/2009/BTNMT (cột B) [ROW] NO 2 | 110 | 130 | 850 [ROW] SO 2 | 130 | 50 | 500",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 2001,
+      "text": "[TABLE] [CONTEXT] section: Chất thải rắn ; column_headers: Năm 2013 | Năm 2014 ; row_headers: Tổng khối lượng (kg) | Kg/tấn sản phẩm | Tỷ lệ chất thải nguy hại trong tổng lượng chất thải (%) [ROWS] Chất thải rắn | Năm 2013 | Năm 2014 [ROW] Tổng khối lượng (kg) | 5.935.200 | 5.522.400 [ROW] Kg/tấn sản phẩm | 652,8 | 657 [ROW] Tỷ lệ chất thải nguy hại trong tổng lượng chất thải (%) | 0,008 | 0,007",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    },
+    {
+      "paragraph_id": 2005,
+      "text": "[TABLE] [CONTEXT] section: DANH MỤC CÁC CHỈ SỐ GRI ; column_headers: Danh mục-Lĩnh vực | Chỉ số theo GRI Nội dung | Tham khảo trong báo cáo | Thông tin thêm [ROWS] Danh mục-Lĩnh vực | Chỉ số theo GRI Nội dung | Tham khảo trong báo cáo | Thông tin thêm [ROW] Phương pháp tiếp cận quản trị | G4-DMA | Lí do lĩnh vực trọng yếu, cách tổ chức quản trị Lĩnh vực trọng yếu | Tổng quan về quản trị doanh nghiệp (trang 86-88) Quy trình xác định nội dung báo cáo (trang 166-167) | Pan sẽ tiếp tục xây dựng và hoàn thiện cơ chế quản trị thông nhất từ công ty mẹ đến các công ty thành viên [ROW] Các chỉ số hoạt động [ROW] Kinh tế [ROW] Hiệu quả hoạt động kinh tế | G4-EC1 | Giá trị kinh tế được tạo ra và phân phối | Hoạt động kinh doanh tăng trưởng ổn định (trang 174) Lợi ích tài chính phân phối đến cổ đông, nhà nước và cộng đồng (trang 174) [ROW] G4-EC2 | Các tác động về tài chính và những rủi to và cơ hội khác cho hoạt động tổ chức do biến đổi khí hậu | Biến rủi ro do biến đổi khí hậu thành cơ hội để nâng cao giá trị kinh tế (trang 177) [ROW] Tác động kinh tế gián tiếp | G4-EC7 | Tác động kinh tế gián tiếp: tác động của các khoản đàu tư cơ sở hạ tầng | Đầu tư cơ sở vật chất, góp phần cái thiện nền kinh tế địa phương và kinh tế nói chung (trang 178-179) [ROW] Phương thức mua sắm | G4-EC8 | Tác động kinh tế gián tiếp trọng yếu, bao gồm mức độ tác động | Thực hiện chuỗi cung ứng bền vững (trang 175-176) [ROW] Môi trường [ROW] Vật liệu | G4-EN5 | Cường độ năng lượng | Tiết kiệm điện năng trong văn phòng và trong sản xuất (trang 182) [ROW] G4-EN6 | Giảm tiêu thụ năng lượng | Tiết kiệm điện năng trong văn phòng và trong sản xuất (trang 182) [ROW] G4-EN7 | Cắt giảm nhu cầu năng lượng của sản phẩm và dịch vụ | Tiết kiệm điện năng trong văn phòng và trong sản xuất (trang 182) [ROW] Nước | G4-EN8 | Tổng lượng nước thu về theo nguồn | Bảo vệ nguồn nước (trang 183) [ROW] Nước thải và chất thải | G4-EN20 | Các chất hủy diệt tầng ozon | Xử lý chất thải hiệu quả-Khí thải (trang 186) [ROW] G4-EN22 | Tổng lượng nước thải theo chất lượng và địa điểm đổ thải | Xử lý chất thải hiệu quả- Nước thải (trang 184-185) [ROW] G4-EN23 | Tổng lượng chất thải theo loại và phương pháp xử lý | Xử lý chất thải hiệu quả- Chất thải (trang 186-187) [ROW] G4-EN29 | Giá trị bằng tiền của các khoản phạt đáng kể và tổng số hình phạt phi tiền tệ cho việc không tuân thủ luật pháp và qui định về môi trường | Pan và các công ty liên kết không có bắt cứ vi phạm nào qui định về môi trường [ROW] G4- EN34 | Số lượng khiếu nại về các tác động môi trường đã nộp, xử lý và giải quyết thông qua cơ chế khiếu mại chính thức | Không có bất kỳ khiếu nại nào về tác động môi trường của Pan và các công ty con [ROW] Việc làm | G4-LA2 | Phúc lợi cung cấp cho người lao động toàn thời gian không dành cho người lao động tạm thời hoặc bán thời gian | Lương thưởng (trang 191) | Xem thêm tại phần Quản trị Nhân lực (trang 155-156) [ROW] An toàn và sức khỏe nghề nghiệp | G4-LA6 | Loại thương tích và tỉ lệ thương tích, bnh nghề nghiệp, ngày nghỉ việc, tình trạng lao động vắng mặt và các vụ tử vong liên quan đến công việc, theo khu vực và giới tính | Chăm sóc sức khỏe, an toàn lao động (trang 192) [ROW] Giáo dục và đào tạo | G4-LA9 | Giờ đào tạo trung bình mỗi năm của người lao động theo giới tính và theo danh mục người lao động | Đào tạo nâng cao trình độ nhân viên (trang 190-191) | Không có chia theo giới tính, không chia theo giờ [ROW] Cơ chế khiếu nại về cách đối xử với Người lao động | G4-LA16 | Số lượng khiêu nại về cách đối xử với người lao động đã nộp, xử lý và giải quyết qua cơ chế khiếu nại | Các công ty thành viên của PAN luôn thực hiện khảo sát nhân viên cuối năm và không nhần được khiêu nại đáng kể nào về việc đối xử [ROW] Quyền con người | G4-HR5 | Lao động trẻ em | Pan và các công ty thành viên không sử dụng lao động trẻ em [ROW] Cộng đồng địa phương | G4-SO1 | Tỉ lệ phần trăm các hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển đã thực hiện | Chung tay giúp đỡ cộng đồng (trang 193) [ROW] Trách nhiệm đối với sản phẩm [ROW] An toàn và sức khỏe cảu Khách hàng | G4-PR2 | Tổng số vụ không tuân thủ các quy định và bộ luật tự nguyện về các tác động sức khỏe và an toàn của sản phẩm và dịch vụ trong vòng đời sản phẩm, theo kết quả | Tổ chức không phải nộp bất cứ khoản tiền nào liên quan đến vi phạm an toàn vệ sinh thực phẩm [ROW] G4-PR5 | Kết quả khảo sát đánh giá sự hài lòng của khách hàng | Giữ vững niềm tin khách hàng (trang 193) [ROW] G4-PR6 | Bán sản phẩm bị cấm hay tranh chấp | Không [ROW] G4-PR7 | Tổng số vụ không tuân thủ các quy định và bộ luật tự nguyện về truyền thông tiếp thị, bao gồm hoạt động quảng cáo, khuyến mại và tài trợ | Không [ROW] G4-PR8 | Tổng số khiếu nại có chứng cứ về hành vi vi phạm quyền riêng tư của khách hàng và việc mất dữ liệu khách hàng | Không [ROW] G4-PR9 | Giá trị bằng tiền của các khoản tiền phạt đáng kể cho việc không tuân thủ pháp luật và các quy đinh về việc cung cấp và sử dụng sản phẩm, dịch vụ | Không",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "S4": 0.642575,
+        "S6": 0.825137
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 11,
+        "S4": 2,
+        "S6": 2
+      }
+    }
+  ]
+}

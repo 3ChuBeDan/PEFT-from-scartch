@@ -1,0 +1,71 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 24,
+      "text": "Đối với năng lượng, nổi bật trong năm 2024 là việc rà soát, kiểm tra thanh tra các dự án năng lượng tái tạo tồn đọng pháp lý, khung giá cho các dự án năng lượng tái tạo mới chưa được xác định, dẫn tới việc đầu tư ngành năng lượng tái tạo gần như không có cơ hội phát triển. Trong thời gian chờ đợi, năm 2024, Tập đoàn tiếp tục tìm kiếm M&A các dự án thủy điện để mở rộng quy mô, tăng công suất phát điện. Bên cạnh đó, các nhà máy năng lượng hiện tại với công suất 462 MW cũng được quản lý vận hành hiệu quả",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 163,
+      "text": "Đến cuối năm 2024, tổng công suất nguồn điện toàn hệ thống đạt gần 84.360 MW, tăng gần 3.800 MW so với năm 2023, trong đó điện than chiếm 32,6%; điện dầu - khí 10,3%; thủy điện 27,9%; năng lượng tái tạo (ngoài thủy điện) chiếm trên 27%; điện sản xuất và nhập khẩu toàn hệ thống ước đạt 309,4 tỷ kWh, tăng 10,2% so với năm 2023. Mức tăng trưởng nguồn điện năm 2024 vẫn tiếp tục chậm lại, xuất phát từ việc chưa có khung giá điện đối với các dự án năng lượng tái tạo cùng quy định về việc lựa chọn chủ đầu tư phải thông qua đấu thầu, các nhà máy thủy điện ghi nhận sản lượng thấp do tác động từ El Nino và bị ảnh hưởng phần nào từ việc hạ sản lượng điện thị trường cạnh tranh còn 2%. Nhóm điện khí, than dù được hưởng lợi về huy động công suất nhưng cũng gặp hạn chế do chi phí nguyên liệu tăng cao.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 268,
+      "text": "Tập đoàn Hà Đô luôn ý thức được việc sử dụng năng lượng và tài nguyên tiết kiệm, hiệu quả là vấn đề quan trọng, song hành với sự phát triển bền vững của doanh nghiệp. Việc giảm lượng khí thải Carbon đã được thể hiện ngay từ việc lựa chọn đầu tư, phương án quy hoạch, thiết kế, đảm bảo không gian xanh đồng bộ, xuyên suốt tại tất cả các dự án bất động sản của Công ty. Bên cạnh đó, việc lựa chọn đầu tư vào lĩnh vực năng lượng tái tạo (điện gió, điện mặt trời, thủy điện) cũng xuất phát từ tinh thần ấy. Các nhà máy điện đều được đánh giá tác động môi trường trước và trong quá trình vận hành, đảm bảo mức độ an toàn và tiêu chuẩn không gây ảnh hưởng xấu đến môi trường và đời sống người dân xung quanh. Dự án điện gió, điện mặt trời được lựa chọn kỹ lưỡng các thiết bị chuyển hóa năng lượng và các nhà thầu uy tín trên thế giới để cung cấp những thiết bị thân thiện môi trường cho dự án.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

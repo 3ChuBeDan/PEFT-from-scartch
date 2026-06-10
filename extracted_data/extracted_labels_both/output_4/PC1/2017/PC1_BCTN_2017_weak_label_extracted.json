@@ -1,0 +1,20 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G41",
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G41",
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

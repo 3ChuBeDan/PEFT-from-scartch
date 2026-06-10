@@ -1,0 +1,518 @@
+{
+  "extracted_count": 30,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Xây dựng Đội ứng cứu sự cố an toàn thông tin mạng (Bảo Việt Cyber Security Incident Response Team), tham gia các liên minh an ninh mạng, tổ chức diễn tập thực chiến để nâng cao khả năng ứng phó và bảo vệ hệ thống trước các mối đe dọa an ninh mạng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Tại Phiên họp cấp cao trong khuôn khổ Hội nghị COP29, đại diện Việt Nam chia sẻ: Năm 2024 là năm ấm nhất được ghi nhận. Hạn hán, sóng nhiệt, cháy rừng, lũ lụt, xoáy thuận nhiệt đới xảy ra ở nhiều nơi trên thế giới, trong đó có Việt Nam và tác động tiêu cực đáng kể đến nền kinh tế toàn cầu.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "Việt Nam đã lồng ghép các biện pháp thích ứng với biến đổi khí hậu và giảm nhẹ phát thải khí nhà kính và thực hiện NDC vào Luật Bảo vệ môi trường năm 2020 và các văn bản quy phạm pháp luật khác, chiến lược dài hạn, chương trình và kế hoạch phát triển kinh tế - xã hội của đất nước. Việt Nam đã ban hành nhiều chính sách và thực hiện nhiều biện pháp để tăng cường khả năng chống chịu trước tác động của biến đổi khí hậu. Theo hướng dẫn từ Công ước khung của Liên hợp quốc về biến đổi khí hậu (UNFCCC), Việt Nam đã xây dựng và triển khai Kế hoạch quốc gia thích ứng với biến đổi khí hậu (NAP) vào năm 2020, triển khai Hệ thống giám sát và đánh giá hoạt động thích ứng với biến đổi khí hậu ở cấp quốc gia.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Khi thế giới đang từng bước chuyển mình mạnh mẽ để đối mặt với khủng hoảng tài nguyên, biến đổi khí hậu và bất bình đẳng xã hội, kinh tế tuần hoàn là một giải pháp tất yếu, thông minh. Đây không chỉ là mô hình tái sử dụng tài nguyên, giảm phát thải, mà còn là biểu tượng của tư duy đổi mới – chuyển rác thải thành tài nguyên, chuyển thách thức thành cơ hội. Bảo Việt nhận thức rằng: Đổi mới vì tương lai không thể chờ đợi. Tập đoàn đã và đang tích cực ứng dụng các nguyên tắc của kinh tế tuần hoàn vào chiến lược phát triển như: Số hóa quy trình để giảm thiểu tiêu thụ tài nguyên; Thiết kế sản phẩm dịch vụ xanh, thân thiện với môi trường; Thúc đẩy tinh thần tiêu dùng có trách nhiệm trong nội bộ và ngoài xã hội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E3": 4
+      }
+    },
+    {
+      "text": "Hội nghị Liên hợp quốc về biến đổi khí hậu (COP) là hội nghị thường niên tổ chức trong khuôn khổ Công ước khung Liên hợp quốc về biến đổi khí hậu (UNFCCC) nhằm đánh giá quá trình đương đầu với biến đổi khí hậu, Việt Nam đã có những cam kết mạnh mẽ cùng gần 200 quốc gia thực hiện giảm thiểu sản xuất và sử dụng nhiên liệu hóa thạch như dầu khí và than đá, để đạt được mục tiêu phát thải ròng bằng \"0\" vào năm 2050. Trong hội nghị COP29 vừa qua, tuyên bố COP29 về Hành động Kỹ thuật số Xanh với hơn 75 chính phủ và hơn 1.100 thành viên trong cộng đồng công nghệ số đã ủng hộ tuyên bố sử dụng các công cụ kỹ thuật số để giảm phát thải và tăng cường khả năng chống chịu với biến đổi khí hậu.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Cơ hội kinh tế mới, đặc biệt trong các lĩnh vực chuyển đổi công nghệ, năng lượng tái tạo và ứng phó với biến đổi khí hậu. Về chuyển đổi công nghệ và AI, công nghệ AI sẽ tiếp tục là động lực chính thúc đẩy sự đổi mới trong nhiều ngành công nghiệp. Cơ hội kinh tế sẽ đến từ việc ứng dụng AI trong tự động hóa sản xuất, y tế, tài chính và giao thông. Trí tuệ nhân tạo sẽ giúp tăng năng suất lao động, tối ưu hóa quy trình và tạo ra sản phẩm mới. 6.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Bảo Việt luôn trân trọng và ý thức rằng những giá trị do mỗi thành viên tạo ra đều đóng góp vào thành công chung của doanh nghiệp nên chú trọng cải tiến trong cơ cấu tổ chức, chính sách phát triển nguồn nhân lực, quan tâm đến đời sống vật chất và tinh thần của người lao động. Chúng tôi không phân biệt vị trí, độ tuổi, giới tính, trình độ, địa vị xã hội, tính cách, phong cách sống, quá trình tư duy, kinh nghiệm làm việc, nguồn gốc dân tộc, tôn giáo...của người lao động. Triết lý và định hướng trong quản trị điều hành đó là nền tảng để Bảo Việt xây dựng một môi trường làm việc năng động, minh bạch, công bằng và thân thiện. Mỗi cá nhân đều có cơ hội được làm việc, cống hiến, được tổ chức ghi nhận, học tập, rèn luyện, khẳng định bản thân để thành công và phát triển sự nghiệp tại Bảo Việt.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Các loại hình bảo hiểm Phi nhân thọ để bảo vệ sức khỏe và an toàn tài chính trước các rủi ro về sức khỏe cho cán bộ nhân viên và người thân bao gồm: Bảo hiểm sức khỏe và bảo hiểm kết hợp con người (Healthcare), Bảo hiểm sức khỏe cho người thân, Bảo hiểm kết hợp con người và Bảo hiểm Bệnh ung thư (K-Care).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Song song với các hoạt động thúc đẩy kinh doanh, Tổng Công ty Bảo hiểm Bảo Việt cũng luôn đi đầu trong việc tạo dựng môi trường làm việc chuyên nghiệp, thân thiện, mang đến cơ hội phát triển, thăng tiến và chế độ đãi ngộ tốt đối với toàn thể hơn 3.000 cán bộ nhân viên của Bảo hiểm Bảo Việt. Xuất phát từ việc luôn luôn lắng nghe để thấu hiểu những quan tâm của nhân viên, Bảo hiểm Bảo Việt đã xây dựng một tiêu chuẩn mới về nơi làm việc lý tưởng, nơi mà tất cả nhân viên nhận được cam kết quan tâm toàn diện và phát triển tối đa trong một lộ trình nghề nghiệp cá nhân, tương thưởng xứng đáng cho những đóng góp, thông qua những trải nghiệm đa dạng, những thử thách trong công việc, cơ hội học hỏi để hoàn thiện và phát triển bản thân. Năm 2024, Bảo hiểm Bảo Việt vinh dự nhận giải thưởng Top 10 Nơi làm việc tốt nhất Việt Nam 2024 Ngành bảo hiểm.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Trong từng giai đoạn của cuộc đời, BVNT luôn ở bên, cùng khách hàng xây dựng các giải pháp tài chính linh hoạt và vững chắc để bảo vệ bản thân và những người thân yêu. Với tinh thần \"Niềm tin vững chắc – Cam kết vững bền\", BVNT luôn kịp thời thực hiện trách nhiệm đã cam kết với khách hàng. Năm 2024, BVNT đã thực hiện chi trả quyền lợi cho khách hàng với số tiền là 15.061 tỷ đồng, trong đó chi trả quyền lợi rủi ro là 1.332 tỷ đồng và quyền lợi đáo hạn là 2.980 tỷ đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Song song với các hoạt động đẩy nhanh tốc độ chuyển đổi số trong doanh nghiệp, công tác đảm bảo an toàn công nghệ thông tin luôn là mối quan tâm hàng đầu tại BVSC trong nhiều năm trở lại đây. Trong năm 2024, Công ty đã triển khai đồng bộ nhiều giải pháp nâng cao bảo mật an toàn thông tin. Nổi bật là việc triển khai các lớp tường lửa chuyên dụng bảo vệ các tầng Cơ sở dữ liệu, máy chủ, truy cập web của khách hàng. Công ty đã triển khai giải pháp phòng chống tấn công từ chối dịch vụ (DDOS) cho toàn bộ dịch vụ trực tuyến. Đặc biệt, công ty đã hoàn tất triển khai trung tâm giám sát điều hành về an ninh mạng 24/7 để phản ứng tức thời trước các sự kiên về an toàn bảo mật trong hệ thống và Lựa chọn Tập đoàn Viettel là đơn vị cung cấp dịch vụ giám sát, điều hành an toàn, an ninh mạng (SOC), hỗ trợ xử lý sự cố về an toàn thông tin. Do đó, hệ thống CNTT luôn được vận hành thông suốt, không có sự cố về an ninh bảo mật hay sự cố gây gián đoạn hệ thống kéo dài. An ninh, an toàn của hệ thống được nâng cấp, giúp việc ngăn chặn các cuộc tấn công mạng, bảo vệ dữ liệu khách hàng và thông tin nội bộ được thực hiện hiệu quả hơn. Ngân sách để đầu tư cho công nghệ thông tin tăng 200% so với năm 2023.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Các nguyên tắc quản trị công ty mới nhất của OECD, được cập nhật vào năm 2023, đã có một số thay đổi quan trọng so với phiên bản trước, tập trung vào việc tăng cường khả năng chống chịu của các công ty, quản lý rủi ro bền vững, và sử dụng công nghệ kỹ thuật số để cải thiện tính minh bạch và trách nhiệm giải trình. Phiên bản 2023 bao gồm một chương mới tập trung vào việc quản lý rủi ro môi trường và xã hội, cũng như khả năng chống chịu của các công ty. Chương này phản ánh sự gia tăng của các thách thức mà các công ty phải đối mặt trong việc quản lý rủi ro liên quan đến khí hậu và các vấn đề bền vững khác. Các nguyên tắc hiện nay tích hợp các vấn đề liên quan đến Môi trường, Xã hội và Quản trị (ESG) vào khuôn khổ quản trị công ty, nhằm giúp các công ty quản lý rủi ro và cơ hội một cách hiệu quả hơn. Các nguyên tắc nhấn mạnh việc cải thiện tính minh bạch và trách nhiệm giải trình trong quản trị công ty, bao",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "Trong đó có 1 chương tập trung vào việc quản lý rủi ro môi trường và xã hội, cũng như khả năng chống chịu của các công ty. Chương này phản ánh sự gia tăng của các thách thức mà các công ty phải đối mặt trong việc quản lý rủi ro liên quan đến khí hậu và các vấn đề bền vững khác.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Khối Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro để thực hiện các hoạt động kiểm toán, theo đó Khối Kiểm toán nội bộ căn cứ vào kết quả đánh giá rủi ro để xác định mục tiêu, đối tượng kiểm toán, phạm vi kiểm toán và cách thức thực hiện kiểm toán.",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo bằng việc áp dụng giả định tương đối thận trọng để tránh các biến động bất lợi trong thực tiễn hoạt động. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả xảy ra trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Là doanh nghiệp có các hoạt động kinh doanh dịch vụ tài chính, hoạt động kinh doanh Bảo Việt không sản sinh nhiều lượng khí thải nhà kính cũng như gây ra các tác động đáng kể đến môi trường. Tuy nhiên với các trụ sở làm việc, các Tòa nhà do Bảo Việt quản lý và sử dụng, việc kiểm soát lượng khí thải, chất thải, nước thải từ các Tòa nhà Bảo Việt là biện pháp bảo vệ môi trường tiếp theo sẽ được Bảo Việt triển khai. Hiện tại, Bảo Việt cũng đang xây dựng quy chế quản lý các nguồn phát thải khí nhà kính căn cứ theo Giao thức báo cáo Khí nhà kính (GHG Protocol).",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 2
+      }
+    },
+    {
+      "text": "Giao thức báo cáo Khí nhà kính (GHG Protocol) là công cụ kiểm đếm được sử dụng rộng rãi trên thế giới để định lượng, nắm bắt và quản lý phát thải Khí nhà kính do Viện Tài nguyên Thế giới (WRI) và Hội đồng Doanh nghiệp thế giới về phát triển bền vững (WBCSD) xây dựng. Báo cáo Khí nhà kính phân biệt 3 \"phạm vi\" (Scope) phát thải mà hiện nay được các hệ thống trên thế giới sử dụng, bao gồm:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Báo cáo Khí thải nhà kính (GHG Protocol) tại các tòa nhà Bảo Việt",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Trong năm 2024, trung bình cứ 01 tỷ đồng doanh thu Tập đoàn Bảo Việt thu được sẽ cần triển khai các hoạt động hỗ trợ kinh doanh liên quan và thải ra 0,018 tấn CO 2 ra môi trường. Mặc dù đây là năm Tập đoàn Bảo Việt tập trung mở rộng kinh doanh và gia tăng hợp tác đầu tư khiến cho cường độ phát thải khí nhà kính tại Bảo Việt năm 2024 tăng 15% so với năm 2023. Tuy nhiên, với sự nỗ lực của cán bộ nhân viên của toàn hệ thống cùng các chính sách tiết kiệm và bền vững, mức phát thải trên vẫn nằm trong giới hạn mức phát thải mục tiêu của năm 2025 và bằng 48% cường độ phát thải khí nhà kính trung bình trên 01 tỷ đồng GDP Việt Nam.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Nhằm lan tỏa yêu thương và tinh thần tương thân tương ái dịp Tết đến Xuân về, Công ty Chứng khoán Bảo Việt (BVSC) đã đồng hành cùng chương trình \"Chuyến xe mùa xuân 2025\" – hoạt động thường niên do Thành Đoàn TP. Hồ Chí Minh, Hội Sinh viên Việt Nam TP. Hồ Chí Minh và Trung tâm Hỗ trợ Học sinh, Sinh viên TP. Hồ Chí Minh tổ chức. Chương trình đã hỗ trợ hơn 2.000 học sinh, sinh viên và người lao động có hoàn cảnh khó khăn được trở về sum họp cùng gia đình nhân dịp Tết Nguyên đán.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Toàn bộ số tiền và nhu yếu phẩm đã được Bảo Việt chuyển trực tiếp tới người dân tại bốn tỉnh: Lào Cai, Yên Bái, Thái Nguyên và Tuyên Quang thông qua Ủy ban Mặt trận Tổ quốc các tỉnh và các đoàn công tác tại địa phương. Đây là hành động thiết thực thể hiện tinh thần tương thân tương ái và cam kết đồng hành vì cộng đồng mà Bảo Việt kiên định thực hiện trong hành trình phát triển bền vững.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảo Việt Nhân thọ đang sử dụng Bảng tỷ lệ tử vong CSO 1980. Riêng với các sản phẩm niên kim nhân thọ, bảng tỷ lệ riêng biệt được sử dụng nhằm đảm bảo trích lập dự phòng thận trọng và đầy đủ.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "E3": 0.5,
+        "S4": 1.0
+      },
+      "themes": [
+        "E3",
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Đánh giá chung về thực hành quản trị công ty trong năm 2024 của Tập đoàn Bảo Việt được ghi nhận như sau: ; column_headers: Tiêu chí | Kết quả đánh giá | Giải thích kết quả | Về đối xử bình đẳng với cổ đông [ROWS] Tiêu chí | Kết quả đánh giá | Giải thích kết quả [ROW] Về đối xử bình đẳng với cổ đông [ROW] Thông báo và tài liệu họp ĐHĐCĐ | • Công bố thông báo họp và các tài liệu liên quan song ngữ Anh – Việt trên website của Bảo Việt; • Cung cấp đầy đủ cơ sở, thông tin và giải trình cho các vấn đề trình ĐHĐCĐ thông qua tại Đại hội; [ROW] Công bố thông tin về ứng viên HĐQT, chính sách chi trả cổ tức | Công bố đầy đủ trong tài liệu ĐHĐCĐ và Báo cáo thường niên [ROW] Chất lượng và thời gian công bố tài liệu ĐHĐCĐ bằng tiếng Anh | Thông báo và tài liệu ĐHĐCĐ gần nhất đã được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu tiếng Việt. [ROW] Công ty chưa có quy định yêu cầu phải có một tiểu ban bao gồm các thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông. [ROW] Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao. | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích trong Điều lệ, Quy chế nội bộ và Quy chế hoạt động của HĐQT [ROW] Công ty quy định tại Điều lệ và Quy chế quản trị yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: HỆ THỐNG KIỂM SOÁT NỘI BỘ VÀ HOẠT ĐỘNG KIỂM TOÁN NỘI BỘ ; column_headers: STT | Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận | Cấu phần và nguyên tắc | Đánh giá của Khối Kiểm toán nội bộ [ROWS] Cấu phần và nguyên tắc | Đánh giá của Khối Kiểm toán nội bộ [ROW] STT | Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận [ROW] 7 | Nhận diện rủi ro liên quan đến việc hoàn thành mục tiêu xuyên suốt toàn Tập đoàn và phân tích rủi ro làm cơ sở cho việc xác định cách thức quản lý rủi ro | về các rủi ro chính, bao gồm: rủi ro bảo hiểm, rủi ro hoạt động, rủi ro thị trường, rủi ro tín dụng, rủi ro thanh khoản, rủi ro danh tiếng, rủi ro chiến lược, rủi ro phát triển bền vững; Quy chế quản lý rủi ro quy định rõ cơ cấu tổ chức, quyền hạn và trách nhiệm của các cấp trong công tác quản lý rủi ro; cách thức nhận diện các rủi ro trọng yếu và các chuẩn mực quản trị rủi ro trong hoạt động kinh doanh của Tập đoàn Bảo Việt và các Công ty con Ban hành Chính sách quản lý rủi ro, Tuyên bố khẩu vị rủi ro và hạn mức rủi [ROW] 8 | Xem xét nguy cơ gian lận khi đánh giá rủi ro liên quan đến việc hoàn thành các mục tiêu | Rủi ro gian lận là một trong số các loại rủi ro được nhận diện, đánh giá trong Quy chế quản lý rủi ro, Chính sách quản lý rủi ro. [ROW] 9 | Nhận diện và đánh giá các thay đổi có thể ảnh hưởng đáng kể đến hệ thống kiểm soát nội bộ | Các vấn đề liên quan đến rủi ro (ví dụ: các yếu tố tác động từ môi trường bên ngoài như chính sách, cơ chế, chính trị...) được phản ánh trong các Báo cáo Ban điều hành đồng thời được phân tích, đánh giá và xử lý tại các cuộc họp định kỳ của Hội đồng Quản lý rủi ro (RMC) và Ủy ban Tài sản Nợ - Tài sản có (ALCO). [ROW] TÊN CẤU PHẦN: HOẠT ĐỘNG KIỂM SOÁT [ROW] 10 | Lựa chọn và phát triển các hoạt động kiểm soát nhằm giảm thiểu rủi ro ở mức độ có thể chấp nhận được | Các biện pháp kiểm soát được thiết lập và vận hành đối với mọi hoạt động tại tất cả các cấp, được lồng ghép trong các tác nghiệp hàng ngày ở tất [ROW] 11 | Lựa chọn và phát triển các hoạt động kiểm soát chung về công nghệ thông tin để hỗ trợ thực hiện các mục tiêu | cả các quy trình nghiệp vụ. [ROW] 12 | Triển khai các hoạt động kiểm soát thông qua các chính sách và thủ tục | Các loại hình kiểm soát chính bao gồm: Kiểm soát định hướng, Kiểm soát phòng ngừa, Kiểm soát phát hiện; Kiểm soát thủ công, Kiểm soát tự động. Trong đó kiểm soát tự động thông qua hệ thống CNTT đóng vai trò quan trọng nhằm hạn chế sai sót và tác động của con người tới hiệu quả của kiểm toán. Các biện pháp kiểm soát chính bao gồm: rà soát kết quả hoạt động của",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Báo cáo Khí thải nhà kính (GHG Protocol) tại các tòa nhà Bảo Việt ; column_headers: Phạm vi | Hoạt động | 2020 | 2021 | 2022 | 2023 | 2024 ; row_headers: Tổng | Phạm vi | 1 | Đốt nhiên liệu vận hành hệ thống | Đốt nhiên liệu vận hành phương tiện di chuyển của doanh nghiệp | Phát thải từ điều hòa không khí | Phạm vi 1 – Tổng | 3 | Sử dụng phương tiện di chuyển phục vụ công tác | Xử lý chất thải, khí thải, nước thải trong tòa nhà | Sử dụng phương tiện di chuyển phục vụ vận chuyển sản phẩm | Sử dụng phương tiện di chuyển phục vụ đưa đón nhân viên | Phạm vi 3 – Tổng | 2 | Điện tiêu thụ cho hệ thống phát điện, điều hòa không khí, thiết bị văn phòng | Điện tiêu thụ cho hệ thống nước nóng lạnh | Phạm vi 2 – Tổng [ROWS] Phạm vi | Hoạt động | 2020 | 2021 | 2022 | 2023 | 2024 [ROW] Phạm vi | Đốt nhiên liệu vận hành hệ thống | 19,23 | 16,16 | 21,17 | 22,09 | 22,36  [ROW] 1 | Đốt nhiên liệu vận hành phương tiện di chuyển của doanh nghiệp | 41,71 | 41,13 | 98,56 | 86,27 | 88,17  [ROW] Phát thải từ điều hòa không khí | 206,83 | 198,18 | 480,23 | 480,23 | 475,90  [ROW] Phạm vi 1 – Tổng | 267,77 | 255,47 | 599,96 | 588,59 | 586,42  [ROW] Phạm vi | Điện tiêu thụ cho hệ thống phát điện, điều hòa không khí, thiết bị văn phòng | 962,26 | 947,36 | 409,88 | 179,48 | 298,54  [ROW] 2 | Điện tiêu thụ cho hệ thống nước nóng lạnh | 10,20 | 10,20 | 10,69 | 10,69 | 10,69  [ROW] Phạm vi 2 – Tổng | 972,45 | 957,56 | 420,57 | 190,17 | 309,24  [ROW] Phạm vi | Sử dụng phương tiện di chuyển phục vụ công tác | 0,09 | 0,07 | 0,02 | 0,02 | 0,02  [ROW] 3 | Xử lý chất thải, khí thải, nước thải trong tòa nhà | 25,65 | 21,45 | 47,56 | 39,52 | 47,64  [ROW] Sử dụng phương tiện di chuyển phục vụ vận chuyển sản phẩm | 13,53 | 12,85 | 30,34 | 34,17 | 42,31  [ROW] Sử dụng phương tiện di chuyển phục vụ đưa đón nhân viên | 0,16 | 0,00 | 11,46 | 0,16 | 0,21  [ROW] Phạm vi 3 – Tổng | 39,43 | 34,36 | 89,38 | 73,88 | 90,17  [ROW] Tổng | 1279,66 | 1247,39 | 1109,91 | 863,33 | 996,52 ",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Các giao dịch với các bên liên quan khác ; column_headers: Năm 2024 VND ; row_headers: Bà Trần Thị Diệu Hằng(*) | Bà Thân Hiền Anh | Ông Nguyễn Xuân Việt | Ông Nguyễn Đình An(**) | Ông Nguyễn Quang Phi | Ông Nguyễn Thừa Nhật | Ông Arai Kazuhiko | Ông Inami Ryota | Ông Igarashi Takafumi | Bà Ngô Thị Thu Trang | Ông Dương Trí Thành | Ông Trịnh Hồng Quang | Tiền lương và chi phí hoạt động của Ban Kiểm soát | Ông Nguyễn Xuân Việt(***) | Ông Nguyễn Xuân Hòa [ROWS] Năm 2024 VND [ROW] Thù lao của thành viên Hội đồng Quản trị [ROW] Bà Trần Thị Diệu Hằng(*) | 217.333.333 [ROW] Bà Thân Hiền Anh | 2.580.645 [ROW] Ông Nguyễn Xuân Việt | 240.000.000 [ROW] Ông Nguyễn Đình An(**) | 217.333.333 [ROW] Ông Nguyễn Quang Phi | 3.870.968 [ROW] Ông Nguyễn Thừa Nhật | 3.870.968 [ROW] Ông Arai Kazuhiko | 236.129.032 [ROW] Ông Inami Ryota | 240.000.000 [ROW] Ông Igarashi Takafumi | 3.870.968 [ROW] Bà Ngô Thị Thu Trang | 3.870.968 [ROW] Ông Dương Trí Thành | 3.870.968 [ROW] Ông Trịnh Hồng Quang | 3.870.968 [ROW] Tiền lương và chi phí hoạt động của Ban Kiểm soát | 830.903.354 [ROW] Tiền lương của Tổng Giám đốc và Người quản lý khác [ROW] Bà Trần Thị Diệu Hằng(*) | 92.635.891 [ROW] Ông Nguyễn Đình An(**) | 595.744.843 [ROW] Ông Nguyễn Xuân Việt(***) | 83.721.512 [ROW] Ông Nguyễn Xuân Hòa | 956.489.888",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

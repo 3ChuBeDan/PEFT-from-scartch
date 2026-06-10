@@ -1,0 +1,86 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 77,
+      "text": "GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept dám nghĩ, dám làm, tiên phong mở ra những con GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept dám nghĩ, dám làm, tiên phong mở ra những con đường mới và không ngừng thách thức mọi giới hạn của bản thân.đường mới và không ngừng thách thức mọi giới hạn của bản thân. GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept dám nghĩ, dám làm, tiên phong mở ra những con GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept dám nghĩ, dám làm, tiên phong mở ra những con đường mới và không ngừng thách thức mọi giới hạn của bản thân.đường mới và không ngừng thách thức mọi giới hạn của bản thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 911,
+      "text": "Là một doanh nghiệp hàng đầu trong lĩnh vực khai thác Cảng và Logistics tại Việt Nam, với tinh thần Tiên phong, ý thức sâu sắc về trách nhiệm xã hội của doanh nghiệp, Gemadept đã có những bước đi, quyết sách và hành động cụ thể hướng đến mục tiêu ứng phó với biến đổi khí hậu, chung tay cùng Chính phủ trong công cuộc phát triển bền vững, thể hiện qua các dự án cảng xanh, thân thiện môi trường, phát huy việc sử dụng năng lượng tái tạo, các dự án trồng bù rừng...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1209,
+      "text": "Việc trao tặng các suất học bổng Tiếng Anh của Công ty Gemadept có ý nghĩa động viên kịp thời với tinh thần tương thân tương ái với mong muốn góp phần chung tay cùng Chính quyền \"chia sẻ nỗi lo cho con trẻ của các y bác sĩ đang làm nhiệm vụ tại các vùng tâm dịch và động viên tinh thần các con khi bố mẹ công tác xa nhà\" và là món quà tinh thần quý báu, tiếp thêm sức mạnh cho lực lượng \"chiến sỹ áo trắng\" an tâm hoàn thành xuất sắc nhiệm vụ mà Tổ quốc giao phó, nhân dân tin tưởng, sớm đưa cả nước vượt qua đại dịch, ổn định và phát triển kinh tế, xã hội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1348,
+      "text": " Thường xuyên làm việc với Trung tâm quan trắc môi trường biển để khảo sát, đo đạc, phân tích các thông số môi trường và lập báo cáo quan trắc môi trường theo định kỳ. Các chỉ số về môi trường không khí, môi trường nước của Công ty đều nằm trong giới hạn cho phép. Các hệ thống quản lý, xử lý khí thải, nước thải, chất thải rắn tại Công ty vận hành tương đối ổn định,",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5,
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

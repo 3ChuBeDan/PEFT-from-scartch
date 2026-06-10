@@ -1,0 +1,56 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "VietinBank đã và đang thực hiện tài trợ số tiền gần 6.700 tỷ đồng từ Quỹ Phúc lợi, chi phí hoạt động kinh doanh và nguồn đóng góp của cán bộ, nhân viên trong toàn hệ thống để xây dựng gần 39 nghìn ngôi nhà ở cho người nghèo; xây dựng 966 công trình cầu, đường giao thông nông thôn; 19 công trình nước sạch và bể chứa nước ngọt, Tài trợ 3.158 con trâu, bò cho các hộ nông dân nghèo; Xây dựng 76 công trình Nhà văn hoá sinh hoạt cộng đồng, phòng tránh thiên tai tại các tỉnh. Đặc biệt, thực hiện \"Chiến lược biển đảo đến năm 2020\" theo tinh thần Nghị quyết TW 4 để góp phần giữ vững biển đảo chủ quyền thiêng liêng của tổ quốc, VietinBank đã tài trợ trên 131 tỷ đồng để xây dựng 1 Trung tâm văn hóa trên đảo Nam Yết và 1 nhà văn hóa đa năng trên Đảo Đá Lớn B, xây dựng 1 trạm thu phát sóng FM, 4 bể nước ngọt trên quần đảo Trường Sa, xây dựng Đền tưởng niệm các chiến sĩ đảo Gạc Ma, hỗ trợ Cảnh sát biển, Kiểm ngư vùng 2 ủng hộ Quỹ \"Vì Trường Sa thân yêu\" và các hỗ trợ khác cho bộ đội, ngư dân và các em học sinh trên đảo góp phần cùng với cả nước xây dựng, phát triển, củng cố và giữ vững an ninh quốc phòng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "+ Về công tác KSNB: HĐQT đã thực hiện các nội dung: (i) Phê duyệt và định kỳ xem xét, đánh giá lại chiến lược kinh doanh và các mục tiêu chính sách lớn, quan trọng của VietinBank, đảm bảo các rủi ro ảnh hưởng tới việc đạt được các chiến lược, mục tiêu và khẩu vị rủi ro được nhận diện, giám sát liên tục và kiểm soát hiệu quả, kịp thời; (ii) Định kỳ hằng năm xem xét đánh giá lại hệ thống KSNB bao gồm: nhận diện, đo lường, đánh giá, ngăn ngừa và quản lý rủi ro thông qua hoạt động của Ủy ban Quản lý rủi ro; (iii) Đảm bảo Tổng Giám đốc thiết lập và duy trì hệ thống KSNB hợp lý và hiệu quả thông qua hoạt động của các Ủy ban Quản lý rủi ro/Ủy ban Chính sách/Ủy ban sản phẩm/Ủy ban thanh toán..., các hệ thống thông tin nhận diện, cảnh báo sớm/kiểm soát rủi ro hiệu quả và các báo cáo kiểm tra, giám sát định kỳ/đột xuất của các bộ phận trong VietinBank, đảm bảo thông tin quản lý được phản ánh trung thực, hợp lý, đầy đủ và kịp thời; (iv) Mô hình ba vòng kiểm soát về quản trị rủi ro đã được triển khai ứng dụng sâu rộng bao gồm: Vòng 1 (Chi nhánh - Các đơn vị trực tiếp triển khai hoạt động kinh doanh); vòng 2 (các đơn vị thuộc Khối Quản lý rủi ro) và vòng 3 (Kiểm toán nội bộ) tạo ra sức mạnh tổng thể, góp phần tăng năng suất, chất lượng và hiệu quả quản lý rủi ro, tăng cường công tác giám sát chi nhánh trên cơ sở rủi ro, đảm bảo chấp hành pháp luật và các quy định nội bộ, kịp thời phát hiện, ngăn ngừa và có biện pháp quản lý rủi ro thích hợp; (v) Thực hiện tinh gọn quy trình, mẫu biểu, hệ thống nhằm hướng tới sự thuận tiện cho khách hàng đồng thời thiết lập các chốt kiểm soát chặt chẽ, hiệu quả hơn trong mọi quy trình nghiệp vụ; (vi) Thay thế thành công hệ thống Core Banking, đáp ứng mục tiêu hiện đại hóa, tiêu chuẩn hóa, nâng cao năng suất lao động giảm thiểu rủi ro tác nghiệp, có năng lực quản trị mạnh, có hệ thống thông tin nội bộ tin cậy, kịp thời nhằm phục vụ cho công tác quản trị, điều hành hiệu quả; (vii) Giám sát và đôn đốc kịp thời việc thực hiện các ý kiến chỉ đạo và yêu cầu của NHNN về hệ thống KSNB. Thực hiện báo cáo NHNN hằng năm đầy đủ, báo cáo theo các yêu cầu khác liên quan các hoạt động kiểm soát về tín dụng, đầu tư, tiền gửi, rủi ro hoạt động...",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Dự phòng cụ thể ; column_headers: Nhóm nợ | Phân loại nợ theo định lượng | Phân loại nợ theo định tính | Tỷ lệ [ROWS] Nhóm nợ | Phân loại nợ theo định lượng | Phân loại nợ theo định tính | Tỷ lệ [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi nhưng có dấu hiệu khách hàng suy giảm khả năng trả nợ. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: - Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. | Các khoản nợ được đánh giá là không có khả năng thu hồi đầy đủ cả nợ gốc và lãi khi đến hạn, có khả năng tổn thất. | 20% [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc | Các khoản nợ được đánh giá là có khả năng tổn thất cao. | 50%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

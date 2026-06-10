@@ -1,0 +1,82 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Với tinh thần tinh thần sẻ chia, trách nhiệm cộng đồng, SHB đã tổ chức ngày hội Hiến máu nhân đạo tại nhiều chi nhánh trên cả nước với sự ủng hộ của không chỉ riêng người SHB mà còn từ người thân, khách hàng và đối tác.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Nhận thức rõ hệ thống ngân hàng đóng vai trò như một mắt xích trung gian có tác động đến môi trường thông qua hoạt động của khách hàng, SHB đã xanh hóa dòng vốn đầu tư thông qua việc hướng các nguồn lực tài chính vào những lĩnh vực xanh như doanh nghiệp ứng dụng công nghệ cao, các dự án năng lượng tái tạo, công nghiệp hỗ trợ, nông nghiệp nông thôn, các dự án thủy điện nhỏ và vừa, sinh khối, xử lý nước thải, rác thải... nhằm tăng dần tỷ trọng tín dụng xanh trong cơ cấu danh mục đầu tư tín dụng, góp phần thúc đẩy khách hàng vay vốn chuyển đổi dự án và mục đích sử dụng vốn vay sang các dự án thân thiện với môi trường:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "-Đồng hành cùng Chiến lược phát triển năng lượng tái tạo của Việt Nam đến năm 2030 với mục tiêu đạt tỷ lệ điện năng sản xuất từ các nguồn năng lượng tái tạo (không bao gồm nguồn thuỷ điện lớn, vừa và thuỷ điện tích năng) khoảng 7% vào năm 2020 và trên 10% vào năm 2030, SHB cũng đã và đang mạnh tay rót vốn cho các dự án năng lượng sạch/năng lượng tái tạo. Theo đó, SHB được Tạp chí ABF trao giải thưởng \"Ngân hàng tài trợ dự án tốt nhất 2018\" với việc cho vay lại hai dự án: Dự án \"Lưới điện thông minh - Hiệu quả trong truyền tải điện\" (giai đoạn 1) trị giá 65 triệu EUR và Dự án \"Lưới điện hiệu quả tại các thành phố nhỏ và vừa\" (giai đoạn 1 và 2) trị giá 350 triệu EUR do Chính phủ Đức tài trợ thông qua Ngân hàng Tái thiết Đức.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: (ii) Dự phòng rủi ro tín dụng cụ thể ; column_headers: Nhóm | Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm | Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đầy chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. | 20% [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. | 50%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

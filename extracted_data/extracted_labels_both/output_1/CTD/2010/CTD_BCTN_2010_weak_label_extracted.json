@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Tham gia tích cực các hoạt động xã hội từ thiện, thể hiện tinh thần tương thân tương ái là nét đẹp truyền thống được tập thể CBNV Coteccons xây dựng từ những năm qua.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 3. Danh sách một số công trình tiêu biểu Công ty đã ký kết trong năm 2010: ; column_headers: TT | Tên công trình | Giá trị (tỷ đồng) | Chủ Đầu tư [ROWS] TT | Tên công trình | Giá trị (tỷ đồng) | Chủ Đầu tư [ROW] 1. | Khu Căn hộ City Garden | 866 | Cty Căn hộ Vườn Phố Việt Nam [ROW] 2. | Diamond Island (gói thầu phần ngầm khu vực 2B+gói thầu 4B+gói thầu 3A+ Khối đế khu vực B) | 185 | Công ty Quản lý Đầu tư Bình Thiên An [ROW] 3. | Công trình Thanh Yến: TC hầm, thân và hoàn thiện | 122 | Công ty cổ phần Thanh Yến. [ROW] 4. | Khu Căn hộ Cao cấp Kenton: Thi công kết cấu móng-hầm khối nhà CD & hầm để xe | 117 | Công ty SX Thương mại Tài Nguyên [ROW] 5. | Khu căn hộ cao cấp The EverRich II (nhà mẫu + tầng hầm) | 199 | Công ty BĐS Phát Đạt [ROW] 6. | Khu phức hợp Tricons Tower (gói tầng hầm) | 233 | Công ty Đầu tư Minh Việt [ROW] 7. | Khu chung cư cao cấp Rừng Cọ – Ecopark. | 171 | Công ty Đầu tư và Phát triển Đô thị Việt Hưng [ROW] 8. | Indochina Plaza Hà Nội (TC tầng hầm, kết cấu phần thân và xây gạch) | 441 | Trung Tâm Thương Mại và Nhà ở Hà Nội [ROW] 9. | Trường Quốc Tế Unis Hà nội | 111 | United nation international School [ROW] 10. | Hồ Tràm Strip | 364 | Asian Coast Development.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

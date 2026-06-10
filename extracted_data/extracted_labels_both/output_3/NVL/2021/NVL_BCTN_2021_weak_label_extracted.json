@@ -1,0 +1,62 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 1252,
+      "text": "Tập đoàn Novaland đảm bảo nhiệm vụ quản lý nước thải và chất thải phát sinh, đồng thời theo dõi, giám sát chặt chẽ bằng nhiều biện pháp kiểm soát tối ưu lượng nước thải và chất thải từ các dự án. Nguồn nước thải từ quá trình xây dựng, vận hành các công trình dự án được xử lý đạt tiêu chuẩn môi trường, đồng thời đảm bảo kết quả quan trắc được báo cáo thường xuyên cho các cơ quan quản lý mỗi 06 tháng/lần theo yêu cầu.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1976,
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CHI TIẾT VỀ THỰC HÀNH QUẢN TRỊ CÔNG TY CỦA TẬP ĐOÀN NOVALAND THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: STT | Tiêu chí | Tình hình tuân thủ của CT | Cơ sở đánh giá cho năm 2021 | Ghi chú/Đề xuất cải tiến | 2020 | 2021 [ROWS] STT | Tiêu chí | Tình hình tuân thủ của CT | Cơ sở đánh giá cho năm 2021 | Ghi chú/Đề xuất cải tiến [ROW] 2020 | 2021 [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu CT trong 3 ngày làm việc? | ● | ● | Quy định tại Khoản 4 Điều 17 Quy chế QTCT. [ROW] B.4 | Giao dịch bên liên quan bởi HĐQT và Ban TGĐ [ROW] B.4.1 | CT có chính sách yêu cầu Thành viên HĐQT công bố lợi ích liên quan trong các giao dịch và mọi xung đột lợi ích với CT không? | ● | ● | Quy định tại Khoản 2 Điều 50 Điều lệ CT, Điều 46 Quy chế QTCT. [ROW] B.4.2 | CT có chính sách yêu cầu một Tiểu ban gồm Thành viên HĐQT độc lập rà soát giao dịch bên liên quan trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của CT và Cổ đông? | ● | ● | UBKT có thực hiện công tác giám sát giao dịch bên liên quan trọng yếu/ quan trọng. [ROW] B.4.3 | CT có chính sách yêu cầu Thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động giao dịch mà Thành viên đó có xung đột lợi ích? | ● | ● | Thành viên HĐQT mà có các hoạt động giao dịch xung đột lợi ích với CT sẽ không thực hiện biểu quyết theo Quy định tại Khoản 9, Khoản 10 Điều 38 Điều lệ CT. [ROW] CT có chính sách về khoản vay cho Thành viên HĐQT trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | ● | ● | Quy định tại Điều 32, Điều 50 Điều lệ CT, theo đó CT có trách nhiệm trình các Dự thảo về Hợp đồng, giao dịch, giải trình các nội dung trọng yếu của giao dịch để HĐQT/ĐHĐCĐ thông qua. | B.4.4 [ROW] B.5 | Bảo vệ Cổ đông nhỏ lẻ từ các hành vi tư lợi cá nhân [ROW] B.5.1 | CT có công bố về việc giao dịch bên liên quan được thực hiện theo phương thức đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | ● | ● | Quy định tại Điều 32, Điều 50 Điều lệ CT, theo đó CT có trách nhiệm trình các Dự thảo về Hợp đồng, giao dịch, giải trình các nội dung trọng yếu của giao dịch để HĐQT/ĐHĐCĐ thông qua, khi giao dịch được thông qua, CT sẽ thực hiện CBTT. [ROW] B.5.2 | Đối với những giao dịch bên liên quan được chấp thuận bởi ĐHĐCĐ, có được thông qua bởi những Cổ đông không có liên quan lợi ích? | ● | ● | Quy định tại Điều 32 Điều lệ CT, theo đó, chỉ có những Cổ đông có liên quan lợi ích mới không thực hiện biểu quyết. [ROW] C | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] C.1 | Quyền lợi của các bên có liên quan được quy định bởi pháp luật hoặc theo những thỏa thuận song phương phải được tôn trọng [ROW] C.1.1 | Ban hành các quy định và thực thi nỗ lực nhằm bảo vệ khách hàng? | ● | ● | Quy định tại Điều 48 Quy chế QTCT về việc đảm bảo lợi ích của những bên có liên quan và tại Bộ quy tắc ứng xử của CT luôn có điều khoản bảo vệ lợi ích của Khách hàng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "paragraph_id": 1991,
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CHI TIẾT VỀ THỰC HÀNH QUẢN TRỊ CÔNG TY CỦA TẬP ĐOÀN NOVALAND THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: STT | Tiêu chí | Tình hình tuân thủ của | Cơ sở đánh giá cho năm 2021 | Ghi chú/Đề xuất cải tiến | 2020 | 2021 [ROWS] STT | Tiêu chí | Tình hình tuân thủ của | Cơ sở đánh giá cho năm 2021 | Ghi chú/Đề xuất cải tiến [ROW] 2020 | 2021 [ROW] (P) A.5 | Cơ cấu vốn và các thỏa ước cho phép một số Cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai [ROW] (P) A.5.1 | Cấu trúc sở hữu kim tự tháp hoặc cấu trúc sở hữu chéo có tồn tại không? | ● | ● | Hiện tại là theo cấu trúc kim tự tháp với Chủ tịch HĐQT và Người có liên quan đến Chủ tịch HĐQT. [ROW] (P) B | ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] (P) B.1 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] (P) B.1.1 | CT có bị kết luận vi phạm về giao dịch nội gián của HĐQT, Ban TGĐ và nhân viên trong 3 năm qua? | ● | ● | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi hoàn toàn bị cấm tại CT. [ROW] (P) B.2 | Bảo vệ Cổ đông nhỏ lẻ từ các hành vi tư lợi cá nhân [ROW] (P) B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu 3 năm qua? | ● | ● | Không xảy ra. [ROW] (P) B.2.2 | Có giao dịch bên liên quan nào có tính chất hỗ trợ tài chính cho các đơn vị không phải là CT con trực thuộc không? | ● | ● | Điều lệ, Quy chế QTCT: Hành vi lạm dụng kinh doanh để tư lợi hoàn toàn bị cấm tại CT. [ROW] (P) C | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] (P) C.1 | Quyền lợi của các bên có liên quan được quy định bởi pháp luật hoặc theo những thỏa thuận song phương phải được tôn trọng [ROW] (P) C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/ phá sản/thương mại/cạnh tranh hay các vấn đề về môi trường không? | ● | ● | Không xảy ra. [ROW] (P) C.2 | Quyền lợi CBLQ được bảo vệ bởi luật pháp, CBLQ có cơ hội để thể hiện ý kiến nếu quyền lợi bị xâm phạm [ROW] (P) C.2.1 | CT có phải chịu bất kỳ hình phạt nào của cơ quan quản lý liên quan đến việc CBTT không đúng hạn cho những yêu cầu thiết yếu? | ● | ● | Hoàn toàn tuân thủ.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

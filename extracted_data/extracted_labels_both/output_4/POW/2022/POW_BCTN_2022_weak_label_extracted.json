@@ -1,0 +1,186 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 381,
+      "text": "Nhập khẩu than: xây dựng quy chế/quy trình cho nhập khẩu than, chuẩn bị đầu tư cơ sở hạ tầng cho công tác nhập khẩu than như cảng nhập, kho than, hệ thống phối trộn, vận tải nội địa ...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 417,
+      "text": "Việc thiếu nguồn than từ mỏ dẫn đến năng lực cấp than của TKV giai đoạn đầu năm không đáp ứng yêu cầu cho các nhà máy điện than trên khắp cả nước, bao gồm Nhà máy điện Vũng Áng 1 của PV Power trong 6 tháng đầu năm đã ảnh hưởng đến khả năng khả dụng, vận hành và hiệu quả của Nhà máy điện Vũng Áng 1 và của Tổng công ty. Từ giai đoạn tháng 5 đến cuối năm, Nhà máy điện Vũng Áng 1 phải sử dụng than cám 5a10 (phối trộn) có chất bốc cao, giá cao đã ảnh hưởng đến vận hành sản xuất và tham gia thị trường điện và hiệu quả của nhà máy trong 6 tháng cuối năm.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 561,
+      "text": "Tổng phát thải khí nhà kính (GHG) trực tiếp từ hoạt động sản xuất điện năng tại 4 nhà máy nhiệt điện của PV Power: 7.150.371,07 tấn CO2 quy đổi (theo Báo cáo kiểm kê khí thải năm 2022 số 337/ ĐLDK-ATSKMT ngày 07/03/2023 gửi Tập đoàn Dầu khí Việt Nam). Các sáng kiến và biện pháp giảm thiểu phát thải khí nhà kính: Theo kế hoạch đã đăng ký với Tập đoàn Dầu khí Việt Nam và được ban hành theo kế hoạch chung của Tập đoàn Dầu khí Việt Nam tại Quyết định số 2128/QĐ-DKVN ngày 19/04/2021 Tập đoàn Dầu khí Việt Nam về việc \"Ban hành kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu của Tập đoàn Dầu khí, giai đoạn 2018-2030\" PV Power có 13 giải pháp giảm nhẹ phát thải khí nhà kính thực hiện tại các nhà máy điện, dự kiến theo tính toán của Tập đoàn Dầu khí Việt Nam sẽ giảm thiểu được 160.884 tấn CO2e trong giai đoạn 2018-2025 và 109.420 tấn CO2e trong giai đoạn 2026-2030. Trong đó, trừ giải pháp vận hành nhà máy nhiệt điện Nậm Cắt (hiện nay không thuộc sở hữu PV Power), 12 giải pháp còn lại dự kiến giảm thiểu 101.252 tấn CO2e trong giai đoạn 20182025 và 72.150 tấn CO2e trong giai đoạn 2026-2030.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6
+      }
+    },
+    {
+      "paragraph_id": 597,
+      "text": "Ngày 13/08/2020 PV Power đã thành lập Công ty cổ phần Năng lượng tái tạo Điện lực Dầu khí (PV Power REC) với chức năng nhiệm vụ phát triển và sản xuất kinh doanh nguồn năng lượng tái tạo (nghiên cứu đầu tư các dự án điện mặt trời, điện rác, điện sinh khối và điện gió...). Đến 31/12/2022, PV Power REC có vốn điều lệ 60 tỷ đồng, PV Power đã góp 30,6 tỷ đồng, tương đương 51% vốn điều lệ từ nguồn vốn chủ sở hữu của PV Power.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 629,
+      "text": "Về lĩnh vực cung ứng nhiên liệu: PV Power đã nỗ lực phối hợp với các nhà cung cấp để đảm bảo nguồn than sản xuất cho Nhà máy điện Vũng Áng 1. Tổng khối lượng giao nhận than đến hết 31/12/2022 đạt 1.655.298 tấn/KH 3.200.000 tấn, tương đương 52% kế hoạch năm; Trong các tháng đầu năm 2022, công tác cấp than của TKV gặp rất nhiều khó khăn do thiếu nguồn than nhập khẩu (TKV tổ chức nhiều đợt đấu thầu mua than nhưng không có nhà cung cấp tham gia) và thiếu phương tiện vận chuyển, khối lượng giao nhận các tháng liên tục không đạt được như kế hoạch đăng ký dẫn đến lượng than tồn kho duy trì ở mức thấp trong khi A0 đang huy động công suất phát điện cao, nhà máy gặp phải tình trạng thiếu than cục bộ. Chất lượng than không đồng đều, một số mẫu than cơ sở có chất lượng vượt khung.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 9
+      }
+    },
+    {
+      "paragraph_id": 638,
+      "text": "Đối với các dự án nghiên cứu phát triển năng lượng tái tạo: Đối với hoạt động đầu tư năng lượng tái tạo: vượt qua nhiều khó khăn về thủ tục, kiên định với chiến lược chuyển dịch năng lượng và phát triển bền vững Tổng Công ty đã quyết liệt trong việc thực hiện các thủ tục đầu tư cho năng lượng tái tạo. Trong năm 2022, Tổng công ty đã nhận chuyển nhượng và quản lý 05 dự án điện mặt trời áp mái Phú Mỹ 1,2,3 và Dung Quất 1,2 (tổng công suất 4,6MWp).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1204,
+      "text": "[TABLE] [CONTEXT] section: Công ty Cổ phần Năng lượng tái tạo Điện lực Dầu khí [ROWS] TÊN ĐẦY ĐỦ | CÔNG TY CỔ PHẦN NĂNG LƯỢNG TÁI TẠO ĐIỆN LỰC DẦU KHÍ [ROW] ĐỊA CHỈ | Tầng 05, tòa nhà Viện Dầu khí Việt Nam, số 167 đường Trung Kính, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội, Việt Nam [ROW] MÃ SỐ CHI NHÁNH | 0109308963 [ROW] NGÀNH NGHỀ KINH DOANH CHÍNH | Sản xuất, truyền tải và bán điện; Nghiên cứu, đầu tư, phát triển, xây dựng, sở hữu, vận hành, khai thác các dự án năng lượng sạch, năng lượng tái tạo (điện gió, điện mặt trời, sinh khối, địa nhiệt và điện rác và các loại hình năng lượng tái tạo khác) [ROW] VỐN ĐIỀU LỆ | 60.000.000.000 đồng [ROW] TỶ LỆ NẮM GIỮ CỦA PV POWER | 51%",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 6
+      }
+    },
+    {
+      "paragraph_id": 1214,
+      "text": "[TABLE] [CONTEXT] section: 6.2. Quản lý nguồn nguyên vật liệu ; column_headers: Tiêu thụ nhiên liệu 2022 | Than (tấn) | Dầu DO (tấn) | Khí tự nhiên (Tr.Sm3) ; row_headers: Công ty Điện lực Dầu khí Hà Tĩnh | Công ty Điện lực Dầu khí Cà Mau | Công ty CP Điện lực Dầu khí Nhơn Trạch 2 | Công ty Điện lực Dầu khí Nhơn Trạch | Công ty CP Thủy điện Hủa Na | Công ty CP Thủy điện Đakđrinh [ROWS] Tên Nhà máy | Tiêu thụ nhiên liệu 2022 [ROW] Than (tấn) | Dầu DO (tấn) | Khí tự nhiên (Tr.Sm3) [ROW] Công ty Điện lực Dầu khí Hà Tĩnh | 1.530.922 | 2.212 | không áp dụng [ROW] Công ty Điện lực Dầu khí Cà Mau | không áp dụng | 1.107 | 773.648 [ROW] Công ty CP Điện lực Dầu khí Nhơn Trạch 2 | không áp dụng | 0 | 773,3 [ROW] Công ty Điện lực Dầu khí Nhơn Trạch | không áp dụng | 20 | 280,6 [ROW] Công ty CP Thủy điện Hủa Na | không áp dụng | - | không áp dụng [ROW] Công ty CP Thủy điện Đakđrinh | không áp dụng | - | không áp dụng",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1219,
+      "text": "[TABLE] [CONTEXT] section: 6.1. Đánh giá liên quan đến các chỉ tiêu môi trường (tiêu thụ nước, năng lượng, phát thải...) ; row_headers: Nước sạch tiêu thụ: | Nước mặt làm mát(1): | Tiêu thụ năng lượng (tỷ lệ điện tự dùng): | Tổng lượng khí thải: | Tổng lượng nước thải(2): | Chất thải rắn thông thường: | Tro xỉ nhiệt điện than | Chất thải nguy hại: [ROWS] Chỉ tiêu | Đơn vị | Khối lượng [ROW] Nước sạch tiêu thụ: | m3 | 1.498.036 [ROW] Nước mặt làm mát(1): | m3 | 1.244.007.323 [ROW] Tiêu thụ năng lượng (tỷ lệ điện tự dùng): | 3,96% [ROW] Tổng lượng khí thải: | triệu m3 | 85.953 [ROW] Tổng lượng nước thải(2): | m3 | 180.972.533 [ROW] Chất thải rắn thông thường: | tấn | 1.013.712 [ROW] Tro xỉ nhiệt điện than | tấn | 443.965 [ROW] Chất thải nguy hại: | tấn | 4.872",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E3": 0.777029
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 10,
+        "E3": 2
+      }
+    }
+  ]
+}

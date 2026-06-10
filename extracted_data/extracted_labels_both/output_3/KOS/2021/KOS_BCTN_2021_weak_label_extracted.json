@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 706,
+      "text": "[TABLE] [CONTEXT] section: c) Hợp đồng hoặc giao dịch với người nội bộ và bên liên quan ; column_headers: Bên liên quan | Mối quan hệ | Năm 2021 | Năm 2020 ; row_headers: Bà Nguyễn Thị Phương Thảo + Tạm ứng | + Hoàn ứng | Ông Nguyễn Việt Cường | + Tạm ứng | + Hoàn ứng ổ | g + Hoán đổi 14.000.000 cổ phiếu | của Công ty cổ phần Tư vấn | Bà Nguyễn Thị Hằng | g + Hoán đổi 3.500.000 cổ phiếu của Công ty cổ phần Tư vấn | đầu tư Xây dựng thủy điện | Ông Nguyễn Tiến Hoàn | Ông Đỗ Quốc Việt + Tạm ứng | Bà Hoàng Thị Yến | Bà Trần Thị Thu Hà | Bà Trần Thị Thu Hoài | + Chi phí hoạt động + Thanh toán tiền | Công ty cổ phần tập đoàn Sơn Phúc | + Xuất bán hàng hóa | + Thu tiền hàng | + Mua dịch vụ | + Thanh toán tiền mua dịch vụ [ROWS] Bên liên quan | Mối quan hệ | Năm 2021 | Năm 2020 [ROW] I. CÁ NHÂN [ROW] Bà Nguyễn Thị Phương Thảo + Tạm ứng | Ủy viên HĐQT/TV thân cận trong GĐ của Chủ tịch HĐQT | - | 200.000.000 [ROW] + Hoàn ứng | - | 200.000.000 [ROW] Ông Nguyễn Việt Cường | Chủ tịch HĐQT [ROW] + Tạm ứng | - | 81.900.000 [ROW] + Hoàn ứng ổ | - | 81.900.000 [ROW] g + Hoán đổi 14.000.000 cổ phiếu | 210.000.000.000 | - [ROW] của Công ty cổ phần Tư vấn [ROW] Bà Nguyễn Thị Hằng | Phó CT HĐQT/TV thân cận [ROW] + Tạm ứng | trong gia đình CT HĐQT | - | 4.075.000.000 4.075.000.000 [ROW] + Hoàn ứng ổ | - [ROW] g + Hoán đổi 3.500.000 cổ phiếu của Công ty cổ phần Tư vấn | 52.500.000.000 | - [ROW] đầu tư Xây dựng thủy điện [ROW] Ông Nguyễn Tiến Hoàn | Phó Tổng Giám đốc [ROW] + Tạm ứng | (miễn nhiệm ngày | - 258.000.000 | 1.388.000.000 [ROW] + Hoàn ứng | 01/03/2022) | 1.378.000.000 [ROW] Ông Đỗ Quốc Việt + Tạm ứng | Phó Tổng Giám đốc | - | 6.000.000 [ROW] + Hoàn ứng | - | 6.000.000 [ROW] Bà Hoàng Thị Yến | Thành viên Ban Kiểm soát [ROW] (miễn nhiệm ngày 18/06/2021) [ROW] + Tạm ứng | Người uỷ quyền công bố thông tin | - | 4.055.525.000 [ROW] + Hoàn ứng | (miễn nhiệm ngày 26/11/2021) | - | 4.845.525.000 [ROW] Bà Trần Thị Thu Hà | Thành viên Ban Kiểm soát | - [ROW] + Tạm ứng | 3.000.000.000 [ROW] + Hoàn ứng | - | 3.000.000.000 [ROW] Bà Trần Thị Thu Hoài [ROW] + Tạm ứng | Thành viên Ban Kiểm soát | 79.887.586 | - [ROW] + Hoàn ứng | 72.258.586 | - [ROW] + Chi phí hoạt động + Thanh toán tiền | 13.762.000 13.762.000 | - - [ROW] II. TỔ CHỨC [ROW] Công ty cổ phần tập đoàn Sơn Phúc | CT của TV thân cận trong [ROW] + Xuất bán hàng hóa | gia đình của CT HĐQT | - | 3.192.175.659 [ROW] + Thu tiền hàng | - | 5.232.035.098 [ROW] + Mua dịch vụ | 1.071.475.364 | 857.730.090 [ROW] + Thanh toán tiền mua dịch vụ | 140.000.000 | 621.623.100",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

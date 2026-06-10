@@ -1,0 +1,47 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 983,
+      "text": "Nhằm giảm thiểu tác động đến môi trường, Imexpharm đã triển khai nhiều biện pháp đồng bộ trong quản lý sản xuất và vận hành. Công ty đầu tư hệ thống xử lý nước thải hiện đại tại các nhà máy, đảm bảo nước thải đầu ra đáp ứng tiêu chuẩn môi trường. Đồng thời, Công ty còn hợp tác với đơn vị tái chế để xử lý chất thải rắn bằng công nghệ hiện đại, góp phần giảm thiểu lượng phát thải khí nhà kính so với phương pháp truyền thống. Hệ thống xử lý không khí hiện đại cũng được triển khai nhằm tối ưu hóa tiêu thụ năng lượng và nâng cao hiệu suất sản xuất. Bên cạnh đó, công ty thành lập Phòng SHE để giám sát các tiêu chuẩn môi trường. Ngoài ra, Imexpharm thường xuyên tổ chức đào tạo nội bộ về bảo vệ môi trường, phân loại rác thải và sử dụng năng lượng hiệu quả, tạo dựng văn hóa sản xuất bền vững trong toàn bộ hệ thống.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1177,
+      "text": "Chất thải trong quá trình sản xuất và sinh hoạt được Imexpharm phân chia thành 3 loại: chất thải rắn sinh hoạt, chất thải sản xuất không nguy hại và chất thải rắn nguy hại. Các loại chất thải được thu gom và lưu trữ tại các khu riêng biệt, nhằm tạo điều kiện thuận lợi cho việc tập kết rác và xử lý bởi các đơn vị xử lý theo hợp đồng.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    }
+  ]
+}

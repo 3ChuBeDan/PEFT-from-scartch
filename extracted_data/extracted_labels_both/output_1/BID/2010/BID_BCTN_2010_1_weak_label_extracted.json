@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Ông Nguyễn Khắc Thân tốt nghiệp Cử nhân Đại học Tài chính Kế toán, Chứng chỉ Cao học Kinh tế. Ông Thân bắt đầu làm việc tại BIDV từ năm 1979 và từng giữ các chức vụ trong ngành ngân hàng như: Giám đốc Ngân hàng Nhà nước tỉnh Bắc Ninh, Giám đốc Sở Giao dịch BIDV, Phó Tổng giám đốc BIDV. Ông Thân được bổ nhiệm Ủy viên HĐQT BIDV từ tháng 09/2008 đến nay.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

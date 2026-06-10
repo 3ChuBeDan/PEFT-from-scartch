@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 136,
+      "text": "Nhu th6ng 1€ hlng nim, Nam A Bank h5 trg cho CBi.Mang ldm viec t€n todn hQ th6ng di tham quan, nghi m6t ddi ngiry. Nam A Bank thudng xuyCn quan tam d6n rtoi s6ng v{t chdt va tinh thAn cta nguoi lao dQng, chi thnm h6i CBNV 6m thu, thim vi6ng ngusi qu6 cii (ffi than phu m6u), mtng ktit h6n cta CBIW, t4ng que cho CBNV Nt nhnn ngdy Quilc t6 Ph+ nt, t{ng qua vd t6 chtc c6c ho4t tlQng rui choi cho con CBNV nhdn ngdy QuSc t6 thi6u rhi,.... teo san choi ld,nh manh, thAn thiQn vd vui h.roi cho c6c CBI.IV qua c6c ho?t rlQng B niEm nhnng ngiry Ld lon cta tl6t nu6c, kf niQm ngdy thanh l4p Nam A Bank, ngdy thAnh lap Doen Thanh Ni6n... do Cdng dodn vd Doin Thanh ni6n Nam A Bank t6 chrtc. Ch6 dO cho vay uu dei diii v6i CBNV nhim tl6p img nhu cAu ti6u dtng, mua xe gEn m6y, xe 6 t6, nhe d,...v6i mtc vay vd thoi gian vay theo quy djnh cia Nam A Bank.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

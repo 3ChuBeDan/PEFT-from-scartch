@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: 20.3. Vốn nhận tài trợ từ các tổ chức quốc tế ; column_headers: 31/12/2011 triệu đồng | 31/12/2010 triệu đồng ; row_headers: Vốn nhận từ Japan Bank of International Corporation (“JBIC”) | Vốn nhận từ Kreditanstalt Fur Wiederaufbau – (“KFW“) | Vốn nhận từ European Commission –Project Small and Medium Enterprise Development Fund – (“SMEDEF”) | Vốn nhận từ JICA | Khác | Vốn vay thứ cấp từ IFC | Vốn nhận từ dự án Deutsche Investitions – und Entwicklunggsesellschaft mbH (“DEG“ ) | Vốn nhận từ chương trình Bảo lãnh Tiết kiệm và Hiệu quả Năng lượng | Vốn ODA nhận từ Hiệp hội phát triển quốc tế ( Ngân hàng thế giới) | Vốn nhận từ các tổ chức, cá nhân khác [ROWS] Tổ chức | 31/12/2011 triệu đồng | 31/12/2010 triệu đồng [ROW] Bằng đồng Việt Nam [ROW] Vốn nhận từ Japan Bank of International Corporation (“JBIC”) | 1.228.751 | 444.301 [ROW] Vốn nhận từ Kreditanstalt Fur Wiederaufbau – (“KFW“) | 136.621 | 138.992 [ROW] Vốn nhận từ European Commission –Project Small and Medium Enterprise Development Fund – (“SMEDEF”) | 17.775 | 44.470 [ROW] Vốn nhận từ JICA | - | 640.159 [ROW] Khác | 8.000 | - [ROW] 1.391.147 | 1.267.922 [ROW] Bằng ngoại tệ [ROW] Vốn vay thứ cấp từ IFC | 2.603.500 | - [ROW] Vốn nhận từ dự án Deutsche Investitions – und Entwicklunggsesellschaft mbH (“DEG“ ) | 271.566 | 283.742 [ROW] Vốn nhận từ chương trình Bảo lãnh Tiết kiệm và Hiệu quả Năng lượng | - | 32.184 [ROW] Vốn ODA nhận từ Hiệp hội phát triển quốc tế ( Ngân hàng thế giới) | 239.703 | 29.456 [ROW] Vốn nhận từ các tổ chức, cá nhân khác | 626 | - [ROW] 3.115.395 | 345.382 [ROW] 4.506.542 | 1.613.304",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

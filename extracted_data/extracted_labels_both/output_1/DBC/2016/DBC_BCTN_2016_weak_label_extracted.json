@@ -1,0 +1,65 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 421,
+      "text": "Tập đoàn luôn thực hiện đúng các quy định của pháp luật về bảo vệ môi trường. Tuân thủ việc lập báo cáo đánh giá tác động môi trường (ĐTM) trước khi triển khai xây dựng; Thực hiện quan trắc môi trường mỗi năm 2 lần và lập báo cáo hiện trạng môi trường định kỳ nộp cho các cơ quan quản lý môi trường để kịp thời khắc phục những ảnh hưởng từ hoạt động sản xuất kinh doanh, đảm bảo các chỉ tiêu về môi trường đáp ứng các tiêu chuẩn qui định.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E_COMMON": 1.0,
+        "S6": 0.5
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3,
+        "S6": 1
+      }
+    },
+    {
+      "paragraph_id": 441,
+      "text": "-Tổ chức thăm hỏi CBCNV -LĐ lúc ốm đau, thai sản, sinh nhật, đám hiếu, hỷ của bản thân người lao động và tứ thân phụ mẫu; tặng quà cho cán bộ nữ CNVC – LĐ nhân dịp 8/3; tặng quà cho các cháu là con cán bộ công nhân viên công ty có thành tích học tập tốt, ngày Quốc tế thiếu nhi và Tết Trung thu . ..",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 900,
+      "text": "[TABLE] [CONTEXT] section: 1 . ; column_headers: Đia chl tru sò chính | STT | quyết (%) | Hoat dông chinh trong nám [ROWS] STT | quyết (%) | Đia chl tru sò chính | Hoat dông chinh trong nám [ROW] 3 | Cong ty TNHH Chan nuói gia | 100 | 100 | Cum Công nghIệp Ninh | Chan nuói, các hoat động hỗ trợ chan nuôi , mua bán và đai lý, [ROW] ty TNHH nuói Lon Dabaco Công | 100 | 100 | Cum xà Lac Vê, huyen Ninh Còng | sản xuât va kinh doann lon thương phảm [ROW] 5 | Công ty TNHH MTV Ga gióng Dabaco | 100 | 100 | Lạc Ve, huyen Tiên Du; tinh Bác Ninh [ROW] Công ty TNHH Thực phảm Dabaco | 100 | 100 | Lac Ve, huyên Tien Du; tinh Bác Ninn | Giét mỏ, ché bién thjt gia [ROW] ty TNHH MTV Dabaco Công Tay | 100 | 100 | Cum công nghiệp Mông Hóa, xá Mông Hóa, huyen Kỳ Son; tỉnh Hòa Binh | Sản xuat thức ản gia súc gia cầm và thúy sản; sàn phảm tử tinh bột; ché biến thuc phẩm; bán buôn, bán gia câm và thủy sàn [ROW] 8 | Công ty TNHH nghiệp Công nghệ cao Dabaco Nông | 100 | 100 | Lac Vệ, huyen Ninh | an toan úng dung nghe cao [ROW] Công ty TNHH MTV Thuong mai Hỉẻp Quang | 100 | 100 | Khu công nghiệp Bac Ninh tinh Bác Ninh | Sản xuát, kinh doanh thực bl nhua PP PE composit; thuong djch vu [ROW] 10 | Công ty TNHH Dịch vu Bác Ninh mai | 100 | 100 | Bac Ninh, tinh Bác Ninh phó | Mua bản, xuát nhập khẩu dịch khách nha hàng, siêu thi, trung tâm thuong mai. [ROW] 11 | Công ty TNHH Dabaco | 100 | 100 | Techcombank, đường Nguyễn phó Bắc Ninh, tinh Bắc Ninh | Kinh doanh bát đông sàn; quảng cáo, san giao dich giá,",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

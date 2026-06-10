@@ -1,0 +1,58 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S0"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S0"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tỉ lệ điện năng lượng mặt trời/ Điện lưới: 1.528.867 / 4.496.989 ~ 33,99% Như vậy, năng lượng tái tạo từ hệ thống điện mặt trời áp mái của SCSC trong năm 2025 đã thay thế khoảng 34% điện lưới.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Ratio of solar energy to grid electricity: 1,528,867 / 4,496,989 ~ 33.99%. Thus, the renewable energy from SCSC's rooftop solar power system in 2025 replaced approximately 34% of grid electricity.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    }
+  ]
+}

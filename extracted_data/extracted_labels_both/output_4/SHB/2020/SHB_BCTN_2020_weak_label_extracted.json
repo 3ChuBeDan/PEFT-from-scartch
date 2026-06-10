@@ -1,0 +1,107 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 316,
+      "text": "Thông qua hoạt động hỗ trợ đẩy mạnh quan hệ hợp tác với các ngân hàng quốc tế, SHB xây dựng các cơ chế kiểm soát công tác phòng, chống rửa tiền phù hợp với các quy định trong và ngoài nước, đáp ứng được các chuẩn mực của quốc tế, tạo điều kiện cần thiết để hợp tác với ngân hàng quốc tế, thông qua đó tăng cường hệ thống ngân hàng đại lí, nâng cao doanh thu đem lại từ các giao dịch thanh toán quốc tế. Các cơ chế kiểm soát đang được thực hiện bao gồm: xây dựng và thường xuyên cập nhật danh sách các quốc gia bị cấm vận và các lĩnh vực/ đồng tiền bị cấm vận bởi từng quốc gia; cảnh báo, khuyến nghị về quan hệ đại lý đối với những ngân hàng có rủi ro cao hoặc không đáp ứng yêu cầu về phòng chống rửa tiền và tài trợ khủng bố. Cho đến nay, chưa có một giao dịch thanh toán quốc tế nào của SHB bị đóng băng do vi phạm quy định cấm vận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "G11": 1.0
+      },
+      "themes": [
+        "E2",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 804,
+      "text": "Hơn 1⁄4 thế kỷ qua, từng người SHB đã nỗ lực không ngừng để sống, cống hiến, và kiến tạo một tương lai tươi sáng hơn cho chính bản thân, gia đình, tập thể và cả cộng đồng, dân tộc. Tinh thần nhân văn ấy xuất phát từ tấm lòng nhân ái của Hội đồng Quản trị và Ban Lãnh đạo ngân hàng, dần lan tỏa trở thành tinh thần chung đặc trưng và đầy tự hào trong văn hóa doanh nghiệp của SHB.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 861,
+      "text": "Nhận thức rõ hệ thống ngân hàng đóng vai trò như một mắt xích trung gian có tác động đến môi trường thông qua hoạt động của khách hàng, SHB đã xanh hóa dòng vốn đầu tư thông qua việc hướng các nguồn lực tài chính vào những lĩnh vực xanh như doanh nghiệp ứng dụng công nghệ cao, các dự án năng lượng tái tạo, công nghiệp hỗ trợ, nông nghiệp nông thôn, các dự án thủy điện nhỏ và vừa, sinh khối, xử lý nước thải, rác thải... nhằm tăng dần tỷ trọng tín dụng xanh trong cơ cấu danh mục đầu tư tín dụng, góp phần thúc đẩy khách hàng vay vốn chuyển đổi dự án và mục đích sử dụng vốn vay sang các dự án thân thiện với môi trường. Với",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1279,
+      "text": "[TABLE] [CONTEXT] section: Cơ hội ; column_headers: Yếu tố vĩ mô | Tác động lên hệ thống Ngân hàng trong đó có SHB | Xu hướng | Trung Hạn | Dài hạn ; row_headers: >Tăng trưởng kinh tế ổn định; cơ cấu tăng trưởng chuyển dịch sang hướng bền vững | >Lạm phát ổn định và được điều hành thận trọng không đánh đổi để đạt được tăng trưởng | >Lĩnh vực sản xuất tiềm năng, và liên tục được cải thiện | >Khu vực tư nhân được đề cao là đầu tàu dẫn dắt tăng trưởng | Hấp thụ dòng vốn đầu tư dài hạn | >Cơ cấu dân số lao động trẻ tăng và có xu hướng chuyển dịch sang vùng kinh tế trọng tâm | >Thương mại XNK chịu nhiều áp lực ngắn hạn từ xung đột lợi ích thương mại toàn cầu giữa các nước lớn | >Tham gia các hiệp định thương mại toàn cầu như: FTA-EU; CTTP giúp Việt Nam tham gia vào chuỗi giá trị toàn cầu. [ROWS] Yếu tố vĩ mô | Tác động lên hệ thống Ngân hàng trong đó có SHB [ROW] Xu hướng | Trung Hạn | Dài hạn [ROW] >Tăng trưởng kinh tế ổn định; cơ cấu tăng trưởng chuyển dịch sang hướng bền vững | Ổn định | Tích cực | Tích cực [ROW] >Lạm phát ổn định và được điều hành thận trọng không đánh đổi để đạt được tăng trưởng | Ổn định | Tích cực | Tích cực [ROW] >Lĩnh vực sản xuất tiềm năng, và liên tục được cải thiện | Tăng | Tích cực | Tích cực [ROW] >Khu vực tư nhân được đề cao là đầu tàu dẫn dắt tăng trưởng | Tăng | Tích cực | Tích cực [ROW] Hấp thụ dòng vốn đầu tư dài hạn | Tăng | Tích cực | Tích cực [ROW] >Cơ cấu dân số lao động trẻ tăng và có xu hướng chuyển dịch sang vùng kinh tế trọng tâm | Tăng | Tích cực | Tích cực [ROW] >Thương mại XNK chịu nhiều áp lực ngắn hạn từ xung đột lợi ích thương mại toàn cầu giữa các nước lớn | Tăng | Tiêu cực | Ổn định [ROW] >Tham gia các hiệp định thương mại toàn cầu như: FTA-EU; CTTP giúp Việt Nam tham gia vào chuỗi giá trị toàn cầu. | Cải thiện | Tích cực | Tích cực",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.777029,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1314,
+      "text": "[TABLE] [CONTEXT] section: (ii) Dự phòng rủi ro tín dụng cụ thể ; column_headers: Nhóm | Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm | Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) | Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc | 0% [ROW] (b) | Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 | Nợ cần chú ý | (a) | Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc | 5% [ROW] (b) | Nợ điều chỉnh kỳ hạn trả nợ lần đầu. [ROW] 3 | Nợ dưới tiêu chuẩn | (a) | Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc | 20% [ROW] (b) | Nợ gia hạn nợ lần đầu; hoặc [ROW] (c) | Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc [ROW] (d) | Nợ thuộc một trong các trường hợp sau đầy chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: [ROW] • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc [ROW] • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. [ROW] (e) | Nợ trong thời hạn thu hồi theo kết luận thanh tra. [ROW] (a) [ROW] Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc | 50% [ROW] (d) | Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc [ROW] (e) | Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "lọc, chấm điểm khách hàng ban đầu, nhận diện khách hàng tiềm ẩn rủi ro gian lận, mô hình thu nhập, mô hình hành vi, mô hình cảnh báo sớm; tinh gọn quy trình, chính sách; thành lập và triển khai dự án hệ thống hóa quy trình tín dụng trên nền tảng duy nhất (BPM risk), luồng hê duyệt tín dụng tự động (Straight Through Process - STP); áp dụng công nghệ AI, liveliness, logical rules...để quản trị rủi ro gian lận khi cấp tín dụng trên hành trình số .",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Năm 2023, MSB sẽ cập nhật các chính sách phòng chống gian lận, cải tiến mô hình chấm điểm gian lận (fraud score model), cải tiến quy tắc phát hiện gian lận (fraud detection rules) và tăng cường xác thực thông tin với bên thứ ba qua API để phòng chống gian lận trên môi trường số, tăng cường bảo đảm an toàn thông tin đối với chuyển đổi số (bao gồm an toàn thông tin đối với việc sử dụng điện toán đám mây – cloud computing, cơ sở dữ liệu lớn – big data), diễn tập làm việc tại các văn phòng thay thế, tổ chức kiểm thử thành công hệ thống dự phòng cho các hệ thống trọng yếu.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Mục tiêu PTBV (Sustainable Development Goals – – SDGs) ; column_headers: Lĩnh vực | Khía cạnh | Mục tiêu PTBV (Sustainable Development Goals – – SDGs) [ROWS] Lĩnh vực | Khía cạnh | Mục tiêu PTBV (Sustainable Development Goals – – SDGs) [ROW] Xã hội (Social) |  Đối với người lao động: - Tiếp tục duy trì, bổ sung thêm các hoạt động hỗ trợ, chăm lo đời sống và tinh thần cho toàn thể nhân viên nhằm đạt được hiệu quả cao trong công việc. - Đảm bảo duy trì chất lượng cơ sở vật chất nhằm tạo không gian làm việc chuyên nghiệp, thoải mái và thân thiện. - Triển khai các khóa đào tạo nội bộ chuyên sâu cho các cán bộ nhân viên cấp cao, cũng như những khóa đào tạo hội nhập hỗ trợ các nhân sự mới trong công việc. - Phát triển môi trường làm việc lành mạnh, tạo điều kiện cho nhân sự không ngừng bồi dưỡng, nâng cao và phát triển bản thân. - Tôn trọng giới tính, không phân biệt đối xử khi tuyển dụng, làm việc và cơ hội thăng tiến. - Duy trì giám sát và thực hiện nghiêm ngặt các nguyên tắc bình đẳng trong công việc.  Đối với cộng đồng: - Đầu tư có trách nhiệm và đồng hành cùng các dự án được đầu tư.  Tích cực tham gia các hoạt động cộng đồng tại các địa phương mà các chi nhánh MSB có mặt, góp phần nâng cao chất lượng cuộc sống. | 3 5 10 [ROW] Quản trị (Governance) |  Đảm bảo cơ cấu quản trị hiệu quả, tuân thủ các quy định về quản trị công ty và các luật quy định  Đảm bảo quyền lợi cổ đông, đối xử công bằng giữa các cổ đông  Đảm bảo vai trò, quyền lợi của các bên liên quan  Đảm bảo minh bạch trong mọi hoạt động  Đảm bảo sự giám sát của HĐQT và Ban Lãnh đạo",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.5 Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro cho các khoản nợ (tiếp theo) ; column_headers: Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) (b) | Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ | 0% [ROW] 2 | Nợ cần chú ý | (a) (b) | Nợ quá hạn đến 90 ngày trừ khoản nợ quy định tại điểm (b) của Nhóm 1; hoặc Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) (b) (c) (d) (e) (f) (g) | Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc Nợ gia hạn nợ lần đầu còn trong hạn; hoặc Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: ► Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc ► Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc ► Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng do khách hàng vi phạm thỏa thuận với Ngân hàng chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin | 20% [ROW] 4 | Nợ nghi ngờ | (a) (b) | Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc | 50%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

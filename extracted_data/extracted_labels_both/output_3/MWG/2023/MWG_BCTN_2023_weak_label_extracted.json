@@ -1,0 +1,86 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Rác thải điện tử (phụ kiện, pin, đồng hồ,..) được phân loại và xử lý đúng để giảm thiểu tác hại lên môi trường. Các rác thải điện tử sau khi đã được xem xét các phương án tận dụng tối đa để sửa chữa, thiết bị sẽ được chuyển cho đơn vị thứ 3 có giấy phép xử lý. Hiện MWG đang hợp tác với Công ty cổ phần Môi trường Việt Úc để xử lý rác thải điện tử. Trong năm 2023, lượng chất thải nguy hại được xử lý là 184 kg.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "MWG và Limloop - một doanh nghiệp xã hội với đã hợp tác triển khai các dự án tái chế băng rôn, áp phích hướng tới các chuỗi tới kinh tế tuần hoàn. Sau 2 tháng triển khai dự án, MWG cùng Limloop đã thu gom hơn 2,5 tấn băng rôn, áp phích quảng cáo tại hệ thống siêu thị Thế Giới Di Động, Điện máy Xanh, Bách hóa Xanh và Nhà Thuốc An Khang để sản xuất thành các sản phẩm túi thời trang thân thiện với môi trường, nhằm giảm rác thải nhựa và tiên phong hướng tới nền Kinh Tế Tuần Hoàn. Ngoài ra, chương trình cũng góp phần tạo công ăn việc làm cho 17 thành viên, đa phần là người yếu thế trong xã hội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI ; column_headers: Chỉ tiêu GRI | Số chỉ tiêu | Tiêu đề Chỉ tiêu GRI | Trang [ROWS] Chỉ tiêu GRI [ROW] Số chỉ tiêu | Tiêu đề Chỉ tiêu GRI | Trang [ROW] GRI 302 | Năng lượng [ROW] 302-1 | Tiêu thụ năng lượng trong tổ chức | 19, 20, 22 [ROW] 302-3 | Cường độ sử dụng Năng lượng | 20 [ROW] 302-4 | Giảm tiêu hao năng lượng | 19, 20 [ROW] 302-5 | Giảm nhu cầu năng lượng của sản phẩm và dịch vụ | 19 [ROW] GRI 305 | Phát thải [ROW] 305-1 | Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) | 21 [ROW] 305-2 | Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) | 21 [ROW] 305-3 | Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) | 21 [ROW] 305-5 | Giảm phát thải khí nhà kính (GHG) | 19 [ROW] GRI 306 | Chất thải [ROW] 306-1 | Phát sinh chất thải và các tác động đáng kể liên quan đến chất thải | 22 - 24 [ROW] 306-2 | Quản lý các tác động đáng kể liên quan đến chất thải | 22 - 24 [ROW] 306-4 | Chất thải được chuyển hướng khỏi việc thải bỏ | 29, 22 [ROW] 306-5 | Chất thải được xử lý | 22 [ROW] GRI 308 | Đánh giá Nhà cung cấp về Môi trường [ROW] 308-1 | Các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về môi trường | 39 [ROW] 308-2 | Các tác động môi trường tiêu cực trong chuỗi cung ứng và các hành động đã thực hiện | 39 [ROW] GRI 401 | Việc làm [ROW] 401-1 | Số lượng nhân viên thuê mới và tỷ lệ thôi việc | 30 [ROW] 401-2 | Phúc lợi cung cấp cho nhân viên toàn thời gian không dành cho nhân viên tạm thời hoặc bán thời gian | 34 [ROW] GRI 402 | Mối quan hệ Lao động/ Quản lý",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI ; column_headers: Chỉ tiêu GRI | Số chỉ tiêu | Tiêu đề Chỉ tiêu GRI | Trang [ROWS] Chỉ tiêu GRI [ROW] Số chỉ tiêu | Tiêu đề Chỉ tiêu GRI | Trang [ROW] 408-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động trẻ em | 32 [ROW] GRI 409 | Lao động Cưỡng bức hoặc Bắt buộc [ROW] 409-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc | 32 [ROW] GRI 413 | Cộng đồng Địa phương [ROW] 413-1 | Những hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển | 22 - 24, 35 - 36 [ROW] GRI 414 | Đánh giá Nhà cung cấp về mặt Xã hội [ROW] 414-1 | Các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về mặt xã hội | 39 [ROW] 414-2 | Các tác động xã hội tiêu cực trong chuỗi cung ứng và các hành động đã thực hiện | 39 [ROW] GRI 416 | Sức khỏe và An toàn của Khách hàng [ROW] 416-1 | Đánh giá tác động về sức khỏe và an toàn của các loại sản phẩm và dịch vụ | 26 [ROW] 416-2 | Các vụ việc không tuân thủ liên quan đến tác động sức khỏe và an toàn của các sản phẩm và dịch vụ | 26 [ROW] GRI 417 | Tiếp thị và Nhãn hiệu [ROW] 417-1 | Các yêu cầu đối với thông tin nhãn hiệu, sản phẩm và dịch vụ | 26 [ROW] 417-2 | Các vụ việc không tuân thủ liên quan đến thông tin và nhãn hiệu của sản phẩm và dịch vụ | 26 [ROW] 417-3 | Các vụ việc không tuân thủ liên quan đến truyền thông tiếp thị | 26 [ROW] GRI 418 | Quyền bảo mật thông tin khách hàng [ROW] 418-1 | Khiếu nại có căn cứ về việc vi phạm Quyền bảo mật thông tin khách hàng và mất dữ liệu khách hàng | 40",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.623009,
+        "S4": 0.963863,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "S4": 3,
+        "S6": 3
+      }
+    }
+  ]
+}

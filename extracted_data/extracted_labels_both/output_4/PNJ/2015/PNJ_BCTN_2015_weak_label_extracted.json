@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Đầu tư kết nối tích hợp hệ thống thông tin quản lý thông minh (SB); đảm bảo an toàn của hệ thống thông tin (gồm bản quyền), soát xét phương án ứng phó với sự cố lớn tiềm ẩn.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

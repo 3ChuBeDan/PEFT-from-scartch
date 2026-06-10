@@ -1,0 +1,176 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 1028,
+      "text": "Nước thải sinh hoạt: phát sinh trong quá trình sinh hoạt của công nhân viên, học viên làm việc và học nghề trong Công ty như: nước thải từ nhà vệ sinh, nước rửa chân tay, nước rửa sàn, nước giặt giũ quần áo cho công nhân viên, nước thải từ hệ thống máy điều hòa không khí... Lưu lượng nước thải phát sinh từ quá trình sinh hoạt của Công ty khoảng 80~90m3/ ngày x đêm. Thành phần nước thải này chứa chủ yếu là: các chất cặn bã, các chất dinh dưỡng (N, P), chất rắn lơ lửng (SS), COD, các chất hữu cơ (BOD5 và các vi khuẩn)... nếu không được xử lý trước khi thải ra môi trường sẽ gây ô nhiễm tới môi trường nước, đất trong khu vực.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1041,
+      "text": "Theo kết quả phân tích nước thải của PNJP vào đợt lấy mẫu gần nhất (Tháng 11/2021) thì tất cả các chỉ tiêu phân tích trong mẫu nước thải sau Hệ thống xử lý nước thải đều đạt QCVN 40:2011/BTNMT, loại B – Quy chuẩn kỹ thuật quốc gia về nước thải công nghiệp.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1073,
+      "text": "Chất thải nguy hại được phân loại, thu gom và lưu trữ vào kho chứa chất thải nguy hại đáp ứng đầy đủ yêu cầu của luật. PNJP đã hợp đồng với các đơn vị có chức năng để thu gom, vận chuyển và xử lý các chất thải nguy hại trên theo đúng quy định của luật. Ngoài ra, PNJP đã tiến hành đăng ký Sổ Chủ nguồn thải chất thải nguy hại với Sở Tài nguyên và Môi trường TP. HCM và định kỳ báo cáo công tác quản lý chất thải nguy hại lên cơ quan quản lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    },
+    {
+      "paragraph_id": 1090,
+      "text": "Khí thải từ hệ thống thoát nước và hệ thống xử lý nước thải: thành phần chất ô nhiễm từ hệ thống thoát nước và hệ thống xử lý nước thải rất đa dạng như: NH3, H2S, Mecaptan, ... các khí này có khả năng gây mùi nên có thể sẽ gây ảnh hưởng đến các khu vực trong công ty. Tuy nhiên, lượng khí này phát sinh không nhiều. Mặt khác, hệ thống thoát nước và xử lý nước thải được thiết kế kín nên khả năng ảnh hưởng đến môi trường là không đáng kể.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 1485,
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY ASEAN ; column_headers: Nội dung | Đánh giá | Kết quả thực hiện năm 2021 & Cam kết/định hướng trong năm 2022 và thời gian tới [ROWS] Nội dung | Đánh giá | Kết quả thực hiện năm 2021 & Cam kết/định hướng trong năm 2022 và thời gian tới [ROW] Công ty có công bố công khai vào ngày làm việc tiếp theo kết quả biểu quyết đối với tất cả nghị quyết trong ĐHĐCĐ gần nhất? | Tuân thủ [ROW] Các tờ trình cần thiết được công bố ít nhất 21 ngày trước khi diễn ra ĐHĐCĐ? | Tuân thủ [ROW] Công ty có cung cấp giải thích cho từng nội dung cần sự chấp thuận của cổ đông trong thông báo ĐHĐCĐ / thông tư và / hoặc tuyên bố kèm theo không? | Tuân thủ [ROW] Quyền của cổ đông tham đề xuất các nội dung trong cuộc họp ĐHĐCĐ | Tuân thủ [ROW] Trong các trường hợp sáp nhập, mua lại và/hoặc thâu tóm cần được cổ đông thông qua, thành viên/ ủy viên HĐQT của công ty được đề nghị có bổ nhiệm một bên độc lập đánh giá sự hợp lý của giá giao dịch sáp nhập, mua lại? | Tuân thủ [ROW] Công ty có áp dụng nguyên tắc đối với Cổ phiếu phổ thông là một cổ phiếu tương đương một phiếu biểu quyết | Tuân thủ [ROW] Trong trường hợp Công ty có nhiều hơn 1 loại cổ phiếu, Công ty có công bố quyền biểu quyết gắn với từng loại cổ phần | Tuân thủ | Công ty hiện chưa có trường hợp này [ROW] Có cung cấp tiểu sử của thành viên/ủy viên HĐQT (tối thiểu là tuổi, trình độ chuyên môn, ngày bổ nhiệm đầu tiên, kinh nghiệm, và nhiệm kỳ thành viên HĐQT trong các công ty niêm yết khác) sẽ được bầu chọn/bầu chọn lại? | Tuân thủ [ROW] Tài liệu họp nêu danh sách Công ty kiểm toán lựa chọn? | Tuân thủ [ROW] Các tài liệu cuộc họp dễ dàng tìm kiếm hoặc được đính kèm trong thông báo họp ĐHĐCĐ | Tuân thủ [ROW] Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Tuân thủ [ROW] Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Tuân thủ [ROW] Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích hoặc xung đột lợi ích của họ trong các giao dịch | Tuân thủ [ROW] Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích hoặc xung đột lợi ích của họ trong các giao dịch | Tuân thủ [ROW] Công ty có quy định yêu cầu phải có một tiểu ban gồm các thành viên HĐQT độc lập xem xét các giao dịch quan trọng để xác định rằng chúng có lợi cho công ty và cho cổ đông? | Tuân thủ | UBKT thuộc HĐQT thực hiện chức năng này. [ROW] Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Tuân thủ [ROW] Công ty có chính sách về các khoản cho vay đối với thành viên HĐQT | Tuân thủ",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "paragraph_id": 1494,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM PHẠT ; column_headers: Nội dung | Đánh giá | Kết quả thực hiện năm 2021 ; row_headers: Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, BĐH và nhân viên công ty trong ba năm qua? | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/ phá sản/thương mại/cạnh tranh hay môi trường? | Có bằng chứng gì là Công ty đã không tuân thủ quy tắc và quy định nào về niêm yết trong năm qua ngoài các quy định về CBTT? | Công ty có thành viên độc lập HĐQT nào đã phục vụ trong hơn 9 năm hay 2 nhiệm kỳ 5 năm cùng chức trách? | Công ty có thành viên HĐQT không điều hành/độc lập nào phục vụ tại hơn 5 HĐQT của các Công ty niêm yết? | Công ty có nhận được “ý kiến bất lợi” trong Báo cáo kiểm toán độc lập? | Chủ tịch có phải là TGĐ Công ty trong 3 năm qua? | Công ty có sửa đổi BCTC vì những lý do khác với thay đổi trong chính sách kế toán? | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không CBTT trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | Có trường hợp nào mà thành viên HĐQT không điều hành đã từ nhiệm và nêu ra bất kỳ lo ngại nào liên quan đến quản trị? | Trong 2 năm qua có thành viên HĐQT hay lãnh đạo điều hành cấp cao nào từng là NV hoặc thành viên hợp danh của Công ty kiểm toán độc lập hiện tại? | Công ty đã không xác định rõ ai là thành viên độc lập HĐQT? | Công ty có nhận được “ý kiến loại trừ” trong Báo cáo kiểm toán độc lập? | Công ty có nhận được “từ chối đưa ra ý kiến” trong Báo cáo kiểm toán độc lập? [ROWS] Nội dung | Đánh giá | Kết quả thực hiện năm 2021 [ROW] ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG [ROW] Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, BĐH và nhân viên công ty trong ba năm qua? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/ phá sản/thương mại/cạnh tranh hay môi trường? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không CBTT trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] CÔNG BỐ THÔNG TIN VÀ MINH BẠCH [ROW] Công ty có nhận được “ý kiến loại trừ” trong Báo cáo kiểm toán độc lập? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Công ty có nhận được “ý kiến bất lợi” trong Báo cáo kiểm toán độc lập? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Công ty có nhận được “từ chối đưa ra ý kiến” trong Báo cáo kiểm toán độc lập? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Công ty có sửa đổi BCTC vì những lý do khác với thay đổi trong chính sách kế toán? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] TRÁCH NHIỆM CỦA HĐQT [ROW] Có bằng chứng gì là Công ty đã không tuân thủ quy tắc và quy định nào về niêm yết trong năm qua ngoài các quy định về CBTT? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Có trường hợp nào mà thành viên HĐQT không điều hành đã từ nhiệm và nêu ra bất kỳ lo ngại nào liên quan đến quản trị? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Công ty có thành viên độc lập HĐQT nào đã phục vụ trong hơn 9 năm hay 2 nhiệm kỳ 5 năm cùng chức trách? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Công ty đã không xác định rõ ai là thành viên độc lập HĐQT? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Công ty có thành viên HĐQT không điều hành/độc lập nào phục vụ tại hơn 5 HĐQT của các Công ty niêm yết? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Trong 2 năm qua có thành viên HĐQT hay lãnh đạo điều hành cấp cao nào từng là NV hoặc thành viên hợp danh của Công ty kiểm toán độc lập hiện tại? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Chủ tịch có phải là TGĐ Công ty trong 3 năm qua? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm [ROW] Chủ tịch có phải là TGĐ Công ty trong 3 năm qua? | Tuân thủ | Tiếp tục thực hiện để đảm bảo không có vi phạm",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1495,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM THƯỞNG ; column_headers: Đánh giá | Kết quả thực hiện năm 2021 ; row_headers: Công ty có cho phép sử dụng biểu quyết vắng mặt bằng phương thức điện tử có đảm bảo tại Đại hội cổ đông? | Công ty có ra thông báo về ĐHĐCĐ (có chương trình chi tiết và thông báo giải thích), như thông báo cho Sở Giao dịch, tối thiểu 28 ngày trước ngày họp? | Công ty có thực hiện khuôn khổ báo cáo được quốc tế công nhận về PTBV (nghĩa là GRI, Báo cáo Tích hợp, SASB) không? | Công ty có công bố chính sách và các mục tiêu có thể đo lường để thực thi sự đa dạng của HĐQT và Báo cáo tiến độ đạt được? | Hội đồng đề cử có thực hiện quy trình xây dựng tiêu chí chất lượng các thành viên HĐQT phù hợp với định hướng chiến lược của công ty? | Công ty có sử dụng các công ty tìm kiếm hay nguồn ứng cử viên độc lập bên ngoài (như cơ sở dữ liệu thành viên HĐQT do các viện thành viên HĐQT hay hiệp hội cổ đông thiết lập) khi tìm kiếm ứng cử viên cho thành viên HĐQT? | HĐQT có mô tả quy trình quản trị về vấn đề liên quan công nghệ thông tin như gián đoạn, an ninh mạng, khôi phục thảm hoạ, để đảm bảo rằng tất cả các rủi ro chính được xác định, quản lý và báo cáo cho HĐQT? | Báo cáo tài chính hàng năm được kiểm toán có được công bố công khai trong vòng 60 ngày kể từ khi kết thúc năm tài chính? | Công ty có công bố chi tiết về thù lao của TGĐ? | Công ty có tối thiểu một thành viên độc lập HĐQT là nữ? | Ủy ban đề cử có bao gồm các thành viên HĐQT/Thành viên độc lập không? | Công ty có Tiểu ban QLRR riêng biệt? | Công ty có số thành viên độc lập HĐQT/ không điều hành chiếm trên 50% số thành viên HĐQT với chủ tịch là thành viên độc lập? [ROWS] Nội dung | Đánh giá | Kết quả thực hiện năm 2021 [ROW] QUYỀN CỦA CỔ ĐÔNG [ROW] Công ty có cho phép sử dụng biểu quyết vắng mặt bằng phương thức điện tử có đảm bảo tại Đại hội cổ đông? | Chưa thực hiện | Xem xét cải thiện trong thời gian tới [ROW] ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG [ROW] Công ty có ra thông báo về ĐHĐCĐ (có chương trình chi tiết và thông báo giải thích), như thông báo cho Sở Giao dịch, tối thiểu 28 ngày trước ngày họp? | Tuân thủ | Tiếp tục thực hiện [ROW] VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] Công ty có thực hiện khuôn khổ báo cáo được quốc tế công nhận về PTBV (nghĩa là GRI, Báo cáo Tích hợp, SASB) không? | Tuân thủ | Tiếp tục thực hiện [ROW] CÔNG BỐ THÔNG TIN VÀ MINH BẠCH [ROW] Báo cáo tài chính hàng năm được kiểm toán có được công bố công khai trong vòng 60 ngày kể từ khi kết thúc năm tài chính? | Tuân thủ | BCTC hằng năm được kiểm toán luôn luôn được công bố công khai trong vòng 60 ngày kể từ khi kết thúc năm tài chính và trước ĐHĐCĐ thường niên (thường diễn ra vào T4) [ROW] Công ty có công bố chi tiết về thù lao của TGĐ? | Tuân thủ một phần [ROW] TRÁCH NHIỆM CỦA HĐQT [ROW] Công ty có tối thiểu một thành viên độc lập HĐQT là nữ? | Tuân thủ | Tiếp tục thực hiện [ROW] Công ty có công bố chính sách và các mục tiêu có thể đo lường để thực thi sự đa dạng của HĐQT và Báo cáo tiến độ đạt được? | Tuân thủ | Tiếp tục thực hiện [ROW] Ủy ban đề cử có bao gồm các thành viên HĐQT/Thành viên độc lập không? | Tuân thủ | Tiếp tục thực hiện [ROW] Hội đồng đề cử có thực hiện quy trình xây dựng tiêu chí chất lượng các thành viên HĐQT phù hợp với định hướng chiến lược của công ty? | Tuân thủ | Tiếp tục thực hiện [ROW] Hội đồng đề cử có thực hiện quy trình xây dựng tiêu chí chất lượng các thành viên HĐQT phù hợp với định hướng chiến lược của công ty? | Tuân thủ | Tiếp tục thực hiện [ROW] Công ty có sử dụng các công ty tìm kiếm hay nguồn ứng cử viên độc lập bên ngoài (như cơ sở dữ liệu thành viên HĐQT do các viện thành viên HĐQT hay hiệp hội cổ đông thiết lập) khi tìm kiếm ứng cử viên cho thành viên HĐQT? | Tuân thủ | Tiếp tục thực hiện [ROW] Công ty có số thành viên độc lập HĐQT/ không điều hành chiếm trên 50% số thành viên HĐQT với chủ tịch là thành viên độc lập? | Tuân thủ | Trong 9 thành viên HĐQT có 3 thành viên độc lập và 03 thành viên không điều hành [ROW] HĐQT có mô tả quy trình quản trị về vấn đề liên quan công nghệ thông tin như gián đoạn, an ninh mạng, khôi phục thảm hoạ, để đảm bảo rằng tất cả các rủi ro chính được xác định, quản lý và báo cáo cho HĐQT? | Tuân thủ | Tiếp tục thực hiện [ROW] Công ty có Tiểu ban QLRR riêng biệt? | Chưa thực hiện | UBKT của PNJ thực hiện chức năng này.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1497,
+      "text": "[TABLE] [CONTEXT] section: NHẬN DIỆN RỦI RO [ROWS] RỦI RO NGOẠI CẢNH | Dịch COVID-19 đã và có thể tiếp tục gây ảnh hưởng lớn đến hoạt động kinh doanh của PNJ do các cửa hàng trong hệ thống bán lẻ phải tuân thủ các biện pháp giãn cách xã hội để giảm sự lây lan của dịch bệnh. Điều này khiến PNJ mất doanh số bán hàng ở kênh phân phối chính là hệ thống các cửa hàng. Đồng thời, trong tình hình dịch bệnh lây lan mạnh, người tiêu dùng hạn chế nhu cầu mua sắm các mặt hàng không thiết yếu, ảnh hưởng trực tiếp đến kết quả kinh doanh của công ty. [ROW] RỦI RO NHÂN LỰC | COVID-19 lây lan nhanh trong môi trường văn phòng, nhà máy, cửa hàng nơi tập trung nhiều nhân viên và có thể gây ra những ảnh hưởng nghiêm trọng đến sức khỏe thể chất và tinh thần con người, ảnh hưởng trực tiếp tới khả năng và năng suất làm việc. Ngoài ra, nhân viên trong khu vực có ca bệnh phải tuân thủ các biện pháp cách ly dẫn đến giảm năng suất hoặc tạm thời gián đoạn trong hoạt động sản xuất, kinh doanh. [ROW] RỦI RO CÔNG NGHỆ THÔNG TIN | Với sự phát triển nhanh của công nghệ thông tin, PNJ phải liên tục nâng cấp cơ sở hạ tầng cũng như phát triển các hệ thống thông tin trong sản xuất và kinh doanh, tiếp thị sản phẩm để đáp ứng được các yêu cầu của khách hàng trong việc mua sắm nhanh, thuận tiện và nâng cao trải nghiệm trên nhiều nền tảng công nghệ khác nhau. Công ty có thể sẽ gặp phải thách thức về chi phí đầu tư hợp lý cho công nghệ và nguồn nhân lực, liên kết đồng bộ các hệ thống thông tin, tối ưu hóa dữ liệu phục vụ cho hoạt động sản xuất, kinh doanh, đặc biệt trong bối cảnh tăng cường làm việc từ xa, kinh doanh trực tuyến trong dịch COVID-19. [ROW] RỦI RO DANH TIẾNG | An ninh công nghệ thông tin là mối quan tâm hàng đầu của PNJ khi công ty ghi nhận nhiều trường hợp tấn công qua email chứa mã độc, giả mạo thương hiệu PNJ trên mạng [ROW] RỦI RO HOẠT ĐỘNG | Hoạt động kinh doanh hàng hóa có giá trị cao luôn có rủi ro về an ninh, thất thoát, và hiệu quả chi phí trong quá trình vận hành.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1500,
+      "text": "[TABLE] [CONTEXT] section: 9. ĐẢM BẢO ĐIỀU KIỆN KINH TẾ CHO NGƯỜI LAO ĐỘNG ; row_headers: Mức lương khởi điểm phân theo giới tính | Tỷ lệ mức lương khởi điểm phân theo giới tính so với mức lương tối thiểu | Mức lương tối thiểu (VNĐ/tháng) | Tại PNJP | Tại CAF [ROWS] Tại PNJ | Mức lương khởi điểm phân theo giới tính | Nam | 4.750.000 [ROW] Nữ | 4.750.000 [ROW] Mức lương tối thiểu (VNĐ/tháng) | 4.420.000 [ROW] Tỷ lệ mức lương khởi điểm phân theo giới tính so với mức lương tối thiểu | Nam | 107,5% [ROW] Nữ | 107,5% [ROW] Tại PNJP | Mức lương khởi điểm phân theo giới tính | Nam | 5.270.000 [ROW] Nữ | 5.270.000 [ROW] Mức lương tối thiểu (VNĐ/tháng) | 4.420.000 [ROW] Tỷ lệ mức lương khởi điểm phân theo giới tính so với mức lương tối thiểu | Nam | 119,2% [ROW] Nữ | 119,2% [ROW] Mức lương khởi điểm phân theo giới tính | Nam | 5.270.000 [ROW] Nữ | 5.270.000 [ROW] Tại CAF | Mức lương tối thiểu (VNĐ/tháng) | 5.200.000 [ROW] Tỷ lệ mức lương khởi điểm phân theo giới tính so với mức lương tối thiểu | Nam | 117,6% [ROW] Nữ | 117,6%",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Bộ quy định về hoạt động thi đua khen thưởng của công ty với đầy đủ các hạng mục và hướng dẫn về đánh giá khen thường được ban hành và áp dụng nghiêm túc. Nguyên tắc thi đua tại Công ty được xây dựng trên tinh thần tự nguyện, tự giác, công khai, đảm bảo tinh thần đoàn kết, hợp tác, cùng phát triển. Hoạt động thi đua khen thưởng trở thành hoạt động quan trọng thúc đẩy tinh thần làm việc hiệu quả của cán bộ nhân viên Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Bên cạnh đó, Công ty vẫn luôn duy trì các hoạt thể thao, tham quan, nghỉ mát.... nhằm mục đích tạo động lực, nâng cao đời sống tinh thần và giúp cán bộ nhân viện gắn bó hơn với Công ty. Các chương trình hoạt động tập thể, xây dựng đội nhóm như Chương trình hội nghị người lao động, bếp ăn tập thể, Chúc mừng sinh nhật hàng tháng, Quốc tế phụ nữ, Quốc tế thiếu nhi, Trung thu, Giáng sinh ... luôn được VietinBankSc chú trọng nhằm tăng cường tinh thần đoàn kết và hợp tác, tạo điều kiện giao lưu trao đổi giữa lãnh đạo và nhân viên, giữa các nhân viên với nhau để chia sẻ định hướng, quan điểm về việc xây dựng Công ty ngày càng vững mạnh, cùng nhau tạo dựng một môi trường làm việc tốt, qua đó thúc đẩy mỗi cá nhân phát huy cao nhất năng lực của mình, đóng góp cho sự phát triển chung của Công ty cũng như sự phát triển bản thân. Chương trình tổng kết năm và chào đón năm mới – \"VietinBankSc - Ấn tượng đến từng khoảnh khắc\" là một trong các hoạt động xây dựng đội nhóm nổi bật của VietinBankSc trong năm 2015, tại đây toàn thể cán bộ nhân viên đã cùng nhau nhìn lại một năm hoạt động và kinh doanh đầy sôi động và cùng nhau thể hiện tinh thần đoàn kết, sự gắn kết với Công ty trong các tiết mục văn nghệ sôi nổi.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Các công trình, dự án của DIC Group đều có báo cáo đánh giá tác động môi trường, bản cam kết về bảo vệ môi trường, báo cáo quan trắc môi trường được phê duyệt và tổ chức thực hiện đầy đủ theo quy định hiện hành",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ VỀ VIỆC THỰC HIỆN CÁC QUY ĐỊNH VỀ QUẢN TRỊ CÔNG TY ; column_headers: STT | Tiêu chí | Đánh giá | Cơ sở đánh giá [ROWS] STT | Tiêu chí | Đánh giá | Cơ sở đánh giá [ROW] B.3 | Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] B.3.1 | Công ty có chính sách và/hoặc quy định cấm thành viên HĐQT và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | Tốt | Quy định tại Điều lệ DIC Group [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Tốt | DIC Group thực hiện tốt nguyên tắc này theo thông tư 96/2020/TT-BTC và điều lệ TCT [ROW] B.4 | Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao. [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty không? | Tốt | Quy định tại Điều 51 Quy chế Quản trị nội bộ [ROW] B.4.2 | Công ty có chính sách yêu cầu một tiểu ban bao gồm thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông không? | Tốt | Được trình bày tại Điều 13, Quy chế Kiểm toán nội bộ & hoạt động của Ủy ban Kiểm toán DIC Group. [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Tốt | TV HĐQT có tham gia họp nhưng không được biểu quyết các nội dung khi có các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích [ROW] B.4.4 | Công ty có chính sách về khoản vay cho thành viên HĐQT, trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Chưa đáp ứng [ROW] B.5 | Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng [ROW] B.5.1 | Công ty có công bố về việc GDBLQ được thực hiện theo cách đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | Tốt | Được trình bày trong Báo cáo Quản trị định kỳ [ROW] B.5.2 | Trong trường hợp cần có phê duyệt của cổ đông thông qua các giao dịch các bên liên quan, việc biểu quyết phê duyệt phải được biểu quyết bởi các cổ đông không liên quan lợi ích. | Tốt | Khi có phát sinh, DIC Group tiến hành tổ chức ĐHĐCĐ để lấy ý kiến biểu quyết của các cổ đông [ROW] C | Vai trò của các bên có quyền lợi liên quan [ROW] C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng [ROW] Công ty có công bố chính sách và các thực hành về: [ROW] C.1.1 | Công bố chính sách và các thực hành nhằm bảo vệ quyền lợi khách hàng? | Tốt [ROW] C.1.2 | Công bố chính sách và các thực hành, qui trình và thủ tục lựa chọn nhà cung cấp/nhà thầu? | Tốt | Quy định tại Quy chế lựa chọn nhà thầu của DIC Group và được đăng tải trên website [ROW] C.1.3 | Công bố chính sách và các thực hành, mô tả nỗ lực của công ty nhằm bảo đảm chuỗi giá trị của công ty thân thiện với môi trường hoặc phù hợp với việc thúc đẩy phát triển bền vững ? | Tốt [ROW] C.1.4 | Công bố chính sách và các thực hành, mô tả nỗ lực của công ty trong việc tương tác với cộng đồng nơi công ty hoạt động? | Tốt",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "E3",
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 3,
+        "G11": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ VỀ VIỆC THỰC HIỆN CÁC QUY ĐỊNH VỀ QUẢN TRỊ CÔNG TY ; column_headers: STT | Tiêu chí | Đánh giá | Cơ sở đánh giá [ROWS] STT | Tiêu chí | Đánh giá | Cơ sở đánh giá [ROW] (P)A.4 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai. [ROW] Công ty không công bố sự tồn tại của: [ROW] (P)A.4.1 | Thỏa thuận cổ đông? | Tốt | Không phát sinh trường hợp này [ROW] (P)A.4.2 | Giới hạn biểu quyết? | Tốt | Quy định rõ trong tờ trình thể lệ biểu quyết ĐHĐCĐ [ROW] (P)A.4.3 | Cổ phiếu nhiều quyền biểu quyết? | Tốt | DIC Group không có cổ phiếu có nhiều quyền biểu quyết [ROW] (P)A.5 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai. [ROW] (P)A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu sở hữu chéo có tồn tại không? | Tốt [ROW] (P)B | Đối xử công bằng với cổ đông [ROW] (P)B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] (P)B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, ban điều hành và nhân viên công ty trong ba năm qua? | Tốt | DIC Group không ghi nhận trường hợp vi phạm nào [ROW] (P)B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] (P)B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | Tốt | DIC Group không ghi nhận trường hợp vi phạm nào [ROW] (P)B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | Tốt | DIC Group không ghi nhận trường hợp vi phạm nào [ROW] (P)C | Vai trò của các bên có quyền lợi liên quan [ROW] (P)C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng. [ROW] (P)C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/phá sản/thương mại/cạnh tranh hay môi trường? | Tốt | DIC Group không ghi nhận trường hợp vi phạm nào [ROW] (P)C.2 | Khi các bên có quyền lợi liên quan tham gia vào quá trình quản trị công ty, họ phải được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên. [ROW] (P)C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không công bố thông tin trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | Tốt | DIC Group không ghi nhận trường hợp vi phạm nào trong năm [ROW] (P)D | Công bố thông tin và minh bạch",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THÔNG TIN LIÊN HỆ ; column_headers: Tiêu chí | Mục tiêu | Nội dung [ROWS] Tiêu chí | Mục tiêu | Nội dung [ROW] 6 Nước sạch và vệ sinh | Đảm bảo đầy đủ và quản lý bền vững tài nguyên nước và hệ thống vệ sinh cho tất cả mọi người. | • Sử dụng các bệ xí tiết kiệm nước, vòi rửa lưu lượng thấp. • Xây dựng các trạm xử lý nước thải tại các dự án theo quy định. • Các công trường đều có nhà vệ sinh lưu động cho mọi người. • Trước khi xây dựng công trình khai thác nước dưới đất, thực hiện thăm dò để đánh giá trữ lượng, chất lượng, khả năng khai thác. Nhằm đảm bảo nhu cầu cấp nước liên tục, áp lực cần thiết tại các điểm sử dụng nước, căn cứ và chỉ tiêu tính toán và diện tích đất dự kiến xây dựng công trình, xác định lưu lượng nước. • Xây dựng mạng lưới thoát nước thải riêng lẻ với nước mưa. • Mạng lưới thoát nước mưa được tính toán thiết kế đảm bảo thu gom và vận chuyển nước mưa ra khỏi lưu vực một cách nhanh nhất, tránh ngập úng đường phố và các khu dân cư. • Nước thải được thu gom vào tuyến ống chính sau đó dẫn về trạm xử lý nước thải. • Chủ đầu tư xây dựng và vận hành trạm xử lý nước thải và thực hiện đúng theo quy định về Luật Bảo vệ Môi trường. [ROW] 7 Năng lượng sạch và bền vững | Đảm bảo khả năng tiếp cận nguồn năng lượng bền vững, đáng tin cậy và có khả năng chi trả cho tất cả mọi người. | • Lắp đặt hệ thống điện mặt trời áp mái đáp ứng trên 10% nhu cầu năng lượng điện cho văn phòng làm vệc. Vào các ngày nghỉ thứ 7, chủ nhật, ngày lễ tết có khả năng phát điện lên lưới điện chung để bán điện cho điện lực thành phố khi điều kiện về pháp lý cho phép. • DIC Group nỗ lực giảm sự phụ thuộc vào nguồn năng lượng không tái tạo, dần dần triển khai phương án sử dụng năng lượng sạch từ điện gió và điện mặt trời,... • Sử dụng năng lượng tiết kiệm và hiệu quả, đưa các công nghệ tiết kiệm năng lượng vào công trình của DIC Group. [ROW] 8 Việc làm ổn định và tăng trưởng kinh tế | Đảm bảo tăng trưởng kinh tế bền vững, toàn diện, liên tục; tạo việc làm đầy đủ, năng suất và việc làm tốt cho tất cả mọi người. | • Tạo cơ hội việc làm cho hàng ngàn lao động ở địa bàn Tỉnh Bà Rịa - Vũng Tàu và các tỉnh thành có dự án của DIC Group. • Đảm bảo cuộc sống của người lao động và gia đình. • Duy trì đà tăng trưởng doanh thu và lợi nhuận trước thuế qua các năm ổn định. [ROW] 9 Công nghiệp, đổi mới và cơ sở hạ tầng | - Mục tiêu 9: Xây dựng cơ sở hạ tầng có khả năng chống chịu cao, thúc đẩy công nghiệp hóa bao trùm và bền vững, tăng cường đổi mới. | • Xây dựng kè chống sạt lở dự án Long Tân. • Xây dựng cơ sở hạ tầng, phát triển đô thị hướng tới tăng trưởng xanh và ứng phó biến đổi khí hậu, ảnh hưởng của thiên tai. • Xây dựng khả năng chống chịu cho khu vực đô thị thông qua các giải pháp dựa vào thiên nhiên. • Tổ chức không gian xanh tận dụng, khai thác, lựa chọn đất đai thích hợp, phải kết hợp hài hòa với mặt nước, với môi trường xung quanh, tổ chức thành hệ thống với nhiều dạng phong phú: tuyến, điểm, diện. • Công trình xây dựng tuân thủ mọi quy định kiến trúc theo quy hoạch được duyệt.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.777029
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8,
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THÔNG TIN LIÊN HỆ ; column_headers: Tiêu chí | Mục tiêu | Nội dung [ROWS] Tiêu chí | Mục tiêu | Nội dung [ROW] 14 Tài nguyên nước | Bảo tồn và sử dụng bền vững đại dương, biển và nguồn lợi biển để phát triển bền vững. | Với trách nhiệm của một chủ đầu tư, DIC Group đặt trọng trách bảo vệ tài nguyên nước lên hàng đầu: • Gia cố không để sạt lở bờ kè, gây xói mòn, ảnh hưởng lưu lượng dòng chảy, ảnh hưởng môi trường của sinh vật dưới nước; • Luôn nạo vét lòng hồ, tạo môi trường xanh, sạch, đảm bảo mỹ quan; các bến du thuyền luôn đảm bảo không có rác thải, váng dầu, giảm mức độ gây ô nhiễm. [ROW] 15 Tài nguyên đất | Bảo vệ và phát triển rừng bền vững, bảo tồn đa dạng sinh học, phát triển dịch vụ hệ sinh thái, chống sa mạc hóa, ngăn chặn suy thoái và phục hồi tài nguyên đất. | • Các dự án DIC Group đang triển khai đều tập trung chú trọng việc bảo vệ cảnh quan thiên nhiên, tuyệt đối không chặt phá rừng; • Bảo tồn lại các vị trí và loại cây quý, đặc hữu hiện có, xen trồng mới các loại cây phù hợp với khí hậu và cảnh quan từng khu vực; • Hệ thống cây xanh được che phủ hầu như toàn bộ diện tích khu vực, đảm bảo các chỉ tiêu mật độ rừng tự nhiên. [ROW] 16 Hòa bình, Công bằng và Thể chế vững mạnh | Thúc đẩy xã hội hòa bình, dân chủ, công bằng, bình đẳng, văn minh vì sự phát triển bền vững, tạo khả năng tiếp cận công lý cho tất cả mọi người; xây dựng các thể chế hiệu quả, có trách nhiệm giải trình và có sự tham gia ở các cấp. | • Xây dựng quy chế công bố thông tin bình đẳng, minh bạch, nhanh chóng đến tất cả nhà đầu tư, khách hàng và cổ đông. • Xây dựng hệ thống quy chế văn bản theo pháp luật. • Tổ chức các buổi gặp gỡ chuyên gia phân tích, nhà đầu tư, buổi họp báo, buổi tham quan dự án cập nhật các bản tin nhà đầu tư định kỳ,... nhằm giải đáp thắc, cung cấp thông tin đến nhà đầu tư, đối tác, khách hàng DIC Group. [ROW] 17 Hợp tác để thực hiện hóa các mục tiêu | Tăng cường phương thức thực hiện và thúc đẩy đối tác toàn cầu vì sự phát triển bền vững. | • Tăng cường hợp tác với các doanh nghiệp thiết kế lớn, có kinh nghiệm trong việc thiết kế các dự án mang các yếu tố sinh thái, công nghệ thông minh vào các dự án của DIC Group tạo nên giá trị bền vững cho khách hàng và cư dân tại các dự án. • Hợp tác với các đối tác lớn trên thế giới: CFLD, Vinacapital, NDA,... • Khối căn hộ du lịch khách sạn C4 thuộc dự án khu phức hợp Cap Saint Jacques do DIC Group làm chủ đầu tư, được thiết kế bởi LMP Design, đạt hạng vàng Giải thưởng thiết kế Việt Nam VMARK 2022 tại 2 hạng mục: Kiến trúc cảnh quan và Thiết kế nội thất căn hộ nghỉ dưỡng.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

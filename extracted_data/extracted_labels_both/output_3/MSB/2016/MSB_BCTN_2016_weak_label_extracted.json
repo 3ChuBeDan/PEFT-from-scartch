@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Trong năm 2017, Quản lý rủi ro Thẻ và Ngân hàng điện tử cũng sẽ tập trung vào việc củng cố, nâng cấp các quy tắc cảnh báo giao dịch có rủi ro cao để phù hợp với xu hướng các gian lận có thể xảy ra, tăng tỷ lệ phát hiện gian lận hiện tại, hướng tới giảm đáng kể số lượng các giao dịch gian lận phát sinh.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

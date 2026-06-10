@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "cường hệ thống an ninh mạng: lắp đặt hệ thống máy chủ (DC), hệ thống dự phòng (DR), tăng cường hệ thống an ninh mạng, đường truyền dự phòng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

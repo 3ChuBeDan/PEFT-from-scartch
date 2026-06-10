@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Nhận thức được tầm quan trọng của công tác phòng, chống tham nhũng và rửa tiền đồng thời khẳng Ủ g g gg g g g định quyết tâm phòng chống tội phạm rửa tiền, Ủy ban Phòng, chống tham nhũng và rửa tiền tại Sacombank đã không ngừng nỗ lực xây dựng khung pháp lý, tổ chức bộ máy quản lý hiệu quả, cụ thể trong năm 2021, Hội đồng Phòng, chống tham nhũng, tội phạm và rửa tiền đã họp 01 kỳ vào ngày 09/12/2021 và cử thành viên tham dự nhiều cuộc họp định kỳ và đột xuất của các Hội đồng, Ban trực Ủ g thuộc Ủy ban theo từng đơn vị cụ thể để thực hiện chức năng, nhiệm vụ theo quy định gồm:",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "text": "Ngoài ra, Sacombank khuyến khích và phát triển các hoạt động trong những lĩnh vực thân thiện với môi trường. Sacombank đã ban hành các cơ chế, chính sách cho vay liên quan đến \"Tín dụng xanh\". Trong đó, lĩnh vực năng lượng sạch, năng lượng tái tạo đã được đẩy mạnh tăng trưởng thông qua nhiều chương trình và SPDV khác nhau.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.6 Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro cho tiền gửi tại và cho vay các tổ chức tín dụng khác, mua và ủy thác mua trái phiếu doanh nghiệp chưa niêm yết, cho vay khách hàng, ủy thác cấp tín dụng và tài sản có rủi ro tín dụng khác (tiếp theo) ; column_headers: Nhóm nợ | Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: » Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do khách hàng vi phạm hợp đồng tín dụng với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

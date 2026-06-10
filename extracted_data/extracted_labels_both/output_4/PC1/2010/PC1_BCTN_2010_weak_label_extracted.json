@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 26,
+      "text": "Trong lĩnh vực gia công chế tạo cột thép mạ kẽm một số công trình trọng điểm trong hệ thống truyền tải điện quốc gia cho các đối tượng là EVN, là Ban quản lý dự án, các Công ty điện lực các miền Bắc, Trung, Nam như: Đz 500kv Sơn La – Hiệp Hòa, TBA Hiệp Hòa, Đz 110kv Sơn La – Sông Mã, Đz 110kv Bắc Giang – Yên Phong, Đz Buôn Kốp -Đắc Nông V.V... Các công trình của các đối tác ngoài ngành điện như: Gia công kết cấu thép cho hệ thống viễn thông Nortel, Ericsson, gia công kết cấu mạ kẽm một số dự án điện của Siemens. Các hợp đồng chế tạo với nước ngoài như Đz 765 kv Shingori, Đz 220kv/500kv Chile, Đz 220kv Pakistan và đặc biệt trong năm 2010 sản phẩm mới của Công ty là cột đơn thân đã được nhiều khách hàng quan tâm, đánh giá cao. Trong năm Công ty đã nhận được nhiều hợp đồng như cung cấp cột ống đơn thân dự án khu làm việc của Bộ công an, cung cấp cột điện đơn thân",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

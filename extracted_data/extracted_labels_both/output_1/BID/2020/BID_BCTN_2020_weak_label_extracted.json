@@ -1,0 +1,140 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 295,
+      "text": "Triển khai các gói \"tín dụng xanh\", dành tỷ trọng nhất định tài trợ khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch... qua đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 337,
+      "text": "Luật Đầu tư 2020 được đánh là đã làm rõ, phân định phạm vi điều chỉnh của Luật Đầu tư và các luật có liên quan, đảm bảo tính thống nhất, đồng bộ của hệ thống pháp luật về đầu tư kinh doanh, góp phần tạo thuận lợi cho doanh nghiệp. Ví dụ như Luật đầu tư 2020 sửa đổi, bổ sung một số điều của Luật bảo vệ môi trường theo đó đối với các dự án đầu tư, cấp có thẩm quyền sẽ căn cứ đánh giá sơ bộ tác động môi trường để chấp thuận chủ trương đầu tư; nhà đầu tư chỉ được thực hiện dự án sau khi báo cáo đánh giá tác động môi trường được phê duyệt. Loại bỏ tình trạng doanh nghiệp phải có báo cáo đánh giá khả thi tác động môi trường mới được chấp thuận chủ trương đầu tư.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 349,
+      "text": "Ngoài ra, trước các nguy cơ về an ninh mạng ngày càng gia tăng, BIDV đã tăng cường các công tác chuẩn bị, nâng cao tính sẵn sàng CNTT tại BIDV để đối phó với những tác động xấu từ bên ngoài và đáp ứng đầy đủ các yêu cầu ngày càng khắt khe về tuân thủ trong thời gian tới như: Thành lập tổ công tác đặc biệt ứng phó với các tình huống về an ninh mạng; thành lập Trung tâm SOC để theo dõi, giám sát, phát hiện sớm và phân tích, xử lý sự sự cố bảo mật; Phối hợp/ký kết thỏa thuận hợp tác với CMC, VNCert trong công tác đánh giá an ninh ANBM hệ thống CNTT của BIDV. Phối hợp chặt chẽ với NHNN, Hiệp hội An ninh mạng Việt Nam (VNISA), Bộ Công an (A05 – Cục an ninh mạng và phòng chống tội phạm công nghệ) thực hiện tốt công tác cảnh báo và giám sát an ninh mạng của BIDV. Đồng thời, để nâng cao năng lực xử lý của hệ thống cơ sở hạ tầng CNTT,năm 2020, BIDV đã hoàn thành và đưa vào sử dụng Trung tâm dữ liệu mới hiện đại, theo các chuẩn quốc tế, đưa mức độ an toàn bảo mật hệ thống CNTT của BIDV ngang hàng với các Trung tâm dữ liệu cung cấp dịch vụ cho thuê trên lãnh thổ Việt Nam và khu vực, đảm bảo an toàn trước những sự cố, các đợt tấn công an ninh mạng gia tăng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 6
+      }
+    },
+    {
+      "paragraph_id": 1083,
+      "text": "Hồ sơ yêu cầu từ khách hàng bao gồm các hồ sơ liên quan đến môi trường xã hội (như Giấy phép khai thác tài nguyên đối với doanh nghiệp hoạt động trong lĩnh vực này, Quyết định phê duyệt báo cáo đánh giá tác động môi trường, phòng cháy chữa cháy, xử lý nguồn nước thải (đối với những dự án có yêu cầu); Giấy xác nhận đăng ký/Bản cam kết bảo vệ môi trường của cấp có thẩm quyền...).",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1085,
+      "text": "thể hiện cam kết của BIDV hướng tới mục tiêu phát triển bền vững của BIDV, tháng 2/2019, BIDV đã ban hành Khung quản lý rủi ro Môi trường và Xã hội (ESMS), trong đó áp dụng bắt buộc đối với các Dự án sử dụng nguồn vốn ADB. Khung quản lý rủi ro môi trường và xã hội quy định quy trình đánh giá rủi ro môi trường và xã bao gồm đầy đủ các nội dung: (i) Sàng lọc, phân loại rủi ro môi trường và xã hội; (ii) Đánh giá chi tiết rủi ro môi trường và xã hội phù hợp quy định chung và quy định riêng của 10 nhóm ngành nghề đặc thù; (iii) Kế hoạch hành động khắc phục cũng như chế độ báo cáo kiểm tra giám sát môi trường xã hội sau khi vay",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "paragraph_id": 1098,
+      "text": "Với vai trò là Ngân hàng bán buôn, chịu trách nhiệm chính trong tổ chức triển khai Khung quản lý môi trường và xã hội (ESMF), BIDV đã triển khai theo dõi, hướng dẫn các PFI (các Định chế Tài chính tham gia bán lẻ) thực hiện các quy định về an toàn môi trường và xã hội theo quy định tại ESMF và POM2. Trong quá trình thực hiện, BIDV đã tiến hành rà soát, bổ sung, chỉnh sửa POM2, trong đó có điều chỉnh lại các quy định về an toàn môi trường và xã hội để phù hợp với thực tế triển khai dự án. BIDV đã hướng dẫn cho các PFI và các chủ tiểu dự án về chế biến lúa gạo hoàn tất các thủ tục về môi trường theo đúng quy định, tính đến 31/12/2020, 100% tiểu dự án tham gia đã có Quyết định phê duyệt Báo cáo đánh giá tác động môi trường/Kế hoạch quản lý môi trường do các cấp có thẩm quyền của VN phê duyệt với tổng số vốn lũy kế đã giải ngân cho 10 Doanh nghiệp giải ngân hợp phần lúa gạo xấp xỉ 765 tỷ VND. Đối với Hợp phần cà phê, BIDV đã giải ngân thông qua 10 PFI cho 4.931 khoản vay tái canh cà phê với tổng vốn lũy kế đã giải ngân đạt 1.834 tỷ VND. Theo báo cáo của các PFI, 100% các khoản vay tái canh cà phê đều đã được bên vay và PFI lập \"Bản Thỏa thuận bảo vệ môi trường\" thỏa mãn các điều khoản, điều kiện về bảo vệ môi trường như đã được qui định trong ESMF và POM2.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1240,
+      "text": "[TABLE] [CONTEXT] section: TỔNG QUAN VỀ CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN CHUNG GRI STANDARDS ; column_headers: TT | GRI | Thông tin công bố | Nội dung chi tiết | GRI102 | Công bố thông tin theo tiêu chuẩn chung | IV | Sự tham vấn của các bên liên quan | V | Thông lệ báo cáo | GRI 200 | Tiêu chuẩn kinh tế | GRI 300 | Tiêu chuẩn môi trường | GRI400 | Tiêu chuẩn xã hội [ROWS] TT | GRI | Thông tin công bố | Nội dung chi tiết [ROW] GRI102 | Công bố thông tin theo tiêu chuẩn chung [ROW] IV | Sự tham vấn của các bên liên quan [ROW] 102-40 | Cung cấp danh sách các nhóm liên quan được tổ chức mời tham gia. | Khách hàng Nhân viên Cổ đông, nhà đầu tư Nhà cung cấp dịch vụ Cơ quan chính phủ Cơ quan báo chí Cộng đồng [ROW] 102-42 | Cơ sở của việc lựa chọn các bên liên quan để thực hiện tham vấn | Sự tham gia của các bên liên quan (Tr...) Đo lường sự hài lòng khách hàng (Tr...) [ROW] 102-43 | Phương pháp tiếp cận đối với sự tham vấn các bên liên quan | Đo lường sự hài lòng của cán bộ công nhân viên (Tr...) [ROW] 102-44 | Các mối quan ngại và chủ đề chính [ROW] V | Thông lệ báo cáo [ROW] 102-45 | Các đơn vị được bao gồm trong báo cáo tài chính hợp nhất | Tình hình hoạt động của các công ty con, liên doanh, liên kết [ROW] 102-46 | Xác định nội dung báo cáo và phạm vi chủ đề [ROW] 102-47 | Danh mục các chủ đề trọng yếu | Tổng quan Báo cáo phát triển bền vững [ROW] 102-50 | Kỳ báo cáo của thông tin được cung cấp | Báo cáo thực hiện cho giai đoạn 01/01/2020 đến 31/12/2020 [ROW] 102-52 | Chu kỳ báo cáo | Thường niên [ROW] 102-53 | Đầu mối liên hệ | Email: nhadautu@bidv.com.vn Hotline: 024 22201099 [ROW] 102-54 | Tuyên bố lập báo cáo theo tiêu chuẩn GRI | Tổng quan Báo cáo phát triển bền vững (Tr...) [ROW] 102-55 | Mục lục GRI | Bảng tuân thủ các tiêu chuẩn bền vững GRI Standard (Tr...) [ROW] GRI 200 | Tiêu chuẩn kinh tế [ROW] 201 | Giá trị kinh tế trực tiếp được tạo ra và phân bổ | Mục Kết quả hoạt động kinh doanh 2020 (Tr...) [ROW] 203 | Tác động kinh tế gián tiếp | Mục Nỗ lực bền vững cho phát triển kinh tế (Tr...) [ROW] GRI 300 | Tiêu chuẩn môi trường [ROW] 302-4 | Giảm tiêu hao năng lượng | Thực hiện các biện pháp tiết kiệm (Tr...) Xây dựng môi trường làm việc hiện đại, thân thiện với môi trường (Tr...) [ROW] GRI400 | Tiêu chuẩn xã hội [ROW] 401-2 | Phúc lợi cung cấp cho nhân viên toàn thời gian | Mục chính sách phúc lợi cho người lao động (Tr...) [ROW] 404 | Giáo dục và đào tạo | Mục Hoạt động đào tạo cho người lao động (Tr...) [ROW] 413 | Cộng đồng địa phương | Mục An sinh xã hội (Tr...) [ROW] 417 | Tiếp thị và nhãn hiệu | Mục Hướng đến khách hàng (Tr...)",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E3": 0.5,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

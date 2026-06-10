@@ -1,0 +1,104 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Trong tháng 11/2024, VCB đã phát hành thành công 2.000 tỷ đồng trái phiếu xanh đầu tiên tại Việt Nam theo quy định pháp luật Việt Nam về trái phiếu xanh. Nguồn thu từ phát hành Trái phiếu xanh được phân bổ cho các dự án xanh của KHBB thuộc các ngành: Năng lượng tái tạo, năng lượng sạch; Giao thông bền vững; Quản lý nước bền vững; Nông, Lâm, Thuỷ sản bền vững; Quản lý chất thải và hiệu quả tài nguyên; Sử dụng năng lượng hiệu quả; Công trình xanh.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Tín dụng xanh đang là một chủ đề được các tổ chức tín dụng trong và ngoài nước quan tâm và dành nhiều ưu tiên, đặc biệt là đối với sự phát triển kinh tế - xã hội. Trong đó, các lĩnh vực năng lượng tái tạo, đầu tư vào công trình xanh, phương tiện giao thông điện và nông nghiệp sạch đang là các xu hướng thị trường nhằm hiện thực hóa các cam kết mạnh mẽ của Chính phủ Việt Nam tại COP 26. Với vai trò là ngân hàng thương mại tiên phong, Vietcombank luôn xác định tăng trưởng phải gắn liền với yếu tố bền vững, cũng như cấp tín dụng cho các dự án xanh là một trong những nhiệm vụ trọng tâm của ngân hàng. Vietcombank tiếp tục hoàn thiện hệ thống quy định nội bộ liên quan đến quản lý rủi ro môi trường và xã hội trong hoạt động cấp tín dụng, ban hành quy trình đánh giá lựa chọn và giải ngân dự án xanh, lồng ghép các quy định về bảo vệ môi trường trong chính sách sản phẩm, dịch vụ...; tiếp tục ưu tiên mở rộng và hướng dòng vốn tín dụng vào các ngành/lĩnh vực thân thiện với môi trường như năng lượng tái tạo, tài nguyên nước và xử lý rác thải...; tăng cường tiếp cận các nguồn vốn/chương tình tín dụng xanh từ các tổ chức trong và ngoài nước như JBIC, AFD, KFW, JICA. Đến cuối năm 2024, dư nợ cho các dự án xanh tại Vietcombank chiếm 3,3% tổng dư nợ của Ngân hàng. Cụ thể, vốn tài trợ cho các dự án năng lượng tái tạo, năng lượng sạch chiếm 84,7%; quản lý nước bền vững tại khu vực đô thị và nông thôn chiếm 7,8%; xử lý chất thải và phòng chống ô nhiễm chiếm 3,1%; giao thông bền vững chiếm 1,5%; tái chế, tái sử dụng các nguồn tài nguyên chiếm 1,1%; các lĩnh vực khác chiếm 1,8%.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 0.4,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 1,
+        "E3": 6,
+        "E_COMMON": 1,
+        "G9": 1
+      }
+    },
+    {
+      "text": "Ngày 14/11/2024, Vietcombank phát hành thành công 2.000 tỷ đồng trái phiếu xanh, là ngân hàng đầu tiên tại Việt Nam phát hành trái phiếu xanh tuân thủ quy định pháp luật Việt Nam đồng thời tuân thủ tự nguyện Nguyên tắc Trái phiếu Xanh của Hiệp hội Thị trường Vốn Quốc tế (ICMA). Nguồn vốn thu được từ phát hành trái phiếu xanh sẽ được giải ngân cho các dự án thuộc 7 lĩnh vực gồm: Năng lượng tái tạo, năng lượng sạch, Giao thông bền vững, Quản lý nước bền vững, Công trình xanh, Nông – lâm – thủy sản bền vững và bảo tồn đa dạng sinh học, Quản lý chất thải và hiệu quả tài nguyên, và Sử dụng năng lượng hiệu quả. Khung trái phiếu xanh của Vietcombank được tư vấn bởi tổ chức quốc tế Viện tăng trưởng xanh toàn cầu (GGGI) và được tổ chức xếp hạng tín nhiệm uy tín S&P Global đánh giá cao với xếp hạng Medium Green (mức cao thứ hai trong thang sáu bậc theo khung đánh giá Shade of Green của S&P Global). Điều này khẳng định chất lượng, sự tuân thủ, tính minh bạch ở cấp độ cao trong việc lựa chọn dự án, quản lý giải ngân nguồn tiền từ phát hành, các chế độ về quản trị và báo",
+      "hard_labels": [
+        "E3",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 3,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Riêng tại trụ sở làm việc của Trụ sở chính (tòa nhà Vietcombank 198 Trần Quang Khải, Hoàn Kiếm, Hà Nội), kết quả quan trắc định kỳ cho thấy tiếng ồn luôn đáp ứng TCVN 7878-20188: TCVN Âm học – Mô tả, đo và đánh giá tiếng ồn môi trường - Phần 2 Xác định mức áp suất âm và phương pháp đánh giá; QCVN 26: 2010/ BTNMT – Quy chuẩn quốc gia về tiếng ồn.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

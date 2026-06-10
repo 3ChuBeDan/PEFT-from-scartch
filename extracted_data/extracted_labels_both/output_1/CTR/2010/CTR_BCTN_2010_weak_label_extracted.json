@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 107,
+      "text": "[TABLE] [CONTEXT] section: 2\" Qu6 trinh phrit tri6n [ROWS] 29 | B6n bu6n m6y m6c, thiiit bi vi phu tung mfy kh6c [ROW] 30 | B6n bu6n vat liQu, thiiit bi lip d4t kh6c trong x6y dung [ROW] 31 | B6n bu6n vdt li6u, thi6t bi l6p d[t kh6c trong xdy drmg [ROW] 32 | Vdn tii hing h6a bing cluong b6 [ROW] 33 | Hoat rl6ng vi6n th6ng c6 ddy [ROW] 34 | Hoat tl6ng vi6n th6ng kh6ng ddy [ROW] 35 | Hoat d6ng viSn th6ng kh6c [ROW] .JO | ki6m tra vd phdn tich ky thuat [ROW] 37 | Kinh doanh bAt d6ng san [ROW] 38 | Cho thu€ m6y m6c, thi6t bi vd dd dtng hiru hinh kh6c [ROW] 39 | Sta chta thi6t bi liCn lac [ROW] 40 | XAy dung, l6p d{t, sua chira, bio du6ng co sd hg tdng vi6n th6ng; [ROW] 41 | Khai th6c vd thu gom than cfng; [ROW] 42 | Khai th6c vd thu gom than non; [ROW] 43 | Khai thec quang sdt; [ROW] 44 | Khai thric qufng kim loai kh6c khOng chfa sit; [ROW] 45 | Khai thric qu[ng kim loai quj hi€m; [ROW] 46 | Khai thac cdt d:i s6i, il6t sdt; [ROW] 47 | Khai th6c khoring hori chdt vi phdn b6n; [ROW] 48 | Khai thric vd thu gom than bun; [ROW] 49 | Khai thic mu6i; [ROW] 50 | Hoat d6ng h6 trg khai th6c m6 vd qulng kh6c; [ROW] 51 | Sdn xuAt d6 u6ng kh6ng c6n, nuoc kho6ng; [ROW] 52 | Sin xuit sit, thdp, gang; [ROW] 53 | Sdn xuAt kim loai mdu vd kim loai quj; [ROW] 54 | Eric kim loai mdu;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

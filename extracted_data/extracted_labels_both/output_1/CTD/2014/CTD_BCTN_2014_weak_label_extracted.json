@@ -1,0 +1,86 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "hợp tác phát triển thân thiện với môi trườ thân thiện ns gia tăng giá trị đầu tư t c",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "hợp tác phát triển thân thiện với môi trườ thân thiện ns gia tăng giá trị đầu tư t c thân thiện",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Chăm lo đời sống vật chất tinh thần cho CBNV, tạo điều kiện cho CBNV được phát triển nghề nghiệp và hoàn thiện bản thân thông qua các khóa đào tạo về chuyên môn nghiệp vụ và kỹ năng làm việc. Duy trì tổ chức các Hội nghị, Hội thảo định kỳ như: Hội nghị Cán bộ nhân viên chức, Đại hội công đoàn, Hội thảo về nghề nghiệp và định hướng phát triễn trong tương lai,... nhằm phát huy quyền dân chủ của CBNV.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Duy trì các hoạt động gắn kết CBNV Coteccons thông qua việc tổ chức tiệc họp mặt tất niên Công ty hàng năm, tổ chức các chuyến du lịch nghỉ dưỡng thường niên và tổ chức du lịch tập trung định kỳ với sự tham gia của CBNV và người thân trong gia đình. Ngoài ra, nhằm tạo cơ hội giao lưu, chia sẻ thông tin giữa Ban Lãnh đạo Công ty và CBNV, hàng năm Coteccons đều tổ chức Hội nghị Cán bộ nhân viên chức giúp mọi người hiểu rõ hơn về hoạt động của Công ty và cảm nhận được tinh thần đoàn kết, sự gắn bó giữa các bộ phận và đồng nghiệp với nhau. Đồng thời, tạo điều kiện cho các nhân viên được đóng góp ý kiến về hoạt động Công ty cũng như trình bày nguyện vọng cá nhân trực tiếp Ban Lãnh đạo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

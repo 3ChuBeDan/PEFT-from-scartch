@@ -1,0 +1,26 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 1008,
+      "text": "[TABLE] [CONTEXT] section: Thống kê đánh giá, tình hình quản lý chất thải: ; column_headers: STT | Loại chất thải | ĐVT | Lượng phát thải | Lượng xử lý | Mức độ xử lý [ROWS] STT | Loại chất thải | ĐVT | Lượng phát thải | Lượng xử lý | Mức độ xử lý [ROW] 1 | m3 /năm | 121.927 | 121.927 Tốt | Nước thải sản xuất [ROW] 2 | Nước thải sinh hoạt | 10.216 | 10.216 | m 3 /năm Tốt [ROW] 3 | Nước làm mát | 26.222.627 | 26.222.627 | m3 /năm Tốt [ROW] 4 | Khí thải | m3 /quý | 5.960.297.320 | 5.960.297.320 | Tốt [ROW] 5 | Chất thải rắn sinh hoạt | Kg/năm | 141.120 | 141.120 | Tốt [ROW] 6 | Chất thải rắn công nghiệp | Kg/năm | 777.404 | 777.404 | Tốt [ROW] 7 | Chất thải nguy hại | Kg/năm | 212.138 | 212.135 | Tốt",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 12
+      }
+    }
+  ]
+}

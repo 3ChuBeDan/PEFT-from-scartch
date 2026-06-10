@@ -1,0 +1,96 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

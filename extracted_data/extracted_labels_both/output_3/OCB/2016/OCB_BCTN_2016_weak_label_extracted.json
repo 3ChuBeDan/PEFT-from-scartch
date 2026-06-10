@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 327,
+      "text": "OCB liên tiếp được các tổ chức uy tín, cơ quan giám sát ghi nhận với nhiều giải thưởng: Danh hiệu \"Top 20 nhãn hiệu hàng đầu Việt Nam 2016\"; Giải thưởng Tổ chức tín dụng tăng trưởng bền vững và chất lượng dịch vụ uy tín Việt Nam\"; Giải thưởng Thương hiệu thân thiện với môi trường và sản phẩm thân thiện môi trường; Giải thưởng Doanh nghiệp tiên phong đổi mới công nghệ và phát triển kinh tế xanh bền vững; ... Đó là sự vinh danh xứng đáng cho những nỗ lực của OCB;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

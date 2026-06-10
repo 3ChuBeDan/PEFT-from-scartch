@@ -1,0 +1,44 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 575,
+      "text": " Chất thải rắn xây dựng được thu gom hàng ngày, vệ sinh công trường gọn gàng sạch sẽ. Các loại chất thải rắn như sắt thép vụn, bao xi măng... được tận dụng hoặc bán phế liệu; đất đá tận dụng để san lấp mặt bằng tại chỗ không thải ra môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 604,
+      "text": "Là một trong những quốc gia chịu ảnh hưởng lớn từ thiên tai và biến đổi khí hậu (BĐKH), Việt Nam đã xác định tăng trưởng xanh là một chiến lược để phát triển bền vững. Tài chính xanh luôn được xác định là trọng tâm trong chính sách phát triển kinh tế toàn cầu trong bối cảnh BĐKH đang diễn ra trên toàn cầu. Tại Việt Nam, theo Chiến lược quốc gia về tăng trưởng xanh thời kỳ 2011 -2020 và tầm nhìn đến năm 2050 của Việt Nam mà Chính phủ phê duyệt năm 2012 đưa ra 3 nhiệm vụ chính g ồm: giảm cường độ phát thải khí nhà kính và thúc đẩy sử dụng năng lượng sạch, năng lượng tái tạo; xanh hóa sản xuất, khuyến khích phát triển công nghiệp xanh, nông nghiệp xanh và xanh hóa lối s ống và thúc đẩy tiêu dùng bền vững. Để thực hiện các nhiệm vụ này, Chính phủ cũng đã phê duyệt Kế hoạch hành động quốc gia về tăng trưởng xanh giai đoạn 2014 -2020, trong đó có việc hình thành khung chính sách tài chính tăng trưởng xanh, nhằm huy động vốn cho tăng trưởng xanh. Tuy nhiên, ngoài nỗ lực của Chính phủ còn cần sự tham gia, phối hợp của các doanh nghiệp. Để nền kinh tế xanh hơn thì bản thân các doanh nghiệp trong nước phải có những hành động cụ thể hơn, thiết thực hơn để góp phần làm nền kinh tế xanh hơn. Dự án của Công ty luôn hướng đến việc đạt tiêu chuẩn thân thiện với môi trường .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 6
+      }
+    }
+  ]
+}

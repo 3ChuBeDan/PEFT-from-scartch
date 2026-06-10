@@ -1,0 +1,395 @@
+{
+  "extracted_count": 23,
+  "extracted": [
+    {
+      "text": "SBT vinh dự được vinh danh trong \"Top 10 Doanh nghiệp Phát triển Kinh tế xanh bền vững\", giải thưởng đã ghi nhận những đóng góp tích cực của SBT trong việc áp dụng khoa học kỹ thuật để phát triển nền kinh tế xanh, bền vững. Giải thưởng dưới sự bảo hộ của Bộ Công Thương, Bộ Tài Nguyên và Môi trường, trong khuôn khổ Chương trình \"Truyền thông Xây dựng và Phát triển Nền kinh tế xanh Quốc gia\" lần thứ 7.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "HĐQT có quy trình để giải quyết các xung đột lợi ích, khi một thành viên HĐQT hoặc thành viên Ban TGĐ đối mặt với rủi ro hoặc vấn đề tiềm ẩn xung đột lợi ích, thành viên có liên quan có trách nhiệm báo cáo thông tin đến HĐQT tại các cuộc họp, cân nhắc và đưa ra quyết định liên quan đến vấn đề là đối tượng người có liên quan để tránh xung đột theo quy định.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Trong các tình huống có xung đột lợi ích, đảm nhận vai trò của người giám sát khách quan phù hợp đối với các hoạt động của Ban điều hành, bao gồm việc cân bằng và ngăn ngừa những xung đột lợi ích, góp phần bảo vệ lợi ích chính đáng của Cổ đông, đặc biệt là các Cổ đông nhỏ lẻ. Với năng lực và kinh nghiệm của các thành viên độc lập HĐQT, cũng như cơ cấu hiện hữu của HĐQT, toàn bộ các quyết định có thể được đưa ra một cách khách quan và độc lập.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Trên cơ sở báo cáo kết quả kiểm toán của đơn vị Kiểm toán độc lập, UBKT đồng ý kết luận kiểm toán BCTC Niên độ 20212022 của Công ty được lập và trình bày trung trực, hợp lý trên cơ sở tuân thủ chuẩn mực và chế độ kế toán hiện hành, chính sách kế toán áp dụng nhất quán, thuyết minh đầy đủ các thông tin trọng yếu trên BCTC, không có sai sót trọng yếu hoặc bất hợp lý, không có biến động bất thường đối với doanh thu, lợi nhuận hoặc các khoản mục tài sản trọng yếu và không phát hiện các gian lận hoặc rủi ro gian lận tiềm tàng trên BCTC;",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E10"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E10"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Chặng đường 10 năm không quá ngắn cũng chưa đủ dài mà tôi đã dành thanh xuân của mình gắn bó cùng ngành Đường (SBT). Trong độ tuổi đầy nhiệt huyết của tuổi trẻ, rất nhiều bạn đã chọn cách nhảy việc đến nhiều Công ty khác nhau để học hỏi, tích lũy thêm kinh nghiệm cho bản thân. Tuy nhiên, tôi may mắn được là thành viên trong 1 Công ty với môi trường làm việc thân thiện, rộng mở cho từng cá nhân với nhiều định hướng công việc phù hợp để lựa chọn, chế độ phúc lợi thiết thực, ưu đãi cho CBNV. Tại SBT, tôi đã được trải nghiệm làm việc ở 3 Công ty thành viên với nhiều trải nghiệm khác nhau, mỗi nơi đều giúp tôi có cơ hội phát triển bản thân, phát triển chuyên môn và cả kỹ năng sống. Hiện, TTCAD là ngôi nhà thứ 3 tôi đã chọn và đã gắn bó được 3 năm. Tuy là Công ty mới thành lập nhưng TTCAD đã hội tụ được những thành viên có nhiều kinh nghiệm, năng lượng và tinh thần thép để sẵn sàng chiến đấu vì mục tiêu chung của Công ty. Nơi đây, tôi đã được \"trưởng thành\", tích luỹ được nhiều kiến thức, kỹ năng thông qua các chương trình đào tạo, chia sẻ từ Lãnh đạo, các hoạt động vui chơi, thể thao. Tôi thật sự được là \"chính mình\" khi làm việc tại TTCAD nói riêng và SBT nói chung.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Năng lượng từ việc sử dụng nhiên liệu có nguồn gốc không tái tạo giảm 14%, và Tổng tiêu thụ Năng lượng từ các nguồn khác như điện sinh khối có nguồn gốc tái tạo như bã mía, mùn cưa, vỏ trấu,... và Tổng tiêu thụ Năng lượng do tổ chức tạo ra để dùng (bao gồm Năng lượng mặt trời, ...) tăng lần lượt 2% và 3% so với cùng kỳ. Đáng chú ý Tổng tiêu thụ Năng lượng tổ chức bán ra của Công ty tăng 8% so với NĐ trước, dù Công ty đã ưu tiên sử dụng Năng lượng do tổ chức tạo ra phục vụ cho hoạt động sản xuất, điều này cho thấy tinh thần tiết kiệm, chủ động tạo ra nguồn năng lượng sạch và nỗ lực phát triển Công ty trên cơ sở tiết giảm tiêu hao năng lượng và bảo vệ môi trường xung quanh đã được kiểm soát tốt.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Hiện tại Công ty quản lý dữ liệu quan trắc khí thải Lò hơi tự động, liên tục trên phần mềm trực tuyến. Các Nhà máy Đường của Công ty đều được xây dựng hệ thống xử lý khí thải, đạt yêu cầu của Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp đối với bụi và các chất vô cơ theo Quy chuẩn Việt Nam 19:2009/BTNMT và các quy định khác theo Luật Môi trường. Đồng thời, nhằm giám sát chất lượng khí thải, các Nhà máy được trang bị hệ thống quan trắc khí thải theo đúng quy định của Thông tư 10/2021/TT-BTNMT Quy định về kỹ thuật quan trắc môi trường và quản lý thông tin, dữ liệu quan trắc chất lượng môi trường. Dữ liệu quan trắc được gửi trực tiếp đến Sở Tài nguyên Môi trường của từng địa phương. Trong NĐ 2021-2022, Công ty đã quản lý tốt phát thải trong quá trình sản xuất, không có vi phạm nào được phát hiện trong năm.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.20767,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Hầu hết lò hơi của các Nhà máy chủ yếu sử dụng nhiên liệu Sinh khối chủ yếu là Bã mía, Biomass, thay cho Than đá, nhờ vậy hạn chế được đáng kể Phát thải nhà kính. Mặt khác, công nghệ sản xuất Đường tinh luyện của Công ty áp dụng công nghệ Cacbonat hóa, nghĩa là sử dụng CO 2 và vôi trong quy trình sản xuất nhằm loại bỏ tạp chất. Do đó, lượng khí CO 2 sinh ra trong quá trình đốt lò hơi sẽ được trích thu về và tái sử dụng vào sản xuất. Ước tính tỷ lệ trích thu này khoảng 9-12% tổng lượng khói phát thải ra ngoài môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Là một doanh nghiệp sản xuất, TTC Biên Hòa luôn ý thức cao vấn đề bảo vệ môi trường thông qua hành động thiết thực Công ty có chủ trương tái sử dụng chất thải phát sinh trong quá trình sản xuất tạo ra để bảo vệ môi trường, gia tăng giá trị và giảm giá thành sản phẩm. Đồng thời, quản lý Nước thải và Chất thải trên cơ sở tổng Nước thải theo chất lượng, địa điểm thải và tổng lượng Chất thải theo loại và phương pháp xử lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "TTC Biên Hòa đề ra các KPI về quản lý chất thải và thực hiện đánh giá nội bộ 1 lần/năm. Trong NĐ vừa qua, không có vi phạm nào về việc quản lý Chất thải và Nước thải được phát hiện. Công ty quản lý Nước thải và Chất thải theo các Quy chuẩn sau:",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Đặc biệt, người thân CBNV Việt Nam đang làm việc tại Lào và Campuchia (tứ thân phụ mẫu, vợ chồng, con) dương tính với Covid-19, Công ty sẽ có chính sách hỗ trợ phù hợp nhằm động viên tinh thần CBNV yên tâm công tác. Chính sách hỗ trợ sẽ được xem xét cụ thể theo từng đối tượng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Bậc 11 trở lên: người thân bao gồm tứ thân phụ mẫu, vợ chồng, con cái, anh chị em ruột, ông/bà nội ngoại Trường hợp còn lại: người thân gồm tứ thân phụ mẫu, vợ chồng, con cái",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Định kỳ hàng năm, Công ty đều phối hợp với cơ quan chức năng để tiến hành quan trắc môi trường làm việc, kiểm tra nồng độ bụi, tiếng ồn, độ rung,... để có căn cứ nghiên cứu và đưa ra những giải pháp cải thiện, trang bị bổ sung thêm đồng phục và thiết bị bảo hộ cho nhân viên, nhằm hạn chế những tác động của môi trường đến sức khỏe Người lao động. Định kỳ, kiểm tra các phương tiện Phòng cháy chữa cháy và hệ thống quản lý An toàn lao động theo tiêu chuẩn và quy định của Pháp luật.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 7.5 HĐQT cần phải bảo đảm việc Công ty thiết lập một khung quản lý an ninh mạng phù hợp [ROWS] 1 | HĐQT cần phải có năng lực phù hợp để hiểu được rủi ro an ninh mạng, ảnh hưởng pháp lý mà các rủi ro này có thể mang lại. Nếu cần thiết, HĐQT nên sử dụng các chuyên gia độc lập về an ninh mạng để tìm hiểu về nội dung này |  |  |  [ROW] 2 | Các rủi ro an ninh mạng cần được quản lý như là 1 phần của hệ thống QLRR tổng thể thay vì quản lý tách rời khỏi hệ thống. HĐQT cần dành đủ thời gian để xem xét trao đổi về nội dung này trong các cuộc họp để bảo đảm rằng Công ty sẽ được bảo vệ an toàn trước các rủi ro an ninh mạng |  |  |  [ROW] 3 | HĐQT cần phải phê duyệt chiến lược của Công ty có tính đến đến việc giảm thiểu các rủi ro an ninh mạng gồm cả việc mua bảo hiểm để hạn chế các rủi ro |  |  |  [ROW] 4 | HĐQT cần phải xem xét các báo cáo hàng năm của bộ phận KTNB về chương trình an ninh mạng của Công ty |  |  | ",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 7
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 17 TIÊU CHÍ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC ; column_headers: 2 ĐẢM BẢO KHẢ NĂNG THÍCH ỨNG VỚI KHÍ HẬU VÀ MÔI TRƯỜNG BỀN VỮNG | MỤC TIÊU | VIỆT NAM | TTC BIÊN HÒA [ROWS] 2 ĐẢM BẢO KHẢ NĂNG THÍCH ỨNG VỚI KHÍ HẬU VÀ MÔI TRƯỜNG BỀN VỮNG [ROW] MỤC TIÊU | VIỆT NAM | TTC BIÊN HÒA [ROW] NƯỚC SẠCH & VỆ SINH | Đảm bảo đầy đủ, quản lý bền vững tài nguyên nước, hệ thống vệ sinh cho tất cả mọi người | • ~1,6 triệu lít nước tinh khiết Miaqua từ quá trình bốc hơi nước mía trong quá trình luyện Đường; • 100% nước thải sau sản xuất được xử lý và tận dụng để giải nhiệt máy móc, tưới cây, nuôi cá. Hệ thống xử lý nước thải đạt Quy chuẩn Việt Nam 40:2011/BTNMT; • 100% nhà máy và văn phòng triển khai 5S trong quản lý vệ sinh môi trường làm việc. [ROW] NĂNG LƯỢNG SẠCH Ề Ợ & BỀN VỮNG | Đảm bảo khả năng tiếp cận nguồn Năng lượng bền vững, đáng tin cậy, có khả năng chi trả cho tất cả mọi người | • ~103 triệu KWh tổng sản lượng Điện thương phẩm phát vào lưới điện quốc gia; • ~1 triệu tấn bã mía được đưa vào tái sản xuất, tạo ra nguồn điện phục vụ cho tiêu thụ nội bộ và phát vào lưới điện quốc gia, đồng thời giảm thiểu tối đa chất thải ra môi trường; • ~25 trạm điện mặt trời với tổng công suất lắp đặt ~21,46 Mwp phục vụ cho các nhà máy và văn phòng của TTC Biên Hoà. [ROW] CÔNG NGHIỆP, Ổ Ệ, ĐỔI MỚI & CƠ SỞ HẠ TẦNG | Xây dựng cơ sở hạ tầng có khả năng chống chịu cao, thúc đẩy công nghiệp hóa bao trùm, bền vững, tăng cường đổi mới | • Go-live thành công hệ thống Oracle Cloud ERP kết nối toàn hệ thống gồm 34 đơn vị thuộc 5 quốc gia: Việt Nam, Úc, Singapore, Lào và Campuchia. [ROW] ĐÔ THỊ & CỘNG ĐỒNG Ề Ị BỀN VỮNG TIÊU DÙNG & SẢN XUẤT CÓ TRÁCH NHIỆM | Phát triển đô thị, nông thôn bền vững, có khả năng chống chịu; đảm bảo môi trường sống, làm việc an toàn; phân bổ hợp lý dân cư, lao động theo vùng Đảm bảo sản xuất | • 8 dòng sản phẩm Organic đạt chuẩn EU và USDA (Hoa Kỳ); • 100% sản phẩm Đường được kiểm soát chất lượng theo quy trình chuẩn, đảm bảo vệ sinh an toàn thực phẩm khi đến tay Khách hàng; • Đạt chứng nhận SEDEX - Tiêu chuẩn về An sinh xã hội do SGS cấp, xác nhận doanh nghiệp về việc thực hành đạo đức và trách nhiệm xã hội trong chuỗi cung ứng; • Đạt chứng nhận Hàng Việt Nam chất lượng cao năm 2022. [ROW] HÀNH ĐỘNG ỨNG ẾỔ Ộ PHÓ VỚI BIẾN ĐỔI KHÍ HẬU | Ứng phó kịp thời, hiệu quả với biến đổi khí hậu và thiên tai | • Đạt tiêu chuẩn ISO 14001:2015 - Tiêu chuẩn quốc tế về Quản lý môi trường, nhằm đảm bảo giảm thiểu tối đa các tác động tiêu cực đến môi trường trong quá trình sản xuất. [ROW] TÀI NGUYÊN NƯỚC | Bảo tồn và sử dụng bền vững đại dương, biển và các nguồn tài nguyên biển cho phát triển bền vững | • 100% nhà máy được đặt trong nội địa, không tiếp giáp biển (cách bờ biển hơn 10km); • Chỉ sử dụng duy nhất 1 loại tài nguyên biển (muối biển) trong quy trình sản xuất. [ROW] TÀI NGUYÊN ĐẤT | Bảo vệ, phát triển rừng bền vững, bảo tồn đa dạng sinh học, phát triển dịch vụ hệ sinh thái, chống sa mạc hóa, ngăn chặn suy thoái và phục hồi tài nguyên đất | • Thực hiện việc thả ong mắt đỏ trên 6.000 ha mía hữu cơ và 1.000 ha mía canh tác theo tiêu chuẩn cao nhằm kiểm soát dịch hại; • Phát triển mở rộng sản xuất ong mắt đỏ trên quy mô lớn, mục tiêu đáp ứng cho 40.000 ha/năm góp phần giảm thiểu việc sử dụng thuốc trừ sâu độc hại trên đồng ruộng; • Áp dụng những kỹ thuật canh tác mang tính bền vững như trồng xen canh cây họ đậu như đậu xanh, sục sạc,... trên tổng diện tích đạt trên 2.500 ha, có thể mang lại lợi nhuận tăng thêm từ 15-20 triệu đồng/ha cho Người nông dân. Đồng thời, đây cũng là giải pháp bền vững, thân thiện với môi trường giúp tạo ra sự đa dạng sinh học, giảm thiểu các dịch hại nhờ cân bằng sinh học.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "E3": 0.777029,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E3": 2,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ẢNH HƯỞNG VỀ KẾT QUẢ TÀI CHÍNH VÀ CÁC RỦI RO/CƠ HỘI DO BIẾN ĐỔI KHÍ HẬU ; column_headers: Tên gọi | Biện pháp quản lý rủi ro/cơ hội | Các tác động đến kinh tế do rủi ro/cơ hội mang lại | Ảnh hưởng về mặt tài chính trước khi áp dụng biện pháp quản lý [ROWS] Tên gọi | Các tác động đến kinh tế do rủi ro/cơ hội mang lại | Ảnh hưởng về mặt tài chính trước khi áp dụng biện pháp quản lý | Biện pháp quản lý rủi ro/cơ hội [ROW] RỦI RO [ROW] Gió bão | Làm mía đổ ngã, giảm chất lượng và tăng chi phí thu hoạch mía, tỷ lệ thất thoát mía cao | Tình trạng mía đổ ngã có thể làm giảm năng suất mía 11-15%, giảm CCS 3-12% và giảm năng suất đường 15-35% | • Trồng mía với độ sâu đảm bảo giảm tỷ lệ đổ ngã • Bổ sung chế phẩm, phân bón kích thích rễ phát triển mạnh, tăng khả năng bám đất, hút dinh dưỡng • Lột lá tạo độ thông thoáng trên đồng ruộng • Chọn giống chống chịu, ít đổ ngã cho vùng bị ảnh hưởng bởi gió bão [ROW] Ngập úng | Ảnh hưởng đến sinh lý của cây mía, làm giảm trọng lượng cây, năng suất mía và tỷ lệ thu hồi đường | Năng suất giảm 15-20%, nếu ngập trên 15 ngày, năng suất mía có thể giảm từ 37-100% năng suất | tiêu, ao chứa nước • Vun luống đối với vùng đất thấp hoặc trồng mới vụ Hè Thu • Chuyển đổi các lô thửa có tình trạng ngập úng cao sang trồng vụ Đông Xuân [ROW] Hạn hán | Mía giảm năng suất | Năng suất giảm 30-50%, đặc biệt vùng duyên hải miền Trung Việt Nam | • Tăng khả năng giữ ẩm đất: Bón gel giữ ẩm, tăng cường phân hữu cơ, giữ lá, cày ngầm,.. • Chọn giống chịu hạn tốt cho từng vùng • Đầu tư áp dụng hệ thống tưới, chính sách phù hợp cho từng vùng • Tận dụng, tưới tiết kiệm, tích trữ đối với vùng nguồn nước hạn chế [ROW] La nina | Gây ra những hiện tượng thời tiết bất thường, khiến cây mía giảm năng suất thậm chí mất trắng nếu không kịp thời quản lý | Năng suất cây mía giảm từ 10-50% tuỳ theo tác động mà La nina gây ra đối với địa phương | • Thực hiện các biện pháp theo dõi, giám sát chặt chẽ diễn biến thời tiết và tình hình khí hậu để đánh giá tác động của La nina • Đa dạng các giải pháp trước biến động thời tiết: chủ động tưới tiêu, khai thông kênh dẫn nước, phát triển giống chống chịu các dạng thời tiết khắc nghiệt,... [ROW] CƠ HỘI [ROW] Ngập úng và hạn hán | Cạnh tranh giữa cây mía và cây trồng khác | Cây mía có sức chịu đựng tốt hơn so với các cây trồng ngắn ngày khác đối với điều kiện ngập úng và hạn hán. Do đó, các vùng đất hay bị ngập úng và hạn hán thì cây mía có lợi thế cạnh tranh nên phát triển diện tích vùng nguyên liệu tốt | • Tập trung đầu tư các vùng đất khó khăn kèm theo giải pháp như đã đề cập ở phần rủi ro để ổn định vùng nguyên liệu • Các vùng đất thuận lợi ít bị ảnh hưởng bởi thời tiết thì tăng đầu tư thâm canh tăng năng suất, từ đó giúp tối đa lợi nhuận cho Người nông dân",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: NĂNG LƯỢNG TIÊU HAO TRONG TỔ CHỨC ; column_headers: Chênh lệch niên độ 2020-2021/ niên độ 2021-2022 (%) | Các nguồn năng lượng đã tiêu thụ [ROWS] Các nguồn năng lượng đã tiêu thụ | Chênh lệch niên độ 2020-2021/ niên độ 2021-2022 (%) [ROW] (1) | Tiêu thụ Năng lượng từ việc sử dụng nhiên liệu có nguồn gốc không tái tạo (dầu mỏ, khí đốt, than đá...) | (14) [ROW] (2) | Tiêu thụ Năng lượng điện từ nguồn cấp lưới điện quốc gia | 31 [ROW] (3) | Tiêu thụ Năng lượng từ các nguồn khác như điện sinh khối có nguồn gốc tái tạo như bã mía, mùn cưa, vỏ trấu,... | 2 [ROW] (4) | Tiêu thụ Năng lượng từ các nguồn khác như điện sinh khối có nguồn gốc tái tạo như bã mía, mùn cưa, vỏ trấu,... | 3 [ROW] (5) | Tổng lượng tiêu thụ Năng lượng (1)+ (2) + (3) + (4) | 22 [ROW] (6) | Tổng Năng lượng tổ chức bán ra | 8",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Tổng lượng Nước thải theo chất lượng và địa điểm tiếp nhận Nước thải niên độ 2021-2022 ; column_headers: Nhà máy | Địa điểm xả thải | Vị trí | NĐ 2021-2022 | NĐ 2020-2021 | Lượng nước thải (m 3 ) | Chênh lệch 2020-2021/2021-2022 (%) | Phương pháp | xử lý | Chất lượng nước thải đầu ra | Nước thải sử dụng lại bởi tổ chức khác [ROWS] Địa điểm xả thải | Lượng nước thải (m 3 ) | Phương pháp [ROW] Nhà máy | Vị trí | NĐ 2020-2021 | NĐ 2021-2022 | Chênh lệch 2020-2021/2021-2022 (%) | xử lý | Chất lượng nước thải đầu ra | Nước thải sử dụng lại bởi tổ chức khác [ROW] TTCS Gia Lai | Gia Lai | 28.876 | 26.860 | (7) | Phương pháp sinh học kết hợp hóa lý | Cột B, QCVN 40:2011/BTNMT | • Tái sử dụng Nước thải sau xử lý cho hệ [ROW] Biên Hòa - Ninh Hòa | Khánh Hòa | 216.933 | 154.374 | (29) | Cột B, QCVN 40:2011/BTNMT [ROW] Biên Hòa - Phan Rang | Ninh Thuận | 9.049 | 12.363 | 37 | Cột A, QCVN 40:2011/BTNMT | thống Nước tạo chân không trong Nhà [ROW] TTCS | Tây Ninh | 166.714 | 136.019 | (18) | Cột A, QCVN 40:2011/BTNMT | • Nhà máy tái sử dụng [ROW] Biên Hòa - Đồng Nai | Đồng Nai | 93.077 | 89.985 | (3) | Cột A, QCVN 40:2011/BTNMT [ROW] TTC-Attapeu | Lào | 17.387 | 34.386 | 98 | Cột B, QCVN 40:2011/BTNMT",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Phân loại Chất thải theo phương pháp xử lý tại các Nhà máy TTC Biên Hòa (ĐVT: Tấn) ; column_headers: Chất thải nguy hại | Chất thải thông thường | Niên độ 2020-2021 | Niên độ 2021-2022 ; row_headers: Ủ phân | Đốt (đốt khối lượng lớn) | Thuê đơn vị chức năng xử lý [ROWS] Niên độ 2020-2021 | Niên độ 2021-2022 [ROW] Chất thải nguy hại | Chất thải thông thường | Chất thải nguy hại | Chất thải thông thường [ROW] Ủ phân | 0 | 29.122 | 0 | 19.349 [ROW] Đốt (đốt khối lượng lớn) | 0 | 665.586 | 0 | 656.680 [ROW] Thuê đơn vị chức năng xử lý | 11 | 31",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Sức trẻ không giới hạn ở khái niệm cơ bắp hay tuổi tác, sức trẻ chính là thái độ sống tích cực, là tinh thần làm việc trách nhiệm, không ngại gian khó, không ngại xông pha. Miễn chúng ta có điều đó thì dù ở độ tuổi nào, thì ta vẫn có sức trẻ, vui vẻ, lạc quan và cháy hết mình. Đây chính là cơ sở của chuỗi chương trình SỨC TRẺ SACOMBANK, do chính CEO Nguyễn Đức Thạch Diễm phát động. Mục tiêu là khuyến khích CBNV tăng cường rèn luyện thân thể, phát huy ý chí quyết tâm và sức sáng tạo để làm nên những kết quả tốt đẹp trong công việc và cuộc sống, theo đúng tiêu chí \"Người Sacombank: Khỏe thể chất - Mạnh tinh thần\".",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: BẢNG TUÂN THỦ GRI STANDARDS (tiếp theo) ; column_headers: GRI STANDARDS | THÔNG TIN CÔNG BỐ | NỘI DUNG TRONG BÁO CÁO | TRANG [ROWS] GRI STANDARDS | THÔNG TIN CÔNG BỐ | NỘI DUNG TRONG BÁO CÁO | TRANG [ROW] GRI 409: LAO ĐỘNG CƯỠNG BỨC HOẶC BẮT BUỘC [ROW] 409-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc | Không phát sinh [ROW] GRI 411: QUYỀN CỦA NGƯỜI BẢN ĐỊA [ROW] 411-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc. Các vụ vi phạm liên quan đến quyền của | Không phát sinh [ROW] GRI 409: LAO ĐỘNG CƯỠNG BỨC HOẶC BẮT BUỘC [ROW] 409-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc | Không phát sinh [ROW] GRI 413: CỘNG ĐỒNG ĐỊA PHƯƠNG [ROW] 413-1 | Những hoạt động có sự tham gia c ủa cộng đồng địa phương, đánh giá tác động và các chương trình phát triển | Hoạt động cộng đồng năm 2019 140-143 [ROW] GRI 416: AN TOÀN VÀ SỨC KHỎE CỦA KHÁCH HÀNG [ROW] 416-1 | Đánh giá tác động về sức khỏe và an toàn của các phân loại sản phẩm hoặc dịch vụ Các vụ việc không tuân thủ liên quan | Không phát sinh [ROW] GRI 417: TIẾP THỊ VÀ NHÃN HIỆU [ROW] 417-1 | Các yêu cầu đối với thông tin nhãn hiệu, sản phẩm và dịch vụ | Không phát sinh [ROW] 417-2 | Vụ việc không tuân thủ liên quan đến thông tin nhãn hiệu, sản phẩm và dịch vụ [ROW] 417-3 | Các vụ việc không tuân thủ liên quan đến truyền thông tiếp thị",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "S4": 5,
+        "S6": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Dự phòng cụ thể (tiếp theo) ; column_headers: Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 3 Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: » Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. | 20% [ROW] 4 Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. | 50% [ROW] 5 Nợ có khả năng mất vốn | (a) Nợ quá hạn trên 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc (d) Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã quá hạn; hoặc (e) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc (f) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc (g) Nợ của khách hàng là tổ chức tín dụng được NHNN Việt Nam công bố đặt vào tình trạng kiểm soát đặc biệt, hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa vốn và tài sản. | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

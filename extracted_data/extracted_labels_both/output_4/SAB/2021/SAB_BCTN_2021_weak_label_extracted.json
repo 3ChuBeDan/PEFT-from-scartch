@@ -1,0 +1,47 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 998,
+      "text": "Tất cả nhà máy đều đảm bảo nước thải đạt chất lượng theo tiêu chuẩn QCVN 4 0:2011 (loại A hoặc loại B) trước khi xả ra môi trường hoặc xả vào hệ thống thu gom nước thải của khu công nghiệp. Công tác quan trắc môi trường nước thải định kỳ của các đơn vị đều tuân thủ đúng tần suất như trong báo cáo Đánh giá tác động môi trường (ĐTM) được phê duyệt.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "E_COMMON": 1.0,
+        "S6": 0.412568
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E_COMMON": 3,
+        "S6": 1
+      }
+    },
+    {
+      "paragraph_id": 999,
+      "text": "Ngoài ra, các nhà máy đều có silo chứa bả hèm và kho chứa bao bì phế liệu. Rác thải sinh hoạt được chứa đựng trong các thùng rác có nắp đậy và kho chứa chất thải trước khi đem đi xử lý. Đối với chất thải nguy hại, các nhà máy đều có hợp đồng với các đơn vị có chức năng vận chuyển và xử lý. Hệ thống thu gom và lên men bùn vi sinh từ hệ thống xử lý nước thải thu khí phát điện và làm phân vi sinh được đầu tư.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "UBKT thực hiện giám sát tính hiệu quả các hoạt động kiểm soát nội bộ của SABECO nhằm phòng chống gian lận và đảm bảo tuân thủ điều lệ, quy chế nội bộ của Tổng Công ty cũng như pháp luật hiện hành. UBKT chú trọng giám sát tính hiệu quả của kiểm toán nội bộ cũng như giám sát hệ thống quản lý rủi ro. UBKT rà soát hệ thống kiểm soát nội bộ hàng quý của SABECO dựa vào báo cáo kiểm toán của Ban Kiểm toán nội bộ. Báo cáo bao gồm các khuyến nghị đề xuất cải thiện một số hoạt động kiểm soát nội bộ để hoạt động kinh doanh của Tổng Công ty đầy đủ hơn, phù hợp và đạt hiệu quả cao. Ngoài ra, UBKT còn hỗ trợ SABECO trong việc xem xét chính sách tố giác sai phạm, sửa đổi Điều lệ Kiểm toán nội bộ và các quy trình tuân thủ khác.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Tất cả nhà máy đều đảm bảo nước thải đạt chất lượng theo tiêu chuẩn QCVN 40:2011/BTNMT (loại A hoặc loại B) trước khi xả ra môi trường hoặc xả vào hệ thống thu gom nước thải của khu công nghiệp. Công tác quan trắc môi trường nước thải định kỳ của các đơn vị đều tuân thủ đúng tần suất như trong báo cáo Đánh giá tác động môi trường (ĐTM) được phê duyệt.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "E_COMMON": 1.0,
+        "S6": 0.412568
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E_COMMON": 3,
+        "S6": 1
+      }
+    },
+    {
+      "text": "Ngoài ra, các nhà máy đều có silo chứa bả hèm và kho chứa bao bì phế liệu. Rác thải sinh hoạt được chứa đựng trong các thùng rác có nắp đậy và kho chứa chất thải trước khi đem đi xử lý. Đối với chất thải nguy hại, các nhà máy đều có hợp đồng với các đơn vị có chức năng vận chuyển và xử lý. Hệ thống thu gom và lên men bùn vi sinh từ hệ thống xử lý nước thải thu khí phát điện và làm phân vi sinh được đầu tư.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

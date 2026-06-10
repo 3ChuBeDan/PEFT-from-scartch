@@ -1,0 +1,176 @@
+{
+  "extracted_count": 12,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Chất thải rắn phát sinh trong công ty đều được thực hiện phân loại, thu gom và chuyển giao xử lý theo đúng yêu cầu của pháp luật. Chất thải được phân loại tại nguồn, mỗi loại chất thải đều chứa trong thùng rác có dấu hiện nhận dạng riêng. Khi thùng chứa chất thải đầy thì được chuyển về nhà chứa rác của công ty theo đúng khu vực quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Đối với chất thải nguy hại, Tập đoàn Hoa Sen đã được cấp Sổ chủ nguồn thải chất thải nguy hại và đã thực hiện điều chỉnh Sổ chủ nguồn thải khi có khối lượng chất thải phát sinh. Tập đoàn Hoa Sen đã ký hợp đồng với các đơn vị có đủ chức năng và được cấp phép để vận chuyển và xử lý chất thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÔNG TY TNHH HOA SEN ECO-HOMES [ROWS] STT TÊN CN | ĐỊA CHỈ | KHU VỰC | STT TÊN CN ĐỊA CHỈ | KHU VỰC | STT TÊN CN ĐỊA CHỈ | KHU VỰC STT TÊN CN | ĐỊA CHỈ | KHU VỰC [ROW] Quỳnh Phụ 169 | Nhà VP Cty TNHH Thương Mại Tổng hợp Hoàng Trọng, ThPhBồXQh HHQh PhTThBh y g g p g g Thôn Phúc Bồi, X. Quỳnh Hưng, H. Quỳnh Phụ, T. Thái Bình | Nam Định - Thái Bình | Quốc lộ 10, Xã Nga Mỹ, Huyện Nga Sơn, Tỉnh Thh HVN g Thanh Hóa, Việt Nam Nga Sơn 211 | Thanh Hóa | Quốc lộ 10, Xã Khánh An, Huyện Yên Khánh, Tỉnh Nh BhVN Ninh Bình, Việt Nam Kho Tôn xốp YKhh Yên Khánh 253 | Hà Nam - Ninh Bình | Krông Nô 295 | Quốc lộ 28, Xã Nam Đà, Huyện Krông Nô, Tỉnh Đắk NVN Đắk Nông, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Tứ Kỳ 170 | Xóm Đông Thái, Thôn Thái An, Xã Quang Phục, HTKTh HDVN g Huyện Tứ Kỳ, Tỉnh Hải Dương, Việt Nam | Hải Dương - Hưng Yên | Thôn Ngọc Tỉnh, Xã Thiệu Phú, Huyện Thiệu Hóa, Th Thh HVN g Tỉnh Thanh Hóa, Việt Nam Thiệu Hóa 212 | Thanh Hóa | Quốc lộ 5, Xã Bạch Sam, Huyện Mỹ Hào, Tỉnh HYVN Hưng Yên, Việt Nam Kho Tôn xốp MH Mỹ Hào 254 | Hải Dương - Hưng Yên | Ea Kar 296 | Thôn Cư An, Xã Cư Huê, Huyện Ea Kar, Tỉnh Đắk LắkVN Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Phổ Yên 171 | Xóm Thanh Hoa, Xã Trung Thành, Thị Xã Phổ Yên, Th ThNVN g Tỉnh Thái Nguyên, Việt Nam | Tổ 05 | Đưởng Tỉnh 971, Xóm 7, Xã Tràng An, Huyện Bình LTh HNVN g Lục, Tỉnh Hà Nam, Việt Nam Lý Nhân 213 | Hà Nam - Ninh Bình | Quốc lộ 2, Khu 8, Xã Sóc Đăng, Huyện Đoan Hùng, Th PhThVN Tỉnh Phú Thọ, Việt Nam Kho Tôn xốp ĐH p Đoan Hùng 255 | Phú Thọ - Vĩnh Phúc | Krông Pắk 297 | Khối 11, Thị trấn Phước An, Huyện Krông Pắk, Tỉnh Đắk LắkVN Đắk Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Đức Thọ 172 | Quốc lộ 8A, Vùng Quy hoạch Đồng Cháng, Xã TẢhHĐThTh HThVN Quốc ộ 8, Vùg Quy oạcồg Cág, ã Tùng Ảnh, Huyện Đức Thọ, Tỉnh Hà Tĩnh, Việt Nam | Hà Tĩnh Nam Định - | Quốc lộ 37, Xóm 2, Thị trấn Hùng Sơn, Huyện Đại TTh ThNVN Từ, Tỉnh Thái Nguyên, Việt Nam Đại Từ 214 | Tổ 05 | Quốc lộ 1A, Xã Quảng Lĩnh, Huyện Quảng Xương, Th Thh HVN g Tỉnh Thanh Hóa, Việt Nam Kho Tôn xốp QX p Quảng Xương 256 | Phú Thọ - Vĩnh Phúc | Buôn Hồ 298 | Số 861 Đường Hùng Vương, Phường Thiện An, Thị BHồTh Đắk LắkVN g g gg xã Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Hưng Hà 173 | Nhà Ông Tầng, Khu Đồng Tu 2, Thị trấn Hưng Hà, HHHTh ThBhVN g gg Huyện Hưng Hà, Tỉnh Thái Bình., Việt Nam | Thái Bình | Quốc lộ 32, Bản Cẩm Trung 4, Xã Mường Than, HThUTh LChVN g Huyện Than Uyên, Tỉnh Lai Châu, Việt Nam Than Uyên 215 | Lào Cai - Lai Châu | Nhà Ông Đỗ Tất Thắng, Quốc Lộ 39B, Thôn Đoài, XHBhHKếXTThBhVN g g Xã Hòa Bình, H. Kiến Xương, T. Thái Bình, Việt Nam Kiến Xương 257 | Nam Định - Thái Bình | Cư M'gar 299 | Tỉnh lộ 8, Thôn 1, Xã Ea Kpam, Huyện Cư M'gar, Th Đắk LắkVN Tỉnh Đắk Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Nam Trực 174 | Tỉnh lộ 490C, Xã Nam Thái, Huyện Nam Trực, Tỉnh NĐhVN Nam Định, Việt Nam | Nam Định - Thái Bình | Km 496, Quốc lộ 1A, Xóm Thượng Gia, Xã Tiến LHCLTh HThVN g Lộc, Huyện Can Lộc, Tỉnh Hà Tĩnh, Việt Nam Can Lộc 216 | Hà Tĩnh | Thửa đất số 1, tờ bản đồ số 00, Thôn Trình Trung ĐXANhHTềHTThBhVN g Đông, X. An Ninh, H. Tiền Hải, T.Thái Bình, Việt Nam Tiền Hải 258 | Nam Định - Thái Bình | Krông Ana 300 | Thôn Quỳnh Tân 3, Thị trấn Buôn Trấp, Huyện Krông ATh Đắk LắkVN ỳ Ana, Tỉnh Đắk Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Tiên Lãng 175 | Khu 5, Thị trấn Tiên Lãng, Huyện Tiên Lãng, Thành hố HPhVN g phố Hải Phòng, Việt Nam | Hải Phòng | Quốc lộ 21A, Thôn Đồng Phú, Xã Đồng Tâm, Huyện LThTh HBhVN g Lạc Thủy, Tỉnh Hòa Bình, Việt Nam Lạc Thủy 217 | Hòa Bình | Quốc lộ 48A, Khối Hạnh Khai, Thị Trấn Tân Lạc, Huyện Quỳ Châu, Tỉnh Nghệ An, Việt Nam Quỳ Châu 259 | Nghệ An | M'Đrắk 301 | Thôn 3, Xã Krông Jing, Huyện M'Đrắk, Tỉnh Đắk LắkVN Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Vĩnh Bảo 176 | Quốc lộ 10, Xóm Đồng Quan, Xã Dũng Tiến, Huyện Vh BThh hố HPhVN g g Vĩnh Bảo, Thành phố Hải Phòng, Việt Nam | Hải Phòng | Đường 304, Thôn Câu Hạ A, Xã Quang Trung, HALThh hố HPhVN g g Huyện An Lão, Thành phố Hải Phòng, Việt Nam An Lão 218 | Hải Phòng | Quốc lộ 6, Bản Phát, Xã Chiềng Mung, Huyện Mai STh SLVN Sơn, Tỉnh Sơn La, Việt Nam Kho Tôn xốp Sơn La 260 | Hải Dương - Hưng Yên | Cư Kuin 302 | Quốc lộ 27, Thôn 2, Xã Ea Tiêu, Huyện Cư Kuin, Th Đắk LắkVN Tỉnh Đắk Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Từ Sơn 177 | Nhà riêng Ông Dương Danh Trọng, Khu Ông Đống, Kp. Vh KềPĐồNTX TSTBắNhVN g g g gg gp Vĩnh Kiều, P. Đồng Nguyên, TX Từ Sơn, T. Bắc Ninh, Việt Nam | Tổ 04 | Đường 404, Thôn Quế Lâm, Xã Thụy Hương, Huyện KếThThh hố HPhVN g y g Kiến Thụy, Thành phố Hải Phòng, Việt Nam Kiến Thụy 219 | Hải Phòng | Quốc Lộ 37, Bản Bó 1, Xã Huy Hạ, Huyện Phù Yên, Th SLVN Tỉnh Sơn La, Việt Nam Phù Yên 261 | Sơn La - Điện Biên | Krông Búk 303 | Quốc lộ 14, Thôn Tân Lập 3, Xã Pơng Đrang, Huyện KBkTh Đắk LắkVN p Krông Buk, Tỉnh Đắk Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Việt Yên 178 | Đường 398, Thôn Trung, Xã Nghĩa Trung, Huyện VYTh BắGVN g gg Việt Yên, Tỉnh Bắc Giang, Việt Nam | Tổ 04 | Quốc lộ 7A, Bản Mon, Xã Thạch Giám, Huyện TDTh NhAVN Tương Dương Tỉnh Nghệ An, Việt Nam Tương Dương 220 | Nghệ An | Quốc lộ 47, Phố Mới, Phường Quảng Thọ, Thành hố SầSTh Thh HVN g g phố Sầm Sơn, Tỉnh Thanh Hóa, Việt Nam Sầm Sơn 262 | Thanh Hóa | Gia Nghĩa 2 304 | Đường Hùng Vương, Tổ 5, Phường Nghĩa Trung, Thị GNhTh Đắk NVN g g gg g xã Gia Nghĩa, Tỉnh Đắk Nông, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Lạc Sơn 179 | Quốc lộ 12B, Xóm Nam Hòa, Xã Xuất Hóa, Huyện LSTh HBhVN Lạc Sơn, Tỉnh Hòa Bình, Việt Nam | Hòa Bình | Quốc lộ 6, Tiểu khu 4, Xã Tông Lạnh, Huyện Thuận ChTh SLVN Châu, Tỉnh Sơn La, Việt Nam Thuận Châu 221 | Sơn La - Điện Biên | Đường Dây Nhất, Xã Nghĩa Lạc, Huyện Nghĩa HTh NĐhVN g y g Hưng, Tỉnh Nam Định, Việt Nam Nghĩa Hưng 263 | Nam Định - Thái Bình | Buôn Ma Thuột 305 | Khối 8, Phường Khánh Xuân, Thành phố Buôn Ma ThTh Đắk LắkVN g Thuột, Tỉnh Đắk Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Hồng Lĩnh 180 | Số 196, Đường Quang Trung, Phường Nam Hồng, ThXHồLhTh HThVN g g gg Thị Xã Hồng Lĩnh, Tỉnh Hà Tĩnh, Việt Nam | Hà Tĩnh | Quốc lộ 23, Xã Tiền Châu, Thị Xã Phúc Yên, Tỉnh Vĩnh Phúc, Việt Nam Phúc Yên 222 | Phú Thọ - Vĩnh Phúc | Đường Tỉnh 190, Thôn Trung Tâm, Xã Phúc Thịnh, HChHTh TQVN g g Huyện Chiêm Hóa, Tỉnh Tuyên Quang, Việt Nam Chiêm Hóa 264 | Tổ 06 | Buôn Đôn 306 | Thôn 14, Xã Tân Hòa, Huyện Buôn Đôn, Tỉnh Đắk LắkVN Lắk, Việt Nam | Đắk Lắk - Đắk Nông [ROW] Giao Thủy 181 | Tỉnh lộ 489, Xóm 1, Xã Hoành Sơn, Huyện Giao ThTh NĐhVN Thủy, Tỉnh Nam Định, Việt Nam | Nam Định - Thái Bình | Đường Hồ Chí Minh, Thôn Ngọc Minh, Xã Ngọc KhHNLTh Thh HVN g gg Khê, Huyện Ngọc Lặc, Tỉnh Thanh Hóa, Việt Nam Ngọc Lặc 223 | Thanh Hóa | Quốc lộ 217, Xã Thiết Ống, Huyện Bá Thước, Tỉnh Thh HVN Thanh Hóa, Việt Nam Bá Thước 265 | Thanh Hóa | Gia Lai 307 | 174 Trường Chinh, Tổ 4, Phường Trà Bá, Thành phố PlkTh GLVN g Pleiku, Tỉnh Gia Lai, Việt Nam | Gia Lai - Kon Tum [ROW] Tân Lạc 182 | Quốc lộ 6, Xóm Đai, Xã Quy Hậu, Huyện Tân Lạc, Th HBhVN Tỉnh Hòa Bình, Việt Nam | Hòa Bình | Đường Trung Tâm Thị trấn, Khu 2A, Xã Tân Phú, HTSTh PhThVN g g Huyện Tân Sơn, Tỉnh Phú Thọ, Việt Nam Tân Sơn 224 | Phú Thọ - Vĩnh Phúc | Quốc lộ 18A, Đội 2, Xã Hải Lạng, Huyện Tiên Yên, Th QNhVN Tỉnh Quảng Ninh, Việt Nam Tiên Yên 266 | Quảng Ninh | Chư Sê 308 | Thôn 7, Xã Ia Blang, Huyện Chư Sê, Tỉnh Gia Lai, VN Việt Nam | Gia Lai - Kon Tum [ROW] Hiệp Hòa 183 | Quốc lộ 37, Thôn Chớp, Xã Lương Phong, Huyện HHTh BắGVN pg Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam | Tổ 04 | Quốc lộ 47, Thôn 1, Xã Đông Anh, Huyện Đông STh Thh HVN g Sơn, Tỉnh Thanh Hóa, Việt Nam Đông Sơn 225 | Thanh Hóa | Đường Tỉnh 286, Thôn Phú Mẫn, Thị trấn Chờ, HYPhTh BắNhVN g Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam Yên Phong 267 | Tổ 04 | Kon Tum 309 | Số nhà 293, Đường Phan Đình Phùng, Phường Duy TThh hố KTTh KTVN g gg Tân, Thành phố Kon Tum, Tỉnh Kon Tum, Việt Nam | Gia Lai - Kon Tum [ROW] Thị xã Phú Thọ 184 | Đường Đinh Tiên Hoàng, Khu 15, Xã Hà Lộc, Thị Xã PhThTh PhThVN g g Phú Thọ, Tỉnh Phú Thọ, Việt Nam | Phú Thọ - Vĩnh Phúc | Quốc lộ 279, Tổ 2, Khu 1, Phường Hà Khẩu, Thành hố HLTh QNhVN g phố Hạ Long, Tỉnh Quảng Ninh, Việt Nam Hạ Long 226 | Quảng Ninh | Quốc lộ 4E, Tổ 5, Phường Thống Nhất, Thành phố LCVN Lào Cai, Việt Nam Lào Cai 268 | Lào Cai - Lai Châu | Ngọc Hồi 310 | Thôn 5, Thị trấn Plei Kần, Huyện Ngọc Hồi, Tỉnh KTVN Kon Tum, Việt Nam | Gia Lai - Kon Tum [ROW] Kim Bôi 185 | Tỉnh lộ 12B, Thôn Mến Bôi, Xã Hợp Kim, Huyện Kim BTh HBhVN Bôi, Tỉnh Hòa Bình, Việt Nam | Hòa Bình | Đường Hồng Hà, Tổ 2, Thôn Hồng Phong, Thị trấn MAHVYTh YBVN g g g g Mậu A, Huyện Văn Yên, Tỉnh Yên Bái, Việt Nam Văn Yên 227 | Tổ 06 | Thạch Thành 269 | Thanh Hóa | Chư Prông 311 | Đường Hùng Vương, Thị trấn Chư Prông, Huyện Chư PTh GLVN g g g Prông, Tỉnh Gia Lai, Việt Nam | Gia Lai - Kon Tum [ROW] Yên Dũng 186 | Tỉnh lộ 284, Thôn Minh Phượng, Xã Nham Sơn, HYDTh BắGVN g Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam | Tổ 04 | Quốc lộ 70B, Xã Đồng Thịnh, Huyện Yên Lập, Tỉnh PhThVN Yên Lập 228 | Phú Thọ - Vĩnh Phúc | Quốc lộ 45, Xóm Yên, Xã Thành Vân, Huyện Thạch ThhTh Thh HVN Thành, Tỉnh Thanh Hóa, Việt Nam Quốc lộ 10, Xã Đông Sơn, Huyện Thuỷ Nguyên, Thh hố HPh Tôn xốp ThN p Thủy Nguyên 270 | g Thành phố Hải Phòng. Hải Phòng | Đắk Đoa 312 | Tổ dân phố 9, Đường Nguyễn Huệ, Thị trấn Đăk ĐHĐắk ĐTh GLVN pg gy Đoa, Huyện Đắk Đoa, Tỉnh Gia Lai, Việt Nam | Gia Lai - Kon Tum [ROW] Cẩm Phả 187 | Số nhà 461, Đường Hoàng Quốc Việt, Tổ 66, Khu Diêm ThPCẩĐTPCẩPhTQNhVN g g Thủy, P. Cẩm Đông, TP. Cẩm Phả, T. Quảng Ninh, Việt Nam | Quảng Ninh | Phú Thọ, Việt Nam Quốc lộ 10, Xã Tam Thanh, Huyện Vụ Bản, Tỉnh NĐh Nam Định Vụ Bản 229 | Nam Định - Thái Bình | Quốc lộ 6 cũ, khu 2, Thị trấn Cao Phong, Huyện CPhTh HBhVN Cao Phong, Tỉnh Hòa Bình, Việt Nam. Cao Phong 271 | Hòa Bình | An Khê 313 | Tổ 3, Phường Ngô Mây, Thị xã An Khê, Tỉnh Gia LVN g Lai, Việt Nam | Gia Lai - Kon Tum [ROW] Sông Mã 188 | Quốc lộ 4G, Bản Quyết Tiến, Xã Nà Nghịu, Huyện SMTh SLVN y Sông Mã, Tỉnh Sơn La, Việt Nam | Sơn La - Điện Biên | Quốc lộ 38, Xã Quang Vinh, Huyện Ân Thi, Tỉnh HYVN Hưng Yên, Việt Nam Ân Thi 230 | Hải Dương - Hưng Yên | Đường Tỉnh 506, Thôn Phong Lạc 1, Xã Nam GHThXTThh HVN g g Giang, H. Thọ Xuân, T. Thanh Hóa, Việt Nam. Thọ Xuân 2 272 | Thanh Hóa | Ea H'leo 314 | Thôn 2, Xã Ea Ral, Huyện Ea H'leo, Tỉnh Đắk Lắk, VN Việt Nam | Gia Lai - Kon Tum [ROW] Tam Điệp 189 | Quốc lộ 1A, Tổ dân phố Ghềnh, Phường Yên Bình, Thh hố TĐTh Nh BhVN pg Thành phố Tam Điệp, Tỉnh Ninh Bình, Việt Nam | Hà Nam - Ninh Bình | Quốc lộ 37, Thôn 13, Xã Tân Thịnh, Huyện Văn ChấTh YBVN Chấn, Tỉnh Yên Bái, Việt Nam Văn Chấn 231 | Tổ 06 | Quốc lộ 10, Xã Hoa Lộc, Huyện Hậu Lộc, Tỉnh Thh HVN Thanh Hóa, Việt Nam. Hậu Lộc 273 | Thanh Hóa | Tuy Phước 315 | Thôn Mỹ Điền, Thị trấn Tuy Phước, Huyện Tuy Phước, Th Bh ĐhVN ỹ Tỉnh Bình Định, Việt Nam | Bình Định Bình Định [ROW] Kinh Môn 190 | Tỉnh lộ 388, Xã Long Xuyên, Huyện Kinh Môn, Tỉnh HDVN g Hải Dương, Việt Nam | Hải Dương - Hưng Yên | Quốc lộ 37, Xóm Thuần Pháp, Xã Điềm Thụy, Huyện PhBhTh ThNVN p Phú Bình, Tỉnh Thái Nguyên, Việt Nam Phú Bình 232 | Tổ 05 | Quốc lộ 39A, Thôn Kinh Nậu, Xã Đông Kinh, Huyện ĐHTh ThBhVN Đông Hưng 274 | Nam Định - Thái Bình | Tây Sơn Phù Cát 316 317 | Thôn 1, Xã Bình Nghi, Huyện Tây Sơn, Tỉnh Bình ĐhVN Định, Việt Nam | Bình Định [ROW] Tuần Giáo 191 | Quốc lộ 279, Ao Noọng Rốm, Khối Đồng Tâm, TT. TầGHTầGTh ĐBVN g g Tuần Giáo, H. Tuần Giáo, Tỉnh Điện Biên, Việt Nam | Sơn La - Điện Biên | Đưởng Tỉnh 477, Thôn Bích Sơn, Xã Gia Vân, HGVễTh Nh BhVN g Huyện Gia Viễn, Tỉnh Ninh Bình, Việt Nam Gia Viễn 233 | Hà Nam - Ninh Bình | g Đông Hưng, Tỉnh Thái Bình, Việt Nam. Quốc lộ 23B, Xã Thanh Lâm, Huyện Mê Linh, Thành hố HNVN phố Hà Nội, Việt Nam. Mê Linh 275 | TP. Hà Nội | Thôn Hòa Dõng, Xã Cát Tân, Huyện Phù Cát, Tỉnh Bh ĐhVN g Bình Định, Việt Nam [ROW] 192 | Quốc lộ 46, Khối 12, Thị trấn Thanh Chương, HThh ChTh NhAVN Huyện Thanh Chương, Tỉnh Nghệ An, Việt Nam | Nghệ An | Đường Tỉnh 163, Thôn 5, Thị trấn Cổ Phúc, Huyện TấYTh YBVN g Trấn Yên, Tỉnh Yên Bái, Việt Nam. Trấn Yên 276 | Thôn Diêm Tiêu, Thị trấn Phù Mỹ, Huyện Phù Mỹ, Th Bh ĐhVN Tỉnh Bình Định, Việt Nam | Bình Định [ROW] Thanh Chương | Nhà ông Lưu Văn Hưu, Quốc lộ 70, Tổ 7C, Thị trấn Phố RHBYTh LCVN g Phố Ràng, Huyện Bảo Yên, Tỉnh Lào Cai, Việt Nam Bảo Yên 234 | Lào Cai - Lai Châu | Tổ 06 | Phù Mỹ 318 [ROW] Quế Võ 193 | Quốc lộ 18, Thôn Lựa, Xã Việt Hùng, Huyện Quế VTh BắNhVN Võ, Tỉnh Bắc Ninh, Việt Nam | Tổ 04 | Quốc lộ 32, Thôn Tân Phú Mỹ, Xã Vật Lại, Huyện Ba VThh hố HNVN ỹ Vì, Thành phố Hà Nội, Việt Nam Ba Vì 235 | TP. Hà Nội | Khu đất Thôn Tế Tiêu, Thị trấn Đại Nghĩa, Huyện Mỹ ĐThh hố HNVN Đức, Thành phố Hà Nội, Việt Nam. Mỹ Đức 277 | TP. Hà Nội | Bồng Sơn 319 | Khối Thiết Đính Bắc, Thị trấn Bồng Sơn, Huyện Hoài NhTh Bh ĐhVN Nhơn, Tỉnh Bình Định, Việt Nam | Bình Định [ROW] Kim Sơn 194 | Tỉnh lộ 481, Xóm 8, Xã Yên Lộc, Huyện Kim Sơn, Th Nh BhVN Tỉnh Ninh Bình, Việt Nam | Hà Nam - Ninh Bình | Quốc lộ 12B, Xóm Tân Thành, Xã Yên Lạc, Huyện YThTh HBhVN Yên Thủy, Tỉnh Hòa Bình, Việt Nam Yên Thủy 236 | Hòa Bình | Quốc lộ 1A, Xã Kỳ Tiến, Huyện Kỳ Anh, Tỉnh Hà ThVN Tĩnh, Việt Nam. Kỳ Anh II 278 | Hà Tĩnh | Tuy Phước 2 320 | Quốc lộ 1A, Thôn Quảng Tín, Xã Phước Lộc, Huyện TPhTh Bh ĐhVN g Tuy Phước, Tỉnh Bình Định, Việt Nam | Bình Định [ROW] Nho Quan 195 | Đường 477, Xã Lạc Vân, Huyện Nho Quan, Tỉnh Nh BhVN g Ninh Bình, Việt Nam | Hà Nam - Ninh Bình | Quốc lộ 8A, Thôn Vọng Sơn, Xã Sơn Phú, Huyện HSTh HThVN g Hương Sơn, Tỉnh Hà Tĩnh, Việt Nam Hương Sơn 237 | Hà Tĩnh | Đường Tỉnh 106, bản Nong Heo, Thị trấn Ít Ong, HMLTh SLVN g g Huyện Mường La, Tỉnh Sơn La, Việt Nam. Mường La 279 | Sơn La - Điện Biên | Quy Nhơn 321 | Đường Tây Sơn, Tổ 2, Khu vực 7, Phường Nhơn Phú, Thh hố QNhTh Bh ĐhVN g y g Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam | Bình Định [ROW] Yên Bình 196 | Đường Hương Lý - Văn Phú, Tổ 14A, Thị trấn Yên BhHYBhTh YBVN g g ý Bình, Huyện Yên Bình, Tỉnh Yên Bái, Việt Nam | Tổ 06 | Quốc lộ 31, Thôn 6, Xã Phương Sơn, Huyện Lục NTh BắGVN Nam, Tỉnh Bắc Giang, Việt Nam Lục Nam 238 | Tổ 04 | Tổ Phúc Ninh, Phường Cam Phúc Nam, Thành phố CRhTh Khh HVN g Cam Ranh, Tỉnh Khánh Hoà, Việt Nam Cam Ranh 280 | Khánh Hòa - Phú Yên | Hoài Nhơn 322 | Khối 3, Thị trấn Tam Quan, Huyện Hoài Nhơn, Tỉnh Bh ĐhVN Bình Định, Việt Nam | Bình Định [ROW] Cẩm Khê 197 | Quốc lộ 32C, Khu 1, Xã Cát Trù, Huyện Cẩm Khê, Th PhThVN Tỉnh Phú Thọ, Việt Nam | Phú Thọ - Vĩnh Phúc Phú Thọ - Vĩnh Phúc | Quốc lộ 7, Xóm 10, Xã Bảo Thành, Huyện Yên ThhTh NhAVN Thành, Tỉnh Nghệ An, Việt Nam Bản Nà Đa, Thị trấn Tam Đường, Huyện Tam Đường, Th LChVN Tỉnh Lai Châu, Việt Nam Bảo Thành Tam Đường 239 240 | Nghệ An Lào Cai - Lai Châu | Thôn Phú Khánh, Xã Diên Thạnh, Huyện Diên KhhTh Khh HVN Khánh, Tỉnh Khánh Hoà, Việt Nam Diên Khánh 281 | Khánh Hòa - Phú Yên | Quy Nhơn 2 323 | Đường Đào Tấn, Phường Nhơn Phú, Thành phố Quy NhTh Bh ĐhVN g g Nhơn, Tỉnh Bình Định, Việt Nam Thôn Gò Cau, Thị trấn Tăng Bạt Hổ, Huyện Hoài ÂTh Bh ĐhVN | Bình Định Bình Định [ROW] Yên Lạc 198 | Km 41, Quốc lộ 2, Cụm công nghiệp Đồng Văn, Xã ĐồVHYLTVh PhVN g gp g Đồng Văn, H. Yên Lạc, T. Vĩnh Phúc, Việt Nam | Quốc lộ 1A, Thôn Ninh Ích, Xã Ninh An, Thị xã Ninh Hòa, Tỉnh Khánh Hòa, Việt Nam Ninh Hòa 282 | Khánh Hòa - Phú Yên | Hoài Ân 324 | , ị g Ân, Tỉnh Bình Định, Việt Nam [ROW] Mỹ Hào 199 | Quốc lộ 5, Thôn Thịnh Vạn, Xã Minh Đức, Huyện MHTh HYVN Mỹ Hào, Tỉnh Hưng Yên, Việt Nam | Hải Dương - Hưng Yên | Quốc lộ 70, Thôn Xả Hồ, Xã Phong Niên, Huyện BThắTh LCVN Bảo Thắng, Tỉnh Lào Cai, Việt Nam Bảo Thắng 241 | Lào Cai - Lai Châu | Thôn Tân Thành, Xã Suối Bạc, Huyện Sơn Hòa, Tỉnh PhYVN Phú Yên, Việt Nam Sơn Hòa 283 | Khánh Hòa - Phú Yên | Bình Sơn 325 | Thôn Long Bình, Xã Bình Long, Huyện Bình Sơn, Tỉnh QNVN g Quảng Ngãi, Việt Nam | Quảng Ngãi [ROW] Hàm Yên Tiên Lữ 200 201 | Quốc lộ 2, Tổ dân phố Tân Quang, Thị trấn Tân Yên, HHYTh TQVN pg Huyện Hàm Yên, Tỉnh Tuyên Quang, Việt Nam | Tổ 06 | Quốc lộ 37, Thôn Ngãi Thắng, Xã Tú Thịnh, Huyện SDTh TQVN gg Sơn Dương, Tỉnh Tuyên Quang, Việt Nam Sơn Dương Kim Bảng 242 | Hà Nam - | Số 229 Nguyễn Tất Thành, Phường 8, Thành phố THTh PhYVN gy Tuy Hoà, Tỉnh Phú Yên, Việt Nam Tuy Hòa 284 | Khánh Hòa - Phú Yên | Sơn Hà 326 | Xóm Lương Thực, Tổ dân phố Gò Dép, Thị trấn Di LHSHTh QNVN g pp Lăng, Huyện Sơn Hà, Tỉnh Quảng Ngãi, Việt Nam | Quảng Ngãi [ROW] Đưởng Tỉnh 200, Xã Ngô Quyền, Huyện Tiên Lữ, Th HYVN | Hải Dương - | Kim Bảng, Tỉnh Hà Nam, Việt Nam | Tổ 06 | 285 | Khánh Hòa - Phú Yên | Quảng Ngãi [ROW] g g Tỉnh Hưng Yên, Việt Nam | Hưng Yên | Quốc lộ 21B, Thôn Mã Não, Xã Ngọc Sơn, Huyện KBTh HNVN 243 | Ninh Bình | Khu phố Chí Đức, Thị trấn Chí Thạnh, Huyện Tuy An, Th PhYVN p Tỉnh Phú Yên, Việt Nam Tuy An | Nghĩa Hành 327 | Thôn Phúc Minh, Xã Hành Thuận, Huyện Nghĩa HhTh QNVN Hành, Tỉnh Quảng Ngãi, Việt Nam [ROW] Gia Bình Thanh Sơn 202 203 | Quốc lộ 17, Thôn Định Mỗ, Xã Xuân Lai, Huyện Gia BhTh BắNhVN Bình, Tỉnh Bắc Ninh, Việt Nam Số 187A, Phố 19/5, Thị trấn Thanh Sơn, Huyện Thh STh PhThVN | Tổ 04 Phú Thọ - | Đường Tỉnh 267, Xóm Tân Đức 1, Xã Thịnh Đức, Tp. ThNTh ThNVN g Thái Nguyên, Tỉnh Thái Nguyên, Việt Nam Nhà Ông Phạm Đình Nhân, QL. 37B, Thôn Minh ThhXThTHThThTThBhVN Thịnh Đức Thái Thụy 244 245 | Tổ 05 Nam Định - | Tổ dân phố Phú Trung, Phường Cam Phú, Thành phố CRhTh Khh HVN pgg Cam Ranh, Tỉnh Khánh Hòa, Việt Nam Cam Ranh 2 286 287 | Khánh Hòa - Phú Yên | Đức Phổ 328 | Đường Nguyễn Nghiêm, Xã Phổ Ninh, Huyện Đức PhổTh QNVN g gyg Phổ, Tỉnh Quảng Ngãi, Việt Nam | Quảng Ngãi Quảng Ngãi [ROW] TX. Nghĩa L Lộ 204 | Thanh Sơn, Tỉnh Phú Thọ, Việt Nam Khu tái định cư số 03, Tổ 02, Phường Trung Tâm, Thị XNhLTh YBVN g Xã Nghĩa Lộ, Tỉnh Yên Bái, Việt Nam | Vĩnh Phúc Tổ 06 Tổ 06 | g Thành, Xã Thái Tân, H. Thái Thụy, T. Thái Bình, Việt Nam Quốc Lộ 6, Tiểu Khu 1, Thị Trấn Lương Sơn, Huyện LSTh HBhVN Lương Sơn, Tỉnh Hòa Bình, Việt Nam Lương Sơn 246 | Thái Bình Hòa Bình | Thôn Tân Đức Tây, Xã Vạn Lương, Huyện Vạn Ninh, Th Khh HVN y Tỉnh Khánh Hòa, Việt Nam Quốc lộ 1A, Khu phố Phước Lý, Phường Xuân Yên, ThSCầTh PhYVN pýg Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam Vạn Ninh Sông Cầu 288 | Khánh Hòa - Phú Yên Khánh Hòa - Phú Yên | Tịnh An Sơn Tịnh 329 330 | Quốc lộ 24B, Xã Tịnh An, Thành phố Quảng Ngãi, Th QNVN Tỉnh Quảng Ngãi, Việt Nam Tổ dân phố Trường Thọ Đông, P. Trương Quang TTPQNTQNVN pg gg g Trọng, TP. Quảng Ngãi, T. Quảng Ngãi, Việt Nam | Quảng Ngãi [ROW] TP. Tuyên Q y Quang Hoằng Hóa 205 206 | Quốc lộ 2, Thôn Chè 8, Xã Lưỡng Vượng, Thành hố TQTh TQVN g g phố Tuyên Quang, Tỉnh Tuyên Quang, Việt Nam | Thanh Hóa | Quốc lộ 70, Xã Bằng Luân, Huyện Đoan Hùng, Tỉnh PhThVN Phú Thọ, Việt Nam Cát Lem 247 | Phú Thọ - Vĩnh Phúc Tổ 06 | Khu phố 3, Thị trấn Hai Riêng, Huyện Sông Hinh, Th PhYVN p Tỉnh Phú Yên, Việt Nam Sông Hinh | Khánh Hòa - Phú Yên Đắk Lắk - | Mộ Đức 331 | Quảng Ngãi, Việt Nam | Quảng Ngãi [ROW] Tỉnh lộ 510, Thôn 1, Xã Hoằng Đồng, Huyện HằHTh Thh HVN g Hoằng Hóa, Tỉnh Thanh Hóa, Việt Nam | Quốc lộ 2, Tổ 17, Thị trấn Vị Xuyên, Huyện Vị XTh HGVN Vị Xuyên 248 | Đường Tống Duy Tân, Tổ 9, Phường Nghĩa Thành, ThGNhTh Đắk NVN Gia Nghĩa 289 290 | 332 | Thôn Tú Sơn 2, Xã Đức Lân, Huyện Mộ Đức, Tỉnh QNVN | Quảng Ngãi [ROW] Quỳ Hợp 207 | Xuyên, Tỉnh Hà Giang, Việt Nam 249 | g g y g g Thị xã Gia Nghĩa, Tỉnh Đắk Nông, Việt Nam 291 | Đắk Nông | Đức Nhuận | Quốc lộ 1A, Thôn 3, Xã Đức Nhuận, Huyện Mộ ĐTh QNVN Đức, Tỉnh Quảng Ngãi, Việt Nam [ROW] Quốc lộ 48B, Xóm Hợp Tâm, Xã Tam Hợp, Huyện QHTh NhAVN p Quỳ Hợp, Tỉnh Nghệ An, Việt Nam | Nghệ An | Đường Tỉnh 307, Thôn Xuân Trạch, Xã Xuân Hòa, HLThhTh Vh PhVN g Huyện Lập Thạch, Tỉnh Vĩnh Phúc, Việt Nam Lập Thạch | Phú Thọ - Vĩnh Phúc | Thôn Đức Tân, Xã Đức Mạnh, Huyện Đắk Mil, Tỉnh Đắk NVN Đắk Nông, Việt Nam Đắk Mil | Đắk Lắk - Đắk Nông | Huế 333 | Quốc lộ 1A, Phường Hương Văn, Thị xã Hương Trà, Th ThThHếVN g g Tỉnh Thừa Thiên Huế, Việt Nam | Bình Trị Thiên [ROW] g Lộc, Tỉnh Nghệ An, Việt Nam Nghi Lộc 208 | Quốc lộ 1A, Xóm 6, Xã Nghi Long, Huyện Nghi LTh NhAVN | Nghệ An | Khu C, Khu công nghiệp Nam Cấm, Xã Nghi Xá, HNhLTh NhA g gp Huyện Nghi Lộc, Tỉnh Nghệ An Tổng kho NCấ g Nam Cấm 250 | Tổng kho | Quốc lộ 14, Xã Tâm Thắng, Huyện Cư Jút, Tỉnh Đắk NVN Cư Jút 292 | Nông, Việt Nam Đắk Lắk - Đắk Nông | Quảng Trị 334 | Thôn An Bình, Xã Cam Thanh, Huyện Cam Lộ, Tỉnh QTVN Quảng Trị, Việt Nam | Bình Trị Thiên Bình Trị [ROW] Quảng Xương Lạng Giang 209 210 | Quốc lộ 1A, Xã Quảng Lĩnh, Huyện Quảng Xương, Th Thh HVN g Tỉnh Thanh Hóa, Việt Nam Quốc lộ 37, Thôn 20, Xã Hương Lạc, Huyện Lạng GTh BắGVN | Thanh Hóa Tổ 04 | Lô A6 - 2, KCN Hà Nội - Đài Tư, Số 386, Đường Nguyễn VLhPPhLQLBTPHNVN g gy Văn Linh, P. Phúc Lợi, Q. Long Biên, TP. Hà Nội, Việt Nam g g gp ỹ Tân Mỹ, TP. Bắc Giang, Tỉnh Bắc Giang, Việt Nam Tổng kho LB g Long Biên Kho Tôn xốp BắG Bắc Giang 251 | Tổng kho Tổ 04 | Km 9, Quốc lộ 14, Xã Ea Tu, Thành phố Buôn Ma ThTh Đắk LắkVN Thuột, Tỉnh Đắk Lắk, Việt Nam Đường tỉnh lộ 9, Tổ dân phố 8, Thị trấn Krông Kmar, HKBTh Đắk LắkVN Đắk Lắk Krông Bông 293 | Đắk Lắk - Đắk Nông | Quảng Bình Ba Đồn 335 336 | Thôn 7, Xã Lộc Ninh, Thành phố Đồng Hới, Tỉnh QBhVN Quảng Bình, Việt Nam | Thiên Bình Trị Thiên [ROW] g Giang, Tỉnh Bắc Giang, Việt Nam | Đưởng Tỉnh 295B, Cụm công nghiệp Tân Mỹ, Xã TMTPBắGTh BắGVN | g p Huyện Krông Bông, Tỉnh Đắk Lắk, Việt Nam 294 | Đắk Lắk - Đắk Nông | Quốc lộ 1A, Thôn Nhân Thọ, Phường Quảng Thọ, ThBĐồTh QBhVN g Thị xã Ba Đồn, Tỉnh Quảng Bình, Việt Nam [ROW] 120 BÁO CÁO THƯỜNG NIÊN | 252 | QUẢN TRỊ DOANH NGHIỆP | 121",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

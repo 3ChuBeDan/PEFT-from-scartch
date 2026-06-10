@@ -1,0 +1,191 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 18,
+      "text": "Bên cạnh đó, PV Power cũng luôn duy trì sản xuất XANH thông qua việc giảm thiểu tối đa các tác động đến môi trường trong sản xuất; đặc biệt đã thành lập Công ty cổ phần Năng lượng tái tạo Điện lực Dầu khí (PV Power REC) để nghiên cứu đầu tư các dự án điện sử dụng năng lượng sạch, năng lượng tái tạo như điện rác, điện mặt trời...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 331,
+      "text": "Ngành nghề kinh doanh chính: Sản xuất, truyền tải và bán điện; Nghiên cứu, đầu tư, phát triển, xây dựng, sở hữu, vận hành, khai thác các dự án năng lượng sạch, năng lượng tái tạo (điện gió, điện mặt trời, sinh khối, địa nhiệt và điện rác và các loại hình năng lượng tái tạo khác).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 392,
+      "text": "Ưu tiên khai thác hợp lý các nguồn năng lượng sạch, năng lượng tái tạo trong xây dựng Quy hoạch điện VIII, giai đoạn 2021 - 2030, tầm nhìn 2045. Tháng 8/2020, PV Power đã thành lập Công ty cổ phần Năng lượng Tái tạo Điện lực Dầu khí để định hướng phát triển năng lượng tái tạo, năng lượng sạch theo chủ trương của Đảng và Chính phủ.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 468,
+      "text": "PV Power đã nỗ lực phối hợp với các nhà cung cấp như Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam, Công ty than Đông Bắc để đảm bảo nguồn than sản xuất cho Nhà máy điện Vũng Áng 1. Tổng khối lượng giao nhận than đến hết 31/12/2020 đạt:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 544,
+      "text": "11/2000 - 9/2001 Tổng công ty l 9/2001 - 10/2007 sống tinh thần c ề 10/2007 - 3/2009 (công đoàn, đo cựchiến binh) 3/2009 - 5/2010 tổ chức triển k 5/2010 - 4/2012 hữu ích nhằm 10/2012 - 5/2017 khỏe, động viê 6/2017 - 6/2018 hăng say, trác hờ 06/2018 đến nay Trong thời gia Covid19Tổng Kỹ sư cơ khí, Phòng Kỹ thuật Ban CBĐT Công trình Khí Điện Đạm Cà Mau, PVN Công tác an sinh xã hội trong năm 2 ổ tâm chăm lo đến đời Trưởng nhóm Cơ khí Phòng kỹ thuật khí, Phó trưởng phòng, Phó trưởng phòng phụ được Tổng công ty quan tâm, thực hiện đối tỉnh Thái Bìnhtỉnh Ninh Thuậntỉnh Hưng Y lao động, đã quan tâm átổ hứđàthể trách, Trưởng phòng dự án khí Ban quản lý dự án Khí Điện Đạm Cà Mau, PVN tỉnh Thái Bình, tỉnh Ninh Thuận, tỉnh ỉh Kháh Hòỉh QảTị à á các tổ chức đoàn thể Phó Giám đốc Ban QLDA Khí Tây Nam Bộ PV GAS Trung trong đ niên, hội phụ nữ, hội ngđồng thời phối hợp Phó Trưởng Ban QLDA Khí Tây Nam Bộ - PVN gg pp hương trìnhhoạt động Phó Giám đốc Công ty Điều hành Đường ống Lô B - Ô Môn đời sống tinh thần, sức Quyền Trưởng ban, Trưởng ban Xây dựng, Thành viên Hội đồng quản trị PV GAS khích người lao động ắ Phó Tổng Giám đốc Công ty TNHH 1TV - Tổng công ty ĐLDK Việt Nam và gắn bó với đơn vị. ưởủdịh bệh Phó Tổng Giám đốc Tổng công ty Điện lực Dầu Khí Việt Nam – CTCP, ưởng của dịch bệnh ã thực hiện rà soáthỗ Giám đốc Ban Quản lý Dự án Điện ã thực hiện rà soát, hỗ n viên gặp khó khăn do CBĐT Công trình Khí Điện Đạm Cà Mau, PVN Công tác an sinh xã hội trong năm 2020 cũng g ệạ, uật khíPhó trưởng phòngPhó trưởng phòng phụ được Tổng công ty quan tâm, thực hiện đối với uật khí, Phó trưởng phòng, Phó trưởng phòng phụ quản lý dự án Khí Điện Đạm Cà MauPVN tỉnh Thái Bình, tỉnh Ninh Thuận, tỉnh Hưng Yên, qý ự ệạ, NBộ PV GAS tỉnh Khánh Hòa, tỉnh Quảng Trị và các tỉnh miền Nam Bộ PV GAS Trung trong đợt lũ lụt lịch sử. 11/2000 - 9/2001 Kỹ sư cơ khí, Phòng Kỹ thuậ Tổng công ty luôn quan tâm chăm lo đến đời 9/2001 - 10/2007 Trưởng nhóm Cơ khí Phòn sống tinh thần của người lao động, đã quan tâm 9/2001 10/2007 Trưởng nhóm Cơ khí Phòn trách, Trưởng phòng dự án và tạo điều kiện tốt để các tổ chức đoàn thể 10/2007 3/2009 g pg Phó Giám đốc Ban QLDA K (công đoàn, đoàn thanh niên, hội phụ nữ, hội 10/2007 - 3/2009 Phó Giám đốc Ban QLDA K ở cựu chiến binh) hoạt động, đồng thời phối hợp 3/2009 - 5/2010 Phó Trưởng Ban QLDA Khí T tổ chức triển khai các chương trình, hoạt động 5/2010 - 4/2012 Phó Giám đốc Công ty Điều hữu ích nhằm nâng cao đời sống tinh thần, sức 10/2012 - 5/2017 Quyền Trưởng ban, Trưởng khỏe, động viên khuyến khích người lao động 6/2017 - 6/2018 y Phó Tổng Giám đốc Công t hăng say, trách nhiệm và gắn bó với đơn vị. 6/2017 6/2018 06/2018 đến nay Phó Tổng Giám đốc Công t Phó TổGiáđốTổ Trong thời gian ảnh hưởng của dịch bệnh 06/2018 đến nay Phó Tổng Giám đốc Tổng c Giám đốc Ban Quản lý Dự á Covid-19, Tổng công ty đã thực hiện rà soát, hỗ Giám đốc Ban Quản lý Dự á trợ các cán bộ công nhân viên gặp khó khăn do ảnh hưởng của dịch bệnh, đồng thời tuyên truyền cán bộ công nhân viên chung tay quyên góp cho quỹ hỗ trợ đồng bào vùng lũ lụt của Ủy ban Mặt trận Tổ quốc Việt Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "G9": 0.852803
+      },
+      "themes": [
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4,
+        "G9": 2
+      }
+    },
+    {
+      "paragraph_id": 656,
+      "text": "Điểm nổi bật trong bức tranh hoạt động của PV Power năm 2020 chính là Nhà máy điện Vũng Áng 1. Nếu trong các năm từ 2015-2018, sản lượng nhà máy Vũng Áng đóng góp trung bình 20% vào tổng sản lượng, thì đến năm 2020 đóng góp đến 34.07% tổng sản lượng điện của PV Power. PV Power đã nỗ lực phối hợp với các nhà cung cấp như TKV, Công ty than Đông Bắc để đảm bảo nguồn than sản xuất cho Nhà máy điện Vũng Áng 1. Tổng công ty đã phối hợp với đơn vị tư vấn và TKV ký kết Hợp đồng mua bán than với tổng",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 686,
+      "text": "Do tác động của đại dịch Covid-19, dự báo phụ tải năm 2021 tăng trưởng không cao (khoảng 5,2%), mặt khác nguồn điện sẽ tăng bổ sung (5 tổ máy nhà máy điện than 600 MW), điện năng lượng tái tạo gia tăng sẽ ảnh hưởng đến tham gia thị trường điện của các nhà máy điện, đặc biệt khu vực Đông Nam Bộ (tỷ trọng điện thương phẩm năng lượng tái tạo chiếm 8,9% tương đương 23,36 tỷ kWh).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1190,
+      "text": "[TABLE] [CONTEXT] section: 1.TIÊU THỤ NĂNG LƯỢNG ; column_headers: Tiêu thụ nhiên liệu 2020 | Than (tấn) | Dầu DO (tấn) | Khí tự nhiên (Tr.Sm3) ; row_headers: Công ty Điện lực Dầu khí Hà Tĩnh | Công ty Điện lực Dầu khí Cà Mau | Công ty CP Điện lực Dầu khí Nhơn Trạch 2 | Công ty Điện lực Dầu khí Nhơn Trạch | Công ty cổ phần Thủy điện Hủa Na | Công ty Cổ phần Thủy điện Đakđrinh [ROWS] Tiêu thụ nhiên liệu 2020 [ROW] Tên Nhà máy | Than (tấn) | Dầu DO (tấn) | Khí tự nhiên (Tr.Sm3) [ROW] Công ty Điện lực Dầu khí Hà Tĩnh | 2.946.457,87 | 4.499,98 | không áp dụng [ROW] Công ty Điện lực Dầu khí Cà Mau | không áp dụng | 20.312,26 | 1.283,25 [ROW] Công ty CP Điện lực Dầu khí Nhơn Trạch 2 | không áp dụng | 256,51 | 745,12 [ROW] Công ty Điện lực Dầu khí Nhơn Trạch | không áp dụng | 13.707,46 | 215,90 [ROW] Công ty cổ phần Thủy điện Hủa Na | không áp dụng | không áp dụng [ROW] Công ty Cổ phần Thủy điện Đakđrinh | không áp dụng | không áp dụng",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1197,
+      "text": "[TABLE] [CONTEXT] section: Bảng thông số các chỉ tiêu môi trường toàn Tổng công ty năm 2020 ; column_headers: Chỉ tiêu | Đơn vị ; row_headers: Nước sạch tiêu thụ: | Nước mặt làm mát: | Tiêu thụ năng lượng (tỉ lệ điện tự dùng): | Tổng lượng khí thải: | Tổng lượng nước thải: | Chất thải rắn thông thường: | Tro xỉ nhiệt điện than | Chất thải nguy hại: [ROWS] Chỉ tiêu | Đơn vị [ROW] Nước sạch tiêu thụ: | m 3 | 2.856.227 [ROW] Nước mặt làm mát: | m 3 | 1.997.473.448 [ROW] Tiêu thụ năng lượng (tỉ lệ điện tự dùng): | 3,94% [ROW] Tổng lượng khí thải: | triệu m 3 | 110.418 [ROW] Tổng lượng nước thải: | m 3 | 226.156.968 [ROW] Chất thải rắn thông thường: | tấn | 1.042 [ROW] Tro xỉ nhiệt điện than | tấn | 878.791 [ROW] Chất thải nguy hại: | tấn | 353,76",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E3": 0.777029
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 10,
+        "E3": 2
+      }
+    }
+  ]
+}

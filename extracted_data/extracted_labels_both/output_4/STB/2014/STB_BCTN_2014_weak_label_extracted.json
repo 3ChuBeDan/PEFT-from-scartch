@@ -1,0 +1,178 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 398,
+      "text": "Không ngừng hiện đại hóa, phát triển hệ thống thông tin quản lý nội bộ, hoàn thiện hệ thống ngân hàng lõi nhằm nâng cao hoạt động Ngân hàng hiện đại; Triển khai các dự án tự động hóa đối với các HĐKD cốt lõi (quản lý tài sản, theo dõi NQH, quản lý hệ thống phân quyền - ủy quyền; Xây dựng - theo dõi và đánh giá kế hoạch trực tuyến...), các dự án lớn về SPDV ưu việt trên các kênh điện tử (Dự án Internet Banking - Mobile Banking giai đoạn 2, Tài trợ thương mại, Dự án thẻ trực tuyến cho Lào và Campuchia...), đồng thời đảm bảo tính an toàn an ninh mạng, góp phần hiện đại hóa cũng như nâng cao hơn nữa NSLĐ của CBNV, tạo thêm lợi thế cạnh tranh bền vững.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 628,
+      "text": "Ban Chỉ đạo ngăn chặn và xử lý nợ quá hạn có trách nhiệm tham mưu cho HĐQT quyết định thực hiện việc khoanh nợ, mua, bán khoán nợ quá hạn; chuyển nợ thành vốn góp, cổ phần của khách hàng vay và các phương pháp xử lý, thu hồi nợ quá hạn khác theo quy định pháp luật. Trong năm 2014, Ban đã tích cực chỉ đạo, xử lý nhiều khoản nợ xấu, bán nợ cho VAMC, đảm bảo hoạt động an toàn của Sacombank.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 927,
+      "text": "Sacombank cam kết tuân thủ các chuẩn mực cao nhất về phòng chống rửa tiền, tài trợ khủng bố và phòng chống tội phạm tài chính theo quy định pháp luật Việt Nam. Tất cả thành viên Ban Lãnh đạo cấp cao và CBNV đều được yêu cầu phải tuân thủ các tiêu chuẩn này để bảo vệ Ngân hàng không bị lạm dụng bởi tội phạm rửa tiền, tài trợ khủng bố hoặc các mục đích bất hợp pháp khác.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 928,
+      "text": "Để đảm bảo hoạt động kinh doanh bền vững, Sacombank nỗ lực hoàn thiện khuôn khổ pháp lý về phòng, chống rửa tiền và tài trợ khủng bố theo các khuyến nghị và cam kết quốc tế. Theo đó, chúng tôi đã ban hành và thường xuyên cập nhật các quy định nội bộ: (i) Các hành vi bị cấm, (ii) Nhận biết và báo cáo giao dịch đáng ngờ, (iii) Phân loại khách hàng theo mức độ rủi ro, (iv) Nhận biết Khách hàng, (v) Quan hệ Ngân hàng đại lý, (vi) Chương trình cấm vận... để đảm bảo phù hợp với các quy định phòng chống rửa tiền hiện hành...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 929,
+      "text": "Trong năm 2014, Sacombank đã đẩy mạnh công tác đào tạo, tập huấn CBNV của Chi nhánh/Phòng giao dịch, ĐV. NVNH về công tác phòng chống rửa tiền thông qua 2 hình thức: giáo trình điện tử E-learning và đào tạo trực tiếp tại các Đơn vị do giảng viên nội bộ của Sacombank thực hiện... Tất cả CBNV đều được kiểm tra kiến thức và ký cam kết trách nhiệm cá nhân liên quan đến công tác phòng chống rửa tiền sau khi tham gia khóa học.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1771,
+      "text": "[TABLE] [CONTEXT] section: THEO TIÊU CHUẨN CHUNG GRI4 (tiếp theo) ; column_headers: 3 | Tác động kinh tế gián tiếp [ROWS] 3 | Tác động kinh tế gián tiếp [ROW] G4-EC7 | Sự phát triển và tác động của các khoản đầu tư cơ sở hạ tầng và dịch vụ được hỗ trợ. | Thông qua hoạt động tài chính và mở rộng kinh doanh, Sacombank muốn hỗ trợ cộng đồng địa phương có nguồn thu nhập ổn định cuộc sống, [ROW] G4-EC8 | Tác động kinh tế gián tiếp đáng kể, bao gồm phạm vi tác động. | trang 129. [ROW] 4 | Phương thức mua sắm [ROW] G4-EC9 | Tỷ lệ chi tiêu cho các nhà cung cấp địa phương tại các địa điểm hoạt động chủ yếu. | Do hiện nay việc lựa chọn đơn vị cung ứng tại các trụ sở/chi nhánh do các đơn vị chủ động thực hiện, tuy nhiên vẫn phải đảm bảo các yêu cầu của quy trình lõi. [ROW] II. | Danh mục môi trường [ROW] 1 | Vật liệu [ROW] G4-EN1 | Vật liệu sử dụng để sản xuất và đóng gói sản phẩm theo khối lượng và trọng lượng. | Tiếp tục thực hiện các biện pháp tiết kiệm, trang 134-135. [ROW] G4-EN2 | Tỷ lệ phần trăm vật liệu được sử dụng là vật liệu được tái chế. | Chúng tôi không thống kê được đầy đủ về các vật liệu từ nguồn tái chế mà hướng đến việc sử dụng các nguyên liệu bảo vệ môi trường, có nguồn gốc rõ ràng do đơn vị cung ứng với tiêu chuẩn về môi trường xã hội ISO14001 và ISO 9706. [ROW] 2 | Năng lượng [ROW] G4-EN3 | Tiêu thụ năng lượng trong tổ chức. | Sử dụng năng lượng hiệu quả, trang 134. [ROW] 3 | Nước [ROW] G4-EN8 | Tổng lượng nước thu về theo nguồn. [ROW] G4-EN9 | Các nguồn nước bị ảnh hưởng đáng kể từ việc thu nước. | Chúng tôi triển khai chương trình ý tưởng vàng với chủ đề \"Đồng hành tiết giảm chi phí\" nhằm tiết kiệm nguồn nước và xả thải ra môi trường, [ROW] G4-EN10 | Tỷ lệ % và tổng thể tích nước đã tái chế và tái sử dụng. | trang 134. [ROW] 4 | Đa dạng sinh học [ROW] G4-EN11 | Cơ sở hoạt động được sở hữu, cho thuê, quản trị trong hoặc gần kề các khu vực bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu được bảo vệ. | Các vị trí văn phòng, trụ sở chi nhánh của Sacombank đều nằm ở vị trí gần khu dân cư, thuận tiện cho việc giao dịch của người dân. Chúng tôi không xây dựng các trụ sở tại địa điểm có nguy cơ ảnh hưởng đến hệ sinh thái và đa dạng sinh học cần được bảo vệ. [ROW] 5 | Phát thải sinh học [ROW] G4-EN19 | Giảm phát thải khí nhà kính. | Giảm chi phí tiêu thụ điện năng góp phần giảm khí thải ra môi trường xung quanh, trang 134 - 135.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 1775,
+      "text": "[TABLE] [CONTEXT] section: THEO TIÊU CHUẨN CHUNG GRI4 (tiếp theo) ; column_headers: d | Lao động trẻ em [ROWS] d | Lao động trẻ em [ROW] G4-HR5 | Các hoạt động và nhà cung cấp đã xác định có rủi ro đáng kể về các vụ việc lao động trẻ em và các biện pháp đã thực hiện góp phần xóa bỏ lao động trẻ em. | Chúng tôi không sử dụng lao động trẻ em dưới bất kỳ hình thức nào trong hoạt động kinh doanh. [ROW] e | Lao động cưỡng bức hoặc bắt buộc [ROW] G4-HR6 | Các hoạt động và nhà cung cấp đã xác định có rủi ro đáng kể về các vụ việc lao động cưỡng bức và các biện pháp đã thực hiện góp phần xóa bỏ lao động trẻ em. | Sacombank thực hiện trả lương theo hiệu quả công việc, năng lực và trình độ. Chúng tôi đem lại cơ hội công bằng cho cán bộ nhân viên, tạo điều kiện để họ phát huy năng lực. [ROW] f | Các phương thức bảo vệ tài sản [ROW] G4-HR7 | Tỷ lệ % nhân viên an ninh đã được đào tạo về chính sách và thủ tục Quyền con người liên quan đến các hoạt động của tổ chức. | Xây dựng hình ảnh chuyên nghiệp từ góc độ công tác an ninh, trang 126. [ROW] g | Quyền của người dân bản địa [ROW] G4-HR8 | Tổng số vụ vi phạm liên quan đến các quyền của người dân bản địa và biện pháp đã triển khai. | Trong năm 2014 vừa qua, Sacombank không phát sinh vụ vi phạm liên quan đến các quyền của người dân bản địa và biện pháp đã triển khai. [ROW] h | Đánh giá [ROW] G4-HR9 | Tổng số và tỷ lệ % hoạt động cần phải rà soát về quyền con người hoặc đánh giá tác động. | Xuyên suốt quá trình hoạt động Sacombank đặt vấn đề bình đẳng giới là một trong những vấn đề trọng tâm. Chính sách nhân sự tạo điều kiện thuận lợi nhất để mỗi nhân viên (không phân biệt nam/nữ) phát huy hết khả năng của mình nhằm đóng góp vào quá trình phát triển chung của Sacombank. [ROW] i | Đánh giá về việc tôn trọng quyền con người của nhà cung cấp [ROW] G4-HR10 | Tỷ lệ % các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về quyền con người. | Quy định đối với nhà cung ứng, trang 122. [ROW] G4-HR11 | Các tác động về quyền con người tiêu cực thực tế và tiềm ẩn đáng kể trong chuỗi cung ứng và những biện pháp đã triển khai. | Sacombank chưa thống kê được đầy đủ các vi phạm về quyền con người tác động đến Ngân hàng. [ROW] j | Cơ chế khiếu nại về quyền con người [ROW] G4-HR12 | Số lượng khiếu nại về các tác động về quyền con người đã nộp, xử lý và giải quyết thông qua cơ chế khiếu nại chính thức. | Không có phát sinh.",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8,
+        "S4": 8,
+        "S6": 8
+      }
+    },
+    {
+      "paragraph_id": 1776,
+      "text": "[TABLE] [CONTEXT] section: THEO TIÊU CHUẨN CHUNG GRI4 (tiếp theo) ; column_headers: 3 | Xã hội [ROWS] 3 | Xã hội [ROW] a | Cộng đồng địa phương [ROW] G4-SO1 | Tỷ lệ % các hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và chương trình phát triển đã thực hiện. | Sacombank duy trì hoạt động đóng góp cho cộng đồng, và từ thiện xã hội, trang 128-133. [ROW] G4-SO2 | Các hoạt động có tác động tiêu cực thực tế hoặc tiềm ẩn đáng kể đối với cộng đồng địa phương. | Chúng tôi đang xem xét để lượng hóa những tác động đối với cộng đồng địa phương. [ROW] b | Chống tham nhũng [ROW] G4-SO3 | Tổng số lượng và tỷ lệ phần trăm các hoạt động đã được đánh giá rủi ro liên quan đến tham nhũng và những rủi ro đáng kể đã xác định. | 100% hoạt động của Sacombank được xem xét yếu tố rủi ro liên quan đến tham nhũng. [ROW] G4-SO4 | Truyền thông và đào tạo về chính sách và quy trình chống tham nhũng. | Hoạt động phòng chống tham nhũng, trang 127. [ROW] G4-SO5 | Các vụ tham nhũng đã xác nhận và các biện pháp triển khai. | Không có phát sinh. [ROW] c | Chính sách công [ROW] G4-SO6 | Tổng giá trị của những đóng góp chính trị theo quốc gia và người nhận/người thụ hưởng. | Nâng tầm giá trị thương hiệu hàng nông sản Việt Nam, trang 128. [ROW] d | Hành vi hạn chế cạnh tranh [ROW] G4-SO7 | Tổng số hành động pháp lý đối với hành vi hạn chế cạnh tranh, chống độc quyền và các thông lệ chống độc quyền và kết quả của hành động đó. | Không có phát sinh. [ROW] e | Tuân thủ [ROW] G4-SO8 | Giá trị bằng tiền của các khoản tiền phạt đáng kể và tổng số hình phạt phi tiền tệ đối với hành vi không tuân thủ luật pháp và các quy định. | Không có phát sinh. [ROW] f | Đánh giá tác động của nhà cung cấp đối với Xã hội [ROW] G4-SO9 | Tỷ lệ % các nhà cung cấp được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về tác động đối với xã hội. | Quy định đối với nhà cung ứng, trang 122. [ROW] G4-SO10 | Các tác động tiêu cực thực tế và tiềm ẩn đáng kể đối với các đối xử với xã hội trong chuỗi cung ứng và các biện pháp đã triển khai. | Chúng tôi đang xem xét để lượng hóa bằng việc xác định các tiêu chí đối với nhà cung cấp liên quan đến tác động đối với xã hội trong chuỗi cung ứng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1799,
+      "text": "[TABLE] [CONTEXT] section: 4.2 Dự phòng rủi ro tín dụng (tiếp theo) ; column_headers: Nhóm nợ | Tiêu chí phân loại [ROWS] Nhóm nợ | Tiêu chí phân loại [ROW] Nợ đủ tiêu chuẩn | • Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; • Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn; • Nợ được phân loại vào nhóm nợ có rủi ro thấp hơn khi đáp ứng các điều kiện theo quy định. [ROW] Nợ cần chú ý | • Nợ quá hạn từ 10 ngày đến 90 ngày; • Nợ điều chỉnh kỳ hạn trả nợ lần đầu; • Nợ được phân loại vào nhóm nợ có rủi ro thấp hơn hoặc cao hơn khi đáp ứng các điều kiện theo quy định. [ROW] Nợ dưới tiêu chuẩn | • Nợ quá hạn từ 91 ngày đến 180 ngày; • Nợ gia hạn nợ lần đầu; • Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; • Nợ vi phạm Luật các tổ chức tín dụng chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; • Nợ đang thu hồi theo kết luận thanh tra; • Nợ được phân loại vào nhóm nợ có rủi ro thấp hơn hoặc cao hơn khi đáp ứng các điều kiện theo quy định; • Nợ được phân loại vào nhóm nợ có rủi ro thấp hơn hoặc cao hơn khi đáp ứng các điều kiện theo quy định; • Nợ phân loại căn cứ theo kết quả thanh tra, giám sát của Ngân hàng Nhà nước.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

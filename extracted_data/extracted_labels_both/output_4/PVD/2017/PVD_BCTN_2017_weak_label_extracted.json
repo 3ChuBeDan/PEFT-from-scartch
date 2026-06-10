@@ -1,0 +1,80 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 1534,
+      "text": "Đối với việc xử lý nước thải tại các giàn khoan ngoài khơi, PV Drilling đều lắp đặt các hệ thống xử lý nước thải hiện đại để xử lý nước thải sản xuất, nước vỉa... đạt tiêu chuẩn quốc tế trước khi thải xuống biển, phù hợp với công ước quốc tế mà Viêt Nam tham gia. Tại các cơ sở sản xuất trên bờ, mặc dù các cơ sở đều nằm trong khu công nghiệp có hệ thống xử lý nước thải tập trung nhưng một số đơn vị vẫn tự xây dựng hệ thống riêng để thu gom và xử lý đạt loại B trước khi thải ra hệ thống thu gom chung.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 8
+      }
+    },
+    {
+      "paragraph_id": 2032,
+      "text": "[TABLE] [CONTEXT] section: e. Cải tiến về chính sách quản lý & Trách nhiệm liên quan đến môi trường năm 2017 ; column_headers: 2016 | 2017 | % tăng/giảm ; row_headers: CTR thông thường (tấn) | CTNH (tấn) | Nước thải sinh hoạt (m3) | Nước thải công nghiệp (m3) [ROWS] Chất thải | 2016 | 2017 | % tăng/giảm [ROW] CTR thông thường (tấn) | 183 | 124 | - 32 [ROW] CTNH (tấn) | 219 | 150 | -31 [ROW] Nước thải sinh hoạt (m3) | 8.493 | 7.274 | -14 [ROW] Nước thải công nghiệp (m3) | 3.897 | 4.409 | +13",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 2052,
+      "text": "[TABLE] [CONTEXT] section: CAM KẾT VỀ AN TOÀN – SỨC KHỎE – MÔI TRƯỜNG – CHẤT LƯỢNG (tiếp theo) ; column_headers: 2016 | 2017 | % tăng/giảm ; row_headers: CTR thông thường (tấn) | CTNH (tấn) | Nước thải sinh hoạt (m3) | Nước thải công nghiệp (m3) [ROWS] Chất thải | 2016 | 2017 | % tăng/giảm [ROW] CTR thông thường (tấn) | 183 | 124 | - 32% [ROW] CTNH (tấn) | 219 | 150 | -31% [ROW] Nước thải sinh hoạt (m3) | 8.493 | 7.274 | -14% [ROW] Nước thải công nghiệp (m3) | 3.897 | 4.409 | +13%",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 2065,
+      "text": "[TABLE] [CONTEXT] section: 6. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG ; column_headers: Số cuối năm | Số đầu năm | VND | Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng ; row_headers: Công ty TNHH MTV Điều hành Thăm dò Khai thác Dầu khí trong nước | Tổng Công ty Thăm dò Khai thác Dầu khí | Các khách hàng khác [ROWS] Số cuối năm | Số đầu năm [ROW] VND | VND [ROW] Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng | Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng [ROW] Công ty TNHH MTV Điều hành Thăm dò Khai thác Dầu khí trong nước | 450.616.527.915 | (220.582.461.189) | 330.450.135.690 | (102.167.004.343) [ROW] Tổng Công ty Thăm dò Khai thác Dầu khí | 183.927.204.360 | (93.977.838.690) | 181.049.674.820 | (57.573.310.159) [ROW] Các khách hàng khác | 14.459.242.596 | (9.698.947.776) | 53.643.139.984 | (20.184.084.998) [ROW] 649.002.974.871 | (324.259.247.655) | 565.142.950.494 | (179.924.399.500)",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

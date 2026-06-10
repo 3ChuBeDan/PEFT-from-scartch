@@ -1,0 +1,344 @@
+{
+  "extracted_count": 24,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "» Không ngừng hoàn thiện hệ thống Ngân hàng lõi (core banking), đẩy mạnh tiến độ xây dựng ngân hàng số (digital banking); chú trọng đầu tư thích đáng các giải pháp mới, đảm bảo an ninh mạng và quá trình vận hành thông suốt, góp phần hiện đại hóa, nâng cao NSLĐ, gia tăng tiện ích, củng cố niềm tin, tạo lợi thế cạnh tranh bền vững; phát triển hệ thống thông tin quản lý nội bộ, đủ sức đáp ứng yêu cầu quản lý điều hành ngày càng chặt chẽ.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "S4": 0.321288
+      },
+      "themes": [
+        "G10",
+        "S4"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "S4": 1
+      }
+    },
+    {
+      "text": "Ban chỉ đạo Ngăn chặn và xử lý nợ quá hạn có trách nhiệm tham mưu cho HĐQT quyết định thực hiện việc khoanh nợ, mua/bán khoán nợ quá hạn; chuyển nợ thành vốn góp, cổ phần của khách hàng vay và các phương pháp xử lý, thu hồi nợ quá hạn khác theo quy định pháp luật. Trong năm 2016, Ban đã tích cực chỉ đạo, xử lý nhiều khoản nợ xấu, bán nợ cho VAMC, đảm bảo hoạt động an toàn của Sacombank.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Ngoài các chính sách tuyển dụng, đãi ngộ, Sacombank cũng rất chú trọng xây dựng môi trường làm việc cởi mở, năng động; khuyến khích CBNV phát huy sự sáng tạo, tính chủ động và tinh thần trách nhiệm cao nhất trong quá trình thực hiện công việc. Bên cạnh đó, mối quan hệ tương tác giữa CBNV cùng đồng nghiệp và quản lý các cấp không chỉ luôn được định hướng đến sự chuẩn mực, mà còn trên tinh thần hợp tác, đồng lòng, thân thiện và mang tính động viên cao. Các thành viên luôn sẵn sàng phối hợp, giúp đỡ nhau vượt qua các khó khăn, thử thách; cùng nhau hoàn thành các mục tiêu chung của đơn vị và toàn Ngân hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Một trong những cam kết hàng đầu của Sacombank là tuân thủ theo các chuẩn mực cao nhất về phòng chống rửa tiền, tài trợ khủng bố và phòng chống tội phạm tài chính theo quy định của pháp luật Việt Nam. Trong đó, tất cả các thành viên Ban Lãnh đạo cũng như toàn bộ CBNV đều được yêu cầu phải tuân thủ các chuẩn mực này để ngăn ngừa, bảo vệ Ngân hàng không bị lạm dụng bởi tội phạm rửa tiền, tài trợ khủng bố hoặc các mục đích bất hợp pháp khác.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Nhằm đảm bảo hoạt động kinh doanh bền vững, Sacombank đã và đang tích cực hoàn thiện khuôn khổ pháp lý về phòng chống rửa tiền, tài trợ khủng bố theo các khuyến nghị và cam kết quốc tế. Theo đó, Sacombank thường xuyên cập nhật cũng như ban hành các quy định nội bộ về phòng chống rửa tiền và tài trợ khủng bố để đảm bảo phù hợp với các quy định pháp luật hiện hành.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.4 Dự phòng rủi ro tín dụng ; column_headers: Nhóm nợ [ROWS] Nhóm nợ [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi [ROW] bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc [ROW] (a) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. [ROW] 3 | tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc [ROW] (b) Nợ gia hạn nợ lần đầu; hoặc [ROW] (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc [ROW] Nợ dưới | (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. [ROW] (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

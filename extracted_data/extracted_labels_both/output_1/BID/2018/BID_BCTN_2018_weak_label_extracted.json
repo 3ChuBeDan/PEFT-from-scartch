@@ -1,0 +1,210 @@
+{
+  "extracted_count": 10,
+  "extracted": [
+    {
+      "paragraph_id": 274,
+      "text": "Ngoài ra, trước các nguy cơ về an ninh mạng ngày càng gia tăng, BIDV đã tăng cường các công tác chuẩn bị, nâng cao tính sẵn sàng CNTT tại BIDV để đối phó với những tác động xấu từ bên ngoài và đáp ứng đầy đủ các yêu cầu ngày càng khắt khe về tuân thủ trong thời gian tới như: Thành lập tổ công tác đặc biệt ứng phó với các tình huống về an ninh mạng; thành lập tổ SOC để theo dõi, giám sát, phát hiện sớm và phân tích, xử lý sự sự cố bảo mật; Phối hợp/ký kết thỏa thuận hợp tác với CMC, VNCert trong công tác đánh giá an ninh ANBM hệ thống CNTT của BIDV. Phối hợp chặt chẽ với NHNN, Hiệp hội An ninh mạng Việt Nam (VNISA), Bộ Công an (C50, PC50) thực hiện tốt công tác cảnh báo và giám sát an ninh mạng của BIDV. Đồng thời, để nâng cao năng lực xử lý của hệ thống cơ sở hạ tầng CNTT, BIDV đang trong giai đoạn xây dựng Trung tâm dữ liệu mới đáp ứng yêu cầu tăng trưởng và các chuẩn công nghệ quốc tế, nâng cao khả năng sẵn sàng và hoạt động liên tục của hệ thống CNTT, đáp ứng đầy đủ các yêu cầu kinh doanh và quản trị điều hành của BIDV, sẽ hoàn thành và đưa vào sử dụng cuối năm 2019.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    },
+    {
+      "paragraph_id": 520,
+      "text": "Đảm bảo việc thực hiện thẩm định và quyết định cho vay phù hợp chủ trương sử dụng tiết kiệm, hiệu quả năng lượng, tài nguyên, bảo vệ môi trường, tuân thủ Chỉ thị số 30/CT-TTg ngày 27/11/2015 của Thủ tướng Chính phủ, các văn bản hướng dẫn của các Bộ, ngành chức năng liên quan. Tiếp tục chỉ đạo nghiên cứu, ban hành và triển khai các chính sách tín dụng ưu đãi, khuyến khích cho các Doanh nghiệp (áp dụng mức lãi suất cho vay ưu đãi thấp hơn so với mức lãi suất cho vay thương mại thông thường) tập trung vào các lĩnh vực như sản xuất điện năng, năng lượng tái tạo, cấp thoát nước, chống ngập, nông nghiệp công nghệ cao, nông nghiệp sạch...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 769,
+      "text": "BIDV và công đoàn đã phối hợp tổ chức tốt các hoạt động thăm quan nghỉ mát; Các hoạt động phong trào văn hóa, văn nghệ, thể thao; duy trì các câu lạc bộ thể thao nhằm nâng cao đời sống tinh thần và rèn luyện thể chất đoàn viên, lao động. Nổi bật trong năm 2018, đã tổ chức thành công Hội thi dịch vụ, thu hút được đông đảo đoàn viên - lao động tham gia, tạo được hiệu ứng lan tỏa, thúc đẩy phong trào thi đua phát triển dịch vụ, tinh thần học tập, văn hóa học hỏi, sáng tạo. Sự thành công của Hội thi được minh chứng qua các con số ấn tượng với hơn 12 ngàn đoàn viên dự thi, hàng chục ngàn lượt đoàn viên tham gia cổ vũ; Có hơn 200 sáng kiến và 25 đề án khoa học được trình bày để các đơn vị tham khảo, học tập và triển khai áp dụng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 894,
+      "text": "BIDV luôn coi trọng hoạt động quản lý rủi ro môi trường đối với các khoản cấp tín dụng tại BIDV. Theo quy trình cấp tín dụng đối với khách hàng tổ chức hiện hành, BIDV đã thực hiện đánh giá rủi ro môi trường đối với từng khoản cấp tín dụng, đảm bảo dự án được tài trợ đáp ứng đầy đủ các quy định của pháp luật về môi trường. Hồ sơ tín dụng yêu cầu từ khách hàng bao gồm các hồ sơ liên quan đến môi trường xã hội (như Giấy phép khai thác tài nguyên đối với doanh nghiệp hoạt động trong lĩnh vực này, Quyết định phê duyệt báo cáo đánh giá tác động môi trường, phòng cháy chữa cháy, xử lý nguồn nước thải (đối với những dự án",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 898,
+      "text": "Triển khai Chỉ thị số 03/CT-NHNN của NHNNVN về thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường và xã hội trong hoạt động cấp tín dụng; Khuyến nghị của Ngân hàng Phát triển châu Á (ADB) cũng như thể hiện cam kết của BIDV hướng tới mục tiêu phát triển bền vững của BIDV, trong năm 2018, BIDV đã nghiên cứu, xây dựng thành công Khung quản lý rủi ro Môi trường và Xã hội (ESMS) tuân thủ các quy định của pháp luật Việt Nam và đáp ứng yêu cầu của các tổ chức Quốc tế. Theo đó, khung quản lý rủi ro môi trường và xã hội xây dựng quy trình đánh giá rủi ro môi trường và xã hội thực hiện song song với quy trình cấp tín dụng nhằm đảm bảo các dự án/ phương án sản xuất kinh doanh do BIDV tài trợ đều đáp ứng được tất cả các yêu cầu về an toàn môi trường và xã hội thích hợp. Quy trình đánh giá rủi ro môi trường xã hội bao gồm đầy đủ các nội dung: (i) Sàng lọc, phân loại rủi ro môi trường và xã hội; (ii) Đánh giá chi tiết rủi ro môi trường và xã hội phù hợp quy định chung và quy định riêng của 10 nhóm ngành nghề đặc thù; (iii) Kế hoạch hành động khắc phục cũng như chế độ báo cáo kiểm tra giám sát môi trường xã hội sau khi vay.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    },
+    {
+      "paragraph_id": 899,
+      "text": "BIDV sẽ không xem xét hoặc hạn chế cho vay các dự án/ phương án sản xuất kinh doanh có rủi ro cao về môi trường và xã hội, hoặc sử dụng lao động cưỡng bức, bóc lột lao động hoặc lao động trẻ em. Khách hàng khi vay vốn tại BIDV sẽ phải cam kết đảm bảo tuân thủ theo pháp luật về môi trường và xã hội hiện hành và quy định về quản lý rủi ro môi trường và xã hội của BIDV.",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "G9": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "G9",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "G9": 1,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 902,
+      "text": "Xác định tầm quan trọng của việc hỗ trợ các doanh nghiệp đầu tư vào lĩnh vực bảo vệ môi trường, ứng phó với biến đổi khí hậu và tăng trưởng xanh, đồng thời thực hiện vai trò là công cụ đắc lực của Chính phủ và NHNN trong thực thi chính sách tiền tệ, góp phần ổn định kinh tế vĩ mô, kiềm chế lạm phát, hỗ trợ tăng trưởng kinh tế, trong thời gian qua, BIDV đã chủ động nghiên cứu, ban hành và triển khai các chính sách ưu đãi, khuyến khích cho các doanh nghiệp (áp dụng mức lãi suất cho vay ưu đãi thấp hơn so với mức lãi suất cho vay thương mại thông thường). Dư nợ tín dụng xanh tại BIDV đạt khoảng 2 tỷ USD, mức tăng dư nợ tín dụng xanh hàng năm khoảng 18 - 20%, tập trung vào các lĩnh vực như sản xuất điện năng, năng lượng tái tạo, cấp thoát nước, chống ngập, nông nghiệp công nghệ cao...",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 903,
+      "text": "Để cân đối nguồn vốn hỗ trợ cho các doanh nghiệp đầu tư vào lĩnh vực bảo vệ môi trường, ứng phó với biến đổi khí hậu và tăng trưởng xanh, thời gian qua BIDV đã chủ động tiếp cận, huy động và triển khai các chương trình/ dự án nguồn vốn ủy thác nước ngoài đối với các lĩnh vực trên. Năm 2018, tổng kết 09 năm triển khai giải ngân rút vốn Dự án Phát triển năng lượng tái tạo nguồn vốn Ngân hàng Thế giới trị giá 202 triệu USD, BIDV là một trong 06 ngân hàng tham gia dự án đã có nhiều tiểu dự án tham gia vay lại nhất với tổng số vốn rút về lên đến 1.815 tỷ đồng (tương đương 90 triệu USD).",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 914,
+      "text": "BIDV tại Đồng bằng sông Cửu Long; Hướng dẫn trực tiếp cho 8 chủ tiểu dự án lớn về chế biến lúa gạo hoàn tất các thủ tục về môi trường theo đúng qui định (tức 100% đã có Quyết định phê duyệt Báo cáo đánh giá tác động môi trường/Kế hoạch quản lý môi trường do các cấp có thẩm quyền của Việt Nam phê duyệt) với tổng số vốn đã giải ngân cho 8 tiểu dự án lúa gạo hơn 262 tỷ đồng; Riêng đối với cà phê, BIDV đã giải ngân thông qua 9 PFIs cho hơn 3.190 khoản vay tái canh cà phê với tổng vốn giải ngân đạt 1.154 tỷ đồng. Tất cả các khoản vay cà phê đều đã được bên vay và PFIs lập \"Bản Thỏa thuận bảo vệ môi trường\" thỏa mãn các điều khoản, điều kiện về bảo vệ môi trường như đã được qui định trong Sổ tay hoạt động và ESMF. Từ những kết quả trên, trong đợt đánh giá giữa kỳ Dự án VnSAT tháng 12/2018, WB đã đánh giá rất cao vai trò đầu mối của BIDV trong việc hoàn thành mục tiêu về an toàn môi trường trong khuôn khổ Dự án VnSAT.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1033,
+      "text": "[TABLE] [CONTEXT] section: BẢNG TUÂN THỦ CÁC TIÊU CHÍ BỀN VỮNG GRI STANDARDS ; column_headers: TT | GRI | Thông tin công bố | Nội dung chi tiết [ROWS] TT | GRI | Thông tin công bố | Nội dung chi tiết [ROW] 102-29 | Vai trò của HĐQT trong việc nhận diện và quản trị các ảnh hưởng, rủi ro và cơ hội liên quan đến Kinh tế - Xã hội - Môi trường [ROW] 102-30 | Báo cáo vai trò của HĐQT trong việc rà soát lại tính hiệu quả của các quy trình quản trị rủi ro của tổ chức đối với các chủ đề kinh tế, môi trường và xã hội. | HĐQT thành lập Ủy ban Quản lý rủi ro để giúp việc trong việc nhận diện rủi ro và quản trị rủi ro, đánh giá tính hiệu quả của quy trình quản trị rủi ro. Ủy ban được họp định kỳ hàng quý hoặc họp đột xuất khi có yêu cầu. [ROW] 102-31 | Tần suất HĐQT thực hiện rà soát các ảnh hưởng, rủi ro và cơ hội liên quan đến Kinh tế - Xã hội - Môi trường [ROW] 102-32 | Bộ phận chịu trách nhiệm rà soát và phê duyệt Báo cáo phát triển bền vững trong doanh nghiệp và đảm bảo rằng các vấn đề trọng yếu được đề cập | Ban điều hành chịu trách nhiệm phê duyệt. Bộ phận giúp việc (chịu trách nhiệm rà soát) Ban Thư ký HĐQT và Ban Thương hiệu và Quan hệ công chúng [ROW] 102-33 | Quy trình báo cáo các vấn đề quan trọng liên quan đến Kinh tế - Xã hội - Môi trường lên HĐQT | Mô tả hoạt động của HĐQT và các Ủy ban [ROW] 102-35 | Chính sách thù lao HĐQT và Ban Điều hành. | Mục Lương, thưởng, thù lao, các khoản lợi ích (Tr.94) [ROW] IV | Sự tham vấn của các bên liên quan [ROW] 102-40 | Cung cấp danh sách các nhóm liên quan được tổ chức mời tham gia. | Khách hàng Nhân viên Cổ đông, nhà đầu tư Nhà cung cấp dịch vụ Cơ quan chính phủ Cơ quan báo chí Cộng đồng [ROW] 102-41 | Tỷ lệ phần trăm người lao động được hưởng thỏa ước lao động tập thể | 100% cán bộ tham gia thỏa ước lao động tập thể (tham khảo Mục trách nhiệm với Người lao động - Phát huy tính dân chủ trong tổ chức) (Tr.110) [ROW] 102-42 | Cơ sở của việc lựa chọn các bên liên quan để thực hiện tham vấn [ROW] 102-43 | Phương pháp tiếp cận đối với sự tham vấn các bên liên quan | Gắn kết phát triển bền vững trong quản trị doanh nghiệp (Tr.103) Đo lường sự hài lòng khách hàng (Tr.115) Đo lường sự hài lòng của cán bộ công nhân viên (Tr.110) [ROW] 102-44 | Các mối quan ngại và chủ đề chính [ROW] V | Thông lệ báo cáo [ROW] 102-45 | Các đơn vị được bao gồm trong báo cáo tài chính hợp nhất | Tình hình hoạt động của các công ty con, liên doanh, liên kết [ROW] 102-46 | Xác định nội dung báo cáo và phạm vi chủ đề [ROW] 102-47 | Danh mục các chủ đề trọng yếu | Tổng quan Báo cáo phát triển bền vững [ROW] 102-50 | Kỳ báo cáo của thông tin được cung cấp | Báo cáo thực hiện cho giai đoạn 01/01/2018 đến 31/12/2018 [ROW] 102-52 | Chu kỳ báo cáo | Thường niên [ROW] 102-53 | Đầu mối liên hệ | Email: nhadautu@bidv.com.vn Hotline: 024 22201099 [ROW] 102-54 | Tuyên bố lập báo cáo theo tiêu chuẩn GRI | Tổng quan Báo cáo phát triển bền vững (Tr.100) [ROW] 102-55 | Mục lục GRI | Bảng tuân thủ các tiêu chuẩn bền vững GRI Standard (Tr.128) [ROW] GRI 200 | Tiêu chuẩn kinh tế [ROW] 201-1 | Giá trị kinh tế được tạo ra và phân phối | Mục Phát triển bền vững về kinh tế [ROW] 203-2 | Tác động kinh tế gián tiếp trọng yếu | Thông qua các hoạt động nghiệp vụ, BIDV hỗ trợ phát triển các ngành nghề kinh tế, kinh tế các điạ phương. Thực hiện các hoạt động an sinh xã hội, đóng góp tích cực vào công cuộc xóa đói giảm nghèo, cải thiện và nâng cao chất lượng cuộc sống cho người dân. (Mục Trách nhiệm xã hội...) [ROW] 205-2 | Truyền thông và đào tạo về các chính sách và quy trình chống tham nhũng | Chính sách chống tham nhũng (Tr.116) [ROW] GRI 300 | Tiêu chuẩn môi trường [ROW] 302-4 | Giảm tiêu hao năng lượng | Thực hiện các biện pháp tiết kiệm (Tr.120) Xây dựng môi trường làm việc khoa học và hiệu quả (Tr.123)",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "E_COMMON": 0.5,
+        "S4": 1.0
+      },
+      "themes": [
+        "E_COMMON",
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 1,
+        "S4": 2
+      }
+    }
+  ]
+}

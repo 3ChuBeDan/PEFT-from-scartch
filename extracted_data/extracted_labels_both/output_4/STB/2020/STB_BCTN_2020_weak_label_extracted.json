@@ -1,0 +1,167 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 25,
+      "text": "Năm 2020, đại dịch Covid-19 đã gây ra nhiều khó khăn và ảnh hưởng nặng nề cho kinh tế thế giới cũng như Việt Nam. Là một ngân hàng đại chúng phục vụ hàng triệu khách hàng và đối tác khắp ba nước Đông Dương, Sacombank đã chọn đương đầu với những thách thức bằng sự nỗ lực tự thân và tinh thần đồng hành sẻ chia. Dưới sự chỉ đạo xuyên suốt của Hội đồng quản trị và Ban Kiểm soát; sự thực thi linh hoạt, sáng tạo và đầy trách nhiệm của Ban điều hành cùng sự đoàn kết quyết tâm của tập thể cán bộ nhân viên, Sacombank đã hoàn thành trọn vẹn những mục tiêu kinh doanh năm 2020, tạo được nền tảng vững chắc để bước vào tuổi 30 với một tinh thần đầy hứng khởi.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 354,
+      "text": "Sacombank tích cực khai thác Hệ thống quản lý, thu hồi, xử lý nợ, hạn chế những phân khúc có rủi ro phát sinh nợ quá hạn cao, cảnh báo sớm đối với những khoản vay tiềm ẩn rủi ro và đề ra phương án giải quyết, ngăn chặn nợ quá hạn phát sinh. Ngân hàng đã quản lý và chỉ đạo xử lý nợ quá hạn xuyên suốt, đẩy nhanh và tạo hiệu quả quản trị, giám sát và thu hồi nợ tốt hơn. Kết quả, Sacombank đã đưa tỷ lệ nợ xấu nội bảng về mức 1,64%, giảm 0,26% so với đầu năm và đạt doanh số thu hồi nợ hơn 15.200 tỷ đồng, vượt mục tiêu đề ra.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 537,
+      "text": "M Hệ thống Phòng, chống rửa tiền: giúp kiểm tra thông tin khách hàng, sàng lọc và rà soát giao dịch để kịp thời có biện pháp xử lý giao dịch phù hợp; đảm bảo trách nhiệm phòng, chống tội phạm rửa tiền/tài trợ khủng bố, tuân thủ theo các cam kết quốc gia và quốc tế.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 999,
+      "text": "Phòng chống tham nhũng, tội phạm và rửa tiền là mối quan tâm hàng đầu của các quốc gia nói chung và Việt Nam nói riêng. Sacombank luôn ý thức rõ vai trò, trách nhiệm của mình trong công tác này nên Ngân hàng đặc biệt chú trọng xây dựng cơ chế, chính sách và đào tạo nhân sự để chung tay với NHNN Việt Nam ngăn chặn các hành vi tham nhũng, tội phạm và rửa tiền. Sacombank còn xây dựng chương trình Phòng chống tham nhũng, tội phạm và rửa tiền có đầy đủ các yếu tố để thực thi hiệu quả, cụ thể như sau:",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 1001,
+      "text": "Tại Hội sở: Ủy ban Phòng, chống tham nhũng, tội phạm và rửa tiền (trực thuộc có Hội đồng Phòng, chống rửa tiền).",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1089,
+      "text": "Tháng 04/2019, chương trình \"Sức trẻ Sacombank\" ra đời với tiêu chí \"Khoẻ thể chất - Mạnh tinh thần\" nhằm nâng cao nhận thức của CBNV trong việc tăng cường rèn luyện thân thể, phát huy ý chí quyết tâm và sức sáng tạo để tạo nên những thành tựu trong công việc, cuộc sống. Từ đó đến nay, các hoạt động rèn luyện sức khỏe thể chất luôn được người Sacombank đón nhận và hưởng ứng mạnh mẽ. Đặc biệt trong năm 2020, hàng ngàn CBNV đã tích cực tham gia các giải chạy nhằm lan tỏa tinh thần thể thao và đóng góp giá trị cho cộng đồng như: Đồng hành cùng quỹ Newborns Việt Nam, Chung sức đẩy lùi virus Corona, Hưởng ứng ngày không tiền mặt, Những bước chân vì cộng đồng chặng 1 - 2 - 3, Vững bước Sacombank, Đón sinh nhật vàng - Ngàn lời tri ân...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1099,
+      "text": "Tinh thần đoàn kết, gắn bó, nhiệt huyết và sáng tạo của hơn 18.500 CBNV cũng trở thành nét văn hóa đã tạo nên sức bật và sự thành công của Sacombank ngày hôm nay. Nét văn hóa này được mỗi con người Sacombank qua các thế hệ gầy dựng bằng chính sự nỗ lực, những giọt mồ hôi, những ngày tháng miệt mài cống hiến. Không tự mãn với thành công, ở Sacombank, văn hóa thẳng thắn nhìn nhận, dám chịu trách nhiệm với những sai phạm đã giúp Sacombank rút ra những bài học quý giá để từ đó tạo ra những giải pháp tích cực, có tính quyết định cho sự phát triển của Ngân hàng. Tinh thần đó được ăn sâu vào ý thức của mỗi thành viên và trở thành truyền thống văn hóa, góp phần phát huy sức mạnh nội lực và bền vững cho sự phát triển của Sacombank.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1773,
+      "text": "[TABLE] [CONTEXT] section: Cơ cấu tiền lương ; column_headers: Vùng | Lương tối thiểu (Nghị định 90/2019/NĐ-CP) | Mức lương tối thiểu theo cơ chế Sacombank | Tỉ lệ +/- so với lương tối thiểu theo quy định Nhà nước [ROWS] Vùng | Lương tối thiểu (Nghị định 90/2019/NĐ-CP) | Mức lương tối thiểu theo cơ chế Sacombank | Tỉ lệ +/- so với lương tối thiểu theo quy định Nhà nước [ROW] Vùng 1 | 4.420.000 | 4.730.000 | 7% [ROW] Vùng 2 | 3.920.000 | +21% [ROW] Vùng 3 | 3.430.000 | 4.475.000 | +38% [ROW] Vùng 4 | 3.070.000 | +53%",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 6
+      }
+    },
+    {
+      "paragraph_id": 1787,
+      "text": "[TABLE] [CONTEXT] section: 4.6 Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro cho tiền gửi tại và cho vay các tổ chức tín dụng khác, mua và ủy thác mua trái phiếu doanh nghiệp chưa niêm yết, cho vay khách hàng và ủy thác cấp tín dụng và tài sản có rủi ro khác (tiếp theo) ; column_headers: Nhóm nợ | Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 3 | Nợ dưới tiêu chuẩn | (a) | Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc | 20% [ROW] (b) Nợ gia hạn nợ lần đầu; hoặc [ROW] (c) | Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc [ROW] (d) | Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: [ROW] Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc [ROW] Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc [ROW] Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. [ROW] (e) | Nợ trong thời hạn thu hồi theo kết luận thanh tra. [ROW] 4 | Nợ nghi ngờ | (a) | Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc | 50% [ROW] (b) | Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc [ROW] (c) | Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc [ROW] (d) | Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc [ROW] (e) | Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. [ROW] 5 | Nợ có khả năng mất vốn | (a) | Nợ quá hạn trên 360 ngày; hoặc | 100% [ROW] (b) | Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc [ROW] (c) | Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc [ROW] (d) | Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã quá hạn; hoặc [ROW] (e) | Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc [ROW] (f) | Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc [ROW] (g) | Nợ của khách hàng là tổ chức tín dụng được NHNN Việt Nam công bố đặt vào tình trạng kiểm soát đặc biệt, hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa vốn và tài sản.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

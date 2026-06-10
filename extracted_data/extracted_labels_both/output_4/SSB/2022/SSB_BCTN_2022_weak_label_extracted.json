@@ -1,0 +1,275 @@
+{
+  "extracted_count": 15,
+  "extracted": [
+    {
+      "text": "SeABank đã quy định cụ thể các hoạt động, nghĩa vụ có liên quan để quản lý và ngăn ngừa việc xung đột lợi ích trong Điều lệ, Quy chế nội bộ về Quản trị Ngân hàng và Quy chế tổ chức, hoạt động của HĐQT, BKS Ngân hàng. Theo đó, người quản lý, người điều hành của SeABank có nghĩa vụ (i) thông báo kịp thời, đầy đủ, chính xác cho SeABank về quyền lợi của mình tại tổ chức khác, giao dịch v ới tổ chức, cá nhân khác có thể gây xung đột với lợi ích của SEABANK và chỉ được tham gia vào giao dịch đó khi được HĐQT chấp thuận; (ii) công khai lợi ích có liên theo quy định của pháp luật và Điều lệ Ngân hàng. Thành viên HĐQT và BKS không được tham gia biểu quyết đối với các vấn đề xung đột lợi ích với thành viên đó. Khi SeABank tiến hành giao dịch với những người có liên quan, HĐQT , TGĐ phải đảm bảo hợp đồng được ký bằng văn bản theo nguyên tắc bình đẳng, tự nguyện. Nội dung hợp đồng rõ ràng, cụ thể và phù hợp với quy định của pháp luật. HĐQT , TGĐ phải tiến hành công bố thông tin nội dung hợp đồng theo các quy định của pháp luật và SeABank (nếu có). SeABank tôn trọng quyền lợi hợp pháp của những người có quyền lợi liên quan đến SeABank bao g ồm chủ nợ, người lao động, người sử dụng dịch vụ SeABank, nhà cung cấp, cộng đồng và những người có quyền lợi liên quan đến SeABank.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "SeABank đã mua bảo hiểm rủi ro toàn diện bao gồm: mọi rủi ro hoạt động (rủi ro về lòng trung thành của nhân viên, rủi ro cơ sở vật chất, vận chuyển tiền, gian lận giả mạo, chi phí pháp lý...), rủi ro tội phạm máy tính và điện tử, rủi ro an ninh mạng và rủi ro trách nhiệm nghề nghiệp. Bảo hiểm này giúp SeABank giảm thiểu tổn thất trong điều kiện rủi ro an ninh mạng và gian lận, giả mạo đang ngày càng gia tăng.",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 1.0
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 2
+      }
+    },
+    {
+      "text": "-Ngoài ra, SeABank đã đầu tư hệ thống Phòng, Chống rửa tiền/tài trợ khủng bố và tuân thủ đạo luật FATCA, theo đó các giao dịch nếu có liên quan hoặc có dấu hiệu rửa tiền/giao dịch đáng ngờ đều được cảnh báo tự động trước khi thực hiện giao dịch (trước khi giao dịch được duyệt bởi cấp có thẩm quy ền). Hệ thống dự kiến sẽ golive trong năm 2023.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "-Đầu tư xây dựng hệ thống Phòng, Chống Rửa tiền, theo đó các giao dịch nếu có liên quan hoặc có dấu hiệu liên quan đến rửa tiền/giao dịch đáng ngờ đều được cảnh báo tự động trước khi thực hiện giao dịch.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "SeABank không ngừng nỗ lực nâng cao văn hóa tuân thủ nhằm đảm bảo sự minh bạch trong hoạt động, ngăn ngừa rủi ro đạo đức nghề nghiệp và phòng chống gian lận thông qua việc thiết lập các chương trình hành động tuân thủ và ban hành bộ Chuẩn mực tuân thủ \"5T\" với tinh thần \"nói KHÔNG với vi phạm và gian lận\" theo 05 tiêu chí Tự giác – Trung thực – Tỉnh táo – Tố giác – Truyền thông, kiện toàn bộ quy tắc Đạo đức nghề nghiệp theo chuẩn mực mới để tạo ra môi trường làm việc tốt, khơi gợi cảm hứng cho các cá nhân cố gắng phấn đấu vì mục tiêu chung, tạo nên nguyên t ắc làm việc tích cực, tự giác, chủ động, khách quan giúp nâng cao hiệu quả công việc.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G11": 2
+      }
+    },
+    {
+      "text": "Từ năm 2021, SeABank đã nỗ lực tìm kiếm các nguồn vốn tài trợ từ nước ngoài để hỗ trợ các chương trình tín dụng xanh. SeABank mong muốn góp phần thực hiện mục tiêu trong Chiến lược quốc gia về tăng trưởng xanh cũng như hỗ trợ cho các hoạt động kinh doanh thuộc các ngành, lĩnh vực thân thiện v ới môi trường, thích ứng với biến đổi khí hậu, mang lại lợi ích về môi trường như nông nghiệp xanh, công trình xanh, năng lượng tái tạo, năng lượng sạch, quản lý nước bền vững tại khu vực đô thị và nông thôn và các lĩnh vực xanh khác.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "-Đối với các tòa nhà có lượng xả nước thải trên 5m 3 /ngày đêm, SeABank yêu cầu chủ cơ sở cung c ấp giấy phép xả nước thải ra môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": " Nhu cầu xả nước thải lớn hơn 5m3/ngày đêm => Phải xây dựng trạm xử lý nước thải, các chỉ số đáp ứng Bảng 1 -Giá trị các thông số ô nhiễm làm cơ sở tính toán giá trị tối đa cho phép trong nước thải sinh hoạt (Cột B quy định giá trị C)",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Hoạt động của khu vực văn phòng: Cán bộ làm việc tại khu vực văn phòng 8h/ngày (từ 7h00 đến 17h hàng ngày, kể cả nghỉ trưa) nên sẽ phát sinh rác thải sinh hoạt. Tại Toà nhà văn phòng hiện nay không tổ chức bếp ăn tập thể nên lượng chất thải rắn sinh hoạt thông thường phát sinh không đáng kể . Kết quả khảo sát chất thải rắn sinh hoạt loại này chủ yếu là: Giấy, nilon, thực phẩm (hoa quả). Thống kê khối lượng phát sinh rác thải sinh hoạt thông thường tại khu vực văn phòng trung bình khoảng 25 kg/ngày đêm hay 750 kg/tháng.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "Nguồn phát thải khí nhà kính (GHG) chính của SeABank chủ yếu đến từ việc sử dụng năng lượng điện. SeABank sử dụng các hướng dẫn của Ủy ban liên chính phủ về biến đổi khí hậu (IPCC -Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories) về kiểm kê khí nhà kính và hệ số phát thải gián tiếp của mạng lưới điện Việt Nam để tính toán tổng lượng GHG phát thải trong năm kiểm kê. Tổng lượng khí nhà kính phát thải gián tiếp dựa trên năng lượng tiêu thụ (phạm vi 2) trong cả năm 2022 là: 4.886 tCO2 tương đương.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S24"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S24"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Tuyên bố áp dụng ; column_headers: Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROWS] Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 6 Các hoạt động, chuỗi giá trị và các mối quan hệ kinh doanh khác | Chương I – Chuỗi giá trị và các yếu tố tạo động lực tăng trưởng Chương II – Tình hình tài chính – Hoạt động kinh doanh của các công ty con [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 7 Cán bộ nhân viên | Chương II – Tổ chức và nhân sự [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 8 Lao động không phải nhân viên của tổ chức | SeABank không có hình thức lao động khác ngoài lao động chính thức toàn thời gian . [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 9 Cơ cấu và thành phần quản trị | Chương I – Mô hình quản trị và bộ máy quản lý Chương V – Cơ cấu tổ chức HĐQT [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 10 Đề cử và lựa chọn quản lý cấp cao | Chương V – Cơ cấu tổ chức HĐQT – – Đề cử và lựa chọn quản lý cấp cao [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 11 Người đứng đầu tổ chức | Chương V – Cơ cấu tổ chức HĐQT [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 15 Xung đột lợi ích | Chương V – Cơ cấu tổ chức HĐQT – – Quản lý Xung đột lợi ích [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 16 Chính sách báo cáo các vấn đề trọng yếu | Chương VII – Nhận diện và quản trị các chủ đề trọng yếu [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2 - 17 Kiến thức tổng hợp của cấp quản lý cao nhất | Chương V – Cơ cấu tổ chức HĐQT – – Hội đồng quản trị",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Tuyên bố áp dụng ; column_headers: Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROWS] Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROW] GRI 300: Tiêu chuẩn về môi trường | 302 - 3 Đo lường việc sử dụng năng lượng | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả [ROW] GRI 300: Tiêu chuẩn về môi trường | 302 - 4 Tiết kiệm tiêu thụ năng lượng | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả [ROW] GRI 300: Tiêu chuẩn về môi trường | 303 - 1 Sử dụng nước như một nguồn tài nguyên chung | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả [ROW] GRI 300: Tiêu chuẩn về môi trường | 303 - 2 Quản lý các tác động liên quan đến xả thải nước | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả [ROW] GRI 300: Tiêu chuẩn về môi trường | 303 - 3 Nguồn cung cấp nước | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả 100% nước sinh hoạt của văn phòng làm việc được mua từ các công ty cấp nước của khu vực . [ROW] GRI 300: Tiêu chuẩn về môi trường | 303 - 4 Xả thải nước | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả SeABank luôn tuân thủ quy định về xả thải. [ROW] GRI 300: Tiêu chuẩn về môi trường | 303 - 5 Tiêu thụ nước | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả [ROW] GRI 300: Tiêu chuẩn về môi trường | 304 - 1 Các địa điểm hoạt động thuộc sở hữu, cho thuê, quản lý trong hoặc liền kề với các khu bảo t ồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn | Các tòa nhà, địa điểm thuộc hoạt động của SeABank được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo t ồn. [ROW] GRI 300: Tiêu chuẩn về môi trường | 304 - 2 Tác động trọng y ếu của các hoạt động, sản phẩm và dịch vụ đối v ới đa dạng sinh học | Các tòa nhà, địa điểm thuộc hoạt động của SeABank được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo t ồn.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E_COMMON": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Tuyên bố áp dụng ; column_headers: Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROWS] Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROW] GRI 300: Tiêu chuẩn về môi trường | 304 - 3 Môi trường sống được bảo vệ hoặc phục hồi | Các tòa nhà, địa điểm thuộc hoạt động của SeABank được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo t ồn. [ROW] GRI 300: Tiêu chuẩn về môi trường | 304 - 4 Các loài trong danh sách đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trường sống trong các khu vực bị ảnh hưởng bởi các hoạt động | Các tòa nhà, địa điểm thuộc hoạt động của SeABank được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo t ồn. [ROW] GRI 300: Tiêu chuẩn về môi trường | 305 - 2 Phát thải khí nhà kính (Phạm vi 2) do tiêu thụ năng lượng gián tiếp | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả [ROW] GRI 300: Tiêu chuẩn về môi trường | 305 - 5 Giảm phát thải khí nhà kính | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả [ROW] GRI 300: Tiêu chuẩn về môi trường | 306 - 1 Rác thải và các tác động nghiêm trọng liên quan đến rác thải | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả - Quản lý rác thải [ROW] GRI 300: Tiêu chuẩn về môi trường | 306 - 2 Quản lý các tác động nghiêm trọng liên quan đến rác thải | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả - Quản lý rác thải [ROW] GRI 300: Tiêu chuẩn về môi trường | 306 - 3 Lượng rác thải | Chương VII – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả - Quản lý rác thải [ROW] GRI 400: Tiêu chuẩn về xã hội | 401 - 2 Phúc lợi dành riêng cho nhân viên toàn thời gian | Chương II – Tổ chức và nhân sự Chương VII – Phát triển nhân tài [ROW] GRI 400: Tiêu chuẩn về xã hội | 403 - 1 Hệ thống quản lý an toàn và sức khỏe nghề nghiệp | Chương VII – Phát triển nhân tài [ROW] GRI 400: Tiêu chuẩn về xã hội | 403 - 6 Nâng cao sức khỏe người lao động | Chương II – Tổ chức và nhân sự Chương VII – Phát triển nhân tài",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: (i) Phân loại nợ ; column_headers: Nhóm | Tình trạng quá hạn [ROWS] Nhóm | Tình trạng quá hạn [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn đến 90 ngày; hoặc (b) Nợ được điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn. [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu còn trong hạn; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi:  Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc  Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc  Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

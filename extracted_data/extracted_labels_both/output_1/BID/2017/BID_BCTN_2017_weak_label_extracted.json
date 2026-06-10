@@ -1,0 +1,256 @@
+{
+  "extracted_count": 17,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Để quản lý rủi ro lãi suất, BIDV đã ban hành đầy đủ các chính sách, quy định nội bộ, áp dụng hầu hết các công cụ và hạn mức quản lý rủi ro tương ứng với từng Sổ theo thông lệ. Đối với rủi ro lãi suất Sổ ngân hàng, các công cụ chính được sử dụng là Chênh lệch tài sản nhạy cảm lãi suất (Repricing gap), Thay đổi thu nhập ròng từ lãi (ΔNII), Khe hở thời lượng (Dgap), Thay đổi giá trị kinh tế vốn (ΔEVE), kiểm tra sức chịu đựng (stress test) (có tích hợp kết quả mô hình hành vi khách hàng). Đối với Sổ kinh doanh, BIDV hiện đo lường rủi ro lãi suất thông qua các công cụ Giá trị một điểm cơ bản lãi suất (BPV), Giá trị chịu rủi ro (VaR), Hạn mức dừng lỗ, Vốn yêu cầu tối thiểu, Kiểm nghiệm giả thuyết (backtest), Kiểm tra sức chịu đựng (stress test). Trên cơ sở kết quả đo lường rủi ro thông qua các công cụ nêu trên, hệ thống hạn mức được xác lập và theo dõi, quản lý nhằm đảm bảo kiểm soát rủi ro của ngân hàng.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "Ngoài ra, trước các nguy cơ về an ninh mạng ngày càng gia tăng, BIDV đã tăng cường các công tác chuẩn bị, nâng cao tính sẵn sàng CNTT tại BIDV để đối phó với những tác động xấu từ bên ngoài và đáp ứng đầy đủ các yêu cầu ngày càng khắt khe về tuân thủ trong thời gian tới như: thành lập tổ công tác đặc biệt ứng phó với các tình huống về an ninh mạng; thành lập tổ SOC để theo dõi, giám sát, phát hiện sớm và phân tích, xử lý sự cố bảo mật; phối hợp/ ký kết thỏa thuận hợp tác với CMC, VNCert trong công tác đánh giá an ninh an ninh bảo mật hệ thống CNTT của BIDV. Phối hợp chặt chẽ với NHNN, Hiệp hội An ninh mạng Việt Nam (VNISA), Bộ Công an (C50, PC50) thực hiện tốt công tác cảnh báo và giám sát an ninh mạng của BIDV. Đồng thời, để nâng cao năng lực xử lý của hệ thống cơ sở hạ tầng CNTT, BIDV đang trong giai đoạn xây dựng Trung tâm dữ liệu mới đáp ứng yêu cầu tăng trưởng và các chuẩn công nghệ quốc tế, nâng cao khả năng sẵn sàng và hoạt động liên tục của hệ thống CNTT, đáp ứng đầy đủ các yêu cầu kinh doanh và quản trị điều hành của BIDV, sẽ hoàn thành và đưa vào sử dụng cuối năm 2018, đầu năm 2019.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Qua gần 25 năm triển khai, hoạt động nguồn vốn ủy thác nước ngoài của BIDV ngày càng phát triển và khẳng định vị thế, thương hiệu trên thị trường. Thông qua việc quản lý hơn 200 chương trình/dự án có tổng số vốn cam kết của Nhà tài trợ hơn 17,5 tỷ USD, BIDV đã góp phần không nhỏ trong việc thúc đẩy sự phát triển các ngành công nghiệp thiết yếu của Việt Nam như than, điện, nước, giao thông, gang thép, xi măng..., giúp cải thiện đời sống, cải thiện môi trường, nâng cao trình độ cho người dân, thúc đẩy quá trình phát triển kinh tế - xã hội của đất nước. BIDV đã tham gia phục vụ và cho vay lại nhiều dự án lớn, trọng điểm quốc gia như Dự án xây dựng đường cao tốc Nội Bài – Lào Cai (1.096 triệu USD), Chương trình hỗ trợ phát triển chính sách cải cách ngành điện giai đoạn 1 (312 triệu USD), Dự án hiệu quả lưới điện truyền tải (500 triệu USD), Dự án năng lượng tái tạo (hơn 200",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "BIDV luôn coi trọng hoạt động quản lý rủi ro môi trường đối với các khoản cấp tín dụng tại BIDV. Theo quy trình cấp tín dụng đối với KHTC hiện hành, BIDV đã thực hiện đánh giá rủi ro môi trường đối với từng khoản cấp tín dụng, đảm bảo dự án được tài trợ đáp ứng đầy đủ các quy định của pháp luật về môi trường. Hồ sơ tín dụng yêu cầu từ khách hàng bao gồm các hồ sơ liên quan đến môi trường xã hội (như Giấy phép khai thác tài nguyên đối với doanh nghiệp hoạt động trong lĩnh vực này, Quyết định phê duyệt báo cáo đánh giá tác động môi trường, phòng cháy chữa cháy, xử lý nguồn nước thải (đối với những dự án có yêu cầu); Giấy xác nhận đăng ký/Bản cam kết bảo vệ môi trường của cấp có thẩm quyền...). Mẫu báo cáo đề xuất tín dụng đối với từng khoản cấp tín dụng đã quy định cụ thể nội dung thẩm định phân tích các rủi ro chủ yếu (bao gồm rủi ro môi trường và xã hội), biện pháp phòng ngừa của khách hàng và ngân hàng. Thực hiện kiểm tra giám sát định kỳ thường xuyên đối với các dự án sau cho vay (bao gồm kiểm tra đánh giá các cam kết về bảo vệ môi trường của khách hàng), đảm bảo kiểm soát tốt rủi ro.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Để cân đối nguồn vốn hỗ trợ cho các doanh nghiệp đầu tư vào lĩnh vực bảo vệ môi trường, ứng phó với biến đổi khí hậu và tăng trưởng xanh, BIDV đã chủ động tiếp cận, huy động các chương trình/dự án nguồn vốn ủy thác nước ngoài. Năm 2017, BIDV đã được WB và Chính phủ tin tưởng, lựa chọn là 1 trong 2 Ngân hàng tham gia cho vay lại Dự án tiết kiệm năng lượng cho ngành công nghiệp Việt Nam (VEEIEs) trị giá 100 triệu USD. Mục tiêu phát triển của Dự án là nâng cao tiết kiệm năng lượng trong lĩnh vực công nghiệp của Việt Nam, thông qua đó sẽ đóng góp vào việc đạt được các mục tiêu về tiết kiệm năng lượng và giảm phát thải khí nhà kính (GHG) của Chính phủ. Với vai trò là Cơ quan cho vay lại, BIDV đảm bảo cùng với WB, Bộ Công Thương thẩm định và lựa chọn các tiểu Dự án hiệu quả, đảm bảo tính khả thi về kỹ thuật, kinh tế và tài chính; góp phần tăng trưởng tín dụng xanh.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Qua hơn 2 năm triển khai Dự án VnSAT, tính đến 31/12/2017, với vai trò là ngân hàng bán buôn, chịu trách nhiệm chính trong tổ chức triển khai ESMF, BIDV đã tổ chức được 11 khóa tập huấn và đào tạo chuyên sâu về nghiệp vụ tín dụng nói chung, qui trình, thủ tục quản lý môi trường & xã hội nói riêng cho 9 ngân hàng thương mại được lựa chọn tham gia dự án VnSAT, kể cả một số Chi nhánh của BIDV tại Đồng bằng sông Cửu Long; Hướng dẫn trực tiếp cho 6 chủ tiểu dự án lớn về chế biến lúa gạo hoàn tất các thủ tục về môi trường theo đúng qui định (100% đã có Quyết định phê duyệt Báo cáo đánh giá tác động môi trường/Kế hoạch quản lý môi trường do các cấp có thẩm quyền của Việt Nam phê duyệt) với tổng số vốn",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

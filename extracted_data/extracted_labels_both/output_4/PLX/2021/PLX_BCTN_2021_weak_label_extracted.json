@@ -1,0 +1,44 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 1398,
+      "text": "Nỗ lực trở thành Tập đoàn số 1 tại Việt Nam về kinh doanh sản phẩm năng lượng sạch, thân thiện với môi trường vào năm 2030, đến năm 2045 sẽ lượng sạch, thân thiện với môi trường vào năm 2030, đến năm 2045 sẽ đạt 100% tỷ trọng năng lượng sạch và thân thiện với môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 1418,
+      "text": "Tại Hội nghị COP26 diễn ra vào tháng 11/2011 tại Glasgow, Scotland, Vương quốc Anh, đại diện Việt Nam, Thủ tướng Phạm Minh Chính đã khẳng định: \"Việt Nam là một nước có lợi thế về năng lượng tái tạo sẽ xây dựng và triển khai các biện pháp giảm phát thải khí nhà kính mạnh mẽ bằng nguồn lực của chính mình cùng với sự hợp tác và hỗ trợ của cộng đồng quốc tế, nhất là các nước đang phát triển kể cả tài chính và chuyển giao công nghệ, trong đó thực hiện các cơ chế theo \"Thỏa thuận Paris\", để đạt mức phát thải ròng bằng \"0\" vào năm 2050\". Để đạt đến phát thải ròng bằng 0, cần phải dừng tất cả quá trình mở rộng than đá và khí đốt. Điều quan trọng là phải thay thế tất cả việc sử dụng nhiên liệu hóa thạch càng nhanh càng tốt, đáp ứng tất cả nhu cầu năng lượng bằng năng lượng tái tạo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    }
+  ]
+}

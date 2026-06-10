@@ -1,0 +1,196 @@
+{
+  "extracted_count": 11,
+  "extracted": [
+    {
+      "text": "Tinh thần tiến lên, tinh thần đương đầu, tinh thần xây dựng... Để hướng tới sự trưởng thành mạnh mẽ hơn cho từng cá nhân và cơ hội trở thành một tổ chức xuất sắc cho toàn tập thể.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Tinh thần ấy không đòi hỏi năng lực phi thường hay phải là một vĩ nhân mới có được. Mà hãy UP bằng việc tự khai mở nhận thức và tiềm lực của chính mình, nâng cấp phiên bản hiện có của bản thân, cải tiến hiệu quả trong từng công việc đang làm mỗi ngày. UP bằng cách bắt tay vào những điều mình muốn làm hay từng dự định làm nhưng đã chần chờ, e ngại, trì hoãn. UP từ việc dám bày tỏ, chia sẻ, kết nối với đồng nghiệp, cấp trên, khách hàng, đối tác trong tâm thế tự chủ, tự tin hơn...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Trên cơ sở đó, logo và hình ảnh mới của Coteccons có phong cách tối giản nhưng sinh động, mạnh mẽ mà vẫn tinh tế, cho cảm giác tự tin, vững chãi song rất trẻ trung và giàu cảm xúc. Phông chữ cứng cáp đúng với tinh thần của ngành xây dựng. Xanh navy được chọn làm màu sắc chủ đạo để đại diện cho công nghệ - yếu tố xương sống trong chiến lược kinh doanh mới của Coteccons, điển hình là công nghệ xây dựng, công nghệ máy móc, công nghệ thông tin... Bên cạnh đó, màu xanh ngọc (teal) được sử dụng cộng hưởng gợi tinh thần sự sáng tạo, đa dạng và tôn trọng sự khác biệt.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Chúng tôi làm việc với sự thấu hiểu và tinh thần đồng đội. Chúng tôi không thoả hiệp với những hành động đi ngược lại tính nhân văn và không tạo ra giá trị cho cộng đồng. Đối xử công bằng và tử tế, không phân biệt hoàn cảnh xuất thân, vị trí và năng lực.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Tổ chức buổi đối thoại cùng cổ đông lần đầu tiên với tinh thần cởi mở, minh bạch và tôn trọng, thể hiện tinh thần mới trong quản trị công ty - quan hệ nhà đầu tư, chú trọng đến bảo vệ quyền lợi cho cổ đông, kể cả cổ đông nhỏ lẻ.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Một thành tựu rất quan trọng khác là cuộc thay đổi hình ảnh thương hiệu. Hệ thống nhận diện, logo, biểu đạt của Coteccons đều được làm mới, mang tinh thần đương đại, năng động, có tính quốc tế, phù hợp với thẩm mỹ hiện nay và dễ tương tác hơn. Tôn chỉ - mục đích và hệ giá trị cốt lõi của Công ty cũng đã được xác định lại để diễn đạt tốt hơn phương diện tinh thần mà Công ty cam kết theo đuổi và tuân thủ.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Trước hết, Coteccons đề cao tinh thần tuân thủ pháp luật, đạo đức kinh doanh và cam kết giữa các bên. Công ty sẽ không thỏa hiệp với những lựa chọn không chính thống để tìm kiếm cơ hội phát triển. Tinh thần này được yêu cầu thực hiện sâu sát và nhất quán trong mọi hoạt động, từ hội sở đến công trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Tuy nhiên, chúng tôi đang có một Coteccons mới, mà tôi muốn gọi là Coteccons 2.0. Đối với bản thân tôi hiện nay, mỗi ngày đi làm đều cảm thấy rất hạnh phúc. Vì những gì mình nghĩ, mình muốn và mình được làm đã có thể hoàn toàn hòa quyện, nhất quán với nhau. Tôi cảm nhận rất rõ sinh khí, tinh thần tự do và \"dân chủ\" đầy mới mẻ trong môi trường mình vốn đã rất quen thuộc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Công ty phối hợp với các chủ đầu tư xây dựng các công trình tiết kiệm năng lượng, đạt tiêu chuẩn LEED Gold như: Diamond Lotus, Friendship, Khu nghỉ dưỡng Nam Hội An... LEED là hệ thống đánh giá, chứng nhận công trình xanh do Hội đồng công trình xanh Mỹ phát triển. Đây là tiêu chuẩn quốc tế tiên phong trong xây dựng các công trình tiết kiệm năng lượng và bảo vệ môi trường sống của con người. Hiện tại, Việt Nam chỉ có khoảng 165 công trình đạt tiêu chuẩn là công trình xanh.",
+      "hard_labels": [
+        "E3",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: NHỮNG DỰ ÁN TIÊU BIỂU TRONG NĂM 2021 ; column_headers: Thông tin dự án | Giá trị | (Tỷ đồng) STT Dự án Gói thầu Chủ đầu tư Vị trí Quy mô Thời gian khởi công Thời gian khởi công | Dự án | Gói thầu | Chủ đầu tư | Vị trí | Quy mô [ROWS] Thông tin dự án [ROW] Dự án | Gói thầu | Chủ đầu tư | Vị trí | Quy mô | (Tỷ đồng) STT Dự án Gói thầu Chủ đầu tư Vị trí Quy mô Thời gian khởi công Thời gian khởi công | Giá trị [ROW] 1 | Pullman Hải Phòng | Tổng thầu thi công | Công ty TNHH Nhật Hạ | Hải Phòng | Tổng diện tích sàn xây dựng 45.000m2 | 01/2018 | 491 [ROW] 2 | 58 Tây Hồ | Tổng thầu thi công | Sun Group | Hà Nội | Diện tích 3,6ha | 08/2018 | 1.713 [ROW] 3 | Golden Palace A | Thi công cọc, phần ngầm, kết cấu bê tông cốt thép phần thân | CTCP Tập đoàn MIK Group Việt Nam | Hà Nội | Tổng diện tích dự án 39,8ha | 01/2019 | 636 [ROW] 4 | CR8-2B&3 | Tổng thầu thiết kế và thi công | Công ty TNHH Phát Triển Phú Mỹ Hưng | TP. HCM | Tổng diện tích sàn xây dựng 57.158m 2 | 02/2019 | 824 [ROW] 5 | Vinhomes Grand Park | Thi công phần hầm, kết cấu và hoàn thiện cơ bản - Phân khu 2 | VinGroup | TP. HCM | Tổng diện tích sàn xây dựng 144.000m2 | 08/2020 | 592 [ROW] 6 | InterContinental Hạ Long | Tổng thầu thi công | BIM Group | Quảng Ninh | Tổng diện tích sàn xây dựng 19.858m2 | 01/2021 | 380 [ROW] 7 | Opal Skyline | Thi công kết cấu phần ngầm và phần thân khối nhà chính | CTCP Đầu tư Kinh doanh Bất động sản Hà An | Bình Dương | Tổng diện tích sàn xây dựng 7.842m 2 | 01/2021 | 420 [ROW] 8 | Lancaster Luminaire | Thi công kết phần ngầm, kết cấu thân và hoàn thiện toàn bộ dự án | CTCP Tân Phú Long Hà Nội | Tổng diện tích sàn xây dựng 85.000m2 | 02/2021 | 746 [ROW] 9 | Le Meridien Đà Nẵng | Tổng thầu thi công | IFF Holding | Đà Nẵng Diện tích 12ha | 04/2021 | 474 [ROW] 10 | Dolce Penisola Quảng Bình | Tổng thầu thi công | CTCP Tập Đoàn Onsen Fuji | Quảng Bình | Tổng diện tích sàn xây dựng 85.807m2 | 06/2021 | 422 [ROW] 11 | Ecopark Swanlake Residences - CT21-22 | Tổng thầu thiết kế và Thi công | CTCP Tập Đoàn Ecopark | Hưng Yên | Tổng diện tích sàn xây dựng 352.299m2 | 06/2021 | 3.984 [ROW] 12 | Khu căn hộ HT - Pearl | Tổng thầu thi công: Kết cấu - Hoàn thiện - MEP | Công ty TNHH Đầu tư Xây dựng nhà HT - Pearl | Bình Dương | Tổng diện tích sàn xây dựng 8.728,7m 2 | 10/2021 | 878 [ROW] 13 | Urban Green | Tổng thầu thi công: kết cấu - Hoàn thiện - Hạ tầng | Công ty TNHH Bất động sản LADONA | TP. HCM | Tổng diện tích sàn xây dựng 20.203m2 | 12/2021 | 1.300",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CHÍNH SÁCH LƯƠNG ; column_headers: Vùng | Mức lương tối thiểu vùng | (VND) | % chênh lệch mức lương khởi điểm của CBNV Coteccons so với mức lương tối thiều vùng | Lao động phổ thông | Nhân viên | Chuyên viên | Quản lý cấp trung [ROWS] Mức lương tối thiểu vùng | % chênh lệch mức lương khởi điểm của CBNV Coteccons so với mức lương tối thiều vùng [ROW] Vùng | (VND) | Lao động phổ thông | Nhân viên | Chuyên viên | Quản lý cấp trung [ROW] Vùng I | 4.420.000 | 124 | 155 | 347 | 723 [ROW] Vùng II | 3.920.000 | 152 | 188 | 405 | 828 [ROW] Vùng III | 3.430.000 | 189 | 229 | 477 | 961 [ROW] Vùng IV | 3.070.000 | 222 | 268 | 544 | 1085",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 4
+      }
+    }
+  ]
+}

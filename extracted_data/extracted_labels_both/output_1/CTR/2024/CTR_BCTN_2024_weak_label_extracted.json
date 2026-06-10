@@ -1,0 +1,599 @@
+{
+  "extracted_count": 34,
+  "extracted": [
+    {
+      "text": "Cùng với các chính sách lương, thưởng, và các chế độ phúc lợi theo quy định Pháp luật (bảo hiểm xã hội/y tế/thất nghiệp...), Tổng Công ty còn xây dựng các chế độ phúc lợi khác biệt với mục đích chăm sóc toàn diện người lao động và người thân: Hằng năm đều có chương trình kiểm tra sức khỏe định kỳ cho toàn thể CBNV đã ký hợp đồng lao động chính thức mỗi năm một lần tại các bệnh viện uy tín với chi phí do Tổng Công ty chi trả. Người thân của SQ, QNCN, CNVQP cũng được Tổng Công ty tham gia BHYT đầy đủ. Đối với CBNV thử việc chưa thuộc đối tượng tham gia BHXH bắt buộc cũng được Tổng Công ty tham gia bảo hiểm tai nạn 24/24.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Các văn bản pháp luật về thúc đẩy năng lượng tái tạo đã được ban hành năm 2024 và nhiều văn bản đang đang xem xét sửa đổi và ban hành với mục tiêu thúc đẩy tăng trưởng kinh tế như: Luật điện lực kỳ vọng sẽ mở ra hướng đi mới cho hạ tầng truyền tải và năng lượng tái tạo, thúc đẩy đầu tư hạ tầng truyền tải điện và đầu tư hệ thống năng lượng tái tạo; Luật Đầu tư công với mục tiêu giảm thủ tục hành chính, loại cơ chế \"xin-cho\"; Nghị quyết tháo gỡ khó khăn, vướng mắc tại các dự án bất động sản để phát triển dài hạn thị trường.....",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    },
+    {
+      "text": "VCC nhận thức bảo vệ môi trường là một trong các yếu tố quan trọng giúp doanh nghiệp phát triển bền vững. VCC áp dụng ISO 14001:2015 và ISO 140641:2018 vào việc xác định các khía cạnh môi trường có ý nghĩa, giám sát và kiểm kê khí nhà kính. Các hoạt động tại VCC:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Toàn bộ chất thải nguy hại đều có thùng chứa chất thải nguy hại như bóng đèn, mực in, vỏ can sơn... được thu gom vào thùng chứa riêng biệt có biển báo và nhận dạng trước khi tập kết đến kho chứa của Tòa nhà, chủ đầu tư.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Tăng cường sử dụng năng lượng tái tạo hoặc tái sử dụng, tiết kiệm năng lượng, giảm phát thải khí nhà kính.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "text": "By 2030, the Corporation will become a billion-dollar enterprise, with a revenue scale of more than 28,000 billion, an average growth of 15%; Profit greater than 1,000 billion, growth of 5-7%/year.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Legal documents promoting renewable energy were renewable systems; the Public Investment Law, aimed at reducing administrative procedures and eliminating the \"ask -give\" mechanism; and various resolutions designed to resolve bottlenecks in real estate projects to support the long-term development of the property market . issued in 2024 , and numerous others are currently under Operations and Maintenance: reviewor pendingissuance, with the objectiveof stimulat-▶ Internal O&M: Ensure KPI commitments with investors . ing economic growth . These include: the revised Electricity ▶ExternalO&M : Proactively promote and successfully expand Law, which is expected to open up new directions for O&M services to at least 3 to 5 enterprises outside the Group . transmission infrastructure and renewable energy , thereby Civil construction: encouraging investment in power transmission and ▶B2B: Intensify participation in projects funded by public investment and FDI, in addition to traditional real estate projects, with a particular focus on 27 key provinces . Implement the co-investment model in real estate business upon fulfillment of legal conditions . Expand operations into internationalmarkets .",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "applies ISO14001:2015 and ISO 14064-1:2018standards inventory greenhouse gas emissions. VCC's environmental practices include: key factors for sustainable business development. It to identify significant environmental aspects, monitor, and",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "▶All hazardous waste (e.g., light bulbs, ink cartridges, paint cans) was collected in clearly marked, separate hazardous waste containers before being moved to the designated storage area of the building or investor.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "reduce greenhouse gas emissions",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Không có lao động cưỡng bức, không lao động trẻ em",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "text": "Bảo vệ môi trường là một trong các yếu tố quan trọng giúp doanh nghiệp phát triển bền vững. VCC áp dụng ISO 14001:2015 và ISO 14064-1:2018 vào việc xác định khía cạnh môi trường có ý nghĩa, giám sát và kiểm kê khí nhà kính.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Trong nỗ lực để giảm nhẹ phát thải khí, VCC dự kiến sẽ xây dựng hệ thống kiểm soát các nguồn phác thải khí nhà kính và kiểm kê phát thải khí nhà kính theo ISO 14064-1:2018 từ năm 2024. Các hoạt động giảm nhẹ khí nhà kính và bảo vệ môi trường tại VCC:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Đầu tư vào công nghệ thân thiện môi trường",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Tăng cường hoạt động sáng kiến liên quan đến giảm nhẹ phát thải khí nhà kính",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Tăng cường sử dụng năng lượng tái tạo hoặc tái sử dụng, tiết kiệm năng lượng, giảm phát thải khí nhà kính, có tối thiểu 01 SK/YT về bảo vệ môi trường được áp dụng vào thực tế.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Bên cạnh đó, Tổng Công ty làm tốt công tác chăm lo bảo vệ quyền lợi, lợi ích chính đáng của cán bộ công nhân viên, thực hiện tốt đối thoại dân chủ theo phân cấp, tổ chức hội nghị người lao động đúng quy định. Đảm bảo chế độ nghỉ mát, nghỉ dưỡng cho 10.858 CBNV với số tiền 64,8 tỷ. Tổ chức chu đáo Tết Trung thu cho các cháu thiếu nhi trên toàn quốc tổng số 13.751 cháu với số tiền 4,125 tỷ đồng; trao quà cho 4.356 cháu học sinh giỏi năm học 2023-2024 với số tiền 1,135 tỷ đồng; trợ cấp khó khăn cho 101 CBNV với tổng số tiền hơn 550 triệu đồng dịp tháng công nhân năm 2024; Thăm hỏi và tặng quà nhân ngày TBLS 27/7 tổng số 625 thân nhân với số tiền 321 triệu đồng; Hỗ trợ C sủi mùa nắng nóng cho lực lượng tuyến đầu với tổng số tiền 1,408 tỷ đồng; Trao quà chính sách Tết cho 72 cán bộ nghỉ hưu, 15 gia đình liệt sĩ, các gia đình có CBNV và thân nhân chủ yếu từ trần năm 2022, 126 CBNV mắc bệnh hiểm nghèo, bệnh chữa trị dài ngày, 851 thân nhân CBNV với tổng số tiền gần 6 tỷ đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Every product and service we deliver is built upon the genuine needs of society, aiming to enhance people's quality of life - bringing peace of mind and happiness. At the same time, by integrating \"Green and Smart\" solutions into our product and service ecosystem, we contribute to environmental protection, reduce greenhouse gas emissions, and align with global and national sustainability trends.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Encouragement of clean energy consumption to meet production needs through increased demand for electricity sourced from renewable energy.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Environmental protection is one of the key factors contributing to a company's sustainable development. VCC applies ISO 14001:2015 and ISO 14064-1:2018 standards to identify significant environmental aspects, monitor environmental performance, and inventory greenhouse gas emissions.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "All hazardous waste - such as used light bulbs, ink cartridges, and paint containers - was collected in clearly labeled, dedicated hazardous waste bins before being moved to the storage area of the building or project owner.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "As part of its efforts to mitigate emissions, VCC plans to establish a system for monitoring greenhouse gas emission sources and conducting greenhouse gas inventories in accordance with ISO 14064-1:2018, starting in 2024. Key greenhouse gas mitigation and environmental protection activities at VCC include:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Enhancement of initiatives related to greenhouse gas emission reduction",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Promote the increased use of renewable or reused energy, enhance energy conservation, reduce greenhouse gas emissions, and ensure the implementation of at least one environmental protection initiative or best practice in real-world operations.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: III. NGÀNH NGHỀ VÀ ĐỊA BÀN KINH DOANH ; column_headers: STT | LĨNH VỰC | NHÓM SPDV | TÊN SPDV [ROWS] STT | LĨNH VỰC | NHÓM SPDV | TÊN SPDV [ROW] 1 | Vận hành khai thác | Vận hành khai thác trong nước và nước ngoài | ▶ Cung cấp dịch vụ vận hành khai thác và ứng cứu thông tin trạm, tuyến cáp và hộp cáp CĐBR lớp mạng truy nhập; Quản lý đường dây thuê bao và phát triển mới khách hàng cố định băng rộng [ROW] 2 | Xây lắp | Xây lắp hạ tầng mạng viễn thông | ▶ Dịch vụ xây dựng, lắp đặt, củng cố, bảo dưỡng hệ thống nhà trạm, cột anten, cột truyền hình, hệ thống tiếp địa thoát sét, hệ thống cáp quang... [ROW] 3 | Xây lắp | Xây dựng dân dụng B2B | ▶ Xây dựng hạ tầng các dự án xây dựng (Nhà ở, khu nghỉ dưỡng, khu công nghiệp, nhà xưởng...); Hạ tầng công trình Thủy lợi, Giao thông; Cầu Cảng ... [ROW] 4 | Xây lắp | Xây dựng dân dụng B2C&SME | ▶ Xây dựng các công trình nhà ở cá nhân, nhà xưởng, văn phòng làm việc, trường học.... [ROW] 5 | Hạ tầng cho thuê | Trạm BTS | ▶ Đầu tư Hạ tầng trạm BTS cho thuê, hệ thống nguồn cho trạm BTS cho thuê [ROW] 6 | Hạ tầng cho thuê | Hạ tầng IoT khu đô thị, khu công nghiệp, cảng biển | ▶ Đầu tư xây dựng hạ tầng IoT khu đô thị, khu công nghiệp, cảng biển [ROW] 7 | Hạ tầng cho thuê | Năng lượng tái tạo | ▶ Điện năng lượng mặt trời [ROW] 8 | Hạ tầng cho thuê | DAS và CĐBR | ▶ DAS và CĐBR [ROW] 9 | Hạ tầng cho thuê | Cống bể cho thuê | ▶ Cống bể cho thuê, cáp quang treo [ROW] 10 | Giải pháp tích hợp | Bán lẻ & Phân phối thiết bị hàng hóa | ▶ Bán lẻ và phân phối các thiết bị hàng hóa (không bao gồm lắp đặt) của các lĩnh vực: Điện gia dụng, thiết bị smarthome, thiết bị công nghệ thông tin, hệ thống năng lượng mặt trời do TCT OEM hoặc phân phối từ các nhãn hàng. [ROW] 11 | Giải pháp tích hợp | Giải pháp Cơ điện và Năng lượng | ▶ Hệ thống điện nặng, điện nhẹ; Hệ thống chữa cháy; Hệ thống chiếu sáng, chiếu sáng khẩn cấp, đèn năng lượng mặt trời; Máy phát điện; Hệ thống camera; Hệ thống năng lượng mặt trời [ROW] 12 | Dịch vụ kỹ thuật | Dịch vụ bảo dưỡng, lắp đặt, sửa chữa các thiết bị gia đình (B2C) | ▶ Dịch vụ bảo dưỡng, bảo trì, sửa chữa các thiết bị gia đình bao gồm: Điều hòa/ Máy giặt/ Máy lọc nước/ Bình nóng lạnh/ Năng lượng mặt trời/smarthome. [ROW] 13 | Dịch vụ kỹ thuật | Dịch vụ thi công lắp đặt hoặc dịch vụ vận hành bảo trì, bảo dưỡng các hệ thống năng lượng tái tạo | ▶ Dịch vụ thi công, lắp đặt mới hệ thống năng lượng mặt trời bao gồm: điện áp mái, điện farm. ▶ Dịch vụ vận hành bảo dưỡng, bảo trì, sửa chữa hệ thống năng lượng mặt trời bao gồm: điện áp mái, điện farm.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S0"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S0"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S0"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S0"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.7. CÁC GIẢI THƯỞNG ĐẠT ĐƯỢC ; column_headers: NĂM | DANH HIỆU | SỐ, NGÀY, THÁNG, NĂM CỦA QUYẾT ĐỊNH CÔNG NHẬN DANH HIỆU THI ĐUA; CƠ QUAN BAN HÀNH QUYẾT ĐỊNH | GHI CHÚ [ROWS] NĂM | DANH HIỆU | SỐ, NGÀY, THÁNG, NĂM CỦA QUYẾT ĐỊNH CÔNG NHẬN DANH HIỆU THI ĐUA; CƠ QUAN BAN HÀNH QUYẾT ĐỊNH | GHI CHÚ [ROW] 2024 | Cuộc bình chọn doanh nghiệp Niêm Yết 2024 | Top 10 Doanh nghiệp Quản trị Công ty tốt nhất | Trong nước (Mới) [ROW] 2024 | Chương trình CSI 2024 | Top 100 Doanh nghiệp bền vững hoạt động trong lĩnh vực Thương mại - Dịch vụ | Trong nước (Mới) [ROW] 2024 | Giải Thương hiệu Quốc gia 2024 - 2026: Thiết kế, cung cấp, lắp đặt hệ thống điện năng lượng mặt trời VIETTEL | Quyết định số 253/2003/QĐ-TTG ngày 25 tháng 11 năm 2003, Ban Thư ký Chương trình THQG - Cục Xúc tiến thương mại (XTTM), Bộ Công Thương | Trong nước [ROW] 2024 | Giải Chuyển đổi số Việt Nam 2024, Hệ thống IOC – Giải pháp điều hành kinh doanh toàn trình xây dựng dân dụng (Intelligent Operation Center) | Giải Chuyển đổi số Việt Nam 2024 | Trong nước [ROW] 2024 | TOP5 Nhà thầu uy tín, chất lượng hàng đầu Việt Nam 2024 - vietnam Construction Awards 2024 | Vietnam Construction Awards 2024 | Trong nước (Mới 2024) [ROW] 2024 | • Đứng thứ 1 trong ngành Xây dựng/ Kiến trúc khối Doanh nghiệp lớn • Đứng thứ 76 trong Top 100 Nơi Làm Việc Tốt Nhất Việt Nam 2024 khối Doanh nghiệp lớn. | Nơi Làm Việc Tốt Nhất Việt Nam 2024 - Anphabe | Trong nước [ROW] 2024 | Top 500 Doanh nghiệp tạo giá trị hàng đầu Việt Nam 2024 (Value500) và Top 10 Doanh nghiệp tạo giá trị hàng đầu Việt Nam 2024 | Viet Research | Trong nước [ROW] 2024 | Mid Cap có hoạt động IR được nhà đầu tư yêu thích nhất 2024” và “Mid Cap có hoạt động IR được định chế tài chính đánh giá cao nhất 2024” | IR Awards 2024 | Trong nước [ROW] 2024 | Construction Company of the year - Bronze | IBA Awards - Stevie Awards | Quốc tế [ROW] 2024 | Top 500 Công ty lớn nhất khu vực Đông Nam Á (Fortune) | Fortune | Quốc tế (Mới 2024) [ROW] 2024 | Top 500 Doanh nghiệp tăng trưởng nhanh nhất Việt Nam 2024 | Vietnam Report | Tăng 37 bậc (224/500) [ROW] 2024 | Top 50 Doanh nghiệp tăng trưởng \"xuất sắc\" nhất Việt Nam | Vietnam Report [ROW] 2024 | Quán quân nhà phát triển hạ tầng và xây lắp điện | Báo đầu tư | Trong nước (Mới 2024) [ROW] 2024 | Quán quân Top 10 Nhà thầu xây dựng Việt Nam, hạng mục Hạ tầng - Công nghiệp | Vietnam Report",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.7. CÁC GIẢI THƯỞNG ĐẠT ĐƯỢC ; column_headers: NĂM | DANH HIỆU | SỐ, NGÀY, THÁNG, NĂM CỦA QUYẾT ĐỊNH CÔNG NHẬN DANH HIỆU THI ĐUA; CƠ QUAN BAN HÀNH QUYẾT ĐỊNH | GHI CHÚ [ROWS] NĂM | DANH HIỆU | SỐ, NGÀY, THÁNG, NĂM CỦA QUYẾT ĐỊNH CÔNG NHẬN DANH HIỆU THI ĐUA; CƠ QUAN BAN HÀNH QUYẾT ĐỊNH | GHI CHÚ [ROW] 2023 | Global CSR & ESG Summit and Awards 2023: Best Corporate Communications & Investors Relations Team | Pinnacle Group | Quốc tế (Mới năm 2023) [ROW] 2023 | Báo Đầu tư: TOP 50 DOANH NGHIỆP SÁNG TẠO VÀ KINH DOANH HIỆU QUẢ VIỆT NAM 2023 | Báo Đầu tư (Phối hợp cùng Viet Research) | Trong nước (Mới năm 2023) [ROW] 2023 | Top 500 Nhà tuyển dụng hàng đầu Việt Nam (31/500) | Báo Đầu tư (Phối hợp cùng Viet Research) | Trong nước (Mới năm 2023) [ROW] 2023 | Giải thưởng thành phố thông minh Việt Nam 2023 | Hiệp hội phần mềm và dịch vụ CNTT Việt Nam (VINASA) | Trong nước (Mới năm 2023) [ROW] 2023 | Top 3 Mid Cap Investor Relations (IR) Awards 2023 | Vietstock | Trong nước (Mới năm 2023) [ROW] 2023 | Careerbuilder: xếp hạng vị trí thứ 7/100 Nhà tuyển dụng được yêu thích nhất năm 2022 | Careerbuilder (Công ty kết nối nhân sự và các Doanh nghiệp Top đầu Việt Nam) | Trong nước (Tăng 04 bậc) [ROW] 2023 | Fast500: Top500 Doanh nghiệp tăng trưởng nhanh nhất Việt Nam | Vietnam Report | Trong nước (224/500) [ROW] 2023 | Top 50 Doanh nghiệp tăng trưởng “xuất sắc nhất” Việt Nam | Vietnam Report | Trong nước [ROW] 2023 | International Business Awards 2023 Company of the Year - Materials & Construction - Large | Stevie Awards | Quốc tế [ROW] 2023 | Top 50 Công ty niêm yết tốt nhất năm 2023. | Forbes Việt Nam | Trong nước [ROW] 2023 | TOP Doanh nghiệp công nghiệp 4.0 năm 2023 | Liên hiệp các Hội khoa học và Kỹ thuật Việt Nam chủ trì (phối hợp với Hội tự động hóa Việt Nam, Viện Sáng tạo và Chuyển đổi số tổ chức) | Trong nước [ROW] 2023 | IT World Awards năm 2023 • Hạng mục Đổi mới dịch vụ khách hàng của năm • Hạng mục Giải pháp CNTT dành cho doanh nghiệp lớn. | Globee | Quốc tế (Tăng gấp đôi hạng mục đạt giải) [ROW] 2023 | Giải Chuyển đổi số Việt Nam | Hội Truyền thông số Việt Nam (VDCA) và bảo trợ của Bộ thông tin và Truyền thông | Trong nước [ROW] 2023 | Profit500: Top 500 Doanh nghiệp lợi nhuận tốt nhất Việt Nam 2023. | Vietnam Report | Trong nước (206/500, tăng 28 bậc)",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.7. CÁC GIẢI THƯỞNG ĐẠT ĐƯỢC ; column_headers: NĂM | DANH HIỆU | SỐ, NGÀY, THÁNG, NĂM CỦA QUYẾT ĐỊNH CÔNG NHẬN DANH HIỆU THI ĐUA; CƠ QUAN BAN HÀNH QUYẾT ĐỊNH | GHI CHÚ [ROWS] NĂM | DANH HIỆU | SỐ, NGÀY, THÁNG, NĂM CỦA QUYẾT ĐỊNH CÔNG NHẬN DANH HIỆU THI ĐUA; CƠ QUAN BAN HÀNH QUYẾT ĐỊNH | GHI CHÚ [ROW] 2023 | Top 50 Doanh nghiệp lợi nhuận xuất sắc Việt Nam 2023 (Vietnam Best Profitable) | Vietnam Report | Trong nước [ROW] 2023 | Top 100 Nơi làm việc tốt nhất Việt Nam (Anphabe) • Vị trí thứ 1 – Nơi làm việc tốt nhất Việt Nam, lĩnh vực Xây dựng/Kiến trúc khối các doanh nghiệp lớn • Đứng thứ 72 trong Top 100 Nơi Làm Việc Tốt Nhất Việt Nam | Anphabe [ROW] 2022 | Globee: Customer Service Team of the Year (Dịch vụ VCC Services) | Globee | Quốc tế [ROW] 2022 | Vietnam Value: Thương hiệu sản phẩm dịch vụ quốc gia (Thiết kế, cung cấp, lắp đặt hệ thống năng lượng mặt trời) | Vietnam Value | Trong nước [ROW] 2022 | Giải Chuyển đổi số: Doanh nghiệp chuyển đổi số hệ sinh thái xuất sắc | Hội Truyền thông số Việt Nam | Trong nước [ROW] 2022 | Giải thương hiệu Mạnh: Top10 Thương hiệu Mạnh - Ngành Xây dựng, vật liệu xây dựng | Tạp chí Kinh tế Việt Nam (vneconomy) | Trong nước [ROW] 2022 | Forbes: Top 50 Công ty niêm yết tốt nhất Việt Nam | Forbes Việt Nam | Trong nước [ROW] 2022 | Top công nghiệp 4.0: Doanh nghiệp sở hữu sản phẩm số thông minh 4.0 | Liên hiệp các Hội khoa học và Kỹ thuật Việt Nam chủ trì (phối hợp với Hội tự động hóa Việt Nam, Viện Sáng tạo và Chuyển đổi số tổ chức) | Trong nước [ROW] 2022 | Sao khuê: Doanh nghiệp sở hữu sản phẩm số xuất sắc ngành phần mềm, công nghệ thông tin Việt Nam | Hiệp hội Phần mềm và Dịch vụ Công nghệ thông tin Việt Nam (Vinasa) | Trong nước [ROW] 2022 | Top 50 Vietnam Best Profitable: Top 50 Doanh nghiệp có lợi nhuận xuất sắc Việt Nam | Vietnam Report | Trong nước [ROW] 2022 | PROFIT500: Top 500 Doanh nghiệp có lợi nhuận tốt nhất Việt Nam - thứ hạng 234/500 | Vietnam Report | Trong nước (Thứ hạng năm 2021: 236) [ROW] 2022 | Top 50 Vietnam Best Growth: Top 50 Doanh nghiệp tăng trưởng xuất sắc nhất Việt Nam | Vietnam Report | Trong nước [ROW] 2022 | FAST500: Top 500 Doanh nghiệp tăng trưởng nhanh nhất Việt Nam - thứ hạng 153/500 | Vietnam Report | Trong nước (Thứ hạng năm cũ: 65) [ROW] 2022 | Viettel Construction được Anphabe đánh giá là nơi làm việc tốt nhất Việt Nam năm 2022: đứng thứ 3 ngành xây dựng/ kiến trúc, đứng thứ 64 top 100 nơi làm việc tốt nhất Việt Nam. | Anphabe | Trong nước",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.7. CÁC GIẢI THƯỞNG ĐẠT ĐƯỢC ; column_headers: NĂM | DANH HIỆU | SỐ, NGÀY, THÁNG, NĂM CỦA QUYẾT ĐỊNH CÔNG NHẬN DANH HIỆU THI ĐUA; CƠ QUAN BAN HÀNH QUYẾT ĐỊNH | GHI CHÚ [ROWS] NĂM | DANH HIỆU | SỐ, NGÀY, THÁNG, NĂM CỦA QUYẾT ĐỊNH CÔNG NHẬN DANH HIỆU THI ĐUA; CƠ QUAN BAN HÀNH QUYẾT ĐỊNH | GHI CHÚ [ROW] 2022 | Careerbuilder: Top100 nhà tuyển dụng được yêu thích nhất (công bố hồi tháng 2 năm 2022, thứ 11/100). | Careerbuilder (Công ty kết nối nhân sự và các Doanh nghiệp Top đầu Việt Nam) | Trong nước [ROW] 2021 | IT WORLD AWARDS: GIẢI VÀNG HẠNG MỤC “INTEGRATED REVENUE AND CUSTOMER MANAGEMENT” NĂM 2021 | Globee | Quốc tế [ROW] 2021 | Top 500 Doanh nghiệp lớn nhất Việt Nam (thứ hạng 192/500) | Vietnam Report | Trong nước [ROW] 2021 | Top 500 Doanh nghiệp tăng trưởng nhanh nhất Việt Nam (thứ hạng 65/500) | Vietnam Report | Trong nước [ROW] 2021 | Top 500 Doanh nghiệp lợi nhuận tốt nhất (thứ hạng 236/500) | Vietnam Report | Trong nước [ROW] 2021 | Top 50 Doanh nghiệp lợi nhuận xuất sắc Việt Nam (thứ hạng 50/50) | Vietnam Report | Trong nước [ROW] 2020 | Top 500 Doanh nghiệp lớn nhất Việt Nam (thứ hạng 243/500) | Vietnam Report | Trong nước [ROW] 2020 | Top 500 Doanh nghiệp tăng trưởng nhanh nhất Việt Nam (thứ hạng 103/500) | Vietnam Report | Trong nước [ROW] 2020 | Top 500 Doanh nghiệp lợi nhuận tốt nhất (thứ hạng 344/500) | Vietnam Report | Trong nước [ROW] 2020 | Giải Vàng International Business Awards, công ty xây dựng của năm 2020. | Stevie Awards | Quốc tế [ROW] 2020 | Công ty được công chúng bình chọn yêu thích nhất People’s Choice Stevie Awards (năm 2020). | Stevie Awards | Quốc tế",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 1.2. GIÁ TRỊ TRỰC TIẾP ĐƯỢC TẠO RA: DOANH THU, CHI PHÍ, ĐẦU TƯ ; column_headers: Rủi ro | Biện pháp ứng phó [ROWS] Rủi ro | Biện pháp ứng phó [ROW] Tác động môi trường tự nhiên gây hạn hán, lũ lụt, mất điện diện rộng từ đó tác động đến việc cung cấp năng lượng điện cho hoạt động SXKD và sản phẩm dịch vụ VCC cung cấp | ▶ Chuẩn bị MPĐ để ứng cứu với tình huống mất điện diện rộng. ▶ Diễn tập ứng phó sự cố mất điện diện rộng và tai nạn lao động định kỳ hàng năm ▶ Đào tạo về PCCC để xử lý tình huống cháy MPĐ ▶ Kiểm tra, giám sát tuân thủ quy trình/ quy định an toàn định kỳ... [ROW] Lũ quét, sạt lở, ngập lụt diện rộng làm đứt gãy chuỗi cung ứng hàng hóa, nguyên vật liệu và nhân sự | ▶ Chủ động trong công tác quản lý kho, kiểm kê hàng hóa thường xuyên để mua sắm kịp thời. ▶ Lựa chọn nguồn cung ứng từ địa phương, trong nước. ▶ Đảm bảo mỗi loại hàng hóa có ít nhất 3 nhà cung cấp. ▶ Luôn có phương án bổ sung nhân sự, điều phối nhân sự hỗ trợ, triển khai từ các đơn vị trong Tổng Công ty.... [ROW] Chi phí nguồn nguyên vật liệu, các chi phí đầu vào khác tăng cao do ảnh hưởng của BĐKH làm khan hiếm nguồn hàng | ▶ Tổng Công ty luôn Mở rộng mạng lưới nhà cung cấp để có nguồn hàng giá tốt. ▶ Tổ chức các hoạt động đấu thầu để tối ưu chi phí mua sắm...",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 1.2. DIRECT VALUE CREATED: REVENUE, EXPENSES, INVESTMENT ; column_headers: Rick | Countermeasures [ROWS] Rick | Countermeasures [ROW] Environmental impacts such as droughts, floods, and widespread power outages directly affect the supply of electricity for production and business operations, thereby influencing the delivery of products and services provided by VCC. | ▶ Prepare generators to respond to large-scale power outages. ▶ Conduct annual drills to practice response to widespread power outages and occupational accidents. ▶ Provide fire prevention training to handle incidents of generators. ▶ Regularly inspect and monitor safety procedures and regulations. [ROW] Flash floods, landslides, and widespread... inundations disrupt supply chains of goods, raw materials, and human resources. | ▶ Proactively manage warehouses and conduct regular inventory checks to ensure timely procurement. ▶ Prioritize sourcing from local and domestic suppliers. ▶ Ensure each type of goods has at least three different suppliers. ▶ Always have contingency plans for staffing, including personnel reinforcement and deployment from other units within VCC. [ROW] The costs of raw materials and other input expenses have risen significantly due to climate change, which has led to supply shortages. | ▶ Consistently expands its supplier network to secure more competitive pricing. ▶ Organize procurement activities through bidding processes to optimize purchasing costs.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    }
+  ]
+}

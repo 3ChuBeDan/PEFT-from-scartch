@@ -1,0 +1,171 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "text": "Dựa trên mục tiêu quốc gia, mục tiêu của cổ đông lớn là PVN, quy mô hoạt động, công suất, công nghệ hiện có và kế hoạch sản xuất kinh doanh, PVFCCo đã đặt ra kế hoạch giảm nhẹ phát thải khí nhà kính giai đoạn 2024-2030 với mục tiêu giảm phát thải là 3% so với BAU – Kịch bản phát triển thông thường (tương đương giảm 17.514 tấn CO 2 ) vào năm 2030. Ðây là tiền đề quan trọng để PVFCCo hướng đến mục tiêu tăng trưởng xanh và phát triển bền vững.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Hoàn thành kiểm kê khí nhà kính cấp cơ sở năm 2022, 2023 và xây dựng kế hoạch giảm nhẹ phát thải khí nhà kính giai đoạn 2026-2030 và giai đoạn 2031-2050. Nội dung báo cáo kiểm kê khí nhà kính được đăng tải tại website Tổng công ty: www.dpm.vn",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 7
+      }
+    },
+    {
+      "text": "Thực hiện các báo cáo PVN về khí nhà kính như: Tổng hợp tình hình thực hiện các công tác về biến đổi khí hậu và giảm nhẹ phát thải khí nhà kính; Yêu cầu báo cáo tình hình triển khai và kế hoạch sắp tới về các hoạt động Thu gom và lưu giữ Carbon (CCS) nhằm mục tiêu giảm phát thải.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Tham gia khóa đào tạo và Hội thảo về: Tổng quan về ESG và những vấn đề đặt ra với PVN và các đơn vị thành viên; Hội thảo lần 2 \"Thực hành công cụ mô phỏng thị trường carbon\"; Hội thảo \"Phát triển Công nghệ, năng lượng phát thải carbon thấp - cơ hội và thách thức\"; \"Phương pháp tính dấu chân carbon cho các sản phẩm của PVN và các đơn vị\"; Thích ứng với biến đổi khí hậu, cắt giảm khí nhà kính của Tập đoàn DKVN và các đơn vị; Hướng dẫn MRV giảm phát thải khí nhà kính và kiểm kê khí nhà kính ngành công thương.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5
+      }
+    },
+    {
+      "text": "Công tác quản lý chất thải bao gồm chất thải rắn, khí thải, nước thải đều được quản lý theo đúng quy định của pháp luật: Chất thải rắn phát sinh được phân loại tại nguồn và thu gom vào",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6
+      }
+    },
+    {
+      "text": "Các số liệu về chất thải (nước thải công nghiệp, chất thải rắn công nghiệp) trong năm 2024 đều giảm so với năm 2023 do năm 2023 Nhà máy Đạm Phú Mỹ có hoạt động bảo dưỡng tổng thể (BDTT) làm tăng lượng chất thải. Riêng nước làm mát thải, nước thải sinh hoạt và khí thải tăng so với năm 2023 do năm 2024 hoạt động vận hành không bị dừng 1 tháng cho BDTT.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CHIẾN LƯỢC PHÁT TRIỂN XANH VÀ KẾ HOẠCH HÀNH ĐỘNG (TIẾP THEO) ; column_headers: Giải pháp tăng trưởng xanh | Kế hoạch triển khai | Kết quả thực hiện trong năm 2024 [ROWS] Giải pháp tăng trưởng xanh | Kế hoạch triển khai | Kết quả thực hiện trong năm 2024 [ROW] Sử dụng năng lượng tái tạo Giảm thiểu sự phụ thuộc vào nhiên liệu hóa thạch, thay thế bằng các nguồn năng lượng sạch như năng lượng mặt | Phối hợp với các đơn vị sản xuất điện mặt trời để lắp đặt các hệ thống điện mặt trời áp mái tự dùng tại một số bề mặt nhà/kho của Tổng công ty. Thay thế một phần điện lưới phát thải cao bằng nguồn điện phát thải thấp thông qua cơ chế mua/bán điện trực tiếp. Chuyển đổi một phần hơi từ lò hơi Khí tự nhiên (NG) phát thải cao sang lò hơi biomass. Sản xuất hơi nước bằng nguyên liệu biomass. | Hợp tác với các đơn vị có chức năng thuê mái nhà kho để lắp đặt hệ thống điện mặt trời. Thực hiện đánh giá sự cần thiết chuyển đổi giữa dùng điện lưới và điện sản xuất từ GAS Turbine tại Nhà máy Đạm Phú Mỹ; Đầu tư trạm điện 110KV. Hoàn thiện Báo cáo cơ hội đầu tư dự án sản xuất hơi cao áp Nhà máy Đạm Phú Mỹ theo phương án tự đầu tư. [ROW] Chuyển đổi nguyên liệu sản xuất | PVFCCo đang phối hợp với PVN và Viện Dầu khí Việt Nam (VPI) để nghiên cứu các giải pháp sản xuất H 2 xanh và NH 3 xanh: Dùng năng lượng tái tạo (điện mặt trời áp mái hiện có) để sản xuất Hydro xanh. Sử dụng Hydrogen xanh thay thế khí tự nhiên (NG) để sản xuất Amoniac xanh (green NH 3 ). Đang thực hiện đề tài nghiên cứu khoa học cấp Tập đoàn về việc thay thế/tích hợp một phần và/hoặc toàn bộ nguồn nguyên liệu khí bằng Hydro cho 0 2 Nhà máy đạm thuộc PVN. | Đã làm việc với các đối tác như GIZ, SK E&S, DNV và HTAS về công nghệ sản xuất hydro xanh và khả năng tích hợp vào Nhà máy hiện hữu. PVFCCo đã có Công văn báo cáo đề xuất tạm dừng đề tài nghiên cứu khoa học để chờ kết quả nghiên cứu của các đề tài liên quan khác nhằm hoàn thiện cơ sở đầu vào, là yếu tố quyết định cho việc thực hiện thay thế, tích hợp nguồn hydro, nhằm rút ngắn chi phí và thời gian thực hiện.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 9
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CHIẾN LƯỢC PHÁT TRIỂN XANH VÀ KẾ HOẠCH HÀNH ĐỘNG (TIẾP THEO) ; column_headers: Giải pháp tăng trưởng xanh | Kế hoạch triển khai | Kết quả thực hiện trong năm 2024 [ROWS] Giải pháp tăng trưởng xanh | Kế hoạch triển khai | Kết quả thực hiện trong năm 2024 [ROW] Tiết kiệm năng lượng, nguyên vật liệu Nhóm các giải pháp quản lý, cải tiến dây chuyền công nghệ, tối ưu hóa sản xuất nhằm tiết kiệm năng lượng, nguyên vật liệu từ đó giảm phát thải khí nhà kính. | Thực hiện kiểm toán năng lượng 2 năm/ lần và triển khai các biện pháp tiết kiệm năng lượng theo kế hoạch sau kiểm toán: Thay thế các bộ đèn cao áp hiệu suất thấp bằng đèn LED. Cải tạo hệ thống HVAC (đường ống máy lạnh) của các tòa nhà. Thay thế các đĩa tháp phản ứng tổng hợp Urê còn lại sang thế hệ mới và có hiệu suất cao. Áp dụng tiêu chuẩn ISO 50001:2018 trong quản lý năng lượng. Trang bị Hệ thống quản lý năng lượng PMS và quản lý phát thải KNK tích hợp. Lắp biến tần cho các động cơ điện phù hợp. Nâng cấp hệ thống thu hồi NH 3 tại xưởng Ammoniac – ARU. Giảm năng lượng lãng phí tại dòng MP vent gas (đường ống máy lạnh); Giải pháp thu hồi nhiệt từ nước Condensate. Giải pháp thu hồi nhiệt từ nước condensate. Lắp đặt bộ tiết kiệm điện năng CESS cho động cơ máy nén NH 3 ký hiệu 70- | Đã và đang nghiên cứu và thực hiện các hạng mục: Thay thế đèn hiện hữu bằng đèn Led. Thay thế chiller (thiết bị công nghệ) thế hệ mới có hiệu suất cao hơn chiller hiện hữu. Thay thế các đĩa tháp phản ứng tổng hợp urê sang thế hệ mới. Thu hồi dòng MP Gas vent, thu hồi nhiệt từ condensate, lắp đặt bình tách nước ngưng cho 10E5053. [ROW] Giảm phát thải khí nhà kính | Vận hành hệ thống thu hồi CO 2 từ khói thải (CRU – CO 2 Recovery Unit) để sản xuất và bán CO 2 thương phẩm. Thực hiện kiểm kê khí nhà kính và lập kế hoạch giảm nhẹ phát thải khí nhà kính đến năm 2030. Xây dựng Chiến lược ứng phó và giảm phát thải khí nhà kính đối với PVFCCo. Triển khai Chương trình trồng 300.000 cây xanh trong toàn Tổng công ty, giai đoạn từ năm 2022 – 2025, kết hợp ban hành hướng dẫn đánh giá/tính toán lượng CO 2 hấp thụ được từ chương trình trồng cây. | PVFCCo đang có kế hoạch khởi động lại hệ thống thu hồi khói thải CO 2 từ Nhà máy Đạm Phú Mỹ để nâng sản lượng sản xuất và bán CO 2 thương phẩm. Hiện tại, sau khi thực hiện nâng công suất xưởng NH 3 (chưa thực hiện nâng công suất urê) dẫn đến lượng CO 2 từ xưởng NH 3 đã đủ cho urê chạy tải cao, đó CRU hiện đang dừng và bảo quản.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 8
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Số liệu chất thải ; column_headers: STT Loại chất thải | ĐVT | Lượng phát thải năm 2024 | Lượng xử lý | Mức độ xử lý (Đạt QCVN) | So sánh số liệu năm 2023 [ROWS] STT Loại chất thải | ĐVT | Lượng phát thải năm 2024 | Lượng xử lý | Mức độ xử lý (Đạt QCVN) | So sánh số liệu năm 2023 [ROW] 1 | Nước thải | m3 | 177.886 | 177.886 | Đạt | 203.677 [ROW] 2 | Nước làm mát thải | m3 | 30.782.436,85 | 30.782.436,85 | Đạt | 27.837.071,1 [ROW] 3 | Khí thải | m3/năm 12.047.468.160 | 12.047.468.160 | Đạt | 11.981.273.280 [ROW] 4 | Chất thải rắn sinh hoạt | Tấn | 126,135 | 126,135 | Đạt | 115,4 [ROW] 5 | Chất thải rắn công nghiệp thông thường | Tấn | 359,963 | 359,963 | Đạt | 1.331,7 [ROW] 6 | Chất thải nguy hại | Tấn | 302,68 | 302,68 | Đạt | 403,2475",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 12
+      }
+    }
+  ]
+}

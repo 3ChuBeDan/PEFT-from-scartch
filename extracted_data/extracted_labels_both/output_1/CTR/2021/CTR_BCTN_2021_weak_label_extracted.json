@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 71,
+      "text": "Nhằm khơi dậy tinh thần tương thân, tương ái để các em nhỏ trên cả nước không bị bỏ lại phía sau. Tổng Công ty đã triển khai chương trình khuyên góp từ 1-3 ngày lương để ủng hộ các em nhỏ, với sự tham gia của gần 9.000 CBNV.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 104,
+      "text": "30/10/1995: Thành lập Xí nghiệp khảo sát thiết kế và Xí nghiệp Xây lắp Công trình (tiền thân của Tổng Công ty cổ phần Công trình Viettel) trực thuộc Công ty Điện tử Viễn thông Quân đội (tiền thân của Tập đoàn Công nghiệp – Viễn thông Quân đội (Viettel)).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1091,
+      "text": "[TABLE] [CONTEXT] section: MÃ NGÀNH THEO ĐĂNG KÝ KINH DOANH ; column_headers: TT | TÊN NGÀNH | MÃ NGÀNH [ROWS] TT | TÊN NGÀNH | MÃ NGÀNH [ROW] 30 | Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê Chi tiết: Kinh doanh bất động sản | 6810 [ROW] 31 | Kiểm tra và phân tích kỹ thuật | 7120 [ROW] 32 | Sửa chữa thiết bị liên lạc | 9512 [ROW] 33 | Khai thác và thu gom than cứng | 0510 [ROW] 34 | Khai thác và thu gom than non | 0520 [ROW] 35 | Khai thác quặng sắt | 0710 [ROW] 36 | Khai thác quặng kim loại khác không chứa sắt | 0722 [ROW] 37 | Khai thác quặng kim loại quí hiếm | 0730 [ROW] 38 | Khai thác đá, cát, sỏi, đất sét | 0810 [ROW] 39 | Khai thác khoáng hoá chất và khoáng phân bón | 0891 [ROW] 40 | Khai thác và thu gom than bùn | 0892 [ROW] 41 | Khai thác muối | 0893 [ROW] 42 | Sản xuất đồ uống không cồn, nước khoáng | 1104 [ROW] 43 | Sản xuất sắt, thép, gang | 2410 [ROW] 44 | Sản xuất bê tông và các sản phẩm từ bê tông, xi măng và thạch cao | 2395 [ROW] 45 | Sản xuất kim loại màu và kim loại quý | 2420 [ROW] 46 | Đúc kim loại màu | 2432",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

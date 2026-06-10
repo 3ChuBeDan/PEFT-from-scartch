@@ -1,0 +1,35 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ VIỆC THỰC HIỆN CÁC QUY ĐỊNH VỀ QUẢN TRỊ CÔNG TY CỦA PVTRANS Ể ỆỰỆỊỊ THẺ ĐIỂM QUẢN TRỊ - VIETNAM CORPORATE GOVERNANCE ; column_headers: THÔNG TIN CHUNG | TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2024 BÁO CÁO CỦA BAN LÃNH ĐẠO | BÁO CÁO PHÁT TRIỂN BỀN VỮNG | QUẢN TRỊ CÔNG TY | BÁO CÁO TÀI CHÍNH [ROWS] THÔNG TIN CHUNG | TÌNH HÌNH HOẠT ĐỘNG TRONG NĂM 2024 BÁO CÁO CỦA BAN LÃNH ĐẠO | QUẢN TRỊ CÔNG TY | BÁO CÁO PHÁT TRIỂN BỀN VỮNG | BÁO CÁO TÀI CHÍNH [ROW] STT | Mã câu | NỘI DUNG | ĐÁNH GIÁ | GIẢI THÍCH KẾT QUẢ [ROW] A. Quyền của Cổ đông [ROW] 20 | A.89 | Thiếu bằng chứng cho thấy công ty có công bố công khai vào ngày làm việc tiếp theo kết quả biểu quyết đối với tất cả nghị quyết trong ĐHĐCĐ gần nhất? | Biên bản kiểm phiếu đã công bố kèm theo BBH trong 24h theo quy định, PVTrans cam kết duy trì thông lệ tốt này trong những năm tiếp theo. [ROW] B. Đối xử Bình đẳng với Cổ đông [ROW] 21 | B.16 | Công ty có công bố thư mời họp và tài liệu họp ĐHĐCĐ bằng tiếng Anh không? | PVTrans sẽ công bố thư mời họp và tài liệu họp bằng tiếng Anh vào kỳ ĐHĐCĐ 2025 và các năm tiếp theo. [ROW] 22 | B.17 | Danh sách các công ty ứng viên kiểm toán có được công bố công khai trong ĐHĐCĐ không? | Danh sách các công ty ứng viên kiểm toán đã được nêu trong “Tờ trình lựa chọn đơn vị kiểm toán” trình ĐHĐCĐ 2024 và được công bố trên website PVTrans, cụ thể là ba đơn vị kiểm toán uy tín, được chọn lọc từ danh sách của Ủy ban Chứng khoán Nhà nước. [ROW] 23 | B.18 | Đối với các hợp đồng, giao dịch thuộc thẩm quyền chấp thuận của ĐHĐCĐ thì Điều lệ công ty có qui định cụ thể chi tiết như yêu cầu luật định không? | Điều lệ Tổng công ty đã được xây dựng phù hợp với quy định pháp luật, nêu rõ chi tiết các trường hợp hợp đồng, giao dịch thuộc thẩm quyền chấp thuận của ĐHĐCĐ. [ROW] 24 | B.90 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, Ban điều hành và nhân viên công ty kể từ đầu năm tài chính đến nay không? | PVTrans không vi phạm liên quan đến giao dịch nội gián kể từ đầu năm tài chính đến nay. [ROW] 25 | B.91 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu kể từ đầu năm tài chính đến nay không? | PVTrans không ghi nhận bất kỳ trường hợp không tuân thủ các quy định pháp luật và quy tắc liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu. [ROW] 26 | B.92 | Có trường hợp Nghị quyết ĐHĐCĐ ủy quyền cho HĐQT toàn quyền quyết định đối với các nội dung thuộc thẩm quyền thông qua của ĐHĐCĐ? | ĐHĐCĐ thực hiện đầy đủ các quyền hạn theo đúng quy định pháp luật và Điều lệ công ty. Không có trường hợp ĐHĐCĐ ủy quyền cho HĐQT toàn quyền quyết định các nội dung thuộc thẩm quyền thông qua của ĐHĐCĐ. [ROW] C. Vai trò của các bên có quyền lợi liên quan [ROW] 27 | C.19 | Công ty có công bố báo cáo đánh giá liên quan đến trách nhiệm về môi trường và xã hội không? | PVTrans thực hiện đầy đủ trách nhiệm báo cáo môi trường và xã hội theo quy định pháp luật và yêu cầu của Cơ quan quản lý có thẩm quyền, bao gồm: - Định kỳ báo cáo về công tác An toàn-Sức khỏe-Môi trường (HSE) gửi Tập đoàn Dầu khí Việt Nam. - Định kỳ báo cáo kết quả kiểm tra, giám sát môi trường lao động gửi Sở Y tế (NĐ 44/2016/NĐ-CP). - Báo cáo bảo vệ môi trường gửi cơ quan cấp phép và Sở Tài Nguyên &Môi Trường (TT 02/2022/TT-BTNMT). - Khai báo dữ liệu môi trường trên website:",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

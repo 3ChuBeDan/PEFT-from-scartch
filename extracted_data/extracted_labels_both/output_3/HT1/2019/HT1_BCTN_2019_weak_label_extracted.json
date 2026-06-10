@@ -1,0 +1,65 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 114,
+      "text": "1 Củi trấu là sản phẩm củi trấu được ép 100% từ vỏ trấu thành phần tách từ hạt thóc sau khi thu hoạch qua quy trình phơi độ ẩm 12%. Bằng máy ép chuyên dụng, qua công nghệ chế biến, nâng nhiệt tạo sự kết dính cho ra đời dòng sản phẩm củi tr ấu. Củi trấu là 1 dạng năng lượng tái sinh, chi phí thấp và thay thế được than đá, than cám, than bùn trong các lò hơi, dùng củi trấu sẽ giảm chi phí xử lý môi trường và tăng tuổi thọ của thiết bị lò hơi.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 321,
+      "text": "-Bộ Xây dựng đề nghị Bộ Công Thương có chính sách hợp lí trong việc điều chỉnh giá bán các mặt hàng trọng yếu như điện, than, xăng, dầu; có kế hoạch cung cấp than, điện đáp ứng nhu cầu sản xuất và đảm bảo chất lượng than cho các nhà máy xi măng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 391,
+      "text": "-Đồng xử lý các chất thải thông thường, chất thải nguy hại tại lò nung clinker thay thế một phần nhiên liệu đốt; lắp nhiệt khí thải tại Nhà máy xi măng Bình Phước; tăng tỷ lệ sử dụng các chất thải được hợp quy làm phụ gia xi măng như tro bay, xỉ, thạch cao nhân tạo...; nghiên cứu sử dụng bùn thải để thay thế đất sét tự nhiên v.v.. nhằm giảm thiểu việc sử dụng tài nguyên không tái tạo, xử lý một lượng chất thải lớn cho xã hội, giảm phát thải CO2 từ việc sử dụng than, hướng đến mục tiêu phát triển bền vững.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6,
+        "E3": 1
+      }
+    }
+  ]
+}

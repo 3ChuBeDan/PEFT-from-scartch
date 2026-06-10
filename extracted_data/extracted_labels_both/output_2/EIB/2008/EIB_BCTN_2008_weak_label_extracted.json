@@ -1,0 +1,44 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 232,
+      "text": "Tập trung xử lý nợ quá hạn, nhất là nhóm nợ xấu, ngăn ngừa nợ quá hạn mới phát sinh, có biện pháp tích cực nhất để thu hồi nợ quá hạn.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 260,
+      "text": "Phát huy truyền thống quý báu của người Việt Nam, tinh thần tương thân tương ái của toàn thể cán bộ nhân viên, Ngân hàng đã phát động và tham gia nhiều hoạt động xã hội, từ thiện như: tổ chức thăm và tặng quà cho các gia đình nghèo, trại mồ côi, gia đình chính sách, xây dựng nhà tình thương, phát động phong trào mua vé số gây quỹ ủng hộ phong trào \"Vì Trường Sa thân yêu\", tham gia nhiều cuộc vận động cứu trợ đồng bào bị thiệt hại do mưa bão và lũ lụt gây ra...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "G9": 1
+      }
+    }
+  ]
+}

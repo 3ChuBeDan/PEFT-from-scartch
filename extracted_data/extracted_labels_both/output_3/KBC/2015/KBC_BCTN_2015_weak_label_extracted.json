@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "KCN Tân Phú Trung có 01 nhà máy cung cấp nước sạch công suất 3.000m3/ngày/đêm, tổng lượng nước tiêu thụ trung bình 493m3/ngày đêm; có 01 nhà máy xử lý nước thải có công suất 4.000m3/ngày đêm, lưu lượng xử lý nước thải trung bình 394m3/ngày đêm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 852,
+      "text": "Xây dựng môi trường làm việc chuyên nghiệp, bình đẳng, thân thiện và an toàn, Coteccons thực sự trở thành mái ấm gia đình thứ hai đối với CBNV. Ở đó, CBNV được chăm lo đời sống vật chất tinh thần, được phát triển nghề nghiệp, hoàn thiện bản thân và quan trọng là được đảm bảo việc làm, nguồn thu nhập ổn định, tạo sự cân bằng giữa công việc và đời sống. Tại Coteccons, tỷ lệ CBNV chủ động nghỉ việc thấp nhất thị trường. Với chính sách đãi ngộ phù hợp gắn liền với sự quan tâm sâu sắc của Ban Lãnh đạo Công ty đối với CBNV, Coteccons luôn là doanh nghiệp tâm điểm thu hút nguồn lao động chất lượng cao, du học sinh về nước cũng như các chuyên gia trong nước và nước ngoài gia nhập mái nhà chung Coteccons.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1020,
+      "text": "» Chất thải nguy hại và hóa chất còn thừa sau sử dụng được đựng trong thùng riêng biệt, có khu vực lưu giữ riêng và dán nhãn cảnh báo chất thải nguy hại.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 1047,
+      "text": "» Quyên góp, ủng hộ mỗi người một ngày lương trong toàn thể CBNV Coteccons với tổng số tiền là 1.500.000.000 VNĐ cùng với nhiều quần áo cũ, mới và các đồ dùng sinh hoạt khác trong chương trình Hướng về Miền Trung với tinh thần tương thân tương ái, lá lành đùm lá rách, góp phần giúp đỡ người dân nhanh chóng khắc phục hậu quả sau bão lũ và chuẩn bị đối phó với cơn bão sắp tới cho bà con thuộc 2 tỉnh nằm trong vùng rốn lũ là Quảng Bình và Hà Tĩnh.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1056,
+      "text": "Ngay từ những ngày đầu thành lập, Ban Lãnh đạo Coteccons đã quản lý điều hành Công ty với chủ trương minh bạch. Các quy trình thanh toán và các hợp đồng ký kết đều được xây dựng rõ ràng và công bố cho các Chủ đầu tư và Đối tác. Hàng năm, Công ty cũng tổ chức Hội nghị Hợp tác phát triển dành cho các nhà thầu phụ, lực lượng thi công trên tinh thần trao đổi những chính sách một cách công bằng và minh bạch với các bên. Đồng thời, là công ty niêm yết, Coteccons luôn tuân thủ những quy định về công bố thông tin. Minh bạch trong quản lý điều hành sẽ thu hút được nhiều đối tác, khách hàng và cổ đông gắn bó lâu dài với Công ty, cũng chính là nền tảng để Công ty phát triển bền vững.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "E3": 0.5,
+        "S4": 1.0
+      },
+      "themes": [
+        "E3",
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 1531,
+      "text": "[TABLE] [CONTEXT] section: theo tiêu chuẩn GRI4 ; column_headers: Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang [ROWS] Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang [ROW] ĐẢM BẢO [ROW] G4-33 | a. Báo cáo chính sách và thông lệ hiện hành của tổ chức về việc sử dụng đảm bảo bên ngoài cho báo cáo. b. Nếu không được bao gồm trong báo cáo đảm bảo kèm theo báo cáo phát triển bền vững, báo cáo quy mô và cơ sở của bất kỳ đảm bảo bên ngoài được cung cấp nào. c. Báo cáo mối quan hệ giữa tổ chức và các nhà cung cấp dịch vụ đảm bảo. d. Báo cáo liệu có cấp quản trị cao nhất hoặc cấp điều hành cao có tham gia vào việc tìm kiếm đảm bảo cho báo cáo phát triển bền vững của tổ chức hay không. [ROW] QUẢN TRỊ [ROW] G4-34 | Cơ cấu quản trị, quản lý của tổ chức, bao gồm cả các ủy ban của cơ quan quản lý cao nhất, chịu trách nhiệm cho các trách nhiệm cụ thể. | 104-109 [ROW] G4-35 | Báo cáo quy trình ủy quyền cho các chủ đề về kinh tế, môi trường và xã hội từ cơ quan quản trị cao nhất đến các Giám đốc Điều hành cấp cao và các nhân viên khác. [ROW] G4-36 | Báo cáo liệu tổ chức đã chỉ định vị trí cấp điều hành hoặc các vị trí chịu trách nhiệm về các chủ đề kinh tế, môi trường và xã hội hay không, và những người nắm giữ các vị trí đó có báo cáo trực tiếp cho các cơ quan quản trị cao nhất hay không. [ROW] G4-37 | Báo cáo quy trình tham vấn giữa các bên liên quan và cơ quan quản trị cao nhất về các chủ đề kinh tế, xã hội, môi trường. Nếu việc tham vấn được ủy quyền thì mô tả người được ủy quyền là ai và bất kỳ quy trình phản hồi cho cơ quan quản trị cao nhất nào. | 131-132 [ROW] G4-38 | Báo cáo thành phần của cơ quan quản trị cao nhất và các ủy ban của cơ quan này. | 36-45 [ROW] G4-39 | Báo cáo Chủ tịch của cơ quan quản trị cao nhất có phải Giám đốc Điều hành hay không (và, nếu có, chức năng của Chủ tịch trong quá trình hoạt động quản trị của tổ chức và lý do sự sắp xếp này). | 36 [ROW] G4-40 | Báo cáo các quy trình chỉ định và lựa chọn dành cho cơ quan quản trị cao nhất và các ủy ban của nó, và những tiêu chí sử dụng cho việc chỉ định và lựa chọn thành viên của cơ quan quản trị cao nhất. [ROW] G4-41 | Báo cáo quy trình dành cho cơ quan quản trị cao nhất để đảm bảo tránh và kiểm soát được xung đột lợi ích. Báo cáo liệu xung đột lợi ích có được công bố cho các bên liên quan hay không? [ROW] G4-42 | Báo cáo vai trò của cơ quan quản trị cao nhất và Giám đốc Điều hành cấp cao trong việc xây dựng, phê duyệt, và cập nhật mục đích, giá trị hoặc các tuyên bố sứ mệnh, chiến lược, chính sách và mục tiêu của tổ chức liên quan đến tác động kinh tế, môi trường và xã hội. [ROW] G4-43 | Báo cáo các biện pháp được triển khai để phát triển và tăng cường kiến thức tổng hợp của cơ quan quản trị cao nhất về các chủ đề kinh tế, môi trường và xã hội.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1534,
+      "text": "[TABLE] [CONTEXT] section: theo tiêu chuẩn GRI4 ; column_headers: Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang ; row_headers: G4-DMA | Phương pháp tiếp cận quản trị chung. | EN1 | Vật liệu được sử dụng theo Khối lượng/ Trọng lượng. | EN2 | Phần trăm vật liệu được sử dụng là nguyên liệu đầu vào từ tái chế. | EN3 | Tiêu thụ năng lượng trong tổ chức. | EN4 | Tiêu thụ năng lượng ngoài tổ chức. | EN5 | Cường độ năng lượng. | EN6 | Giảm tiêu thụ năng lượng. | EN7 | Cắt giảm nhu cầu năng lượng của sản phẩm và dịch vụ. | EN8 | Tổng lượng nước khai thác phân loại theo nguồn. | EN9 | Các nguồn nước bị ảnh hưởng đáng kể bởi việc khai thác nước. | EN10 | Phần trăm và tổng khối lượng nước được tái chế và tái sử dụng. | EN11 | Vị trí và diện tích của đất, thuộc quyền sở hữu, cho thuê, quản lý là khu vực có đa dạng sinh học cao hoặc liền kề khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao được bảo vệ. | EN12 | Mô tả các tác động của hoạt động, sản phẩm và dịch vụ đến sự đa dạng sinh học trong khu vực được bảo tồn và các khu vực có đa dạng sinh học cao ngoài khu vực được bảo tồn. | EN13 | Môi trường sống tự nhiên được bảo tồn hoặc khôi phục. | EN14 | Số loài động thực vật trong danh sách đỏ của IUCN và danh sách bảo tồn quốc gia có môi trường sống trong khu vực bị ảnh hưởng bởi hoạt động và mức độ nguy cơ tuyệt chủng. [ROWS] Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang [ROW] DANH MỤC: MÔI TRƯỜNG [ROW] VẬT LIỆU [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. | 153 [ROW] EN1 | Vật liệu được sử dụng theo Khối lượng/ Trọng lượng. | 153 [ROW] EN2 | Phần trăm vật liệu được sử dụng là nguyên liệu đầu vào từ tái chế. [ROW] NĂNG LƯỢNG [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. | 151 [ROW] EN3 | Tiêu thụ năng lượng trong tổ chức. [ROW] EN4 | Tiêu thụ năng lượng ngoài tổ chức. [ROW] EN5 | Cường độ năng lượng. [ROW] EN6 | Giảm tiêu thụ năng lượng. | 151 [ROW] EN7 | Cắt giảm nhu cầu năng lượng của sản phẩm và dịch vụ. [ROW] NƯỚC [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. | 151 [ROW] EN8 | Tổng lượng nước khai thác phân loại theo nguồn. [ROW] EN9 | Các nguồn nước bị ảnh hưởng đáng kể bởi việc khai thác nước. [ROW] EN10 | Phần trăm và tổng khối lượng nước được tái chế và tái sử dụng. [ROW] ĐA DẠNG SINH HỌC [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] EN11 | Vị trí và diện tích của đất, thuộc quyền sở hữu, cho thuê, quản lý là khu vực có đa dạng sinh học cao hoặc liền kề khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao được bảo vệ. [ROW] EN12 | Mô tả các tác động của hoạt động, sản phẩm và dịch vụ đến sự đa dạng sinh học trong khu vực được bảo tồn và các khu vực có đa dạng sinh học cao ngoài khu vực được bảo tồn. [ROW] EN13 | Môi trường sống tự nhiên được bảo tồn hoặc khôi phục. [ROW] EN14 | Số loài động thực vật trong danh sách đỏ của IUCN và danh sách bảo tồn quốc gia có môi trường sống trong khu vực bị ảnh hưởng bởi hoạt động và mức độ nguy cơ tuyệt chủng. [ROW] PHÁT THẢI [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] EN15 | Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1).",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.5,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E_COMMON": 9
+      }
+    },
+    {
+      "paragraph_id": 1535,
+      "text": "[TABLE] [CONTEXT] section: theo tiêu chuẩn GRI4 ; column_headers: Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang [ROWS] Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang [ROW] EN16 | Phát thải khí nhà kính (GHG) gián tiếp năng lượng (Phạm vi 2). [ROW] EN17 | Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3). [ROW] EN18 | Cường độ Phát thải khí nhà kính (GHG [ROW] EN19 | Giảm phát thải khí nhà kính (GHG). [ROW] EN20 | Các chất hủy diệt tầng OZON (ODS). [ROW] EN21 | Nox, SOx và các phát thải khí đáng kể khác. [ROW] NƯỚC THẢI VÀ CHẤT THẢI [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] EN22 | Tổng lượng nước thải theo chất lượng thải và nơi thải. [ROW] EN23 | Tổng lượng chất thải theo loại và phương pháp xử lý. [ROW] EN24 | Tổng số lượng các vụ tràn (chất thải) và khối lượng tràn. [ROW] EN25 | Trọng lượng của chất thải vận chuyển, nhập khẩu, xuất khẩu, hoặc xử lý được coi là nguy hiểm theo các điều khoản của Công ước Basel Phụ lục I, II, III, và VIII, và tỷ lệ phần trăm chất thải vận chuyển quốc tế. [ROW] EN26 | Nhận dạng kích cỡ, tình trạng bảo tồn đa dạng sinh học của các khu vực chứa nước và các môi trường sống liên quan bị ảnh hưởng đáng kể bởi việc thải nước và dòng nước thải của tổ chức. [ROW] THÔNG TIN VÀ NHÃN SẢN PHẨM DỊCH VỤ [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] EN27 | Phạm vi giảm nhẹ tác động môi trường của sản phẩm và dịch vụ. [ROW] EN28 | Tỷ lệ phần trăm sản phẩm đã bán và vật liệu đóng gói chúng được tái chế theo danh mục. [ROW] TUÂN THỦ [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] EN29 | Tổng số tiền phạt và tổng số lần bị phạt (phi tài chính) do không tuân thủ quy định về môi trường và luật pháp. [ROW] VẬN CHUYỂN [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] EN30 | Các tác động đến môi trường chủ yếu trong quá trình vận chuyển các sản phẩm, hàng hóa và nguyên liệu khác được dùng cho hoạt động của tổ chức, quá trình di chuyển lực lượng lao động. [ROW] T ỔNG THỂ [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung.",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 8,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1538,
+      "text": "[TABLE] [CONTEXT] section: theo tiêu chuẩn GRI4 ; column_headers: Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang [ROWS] Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang [ROW] KHÔNG PHÂN BIỆT ĐỐI XỬ [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] HR3 | Tổng các sự cố về phân biệt đối xử và những biện pháp khắc phục đã triển khai [ROW] TỰ DO LẬP HỘI VÀ THỎA ƯỚC TẬP THỂ [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] HR4 | Các hoạt động của công ty và của nhà cung cấp chính được xác định là có thể vi phạm hoặc có nguy cơ vi phạm việc thực hiện hoạt động các hiệp hội tự do, các thỏa thuận tập thể và các hành động để hỗ trợ thực hiện các quyền này. [ROW] LAO ĐỘNG TRẺ EM [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] HR5 | Các hoạt động của công ty và của các nhà cung cấp chính được xác định là có những rủi ro nghiêm trọng về tai nạn lao động trẻ em, biện pháp để đóng góp hiệu quả vào việc không sử dụng lao động trẻ em. [ROW] LAO ĐỘNG CƯỠNG BỨC HOẶC BẮT BUỘC [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] HR6 | Hoạt động của công ty và của các nhà cung cấp chính được xác định là có thể có nguy cơ liên quan đến lao động cưỡng bức hoặc bắt buộc và biện pháp đóng góp để loại trừ tất cả hình thức sử dụng lao động cưỡng bức hoặc bắt buộc. [ROW] CÁC PHƯƠNG THỨC BẢO VỆ TÀI SẢN [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] HR7 | Tỷ lệ phần trăm của các nhân viên an ninh được đào tạo theo các chính sách của công ty hoặc các thủ tục liên quan đến các khía cạnh của quyền con người có liên quan đến hoạt động. [ROW] QUYỀN CỦA NGƯỜI BẢN ĐỊA [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung [ROW] HR8 | Tổng số vụ vi phạm liên quan đến quyền lợi của người dân bản địa và hành động khắc phục. [ROW] ĐÁNH GIÁ [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] HR9 | Tổng số và Tỷ lệ phần trăm các hoạt động cần phải rà soát về Quyền con người hoặc đánh giá tác động. [ROW] ĐÁNH GIÁ QUYỀN CON NGƯỜI ĐỐI VỚI NHÀ CUNG CẤP [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] HR10 | Tỷ lệ phần trăm các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về Quyền con người. [ROW] HR11 | Các tác động về Quyền con người tiêu cực thực tế và tiềm ẩn đáng kể trong chuỗi cung ứng và những biện pháp đã triển khai.",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "S4": 6,
+        "S6": 6
+      }
+    },
+    {
+      "paragraph_id": 1539,
+      "text": "[TABLE] [CONTEXT] section: theo tiêu chuẩn GRI4 ; column_headers: Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang ; row_headers: G4-DMA | Phương pháp tiếp cận quản trị chung. | HR12 | Số lượng khiếu nại liên quan đến lĩnh vực quyền con người được tiếp nhận, xử lý thông qua cơ chế khiếu kiện chính thực. | SO1 | Tỷ lệ phần trăm các hoạt động được thực hiện với cộng đồng địa phương, đánh giá tác động và các chương trình phát triển. | SO2 | Các hoạt động có các tác động tiêu cực thực tế hoặc tiềm tàng lên cộng đồng địa phương. | SO3 | Tỷ lệ phần trăm và tổng số các đơn vị kinh doanh được phân tích rủi ro là có liên quan đến tham nhũng và những rủi ro đáng kể được xác định. | SO4 | Truyền thông và đào tạo về các chính sách và quy trình chống tham nhũng. | SO5 | Các vụ tham nhũng được xác định và các biện pháp đã triển khai. | SO6 | Tổng giá trị của những đóng góp chính trị theo quốc gia và người nhận/ người thụ hưởng. | SO7 | Tổng số hành động pháp lý đối với hành vi hạn chế cạnh tranh, chống độc quyền và các thông lệ chống độc quyền và kết quả của những hành động đó . | SO8 | Tổng giá trị tiền phạt và tổng số vụ xử phạt phi tài chính do không tuân thủ luật pháp và các quy định. | SO9 | Tỉ lệ phần trăm các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về tác động đối với xã hội. | SO10 | Các tác động tiêu cực thực tế và tiềm ẩn đáng kể đối với xã hội trong chuỗi cung ứng và những hành động đã triển khai. [ROWS] Mục tham chiếu theo GRI | Chỉ số GRI | Báo cáo năm 2016 | Trang [ROW] CƠ CHẾ KHIẾU NẠI VỀ QUYỀN CON NGƯỜI [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] HR12 | Số lượng khiếu nại liên quan đến lĩnh vực quyền con người được tiếp nhận, xử lý thông qua cơ chế khiếu kiện chính thực. [ROW] XÃ HỘI [ROW] CỘNG ĐỒNG ĐỊA PHƯƠNG [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. | 154-157 [ROW] SO1 | Tỷ lệ phần trăm các hoạt động được thực hiện với cộng đồng địa phương, đánh giá tác động và các chương trình phát triển. | 154-157 [ROW] SO2 | Các hoạt động có các tác động tiêu cực thực tế hoặc tiềm tàng lên cộng đồng địa phương. [ROW] CHỐNG THAM NHŨNG [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] SO3 | Tỷ lệ phần trăm và tổng số các đơn vị kinh doanh được phân tích rủi ro là có liên quan đến tham nhũng và những rủi ro đáng kể được xác định. [ROW] SO4 | Truyền thông và đào tạo về các chính sách và quy trình chống tham nhũng. [ROW] SO5 | Các vụ tham nhũng được xác định và các biện pháp đã triển khai. [ROW] CHÍNH SÁCH CÔNG [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] SO6 | Tổng giá trị của những đóng góp chính trị theo quốc gia và người nhận/ người thụ hưởng. [ROW] HÀNH VI HẠN CHẾ CẠNH TRANH [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] SO7 | Tổng số hành động pháp lý đối với hành vi hạn chế cạnh tranh, chống độc quyền và các thông lệ chống độc quyền và kết quả của những hành động đó . [ROW] TUÂN THỦ [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] SO8 | Tổng giá trị tiền phạt và tổng số vụ xử phạt phi tài chính do không tuân thủ luật pháp và các quy định. [ROW] ĐÁNH GIÁ TÁC ĐỘNG CỦA NHÀ CUNG CẤP ĐỐI VỚI XÃ HỘI [ROW] G4-DMA | Phương pháp tiếp cận quản trị chung. [ROW] SO9 | Tỉ lệ phần trăm các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về tác động đối với xã hội. [ROW] SO10 | Các tác động tiêu cực thực tế và tiềm ẩn đáng kể đối với xã hội trong chuỗi cung ứng và những hành động đã triển khai.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    }
+  ]
+}

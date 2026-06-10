@@ -1,0 +1,78 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: XÁC ĐỊNH CÁC VẤN ĐỀ TRỌNG YẾU ; column_headers: Chỉ tiêu Các vấn đề trọng yếu | Mức độ trọng yếu đối với các bên liên quan | Mức độ trọng yếu đối với Phát Đạt ; row_headers: Kinh Tế | Hiệu quả hoạt động kinh tế | Quản trị doanh nghiệp theo hướng bền vững | Phát triển thị trường | Đa dạng hóa và nâng cao chất lượng sản phẩm, dịch vụ | Phát triển kinh tế địa phương | Việc làm | An toàn sức khỏe và nghề nghiệp | Đào tạo và phát triển | Đa dạng và bình đẳng | Mối quan hệ quản lý – người lao động | Không sử dụng lao động trẻ em và lao động cưỡng bức | Chống tham nhũng | Chống cạnh tranh không lành mạnh | Trách nhiệm đối với cộng đồng địa phương | Trách nhiệm đối với sản phẩm | Sự tôn trọng lợi ích các bên liên quan | Môi trường làm việc | Sử dụng hiệu quả nguồn nước và năng lượng | Các biện pháp giảm thiểu tác động đến môi trường | Sử dụng vật liệu thân thiện với môi trường [ROWS] Chỉ tiêu Các vấn đề trọng yếu | Mức độ trọng yếu đối với các bên liên quan | Mức độ trọng yếu đối với Phát Đạt [ROW] Kinh Tế | Hiệu quả hoạt động kinh tế | 9 | 9 [ROW] Quản trị doanh nghiệp theo hướng bền vững | 9 | 9 [ROW] Phát triển thị trường | 7 | 7 [ROW] Đa dạng hóa và nâng cao chất lượng sản phẩm, dịch vụ | 9 | 9 [ROW] Phát triển kinh tế địa phương | 7 | 7 [ROW] Việc làm | 8 | 8 [ROW] An toàn sức khỏe và nghề nghiệp | 9 | 9 [ROW] Đào tạo và phát triển | 7 | 9 [ROW] Đa dạng và bình đẳng | 7 | 7 [ROW] Mối quan hệ quản lý – người lao động | 8 | 9 [ROW] Không sử dụng lao động trẻ em và lao động cưỡng bức | 9 | 9 [ROW] Chống tham nhũng | 8 | 8 [ROW] Chống cạnh tranh không lành mạnh | 8 | 8 [ROW] Trách nhiệm đối với cộng đồng địa phương | 8 | 8 [ROW] Trách nhiệm đối với sản phẩm | 9 | 9 [ROW] Sự tôn trọng lợi ích các bên liên quan | 8 | 8 [ROW] Môi trường làm việc | 8 | 8 [ROW] Sử dụng hiệu quả nguồn nước và năng lượng | 8 | 8 [ROW] Các biện pháp giảm thiểu tác động đến môi trường | 7 | 7 [ROW] Sử dụng vật liệu thân thiện với môi trường | 7 | 7",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "E3": 0.777029,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E3": 2,
+        "S4": 4,
+        "S6": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÁC TÁC ĐỘNG ĐẾN MÔI TRƯỜNG KHI DỰ ÁN ĐI VÀO HOẠT ĐỘNG ; column_headers: HOẠT ĐỘNG | NGUỒN GÂY TÁC ĐỘNG | ĐỐI TƯỢNG BỊ TÁC ĐỘNG | PHẠM VI TÁC ĐỘNG | KHẢ NĂNG PHỤC HỒI | KHÔNG GIAN THỜI GIAN ; row_headers: Hoạt động của cư dân sinh sống tại khu cao ốc và hoạt động của khu dịch vụ, | thương mại | Hoạt động của máy phát điện dự phòng | Hoạt động của hệ thống thoát nước và trạm xử lý nước thải | Sự cố [ROWS] PHẠM VI TÁC ĐỘNG [ROW] HOẠT ĐỘNG | NGUỒN GÂY TÁC ĐỘNG | ĐỐI TƯỢNG BỊ TÁC ĐỘNG | KHÔNG GIAN THỜI GIAN | KHẢ NĂNG PHỤC HỒI [ROW] Hoạt động đun nấu của mỗi gia đình | Chất lượng môi trường không khí từ việc đốt gas (LGP) để đun nấu. | Trong phạm vi căn hộ của mỗi gia đình | Trong suốt thời gian hoạt động của Dự án | Cao [ROW] Nước thải sinh hoạt | Vệ sinh môi trường và hệ thống thoát nước của khu vực | Trong Dự án và khu vực xung quanh | Trong suốt thời gian hoạt động của Dự án | Trung bình [ROW] Hoạt động của cư dân sinh sống tại khu cao ốc và hoạt động của khu dịch vụ, | Chất thải rắn | Chất lượng môi trường không khí Mỹ quan trong khu vực Môi trường đất | Khu vực tập trung rác | Trong suốt thời gian hoạt động của Dự án | Trung bình [ROW] thương mại | Phương tiện đi lại (xe gắn máy, xe ô tô) | Chất lượng môi trường không khí. Giao thông của khu vực | Khu vực tầng hầm, khu vực xung quanh Dự án | Trong suốt thời gian hoạt động của Dự án | Cao [ROW] Hệ thống máy điều hòa nhiệt độ | Ô nhiễm nhiệt | Trong khu vực Dự án | Trong suốt thời gian hoạt động của Dự án | Cao [ROW] Hoạt động của máy phát điện dự phòng | Máy phát điện | Chất lượng môi trường không khí Tiếng ồn và độ rung | Khu vực tầng hầm, khu vực xung quanh Dự án | Trong suốt thời gian hoạt động của Dự án, gián đoạn và không liên tục | Cao [ROW] Hoạt động của hệ thống thoát nước và trạm xử lý nước thải | Hệ thống thoát nước và xử lý nước thải sinh hoạt | Chất lượng môi trường không khí Hệ thống thoát nước khu vực | Trong khu vực Dự án | Trong suốt thời gian hoạt động của Dự án | Trung bình [ROW] Cháy nổ | Tài sản trong Dự án Tính mạng con người | Trong Dự án và khu vực lân cận | Trong suốt thời gian hoạt động của Dự án | Trung bình [ROW] Sự cố | Sự cố trạm xử lý nước thải | Hệ thống thoát nước khu vực Chất lượng nước thải sau khi xử lý Ngập úng và vệ sinh môi trường xung quanh | Trong Dự án và khu vực lân cận | Trong suốt thời gian hoạt động của Dự án | Trung bình",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 13,
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

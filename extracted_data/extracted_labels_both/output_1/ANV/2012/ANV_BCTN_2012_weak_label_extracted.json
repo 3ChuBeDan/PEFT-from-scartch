@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 32,
+      "text": "Công ty đã chấp hành các tiêu chuẩn xử lý nước thải bằng cách xây dựng hệ thống xử lý nước thải tại các nhà máy, ký hợp thu gom chất thải rắn nguy hại để không ảnh hưởng đến môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 507,
+      "text": "[TABLE] [CONTEXT] section: 14. Chi phí xây dựng cơ bản dở dang ; column_headers: Số đầu năm | Chi phí phát sinh trong năm | Kết chuyển tăng TSCĐ | Giảm khác | Số cuối năm ; row_headers: Mua sắm TSCĐ | XDCB dở dang | Chi phí đầu tư dự án nuôi trồng thủy sản cồn Bà Hòa | Đất khu bệnh xá công an | Bể xử lý nước thải | Chi phí xây dựng các khu nuôi trồng thủy sản | Nhà máy chế biến thức ăn | Hạng mục nhà máy Cromit | Công trình bể xử lý nước thải | Các công trình khác | Sửa chữa lớn TSCĐ | Cộng [ROWS] Số đầu năm | Chi phí phát sinh trong năm | Kết chuyển tăng TSCĐ | Giảm khác | Số cuối năm [ROW] Mua sắm TSCĐ | 3.070.415.695 | 33.511.097.603 | (32.647.732.836) (2.945.780.000) | 988.000.462 [ROW] XDCB dở dang | 162.958.445.067 | 121.321.316.316 (152.944.417.267) (1.694.443.931) | 129.640.900.185 [ROW] Chi phí đầu tư dự án nuôi trồng thủy sản cồn Bà Hòa | 97.812.349.294 | 48.348.418.911 | (49.276.268.071) | - | 96.884.500.134 [ROW] Đất khu bệnh xá công an | 40.405.130.600 | - | (40.279.000.000) | - | 126.130.600 [ROW] Bể xử lý nước thải | 1.456.210.000 | - | (1.456.210.000) | - | - [ROW] Chi phí xây dựng các khu nuôi trồng thủy sản | - | 34.245.605.799 | (11.981.359.832) | (681.464.381) | 21.582.781.586 [ROW] Nhà máy chế biến thức ăn | - | 31.557.980.335 | (20.705.612.227) | - | 10.852.368.108 [ROW] Hạng mục nhà máy Cromit | 4.415.275.701 | 2.359.621.549 | (5.761.917.700) | (1.012.979.550) | - [ROW] Công trình bể xử lý nước thải | 17.948.855.715 | - | (17.948.855.715) | - | - [ROW] Các công trình khác | 920.623.757 | 4.809.689.722 | (5.535.193.722) | - | 195.119.757 [ROW] Sửa chữa lớn TSCĐ | 3.171.927.532 | 3.221.815.734 | (988.465.100) (4.969.072.451) | 436.205.715 [ROW] Cộng | 169.200.788.294 | 158.054.229.653 | (186.580.615.203) (9.609.296.382) | 131.065.106.362",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    }
+  ]
+}

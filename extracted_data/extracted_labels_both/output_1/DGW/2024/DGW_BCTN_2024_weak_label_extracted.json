@@ -1,0 +1,55 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Nhằm hướng đến mục tiêu xây dựng một môi trường làm việc xanh, an toàn và thân thiện cho người lao động, trong năm 2024 , Digiworld đã chính thức chuyển trụ sở chính đến Tòa nhà Etown Central , Quận 4 , TP. P. Hồ Chí Minh . Đây là công trình đạt chứng chỉ công trình xanh LEED Gold , đáp ứng các tiêu chuẩn nghiêm ngặt về môi trường, hiệu quả năng lượng và phát triển bền vững như sau:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Rác thải và nước thải [ROWS] 28% | Chất thải có khả năng tái chế, tái sử dụng gồm nhóm giấy vụn, nhựa, nilon , v. v. v. v. | 13% Thực phẩm thừa [ROW] 59% | Chất thải còn lại, không bao gồm chất thải nguy hại",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

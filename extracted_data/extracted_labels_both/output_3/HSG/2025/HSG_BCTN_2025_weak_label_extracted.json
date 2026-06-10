@@ -1,0 +1,73 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "+ Chất thải rắn phát sinh trong công ty đều được thực hiện phân loại, thu gom và chuyển giao xử lý theo đúng yêu cầu của pháp luật. Chất thải được phân loại tại nguồn, mỗi loại chất thải đều chứa trong thùng rác có dấu hiện nhận dạng riêng. Khi thùng chứa chất thải đầy thì được chuyển về nhà chứa rác của công ty theo đúng khu vực quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Đối với chất thải nguy hại, Tập đoàn Hoa Sen đã được cấp Sổ chủ nguồn thải chất thải nguy hại. Tập đoàn Hoa Sen đã ký hợp đồng với các đơn vị có đủ chức năng và được cấp phép để vận chuyển và xử lý chất thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "- Biến đổi khí hậu là vấn đề đang được quan tâm trong thời đại hiện nay, các quốc gia, chính phủ, các thành phố đã đặt ra các mục tiêu cũng về \"Net Zero\" cũng như ban hành các quy định nhằm thực hiện mục tiêu giảm phát thải khí nhà kính, các Công ty con/nhà máy nằm trong danh sách đã thực hiện báo cáo kiểm kê khí nhà kính nộp cho cơ quan nhà nước vào tháng 3/2025. Ngoài ra, Tập đoàn Hoa Sen đã chủ động tính toán định lượng phát thải cho 03 nhà máy sản xuất Tôn mạ của Tập đoàn Hoa Sen là Nhà máy Tôn Hoa Sen Phú Mỹ, Nhà máy Hoa Sen Nhơn Hội – Bình Định, Nhà máy Hoa Sen Nghệ An theo tiêu chuẩn ISO 14064-1:2018 vào năm 2023. Đây được xem là bước đầu nhằm quản lý nguồn phát thải khí nhà kính, từ đó có biện pháp cải thiện để hạn chế phát thải carbon - giảm phát thải khí nhà kính theo yêu cầu của luật pháp trong và ngoài nước; hướng tới thực hiện cam kết của Chính phủ Việt Nam về việc đạt phát thải ròng bằng \"0\" vào năm 2050.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: C) KẾT QUẢ TIÊU THỤ NĂNG LƯỢNG THỰC TẾ TRONG NĐTC 2024 – 2025 ; column_headers: STT NỘI DUNG NĂM 2025 [ROWS] STT NỘI DUNG NĂM 2025 [ROW] I | TÁI SINH ACID [ROW] 1 Sản lượng acid tái sinh trong năm (m 3 | ) 59.084 [ROW] 2 Sản lượng acid đầu vào trong năm (m 3 | ) 65.912 [ROW] 3 Tỷ lệ tái sinh so với đầu vào 90% [ROW] II | NƯỚC [ROW] 1 Lượng nước sử dụng cho nhà máy trong năm (m 3 | ) 1.024.022 [ROW] 2 Lượng nước tuần hoàn, tái sử dụng trong năm (m 3 | ) 463.297 [ROW] 3 Lượng nước thải được xử lý trong năm (m 3 | ) 452.532 [ROW] III | ĐIỆN [ROW] 1 Năng lượng điện tiêu thụ của nhà máy trong năm (Kwh) 524.030.537 [ROW] 2 Năng lượng tiết kiệm trong năm (Kwh) 4.174.117 [ROW] IV | NƯỚC THẢI [ROW] 1 Tổng lưu lượng nước thải xử lý (m 3 | ) 603.804 [ROW] V | CHẤT THẢI, CHẤT THẢI NGUY HẠI [ROW] 1 | Lượng chất thải xử lý trong năm (kg) 7.677.920 [ROW] 2 | Lượng chất thải nguy hại xử lý trong năm (kg) 6.397.497",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    }
+  ]
+}

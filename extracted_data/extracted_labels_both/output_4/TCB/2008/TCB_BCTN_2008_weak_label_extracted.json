@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Không chỉ quan tâm đến yếu tố tài chính, Techcombank còn chú trọng công tác bảo vệ sức khỏe cán bộ và người thân để họ yên tâm công tác. Bên cạnh bảo hiểm y tế thông thường, từ tháng 1/2008, Techcombank mua thêm gói bảo hiểm tai nạn và bảo hiểm y tế Techcombank Care của Công ty bảo hiểm Bảo Minh với sự tư vấn của Công ty tư vấn AON cho toàn thể cán bộ nhân viên ngân hàng và người thân của các cán bộ trung và cao cấp. Tổng chi phí cho chương trình này là 4,55 tỷ đồng. Đầu năm 2009, chương trình này còn tạo điều kiện cho các cán bộ cấp thấp hơn mua bảo hiểm tương tự cho người thân của mình với chi phí thấp mà mức thanh toán cao và được khám chữa bệnh ở nhiều cơ sở có uy tín. Techcombank tự hào là ngân hàng tiên phong áp dụng chính sách phúc lợi này cho cán bộ nhân viên, giải tỏa cho CBNV khỏi những lo lắng khi bản thân và gia đình gặp rủi ro tai nạn, ốm đau. CBNV cảm thấy yên tâm và thoải mái khi sử dụng các dịch vụ chăm sóc sức khỏe tốt nhất trong suốt chặng đường gắn bó cùng Techcombank. Đây cũng là một trong những yếu tố cơ bản trong chính sách nhân sự - phúc lợi tổng thể mà Techcombank đang thực hiện.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

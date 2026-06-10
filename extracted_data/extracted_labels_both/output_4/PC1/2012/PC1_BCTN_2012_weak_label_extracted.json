@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Công ty thực hiện kinh doanh đa ngành: xây lắp điện; chế tạo cột thép thanh dời đến 750 kV và cột điện đơn thân 220 kV có1, 2, 4 mạch mạ kẽm nhúng nóng. Công ty là đơn vị duy nhất tại Việt Nam có khả năng vừa thiết kế, chế tạo và lắp đặt các sản phẩm cột thép này; đầu tư kinh doanh bất động sản; dịch vụ tư vấn thiết kế điện... Công ty xác định 3 mục tiêu lớn là: Tăng trưởng ổn định, phát triển vững chắc, tạo sự khác biệt và giữ vững vị trí hàng đầu trong lĩnh vực xây lắp công trình truyền tải điện Việt Nam, vị trí hàng đầu trong việc sản xuất cột thép liên kết thanh và cột đơn thân tại Việt Nam; thực hiện đầu tư và tăng cường hợp tác đầu tư, phấn đấu đạt hiệu quả cao, tạo dựng tiềm lực tài chính mạnh cho Công ty làm nền tảng để tiếp tục đầu tư và phát triển; xây dựng môi trường văn hóa doanh nghiệp cùng với nguồn lực và năng lực cạnh tranh thực sự của Công ty, tiếp tục xác lập một vị thế mới của PCC1 đối với khách hàng, đối tác và thị trường. Mặc dù trong bối cảnh suy thoái ki nh tế thế giới, kinh tế Việt Nam gặp nhiểu khó khăn, nhưng những năm 2009, 2010, 2011, 2012 Công ty vẫn có mức tăng trưởng doanh thu hàng năm trên 15%, với doanh thu hang năm trên 1.000 tỷ đồng, lợi nhuận hàng năm đạt từ 30% đến 60% trên vốn điều lệ. Đây l à những cố gắng rất lớn của Công ty, là sự khẳng định vị thế của Công ty trên thị trường. Sau bảy năm chuyển thành Công ty cổ phần, PCC1 vẫn trung thành với truyền thống phát huy sức mạnh đoàn kết tập thể. Lãnh đạo Công ty chú trọng chăm lo đời sống vậ vật chất, tinh thần của cán bộ, công nhân viên; vừa tôn trọng vừa đặt ra yêu cầu cao đối vớ với đội ngũ người lao động ở tất cả các vị trí công tác. Phương châm hành động của Công ty là: \"Chất lượng -Tiến độ -Giá thành -Thẩm mỹ công nghiệp\". Công ty tiếp tục chú trọng động viên cán bộ, công nhân viên phát huy trí tuệ, tinh thần sáng tạo, thực hiện cải tiến kỹ thuật để nâng cao năng suất lao động mà vẫn bảo đảm chất lượng sản phẩm. Một trong những sáng kiến điển hình là \"Máy thổi khí khô\" của Công ty TNHH MTV Xây lắp điện 1 – Hoàng Mai, đưa Công ty trở thành đơn vị đầu tiên trong cả nước sử sử dụng thiết bị để xử lí cách điện ẩm của máy biến áp và các thiết bị điện 500kV. Sáng kiến này đã được áp dụng thành công tại TBA 500kV Quảng Ninh, TBA 500kV Thư ờng Tín, TBA 500kV Ô Môn... Điều đáng chú ý là sáng kiến này đã tiết kiệm được nh iều chi phí do không phải nhập thiết bị từ nước ngoài. Một sáng kiến có giá trị khác là sáng kiến c ủa Công ty TNHH Chế tạo cột thép Đông Anh – Huyndai trong việc chế tạo đồ gá để m ạ cột đơn thân có đường kính lớn, đảm bảo chính xác các thông số kỹ thuật.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    }
+  ]
+}

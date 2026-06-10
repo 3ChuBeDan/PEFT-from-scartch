@@ -1,0 +1,546 @@
+{
+  "extracted_count": 31,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Rõ ràng các hoạt động của con người đã gây tác động rộng rãi hơn lên cả hành tinh, làm suy thoái các hệ sinh thái tự nhiên, cạn kiệt các nguồn tài nguyên thiên nhiên, đa dạng sinh học, gây ô nhiễm không khí, nước, đất...và đặc biệt đã làm cho khí hậu toàn cầu bị biến đổi. Bão tố, lũ lụt, hạn hán bất thường đang tăng dần lên, cả về tần số và mức độ, gây thiệt hại về nhiều mặt ở tất cả các vùng trên thế giới, trong đó có Việt Nam.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E_COMMON": 0.5,
+        "G9": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E_COMMON": 1,
+        "G9": 2
+      }
+    },
+    {
+      "text": "Năm 2018, Bảo Việt định hướng tham gia tích cực vào thị trường vốn xanh thông qua việc đẩy mạnh đầu tư vào những ngành nghề thân thiện với môi trường (du lịch, bảo hiểm, dịch vụ tài chính, năng lượng tái tạo...). Tại Việt Nam thị trường trái phiếu gần đây đã phát triển rất ấn tượng, nhưng thị trường trái phiếu xanh vẫn còn sơ khai. Với tư cách là thành viên trong Hiệp hội thị trường trái phiếu Việt Nam (VBMA), Bảo Việt cam kết tham gia đầy đủ các khóa đào tạo, hội thảo liên quan đến thị trường trái phiếu xanh và mong muốn cộng tác cùng các bên liên quan nghiên cứu sửa đổi các chính sách để thị trường trái phiếu xanh ngày càng phát triển hơn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bảo Việt áp dụng và duy trì chính sách trả lương hướng đến sự công bằng trong nội bộ cho người lao động và gia tăng tính cạnh tranh về tổng thu nhập trên thị trường mục tiêu P50. Mức lương khởi điểm trả cho lao động mới được tuyển dụng không phân biệt Nam, Nữ ở 03 khu vực Bắc, Trung, Nam (Hà Nội, Nghệ An, TP Hồ Chí Minh) và trên cả nước nói c hung luôn cao hơn mức lương tối thiểu vùng theo quy định của Chính phủ. Lao động đã qua đào tạo luôn được trả lương cao hơn mức lương tối thiểu vùng từ trên 10% trở lên so với quy định của Chính phủ (quy định của Chính phủ yêu cầu mức lương tối thiểu trả cho người lao động đã qua đào tạo từ 7% trở lên so với mức lương tối thiểu vùng).",
+      "hard_labels": [
+        "G9",
+        "S4"
+      ],
+      "soft_labels": {
+        "G9": 1.0,
+        "S4": 1.0
+      },
+      "themes": [
+        "G9",
+        "S4"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3,
+        "S4": 4
+      }
+    },
+    {
+      "text": "Mức lương thực trả trung bình cho nhân viên mới được tuyển dụng trong năm 2017 là 8.209.043 đồng/người/tháng, bằng 219% so với mức lương tối thiểu Vùng I, tăng 43% so với mức lương thực trả bình quân cho lao động mới được tuyển dụng năm 2016. Đối với các đơn vị thành viên trên các địa bàn Hà Nội, TP Hồ Chí Minh, Nghệ An, đều áp dụng mức lương khởi điểm cho nhân viên mới được tuyển dụng (gồm mức thấp nhất và mức trung bình) cao hơn mức lương tối thiểu vùng theo quy định của Chính phủ, trong đó, tại khu vực Hà Nội, lao động tuyển dụng mới được trả mức lương trung bình cao nhất so với các đơn vị thuộc khu vực Nghệ An và TP Hồ Chí Minh.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "G9": 0.5,
+        "S4": 1.0
+      },
+      "themes": [
+        "G9",
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 1,
+        "S4": 2
+      }
+    },
+    {
+      "text": "Những con người Bảo Việt với nhiệt huyết, đam mê, lòng yêu nghề và những tháng ngày cống hiến không mệt mỏi cho sự phát triển của Bảo Việt nói riêng và tinh thần Việt Nam nói chung, vẫn đang tiếp tục thể hiện tinh thần tiên phong trên những chặng đường mới. Cùng với niềm tin, sự quyết tâm, đồng lòng của tập thể lãnh đạo, cán bộ nhân viên, tư vấn viên sẽ tạo nên sức mạnh hợp lực toàn hệ thống, tạo đà phát triển nhanh hơn, bền vững hơn cho Bảo Việt trên những chặng đường sắp tới.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Khi có sự sẻ chia và sự trao đổi cởi mở, thẳng thắn sẽ tạo ra nhận thức chung và kiến tạo sự đồng thuận bền vững, tinh thần đoàn kết một lòng sẻ được củng cố và cùng đi theo một hướng, cùng xác định một mục tiêu và cùng nỗ lực vì \"MỘT BẢO VIỆT\".",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Báo cáo tình hình thực hiện công tác bảo vệ môi trường của cơ sở trong thời gian qua bao gồm biện pháp khống chế môi trường không khí, ô nhiễm môi trường nước, xử lý chất thải rắn, chất thải rắn nguy hại; lực lượng và phương tiện PCCC tại chỗ.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Đề án bảo vệ môi trường của Bảo Việt (được Sở Tài nguyên và Môi trường phê duyệt năm 2014) tiếp tục được triển khai tại các Tòa nhà của Bảo Việt. Đề án này bao gồm các nội dung liên quan đến giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Tỷ giá USD/VND giao dịch tại các ngân hàng thương mại (NHTM) nhiều khả năng sẽ tiếp tục đi ngang hoặc chỉ mất giá nhẹ 1-2% để bù vào yếu tố chênh lệch lạm phát trong năm 2018. Mục tiêu tăng trưởng tín dụng có thể thận trọng hơn 2017 (20 – 21% vs 18%). Định hướng chính sách tiền tệ nới lỏng sẽ vẫn được NHNN duy trì, tuy nhiên theo hướng thận trọng hơn; sự đảo chiều của chính sách này dự báo sẽ không mang tính đột ngột do được hỗ trợ bởi các yếu tố vĩ mô cơ bản.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Cũng trong năm 2017, Công đoàn Tổng Công ty đã vận động đoàn viên ủng hộ ít nhất 1 ngày lương cho các quỹ xã hội và ủng hộ đồng bào bị ảnh hưởng lũ lụt, tham gia đoàn công tác đến trao trực tiếp đến tận tay bà con bị lũ lụt như: Hà Tĩnh, Quảng Bình, Quảng Trị, Sơn La, Yên Bái..... tổng số tiền hơn 3 tỷ đồng.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "Trên nền tảng là đơn vị bảo hiểm phi nhân thọ với 3 năm liên tiếp được bình chọn là \"Nơi làm việc tốt nhất Việt Nam\", Bảo hiểm Bảo Việt tiếp tục đẩy mạnh công tác xây dựng môi trường làm việc thân thiện, hiệu quả, chuyên nghiệp; từ đó thúc đẩy sự phát triển cá nhân, đồng thời tạo động lực và điều kiện tốt nhất cho mỗi cán bộ nhân viên có cơ hội phát huy cao nhất năng lực, hoàn thiện bản thân, đẩy mạnh phát triển sự nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S8"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S8"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Khối Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro để thực hiện các hoạt động kiểm toán, theo đó Khối Kiểm toán nội bộ căn cứ vào kết quả đánh giá rủi ro để xác định mục tiêu, đối tượng kiểm toán, phạm vi kiểm toán và cách thức thực hiện kiểm toán.",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được bảo đảm bằng việc áp dụng giả định tương đối thận trọng để tránh các biến động bất lợi trong thực tiễn hoạt động. Hàng năm, Bảo Việt Nhân thọ tiến hành rà soát nhằm bảo đảm mức chênh lệch giữa giả định với kết quả trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "môi trường hàng năm qua các dự án truyền thông nội bộ như sử dụng tiết kiệm điện, tiết kiệm nước, sử dụng tiết kiệm và tái sử dụng giấy, hạn chế sử dụng bao bì ni-lon và thay thế bằng các loại vật liệu tái chế, thân thiện với môi trường, đồng thời tiến tới sử dụng các thiết bị tiết kiệm năng lượng hoặc thiết bị sử dụng năng lượng tái tạo. Những dự án này không những nâng cao nhận thức của cán bộ nhân viên trong toàn hệ thống mà còn giảm thiểu đáng kể các tác động đối với môi trường và xã hội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Những ngày đầu tháng 8/2017, mưa lớn cục bộ đã gây lũ quét, sạt lở đất nghiêm trọng tại tỉnh Sơn La và tỉnh Yên Bái. Theo thống kê, đã có trên 100 người chết, bị thương và mất tích; hàng trăm ngôi nhà bị sập đổ, cuốn trôi; tổng thiệt hại vật chất ước tính trên 800 tỷ đồng. Chia sẻ với những mất mát của đồng bào vùng cao Tây Bắc, phát huy tinh thần tương thân tương ái cũng như tiếp tục duy trì có hiệu quả các hoạt động an sinh xã hội mà Bảo Việt đã thực hiện trong nhiều năm qua, ngày 11/8/2017, Tập đoàn Bảo Việt đã tổ chức Lễ phát động chương trình ủng hộ đồng bào vùng cao Tây Bắc vừa gánh chịu trận lũ lịch sử lớn nhất trong 30 năm qua.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Với mục tiêu giảm bớt tác động của nền kinh tế lên sự phát triển bất cân đối giữa các khu vực thành thị và nông thôn thông qua việc đầu tư cơ sở hạ tầng, xây dựng trạm y tế, trường học, nhà ở cho đồng bào các tỉnh khó khăn,giúp họ yên tâm lao động sản xuất để nuôi sống bản thân và gia đình, các dự án xóa đói giảm nghèo của Bảo Việt còn đến với người dân các tỉnh như Nghệ An, Quảng Trị, Thái Nguyên, Quảng Bình, Tây Ninh, Phú Thọ...Đồng thời, Bảo Việt tiếp tục thực hiện cam kết về công tác triển khai hoạt động an sinh xã hội, xóa đói, giảm nghèo nhằm cải thiện đời sống vật chất và tinh thần cho người nghèo, thu hẹp khoảng cách về trình độ phát triển giữa các vùng, địa bàn và giữa các dân tộc, nhóm dân cư.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Trong năm 2017, lượng nước tiêu thụ của Bảo Việt được xét tại 3 địa điểm: Taị nhà Trụ sở chính Công ty Mẹ (Số 8, Lê Thái Tổ, Hà Nội), tòa nhà Chi nhánh Trung tâm Công nghệ thông tin (trực thuộc Tập đoàn Bảo Việt, số 71 Ngô Sĩ Liên, Hà Nội) và bộ phận trực thuộc Chi nhánh Trung tâm Công nghệ thông tin tại (Tòa nhà Bảo Việt - 233 Đồng Khởi, Tp.HCM). Theo đó, tổng lượng nước tiêu thụ của Công ty Mẹ Tập đoàn Bảo Việt năm 2017 là 39.415 mét khối nước sạch sinh hoạt, tương ứng với 883.512.167 đồng tổng chi phí nước của toàn bộ 3 toà nhà. Lượng nước thải theo đó là 36.307 mét khối nước thải ra trong năm 2017, lượng nước sử dụng và nước thải của các tòa nhà cơ bản đã giảm tại tòa nhà 233 Đồng Khởi và 8 Lê Thái Tổ, tuy nhiên lượng nước của tòa nhà 71 Ngô Sỹ Liên có biến động do chuyển nhân sự bộ phận Trung tâm Công nghệ thông tin từ số 8 Lê Thái Tổ sang, đồng thời phát sinh việc sửa chữa, vệ sinh tòa nhà và văn phòng để phục vụ việc chuyển địa điểm này.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Bên cạnh đó, Đề án bảo vệ môi trường của Bảo Việt (được Sở Tài nguyên và Môi trường phê duyệt năm 2014) tiếp tục được triển khai tại các Tòa nhà của Bảo Việt. Đề án này bao gồm các nội dung liên quan đến giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Do lượng chất thải này phát sinh rất ít, nhưng để đảm bảo vệ sinh môi trường và thực hiện theo đúng quy định của nhà nước, các tòa nhà của Bảo Việt tiến hành lưu giữ, phân loại và thu gom theo đúng thông tư 12/2011/TT-BNTMT ngày 18 tháng 4 năm 2011 về quản lý chất thải nguy hại. Theo đó, chất thải nguy hại được đựng trong thùng riêng biệt, có",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Tiếp đó, Bảo Việt ký hợp đồng với đơn vị có chức năng thu gom, vận chuyển chất thải nguy hại của Tòa nhà. Thời gian lưu trữ chất thải nguy hại tại tòa nhà không quá 1 năm theo đúng quy định 12/2011/ TT_BTNMT.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Ban ĈLӅu hành Tұp ÿoàn chӏu trách nhiӋm vӅ viӋc lұp và trình bày trung thӵc và hӧp lý báo cáo tài Ban ĈLӅu hành Tұp ÿoàn chӏu trách nhiӋm vӅ viӋc lұp và trình bày trung thӵc và hӧp lý báo cáo tài híh hhҩt ӫTұÿàtháChҭKӃ táViӋt NChӃÿӝ KӃ tádh hiӋ Ban Điều hành Tập đoàn chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo chính hӧp nhҩt cӫa Tұp ÿoàn theo các Chuҭn mӵc KӃ toán ViӋt Nam, ChӃ\u0003ÿӝ KӃ toán doanh nghiӋp chính hӧp nhҩt cӫa Tұp ÿoàn theo các Chuҭn mӵc KӃ toán ViӋt Nam, ChӃ\u0003ÿӝ KӃ toán doanh nghiӋp ViӋt Nà áÿӏh hálý ó liêÿӃiӋlұà tìh bàbáátài híh hhҩt à p p y g p ý chính hợp nhất của Tập đoàn theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp ViӋt Nam và các quy ÿӏnh pháp lý có liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt và ViӋt Nam và các quy ÿӏnh pháp lý có liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt và hӏtáh hiӋӅ kiӇát ӝi bӝ à BĈLӅhàh áÿӏh là ҫthiӃt ÿӇÿҧbҧhiӋlұ p p gp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chӏu trách nhiӋm vӅ kiӇm soát nӝi bӝ mà Ban ĈLӅu hành xác ÿӏnh là cҫn thiӃt ÿӇ\u0003ÿҧm bҧo cho viӋc lұp chӏu trách nhiӋm vӅ kiӇm soát nӝi bӝ mà Ban ĈLӅu hành xác ÿӏnh là cҫn thiӃt ÿӇ\u0003ÿҧm bҧo cho viӋc lұp à tìh bàbáátài híh hhҩt khôó i ót tӃdilұhһhҫlү ệqy ịpp ý qệập y ợp chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hӧp nhҩt không có sai sót trӑng yӃu do gian lұn hoһc nhҫm lүn. và trình bày báo cáo tài chính hӧp nhҩt không có sai sót trӑng yӃu do gian lұn hoһc nhҫm lүn. và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn. Ban ĈLӅu hành Tұp ÿoàn chӏu trách nhiӋm vӅ viӋc lұp và trình bày trung thӵc và hӧp lý báo cáo tà Ban ĈLӅu hành Tұp ÿoàn chӏu trách nhiӋm vӅ viӋc lұp và trình bày trung thӵc và hӧp lý báo cáo tài Ban Điều hành Tập đoàn chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cá Ban ĈLӅu hành Tұp ÿoàn chӏu trách nhiӋm vӅ viӋc lұp và trình bày trung thӵc và hӧp lý báo cáo tài chính hӧp nhҩt cӫa Tұp ÿoàn theo các Chuҭn mӵc KӃ toán ViӋt NamChӃÿӝ KӃ toán doanh nghiӋp chính hӧp nhҩt cӫa Tұp ÿoàn theo các Chuҭn mӵc KӃ toán ViӋt Nam, ChӃ\u0003ÿӝ KӃ toán doanh nghiӋp Ban Điều hành Tập đoàn chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo t chính hợp nhất của Tập đoàn theo các Chuẩn mực Kế toán Việt NamChế độ Kế toán doanh nghiệ chính hӧp nhҩt cӫa Tұp ÿoàn theo các Chuҭn mӵc KӃ toán ViӋt Nam, ChӃ\u0003ÿӝ KӃ toán doanh nghiӋp ViӋt Nam và các quy ÿӏnh pháp lý có liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt và ViӋt Nam và các quy ÿӏnh pháp lý có liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt và chính hợp nhất của Tập đoàn theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và ViӋt Nam và các quy ÿӏnh pháp lý có liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt v chӏu trách nhiӋm vӅ kiӇm soát nӝi bӝ mà Ban ĈLӅu hành xác ÿӏnh là cҫn thiӃt ÿӇÿҧm bҧo cho viӋc lұp chӏu trách nhiӋm vӅ kiӇm soát nӝi bӝ mà Ban ĈLӅu hành xác ÿӏnh là cҫn thiӃt ÿӇ\u0003ÿҧm bҧo cho viӋc lұp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo cho việc lậ chӏu trách nhiӋm vӅ kiӇm soát nӝi bӝ mà Ban ĈLӅu hành xác ÿӏnh là cҫn thiӃt ÿӇ\u0003ÿҧm bҧo cho và trình bày báo cáo tài chính hӧp nhҩt không có sai sót trӑng yӃu do gian lұn hoһc nhҫm lүn và trình bày báo cáo tài chính hӧp nhҩt không có sai sót trӑng yӃu do gian lұn hoһc nhҫm lүn. chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo cho và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn Ban ĈLӅu hành Tұp ÿoàn chӏu trách nhiӋm vӅ viӋc lұp và trình bày trung thӵc và hӧp lý báo cáo tài ҩҭӃ ӃӃ Ban ĈLӅu hành Tұp ÿoàn chӏu trách nhiӋm vӅ viӋc lұp và trình bày trung thӵc và hӧp lý báo cáo tài chính hӧp nhҩt cӫa Tұp ÿoàn theo các Chҭn mӵc KӃ toán ViӋt NamChӃÿӝ KӃ toán doanh nghiӋp Ban Điều hành Tập đoàn chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hӧp nhҩt cӫa Tұp ÿoàn theo các Chuҭn mӵc KӃ toán ViӋt Nam, ChӃ\u0003ÿӝ KӃ toán doanh nghiӋp Ӄҩ chính hӧp nhҩt cӫa Tұp ÿoàn theo các Chuҭn mӵc KӃ toán ViӋt Nam, ChӃ\u0003ÿӝ KӃ toán doanh nghiӋp ViӋt Nam à các qÿӏnh pháp lý có liên qan ÿӃn iӋc lұp à trình bàbáo cáo tài chính hӧp nhҩt à chính hợp nhất của Tập đoàn theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp ViӋt Nam và các quy ÿӏnh pháp lý có liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt và Ӆ ӇӅҫӃӇ ViӋt Nam và các quy ÿӏnh pháp lý có liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt và chӏu trách nhiӋm vӅ kiӇm soát nӝi bӝ mà Ban ĈLӅu hành xác ÿӏnh là cҫn thiӃt ÿӇÿҧm bҧo cho viӋc lұp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chӏu trách nhiӋm vӅ kiӇm soát nӝi bӝ mà Ban ĈLӅu hành xác ÿӏnh là cҫn thiӃt ÿӇ\u0003ÿҧm bҧo cho viӋc lұp ҩӃҫү chӏu trách nhiӋm vӅ kiӇm soát nӝi bӝ mà Ban ĈLӅu hành xác ÿӏnh là cҫn thiӃt ÿӇ\u0003ÿҧm bҧo cho viӋc lұp à trình bàbáo cáo tài chính hӧp nhҩt không có sai sót trӑng Ӄdo gian lұn hoһc nhҫm lүn chịu trách nhiệm về kiểm soát nội bộ mà Ban Điều hành xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hӧp nhҩt không có sai sót trӑng yӃu do gian lұn hoһc nhҫm lүn. và trình bày báo cáo tài chính hӧp nhҩt không có sai sót trӑng yӃu do gian lұn hoһc nhҫm lүn. và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "Công viӋc kiӇm toán bao gӗm thӵc hiӋn các thӫ tөc nhҵm thu thұp các bҵng chӭng kiӇm toán vӅ các sӕ Công viӋc kiӇm toán bao gӗm thӵc hiӋn các thӫ tөc nhҵm thu thұp các bҵng chӭng kiӇm toán vӅ các sӕ Ӌà thӃt ih têbáátài híh hhҩtCáthӫ tkiӇtáÿlh dtêét Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các liӋu và thuyӃt minh trên báo cáo tài chính hӧp nhҩt. Các thӫ tөc kiӇm toán ÿѭӧc lӵa chӑn dӵa trên xét Ӌu và thuyӃt minh trên báo cáo tài chính hӧp nhҩt. Các thӫ tөc kiӇm toán ÿѭӧc lӵa chӑn dӵa trên xét ÿáӫkiӇ táiêbӗÿáh iá ӫi ó i ót tӃtbáátài híh hhҩt g ệgựệụập g g số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên ÿoán cӫa kiӇm toán viên, bao gӗm ÿánh giá rӫi ro có sai sót trӑng yӃu trong báo cáo tài chính hӧp nhҩt ÿoán cӫa kiӇm toán viên, bao gӗm ÿánh giá rӫi ro có sai sót trӑng yӃu trong báo cáo tài chính hӧp nhҩt dilұhһhҫlүKhi thhiӋÿáh iá áӫi àkiӇtáiêÿã ét kiӇát ệyợp ụợựọự xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp do gian lұn hoһc nhҫm lүn. Khi thӵc hiӋn ÿánh giá các rӫi ro này, kiӇm toán viên ÿã xem xét kiӇm soát do gian lұn hoһc nhҫm lүn. Khi thӵc hiӋn ÿánh giá các rӫi ro này, kiӇm toán viên ÿã xem xét kiӇm soát ӝi bӝ ӫTұÿàliêÿӃiӋlұà tìh bàbáátài híh hhҩt tthhlý , ggọg yg ợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm Qӝi bӝ cӫa Tұp ÿoàn liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt trung thӵc, hӧp lý ӝi bӝ cӫa Tұp ÿoàn liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt trung thӵc, hӧp lý hҵthiӃt kӃ áthӫ tkiӇtáhù hӟi tìh hìh thtӃthiêkhôhҵÿíh ÿ gậặựệgy, soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, nhҵm thiӃt kӃ các thӫ tөc kiӇm toán phù hӧp vӟi tình hình thӵc tӃ, tuy nhiên không nhҵm mөc ÿích ÿѭa hҵm thiӃt kӃ các thӫ tөc kiӇm toán phù hӧp vӟi tình hình thӵc tӃ, tuy nhiên không nhҵm mөc ÿích ÿѭa ý kiӃӅ hiӋҧ ӫkiӇát ӝi bӝ ӫTұÿàCôiӋkiӇtáNJbӗÿáh iá ộộ ập qệập y ợp g ự, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục ra ý kiӃn vӅ hiӋu quҧ cӫa kiӇm soát nӝi bӝ cӫa Tұp ÿoàn. Công viӋc kiӇm toán cNJng bao gӗm ÿánh giá a ý kiӃn vӅ hiӋu quҧ cӫa kiӇm soát nӝi bӝ cӫa Tұp ÿoàn. Công viӋc kiӇm toán cNJng bao gӗm ÿánh giá íh thíh hӫáhíh áh kӃ táÿádà tíh hlý ӫáӟtíh kӃ táӫ ợp ý ụpợp ự, y g ụ đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm tính thích hӧp cӫa các chính sách kӃ toán ÿѭӧc áp dөng và tính hӧp lý cӫa các ѭӟc tính kӃ toán cӫa ính thích hӧp cӫa các chính sách kӃ toán ÿѭӧc áp dөng và tính hӧp lý cӫa các ѭӟc tính kӃ toán cӫa BĈLӅhàh NJhÿáh iá iӋtìh bàtәthӇ báátài híh hhҩt ý ệqộộ ập g ệg g đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế Ban ĈLӅu hành cNJng nhѭ\u0003ÿánh giá viӋc trình bày tәng thӇ báo cáo tài chính hӧp nhҩt. Ban ĈLӅu hành cNJng nhѭ\u0003ÿánh giá viӋc trình bày tәng thӇ báo cáo tài chính hӧp nhҩt. gợp ợp ụg ợp ý toán của Ban Điều hành cũng như đánh giá việc trình bày tổng thể báo cáo tài chính Công viӋc kiӇm toán bao gӗm thӵc hiӋn các thӫ tөc nhҵm thu thұp các bҵng chӭng kiӇm toán vӅ các sӕ Công viӋc kiӇm toán bao gӗm thӵc hiӋn các thӫ tөc nhҵm thu thұp các bҵng chӭng kiӇm toán vӅ các sӕ Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các Công viӋc kiӇm toán bao gӗm thӵc hiӋn các thӫ tөc nhҵm thu thұp các bҵng chӭng kiӇm toán vӅ các liӋu và thuyӃt minh trên báo cáo tài chính hӧp nhҩtCác thӫ tөc kiӇm toán ÿѭӧc lӵa chӑn dӵa trên xé liӋu và thuyӃt minh trên báo cáo tài chính hӧp nhҩt. Các thӫ tөc kiӇm toán ÿѭӧc lӵa chӑn dӵa trên xét Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhấtCác thủ tục kiểm toán được lựa chọn dựa trên liӋu và thuyӃt minh trên báo cáo tài chính hӧp nhҩt. Các thӫ tөc kiӇm toán ÿѭӧc lӵa chӑn dӵa trên xét ÿoán cӫa kiӇm toán viênbao gӗm ÿánh giá rӫi ro có sai sót trӑng yӃu trong báo cáo tài chính hӧp nhҩ ÿoán cӫa kiӇm toán viên, bao gӗm ÿánh giá rӫi ro có sai sót trӑng yӃu trong báo cáo tài chính hӧp nhҩt số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp ÿoán cӫa kiӇm toán viên, bao gӗm ÿánh giá rӫi ro có sai sót trӑng yӃu trong báo cáo tài chính hӧp nhҩ do gian lұn hoһc nhҫm lүnKhi thӵc hiӋn ÿánh giá các rӫi ro nàykiӇm toán viên ÿã xem xét kiӇm soá do gian lұn hoһc nhҫm lүn. Khi thӵc hiӋn ÿánh giá các rӫi ro này, kiӇm toán viên ÿã xem xét kiӇm soát xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫnKhi thực hiện đánh giá các rủi ro nàykiểm toán viên đã xem xét kiểm do gian lұn hoһc nhҫm lүn. Khi thӵc hiӋn ÿánh giá các rӫi ro này, kiӇm toán viên ÿã xem xét kiӇm so Qӝi bӝ cӫa Tұp ÿoàn liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt trung thӵchӧp lý Qӝi bӝ cӫa Tұp ÿoàn liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt trung thӵc, hӧp lý nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực Qӝi bӝ cӫa Tұp ÿoàn liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt trung thӵc, hӧp lý nhҵm thiӃt kӃ các thӫ tөc kiӇm toán phù hӧp vӟi tình hình thӵc tӃtuy nhiên không nhҵm mөc ÿích ÿѭa nhҵm thiӃt kӃ các thӫ tөc kiӇm toán phù hӧp vӟi tình hình thӵc tӃ, tuy nhiên không nhҵm mөc ÿích ÿѭa soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tếtuy nhiên không nhằm mục nhҵm thiӃt kӃ các thӫ tөc kiӇm toán phù hӧp vӟi tình hình thӵc tӃ, tuy nhiên không nhҵm mөc ÿích ÿѭ ra ý kiӃn vӅ hiӋu quҧ cӫa kiӇm soát nӝi bӝ cӫa Tұp ÿoànCông viӋc kiӇm toán cNJng bao gӗm ÿánh giá ra ý kiӃn vӅ hiӋu quҧ cӫa kiӇm soát nӝi bӝ cӫa Tұp ÿoàn. Công viӋc kiӇm toán cNJng bao gӗm ÿánh giá hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoànCông việc kiểm toán cũng bao gồm ra ý kiӃn vӅ hiӋu quҧ cӫa kiӇm soát nӝi bӝ cӫa Tұp ÿoàn. Công viӋc kiӇm toán cNJng bao gӗm ÿánh g tính thích hӧp cӫa các chính sách kӃ toán ÿѭӧc áp dөng và tính hӧp lý cӫa các ѭӟc tính kӃ toán cӫa tính thích hӧp cӫa các chính sách kӃ toán ÿѭӧc áp dөng và tính hӧp lý cӫa các ѭӟc tính kӃ toán cӫa đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồ đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính k tính thích hӧp cӫa các chính sách kӃ toán ÿѭӧc áp dөng và tính hӧp lý cӫa các ѭӟc Ban ĈLӅu hành cNJng nhѭÿánh giá viӋc trình bày tәng thӇ báo cáo tài chính hӧp nhҩt Ban ĈLӅu hành cNJng nhѭ\u0003ÿánh giá viӋc trình bày tәng thӇ báo cáo tài chính hӧp nhҩt. đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của toán của Ban Điều hành cũng như đánh giá việc trình bày tổng thể báo cáo tài chính Công viӋc kiӇm toán bao gӗm thӵc hiӋn các thӫ tөc nhҵm thu thұp các bҵng chӭng kiӇm toán vӅ các s ӃҩӇ Công viӋc kiӇm toán bao gӗm thӵc hiӋn các thӫ tөc nhҵm thu thұp các bҵng chӭng kiӇm toán vӅ các sӕ Ӌu và thuyӃt minh trên báo cáo tài chính hӧp nhҩtCác thӫ tөc kiӇm toán ÿѭӧc lӵa chӑn dӵa trên xét Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các liӋu và thuyӃt minh trên báo cáo tài chính hӧp nhҩt. Các thӫ tөc kiӇm toán ÿѭӧc lӵa chӑn dӵa trên xét ӇӗӃҩ Ӌu và thuyӃt minh trên báo cáo tài chính hӧp nhҩt. Các thӫ tөc kiӇm toán ÿѭӧc lӵa chӑn dӵa trên xét ÿoán cӫa kiӇm toán viên bao gӗm ÿánh giá rӫi ro có sai sót trӑng yӃu trong báo cáo tài chính hӧp nhҩt số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên ÿoán cӫa kiӇm toán viên, bao gӗm ÿánh giá rӫi ro có sai sót trӑng yӃu trong báo cáo tài chính hӧp nhҩ ҫүӇӇ ÿoán cӫa kiӇm toán viên, bao gӗm ÿánh giá rӫi ro có sai sót trӑng yӃu trong báo cáo tài chính hӧp nhҩt do gian lұn hoһc nhҫm lүnKhi thӵc hiӋn ÿánh giá các rӫi ro nàykiӇm toán viên ÿã xem xét kiӇm soát xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp do gian lұn hoһc nhҫm lүn. Khi thӵc hiӋn ÿánh giá các rӫi ro này, kiӇm toán viên ÿã xem xét kiӇm soá Ӄҩ do gian lұn hoһc nhҫm lүn. Khi thӵc hiӋn ÿánh giá các rӫi ro này, kiӇm toán viên ÿã xem xét kiӇm soát Qӝi bӝ cӫa Tұp ÿoàn liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt trung thӵchӧp lý nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm Qӝi bӝ cӫa Tұp ÿoàn liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt trung thӵc, hӧp lý ҵӃӃ ӇӃҵ Qӝi bӝ cӫa Tұp ÿoàn liên quan ÿӃn viӋc lұp và trình bày báo cáo tài chính hӧp nhҩt trung thӵc, hӧp lý nhҵm thiӃt kӃ các thӫ tөc kiӇm toán phù hӧp vӟi tình hình thӵc tӃtuy nhiên không nhҵm mөc ÿích ÿѭa soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, nhҵm thiӃt kӃ các thӫ tөc kiӇm toán phù hӧp vӟi tình hình thӵc tӃ, tuy nhiên không nhҵm mөc ÿích ÿѭ ӃӅ ӇӇӗ nhҵm thiӃt kӃ các thӫ tөc kiӇm toán phù hӧp vӟi tình hình thӵc tӃ, tuy nhiên không nhҵm mөc ÿích ÿѭa a ý kiӃn vӅ hiӋu quҧ cӫa kiӇm soát nӝi bӝ cӫa Tұp ÿoànCông viӋc kiӇm toán cNJng bao gӗm ÿánh giá hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục ra ý kiӃn vӅ hiӋu quҧ cӫa kiӇm soát nӝi bӝ cӫa Tұp ÿoàn. Công viӋc kiӇm toán cNJng bao gӗm ÿánh giá Ӄ Ӄ a ý kiӃn vӅ hiӋu quҧ cӫa kiӇm soát nӝi bӝ cӫa Tұp ÿoàn. Công viӋc kiӇm toán cNJng bao gӗm ÿánh giá ính thích hӧp cӫa các chính sách kӃ toán ÿѭӧc áp dөng và tính hӧp lý cӫa các ѭӟc tính kӃ toán cӫa đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm tính thích hӧp cӫa các chính sách kӃ toán ÿѭӧc áp dөng và tính hӧp lý cӫa các ѭӟc tính kӃ toán cӫa ӅәӇ ҩ ính thích hӧp cӫa các chính sách kӃ toán ÿѭӧc áp dөng và tính hӧp lý cӫa các ѭӟc tính kӃ toán cӫa Ban ĈLӅu hành cNJng nhѭÿánh giá viӋc trình bày tәng thӇ báo cáo tài chính hӧp nhҩt đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế Ban ĈLӅu hành cNJng nhѭ\u0003ÿánh giá viӋc trình bày tәng thӇ báo cáo tài chính hӧp nhҩt. Ban ĈLӅu hành cNJng nhѭ\u0003ÿánh giá viӋc trình bày tәng thӇ báo cáo tài chính hӧp nhҩt. toán của Ban Điều hành cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo thông qua việc áp dụng giả định thận trọng để tránh các biến động bất lợi trong thực tiễn. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảo Việt Nhân thọ đang sử dụng Bảng tỷ lệ tử vong CSO 1980.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: SỰ HIỆN DIỆN TRÊN THỊ TRƯỜNG ; column_headers: Khu vực trọng điểm | Khu vực Hà Nội | Khu vực Nghệ An | Khu vực TP HCM | Bình quân Bảo Việt | Lương tối thiểu vùng | 3.750.000 | 2.900.000 | Lương thực trả của nhân viên tuyển dụng mới | Lương thấp nhất | Lương bình quân [ROWS] Khu vực trọng điểm | Khu vực Hà Nội | Khu vực Nghệ An | Khu vực TP HCM | Bình quân Bảo Việt [ROW] Lương tối thiểu vùng | 3.750.000 | 2.900.000 | 3.750.000 | 3.750.000 [ROW] Lương thực trả của nhân viên tuyển dụng mới | Lương thấp nhất | Lương bình quân | Lương thấp nhất | Lương bình quân | Lương thấp nhất | Lương bình quân | Lương thấp nhất | Lương bình quân [ROW] Nam | 4.129.000 | 9.474.803 | 6.500.000 | 6.900.000 | 4.129.000 | 6.313.680 | 4.129.000 | 8.531.953 [ROW] Nữ | 4.129.000 | 8.314.677 | 5.500.000 | 6.208.333 | 4.129.000 | 6.956.958 | 4.129.000 | 7.886.133 [ROW] Lương thực trả bình quân của nhân viên tuyển dụng mới (cả nam, nữ) | 4.129.000 | 8.894.740 | 6.000.000 | 6.554.167 | 4.129.000 | 6.635.319 | 4.129.000 | 8.209.043 [ROW] Tỷ lệ (%) mức lương thực trả của nhân viên nam tuyển mới so với mức lương tối thiểu vùng | 110% | 253% | 224% | 238% | 110% | 168% | 110% | 228% [ROW] Tỷ lệ (%) mức lương thực trả của nhân viên nữ tuyển mới so với mức lương tối thiểu vùng | 110% | 222% | 190% | 214% | 110% | 186% | 110% | 210% [ROW] Tỷ lệ (%) mức lương thực trả của nhân viên bình quân (cả nam, nữ) so với mức lương tối thiểu vùng | 110% | 237% | 207% | 226% | 110% | 177% | 110% | 219%",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Các cấu phần của Hệ thống kiểm soát nội bộ Tập đoàn Bảo Việt và Đánh giá của Khối Kiểm toán nội bộ ; column_headers: Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận ; row_headers: 7. Nhận diện rủi ro liên quan đến việc hoàn thành mục tiêu xuyên suốt toàn Tập đoàn và phân tích rủi ro làm cơ sở cho việc xác định cách thức quản lý rủi ro | 8. Xem xét nguy cơ gian lận khi đánh giá rủi ro liên quan đến việc hoàn thành các mục tiêu | 9. Nhận diện và đánh giá các thay đổi có thể ảnh hưởng đáng kể đến hệ thống kiểm soát nội bộ | 10. Lựa chọn và phát triển các hoạt động kiểm soát nhằm giảm thiểu rủi ro ở mức độ có thể chấp nhận được | 11. Lựa chọn và phát triển các hoạt động kiểm soát chung về công nghệ thông tin để hỗ trợ thực hiện các mục tiêu | 12. Triển khai các hoạt động kiểm soát thông qua các chính sách và thủ tục [ROWS] Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận [ROW] 7. Nhận diện rủi ro liên quan đến việc hoàn thành mục tiêu xuyên suốt toàn Tập đoàn và phân tích rủi ro làm cơ sở cho việc xác định cách thức quản lý rủi ro | Ban hành Quy chế quản lý rủi ro nhằm nhận diện, kiểm soát và báo cáo về các rủi ro chính, bao gồm: rủi ro bảo hiểm, rủi ro hoạt động, rủi ro thị trường, rủi ro tín dụng, rủi ro thanh khoản, rủi ro danh tiếng, rủi ro chiến lược, rủi ro phát triển bền vững; Quy chế quản lý rủi ro quy định rõ cơ cấu tổ chức, quyền hạn và trách nhiệm của các cấp trong công tác quản lý rủi ro; cách thức nhận diện các rủi ro trọng yếu và các chuẩn mực quản trị rủi ro trong hoạt động kinh doanh của Tập đoàn Bảo Việt và các Công ty con | ü | ü [ROW] 8. Xem xét nguy cơ gian lận khi đánh giá rủi ro liên quan đến việc hoàn thành các mục tiêu | Rủi ro gian lận là một trong số các loại rủi ro được nhận diện, đánh giá trong Quy chế quản lý rủi ro, Chính sách quản lý rủi ro. | ü | ü [ROW] 9. Nhận diện và đánh giá các thay đổi có thể ảnh hưởng đáng kể đến hệ thống kiểm soát nội bộ | Các vấn đề liên quan đến rủi ro (ví dụ: các yếu tố tác động từ môi trường bên ngoài như chính sách, cơ chế, chính trị...) được phản ánh trong các Báo cáo Ban điều hành đồng thời được phân tích, đánh giá và xử lý tại các cuộc họp định kỳ của Hội đồng Quản lý rủi ro (RMC) và Ủy ban Tài sản Nợ - Tài sản có (ALCO). | ü | ü [ROW] Tên cấu phần: Hoạt động kiểm soát [ROW] 10. Lựa chọn và phát triển các hoạt động kiểm soát nhằm giảm thiểu rủi ro ở mức độ có thể chấp nhận được | Các biện pháp kiểm soát được thiết lập và vận hành đối với mọi hoạt động tại tất cả các cấp, được lồng ghép trong các tác nghiệp hàng ngày ở tất cả các quy trình nghiệp vụ. | ü | ü [ROW] 11. Lựa chọn và phát triển các hoạt động kiểm soát chung về công nghệ thông tin để hỗ trợ thực hiện các mục tiêu | Các loại hình kiểm soát chính bao gồm: Kiểm soát định hướng, Kiểm soát phòng ngừa, Kiểm soát phát hiện; Kiểm soát thủ công, Kiểm soát tự động. Trong đó kiểm soát tự động thông qua hệ thống CNTT đóng vai trò quan trọng nhằm hạn chế sai sót và tác động của con người tới hiệu quả của kiểm toán. | ü | ü [ROW] 12. Triển khai các hoạt động kiểm soát thông qua các chính sách và thủ tục | Các biện pháp kiểm soát chính bao gồm: rà soát kết quả hoạt động của Ban điều hành cấp cao, từng phòng ban; thẩm định, phê duyệt; phân tích các chỉ số KPIs... | ü | ü",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Về đối xử bình đẳng với cổ đông ; column_headers: Tiêu chí | Kết quả đánh giá | Giải thích kết quả [ROWS] Tiêu chí | Kết quả đánh giá | Giải thích kết quả [ROW] Thông báo và tài liệu họp ĐHĐCĐ | + | - Công bố thông báo họp và các tài liệu liên quan song ngữ Anh – Việt trên website của Bảo Việt; - Cung cấp đầy đủ cơ sở, thông tin và giải trình cho các vấn đề trình ĐHĐCĐ thông qua tại Đại hội; [ROW] Công bố thông tin về ứng viên HĐQT, chính sách chi trả cổ tức | + | Công bố đầy đủ trong tài liệu ĐHĐCĐ và Báo cáo thường niên [ROW] Chất lượng và thời gian công bố tài liệu ĐHĐCĐ bằng tiếng Anh | + | Thông báo và tài liệu ĐHĐCĐ gần nhất đã được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu tiếng Việt. [ROW] Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao | _ | Công ty chưa có quy định yêu cầu phải có một tiểu ban bao gồm các thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông. [ROW] _ | Công ty chưa có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích, chỉ quy định không được biểu quyết. [ROW] + | Công ty quy định tại Điều lệ và Quy chế quản trị yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: PHỐI HỢP VỚI CÁC NHÀ CUNG CẤP THỰC HIỆN BIỆN PHÁP BẢO VỆ MÔI TRƯỜNG ; column_headers: STT | Hợp đồng với các nhà cung cấp | Giá TRỊ HỢP ĐỒNG 2016 | 2016 | 2017 [ROWS] STT | Hợp đồng với các nhà cung cấp | Hợp đồng với các nhà cung cấp | Giá TRỊ HỢP ĐỒNG 2016 [ROW] 2016 | 2017 [ROW] 1 | Hợp đồng thu gom rác sinh hoạt | • Cung cấp công cụ thu gom chất thải • Thu gom chất thải phát sinh trong hoạt động sản xuất kinh doanh | 32.328.000 | 32.328.000 [ROW] 2 | Hợp đồng vận chuyển chất thải nguy hại | • Cung cấp phương tiện vận chuyển • Vận chuyển chất thải tới địa điểm xử lý (Khu liên hợp xử lý chất thải Nam Sơn) lưu trữ và xử lý chất thải | 26.400.000 | 26.400.000 [ROW] 3 | Hợp đồng vệ sinh toàn tòa nhà | • Vệ sinh hằng ngày và định kì theo tuần khuôn viên tòa nhà • Kiểm soát sử dụng nước, giấy vệ sinh, hóa chất tẩy rửa • Tập kết rác thải sinh hoạt, thu thập và tái chế giấy đã qua sử dụng | 928.884.000 | 1.038.180.000 [ROW] 4 | Hợp đồng thực hiện quan trắc môi trường định kỳ | • Thu thập mẫu, phân tích mẫu quan trắc định kỳ về nước thải sinh hoạt, khí độc, nồng độ bụi • Lập báo cáo kết quả và kiến nghị duy trì chỉ số môi trường | 23.408.000 | 23.408.000 [ROW] 5 | Hợp đồng vận hành, bảo trì trạm xử lý nước thải | • Vận hành, kiểm soát khối lượng và tình hình xử lý nước thải • Bảo trì hệ thống xử lý nước thải tránh sự cố tràn, vỡ ống cống ô nhiễm môi trường | 88.000.000 | 66.000.000 [ROW] 6 | Hợp đồng bảo trì hệ thống M&E | • Bảo trì, duy trình khả năng quản lý điện, giảm sự cố điện, bảo về an toàn người lao động và sử dụng điện hiệu quả | 1.227.600.000 | 1.227.600.000 [ROW] 7 | Hợp đồng bảo trì thang máy | • Bảo trì, duy trì thời gian sử dụng, giảm sự cố thang máy, bảo vệ an toàn người lao động và sử dụng điện hiệu quả | 184.252.992 | 189.619.584 [ROW] 8 | Hợp đồng bảo trì trạm biến thế | • Bảo trì, giảm sự cố điện, duy trình khả năng sử dụng điện hiệu quả, phòng tránh cháy nổ | 30.965.150 | 30.965.150 [ROW] TỔNG | 2.541.838.142 | 2.634.500.734",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 16,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Ảnh hưởng đến lợi nhuận báo cáo và vốn chủ sở hữu ; column_headers: Thay đổi biến % | Thay đổi nghĩavụ được bảo hiểm (triệu VND) | Ảnhhưởng đếnnguồn vốnchủ sở hữu (triệu VND) ; row_headers: Tỷ lệ chiết khấu | Tỷ lệ tử vong [ROWS] Thay đổi biến % | Thay đổi nghĩavụ được bảo hiểm (triệu VND) | Ảnhhưởng đếnnguồn vốnchủ sở hữu (triệu VND) [ROW] Ngày 31 tháng 12 năm 2017 [ROW] Tỷ lệ chiết khấu | +0,25 | (260.318) | 208.255 [ROW] Tỷ lệ chiết khấu | -0,25 | 387.142 | (309.713) [ROW] Tỷ lệ tử vong | +10 | 12.063 | (9.650) [ROW] Tỷ lệ tử vong | -10 | (2.562) | 2.050 [ROW] Tỷ lệ tử vong | +20 | 29.510 | (23.608) [ROW] Tỷ lệ tử vong | -20 | 10.032 | (8.026) [ROW] Ngày 31 tháng 12 năm 2016 [ROW] Tỷ lệ chiết khấu | +0,25 | (241.278) | 186.315 [ROW] Tỷ lệ chiết khấu | -0,25 | 345.687 | (266.940) [ROW] Tỷ lệ tử vong | +10 | 51.775 | (39.981) [ROW] Tỷ lệ tử vong | -10 | (33.566) | 25.920 [ROW] Tỷ lệ tử vong | +20 | 119.588 | (92.346) [ROW] Tỷ lệ tử vong | -20 | (48.818) | 37.697",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 9
+      }
+    }
+  ]
+}

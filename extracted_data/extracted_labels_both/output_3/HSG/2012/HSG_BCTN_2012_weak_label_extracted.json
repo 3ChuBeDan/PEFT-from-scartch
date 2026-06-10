@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: Năng lực sản xuất ; column_headers: Đơn vị quản lý | Dây chuyền sản xuất chính | Số lượng | Tổng công suất thiết kế (Tấn/năm) ; row_headers: Công ty Cổ phần Tập đoàn Hoa Sen Số 9, Đại lộ Thống Nhất, KCN Sóng Thần 2, Phường Dĩ An, Thị xã Dĩ An, Tỉnh Bình Dương | Chi nhánh Nhà máy Tôn Hoa Sen Phú Mỹ Đường số 1B, KCN Phú Mỹ 1, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu | Công ty TNHH MTV Tôn Hoa Sen Số 9, Đại lộ Thống Nhất, KCN Sóng Thần 2, Phường Dĩ An, Thị xã Dĩ An, Tỉnh Bình Dương | Công ty TNHH MTV Vật liệu - Xây dựng Hoa Sen KCN Phú Mỹ 1, Thị trấn Phú Mỹ, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu [ROWS] Đơn vị quản lý | Dây chuyền sản xuất chính | Số lượng | Tổng công suất thiết kế (Tấn/năm) [ROW] Công ty Cổ phần Tập đoàn Hoa Sen Số 9, Đại lộ Thống Nhất, KCN Sóng Thần 2, Phường Dĩ An, Thị xã Dĩ An, Tỉnh Bình Dương | Dây chuyền mạ kẽm/nhôm kẽm (công nghệ NOF - thép mỏng) | 1 | 150.000 [ROW] Dây chuyền mạ màu | 2 | 90.000 [ROW] Cụm lò ủ | 1 | 42.000 [ROW] Chi nhánh Nhà máy Tôn Hoa Sen Phú Mỹ Đường số 1B, KCN Phú Mỹ 1, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu | Dây chuyền mạ kẽm/nhôm kẽm (công nghệ NOF - thép dày) | 1 | 450.000 [ROW] Dây chuyền mạ kẽm/nhôm kẽm (công nghệ NOF - thép mỏng) | 1 | 100.000 [ROW] Dây chuyền mạ màu | 1 | 180.000 [ROW] Cụm lò ủ | 2 | 142.000 [ROW] Công ty TNHH MTV Tôn Hoa Sen Số 9, Đại lộ Thống Nhất, KCN Sóng Thần 2, Phường Dĩ An, Thị xã Dĩ An, Tỉnh Bình Dương | Dây chuyền cán nguội | 3 | 580.000 [ROW] Dây chuyền tẩy rỉ | 2 | 950.000 [ROW] Dây chuyền tái sinh axít | 1 | 5.000 lít/giờ [ROW] Công ty TNHH MTV Vật liệu - Xây dựng Hoa Sen KCN Phú Mỹ 1, Thị trấn Phú Mỹ, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu | Dây chuyền thép hộp và ống thép | 17 | 150.000 [ROW] Dây chuyền ống nhựa | 12 | 30.000",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Luôn tạo điều kiện cho người lao động làm việc, giao công việc phù hợp với khả năng. Đồng thời xây dựng các mối quan hệ nhân sự gắn bó, tinh thần đồng đội, tạo tinh thần đoàn kết là môi trưòng quan trọng nhất trong công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bằng chữ tâm lớn trên tinh thần tương thân, tương ái, trong nhiều năm qua, Công ty và CBCNV đã tích cực tham gia các hoạt động xã hội, các hoạt động từ thiện và bảo vệ môi trường của địa phương dưới nhiều hình thức tài trợ, quyên góp tiền, viếng thăm, tặng hiện vật .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S0"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S0"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

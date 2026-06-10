@@ -1,0 +1,107 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 581,
+      "text": "Tập đoàn áp dụng các giải pháp tuần hoàn khép kín hiện đại nhất, thân thiện với môi trường. Khí thải từ quá trình luyện gang lò cao, thiêu kết, luyện thép được giám sát tự động liên tục. Nhiệt dư, khí than trong quá trình luyện than coke, luyện gang thép được tận dụng tối đa để vận hành máy phát điện, phục vụ trở lại sản xuất. Nhà máy luyện cốc sử dụng phương pháp làm nguội cốc bằng công nghệ dập coke khô (CDQ) cho phép thu hồi nhiệt để phát điện. Toàn bộ bụi từ các hệ thống lọc bụi đều được thu hồi tuần hoàn chuyển sang công đoạn thiêu kết để làm nguyên liệu.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 593,
+      "text": "Khu liên hợp tại Hải Dương không xảy ra sự cố dẫn đến vi phạm pháp luật về môi trường, lượng khí thải CO2 giảm 228.800 tấn so với năm trước. Kết quả quan trắc định kỳ hàng quý do các đơn vị chức năng thực hiện cho thấy, các chỉ số môi trường (khí thải, nước thải, tiếng ồn, không khí xung quanh,...) đều đảm bảo quy định hiện hành. Công ty CP Thép Hòa Phát Hải Dương đặt mục tiêu hướng đến thực hiện nồng độ khí thải SO2 nhỏ hơn 250mg/Nm3 đối với khí thải các phân xưởng thiêu kết.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.20767,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 599,
+      "text": "Trong lĩnh vực gia cầm, Công ty đã đầu tư hàng loạt các hạng mục bảo vệ môi trường theo quy định. Các biện pháp xử lý mùi, xử lý phân được nghiên cứu và thực hiện nghiêm ngặt. Toàn bộ phân gà phát sinh được xử lý thành phân hữu cơ, độ ẩm thấp, phục vụ cho ngành trồng trọt. Công suất 2 nhà xử lý phân theo công nghệ Hàn Quốc đạt 300 tấn/ngày, đảm bảo xử lý triệt để chất thải phát sinh, hạn chế tối đa phát tán mùi ra môi trường xung quanh. Ngoài ra, trạm xử lý nước thải tập trung có công suất 150m3/ngày đêm, đảm bảo xử lý triệt để nguồn nước thải, đáp ứng tốt các quy chuẩn hiện hành trước khi xả ra môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1079,
+      "text": "[TABLE] [CONTEXT] section: Cấu trúc Tập đoàn [ROWS] 1/1/2022 Tỷ lệ lợi ích của Tập đoàn 31/12/2022 | 99,958% 99,997% 99,998% 99,998% 99,517% 99,969% 99,960% 99,994% 99,827% 99,910% 99,794% 99,899% 99,974% 99,999% 99,999% 99,746% 99,800% 99,800% 0% [ROW] 99,958% 99,997% 99,998% 99,998% 99,518% 99,971% 99,969% 99,994% 99,734% 99,910% 99,794% 99,916% 99,974% 99,999% 99,999% 99,936% 99,867% 99,930% 99,967% [ROW] Hoạt động chính | Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung tr ong đó chủ yếu là quặng sắt. | Sản xuất thép, gang, khai thác quặng sắt, khai thác và thu gom than non; bán buôn kim loại và quặng kim loại; và sản xuất, mua bán than cốc. Sản xuất sắt, thép, gang, khai thác quặng sắt; bán buôn kim loại và quặng kim loại; sản xuất mua bán than cốc và các ngành nghề liên quan khác. Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại.Vận tải hàng hóa ven biển, đường thủy nội địa và viễn dương.Khai thác quặng sắt, khai thác kim loại khác không chứa sắt, sản xuất kim loại màu và kim loại | quý. Sản xuất và kinh doanh thương mại ống thép. Sản xuất và kinh doanh các loại tôn mạ kẽm, tôn mạ màu và tôn mạ lạnh.Sản xuất và kinh doanh thương mại sản phẩm điện lạnh.Sản xuất thiết bị xây dựng; kinh doanh thương mại máy móc và thiết bị xây dựng và khai thác | khoáng sản loại nhỏ và vừa.Sản xuất và kinh doanh Container. Chăn nuôi trâu, bò; hoạt động dịch vụ trồng trọt, chăn nuôi và sau thu hoạch.Chăn nuôi, cung cấp heo giống, heo thịt.Sản xuất, buôn bán thức ăn và nguyên liệu làm thức ăn gia súc, gia cầm và thủy sản. | Chăn nuôi gia cầm. Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật.Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê.Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. [ROW] Công ty con cấp 2 | Công ty CP Đầu tư Khoáng sản An Thông Công ty CP Thép Hòa Phát Hải Dương Công ty CP Thép Hòa Phát Dung Quất Công ty TNHH Thép Hòa Phát Hưng Yên Công ty CP Vận tải biển Hòa Phát (ii) Công ty CP Đầu tư Nước ngoài Hòa Phát (trước đây là Công ty CP Khoáng sản Bắc Úc) (ii) Công ty TNHH Ống thép Hòa Phát Công ty TNHH Tôn Hòa Phát Công ty TNHH Điện lạnh Hòa Phát (iii) Công ty TNHH Chế tạo Kim loại | Hòa Phát Công ty CP Sản xuất Container Hòa Phát Công ty TNHH Thương mại Hòa Phát Công ty CP Phát triển Chăn nuôi Hòa Phát | Công ty TNHH Thức ăn Chăn nuôi Hòa Phát Hưng Yên Công ty TNHH Gia cầm Hòa Phát Công ty CP Xây dựng và Phát triển Đô thị Hòa Phát Công ty CP Phát triển Bất động sản | Hòa Phát Sài Gòn Công ty CP Phát triển Bất động sản | Hòa Phát Hà Nội",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1081,
+      "text": "[TABLE] [CONTEXT] section: Cấu trúc Tập đoàn [ROWS] 1/1/2022 | Sản xuất và bán buôn than cốc, khai thác và thu gom than cứng; s sản xuất sản phẩm dầu mỏ tinh chế; 99,958% 98,379% 99,887% 99,985% 99,985% 99,988% 99,998% 99,998% 99,998% 99,998% 99,968% 99,958% 98,379% 99,887% 99,988% 99,985% 99,988% 99,998% 99,998% 99,998% 99,998% 99,968% [ROW] Tỷ lệ lợi ích của Tập đoàn 31/12/2022 [ROW] n xuất kim loại màu và kim loại quý, | m; bán buôn kim loại và quặng kim loại. [ROW] c và than các loại. [ROW] Khai thác và sản xuất quặng sắt, bô xít và các kim loại quý hiế | Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại. Kho bãi và lưu giữ hàng hóa; bốc xếp hàng hóa. [ROW] Hoạt động chính [ROW] bán buôn kim loại và quặng kim loại; và buôn bán than luyện cốc [ROW] Khai thác quặng sắt, khai thác kim loại khác không chứa sắt, sả | khai thác quặng kim loại quý hiếm. [ROW] Dịch vụ khách sạn. [ROW] Sản xuất sắt, thép, gang. Sản xuất sắt, thép, gang. Sản xuất sắt, thép, gang. | Kinh doanh thương mại sắt, thép, gang. Dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy. [ROW] Công ty con cấp 3 [ROW] Công ty TNHH MTV Bình Vàng Công ty CP Khoáng sản Hòa Phát Mitraco Công ty CP Năng lượng Hòa Phát Công ty CP Hợp kim sắt Hòa Phát Dung Quất Công ty CP Ống thép Hòa Phát Dung Quất Công ty CP Tôn Hòa Phát Dung Quất Hoa Phat Trading International Pte Ltd. Công ty CP Cảng Tổng hợp Hòa Phát Công ty TNHH Harmonia Công ty TNHH MTV Hòa Phát Bình Định Công ty TNHH Thương mại Dịch vụ [ROW] 1 [ROW] STT [ROW] 2 | 4 5 8 [ROW] 6 [ROW] 1011 [ROW] 9 [ROW] 3 | 7",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "S4": 0.321288
+      },
+      "themes": [
+        "E3",
+        "S4"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4,
+        "S4": 1
+      }
+    }
+  ]
+}

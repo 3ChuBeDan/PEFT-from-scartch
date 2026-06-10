@@ -1,0 +1,125 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 309,
+      "text": "Công tác quản lý rủi ro gian lận (QLRRGL) bắt đầu được chú trọng với việc Quy định chung QLRRGL. Các quy định, quy trình , thuật toán (rules) về quản lý rủi ro gian lận trong giao dịch thẻ và internet banking được cập nhật định kỳ nhằm ngăn ngừa và phát hiện sớm các rủi ro gian lận",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 564,
+      "text": "Ban Tái cấu trúc Quản trị và Quản lý điều hành gồm 18 thành viên, Trưởng ban là Ông Đỗ Quang Hiển. Ban Tái cấu trúc Quản trị và Quản lý điều hành có nhiệm vụ đầu mối làm việc và lựa chọn các đối tác tư vấn uy tín trong và ngoài nước về việc tái cấu trúc quản trị và quản lý điều hành ngân hàng; Chỉ đạo công tác nghiên cứu, triển khai thực hiện tái cấu trúc công tác quản trị điều hành (bao gồm rà soát hoàn thiện các quyết định về thẩm quyền của HĐQT, TGĐ, các chức danh quản lý tại SHB), tổ chức bộ máy, chức năng nghiệm vụ, hệ thống chức danh, tiêu chuẩn chức danh tại SHB; Chỉ đạo công tác nghiên cứu, triển khai đổi mới cơ chế vận hành, quy định, quy trình, quy chế trong công tác quản lý điều hành.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 4
+      }
+    },
+    {
+      "paragraph_id": 822,
+      "text": "Nhận thức rõ hệ thống ngân hàng đóng vai trò như một mắt xích trung gian có tác động đến môi trường thông qua hoạt động của khách hàng, SHB đã xanh hóa dòng vốn đầu tư thông qua việc hướng các nguồn lực tài chính vào những lĩnh vực xanh như doanh nghiệp ứng dụng công nghệ cao, các dự án năng lượng tái tạo, công nghiệp hỗ trợ, nông nghiệp nông thôn, các dự án thủy điện nhỏ và vừa, sinh khối, xử lý nước thải, rác thải... nhằm tăng dần tỷ trọng tín dụng xanh trong cơ cấu danh mục đầu tư tín dụng, góp phần thúc đẩy khách hàng vay vốn chuyển đổi dự án và mục đích sử dụng vốn vay sang các dự án thân thiện với môi trường:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 826,
+      "text": "Đồng hành cùng Chiến lược phát triển năng lượng tái tạo của Việt Nam đến năm 2030 với mục tiêu đạt tỷ lệ điện năng sản xuất từ các nguồn năng lượng tái tạo (không bao gồm nguồn thuỷ điện lớn, vừa và thuỷ điện tích năng) khoảng 7% vào năm 2020 và trên 10% vào năm 2030, SHB cũng đã và đang mạnh tay rót vốn cho các dự án năng lượng sạch/ năng lượng tái tạo như: Dự án \"Lưới điện thông minh - Hiệu quả trong truyền tải điện\" (giai đoạn 1) trị giá 65 triệu EUR và Dự án \"Lưới điện hiệu quả tại các thành phố nhỏ và vừa\" (giai đoạn 1 và 2) trị giá 350 triệu EUR do Chính phủ Đức tài trợ thông qua Ngân hàng Tái thiết Đức.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1262,
+      "text": "[TABLE] [CONTEXT] section: Cơ hội ; column_headers: Yếu tố vĩ mô | Tác động lên hệ thống Ngân hàng trong đó có SHB | Xu hướng | Trung Hạn | Dài hạn ; row_headers: >Tăng trưởng kinh tế ổn định; cơ cấu tăng trưởng chuyển dịch sang hướng bền vững | >Lạm phát ổn định và được điều hành thận trọng không đánh đổi để đạt được tăng trưởng | >Lĩnh vực sản xuất tiềm năng, và liên tục được cải thiện | >Khu vực tư nhân được đề cao\u0002 là đầu tàu dẫn dắt tăng trưởng | Hấp thụ dòng vốn đầu tư dài hạn | >Cơ cấu dân số lao động trẻ tăng và có xu hướng chuyển dịch sang vùng kinh tế trọng tâm | >Thương mại chịu XNK chịu nhiều áp lực ngắn hạn từ xung đột lợi ích thương mại toàn cầu giữa các nước lớn | >Tham gia các hiệp định thương mại toàn cầu như: FTA\u0002 EU; CTTP giúp Việt Nam tham gia vào chuỗi giá trị toàn cầu [ROWS] Yếu tố vĩ mô | Tác động lên hệ thống Ngân hàng trong đó có SHB [ROW] Xu hướng | Trung Hạn | Dài hạn [ROW] >Tăng trưởng kinh tế ổn định; cơ cấu tăng trưởng chuyển dịch sang hướng bền vững | Ổn định | Tích cực | Tích cực [ROW] >Lạm phát ổn định và được điều hành thận trọng không đánh đổi để đạt được tăng trưởng | Ổn định | Tích cực | Tích cực [ROW] >Lĩnh vực sản xuất tiềm năng, và liên tục được cải thiện | Tăng | Tích cực | Tích cực [ROW] >Khu vực tư nhân được đề cao\u0002 là đầu tàu dẫn dắt tăng trưởng | Tăng | Tích cực | Tích cực [ROW] Hấp thụ dòng vốn đầu tư dài hạn | Tăng | Tích cực | Tích cực [ROW] >Cơ cấu dân số lao động trẻ tăng và có xu hướng chuyển dịch sang vùng kinh tế trọng tâm | Tăng | Tích cực | Tích cực [ROW] >Thương mại chịu XNK chịu nhiều áp lực ngắn hạn từ xung đột lợi ích thương mại toàn cầu giữa các nước lớn | Tăng | Tiêu cực | Ổn định [ROW] >Tham gia các hiệp định thương mại toàn cầu như: FTA\u0002 EU; CTTP giúp Việt Nam tham gia vào chuỗi giá trị toàn cầu | Cải thiện | Tích cực | Tích cực",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.777029,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1292,
+      "text": "[TABLE] [CONTEXT] section: Thuyết minh báo cáo tài chính hợp nhất cho năm ; column_headers: Nhóm | Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm | Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | a. Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc b. Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và | 0% [ROW] 2 | Nợ cần chú ý | a. Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc b. Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | a. Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc b. Nợ gia hạn nợ lần đầu; hoặc c. Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc d. Nợ thuộc một trong các trường hợp sau đầy chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. • Nợ trong thời hạn thu hồi theo kết luận thanh tra. | 20% [ROW] 4 | Nợ nghi ngờ | a. Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc b. Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc c. Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc d. Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc e. Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. | 50% [ROW] 5 | Nợ có khả năng mất vốn | a. Nợ quá hạn trên 360 ngày; hoặc b. Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc c. Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc d. Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã quá hạn; hoặc e. Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc f. Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc g. Nợ của khách hàng là tổ chức tín dụng được NHNNVN công bố đặt vào tình trạng kiểm soát đặc biệt, | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 5
+      }
+    }
+  ]
+}

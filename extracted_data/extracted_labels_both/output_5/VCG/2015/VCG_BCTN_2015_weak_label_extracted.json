@@ -1,0 +1,61 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E9"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E9"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THÔNG TIN HỢP ĐỒNG XÂY LẮP TIÊU BIỂU TỔNG CÔNG TY ĐANG THỰC HIỆN ; column_headers: Chủ đầu tư | Tiến độ | Tên | Nguồn vốn | Bắt đầu | Kết thúc | Giá trị hợp đồng (đồng) | STT | Tên công trình | Thông tin chung về dự án [ROWS] STT | Tên công trình | Giá trị hợp đồng (đồng) | Chủ đầu tư | Tiến độ | Thông tin chung về dự án [ROW] Tên | Nguồn vốn | Bắt đầu | Kết thúc [ROW] 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 [ROW] 10 | Dự án BOT tuyến đường Hà Nội - Bắc Giang (phần xây lắp) | 521,000,000,000 | Bộ Giao thông vận tải | BOT | 2013 | 2016 | Thi công đường với chiều dài tuyến 3189,14Km. Đường ô tô cao tốc vận tốc thiết kế 100km/h, 4 làn xe cơ giới B=33m, đường gom hai bên. Thi công cầu vượt gồm 3 nhịp 41,6m+45m+41,6m =136,4m, rộng 12m; Bản mặt cầu dày 20cm, được nối liên tục nhiệt toàn bộ thành 1 liên 3 nhịp , bê tông 35Mpa. [ROW] 11 | Cục thuế Đà Nẵng | 95,871,000,000 | Cục thuế Đà Nẵng | Ngân sách | 2013 | 2015 | Thi công trụ sở Cục thuế Đà Nẵng [ROW] 12 | Dự án cấp nước và nước thải đô thị tiểu dự án thu gom, xử lý nước thải TP Tam Kỳ | 88,181,000,000 | BQLDA tiểu dự án thu gom, xử lý nước thải | WB | 2014 | 2015 | Xây dựng Nhà máy xử lý nước thải công suất 8000m3/ngđ. Bao gồm: công nghệ trạm xủa lý, hồ kỵ khí, hồ tùy tiện, hồ xử lý triệt để, bể lắng cát, san nền trạm xử lý, cổng hàng rào, sân đường nội bộ, đường vào Trạm xử lý, tuyến kè, cống thoát nước, tuyến ống cấp nước, nhà điều hành 3 tầng, nhà kho, xưởng bảo vệ, nhà xe và sân phơi bùn. [ROW] 13 | Dự án chung cư hỗn hợp văn phòng 97-99 Láng Hạ | 169,768,100,000 | Petrowaco - Vinaconex | Tự có và vốn vay (đồng Chủ đầu tư) | 2015 | 2018 | Cải tạo đồng bộ khu tập thể cũ 97-99 Láng Hạ (28 tầng, trong đó khối đế là 7 tầng).",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E9"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E9"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

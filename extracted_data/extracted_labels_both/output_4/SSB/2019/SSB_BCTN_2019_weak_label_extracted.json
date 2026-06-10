@@ -1,0 +1,52 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S24"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S24"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "chống rửa tiền. Trong năm 2019, SeABank tập trung vào việc phát triển năng lực quản lý, nhận diện rủi ro phòng, chống rửa tiền và tuân thủ FATCA cho cán bộ nhân viên thông qua việc triển khai đào tạo tại chỗ kết hợp đào tạo trực tuyến cho hơn 3.000 lượt cán bộ nhân viên trên toàn hệ thống. SeABank tập trung đẩy mạnh hoạt động truyền thông, phổ biến nâng cao nhận thức về phòng, chống rửa tiền thông qua các bản tin truyền thông được phát hành định kỳ cho toàn bộ CBNV. Năm 2020, SeABank sẽ tiếp tục đẩy mạnh và duy trì văn hóa tuân thủ AML&FATCA thông qua cập nhật hệ thống chính sách, triển khai đào tạo và truyền thông, nâng cao vai trò của ba tuyến bảo vệ, nhận diện rủi ro để tiếp tục tuân thủ các yêu cầu về AML&FATCA trong nước và quốc tế.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "\"Xuân yêu thương\", \"SeABankers vì trẻ thơ\", \"Tuần lễ công dân\", \"Chăn ấm đầu đông\" là các sự kiện thường niên của SeABank nhằm hướng tới đối tượng là các trẻ em nghèo, các bệnh nhi, những người vô gia cư, các gia đình có hoàn cảnh khó khăn... với tổng ngân sách lên tới hàng tỷ đồng. Những hoạt động này đã góp phần chia sẻ về vật chất và tinh thần với những gia đình có hoàn cảnh khó khăn, trẻ em nghèo hiếu học trên cả nước, thể hiện tinh thần tương thân tương ái sâu sắc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

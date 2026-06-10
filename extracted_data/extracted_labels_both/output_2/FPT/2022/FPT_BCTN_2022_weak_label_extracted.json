@@ -1,0 +1,180 @@
+{
+  "extracted_count": 10,
+  "extracted": [
+    {
+      "text": "Xây dựng, ban hành quy định và triển khai ký cam kết phòng chống xung đột lợi ích và kê khai các hoạt động gây rủi ro xung đột lợi ích với công ty đối với CBNV cấp 5 trở lên trên toàn Tập đoàn.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Do đó, khi đầu tư xây dựng các khu văn phòng làm việc hay các tổ hợp đào tạo và công viên phần mềm, FPT luôn ưu tiên việc ứng dụng các công nghệ mới, chất liệu thân thiện với môi trường, tận dụng tối đa các nguồn năng lượng tự nhiên cũng như tăng cường diện tích cây xanh để giảm thiểu tối đa tác động đến môi trường cũng như tiêu thụ năng lượng và xả thải.Về phát thải khí nhà kính, theo lộ trình quy định tại Nghị định số 06/2022/NĐ-CP quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ozon, kể từ năm 2023 các cơ sở có mức tiêu thụ năng lượng ở mức từ 1.000 TOE (Tấn dầu quy đổi) trở lên sẽ phải kiểm kê khí nhà kính, giảm nhẹ phát thải khí nhà kính. Theo dữ liệu thống kê sơ bộ từ các tòa nhà thuộc sở hữu của FPT, mức tiêu thụ điện năng trung bình khoảng 04 triệu kWh, tương đương 700 TOE. Hiện FPT chưa thực hiện đánh giá đo đạc chỉ số phát thải khí nhà kính. Tuy nhiên, đây là mối quan tâm hàng đầu của FPT khi đầu tư vào các tòa nhà văn phòng, các khu campus trên phạm vi toàn quốc. Trong giai đoạn tới, FPT sẽ tiếp tục có những sáng kiến và biện pháp giảm thiểu cũng như đánh giá, đo lường chỉ số này.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 8,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Tổ chức thu gom, phân loại, lưu giữ, vận chuyển và xử lý toàn bộ chất thải rắn sinh hoạt, chất thải rắn công nghiệp, chất thải nguy hại và các loại chất thải khác phát sinh đảm bảo theo đúng các quy định tại Nghị định số 38/2015/ NĐ-CP và Thông tư 36/2015/TT-BTNMT.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "Cùng với các chính sách đãi ngộ trên, và các chế độ phúc lợi theo quy định Pháp luật (bảo hiểm xã hội/y tế/thất nghiệp...), Tập đoàn còn xây dựng các chế độ phúc lợi khác biệt với mục đích chăm sóc toàn diện người lao động và người thân. Chẳng hạn như Chương trình kiểm tra sức khỏe định kỳ cho toàn thể CBNV đã ký hợp đồng lao động chính thức mỗi năm một lần tại các bệnh viện uy tín với chi phí do Tập đoàn chi trả. Hay CBNV có đóng góp lớn cho sự thành công của FPT được hưởng các chính sách về hỗ trợ nhà ở \"An cư lạc nghiệp - Gắn kết dài lâu\", chính sách tri ân, chính sách hiếu. CBNV ký hợp đồng lao động chính thức và người thân được giảm giá khi sử dụng dịch vụ của các công ty thành viên trong Tập đoàn. Hay ngoài các chế độ bảo hiểm chung cho người lao động theo đúng quy định của pháp luật, tất cả CBNV ký hợp đồng chính thức được Tập đoàn mua gói Bảo hiểm sức khỏe theo các mức khác nhau tùy thuộc vào cấp bậc cán bộ. Đồng thời, người thân của CBNV cũng được Tập đoàn hỗ trợ mua gói bảo hiểm sức khoẻ với mức phí ưu đãi.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Hàng năm, FPT đều tổ chức các chương trình tôn vinh, khen thưởng đối với những cá nhân, tập thể có thành tích xuất sắc trong năm ở mọi cấp, từ tập đoàn đến các công ty thành viên, cấp trung tâm, phòng ban. Một số chương trình vinh danh tiêu biểu của FPT như FPT Under 35, Top 100 FPT... được tổ chức với quy mô lớn, sáng tạo ở trong và ngoài nước, đem lại cảm xúc tự hào cho cán bộ nhân viên xuất sắc đạt danh hiệu, lan tỏa tinh thần dấn thân, không giới hạn cho toàn thể cán bộ nhân viên. Đồng thời, chương trình còn là sự tri ân của FPT đối với hậu phương vững chắc - người thân của cán bộ nhân viên.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Ngày hội hiến máu nhân đạo thường xuyên được FPT tổ chức với mong muốn nâng cao tinh thần tương thân tương ái, góp phần chia sẻ khó khăn với những hoàn cảnh kém may mắn trong xã hội. Với tinh thần \"Một giọt máu cho đi, một cuộc đời ở lại\", nghĩa cử hiến máu cứu người của CBNV FPT đã trở thành một nét đẹp trong hoạt động thiện nguyện - xã hội của FPT hàng năm. Trong năm 2022, 1.545 CBNV FPT đã tham gia hoạt động, hiến tặng 2.138 đơn vị máu. Hoạt động thực hiện với mong muốn khích lệ mọi người cùng chia sẻ những giá trị tốt đẹp, duy trì tinh thần lạc quan, năng lượng tích cực để cùng nhau tạo nên một Cộng đồng hạnh phúc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Một số tiêu chuẩn GRI Standards và 17 mục tiêu phát triển bền vững của Liên hiệp quốc FPT ưu tiên tham chiếu ; column_headers: Tiêu chuẩn/Mục tiêu | Góc độ tiếp cận, ưu tiên của FPT | Kết quả nổi bật [ROWS] Tiêu chuẩn/Mục tiêu | Góc độ tiếp cận, ưu tiên của FPT | Kết quả nổi bật [ROW] Xóa nghèo • GRI 413 - Cộng đồng địa phương | • Tạo thu nhập ổn định cho CBNV góp phần nâng cao mức thu nhập của ngành CNTT nói riêng và của Việt Nam nói chung. • Song hành cùng cộng đồng nâng cao chất lượng cuộc sống. | • Số lượng nhân sự trong năm 2022 tăng 14,1% so với cùng kỳ. • Hỗ trợ 171 tỷ đồng cho các hoạt động trách nhiệm xã hội. • Trao hơn 100 nhà Hạnh phúc cho mẹ Việt Nam anh hùng, gia đình chính sách và hộ nghèo. • Xây dựng 250 cây cầu Nâng bước em đến trường. [ROW] Cuộc sống khỏe mạnh | Triển khai những giải pháp công nghệ hỗ trợ phát triển y tế thông minh. | • Góp phần tăng cơ hội tiếp cận và nâng cao chất lượng khám chữa bệnh tại hơn 300 bệnh viện, cơ sở y tế trên toàn quốc thông qua hệ thống quản lý tổng thể bệnh viện FPT. • Tạo cơ hội, khuyến khích cộng đồng hình thành thói quen và niềm đam mê thể thao rèn luyện sức khỏe thể chất và tinh thần thông qua các giải chạy marathon lớn trên toàn quốc và phát triển nền tảng thể thao trực tuyến VRace thu hút gần 100.000 người. [ROW] Chất lượng giáo dục • GRI 404 - Giáo dục và đào tạo | • Tiên phong kiến tạo môi trường giáo dục tiên tiến, lấy người học làm trọng tâm. • Tạo cơ hội tiếp cận các chương trình đào tạo và học tập suốt đời cho người học. | • Tổ chức giáo dục FPT cung cấp các chương trình đào tạo cho hơn 100.000 người học quy đổi ở tất cả các cấp học từ tiểu học cho tới sau đại học. • Trao 12.509 học bổng tài năng. • Triển khai 3,4 triệu giờ học cho CBNV. • Khai giảng trường Hy Vọng - Trường dành cho trẻ em mồ côi do Covid-19. 200 học sinh các cấp đến từ 41 tỉnh thành đã nhập học năm học đầu tiên. [ROW] Bình đẳng giới • Giảm bất bình đẳng • GRI 405 - Sự đa dạng và cơ hội bình đẳng • GRI 406 - Không phân biệt đối xử • GRI 407 - Tự do lập hội/ quyền tham gia công đoàn và thương lượng tập thể | Không phân biệt đối xử và tạo cơ hội phát triển cho tất cả CBNV. | • 100% người lao động tham gia thỏa ước lao động tập thể. • Số nhân sự nữ tăng 17% so với cùng kỳ và chiếm 38,1% tổng nhân sự, đặc biệt số cán bộ quản lý là nữ giới cũng tăng 19,6% so với cùng kỳ và chiếm 34,6% tống số cán bộ quản lý. • Trong năm 2022, HĐQT FPT cũng được bổ sung thêm 01 thành viên nữ, đảm bảo tính cân bằng giới. Bên cạnh đó, các công ty thành viên và công ty liên kết của Tập đoàn cũng có tới 03 Chủ tịch là nữ. [ROW] Nước sạch và vệ sinh [ROW] • GRI 303 - Nước • GRI 306 - Nước thải và chất thải • GRI 307 - Tuân thủ pháp luật bảo vệ môi trường | Chú trọng xây dựng môi trường làm việc xanh với các khu campus, tòa nhà văn phòng thân thiện với môi trường | • Tại các tòa nhà của FPT đều được theo dõi quan trắc nước thải sinh hoạt định kỳ, các tòa nhà đều có hệ thống xử lý nước thải riêng và được kiểm soát hàng ngày. • Thường xuyên tổ chức tuyên truyền, dán poster sử dụng tiết kiệm điện nước tại những khu vực cần thiết. [ROW] Năng lượng sạch và bền vững • GRI 302 - Năng lượng • GRI 305 - Phát thải | trên toàn quốc. | • Thực hiện quan trắc môi trường làm việc định kỳ hàng năm về nhiệt độ, độ ẩm, ánh sáng, điện từ trường, CO2. • Giảm thời gian chiếu sáng bên ngoài tòa nhà và sử dụng các thiết bị điều khiển thông minh.",
+      "hard_labels": [
+        "E2",
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 1.0,
+        "E_COMMON": 0.4,
+        "S4": 0.321288
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON",
+        "S4"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E3": 3,
+        "E_COMMON": 1,
+        "S4": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Rủi ro hoạt động ; column_headers: Tên rủi ro | Nội dung | Biện pháp quản trị [ROWS] Tên rủi ro | Nội dung | Biện pháp quản trị [ROW] Rủi ro về công bố thông tin | Thông tin công bố không đúng thời hạn và không đầy đủ, chính xác. | • Cập nhật đầy đủ các quy định liên quan đến công bố thông tin đối với công ty niêm yết; • Xây dựng quy trình nội bộ về cung cấp và công bố thông tin nhằm đảm bảo các thông tin hoạt động, thông tin tài chính được báo cáo chính xác, kịp thời, đúng thời hạn; • Thường xuyên trao đổi với đại diện phụ trách công bố thông tin của Ủy ban Chứng khoán Nhà nước, Sở giao dịch Chứng khoán Tp. HCM để kiểm tra tính đầy đủ và chính xác của các thông tin cần công bố. [ROW] Rủi ro về nguồn nhân lực | Rủi ro về nguồn nhân lực liên quan đến cạnh tranh thu hút nhân sự; số lượng, chất lượng không bắt kịp nhu cầu tăng trưởng cũng như những chuẩn mực quốc tế để toàn cầu hóa hiệu quả. | • Xây dựng FPT thành tổ chức học tập, phát triển lực lượng lao động có trình độ cao, tổ chức tốt nguồn nhân lực, quy hoạch nhân sự quản lý với định hướng lâu dài. Năm 2022, các chương trình đào tạo được triển khai sâu rộng trên toàn Tập đoàn với 676.127 lượt đào tạo. Số chứng chỉ công nghệ cũng tăng từ con số 4.768 trong năm 2021 lên 8.712 trong năm 2022; • FPT xây dựng chính sách đãi ngộ đảm bảo các tiêu chí: “Làm nhiều – hưởng nhiều”, thu nhập tương xứng với kết quả công việc, giá trị đóng góp cho FPT; công bằng và minh bạch; cạnh tranh theo thị trường. Ngoài ra FPT còn thực hiện các chính sách khác như trợ cấp mua nhà, mua xe cho CBNV; • Xây dựng môi trường làm việc tốt để nâng cao năng lực cạnh tranh trong thu hút nguồn nhân lực. [ROW] Rủi ro về danh tiếng/thương hiệu | Danh tiếng xấu ảnh hưởng lớn tới các doanh nghiệp – từ hình ảnh thương hiệu đến các hiệu ứng tiền tệ. | • Xây dựng hệ thống thu thập và phân tích ý kiến khách hàng để kịp thời điều chỉnh, cải tiến dịch vụ, đáp ứng nhu cầu khách hàng. Định kỳ khảo sát đo độ hài lòng của các bên liên quan; • Xây dựng quy trình quản trị xử lý khủng hoảng truyền thông; • Xây dựng quy định phát ngôn, chia sẻ và cung cấp thông tin trên các phương tiện truyền thông; • Giám sát, theo dõi các thông tin về Tập đoàn và CTTV trên các phương tiện truyền thông, mạng xã hội hàng ngày, hàng giờ để có phương án xử lý kịp thời khi có các thông tin không chính xác hoặc ảnh hưởng bất lợi đến danh tiếng/thương hiệu của Tập đoàn. [ROW] Rủi ro về bảo mật thông tin và rủi ro an ninh mạng | Thông tin là một trong những tài sản quan trọng, quý giá đối với tổ chức doanh nghiệp. Những rủi ro đối với các thông tin như bị lộ, bị thay đổi, bị mất mát đều ảnh hưởng nghiêm trọng đến hoạt động, uy tín, chiến lược của tổ chức, doanh nghiệp. | • Áp dụng triệt để các biện pháp chống thất thoát dữ liệu và an toàn hệ thống nhằm đảm bảo an ninh thông tin của Tập đoàn; • Tăng cường đầu tư hệ thống và giải pháp an toàn thông tin, cập nhật các quy trình áp dụng các tiêu chuẩn bảo mật mới nhất. Hiện tại, bên cạnh các hệ thống mua ngoài, FPT đã đầu tư phát triển một số sản phẩm về an toàn an ninh mạng như CyRadar, FPT.EagleEye...",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

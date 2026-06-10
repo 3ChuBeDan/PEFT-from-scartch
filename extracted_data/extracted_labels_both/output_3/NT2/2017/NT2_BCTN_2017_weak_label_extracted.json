@@ -1,0 +1,270 @@
+{
+  "extracted_count": 14,
+  "extracted": [
+    {
+      "text": "-Thân thiện: Công nghệ thân thiện với môi trường; thân thiện trong hợp tác với các đối tác cũng như với các đồng nghiệp; Tạo dựng và phát triển thương hiệu, bản sắc văn hóa doanh nghiệp, với tinh thần xây dựng công ty trở thành \"mái nhà chung\" cho tập thể CBCNV và địa chỉ đầu tư tin cậy cho các cổ đông.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Đối với các công ty nhiệt điện, thì giá nguyên liệu đầu vào từ than, khí và dầu là một trong những y ếu tố ảnh hưởng trực tiếp đến kết quả hoạt động kinh doanh của Công ty. Là doanh nghiệp hoạt động trong lĩnh vực cung cấp điện năng, Nhà máy nhiệt điện Nhơn Trạch 2 với công suất lớn (750 MW) sử dụng nguồn nguyên liệu đầu vào chính là khí tự nhiên (GAS) và nguyên liệu dự phòng là dầu DO; chi phí nhiên liệu khí chiếm trên 60% giá thành sản xuất điện. NT2 và Tập đoàn Điện lực Việt Nam (EVN) đã ký kết hợp đồng mua bán điện (PPA) dài hạn với giá điện chính thức. Theo hợp đồng mua bán điện đã ký kết, phương pháp tính giá điện cho phép Công ty chuyển những rủi ro của chi phí đầu vào và các chi phí khác vào giá bán bao gồm: giá khí, chi phí lãi vay, khấu hao và chi phí lao động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "NT2 được đánh giá là nhà máy \"thân thiện\", với công nghệ Tuabin khí Chu trình hỗn hợp không gây nhiều tiếng ồn, sử dụng khí thiên nhiên đảm bảo sạch hơn so với các nhiên liệu khác. Với đặc thù ngành điện, nếu thủy điện tàn phá rừng, môi trường sinh thái, sử dụng sức nước để sản xuất gây ảnh hưởng môi trường nghiêm trọng. Điện than gây ô nhiễm môi trường, cần lượng lớn người lao động, môi trường độc hại, ảnh hưởng sức khỏe thì theo xu thế hiện nay, nhằm bảo vệ môi trường, hạn chế phát thải nhà kính, các nước ưu tiên phát triển năng lượng tái tạo và điện khí, hạn chế điện than. Theo đánh giá, nếu năm 2012 sử dụng điện than chiếm 40% thì xu thế đến năm 2040 sẽ giảm xuống 29%, trong khi đó, điện năng lượng tái tạo tăng từ 22% đến 29%, điện khí như NT2 sẽ tăng từ 22% lên 28% (nguồn: www.eia.gov).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E3": 6,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Nếu như mỗi giai đoạn trong vòng đời của than từ khai thác – xử lý – vận chuyển – đốt than sản xu ất điện ở nhà máy điện than và cả thải loại đều có tác động tiêu cực tới nguồn nước thì ngược lại điện khí như nhà máy điện Nhơn Trạch 2 lại có những ưu điểm nổi bật trong việc bảo vệ môi trường nước.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "NT2 được Bộ tài nguyên môi trường cấp giấy phép số 2564/GP -BTNMT ngày 14/11/2014 về việc cục thẩm định đã thẩm định hồ sơ xin cấp Giấy phép xả nước thải vào nguồn nước mặt. Công ty đã xử lý nước thải đạt chuẩn theo quy định pháp luật. Định kỳ hàng quý, NT2 đóng đầy đủ phí xả nước thải vào nguồn nước.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "Tất cả nước thải từ nhà máy được xử lý theo tiêu chuẩn TCVN trước khi thải ra môi trường. Nguồn nước thải trong khu vực nhà máy bao gồm: nước thải nhiễm nhiệt, nước thải nhiễm dầu, hóa chất, nước thải sinh hoạt...Hệ thống xử lý nước thải thu gom nước đã xử lý từ các trạm xử lý nước thải để xử lý đạt chuẩn thải công nghiệp trước khi thải ra môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 9
+      }
+    },
+    {
+      "text": "Riêng đối với nước thải nhiễm dầu sẽ được tách dầu trước khi vào bể tiếp nhận nước thải chung để đảm bảo cho hệ thống hoạt động tốt. Quy trình tách dầu thực hiện như sau: Nước thải nhiễm dầu được thu gom vào bể chứa riêng, sau đó được bơm lên hệ thống tách dầu sơ bộ theo kiểu vách ngăn. Dầu sau khi tách được thu gom, bể này còn có tác dụng lắng các hạt chất rắn và cát bị cu ốn theo dòng nước. Nước thải tiếp tục được qua bể xử lý hiếu khí dưới dạng mẻ và sau đó qua cột lọc để làm sạch hết những phần tử dầu li ti còn lẫn trong nước. Phần nước thải sau khi được tách dầu tiếp tục đưa đến bồn chứa nước thải chung của hệ thống xử lý. Phần dầu tách được thu gom vào bể thu gom dầu thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "Toàn bộ nước thải từ lò thu hồi nhiệt, nước thải nhiễm dầu, nước thải từ hệ thống khử khoáng đều được xử lý sơ bộ trước khi đưa vào hệ thống xử lý nước thải chung. Sơ đồ quy trình xử lý nước thải sản xuất được thể hiện như hình sau:",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "Chất thải nguy hại phát sinh từ hoạt động của Nhà máy bao gồm: Vật liệu lọc, giẻ lau, vải bảo vệ thải nhiễm các thành phần nguy hại; bóng đèn huỳnh quang thải; thủy tinh, nhựa, gỗ nhiễm thành phần nguy hại; bao bì cứng bằng kim loại; Bao bì cứng bằng nhựa nhiễm thành phần nguy hại thải. Tổng khối lượng chất thải nguy hại phát sinh trong quý 4 khoảng 1.440 kg. Lượng chất thải này đang được lưu trữ tại kho chất thải nguy hại của Công ty để chờ chuyển giao cho Công ty TNHH Hà Lộc đến thu gom, vận chuyển và xử lý theo đúng quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "Công ty đã lập sổ đăng ký sổ chủ nguồn thải chất thải nguy hại số 358/SĐK -CCBVMT do Sở Tài Nguyên và Môi Trường tỉnh Đồng Nai cấp lần 3 ngày 05/12/2013 và hợp đồng với Công ty TNHH Hà Lộc thu gom vận chuyển và xử lý chất thải nguy hại theo đúng thông tư số 36/2015/TT -BTNMT ngày 30/06/2015 Quy định về quản lý chất thải nguy hại và Quy định an toàn về thu gom, vận chuyển, lưu giữ, xử lý và tiêu hủy chất thải nguy hại trên địa bàn Tỉnh.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "-Điều kiện làm việc và an toàn lao động là một trong những vấn đề quan trọng mà Lãnh đạo công ty đặc biệt chú ý quan tâm vì nó ảnh hưởng đến hoạt động kinh doanh của Công ty. Đảm bảo điều kiện làm việc và an toàn lao động là hai vấn đề có mối quan hệ khăn khít. Một trong những nhân tố liên quan đến an toàn lao động là do điều kiện làm việc chưa được đảm bảo và sự thiếu hiểu biết của mỗi cán bộ công nhân viên. Định kỳ hàng năm NT2 thực hiện đo đạc lấy mẫu quan trắc môi trường xung quanh theo quy định của Pháp luật và báo cáo đánh giá tác động môi trường đã được phê duyệt (ĐTM)",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Hệ thống thu gom, xử lý nước thải luôn hoạt động trong quá trình vận hành nhà máy, đảm bảo nước thải đầu ra hệ thống đạt QCVN 40:2011/BTNMT (quy chuẩn kỹ thuật quốc gia về nước thải công nghiệp) ứng với cột B. Định kỳ mỗi quý Công ty tiến hành thuê đơn vị có chức năng tiến hành phân tích chất lượng nước đầu ra của hệ thống xử lý nước thải, các số liệu được lưu tại phòng ATSKMT.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "Tiếng ồn, độ rung: phát sinh từ quá trình hoạt động của các thiết bị đặt trong khuôn viên nhà máy. Trong quá trình xây dựng, các khu vực trên đã được thiết kế giảm thiểu độ ồn, độ rung sao cho đảm bảo QCVN 26:2010/BTNMT quy chuẩn kỹ thuật quốc gia về tiếng ồn và QCVN 27:2010/BTNMT quy chuẩn kỹ thuật quốc gia về độ rung. Công ty lập và thực hiện các kế hoạch bảo dưỡng định kỳ cho các thiết bị vận hành để giảm tối đa tiếng ồn và độ rung phát sinh, đồng",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 7
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: NT2: THÂN THIỆN – HIỆU QUẢ -AN TOÀN [ROWS] 1. | Quản lý nguồn nguyên liệu .............................................................................................................. | 40 [ROW] 2. | Tiêu thụ năng lượng ................................ ......................................................................................... | 40 [ROW] 2.1 | Nhiên liệu khí ................................ ................................ ................................ ................................ ....... | 40 [ROW] 2.2 | Điện sử dụng ................................ ................................ ................................ ................................ ....... | 40 [ROW] 2.3 | Khí thải ................................ ................................ ................................ ................................ ................ | 41 [ROW] 3. | Tiêu thụ nước ................................ ................................ .................................................................... | 42 [ROW] 3.1 | Nguồn nước cung cấp ................................ ................................ ................................ ......................... | 42 [ROW] 3.3 | Biện pháp tiết kiệm nước ................................ ................................ ................................ .................... | 43 [ROW] 3.4 | Xử lý nước thải ................................ ................................ ................................ ................................ .... | 43 [ROW] 4. | Chất thải ................................................................ ................................ ................................ ............. | 46 [ROW] 4.1 | Chất thải rắn sinh hoạt ................................ ................................ ................................ ........................ | 46 [ROW] 4.2 | Chất thải nguy hại ................................ ................................ ................................ ............................... | 47 [ROW] 5. | Tiếng ồn .............................................................................................................................................. | 48 [ROW] 6. | Các sáng kiến sử dụng năng lượng hiệu quả ................................ ................................ ................ | 48 [ROW] 7. | Tuân thủ pháp luật về bảo vệ môi trường ...................................................................................... | 48 [ROW] 8. | Chính sách liên quan đến người lao động ................................ ................................ ..................... | 49 [ROW] 8.1 | Tóm tắt chính sách đối với người lao động ................................ ................................ ........................ | 49 [ROW] 8.2 | Số lượng lao động và cơ cấu lao động ................................ ................................ ............................... | 49 [ROW] 8.3 | Mức lương bình quân ................................ ................................ ................................ .......................... | 50 [ROW] 8.4 | Chính sách đối với người lao động nhằm đảm bảo sức khỏe, an toàn và phúc lợi của người lao động 51 [ROW] 8.4.1 | Mối quan hệ giữa người quản lý lao động và người lao động – Gìn giữ giá trị bền vững ................. | 51 [ROW] 8.4.2 | Công tác An toàn Sức khỏe Môi trường ................................ ................................ ............................. | 51 [ROW] 8.5 | Các chương trình đào tạo và số giờ đào tạo ................................ ................................ ...................... | 56 [ROW] 8.5.1 | Các chương trình đào tạo ................................ ................................ ................................ ................... | 56 [ROW] 8.5.2 | Số giờ đào tạo ................................ ................................ ................................ ................................ | ..... 57 [ROW] 8.6 | Các chương trình phát triển kỹ năng người lao động ................................ ................................ ......... | 57 [ROW] 9. | Báo cáo liên quan đến trách nhiệm đối với cộng đồng địa phương ................................ ........... | 57 [ROW] IV. | BÁO CÁO VÀ ĐÁNH GIÁ CỦA BAN GIÁM ĐỐC ................................ ................................ ............. | 59 [ROW] 1. | Tình hình phát triển ngành Điện ...................................................................................................... | 59 [ROW] 2. | Đánh giá kết quả hoạt động sản xuất kinh doanh ......................................................................... | 60 [ROW] 2.1 | Đánh giá chung ................................ ................................ ................................ | ................................ ... 60",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E3": 0.388514,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 8,
+        "E3": 1,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

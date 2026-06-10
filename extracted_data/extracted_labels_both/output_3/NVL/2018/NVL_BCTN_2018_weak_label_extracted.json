@@ -1,0 +1,151 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G1",
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G1",
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Đối với các công tác thi công phát ra tiếng ồn lớn vượt mức cho phép gây ô nhiễm tiếng ồn ảnh hưởng cuộc sống cư dân hiện hữu xung quanh, đặc biệt các dự án nằm trong khu đô thị, Công ty thực hiện đánh giá khu vực vị trí dự án, nếu dự án nằm trong khu vực bắt buộc hạn chế tiếng ồn, Công ty kiểm tra và yêu cầu Nhà thầu sử dụng thiết bị không gây tiếng động lớn, hạn chế các hoạt động thi công về đêm, đồng thời, xây dựng mối quan hệ",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "18 Đảm bảo chất lượng sản phẩm KHÔNG CÒNCUỘC SỐNG NG NƯỚC SẠCH NĂNG LƯỢNG SẠCHVIỆC LÀM ĐÀNG SẠCH NĂNG LƯỢNG SẠCHVIỆC LÀM ĐÀNG CÔNG NGHIỆP, ẠCH NĂNG LƯỢNG SẠCHVIỆC LÀM ĐÀNG CÔNG NGHIỆP, dịch vụ & INHNH & XÓA NGHÈO VỆ SINH & BỀN VỮNGBỀN VỮNG ượng KHÔNG CÒN ĂNG LƯỢNG S VIỆC LÀM ĐÀ ÀĂ ỆC LÀM ĐÀN ÀĂ NẠN ĐÓI Ợ BỀN VỮN HOÀNG & RƯỞNG K ÀNG & T ƯỞNG KIN phẩ CUỘC SỐNG Ỏ C LÀM ĐÀNG CÔNG NGHIỆP ĐỔI MỚI & CƠ NG NGHIỆP, ỔI MỚI & CƠ Ộ KHỎE MẠNH ÀNG & TĂNG Ở ĐỔI MỚI & CƠ HẠ TẦNG ỔI MỚI & CƠ S Ạ TẦNG Đ BÌNH ĐẲNG NƯỚC SẠ Ệ NƯỚC SẠC Ệ GIỚI & & V ảo NƯỚC SẠCH NĂNG LƯỢN & BỀN VỮN NĂNG LƯỢNG & BỀN VỮNG XÓA NGH & VỆ SINH & BỀN VỮ& BỀN VỮN ợg KHÔNG CÒN Ó NĂNG LƯỢNG SẠCH Ề VIỆC LÀM ĐÀNG HOÀNG & TĂNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG NẠN ĐÓI Ợ & BỀN VỮNG HOÀNG & T Ở HOÀNG & TĂ Ở p CUỘC SỐNG Ỏ VIỆC LÀM ĐÀNG CÔNG NGHIỆP ĐỔI MỚI & CƠ CÔNG NGHIỆP, ĐỔI MỚI & CƠ S KHỎE MẠNH HOÀNG & TĂNG ĐỔI MỚI & CƠ Ầ ĐỔI MỚI & CƠ S Ầ Ạ TRƯỞNG KINH TẾ HẠ TẦNGHẠ TẦNG Đ NH ĐẲNG NƯỚC SẠCHƯỚC SẠCH d NH ĐẲNG ỚI & VỆ SINH VỆ SINH ảo ch NƯỚC SẠCH NĂNG LƯỢNG SẠCH Ề ĂNG LƯỢNG SẠCH Ề XÓA NGHÈO NƯỚC SẠCH & VỆ SINH Ợ & BỀN VỮNG Ợ BỀN VỮNG ượng KHÔNG CÒN ĂNG LƯỢNG SẠC VIỆC LÀM ĐÀNG IỆC LÀM ĐÀNG KHÔNG CÒN NẠN ĐÓI ĂNG LƯỢNG SẠC BỀN VỮNG HOÀNG & TĂNG OÀNG & TĂNG NẠN ĐÓI BỀN VỮNG TRƯỞNG KINH TẾRƯỞNG KINH TẾ phẩ CUỘC SỐNG ỆC LÀM ĐÀNG CÔNG NGHIỆP, Ổ ÔNG NGHIỆP, Ổ CUỘC SỐNG KHỎE MẠNH ỆC LÀM ĐÀNG OÀNG & TĂNG Ệ, ĐỔI MỚI & CƠ SỞ Ệ, ỔI MỚI & CƠ SỞ KHỎE M OÀNG & T ƯỞNG KIN HẠ TẦNGẠ TẦNG Đ BÌNH ĐẲNG NƯỚC SẠCNƯỚC SẠCH d BÌNH ĐẲNG GIỚI & VỆ SIN& VỆ SINH ảo ch NƯỚC SẠCH NĂNG LƯỢNG SẠC Ề NĂNG LƯỢNG SẠCH Ề XÓA NGHÈ NƯỚC SẠCH & VỆ SINH Ợ & BỀN VỮN Ợ & BỀN VỮNG ượng KHÔNG CÒN NĂNG LƯỢNG SẠ VIỆC LÀM ĐÀNVIỆC LÀM ĐÀNG KHÔNG CÒN NẠN ĐÓI NĂNG LƯỢNG SẠ & BỀN VỮNG HOÀNG & TĂNHOÀNG & TĂNG NẠN ĐÓI & BỀN VỮNG TRƯỞNG KINH TTRƯỞNG KINH TẾ phẩ CUỘC SỐNG VIỆC LÀM ĐÀNG CÔNG NGHIỆ Ổ CÔNG NGHIỆP, Ổ CUỘC SỐNG KHỎE MẠNH VIỆC LÀM ĐÀNG HOÀNG & TĂNG Ệ, ĐỔI MỚI & CƠ S Ệ, ĐỔI MỚI & CƠ SỞ KHỎE HOÀNG & TRƯỞNG K HẠ TẦNHẠ TẦNG",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "NĂNG LƯỢNG SẠCH Ề ÀI NGUYÊN NƯỚC SẠCH Ệ Đảm Ợ & BỀN VỮNG ÀI NGUYÊN NƯỚC Ạ & VỆ SINH Đả VIỆC LÀM ĐÀNG ÀI NGUYÊN NĂNG LƯỢNG Ề bảo HOÀNG & TĂNG ẤT & BỀN VỮNG bảo TRƯỞNG KINH TẾ ẤT bảo CÔNG NGHIỆP, Ổ ÒA BÌNH, CÔNG VIỆC LÀM ĐÀ hất Ệ, ĐỔI MỚI & CƠ SỞ ÒA BÌNH, CÔNG ẰNG & THỂ CHẾ Ệ HOÀNG & TĂNG hất HẠ TẦNG ẰNG & TH ỮNG MẠN TRƯỞNG hấ HÒA BÌNH, CÔNG ẰỂ Ế TÀI NGUYÊN Ấ bàn , BẰNG & THỂ CHẾ ĐẤT bàn VỮNG MẠNH HỢP TÁC ĐỂHÒA BÌNH Ằ ao HIỆN THỰC HÓABẰNG & THỂ C ao CÁC MỤC TIÊUVỮNG MẠNH 17 MỤC TIÊU ỂỀ kế Ụ PHÁT TRIỂN BỀN VỮNG ết kế CỦA LIÊN HỢP QUỐC t kế CÔNG NGHIỆP, ỔỚ HÒA BÌNH, CÔNG ẰỂ Ế VIỆC LÀM ĐÀN ÀĂ hất ĐỔI MỚI & CƠ S Ầ , BẰNG & THỂ CHẾ HOÀNG & TĂN Ở hất HẠ TẦNG VỮNG MẠNH TRƯỞNG K hấ HỢP TÁC ĐỂ CÔNG NG ỔỚ ợn HIỆN THỰC HÓA ĐỔI MỚI & C Ầ ợn CÁC MỤC TIÊU HẠ TẦNG ợn NĂNG LƯỢN Ề TÀI NGUYÊN NƯỚC SẠ Ệ Đả & BỀ NƯỚC & Đ VIỆC LÀM Đ TÀI NGUYÊN NĂNG LƯ Ề bả HO ĐẤT b ĂNG LƯỢNG S Ề NGUYÊN NƯỚC SẠCH Đả Ợ BỀN VỮNG GU ỚC & VỆ SINH Đả ỆC LÀM ĐÀNG NGUYÊN NĂNG LƯỢNG SẠCH Ề bảo Ệ OÀNG & TĂNG NGUYÊN Ợ & BỀN VỮNG bảo ÔNG NGHIỆP, ỔỞ A BÌNH, CÔNG VIỆC LÀM ĐÀNG hất ỔI MỚI & CƠ SỞ , NG & THỂ CHẾ HOÀNG & TĂNG hất Ạ TẦNG NG & THỂ CHẾ NG MẠNH TRƯỞNG KINH TẾ hất P TÁC ĐỂ CÔNG NGHIỆP, Ổ ợng P TÁC ĐỂ N THỰC HÓA Ệ, ĐỔI MỚI & CƠ SỞ ợng N THỰC H C MỤC TIÊ HẠ TẦNG ợn ỢP TÁC ĐỂHÒA BÌNH, CÔNG ẰỂ Ế ao Ợ ỆN THỰC HÓA , BẰNG & THỂ CHẾ ao. ÁC MỤC TIÊUVỮNG MẠNH HỢP TÁC ĐỂ HIỆN THỰC HÓA CÁC MỤC TIÊU ÒA BÌNH, CÔ TÀI NGUYÊN bàn ẰNG ĐẤT bà · NĂNG LƯỢNG SẠCH & BỀN VỮNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG TRƯỞNG KINH TẾ CÔNG NGHIỆP, ĐỔI MỚI & CƠ SỞ HẠ TẦNG HÒA BÌNH, CÔNG BẰNG & THỂ CHẾ VỮNG MẠNH HỢP TÁC ĐỂ HIỆN THỰC HÓA CÁC MỤC TIÊU TÀI NGUYÊN NƯỚC TÀI NGUYÊN ĐẤT NƯỚC SẠCH & VỆ SINH NĂNG LƯỢNG SẠCH & BỀN VỮNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG TRƯỞNG KINH TẾ CÔNG NGHIỆP, ĐỔI MỚI & CƠ SỞ HẠ TẦNG Đảm bảo chất lượng sản phẩm qua 17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC từng giai đoạn từ thiết kế, xây dựng đến HÒA BÌNH, CÔNG BẰNG & THỂ CHẾ VỮNG MẠNH HỢP TÁC ĐỂ HIỆN THỰC HÓA CÁC MỤC TIÊU HÒA BÌNH, CÔNG BẰNG & THỂ CH VỮNG MẠNH TÀI NGUYÊN ĐẤT bàn giao.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Trong từng giai đoạn triển khai dự án, Tập đoàn áp dụng nhiều biện pháp sử dụng tài nguyên và bảo vệ môi trường theo các Báo cáo Đánh giá tác động môi trường và Kế hoạch quản lý môi trường được phê duyệt cho từng dự án, Xác định rõ vai trò và trách nhiệm của công tác quản lý môi trường ở từng dự án, Kiểm tra việc thực hiện các giải pháp bảo vệ môi trường và xã hội trong suốt quá trình thi công, Giám sát các việc thực hiện của đối tác và nhà thầu liên quan trong việc đáp ứng các tiêu chuẩn môi trường, Giám sát việc lập báo cáo giám sát chất lượng môi trường định kỳ.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CHI TIẾT VỀ THỰC HÀNH QTCT CỦA TẬP ĐOÀN NOVALAND THEO THẺ ĐIỂM QTCT KHU VỰC ASEAN ; column_headers: STT | Tiêu chí | Tình hình tuân thủ tại NVL năm 2018 | Cơ sở đánh giá cho năm 2018 [ROWS] STT | Tiêu chí | Tình hình tuân thủ tại NVL năm 2018 | Cơ sở đánh giá cho năm 2018 [ROW] B | ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] B.1 | Cổ phiếu và quyền biểu quyết [ROW] B.1.1 | Mỗi Cổ phiếu phổ thông của Công ty có 1 phiếu biểu quyết? | þ | Điều lệ Công ty, Quy chế biểu quyết tại ĐHĐCĐ 2018 [ROW] B.1.2 | Trong trường hợp Công ty có nhiều hơn 1 loại cổ phiếu, Công ty có công bố số phiếu biểu quyết gắn với mỗi loại cổ phiếu? | þ | Điều lệ Công ty, Quy chế biểu quyết tại ĐHĐCĐ 2018 [ROW] B.2 | Thông báo ĐHĐCĐ thường niên [ROW] B.2.1 | Mỗi Nghị quyết trong ĐHĐCĐ thường niên gần nhất chỉ liên quan đến một nội dung của dự thảo Nghị quyết, nghĩa là không gộp nhiều nội dung vào trong cùng một Nghị quyết? | þ | Tài liệu chuẩn bị cho ĐHĐCĐ thường niên 2018 [ROW] B.2.2 | Thông báo và tài liệu ĐHĐCĐ thường niên gần nhất có được dịch đầy đủ sang tiếng Anh và công bố cùng ngày với tài liệu theo ngôn ngữ địa phương? | þ | Tài liệu chuẩn bị cho ĐHĐCĐ thường niên 2018 [ROW] B.2.3 | Có cung cấp tiểu sử của Thành viên HĐQT sẽ được bầu chọn/bầu chọn lại? | þ | Tài liệu chuẩn bị cho ĐHĐCĐ thường niên 2018 [ROW] B.2.4 | Kiểm toán viên chuẩn bị được bầu chọn/bầu chọn lại có được xác định rõ ràng? | þ | Tài liệu chuẩn bị cho ĐHĐCĐ thường niên 2018 [ROW] B.2.5 | Giấy ủy quyền tham dự ĐHĐCĐ thường niên được cung cấp dễ dàng? | þ | Tài liệu chuẩn bị cho ĐHĐCĐ thường niên 2018 [ROW] B.3 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] B.3.1 | Công ty có chính sách hoặc quy định cấm Thành viên HĐQT và NV không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | þ | Bộ quy tắc ứng xử [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu Công ty trong 3 ngày làm việc? | þ | Quy chế và Quy trình nội bộ về CBTT [ROW] B.4 | Giao dịch bên liên quan bởi HĐQT và Ban TGĐ [ROW] B.4.1 | Công ty có chính sách yêu cầu Thành viên HĐQT công bố lợi ích liên quan trong các giao dịch và mọi xung đột lợi ích với Công ty không? | þ | Điều lệ, Quy chế QTCT [ROW] B.4.2 | Công ty có chính sách yêu cầu một Tiểu ban gồm Thành viên HĐQT độc lập rà soát giao dịch bên liên quan trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của Công ty và cổ đông? | þ | Tiểu ban Kiểm toán nội bộ có tham gia rà soát các giao dịch bên liên quan [ROW] B.4.3 | Công ty có chính sách yêu cầu Thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động giao dịch mà Thành viên đó có xung đột lợi ích? | þ | Điều lệ, Quy chế QTCT [ROW] B.4.4 | Công ty có chính sách về khoản vay cho Thành viên HĐQT trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | þ | Điều lệ, Quy chế QTCT",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CHI TIẾT VỀ THỰC HÀNH QTCT CỦA TẬP ĐOÀN NOVALAND THEO THẺ ĐIỂM QTCT KHU VỰC ASEAN ; column_headers: STT | Tiêu chí | Tình hình tuân thủ tại NVL năm 2018 | Cơ sở đánh giá cho năm 2018 [ROWS] STT | Tiêu chí | Tình hình tuân thủ tại NVL năm 2018 | Cơ sở đánh giá cho năm 2018 [ROW] (P) A.4 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải đước công bố công khai [ROW] (P) A.4.1 | Công ty có không công bố sự tồn tại của thỏa thuận cổ đông? | þ | Không tồn tại thỏa thuận này Điều lệ, Quy chế QTCT [ROW] (P) A.4.2 | Công ty có không công bố sự tồn tại của giới hạn biểu quyết? | þ | Điều lệ, Quy chế QTCT, Quy chế biểu quyết tại ĐHĐCĐ 2018 [ROW] (P) A.4.3 | Công ty có không công bố sự tồn tại của cổ phiếu có nhiều quyền biểu quyết? | þ | Không có cổ phiếu có nhiều quyền biểu quyết [ROW] (P) A.5 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai [ROW] (P) A.5.1 | Cấu trúc sở hữu kim tự tháp hoặc cấu trúc sở hữu chéo có tồn tại không? | ý | Người có liên quan đến Chủ tịch [ROW] (P) B | ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] (P) B.1 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] (P) B.1.1 | Công ty có bị kết luận vi phạm về giao dịch nội gián của HĐQT, Ban TGĐ và NV trong 3 năm qua? | þ | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi hoàn toàn bị cấm tại Công ty [ROW] (P) B.2 Bảo vệ cổ đông nhỏ lẻ từ các hành vi tư lợi cá nhân [ROW] (P) B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu 3 năm qua? | þ | Không xảy ra [ROW] (P) B.2.2 | Có giao dịch bên liên quan nào có tính chất hỗ trợ tài chính cho các đơn vị không phải là Công ty con trực thuộc không? | þ | Điều lệ, Quy chế QTCT: Hành vi lạm dụng kinh doanh để tư lợi hoàn toàn bị cấm tại Công ty [ROW] (P) C | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] (P) C.1 | Quyền lợi của các bên có liên quan được quy định bởi pháp luật hoặc theo những thỏa thuận song phương phải được tôn trọng [ROW] (P) C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/phá sản/thương mại/cạnh tranh hay các vấn đề về môi trường không? | þ | Không xảy ra [ROW] (P) C.2 Quyền lợi CBLQ được bảo vệ bởi luật pháp, CBLQ có cơ hội để thể hiện ý kiến nếu quyền lợi bị xâm phạm [ROW] (P) C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý liên quan đến việc CBTT không đúng hạn cho những yêu cầu thiết yếu? | þ | Hoàn toàn tuân thủ",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

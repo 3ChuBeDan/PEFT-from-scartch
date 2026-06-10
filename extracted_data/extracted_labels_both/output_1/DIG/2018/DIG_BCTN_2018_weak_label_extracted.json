@@ -1,0 +1,45 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Trong lĩnh vực sản xuất và kinh doanh, Tổng Công ty chú trọng vào nghiên cứu và phát triển, đổi mới công nghệ, cải tiến kỹ thuật để tiết kiệm vật tư, nguyên liệu, năng lượng, giảm thiểu lượng phát thải và sản xuất ra những sản phẩm thân thiện với môi trường (xây lắp, bê tông, gạch không nung, phủ cây xanh, hồ nước ...). Công tác bảo vệ môi trường được thể hiện trong các cam kết của Tổng Công ty khi triển khai dự án, công trình xây dựng, sản xuất, các dự án khu đô thị của Tổng Công ty đều qui hoạch diện tích đất cây xanh hợp lý. ý. Các đơn vị như (DIC Vật liệu, DIC Bê Tông, DIC Anh Em đều có trạm xử lý nước thải tập trung, xử lý bụi, chống ồn ... Tổng Công ty đã không ngừng cải tiến, đầu tư công nghệ hiện đại thân thiện với môi trường; đầu tư nghiên cứu, cải tiến mẫu mã, chất lượng nhằm sản xuất ra các sản phẩm thân thiện với môi trường. Các tòa nhà chung cư, trung tâm đô thị đều thiết kế diện tích đất phủ cây xanh và lòng hồ trong quy hoạch, tạo cảnh quan và không khí trong lành. Hiện tại Tổng Công ty đang triển khai các dự án về du lịch sinh thái như dự án khu dự án Điểm du lịch sinh thái và vui chơi giải trí Hồ Ba Hang tại tỉnh Hà Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Biện pháp giảm tiếng ồn, chấn động: Kiểm soát ô nhiễm tiếng ồn như hạn chế tiếng ồn do xecộ vận chuyển, quy hoạch tổ chức đường giao thông hợp ly. Tuyên truyền mọi người dân đều có nhận thức và bảo vệ môi trường.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

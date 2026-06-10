@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: 12. Investments ; column_headers: VND’000 Beginning balance ; row_headers: Marketable equity securities | Deposits in banks with maturity of more than three months and less than twelve months | Provision for diminution in value of equity securities | Net value of short-term investments | Investments in associates and joint venture (Note 12.1) | Other long-term equity investments (Note 12.3) | Provision for diminution in value of long-term investments | Net value of long-term investments | Total [ROWS] Ending balance | VND’000 Beginning balance [ROW] Short-term investments: [ROW] Marketable equity securities | 299,732,133 | 384,486,486 [ROW] Deposits in banks with maturity of more than three months and less than twelve months | 61,700,000 | 73,700,000 [ROW] Provision for diminution in value of equity securities | (72,731,764) | (132,802,732) [ROW] Net value of short-term investments | 288,700,369 | 325,383,754 [ROW] Long-term investments: [ROW] Investments in associates and joint venture (Note 12.1) | 454,079,014 | 244,203,691 [ROW] Other long-term equity investments (Note 12.3) | 1,366,394,953 | 1,286,749,563 [ROW] Provision for diminution in value of long-term investments | (169,219,811) | (174,034,457) [ROW] Net value of long-term investments | 1,651,254,156 | 1,356,918,797 [ROW] Total | 1,939,954,525 | 1,682,302,551",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 25.1 Obligations under operating leases ; column_headers: Current year | Previous year ; row_headers: Less than one year | From one to five years | More than five years | Total Minimum Lease Payments [ROWS] Current year | Previous year [ROW] Less than one year | 11,147,108 | 8,176,902 [ROW] From one to five years | 23,628,606 | 11,471,237 [ROW] More than five years | 550,000 | 1,500,000 [ROW] Total Minimum Lease Payments | 35,325,714 | 21,148,139",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

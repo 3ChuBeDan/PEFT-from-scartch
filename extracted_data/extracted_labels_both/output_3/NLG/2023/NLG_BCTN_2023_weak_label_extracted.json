@@ -1,0 +1,87 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 759,
+      "text": "Trong quá trình triển khai thi công thực tế, các Ban quản lý dự án tăng cường công tác giám sát triển khai và phối hợp với nhà thầu và các đơn vị liên quan nhằm nâng cao hiệu quả công tác thu hồi cũng như ký kết các hợp đồng thu gom nước thải/ chất thải với nhà thầu có đầy đủ chứng nhận đủ điều kiện hoạt động xử lý nước thải/ chất thải theo quy định pháp luật hiện hành.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 822,
+      "text": "Không chỉ tạo ra các khu đô thị thân thiện với môi trường với chất lượng xây dựng tốt và các tiện ích phù hợp với người dân, Nam Long hướng tới tạo ra một môi trường hỗ trợ và gia tăng kết nối xã hội. Chúng tôi kiến tạo môi trường sống với những người \"láng giềng\" thân thiện, nơi vừa mang phong cách của một đô thị hiện đại, vừa ấm áp tình thân của người Việt Nam. Việc này được thực hiện thông qua:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1219,
+      "text": "[TABLE] [CONTEXT] section: Quản trị rủi ro môi trường và xã hội ; column_headers: RỦI RO | MÔ TẢ | BIỆN PHÁP KIỂM SOÁT [ROWS] RỦI RO | MÔ TẢ | BIỆN PHÁP KIỂM SOÁT [ROW] Rủi ro biến đổi khí hậu | • Biến đổi khí hậu diễn ra trên toàn cầu là nguyên nhân chính gây ra các hiện tượng như bão lũ, triều cường, mực nước biển,... với tần suất ngày càng nhiều và sức tàn phá ngày càng mạnh mẽ, tạo nên những ảnh hưởng và thiệt hại lớn về con người, của cải tại các khu đô thị. Điều này đặt ra yêu cầu đối với các đơn vị kinh doanh trong lĩnh vực bất động sản phải thiết kế địa hình các khu dự án đảm bảo thiệt hại tối thiểu đồng thời khả năng phục hồi tốt và nhanh chóng trong trường hợp xảy ra thiên tai, lựa chọn các thiết bị tại các khu vực công cộng tiết kiệm điện năng và/hoặc sử dụng các nguồn năng lượng tái tạo, ... | • Xây dựng tiêu chuẩn hạ tầng tại các dự án khu đô thị dựa trên kịch bản Biến đổi khí hậu và nước biển dâng cho Việt Nam qua các đánh giá tác động và các giải pháp ứng phó. • Tăng cường việc lắp đặt và sử dụng các thiết bị tiết kiệm năng lượng. Đảm bảo diện tích mảng xanh trong các khu đô thị, và tổ chức các hoạt động nâng cao ý thức bảo vệ môi trường cho cư dân khu vực dự án. [ROW] Rủi ro hỏa hoạn | • Khu vực văn phòng hoặc khu vực đang thi công dự án bị xảy ra cháy nổ. Nếu không có giải pháp ngăn chặn và xử lý kịp thời, hỏa hoạn có thể lan ra các khu vực bên cạnh, ảnh hưởng đến cuộc sống và gây thiệt hại về tài sản của người dân. | • Đảm bảo định kỳ tổ chức diễn tập Phòng cháy chữa cháy cho nhân viên trong Tập đoàn • Kiểm soát, tuần tra và giám sát việc triển khai các giải pháp thi công của nhà thầu theo đúng kế hoạch đã xây dựng (trong đó có đánh giá rủi ro và giải pháp kiểm soát rủi ro) bao gồm các công tác phòng cháy chữa cháy. [ROW] Rủi ro trách nhiệm môi trường | • Nước thải đen và nước thải xám không được xử lý đảm bảo an toàn gây ảnh hưởng tới môi trường nước và đất tại dự án và các vùng lân cận. Nước thải xám chưa được xử lý về mức đảm bảo an toàn với môi trường trước khi xả ra ngoài khu vực dự án. • Rác thải nguy hại bị rơi ra ngoài trong quá trình vận chuyển từ khu vực dự án đến địa điểm tập trung xử lý của đơn vị cung ứng dịch vụ. • Tiếng ồn trong quá trình thi công vượt quá mức quy định, gây ảnh hưởng tới sinh hoạt của người dân sinh sống xung quanh khu vực dự án. | • Kiểm soát và giám sát việc triển khai các giải pháp thi công của nhà thầu theo đúng kế hoạch đã xây dựng (trong đó có đánh giá rủi ro và giải pháp kiểm soát rủi ro), chẳng hạn như: đo mức độ tiếng ồn, kiểm tra hệ thống lắng lọc và xử lý nước thải xám, thuê ngoài dịch vụ hút hầm nước thải đen, đảm bảo việc che chắn phủ kín bề mặt rác thải trên các xe vận chuyển trước khi ra khỏi khu vực dự án. • Định kỳ thực hiện quan trắc môi trường. [ROW] Rủi ro sức khỏe và an toàn lao động | • Trong quá trình thi công các dự án xây dựng, luôn tồn tại các yếu tố nguy hiểm và nguy cơ xảy ra tai nạn lao động hay bệnh nghề nghiệp đối với người lao động là rất cao. Nếu không có các biện pháp kiểm soát, ngăn chặn và xử lý kịp thời, tai nạn xảy ra có thể gây tổn thất lớn đối với người lao động, Tập đoàn nói riêng và hậu quả nặng nề trong dài hạn đối với xã hội nói chung. | • Mỗi dự án đều có Ban quản lý an toàn và sức khỏe lao động. • Yêu cầu các nhà thầu xây dựng kế hoạch chi tiết, giải pháp thi công để triển khai phần công việc được giao đảm bảo an toàn lao động và tự kiểm tra các điều kiện an toàn định kỳ hàng tháng và lập báo cáo gửi Ban Quản lý an toàn và sức khỏe lao động của dự án. • Tuần tra / kiểm tra vấn đề an toàn lao động trên công trường xây dựng định kỳ hàng tuần hoặc đột xuất.",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E3": 0.777029,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 8,
+        "E3": 2,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 1221,
+      "text": "[TABLE] [CONTEXT] section: GRI 306: Chất thải ; column_headers: 2023 | 2022 | 2021 | 2020 ; row_headers: Thiêu đốt (có thu hồi năng lượng) | Thiêu đốt (không thu hồi năng lượng) | Chôn lấp (tại bãi) | Các hoạt động xử lý khác | TỔNG CỘNG [ROWS] TỔNG LƯỢNG CHẤT THẢI NGUY HẠI ĐƯỢC XỬ LÝ | 2023 | 2022 | 2021 | 2020 [ROW] Thiêu đốt (có thu hồi năng lượng) | - | - | - | - [ROW] Thiêu đốt (không thu hồi năng lượng) | 0,0485 | 0,305 | 0,243 | 0,057 [ROW] Chôn lấp (tại bãi) | - | - | - | - [ROW] Các hoạt động xử lý khác | - | - | - | 0,002 [ROW] TỔNG CỘNG | 0,0485 | 0,305 | 0,243 | 0,059",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    }
+  ]
+}

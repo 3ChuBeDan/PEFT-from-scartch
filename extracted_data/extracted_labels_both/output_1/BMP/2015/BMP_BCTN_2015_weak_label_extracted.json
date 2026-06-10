@@ -1,0 +1,98 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 819,
+      "text": "Chất thải rắn tại Công ty được phân làm 4 loại như sau: Chất thải sinh hoạt; chất thải tái chế; chất thải nguy hại; chất thảiy tế.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 832,
+      "text": "Đối với khí thải từ máy phát điện và khí thải từ các phương tiện giao thông",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 839,
+      "text": "Đối với độ rung, tiếng ồn",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 848,
+      "text": "Các giải pháp kiểm soát bụi, khí thải và điều kiện vi khí hậu luôn được thực hiện và đo đạc định kỳ hằng năm. Kết quả đo đạc bụi, khí thải và điều kiện vi khí hậu luôn đạt các yêu cầu theo quy định: 3733/2002/QĐ-BYT do Bộ Y tế ban hành.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1049,
+      "text": "[TABLE] [CONTEXT] section: BẢNG THAM CHIẾU NỘI DUNG BÁO CÁO VỚI CHUẨN PHÁT TRIỂN BỀN VỮNG CỦA GRI ; column_headers: HẠNG MỤC | MÔ TẢ | THAM CHIẾU/TRẢ LỜI TRỰC TIẾP | TRANG [ROWS] HẠNG MỤC | MÔ TẢ | THAM CHIẾU/TRẢ LỜI TRỰC TIẾP | TRANG [ROW] DANH MỤC MÔI TRƯỜNG [ROW] NĂNG LƯỢNG- NƯỚC [ROW] G4- DMA | Phương pháp tiếp cận chung | BCTPBV - Cam kết về chính sách môi trường | 137 [ROW] EN3 | Tiêu thụ năng lượng trong tổ chức | BCTPBV - Kết quả hoạt động trong năm | 138-139 [ROW] EN6 | Giảm tiêu thụ năng lượng | BCTPBV - Kết quả hoạt động trong năm | 138-139 [ROW] EN7 | Cắt giảm nhu cầu năng lượng của sản phẩm dịch vụ | BCTPBV - Tiết giảm năng lượng điện, nước | 139-140 [ROW] NƯỚC [ROW] G4- DMA | Phương pháp tiếp cận chung | BCTPBV - Tiết kiệm nước | 139 [ROW] EN8 | Tổng lượng nước khai thác phân loại theo nguồn | BCTPBV - Tiết kiệm nước | 139-140 [ROW] EN10 | Phần trăm và tổng khối lượng nước được tái chế và tái sử dụng | BCTPBV - Tiết kiệm nước | 139-140 [ROW] NƯỚC THẢI – CHẤT THẢI [ROW] G4- DMA | Phương pháp tiếp cận chung | BCTPBV - Kết quả hoạt động trong năm | 140 [ROW] EN23 | Tổng lượng chất thải theo loại và phương pháp xử lý | BCTPBV - Xử lý nước thải – xử lý chất thải | 140 [ROW] EN24 | Tổng số lượng các vụ tràn chất thải và khối lượng tràn | BCTPBV - Xử lý chất thải | 140 [ROW] TUÂN THỦ [ROW] EN29 | Tổng số tiền phạt và số lần bị phạt (phi tài chính) do không tuân thủ quy định về môi trường và pháp luật | BCTPBV - Các chỉ số đo lường về trách nhiệm sản phẩm | 151 [ROW] TỔNG THỂ [ROW] G4- DMA | Phương pháp tiếp cận chung | BCTPBV - Báo cáo về môi trường | 141 [ROW] EN31 | Tổng chi phí đầu tư cho môi trường theo từng loại | BCTPBV - Báo cáo về môi trường | 144 [ROW] ĐÁNH GIÁ TÁC ĐỘNG MÔI TRƯỜNG CỦA NHÀ CUNG CẤP [ROW] G4- DMA | Phương pháp tiếp cận chung | BCTPBV - Môi trường làm việc | 141 [ROW] EN32 | Tỷ lệ phần trăm các NCC mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về môi trường | BCTPBV - Môi trường làm việc | 141-144 [ROW] EN33 | Các tác động môi trường tiêu cực thực tế và tiềm ẩn đáng kể trong chuỗi cung ứng và các biện pháp đã triển khai | BCTPBV- Môi trường làm việc",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

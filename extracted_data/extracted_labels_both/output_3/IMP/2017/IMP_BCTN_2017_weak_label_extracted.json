@@ -1,0 +1,98 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 859,
+      "text": "Công tác môi trường: Năm 2017 Sở Tài nguyên và môi trường thanh tra việc chấp hành pháp luật trong lĩnh vực tài nguyên và môi trường. Kết quả thực hiện như sau: Nước thải sau khi xử lý tại vị trí xả thải đạt cột A. Công ty thực hiện xây dựng kho chứa chất thải nguy hại, được phân loại và hợp đồng với Công ty TNHH Holcim xử lý. Chất thải sinh hoạt có hợp đồng với Công ty TNHH một thành viên Môi trường đô thị Đồng Tháp thu gom, xử lý theo qui định. Ngoài ra công ty thực hiện tốt báo cáo quản lý chất thải nguy hại, báo cáo giám sát môi trường định kỳ theo qui định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 1586,
+      "text": "Nước thải tại Imexpharm được phân thành 3 loại như sau: nước thải từ nước mưa chảy tràn, nước thải sinh hoạt và nước thải sản xuất. Imexpharm có biện pháp Xử lý nước thải cho 3 loại trên.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 2017,
+      "text": "[TABLE] [CONTEXT] section: Chất thải rắn không nguy hại ; row_headers: Tổng khối lượng Nhà máy Bình Dương | Tổng khối lượng Nhà máy Đồng Tháp | Tổng cộng | Chất thải rắn không nguy hại [ROWS] Chất thải rắn không nguy hại | ĐVT 2015 | 2016 | 2017 [ROW] Tổng khối lượng Nhà máy Bình Dương | Kg | 14.500 | 1.021 | 5.114 [ROW] Tổng khối lượng Nhà máy Đồng Tháp | Kg | 44.384 | 41.791 | 55.676 [ROW] Tổng cộng | Kg | 58.884 | 42.812 | 60.790",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 2018,
+      "text": "[TABLE] [CONTEXT] section: Chất thải rắn nguy hại ; row_headers: Tổng khối lượng Nhà máy Bình Dương | Tổng khối lượng Nhà máy Đồng Tháp | Tổng cộng | Chất thải rắn nguy hại [ROWS] Chất thải rắn nguy hại | ĐVT | 2015 | 2016 2017 [ROW] Tổng khối lượng Nhà máy Bình Dương | Kg | 7.700 | 4.068 | 12.800 [ROW] Tổng khối lượng Nhà máy Đồng Tháp | Kg | 15.580 | 16.659 | 21.676 [ROW] Tổng cộng | Kg | 23.280 | 20.727 | 34.476",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 2022,
+      "text": "[TABLE] [CONTEXT] section: Tham chiếu chỉ số GRI Standards ; column_headers: Công bố thông tin theo GRI STANDARDS | Tham chiếu GRI Standards | Đảm bảo bên ngoài | Trang tham chiếu [ROWS] CÔNG BỐ THÔNG TIN THEO TIÊU CHUẨN CHUNG [ROW] Công bố thông tin theo GRI STANDARDS | Tham chiếu GRI Standards | Đảm bảo bên ngoài | Trang tham chiếu [ROW] VẬT LIỆU [ROW] G301-1 | Vật liệu sử dụng tại Imemxpharm | 51-52, 238 [ROW] NĂNG LƯỢNG [ROW] G302-1 | Tiêu thụ năng lượng | 239-240 [ROW] Cường độ sử dụng năng lượng | 239-240 [ROW] Lượng nước tiêu thụ | 241 [ROW] KHÍ THẢI [ROW] G305-1 | Phát thải khí nhà kính (GHG) trực tiêp | 241-244 [ROW] NƯỚC THẢI VÀ CHẤT THẢI [ROW] G306-1 | Tổng lượng nước thải | 245 [ROW] Phương pháp xử lý nước thải | 245-249 [ROW] Vận chuyển chất thải nguy hại | 250 [ROW] TUÂN THỦ QUY ĐỊNH VỀ MÔI TRƯỜNG [ROW] G307-1 | Tuân thủ quy định về môi trường | 251",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 7
+      }
+    }
+  ]
+}

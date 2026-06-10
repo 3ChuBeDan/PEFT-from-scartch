@@ -1,0 +1,152 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "paragraph_id": 342,
+      "text": "Ngay sau khi có quyết định phê duyệt Báo cáo đánh giá tác động môi trường vào ngày 27/2/2019 của Bộ TNMT, ngày 10/4/2019, Đại hội đồng cổ đông BSR đã phê duyệt thiết kế tổng thể và Tổng dự toán xây dựng công trình Dự án NCMR NMLD Dung Quất tại Nghị quyết số 1144/NQ-ĐHĐCĐ. Điều này, đã khẳng định quyết tâm của BSR về việc triển khai Dự án nhằm đáp ứng tiêu chuẩn môi trường và đảm bảo sự phát triển bền vững cho BSR, đồng thời đưa Dự án sang giai đoạn triển khai mới - giai đoạn lựa chọn Nhà thầu EPC.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 488,
+      "text": "Báo cáo đánh giá tác động môi trường: Đã được Bộ Tài nguyên và Môi trường phê duyệt tại Quyết định số 439/QĐ-BTNMT ngày 27/2/2019.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 518,
+      "text": "» Tại thời điểm 31/12/2019, các khoản phải thu ngắn hạn khách hàng của Công ty tổng cộng là 9.972 tỷ đồng. Trong năm, Công ty triển khai áp dụng quy trình xử lý nợ quá hạn nên công tác thu hồi tương đối tốt, ngoại trừ công nợ của sản phẩm LPG và Polypropylene. Và tới thời điểm 31/12/2019, BSR có khoản nợ quá hạn 5,1 tỷ đồng và đã được thu hồi vào 2/1/2020.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 627,
+      "text": "» Tuân thủ quy định của luật pháp Việt Nam về đảm bảo an toàn và bảo vệ môi trường, thực hiện đầy đủ các cam kết tại báo cáo đánh giá tác động môi trường.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 849,
+      "text": "» Rủi ro phát triển sản phẩm thay thế: xu hướng thế giới đang dần dịch chuyển nhu cầu sử dụng nguồn năng lượng truyền thống (dầu mỏ/khí đốt, than, ...) sang năng lượng tái tạo, năng lượng sạch (điện, gió, khí, ...). Tuy nhiên với cơ sở hạ tầng hiện nay ở Việt Nam còn hạn chế thì việc phát triển các nguồn năng lượng sạch cần lộ trình khá dài, kinh phí đầu tư lớn. Trước bối cảnh này, để tăng tính cạnh tranh, giữ vững và tạo ra thị trường, BSR không ngừng đẩy mạnh công tác nghiên cứu và phát triển nhằm đổi mới, sáng tạo và cải tiến chất lượng sản phẩm. Trong ngắn hạn, BSR có thể chủ động trong việc tiêu thụ các loại sản phẩm lọc hóa dầu tại thị trường Việt Nam và trong khu vực trước các rủi ro phát triển sản phẩm mới.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 859,
+      "text": "» Lộ trình áp dụng tiêu chuẩn khí thải đối với ô tô đã được ban hành theo Quyết định số 49/QĐ-TTg ngày 01/9/2011 dự báo gây ra các khó khăn đối với BSR trong việc tiêu thụ sản phẩm với tiêu chuẩn khí thải Euro II/III của Nhà máy lọc dầu Dung Quất từ năm 2022.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 881,
+      "text": "Ngoài các nguồn năng lượng tự sản xuất, để phục vụ công tác chiếu sáng tại một số tòa nhà, tuyến ống và để vận hành hệ thống xử lý nước đầu vào, Nhà máy còn sử dụng điện lưới khoảng 5.496.587 kWh cho năm 2019.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1403,
+      "text": "[TABLE] [CONTEXT] section: 6. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG ; column_headers: Số cuối năm m SSố cuối năm | Số đầu nămm SSố đầu năm | VND VND ; row_headers: Tập đoàn Xăng dầu Việt Nam ăng dầu Việt Nam Tập đoàn Xăng dTập đoàn Xăng dầu Việt Nam | Công ty TNHH MTV Dầu khí Thành phố Hồ Chí Minh HH MTV Dầu khí Thành phố Hồ Chí Minh 781.2 Công ty TNHH MTV Dầu khí Thành phố Công ty TNHH MTV Dầu khí Thành phố Hồ Chí Minh | Công ty Cổ phần Nhiên liệu bay Petrolimex phần Nhiên liệu bay Petrolimex Công ty Cổ phần Nhiên liệu baCông ty Cổ phần Nhiên liệu bay Petrolimex | Công ty TNHH MTV Nhiên liệu Hàng không Việt Nam HH MTV Nhiên liệu Hàng không Việt Nam 368.8 Công ty TNHH MTV Nhiên liệu Hàng khôCông ty TNHH MTV Nhiên liệu Hàng không Việt Nam | Tổng Công ty Thương mạ ty Thương mạ i Xuất nhậ p ̣ p i Xuấkhẩu ấ t nhâ Than ̣ p khẩh ẩ Lễ Tổng Công ty Tổng Công ty Thương mạ ̣ y Thưi Xuấ ưấ ơng mt nhâ ̣ mạ i Xup khẩ Xẩ uất nhâp u Thanh Lễ | Công ty Cổ phần Thương mại Đầu tư Dầu khí Nam phần Thương mại Đầu tư Dầu khí Nam 337. Sông Hậu Công ty Cổ phần Thương mại Đầu tư Công ty Cổ phần Thương mại Đầu tư Dầu khí Nam Sông Hậu | Công ty TNHH một thành viên Tổng công ty Xăng HH một thành viên Tổng công ty Xăng 228 dầu Quân Độiội Công ty TNHH một thành viên Tổng cCông ty TNHH một thành viên Tổng công ty Xăng ddầu Quân Đội | Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp HH MTV Thương mại Dầu khí Đồng Tháp 172.6 Công ty TNHH MTV Thương mại Dầu khCông ty TNHH MTV Thương mại Dầu khí Đồng Tháp | Công ty Cổ phần Nhựa OPEC phần Nhựa OPEC Công ty Cổ phần Công ty Cổ phần Nhựa OPEC | Cáang Ć c khág khác ́́ ch hàc h̀ ng khá ́ c Cá Ć c khá ́ Cch hà h̀ Các kháng khá h́́ acc | (Chi tiết tại Thuyết minh số 34) Thuyết minh số 34) (Chi tiết tại Thuyết (Chi tiết tại Thuyết minh số 34) [ROWS] Số cuối năm m SSố cuối năm | Số đầu nămm SSố đầu năm [ROW] VND VND | VND VND [ROW] a. Phải thu ngắn hạn của khách hàng ngắn hạn của khách hàng a. Phải thu ngắn hạn của a. Phải thu ngắn hạn của khách hàng [ROW] Tập đoàn Xăng dầu Việt Nam ăng dầu Việt Nam Tập đoàn Xăng dTập đoàn Xăng dầu Việt Nam | 3.535.894.938.330 38.330 3.165. 3.535.83.535.894.938.330 | 3.165.211.371.019 71.019 38.330 3.165.23.165.211.371.019 [ROW] Công ty TNHH MTV Dầu khí Thành phố Hồ Chí Minh HH MTV Dầu khí Thành phố Hồ Chí Minh 781.2 Công ty TNHH MTV Dầu khí Thành phố Công ty TNHH MTV Dầu khí Thành phố Hồ Chí Minh | 781.224.375.250 5.250 709. Minh 781.2781.224.375.250 | 709.077.185.116 5.116 .250 709.0709.077.185.116 [ROW] Công ty Cổ phần Nhiên liệu bay Petrolimex phần Nhiên liệu bay Petrolimex Công ty Cổ phần Nhiên liệu baCông ty Cổ phần Nhiên liệu bay Petrolimex | 417.493.076.919 6.919 280. 417.4417.493.076.919 | 280.583.780.611 0.611 .919 280.5280.583.780.611 [ROW] Công ty TNHH MTV Nhiên liệu Hàng không Việt Nam HH MTV Nhiên liệu Hàng không Việt Nam 368.8 Công ty TNHH MTV Nhiên liệu Hàng khôCông ty TNHH MTV Nhiên liệu Hàng không Việt Nam | 368.899.103.335 3.335 208. Nam 368.8368.899.103.335 | 208.966.032.524 2.524 .335 208.9208.966.032.524 [ROW] Tổng Công ty Thương mạ ty Thương mạ i Xuất nhậ p ̣ p i Xuấkhẩu ấ t nhâ Than ̣ p khẩh ẩ Lễ Tổng Công ty Tổng Công ty Thương mạ ̣ y Thưi Xuấ ưấ ơng mt nhâ ̣ mạ i Xup khẩ Xẩ uất nhâp u Thanh Lễ | u Thanh 356 356.963.568.927 8.927 343. anh 356.9356.963.568.927 | 343.364.195.401 5.401 .927 343.3343.364.195.401 [ROW] Công ty Cổ phần Thương mại Đầu tư Dầu khí Nam phần Thương mại Đầu tư Dầu khí Nam 337. Sông Hậu Công ty Cổ phần Thương mại Đầu tư Công ty Cổ phần Thương mại Đầu tư Dầu khí Nam Sông Hậu | 337.646.814.576 4.576 Nam 337.6337.646.814.576 | - - [ROW] Công ty TNHH một thành viên Tổng công ty Xăng HH một thành viên Tổng công ty Xăng 228 dầu Quân Độiội Công ty TNHH một thành viên Tổng cCông ty TNHH một thành viên Tổng công ty Xăng ddầu Quân Đội | 228.173.977.433 7.433 209. ăng 228.1228.173.977.433 | 209.827.987.448 7.448 .433 209.8209.827.987.448 [ROW] Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp HH MTV Thương mại Dầu khí Đồng Tháp 172.6 Công ty TNHH MTV Thương mại Dầu khCông ty TNHH MTV Thương mại Dầu khí Đồng Tháp | 172.609.849.830 9.830 268. Tháp 172.6172.609.849.830 | 268.885.735.528 5.528 .830 268.8268.885.735.528 [ROW] Công ty Cổ phần Nhựa OPEC phần Nhựa OPEC Công ty Cổ phần Công ty Cổ phần Nhựa OPEC | 159.266.036.547 6.547 270. 159.2159.266.036.547 | 270.130.440.331 0.331 .547 270.270.130.440.331 [ROW] Cáang Ć c khág khác ́́ ch hàc h̀ ng khá ́ c Cá Ć c khá ́ Cch hà h̀ Các kháng khá h́́ acc | 1.559.429.158.972 58.972 1.768. 1.559.41.559.429.158.972 | 1.768.000.446.574 46.574 58.972 1.768.01.768.000.446.574 [ROW] b. Phải thu khách hàng các bên liên quankhách hàng các bên liên quan b. Phải thu khách hàng các bêb. Phải thu khách hàng các bên liên quan [ROW] (Chi tiết tại Thuyết minh số 34) Thuyết minh số 34) (Chi tiết tại Thuyết (Chi tiết tại Thuyết minh số 34) | 1.837.133.892.338 92.338 1.516. 1.837.11.837.133.892.338 | 1.516.952.225.140 25.140 92.338 1.516.91.516.952.225.140 [ROW] 9.754.734.792.457 792.457 8.740.9 9.754.739.754.734.792.457 | 8.740.999.399.692 399.692 792.457 8.740.998.740.999.399.692",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

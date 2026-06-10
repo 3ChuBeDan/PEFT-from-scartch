@@ -1,0 +1,56 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Về xử lý nước thải có 02 nhà máy xử lý nước thải có công suất tối đa là 6.000m3/ngày đêm mỗi nhà máy . Tổng lượng nước thải KCN này xử lý trong năm là 3.773.444 m3 bằng 124,5% so với năm 2018.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Về xử lý nước thải SHP đã phối hợp với công ty TNHH KHCN Môi Trường Quốc Việt hoàn thiện nâng cấp công suất của nhà máy xử lý nước thải giai đoạn 1 từ 1.500m 3 /ngày đêm lên 4.000m 3 /ngày đêm, đảm bảo đáp ứng đủ công suất xử lý trước khi nhà đầu tư đi vào hoạt động. Công ty SHP tiếp tục phối hợp với công ty Cổ phần Môi trường xanh Posbee xây dựng và hoàn thiện nhà máy xử lý nước thải giai đoạn 2. Hiện nay, tổng công suất xử lý của nhà máy nước thải tập trung của KCN Tràng Duệ là 8.000m3/ngày đêm, đã được Bộ Tài nguyên và Môi trường cấp giấy phép xả thải, đảm bảo đáp ứng xử lý lượng nước thải phát sinh của KCN Tràng Duệ. Tổng lượng nước thải xử lý toàn bộ KCN Tràng Duệ là: 1.567.427 m3 .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "bình 1.182,9 m 3 /ngđêm; có 01 nhà máy xử lý nước thải công suất 4.000 m 3 /ngđêm, tổng lượng nước thải đã xử lý trong năm 2019: 416.252,4m 3 , lưu lượng xử lý nước thải trung bình: 1.140,4m 3 /ngđêm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

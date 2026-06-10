@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: 7. Tăng, giảm tài sản cố định vô hình ; column_headers: Đơn vị tính: VND Quyền sử dụng đất ; row_headers: Số dư đầu năm | Số tăng trong năm | Số giảm trong nam | Số dư cuối năm | Khấu hao trong năm | Số giảm trong năm | Giá trị còn lại | Tại ngày đầu năm | Tại ngày cuối năm | 31/12/2009 | VND | Chi phí khảo sát Nhà máy ép phun tại Sóng Thần | 25.470.000 | Cộng | Đầu tư dài hạn khác | 8.155.000.000 | - Đầu tư cổ phiếu -Công ty Cổ phần Nhựa Đà Nẵng (650.000 cổ phiếu) | 8.125.000.000 | - Công trái | 30.000.000 | Dự phòng giảm giá đầu tư tài chính dài hạn | - [ROWS] Đơn vị tính: VND Quyền sử dụng đất [ROW] Nguyên giá [ROW] Số dư đầu năm | 33.997.873.907 [ROW] Số tăng trong năm | 1.998.311.750 [ROW] Số giảm trong nam | - [ROW] Số dư cuối năm | 35.996.185.657 [ROW] Giá trị hao mòn luỹ kế [ROW] Số dư đầu năm | 3.103.829.935 [ROW] Khấu hao trong năm | 762.250.680 [ROW] Số giảm trong năm | - [ROW] Số dư cuối năm | 3.866.080.615 [ROW] Giá trị còn lại [ROW] Tại ngày đầu năm | 30.894.043.972 [ROW] Tại ngày cuối năm | 32.130.105.042 [ROW] 8. | Chi phí xây dựng cơ bản dở dang [ROW] 31/12/2009 | 01/01/2009 [ROW] VND | VND [ROW] Chi phí khảo sát Nhà máy ép phun tại Sóng Thần | 25.470.000 | 25.470.000 [ROW] Cộng | 25.470.000 | 25.470.000 [ROW] 9. | Các khoản đầu tư tài chính dài hạn [ROW] 31/12/2009 | 01/01/2009 [ROW] VND | VND [ROW] Đầu tư dài hạn khác | 8.155.000.000 | 8.155.000.000 [ROW] - Đầu tư cổ phiếu -Công ty Cổ phần Nhựa Đà Nẵng (650.000 cổ phiếu) | 8.125.000.000 | 8.125.000.000 [ROW] - Công trái | 30.000.000 | 30.000.000 [ROW] Dự phòng giảm giá đầu tư tài chính dài hạn | - | (1.690.000.000) [ROW] Cộng | 8.155.000.000 | 6.465.000.000",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 7. Increases / (decreases) of intangible fixed assets ; column_headers: Unit: VND Land use right ; row_headers: Opening balance | Increases | Decreases | Ending balance | Amotization | 8. Construction - in - progress | VND | Expenses to survey Press-Spray Plant at Song Than 25,470,000 | 25,470,000 | 9. Long-term investments | 31/12/2009 | Other long-term investments | 8,155,000,000 | - Purchased Shares of Danang Plastic Joint Stock Company» (650.000 shares) | 8,125,000,000 | - Government bonds | 30,000,000 | Provision for devaluation of long-term investments | - [ROWS] Unit: VND Land use right [ROW] Initial cost [ROW] Opening balance | 33,997,873,907 [ROW] Increases | 1,998,311,750 [ROW] Decreases | - [ROW] Ending balance | 35,996,185,657 [ROW] Amortization [ROW] Opening balance | 3,103,829,935 [ROW] Amotization | 762,250,680 [ROW] Decreases | - [ROW] Ending balance | 3,866,080,615 [ROW] Net book value [ROW] Opening balance | 30,894,043,972 [ROW] Ending balance | 32,130,105,042 [ROW] 8. Construction - in - progress | 31/12/2009 | 01/01/2009 [ROW] VND | VND [ROW] Expenses to survey Press-Spray Plant at Song Than 25,470,000 | 25,470,000 [ROW] Total | 25,470,000 | 25,470,000 [ROW] 9. Long-term investments | 31/12/2009 | 01/01/2009 [ROW] VND | VND [ROW] Other long-term investments | 8,155,000,000 | 8,155,000,000 [ROW] - Purchased Shares of Danang Plastic Joint Stock Company» (650.000 shares) | 8,125,000,000 | 8,125,000,000 [ROW] - Government bonds | 30,000,000 | 30,000,000 [ROW] Provision for devaluation of long-term investments | - | (1,690,000,000) [ROW] Total | 8,155,000,000 | 6,465,000,000",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

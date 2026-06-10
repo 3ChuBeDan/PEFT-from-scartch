@@ -1,0 +1,152 @@
+{
+  "extracted_count": 11,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tham mưu giúp Tổng Giám đốc Tập đoàn chỉ đạo, quản lý, điều hành công tác định hướng chiến lược phát triển, xác định quy mô đầu tư và tổ chức triển khai ứng dụng công nghệ thông tin, điện tử viễn thông và tự động hóa hệ thống thông tin; tổ chức khai thác hiệu quả hệ thống cơ sở hạ tầng (phần mềm, phần cứng) do Tập đoàn đầu tư tập trung và hệ thống thông tin liên lạc tại cơ quan Tập đoàn.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

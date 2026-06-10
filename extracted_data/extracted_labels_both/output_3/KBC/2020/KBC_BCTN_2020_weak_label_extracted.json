@@ -1,0 +1,77 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 424,
+      "text": "Về xử lý nước thải có 02 nhà máy xử lý nước thải có công suất tối đa là 6.000m3/ngày đêm mỗi nhà máy . Tổng lượng nước thải KCN này xử lý trong năm là 4.497.389 m3.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 427,
+      "text": "Về xử lý nước thải có 01 nhà máy nước thải với công suất 4.000 m3/ngày đêm và nhà máy xử lý nước thải giai đoạn 2 với công suất 5.000 m3/ngày đêm. Lưu lượng xử lý bình quân 8.500 m3/ngày đêm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 429,
+      "text": "Về xử lý nước thải Công ty SHP đã phối hợp với 2 công ty xử lý nước thải là Công ty TNHH KHCN Môi Trường Quốc Việt và công ty Cổ phần Môi trường xanh Posbee với tổng công suất x ử lý của 2 nhà máy xử lý nước thải tập trung tại KCN Tràng Duệ là 8.000m3/ngày đêm. Cả hai nhà máy đều đã được Bộ Tài nguyên và Môi trường cấp giấy phép xả thải, đảm bảo đáp ứng xử lý lượng nước thải phát sinh của KCN Tràng Duệ. Tổng lượng nước thải xử lý toàn bộ KCN Tràng Duệ năm 2020 là: 1.758.086 m3.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "paragraph_id": 430,
+      "text": "Tại Khu công nghiệp Tân Phú Trung có 01 nhà máy cấp nước sạch có công suất tối đa 3.000m 3 /ngđêm, trong năm 2020 tổng lượng nước sạch đã cung cấp cho các nhà đầu tư là: 784.935m3trung bình 2.151 m 3 /ngđêm; có 01 nhà máy xử lý nước thải công suất 4.000 m 3 /ngđêm, tổng lượng nước thải đã xử lý trong năm 2020 là: 570.578,4m3, lưu lượng xử lý nước thải trung bình: 1.563m 3 /ngđêm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

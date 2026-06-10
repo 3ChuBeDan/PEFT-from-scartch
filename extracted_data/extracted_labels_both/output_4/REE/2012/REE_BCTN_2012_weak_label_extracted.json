@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: 27.1 Obligations under operating leases ; column_headers: VND 31 December 2011 ; row_headers: Less than one year | From one to five years | More than five years | Total Minimum Lease Payments [ROWS] 31 December 2012 | VND 31 December 2011 [ROW] Less than one year | 11,767,874,113 | 14,414,178,908 [ROW] From one to five years | 27,362,005,852 | 31,295,660,240 [ROW] More than five years | - | 583,450,000 [ROW] Total Minimum Lease Payments | 39,129,879,965 | 46,293,289,148",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

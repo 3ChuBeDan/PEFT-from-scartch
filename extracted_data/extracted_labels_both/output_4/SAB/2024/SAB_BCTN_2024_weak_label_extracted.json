@@ -1,0 +1,35 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ RỦI RO ; column_headers: RỦI RO | BIỆN PHÁP GIẢM THIỂU [ROWS] RỦI RO | BIỆN PHÁP GIẢM THIỂU [ROW] AN NINH MẠNG [ROW] Rủi ro an ninh mạng đang trở thành thách thức ngày càng lớn đối với SABECO khi Công ty đang tăng cường ứng dụng hệ thống số vào quá trình vận hành, quản lý chuỗi cung ứng và tương tác với khách hàng. Khả năng bị tấn công mạng, rò rỉ dữ liệu hoặc gián đoạn hệ thống có thể làm lộ thông tin mật, ảnh hưởng đến sự liên tục trong kinh doanh và gây tổn hại đến uy tín thương hiệu. | • Thực hiện đánh giá định kỳ lỗ hổng bảo mật và kiểm tra xâm nhập để xác định và khắc phục các điểm yếu tiềm ẩn. • Cập nhật thường xuyên các quy định về bảo vệ dữ liệu và áp dụng các biện pháp để tuân thủ yêu cầu pháp lý. • Tăng cường cơ sở hạ tầng CNTT thông qua việc triển khai tường lửa, hệ thống phát hiện xâm nhập và mã hóa nâng cao để bảo vệ thông tin bí mật. • Tổ chức đào tạo cho nhân viên về các phương pháp bảo mật mạng theo thông lệ tốt nhất • Xây dựng một kế hoạch ứng phó sự cố toàn diện để giảm thiểu thiệt hại và đảm bảo khắc phục nhanh chóng trong trường hợp xảy ra vi phạm bảo mật.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 513,
+      "text": "Nhằm thực hiện cam kết với các đối tác là các tổ chức nước ngoài, đồng thời, nâng cao hiệu quả của hệ thống phòng, chống rửa tiền, trong năm 2016, Eximbank đã ký kết hợp đồng sử dụng dịch vụ cung cấp danh sách đen của Accuity và tích hợp thành công các danh sách này vào hệ thống phòng, chống rửa tiền. Eximbank cũng đã triển khai công cụ tra cứu thông tin các đối tượng bị hạn chế giao dịch eNameCheck đến từng cán bộ, nhân viên, tạo sự thuận lợi khi thực hiện thực hiện giao dịch nhưng vẫn đáp ứng yêu cầu của công tác phòng, chống rửa tiền.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 1229,
+      "text": "[TABLE] [CONTEXT] section: Một số chỉ tiêu tài chính cơ bản ; column_headers: Đơn vị tính | Năm 2016 | Năm 2015 | % tăng/giảm so năm 2015 ; row_headers: Tổng tài sản | Vốn chủ sở hữu | Trong đó: Vốn điều lệ | Tỷ lệ an toàn vốn (CAR) hợp nhất | Huy động vốn từ các tổ chức kinh tế và dân cư | Tổng dư nợ cấp tín dụng | Trong đó, dư nợ cho vay tổ chức kinh tế và dân cư | Nợ quá hạn (nhóm 2-5) | Nợ xấu (nhóm 3-5) | Tỷ lệ nợ quá hạn/tổng dư nợ | Tỷ lệ nợ xấu/tổng dư nợ | Thu nhập lãi thuần | Thu nhập ngoài lãi thuần | Thu nhập thuần từ hoạt động khác | Tổng thu nhập hoạt động kinh doanh | Tổng chi phí hoạt động | Lợi nhuận thuần tư HĐKD trước trích DPRR tín dụng | Chi phí dự phòng rủi ro | Lợi nhuận trước thuế | Thuế thu nhập doanh nghiệp | Lợi nhuận sau thuế | Tỷ suất lợi nhuận/Vốn chủ sở hữu (ROE) | Tỷ suất lợi nhuận/Tổng tài sản (ROA) | Tỷ lệ khả năng thanh toán ngay (quy đổi VND) | Tỷ lệ nguồn vốn ngắn hạn được sử dụng để cho vay trung và dài hạn | 6. Tỷ lệ chi trả cổ tức [ROWS] Chỉ tiêu | Đơn vị tính | Năm 2016 | Năm 2015 | % tăng/giảm so năm 2015 [ROW] 1. Quy mô vốn [ROW] Tổng tài sản | tỷ đồng | 128.802 | 124.850 | 3,2 [ROW] Vốn chủ sở hữu | tỷ đồng | 13.448 | 13.145 | 2,3 [ROW] Trong đó: Vốn điều lệ | tỷ đồng | 12.355 | 12.355 | 0,0 [ROW] Tỷ lệ an toàn vốn (CAR) hợp nhất | % | 17,12 | 16,52 | 3,6 [ROW] 2. Kết quả hoạt động [ROW] Huy động vốn từ các tổ chức kinh tế và dân cư | tỷ đồng | 102.351 | 98.431 | 4,0 [ROW] Tổng dư nợ cấp tín dụng | tỷ đồng | 95.511 | 96.188 | -0,7 [ROW] Trong đó, dư nợ cho vay tổ chức kinh tế và dân cư | tỷ đồng | 86.891 | 84.760 | 2,5 [ROW] Nợ quá hạn (nhóm 2-5) | tỷ đồng | 2.972 | 2.069 | - [ROW] Nợ xấu (nhóm 3-5) | tỷ đồng | 2.560 | 1.575 | - [ROW] Tỷ lệ nợ quá hạn/tổng dư nợ | % | 3,42 | 2,44 | - [ROW] Tỷ lệ nợ xấu/tổng dư nợ | % | 2,95 | 1,86 | - [ROW] 3. Tình hình tài chính [ROW] Thu nhập lãi thuần | tỷ đồng | 3.082 | 3.398 | -9,3 [ROW] Thu nhập ngoài lãi thuần | tỷ đồng | 585 | 317 | 84,5 [ROW] Thu nhập thuần từ hoạt động khác | tỷ đồng | 68 | 85 | -20,0 [ROW] Tổng thu nhập hoạt động kinh doanh | tỷ đồng | 3.735 | 3.800 | -1,7 [ROW] Tổng chi phí hoạt động | tỷ đồng | -2.255 | -2.305 | -2,2 [ROW] Lợi nhuận thuần tư HĐKD trước trích DPRR tín dụng | tỷ đồng | 1.480 | 1.495 | -1,0 [ROW] Chi phí dự phòng rủi ro | tỷ đồng | -1.089 | -1.434 | -24,1 [ROW] Lợi nhuận trước thuế | tỷ đồng | 391 | 61 | - [ROW] Thuế thu nhập doanh nghiệp | tỷ đồng | -82 | -21 | - [ROW] Lợi nhuận sau thuế | tỷ đồng | 309 | 40 | - [ROW] 4. Khả năng sinh lời [ROW] Tỷ suất lợi nhuận/Vốn chủ sở hữu (ROE) | % | 2,32 | 0,30 | - [ROW] Tỷ suất lợi nhuận/Tổng tài sản (ROA) | % | 0,24 | 0,03 | - [ROW] 5. Khả năng thanh khoản [ROW] Tỷ lệ khả năng thanh toán ngay (quy đổi VND) | % | 14,57 | 16,51 | -11,8 [ROW] Tỷ lệ nguồn vốn ngắn hạn được sử dụng để cho vay trung và dài hạn | % | 53,23 | 48,79 | 9,1 [ROW] 6. Tỷ lệ chi trả cổ tức | %/năm | 0 | 0 | -",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "paragraph_id": 1249,
+      "text": "[TABLE] [CONTEXT] section: (g) Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro tín dụng (tiếp theo) ; column_headers: Nhóm | Tình hình quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm | Tình hình quá hạn | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn.. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian 30 ngày kể từ ngày có quyết định thu hồi: Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. | 20% [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra nhưng đã quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. | 50% [ROW] 5 | Nợ có khả năng mất vốn | (a) Nợ quá hạn trên 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc (d) Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã quá hạn; hoặc (e) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc (f) Nợ phải thu hồi theo kết luận thanh tra nhưng đã quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc (g) Nợ của khách hàng là tổ chức tín dụng được NHNNVN công bố đặt vào tình trạng kiểm soát đặc biệt, chi nhánh ngân hàng nước ngoài bị phong tỏa vốn và tài sản. | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 5
+      }
+    }
+  ]
+}

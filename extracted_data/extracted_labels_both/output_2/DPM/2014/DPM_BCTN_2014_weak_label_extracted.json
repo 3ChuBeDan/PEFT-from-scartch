@@ -1,0 +1,42 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: CÔNG TÁC BẢO VỆ MÔI TRƯỜNG VÀ KIỂM SOÁT CHẤT THẢI [ROWS] STT | LOẠI CHẤT THẢI | ĐVT | SỐ LƯỢNG | HỆ THỐNG XỬ LÝ [ROW] 1 | Nước thải sản xuất | m3 /năm | 98.874 | Hệ thống xử lý nước thải tập trung công suất 680 m 3 công suất 680 m3 /ngày 2 Nước thải sinh hoạt m3 /năm 214.069 [ROW] Nước thải sinh hoạt | m3 /năm | 214.069 [ROW] 3 | Nước làm mát | m3 /năm | 19.265.989 | - [ROW] 4 | Nước tuần hoàn tái sử dụng | m 3 /năm | 508 | Nước thải nhiễm Amoniac được đưa về xưởng urê để tuần hoàn tái sử dụng [ROW] 5 | Khí thải | Nm3/h | 5.950.355.320 | • Hệ thống đốt đuốc • Hệ thống ống khói cao phát tán [ROW] 6 | Chất thải rắn sinh hoạt | Kg/năm | 531.363 | Hợp đồng với đơn vị chức năng để đưa đi xử lý theo đúng quy định [ROW] 7 | Chất thải rắn công nghiệp | Kg/năm | 196.978 [ROW] 8 | Chất thải nguy hại | Kg/năm | 55.738",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 15
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: AN TOÀN, SỨC KHỎE VÀ BẢO VỆ MÔI TRƯỜNG (tiếp theo) ; column_headers: STT | NỘI DUNG THỰC HIỆN TIẾT KIỆM TRONG CÔNG TÁC QUẢN LÝ MÔI TRƯỜNG | CHI PHÍ XỬ LÝ CHẤT THẢI (ĐVT: VNĐ) | SỐ TIỀN TIẾT KIỆM ĐƯỢC | Năm 2014 (áp dụng cải tiến) | (ĐVT: VNĐ) | Năm 2013 [ROWS] STT | NỘI DUNG THỰC HIỆN TIẾT KIỆM TRONG CÔNG TÁC QUẢN LÝ MÔI TRƯỜNG | CHI PHÍ XỬ LÝ CHẤT THẢI (ĐVT: VNĐ) | SỐ TIỀN TIẾT KIỆM ĐƯỢC [ROW] Năm 2014 (áp dụng cải tiến) | Năm 2013 | (ĐVT: VNĐ) [ROW] 1 | Giảm chi phí xử lý một số mã chất thải nguy hại | 259.575.400 | 863.134.800 | 836.045.800 [ROW] 1.1 | Rà soát, phân loại lại một số mã chất thải nguy hại thường xuyên phân loại không đúng tại kho chứa của nhà máy dưới sự hỗ trợ của công nhân Trung Hiếu trước khi chuyển giao cho đơn vị có chức năng xử lý. | 80.632.200 | 348.480.000 | 267.847.800 [ROW] 1.2 | Thực hiện thu hồi giá trị sau xử lý của chất thải nguy hại có khả năng tận thu, tái chế. | 116.243.200 | 138.454.800 | 254.698.000 [ROW] 1.3 | Xác định đúng bản chất nguy hại của chất thải bằng cách gửi mẫu của 57 tấn xúc tác thải cho bên thứ ba phân tích đối chứng. | 62.700.000 | 376.200.000 | 313.500.000 [ROW] 2 | Phân tích đối chứng giảm chi phí xử lý nước thải | 99.441.000 | 161.505.000 | 62.064.000 [ROW] 3 | Được cơ quan chức năng chấp thuận không phải thực hiện Báo cáo ĐTM cho Kho Tiền Giang | - | - | 500.000.000",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    }
+  ]
+}

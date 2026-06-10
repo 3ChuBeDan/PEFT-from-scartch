@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Với lợi thế từ việc xây dựng và phát triển được một hệ thống quản trị rủi ro theo chuẩn quốc tế, công tác này trong năm 2016 sẽ tiếp tục phát huy công tác xây dựng, đề xuất và đệ trình các chiến lược, chính sách và quy định quản trị rủi ro phù hợp với các mục tiêu chiến lược, nhằm tăng cường áp dụng các thông lệ tốt về quản trị rủi ro và quản trị doanh nghiệp tại BSC. Các quy định được xây dựng phù hợp với định hướng hoạt động của BSC trong năm 2016, và sẵn sàng chuẩn bị cho sự ra đời của các sản phẩm phái sinh phức tạp hơn sắp được UBCKNN và các Sở Giao dịch cho phép cung cấp ra thị trường. Ngoài ra, QTRR BSC chú trọng các công tác sau: Quản trị rủi ro về gian lận và giao dịch nội gián: Rà soát và kiểm tra hệ thống phân quyền nhằm nâng cao tối đa công tác bảo mật thông tin. Quản trị rủi ro mối Quan hệ thông tin doanh nghiệp: rủi ro v ề thông tin sai lệch có thể ảnh hưởng đến uy tín của Công ty, đây là một rủi ro đã được BSC nhận định và đặc biệt quan tâm từ năm 2015. BSC đã thành lập bộ phận Quan hệ thông tin doanh nghiệp nhằm chuẩn hóa các thông tin được công bố và thiết lập quy trình xử lý các thông tin sai lệch về BSC.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "-Sự trung thực và thẳng thắn, sẵn sàng nói thẳng, nói thật để công việc được tốt hơn, trên cơ sở tôn trọng bản thân và tôn trọng đồng nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

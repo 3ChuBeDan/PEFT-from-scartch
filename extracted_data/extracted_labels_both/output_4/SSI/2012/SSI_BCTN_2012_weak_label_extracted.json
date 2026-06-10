@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 467,
+      "text": "Trong năm 2013, nhiều khả năng các tập đoàn kinh tế sẽ tiếp tục nâng giá bán các sản phẩm xăng dầu, than và điện. Với Vinacomin, theo báo cáo giá bán than cho ngành điện chỉ bằng 70% chi phí (Vinacomin đã chịu lỗ 6,5 nghìn tỷ đồng khi bán than cho EVN). Với EVN, Nhà nước hiện đang trợ cấp lượng điện cung cấp cho các nhóm thu nhập thấp còn Petrolimex công bố chỉ tính 70% chi phí bán hàng vào giá bán. Dường như các tập đoàn kinh tế đều có lý do để tăng giá bán, nếu không, kế hoạch kinh doanh năm 2013 của họ có thể sẽ thấp hơn. Ước tính của chúng tôi cho thấy giá điện và giá than áp dụng cho các công ty điện có thể tăng 13% và 40%. Do đó, sẽ tạo ra áp lực lạm phát bởi giá những mặt hàng này có thể tạo ra hiệu ứng domino cho các mặt hàng khác.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 854,
+      "text": "Tất cả nhà máy đều đảm bảo nước thải đạt chất lượng theo tiêu chuẩn QCVN 40:2011 (loại A hoặc loại B) trước khi xả ra môi trường hoặc xả vào hệ thống thu gom nước thải của khu công nghiệp. Công tác quan trắc môi trường nước thải định kỳ của các đơn vị đều tuân thủ đúng tần suất như trong báo cáo Đánh giá tác động môi trường (ĐTM) được phê duyệt.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "E_COMMON": 1.0,
+        "S6": 0.412568
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E_COMMON": 3,
+        "S6": 1
+      }
+    },
+    {
+      "paragraph_id": 1218,
+      "text": "[TABLE] [CONTEXT] section: Các sáng kiến tiết kiệm năng lượng ; caption: Tiêu thụ điện trong sản xuất ; column_headers: STT | Sáng kiến | Kết quả [ROWS] STT | Sáng kiến | Kết quả [ROW] 1 | Lắp đặt hệ thống thu hồi lượng hơi nước bay hơi tại nồi đun sôi | • Giảm tiêu hao khoảng 96MJ nhiệt cho sản xuất 1.000 lít bia [ROW] 2 | Lắp đặt hệ thống làm lạnh phân tầng | • Tăng hiệu quả năng lượng (COP) • Giảm công suất máy nén và tiêu thụ điện năng [ROW] 3 | Tận dụng nước nóng dư từ nhà nấu sử dụng cho các công đoạn của sản xuất | • Giảm tiêu thụ hơi nóng và nước [ROW] 4 | Sử dụng lò hơi BIOMASS dùng nguyên liệu đốt từ thực vật (trấu, mùn cưa, vỏ hạt điều và lá cây) | • Hạn chế việc sử dụng nguyên liệu hóa thạch (dầu DO, FO và than đá) [ROW] 5 | Lắp đặt thiết bị thu hồi nhiệt từ khói thải để gia nhiệt nước cấp lò | • Giảm tiêu thụ hơi nóng [ROW] 6 | Thay thế và lắp đặt các van hơi, cốc ngưng chuẩn để chống rò rỉ hơi | • Tiết kiệm lượng hơi tổn thất trên đường ống [ROW] 7 | Bảo trì lò hơi và sử dụng chất chống cáu cặn | • Tăng hiệu suất lò [ROW] 8 | Bảo ôn đường ống nóng và lạnh | • Ngăn chặn các điểm rò rỉ hơi nóng và khí nén [ROW] 9 | Sử dụng đèn LED và chiếu sáng tự nhiên bằng tấm lợp trong suốt hoặc lấy sáng bên hông nhà xưởng tại các khu vực sản xuất | • Tiết kiệm điện [ROW] 10 | Đầu tư hệ thống năng lượng mặt trời | • Tiết kiệm điện",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

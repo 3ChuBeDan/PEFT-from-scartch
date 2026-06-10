@@ -1,0 +1,96 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Tổng phát thải khí nhà kính (GHG) trực tiếp và gián tiếp: Lĩnh vực kinh doanh của KBC không thuộc lĩnh vực phải kiểm kê khí nhà kính, thực tế hoạt động của KBC không có phát thải khí nhà kính.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Quản lý nguồn nguyên vật liệu: KBC là đơn vị phát triển hạ tầng các khu công nghiệp thông qua hình thức thuê nhà thầu, chúng tôi không quản lý chi tiết khối lượng vật liệu xây dựng, v.v; Không có hoạt động tái chế nguyên vật liệu được sử dụng; Chúng tôi không sử dụng nước tái chế và tái sử dụng, toàn bộ nước thải từ các nhà máy trong KCN được xử lý đạt tiêu chuẩn của KCN, được xả ra hệ thống thu gom KCN và được đưa về nhà máy xử lý nước thải tập trung để xử lý nước thải sau xử lý đạt QCVN 40/2011/BTNMT cột A xả ra môi trường .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Công tác bảo vệ môi trường, bảo vệ tài nguyên điện, nước luôn được Tổng Công ty quan tâm chú trọng. Từ việc tuân thủ các quy định về thủ tục hành chính theo luật Bảo vệ Môi trường 2020 (có hiệu lực thực thi từ 01/01/2022) cho đến việc thực hiện các công tác Bảo vệ Môi trường (như công trình xử lý nước thải) đảm bảo xử lý toàn bộ nước thải của KCN đạt quy chuẩn vô trùng trước khi thải ra nguồn tiếp nhận, thực hiện đầu tư thêm hệ thống xử lý nước thải dự phòng trong trường hợp khẩn cấp.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "text": "-Xỷ lý nước thải: 01 nhà máy xử lý nước thải có công suất tối đa là 9.000m3/ngày đêm đã xây xong, đã hoàn thành xây dựng và lắp đặt công nghệ cho giai đoạn 1 có công suất 6.000m3/ ngày đêm. Nhà máy xử lý nước thải vận hành thử nghiệm từ tháng 9/2023 đến tháng 3/2024 sẽ đi vào hoạt động chính thức trong Quý II năm 2024.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "-Xỷ lý nước thải: Công ty SHP đã phối hợp với 2 công ty xử lý nước thải là Công ty TNHH KHCN Môi Trường Quốc Việt và công ty Cổ phần Môi trường xanh Posbee với tổng công suất của 2 nhà máy xử lý nước thải tập trung tại KCN Tràng Duệ là 12.000m3/ngày đêm. Cả hai nhà máy đều đã được Bộ Tài nguyên và Môi trường cấp giấy phép môi trường, đảm bảo đáp ứng x ử lý lượng nước thải phát sinh của KCN Tràng Duệ .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

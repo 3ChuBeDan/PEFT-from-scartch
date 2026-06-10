@@ -1,0 +1,80 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Không chỉ quan tâm đến đời sống tinh thần của riêng Nhân viên, SSI còn có những chương trình dành cho gia đình và người thân. Những ngày lễ lớn như Quốc tế thiếu nhi 1/6 và Trung Thu, SSI đều có các hoạt động tặng quà dành cho SSIkids – con của các thành viên SSI. Tháng 12 hàng năm, thời điểm kết thúc một năm cũng là lúc Ngày hội Gia đình SSI được diễn ra. Sự kiện Ngày hội Gia đình – Movie Day's 2019 cũng đã được tổ chức một cách thân mật và đầy ý nghĩa. Các gia đình được cùng nhau xem phim, cùng nhau chia sẻ những khoảnh khắc đáng nhớ và cùng lắng nghe những lời tri ân, lời cảm ơn từ chính những người thân yêu của mình và từ công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Bên cạnh việc lên được một hệ quy trình, quy chế hợp lý, việc tuyên truyền để toàn bộ thành viên nắm bắt, thấu hiểu, ghi nhớ và thực hiện theo quy định cũng được SSI triển khai song song. Thông qua hệ thống học tập trực tuyến (e-learning), SSI đã triển khai các khóa học như: Khóa học Quản trị Rủi ro & Kiểm soát Tuân thủ, bao gồm các nội dung về Đạo đức nghề nghiệp, Phòng chống rửa tiền, Phòng chống rủi ro gian lận; Khóa học đào tạo hội nhập về lịch sử hình thành, các tôn chỉ, mục đích, văn hóa của SSI; Khóa học Đào tạo thương hiệu SSI; Khóa học Quy tắc ứng xử trên mạng xã hội và sắp tới cho năm 2020 là khóa đào tạo về trách nhiệm hình sự trong lĩnh vực chứng khoán. Đây là tiền đề để giúp cho bản thân mỗi người SSI đều nắm vững thông tin, từ đó có cách làm việc, hành xử phù hợp nhất trong mọi trường hợp, giảm thiểu rủi ro cho Công ty và cho chính bản thân.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.777029,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Rủi ro tiềm tàng và biện pháp kiểm soát rủi ro tuân thủ ; column_headers: STT | Rủi ro tiềm tàng | Biện pháp kiểm soát [ROWS] STT | Rủi ro tiềm tàng | Biện pháp kiểm soát [ROW] 1 | Thay đổi của chính sách pháp luật đối với hoạt động của Công ty, điển hình là Luật chứng khoán 54/2019/QH14, Bộ luật lao động 45/2019/QH14, Luật doanh nghiệp 2014, Luật đầu tư 2014 đang được dự thảo thay thế | So sánh, đối chiếu các quy định pháp luật có sự thay đổi để cập nhật đến các bộ phận; đánh giá ảnh hưởng của các quy định đến hoạt động của các bộ phận; Thực hiện rà soát các quy trình, quy chế nội bộ để có những sửa đổi phù hợp. [ROW] 2 | Sự mâu thuẫn hoặc chưa cụ thể của các quy định | Tổng hợp các quy định của pháp luật, quy định nội bộ có sự mâu thuẫn, hoặc không được hướng dẫn rõ ràng, cụ thể phát sinh trong hoạt động của các phòng ban nghiệp vụ; Triển khai các quy định trên tinh thần chặt chẽ, vì lợi ích khách hàng và đảm bảo an toàn cho hoạt động Công ty, nhân viên Công ty; Đề nghị sự hướng dẫn từ các cơ quan có thẩm quyền, sự chỉ đạo của các cấp lãnh đạo. [ROW] 3 | Rủi ro trong quản lý hoạt động cho vay, các cam kết, thỏa thuận, phát sinh cạnh tranh không lành mạnh nguyên nhân xuất phát từ thay đổi của môi trường kinh doanh, đầu tư nước ngoài, dịch bệnh, thị trường chứng khoán điều chỉnh | Thực hiện đầy đủ các cam kết, hợp đồng, thỏa thuận đã ký kết; thương lượng với đối tác/khách hàng để giải quyết các phát sinh trên tình thần hợp tác và mối quan hệ kinh doanh lâu dài, cùng có lợi; Tuân thủ các chính sách liên quan đến phí, nghiệp vụ cho vay đối với khách hàng, quản lý chặt hoạt động cho vay. [ROW] 4 | Xung đột lợi ích giữa Công ty - Đối tác/Khách hàng - Nhân viên | Đào tạo nâng cao ý thức về đạo đức nghề nghiệp; Xây dựng và áp dụng các chính sách để hạn chế xung đột lợi ích như chính sách phòng chống tham nhũng, chính sách giải quyết khiếu nại; Giám sát tài khoản, giao dịch của nhân viên và người thân. [ROW] 5 | Một số hành vi vi phạm đạo đức nghề nghiệp như lạm dụng tài khoản của khách hàng, nhận đề nghị quản lý tài khoản khách hàng khi chưa được ủy thác đầu tư | Đào tạo nâng cao ý thức về đạo đức nghề nghiệp; Phân quyền truy cập thông tin khách hàng; Thiết kế quy trình quản lý tài khoản có sự kiểm tra chéo; Khuyến khích khách hàng giao dịch qua internet, quản lý và bảo mật thông tin tài khoản giao dịch; Thông báo kịp thời thay đổi số dư tài khoản cho khách hàng qua tin nhắn, email; Kiểm soát nghiệp vụ từ trung tâm; Xử lý nghiêm các hành vi vi phạm đạo đức nghề nghiệp;",
+      "hard_labels": [
+        "E3",
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Rủi ro tiềm tàng và biện pháp kiểm soát rủi ro tuân thủ ; column_headers: STT | Rủi ro tiềm tàng | Biện pháp kiểm soát [ROWS] STT | Rủi ro tiềm tàng | Biện pháp kiểm soát [ROW] 6 | Vi phạm quy định về phòng chống rửa tiền, đặc biệt là nhận biết khách hàng | Ban hành quy định về phòng chống rửa tiền, và hướng dẫn, phối hợp thực hiện công tác phòng chống rửa tiền giữa các phòng ban có liên quan; Đào tạo cho nhân viên nâng cao nhận thức về phòng, chống rửa tiền; Từ chối khách hàng không cung cấp thông tin nhận biết theo quy định của pháp luật; Chủ động phân loại độ rủi ro của khách hàng trong phòng, chống rửa tiền; Thực hiện đánh giá rủi ro rửa tiền và tài trợ khủng bố của Công ty để có những khuyến nghị, thay đổi phù hợp. [ROW] 7 | Nhân viên vi phạm quy trình nghiệp vụ | Đào tạo nghiệp vụ cho nhân viên mới, đào tạo định kỳ bắt buộc cho tất cả nhân viên; Bắt buộc thiết lập bước kiểm soát phê duyệt trong các quy trình xử lý công việc; Rà soát, cập nhật quy trình thường xuyên và khi phát hiện các vi phạm để hoàn thiện quy trình, giảm thiểu rủi ro; Tăng tần suất kiểm soát nội bộ đối với các bộ phận được đánh giá là có khả năng xảy ra rủi ro.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Thêm vào đó giá than đá và gas của Tổng công ty Điện lực Việt Nam được ký kết thỏa thuận mỗi năm một lần. Nếu có thay đổi sẽ phải đề xuất lên và được chấp thuận cuối cùng của Bộ Tài chính. Và thậm chí giá điện nhập khẩu cũng được thỏa thuận cho mỗi năm một lần. Hiện nay, giá vốn hàng bán của điện sản xuất từ than đá vào khoảng 650 đồng/KW. Do đó nếu giá than tăng thêm 26% vào tháng 4 này, giá vốn hàng bán của điện từ than sẽ lên tới 710-715 đồng hay tăng khoảng 9%.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: Operating lease commitments ; column_headers: ENDING BALANCE BEGINNING BALANCE ; row_headers: Less than one year | From one to five years | More than five years | TOTAL [ROWS] ENDING BALANCE BEGINNING BALANCE [ROW] Less than one year | 10,685,004,450 | 8,608,917,964 [ROW] From one to five years | 20,204,578,091 | 17,035,410,000 [ROW] More than five years | 5,308,553,030 | - [ROW] TOTAL | 36,198,135,571 | 25,644,327,964",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Operating lease commitments ; column_headers: ENDING BALANCE | BEGINNING BALANCE ; row_headers: Less than one year | From one to five years | More than five years | TOTAL [ROWS] ENDING BALANCE | BEGINNING BALANCE [ROW] Less than one year | 8,553,850,594 | 11,849,239,546 [ROW] From one to five years | 30,122,740,669 | 33,903,740,899 [ROW] More than five years | 19,607,020,588 | 24,426,708,251 [ROW] TOTAL | 58,283,611,851 | 70,179,688,696",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

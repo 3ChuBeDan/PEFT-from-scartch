@@ -1,0 +1,56 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Hoạt động rửa tiền: Tội phạm thường rửa tiền thông qua dịch vụ ngân hàng như: Chuyển tiền, gửi tiết kiệm và/hoặc vay cầm cố tiền bẩn. Do vậy, Việt Nam nói chung và VietinBank nói riêng sẽ tăng cường về mặt chính sách, biện pháp triển khai và giám sát Phòng chống rửa tiền/Tài trợ khủng bố. VietinBank sẽ tiếp tục hoàn thiện và đồng bộ hóa hệ thống văn bản chính sách cũng như nâng cấp hệ thống CNTT, ATM nhằm ngăn chặn, giảm thiểu rủi ro.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "VietinBank thực hiện tài trợ số tiền trên 6.500 tỷ đồng từ Quỹ Phúc lợi, chi phí hoạt động kinh doanh và nguồn đóng góp của cán bộ, nhân viên trong toàn hệ thống để xây dựng trên 37 nghìn ngôi nhà ở cho người nghèo; xây dựng 966 công trình cầu, đường giao thông nông thôn; 19 công trình nước sạch và bể chứa nước ngọt, tài trợ 3.158 con trâu, bò cho các hộ nông dân nghèo; xây dựng 73 công trình nhà văn hóa sinh hoạt cộng đồng, phòng tránh thiên tai tại các tỉnh. Đặc biệt, thực hiện \"Chiến lược biển đảo đến năm 2020\" theo tinh thần Nghị quyết TW 4 để góp phần giữ vững biển đảo chủ quyền thiêng liêng của Tổ quốc, VietinBank đã tài trợ trên 131 tỷ đồng để xây dựng 1 Trung tâm văn hóa trên đảo Nam Yết và 1 Nhà văn hóa đa năng trên Đảo Đá Lớn B, xây dựng 1 Trạm thu phát sóng FM, 4 bể nước ngọt trên quần đảo Trường Sa; xây dựng Đền Tưởng niệm các chiến sĩ đảo Gạc Ma, hỗ trợ Cảnh sát biển, Kiểm ngư vùng 2 ủng hộ Quỹ \"Vì Trường Sa thân yêu\" và các hỗ trợ khác cho bộ đội, ngư dân và các em học sinh trên đảo góp phần cùng với cả nước xây dựng, phát triển, củng cố và giữ vững an ninh quốc phòng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Được hưởng các chế độ phúc lợi: Tham quan, nghỉ mát, trợ cấp khi người thân trong gia đình hoặc bản thân ốm đau, có hiếu, hỷ; mua bảo hiểm sức khỏe...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

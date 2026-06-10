@@ -1,0 +1,29 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 352,
+      "text": "Trong quá trình phát triển các dự án bất động sản từ khâu giải phóng mặt bằng đến giai đoạn thi công sẽ không thể tránh khỏi các tác động xấu đến môi trường xây dựng như: ô nhiễm tiếng ồn, ô nhiễm không khí,... Để giảm thiểu các ảnh hưởng trên, Tập đoàn thường xuyên và liên tục thực hiện tốt công tác quản lý môi trường xây dựng từ việc giảm thiểu tiếng ồn công trình, đánh giá tác động môi trường của từng dự án và giải pháp giảm thiểu những ảnh hưởng đó; hạn chế thi công ban đêm ở khu vực đông dân cư, xử lý nước thải, bụi từ đất, đá, cát, đảm bảo vệ sinh hàng ngày ở khu vực thi công; đến việc tiết kiệm nguồn tài nguyên năng lượng (điện, nước, nhiên vật liệu,...),... Bên cạnh đó, Tập đoàn cũng đang nghiên cứu hợp tác với các đối tác tiềm năng để có thể thiết kế và phát triển các dự án bất động sản xanh đạt tiêu chuẩn quốc tế.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 0.415339,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 2,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

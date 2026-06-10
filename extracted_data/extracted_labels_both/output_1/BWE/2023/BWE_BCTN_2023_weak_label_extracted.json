@@ -1,0 +1,351 @@
+{
+  "extracted_count": 18,
+  "extracted": [
+    {
+      "paragraph_id": 31,
+      "text": "Bên cạnh các vấn đề về xây dựng nguồn nhân lực năng động sáng tạo, BIWASE đã và đang không ngừng ứng dụng khoa học, công nghệ vào sản xuất với phương châm \"Vì sức khỏe cộng đồng, Vì môi trường bền vững\". Mọi hoạt động của công ty đều lấy con người làm đối tượng hướng đến. Vì lẽ đó, công ty không ngừng n ỗ lực nghiên cứu, ứng dụng những công nghệ ưu việt, thân thiện môi trường, áp dụng công nghệ theo hướng tuần hoàn xanh trong quá trình hoạt động sản xuất kinh doanh của mình . BIWASE liên tục cập nhật, đầu tư đổi mới công nghệ, áp dụng phương pháp sản xuất sạch để hướng tới sự phát triển bền vững. Ngoài ra Tổng công ty BIWASE cũng tiến tới nền kinh tế tuần hoàn, làm chủ công nghệ đốt rác phát điện trong năm 2023.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 33,
+      "text": "Sau đại dịch Covid -19 kéo dài, thiên tai, hạn hán, bão lũ, biến đổi khí hậu gây hậu quả nghiêm trọng; nguy cơ về an ninh năng lượng, an ninh lương thực, an ninh mạng gia tăng,... đã chứng minh một cách rõ ràng tính dễ bị tổn thương của nhân loại và sự phụ thuộc của nó vào môi trường. Trong bối cảnh đó, nhiệm vụ ứng phó v ới biến đổi khí hậu toàn cầu, bảo tồn đa dạng sinh học và rừng, cũng như cuộc chiến vì nước, không khí và đất sạch trên hành tinh được đặt lên hàng đầu. Hiểu được vấn đề đó, với tư cách là Công ty đi đầu trong lĩnh vực Nước và Môi trường trên địa bàn tỉnh Bình Dương , BIWASE đã nghiêm túc thực hiện báo cáo đánh giá tác động và cam kết bảo vệ môi trường khi có kế hoạch triển khai đầu tư dự án.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0,
+        "G10": 0.5,
+        "G9": 0.5
+      },
+      "themes": [
+        "E_COMMON",
+        "G10",
+        "G9"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2,
+        "G10": 1,
+        "G9": 1
+      }
+    },
+    {
+      "paragraph_id": 276,
+      "text": "Thu gom và xử lý nước thải sinh hoạt cho các hộ xã tháỉ khu vực Thành phõ nôỉ, xử lý, bảo trì, vận hành, thu phí dịch vụ xử lý; Cung cẩp dịch vụ thoát nưởc xử lý nưởc thải theo đơn đặt hàng của các đổi tác",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 280,
+      "text": "Chi nhánh Nước thảỉ Thuận An được thành lập ngày 14/12/2016 và chính 21/04/2017; vớỉ đôỉ kỹ sư, chuyên viên, nghỉệp bảo vệ môi trường và ứng dung nghệ xử lý nước thải sinh hoat tỉên tiển. Chi nhánh Nước thảỉ Thuận An hỉên nâng cao chât lượng cuộc sông nhân ngũ công công An,",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 285,
+      "text": "Thu gom và xử lý nước thải sinh hoat cho các hộ xã thảỉ khu vực thanh phôThuận An; Lẳp đặt, xây dựng, đấu vụ xử lý; Cung câp dịch vụ thoát nước, xử lý nước thảỉ theo đơn đặt hàng của các đổi tác",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 290,
+      "text": "Thu gom và xử lý nưởc thải sinh hoạt dựng đâu nói, xử lý,bảo trì vận hanh, thu phí dịch vụ xử lý;Cung câp dịch vụ thoát nước, xử lý nước thái theo đơn đặt của các đổỉ tác. hàng",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 292,
+      "text": "Được thành lập ngảy 09/09/2018 và chính thức đi vào hoat ngày viên, công nhân có tâm huyểt vởỉ sự nghệ xử lý nước thảí sinh hoạt tiên thiện hệ thoát nước và xử lý nước thảỉ trên địa bàn thành Di An cao chẩt lượng nhân dân; sửc khỏe trong khu động công thông phổ nâng sổng cường công",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 297,
+      "text": "Thu gom và xử lý nưởc thảỉ sinh hoạt cho các hộ xả thảì khu vực thành phô Dĩ trì, vận hành, thu phí dịch vụ xử lý; Cung cãp dịch vụ thoát nưởc xử lý nưởc thảỉ theo đơn đàt của các đól tảc hàng",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 465,
+      "text": " Ban Tổ chức Chương trình Truyền thông Xây dựng và Phát triển Nền Kinh tế Xanh Quốc Gia năm 2023 do Hội Thông tin, tư vấn Kinh tế Thương mại Việt Nam (VICETA trực thuộc Bộ Công Thương) tổ chức vừa công bố danh sách các Doanh nghiệp Kinh tế Xanh Quốc Gia – Chìa khoá cho sự phát triển bền vững năm 2023. BIWASE được vinh danh với chuỗi các công trình thu gom xử lý nước thải, rác thải sinh hoạt theo hướng khép kín, tuần hoàn, được Bộ Tài Nguyên và Môi Trường đánh giá là hình mẫu của cả nước v ề thu gom xử lý nước thải, rác thải sinh hoạt. BIWASE là doanh nghiệp đi đầu ứng dụng khoa học công nghệ hiện đại nhằm giảm phát thải Carbon, hạn chế sử dụng tài nguyên thiên nhiên theo cam kết của chính phủ .",
+      "hard_labels": [
+        "E2",
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 470,
+      "text": " Ngày 20/07 tại Hà Nội đã diễn ra Lễ trao giải thưởng Xây dựng và Phát triển n ền kinh tế Xanh Quốc Gia năm 2023 -Chìa khoá cho sự phát triển bền vững do Hội Thông tin, tư vấn Kinh tế Thương mại Việt Nam (VICETA) tổ chức. BIWASE được vinh danh ở hai hạng mục \"Thương hiệu vì môi trường xanh Quốc gia\" và \"Sản phẩm thân",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 471,
+      "text": "thiện với môi trường\". BIWASE là doanh nghiệp kiến tạo, vận hành chuỗi các công trình thu gom xử lý nước thải, rác thải sinh hoạt theo hướng khép kín, tuần hoàn tại Bình Dương, sử dụng năng lượng Xanh, năng lượng tái tạo thân thiện môi trường. Mô hình này đã được Bộ Tài Nguyên và Môi Trường đánh giá là hình mẫu để nhân rộng ra cả nước nhờ ứng dụng khoa học công nghệ hiện đại nhằm giảm phát thải khí Carbon, hạn chế sử dụng tài nguyên thiên nhiên theo cam kết của chính phủ . Thông qua giải thưởng, Ban tổ chức cuộc thi đã gửi đi thông điệp: \" Sử dụng thương hiệu, sản phẩm Kinh Tế Xanh Quốc Gia là chung tay bảo vệ môi trường\".",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 479,
+      "text": "có bài phát biểu tri ân sự quan tâm hỗ trợ, giúp đỡ của chính phủ, các bộ ban ngành trung ương, tỉnh Bình Dương, các tổ chức quốc tế , Hội cấp thoát nước Việt Nam, các nhà cung c ấp vật tư ngành cấp thoát nước. \"Từ một giọt nước nhỏ nhưng có khát vọng, BIWASE đã từng ngày kiên trì với nhiệm vụ cung cấp nước sạch, xử lý môi trường, mang lại niềm vui, sức khoẻ, hạnh phúc cho cộng đồng, tạo dựng niềm tin với các nhà đầu tư. Hôm nay BIWASE đã hoà mình vào biển lớn với nhận diện thương hiệu mới, lấy khoa học công nghệ, kinh tế xanh, kinh tế tuần hoàn và sức khoẻ cộng đồng làm nền tảng phát triển bền vững. Xin được tri ân quý lãnh đạo các cấp, các ngành, tỉnh Bình Dương, đối tác, khách",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 694,
+      "text": "HĐQT Công ty đã làm việc với tinh thần trách nhiệm và minh bạch trong công tác quản trị, tuân thủ đúng các quy định đối với Công ty đại chúng niêm yết. Các cuộc họp của HĐQT đã được triệu tập kịp thời và thực hiện theo các trình tự quy định tại Điều lệ và Quy chế nội bộ về quản trị Công ty. Nội dung các cuộc họp đều được các thành viên HĐQT thảo luận, đánh giá đầy đủ và cẩn thận để đưa ra những định hướng và giải pháp đem lại lợi ích cao nhất cho Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 769,
+      "text": "Ghi chú: Mãng xử lý nước thải bị lỗ do chưa hạch toán được phần chi phí, doanh thu tương ứng chưa được ghi nhận trong 6 tháng cuối năm 2023 nếu được ghi nhận thì lợi nhuận đạt được sẽ là (46,8 – 32,5 = 14,3 tỷ đồng) như vậy lợi nhuận của mãng xử lý nước thải sẽ đạt 9,1 tỷ đồng.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 805,
+      "text": "[TABLE] [CONTEXT] section: 1.3. Chính sách, môi trường, văn hóa doanh nghiệp ; column_headers: Về Cấp nước | Về môi trường | Về Thu gom xử lý nước thải [ROWS] Về Cấp nước | Về môi trường | Về Thu gom xử lý nước thải [ROW] - Là đơn vị kinh doanh nước sạch, bảo đảm cung c ấp nước đầy đủ cho mọi đối tượng khách hàng với chất lượng, dịch vụ tốt nhất. - Đem lại nguồn nước sạch t ốt nhất, nâng cao chất lượng dịch vụ, người tiêu dùng hài lòng, an toàn cho sức khỏe - Phát triển không ngừng, nâng cao vị thế Công ty | - Là đơn vị thu gom, xử lý, tái chế rác thải tốt nhất trên địa bàn Bình Dương v ới công nghệ xử lý hoàn hảo và tạo ra nhiều sản phẩm có ích cho xã hội - Giữ vững lá cờ đầu trong ngành xử lý môi trường trên cả nước. | - Là đơn vị vận hành, bảo trì hệ thống thu gom xử lý nước thải tốt nhất; đảm bảo nhiều hộ dân được đấu n ối hệ thống nước thải gia đình vào hệ thống chung v ới hệ thống thu gom tiên tiến, văn minh, chất lượng x ử lý đạt chuẩn cao nhất (loại A). - Nước thải sinh hoạt ở Bình Dương sẽ được thu gom nhiều nhất ở Việt Nam, - Văn minh, khoa học, hiện đại từ thiết bị - cơ giới, giảm sức lao động cho công nhân.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "paragraph_id": 808,
+      "text": "[TABLE] [CONTEXT] section: [BÁO CÁO THƯỜNG NIÊN 2023] CÔNG TY CP -TỔNG CÔNG TY NƯỚC -MÔI TRƯỜNG BÌNH DƯƠNG (BWE) [ROWS] 3 | Phạm Thanh Hùng | Nam | Phó TGĐ | 17/03/2020 | Kỹ sư Môi trường | 118.100 | 0,05% | - Từ 2002 – – 2003 : Phòng Kỹ thuật - Công ty Cấp thoát nước BD - Từ 2004 – – 2006 : Xí nghiệp Xử lý Chất thải - Từ 2007 – – 2008 : Phó Giám đốc Xí nghiệp Xử lý Chất thải - Năm 2009 : Giám đốc Xí nghiệp Xử lý Chất thải - Năm 2010 : Phó Giám đốc Xí nghiệp Cấp nước Dĩ An - Từ 2011 đến 16/03/2020 : Giám đốc Chi nhánh Xử lý Chất thải - Chức vụ công tác hiện nay: Phó Tổng Giám đốc [ROW] 4 | Ngô Văn Lui | Nam | Phó TGĐ | 01/10/2016 | Thạc sĩ Quản Trị Kinh Doanh | 7.700 | 0,004% | - Từ 1988 đến 1990: Tổ trưởng tổ bơm phòng Nông Lâm Thủy Lợi Thị xã Thủ Dầu Một - Từ 1990 đến nay : Phó Tổng Giám Đốc Công ty TNHH MTV Cấp thoát nước – – Môi trường Bình Dương - Từ 30/09/2016 đến nay: Phó Tổng Giám Đốc Công ty Cổ phần Nước - Môi trường Bình Dương [ROW] 5 | Mai Song Hào | Nam | Phó TGĐ | 08/03/2022 | Kỹ sư Công nghệ - Môi trường | 56.100 | 0,03% | - Từ 2004 – – 2013 : Trưởng phòng kinh doanh – Trưởng chi nhánh Thuận An – Chi nhánh CN Thủ Dầu Một – Công Cty Cổ phần Nước - Môi trường Bình Dương - Từ 11/2013 – – 5/2017 :Phó Giám đốc CN Cấp nước KLH - Từ 6/2017 – – 5/2018 : Giám đốc CN Cấp nước Thuận An. - Từ 6/2018 - 3/2023 : Giám đốc CN Cấp nước Dĩ An - Từ tháng 3/2023 đến nay : phó Tổng giám đốc [ROW] 6 | Trần Tấn Đức | Nam | GĐ Tài chính | 31/03/2023 | Cử nhân quản trị kinh doanh | 213.600 | 0,11% | - Từ 2002 Đến 3/2003: Nhân viên kế toán Công ty TNHH Xây dựng Điện Miền Nam - Từ 01/4/2004 đến 02/2005: Nhân viên kế toán Công ty TNHH MTV Cấp Thoát Nước – Môi Trường Bình Dương; nhân viên kế toán Ban QLDA trực thuộc Công ty TNHH MTV Cấp Thoát Nước – – Môi Trường Bình Dương - Từ 02/2005 đến 01/201: Kế toán trưởng Ban QLDA trực thuộc Công ty TNHH MTV cấp Thoát Nước – Môi Trường Bình Dương. - Từ 01/2011 đến 29/09/2016: Kế toán trưởng Công ty TNHH MTV cấp Thoát Nước – – Môi Trường Bình Dương. - Từ 30/09/2016 đến 2023: Kế toán trưởng Công ty CP - Tổng Công ty Nước- Môi trường Bình Dương - Chức vụ công tác hiện nay: Giám đốc tài chính",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 814,
+      "text": "[TABLE] [CONTEXT] section: * Thu gom, vận chuyển và xử lý rác: ; column_headers: STT | Thành phần | Năm 2022 | Năm 2023 | Tỷ lệ tăng | trưởng (%) | Sản lượng (Tấn/ngày) | Chiếm tỷ lệ [ROWS] Năm 2022 | Năm 2023 | Tỷ lệ tăng [ROW] STT | Thành phần | Sản lượng (Tấn/ngày) | Chiếm tỷ lệ | Sản lượng (Tấn/ngày) | Chiếm tỷ lệ | trưởng (%) [ROW] 1 | Rác thải sinh hoạt | 863.255 | 90% | 840.238 | 90% | - 3% [ROW] 2 | Chất thải công nghiệp không nguy hại | 69.326 | 7% | 65.200 | 7% | - 6% [ROW] 3 | Bùn thải nguy hại | 12.738 | 1% | 9.183 | 1% | -28% [ROW] 4 | Chất thải lỏng nguy hại | 6.746 | 1% | 5.889 | 1% | - 13% [ROW] 5 | Chất thải rắn nguy hại | 11.449 | 1% | 10.915 | 1% | - 5% [ROW] 6 | Chất thải y tế nguy hại | 1.002 | 0% | 641 | 0% | - 36% [ROW] Cộng | 964.516 | 100% | 932.066 | 100% | -3%",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 815,
+      "text": "[TABLE] [CONTEXT] section: * Bảng tổng hợp tình hình hoạt động của các Chi nhánh xử lý nước thải trong kỳ ; caption: Công việc thi công rửa cống thoát nước và nạo vét hố ga bằng phương tiện, thết bị cơ giới 100% nên công nhân cũng đỡ vất vả, an toàn ; column_headers: STT | Chi nhánh x ử lý nước thải | Công suất thiết kế (m 3 /ngày đêm) | Lượng nước xử lý trong kỳ (m 3 ) | Sản lượng x ử lý Bình quân (m 3 /ngà y đêm) | Sản lượng theo kế hoạch 2023 (m 3 /ngày đêm) | Đạt Kế hoạch 2023 (%) | Số lượng đấu n ối (khách hàng) | Ghi chú | Tăng trong 2023 | Lũy kế đến nay | Ngày bắt đầu vận hành [ROWS] STT | Chi nhánh x ử lý nước thải | Công suất thiết kế (m 3 /ngày đêm) | Lượng nước xử lý trong kỳ (m 3 ) | Sản lượng x ử lý Bình quân (m 3 /ngà y đêm) | Sản lượng theo kế hoạch 2023 (m 3 /ngày đêm) | Đạt Kế hoạch 2023 (%) | Số lượng đấu n ối (khách hàng) | Ghi chú [ROW] Tăng trong 2023 | Lũy kế đến nay | Ngày bắt đầu vận hành [ROW] 1 | Thủ Dầ u Một | 17.650 | 6.196.477 | 16.977 | 18 . 100 | 94% | 346 | 9.093 | 31/05/2013 [ROW] 2 | Thuận An | 17.000 | 5.558.868 | 15.230 | 14.800 | 103% | 626 | 7.654 | 21/04/2017 [ROW] 3 | Dĩ An | 20.000 | 4.971.940 | 13.622 | 13.400 | 102% | 1.306 | 7.290 | 30/11/2018 [ROW] 4 | Tân Uyên | 15.000 | 2.883.875 | 7.901 | 7.100 | 111% | 540 | 3.030 | 01/04/2019 [ROW] Tổng cộng | 69.650 | 19.611.160 | 53.730 | 53.400 | 101% | 2.818 | 27.067",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    }
+  ]
+}

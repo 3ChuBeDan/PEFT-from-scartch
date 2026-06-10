@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 734,
+      "text": "Trong thiết kế kiến trúc, Công ty tiếp tục áp dụng các phương án thân thiện với môi trường bao gồm chiếu sáng và thông gió tự nhiên, khoảng lùi và khoảng đệm giảm diện tích kính tiếp xúc trực tiếp với ánh nắng và phủ kín mái nhà với cây xanh. Khang Điền đề cao việc xử lý mặt ngoài công trình theo hướng thân thiện môi trường, và vật liệu xây dựng là một yếu tố quan trọng. Trong 2018, các dự án nhà cao tầng do Khang Điền phát triển đều sử dụng 50% gạch bê-tông không nung thân thiện môi trường và cách nhiệt tốt. Trong các năm tới, Công ty dự kiến tăng tỷ lệ gạch bê-tông không nung sử dụng trong các dự án nhà cao tầng dần tiến đến mốc 75%. Ngoài ra, Công ty tiếp tục sử dụng các loại sơn ngoại thất có khả năng cách nhiệt cao, khoét mở các khoảng không trong kết cấu nhà cao tầng và bố trí diện tích xanh trên cao nhằm giảm tác động hấp thụ nhiệt vào tòa nhà. Các giải pháp này đều nhằm làm giảm lượng nhiệt hấp thụ bởi công trình, từ đó giảm tiêu thụ điện cần thiết cho hệ thống điều hòa không khí.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 772,
+      "text": "Công ty luôn duy trì những giá trị cốt lõi bằng việc: chăm lo đời sống, sức khỏe, tinh thần của CBNV, xây dựng môi trường làm việc thân thiện và cởi mở, thực hiện nhiều chế độ cho người lao động, quan tâm thăm hỏi các dịp lễ Tết, chủ động quan tâm đến đời sống tinh thần của CBNV thông qua các hoạt động đoàn thể như tổ chức sinh nhật cho từng CBNV, tặng quà cho CBNV nữ ngày 8/3, 20/10, quan tâm hỗ trợ CBNV khi ốm đau, tai nạn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

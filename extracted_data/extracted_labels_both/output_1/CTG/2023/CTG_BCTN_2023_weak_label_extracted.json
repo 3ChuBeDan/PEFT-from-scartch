@@ -1,0 +1,360 @@
+{
+  "extracted_count": 19,
+  "extracted": [
+    {
+      "text": "Giảm thiểu biến đổi khí hậu: Các hoạt động góp phần ổn định nồng độ khí nhà kính (Greenhouse Gas - \"GHG\") trong khí quyển bằng cách tránh hoặc giảm hoặc loại bỏ khí nhà kính.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3
+      }
+    },
+    {
+      "text": "RỦI RO GIAN LẬN, PHÒNG CHỐNG RỬA TIỀN VÀ TÀI TRỢ KHỦNG BỐ",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Bao gồm rủi ro gian lận nội bộ, rủi ro gian lận bên ngoài và một phần rủi ro tuân thủ. Trong đó, rủi ro gian lận nội bộ là nguy cơ phát sinh từ hành vi lừa đảo, chiếm đoạt tài sản, vi phạm các chiến lược, chính sách và quy định nội bộ liên quan đến ít nhất một cá nhân của VietinBank (bao gồm cả hành vi không đúng chức trách, nhiệm vụ, hành vi vượt thẩm quyền, trộm cắp, lợi dụng thông tin nội bộ để trục lợi); rủi ro gian lận bên ngoài là các hành vi lừa đảo, chiếm đoạt tài sản do đối tượng bên ngoài gây nên mà không có sự trợ giúp, cấu kết của cá nhân, bộ phận của VietinBank (bao gồm cả hành vi trộm cắp, cướp, giả mạo thẻ ngân hàng, chứng từ ngân hàng, xâm nhập hệ thống công nghệ thông tin để chiếm đoạt dữ liệu, tiền); và các rủi ro phát sinh từ các giao dịch đáng ngờ, giao dịch rửa tiền, giao dịch với khách hàng trong danh sách cấm vận, tài trợ khủng bố, không tuân thủ các cam kết với cổ đông chiến lược, đối tác, cam kết quốc tế khác (nếu có).",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 5
+      }
+    },
+    {
+      "text": "Đẩy nhanh tiến độ xây dựng hệ thống phòng chống rửa tiền, tài trợ khủng bố và phòng chống gian lận giai đoạn 2 với mục tiêu phấn đấu hoàn thành trong năm 2024 nhằm hỗ trợ cho công tác giám sát, phát hiện sớm các giao dịch nghi ngờ gian lận, rửa tiền.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "text": "Tiếp tục thực hiện nhiều giải pháp phối hợp với Bộ Công an, các tổ chức tín dụng khác nhằm nâng cao khả năng ứng phó với tình trạng tội phạm lừa đảo, gian lận, rửa tiền, bảo đảm an toàn cho ngân hàng và khách hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Hệ thống thông tin của VietinBank thuộc quy mô lớn, triển khai nhiều sản phẩm dịch vụ mới, có hàm lượng công nghệ cao, kết nối với hệ thống thông tin của nhiều đối tác, trên nhiều nền tảng công nghệ. Chương trình chuyển đổi số của VietinBank trong năm 2023 được triển khai mạnh mẽ với nhiều sản phẩm dịch vụ mới, cập nhật hệ thống thông tin thường xuyên hơn, kết nối với nhiều hệ thống đối tác hơn, đa dạng hóa các kênh giao dịch, tăng trải nghiệm cho khách hàng. Do đó, công tác đảm bảo an toàn bảo mật giao dịch, dữ liệu của ngân hàng, khách hàng luôn được coi là then chốt nhằm đem lại sự tin cậy cho khách hàng. VietinBank luôn chủ động, thường xuyên đánh giá rủi ro an ninh, an toàn trên toàn hệ thống, đồng thời triển khai nhiều biện pháp kiểm soát rủi ro như:",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "text": "Song song với đó, VietinBank đã tiên phong đồng hành cùng Chính phủ trong việc tiến hành ký kết thỏa thuận hợp tác với Bộ Tài nguyên và Môi trường, ký kết thỏa thuận với MUFG Bank, quy mô huy động lên tới 1 tỷ USD tại COP28 nhằm phục vụ các dự án PTBV, mang lại lợi ích môi trường, xã hội và thúc đẩy kinh tế tuần hoàn; sát cánh cùng doanh nghiệp, hỗ trợ cộng đồng triển khai các chương trình tài trợ vốn trong lĩnh vực năng lượng xanh, xuất khẩu xanh và công trình xanh....",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "VietinBank đã ban hành hệ thống các văn bản quản trị nội bộ đảm bảo tuân thủ quy định của pháp luật trong công tác chống xung đột lợi ích và phòng ngừa rủi ro trên nhiều phương diện như: Quy định quản lý xung đột lợi ích; Quy chế quản lý cán bộ (trong đó quy định cụ thể về chuyển đổi vị trí công việc, bao gồm cán bộ có chức danh và không có chức danh đối với tất cả các vị trí có nguy cơ tiềm ẩn rủi ro); Quy chế trách nhiệm người đứng đầu đơn vị trong hệ thống VietinBank, theo đó, đề cao vai trò và trách nhiệm nêu gương về đạo đức, lối sống và đặc biệt là trách nhiệm trong PCTN. Đồng thời, HĐQT VietinBank cũng đã ban hành Quy định về việc kiểm soát quyền lực trong công tác cán bộ và chống chạy chức chạy quyền, đảm bảo chấp hành nghiêm Quy định số 205-QĐ/TW của Ban Chấp hành Trung ương. Bên cạnh đó, Ngân hàng tăng cường các hình thức KTGS chặt chẽ Trưởng đơn vị trước khi nghỉ hưu, bổ nhiệm lại...",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Tham gia tổ chức thành công Diễn đàn Kinh tế tuần hoàn 2023 với Bộ TN & MT với sự tham gia và chỉ đạo trực tiếp của Lãnh đạo Nhà nước, các bộ/ban/ngành liên quan nhằm thúc đẩy kinh tế tuần hoàn tại Việt Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bên cạnh việc kiện toàn cơ cấu quản trị và khung thể chế liên quan đến PTBV trong ngân hàng, VietinBank tiếp tục triển khai các sản phẩm đặc thù như Sản phẩm tài trợ dự án năng lượng tái tạo, thiết bị tiết kiệm hiệu quả năng lượng, các gói ưu đãi như gói ưu đãi dành cho lĩnh vực năng lượng tái tạo năm 2023, gói chính sách ưu đãi thúc đẩy tài chính bền vững... Các gói này đã mang tới 10.000 tỷ đồng để cung cấp nguồn vốn ưu đãi cho các phương án, dự án mang lại lợi ích về môi trường và xã hội trong hoạt động sản xuất kinh doanh. Tính đến 31/12/2023, tổng dư nợ tín dụng xanh của VietinBank đạt 47.465 tỷ đồng đối với gần 1.000 khách hàng (chiếm 3,24% tổng dư nợ cấp tín dụng, tăng từ mức 1,47% cuối năm 2018), bao gồm các lĩnh vực nông nghiệp xanh, lâm nghiệp bền vững, năng lượng tái tạo, tái chế sử dụng các nguồn tài nguyên, xử lý chất thải và phòng chống ô nhiễm, quản lý nước bền vững tại khu vực đô thị và nông thôn. Nhằm tạo động lực cho doanh nghiệp chuyển mình trong hành trình phi các-bon, PTBV, VietinBank đã ra mắt Gói tài chính xanh GREEN UP trị giá 5.000 tỷ đồng với lãi suất và phí ưu đãi dành cho các phương án, dự án mang lại lợi ích về môi trường và xã hội thuộc các lĩnh vực như: Năng lượng xanh, xuất khẩu xanh (dệt may, vải, da giày, cà phê, gạo, gỗ, thủy sản), công trình xanh...",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25,
+        "E3": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 1,
+        "E3": 5,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Trong khuôn khổ COP28 tổ chức tại Dubai, VietinBank đã tham gia và ký kết Biên bản ghi nhớ với đối tác chiến lược MUFG với thỏa thuận nỗ lực hỗ trợ VietinBank thu xếp nguồn tài chính lên tới 1 tỷ USD nhằm phục vụ các dự án PTBV, mang lại lơi ích môi trường, xã hội và thúc đẩy kinh tế tuần hoàn. Hợp tác để thu xếp huy động vốn phục vụ các dự án xanh, các dự án mang lại lợi ích cho xã hội cũng là trọng tâm được trao đổi trong các cuộc gặp gỡ song phương giữa VietinBank với các đối tác MUFG, Standard Chartered. Ngoài ra, VietinBank cũng tích cực tham gia nhiều hoạt động như: Diễn đàn Kinh tế tuần hoàn Việt Nam năm 2023, phối hợp với các TV chủ chốt nhóm nghiên cứu Tài chính chuyển đổi châu Á công bố các báo cáo nghiên cứu, phác thảo các bước tiến của tài chính chuyển đổi tại châu Á, ký kết thỏa thuận hợp tác với Bộ Tài nguyên và Môi trường hướng đến các mục tiêu PTBV và nhiều hoạt động khác để lan tỏa cam kết đồng hành cùng doanh nghiệp trong quá trình chuyển đổi sang phát thải ròng bằng 0.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "» Ngân hàng tiếp tục triển khai các sản phẩm đặc thù như: Sản phẩm tài trợ dự án năng lượng tái tạo, thiết bị tiết kiệm hiệu quả năng lượng, các gói ưu đãi như gói ưu đãi dành cho lĩnh vực năng lượng tái tạo năm 2023, gói chính sách ưu đãi thúc đẩy tài chính bền vững... Các gói này đã mang tới 10.000 tỷ đồng để cung cấp nguồn vốn ưu đãi cho các phương án, dự án mang lại lợi ích về môi trường và xã hội trong hoạt động sản xuất kinh doanh.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Ngoài ra, VietinBank thiết lập các kênh tiếp nhận thông tin để phản ánh hành vi gian lận nội bộ/vi phạm chuẩn mực đạo đức nghề nghiệp trong Ngân hàng. Các thông tin được gửi truyền thông định kỳ đến toàn hệ thống (2 lần/tháng) để toàn hệ thống nghiêm túc thực hiên và triển khai. Mọi thông tin phản ánh về hành vi gian lận nội bộ/vi phạm chuẩn mực đạo đức nghề nghiệp đều được các bộ phận nghiệp vụ của VietinBank tiếp nhận xử lý và được bảo mật thông tin.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 7 - ĐÁNH GIÁ QUẢN TRỊ CÔNG TY THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY ASEAN ; column_headers: STT | TIÊU CHÍ | KẾT QUẢ ĐÁNH GIÁ MỨC ĐỘ Ệ Ộ THỰC HIỆN (X/O) | BẰNG CHỨNG/ CƠ SỞ ĐÁNH GIÁ/ TÀI LIỆU CHỨNG MINH [ROWS] STT | TIÊU CHÍ | KẾT QUẢ ĐÁNH GIÁ MỨC ĐỘ Ệ Ộ THỰC HIỆN (X/O) | BẰNG CHỨNG/ CƠ SỞ ĐÁNH GIÁ/ TÀI LIỆU CHỨNG MINH [ROW] C.7. Các bên liên quan bao gồm cá nhân và tổ chức được khuyến khích nêu ý kiến đến HĐQT về các vấn đề vi phạm pháp luật và quy tắc đạo đức [ROW] C.7.1 | Công ty có Chính sách tố giác bao gồm quy trình khiếu nại dành cho nhân viên và các bên liên quan về hành vi không hợp pháp, vi phạm đạo đức và cung cấp thông tin chi tiết qua Website Công ty, BCTN? | v | VietinBank đã ban hành quy định quản lý rủi ro gian lận và có thông tin liên hệ tiếp nhận được công bố trên website và BCTN (hotline 1900558868/ email hotline@vietinbank.vn) [ROW] C.7.2 | Công ty có chính sách hay thủ tục để bảo vệ nhân viên khỏi bị trả đũa vì đã tiết lộ hành vi không hợp pháp/không phù hợp đạo đức? | v | VietinBank đã ban hành Quy định quản lý rủi ro gian lận và xử lý sự kiện rủi ro gian lận trong hệ thống VietinBank, trong đó có quy định về nguyên tắc bảo vệ và khen thưởng người cung cấp thông tin. [ROW] D. CBTT và minh bạch [ROW] D.1. Cơ cấu sở hữu minh bạch [ROW] D.1.1 | Thông tin về cổ đông có tiết lộ danh tính của chủ sở hữu thực sự, nắm giữ 5% cổ phần trở lên? | v | Thể hiện tại BCTN và Báo cáo tình hình quản trị công ty được CBTT trên website QHNĐT VietinBank [ROW] D.1.2 | Công ty có công bố việc sở hữu cổ phần trực tiếp và được cho là gián tiếp của cổ đông lớn? | v | Thể hiện tại BCTN và Báo cáo tình hình quản trị công ty được CBTT trên website QHNĐT VietinBank [ROW] D.1.3 | Công ty có công bố việc sở hữu cổ phần trực tiếp và được cho là gián tiếp của TV HĐQT? | v | Thể hiện tại BCTN và Báo cáo tình hình quản trị công ty được CBTT trên website QHNĐT VietinBank [ROW] D.1.4 | Công ty có công bố việc sở hữu cổ phần trực tiếp và được cho là gián tiếp của BĐH? | v | Thể hiện tại BCTN và Báo cáo tình hình quản trị công ty được CBTT trên website QHNĐT VietinBank [ROW] D.1.5 | Công ty có công bố chi tiết về Công ty mẹ, con, liên kết, liên doanh và Công ty có mục đích đặc biệt (SPE)/(SPV)? | v | Thể hiện tại BCTN và Báo cáo tình hình quản trị công ty được CBTT trên website QHNĐT VietinBank [ROW] D.2. Chất lượng của BCTN [ROW] BCTN của Công ty có công bố các nội dung sau: [ROW] D.2.1 | Mục tiêu của Công ty | v | Thể hiện đầy đủ tại BCTN, phần \"Giới thiệu VietinBank\" được CBTT trên website QHNĐT VietinBank [ROW] D.2.2 | Chỉ số hiệu quả tài chính | v | Thể hiện đầy đủ tại BCTN, phần \"Giới thiệu VietinBank\" được CBTT trên website QHNĐT VietinBank [ROW] D.2.3 | Chỉ số hiệu quả phi tài chính | v | Thể hiện đầy đủ tại BCTN, phần \"Giới thiệu VietinBank\" được CBTT trên website QHNĐT VietinBank [ROW] D.2.4 | Chính sách cổ tức | v | Thể hiện tại tài liệu họp ĐHĐCĐTN được CBTT trên website QHNĐT VietinBank và gửi cho mỗi cổ đông đến tham dự họp [ROW] D.2.5 | Chi tiết tiểu sử của TV HĐQT (ít nhất tuổi tác, trình độ học vấn, ngày bổ nhiệm đầu tiên, kinh nghiệm liên quan và bất kỳ chức vụ trong HĐQT của các công ty niêm yết khác) | v | Thể hiện đầy đủ tại BCTN, phần \"Giới thiệu VietinBank\"và được CBTT trên website QHNĐT VietinBank",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 7 - ĐÁNH GIÁ QUẢN TRỊ CÔNG TY THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY ASEAN ; column_headers: STT | TIÊU CHÍ | KẾT QUẢ ĐÁNH GIÁ MỨC ĐỘ Ệ Ộ THỰC HIỆN (X/O) | BẰNG CHỨNG/ CƠ SỞ ĐÁNH GIÁ/ TÀI LIỆU CHỨNG MINH [ROWS] STT | TIÊU CHÍ | KẾT QUẢ ĐÁNH GIÁ MỨC ĐỘ Ệ Ộ THỰC HIỆN (X/O) | BẰNG CHỨNG/ CƠ SỞ ĐÁNH GIÁ/ TÀI LIỆU CHỨNG MINH [ROW] (P)A.4.1 | Thỏa thuận cổ đông? | v | VietinBank không phát sinh trường hợp này [ROW] (P)A.4.2 | Giới hạn biểu quyết? | v | VietinBank không phát sinh trường hợp này [ROW] (P)A.4.3 | Cổ phiếu nhiều quyền biểu quyết nhất? | v | VietinBank không phát sinh trường hợp này [ROW] (P)A.5. Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai. [ROW] (P)A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu sở hữu chéo có tồn tại không? | v | VietinBank không phát sinh trường hợp này [ROW] (P)B. | Đối xử công bằng với cổ đông [ROW] (P)B.1. Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] (P)B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến TV HĐQT, BĐH và nhân viên công ty trong ba năm qua? | v | VietinBank không phát sinh trường hợp này [ROW] (P)B.2. Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] (P)B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | v | VietinBank không phát sinh trường hợp này. [ROW] (P)B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | v | VietinBank không phát sinh trường hợp này. [ROW] (P)C. | Vai trò của Các bên có quyền lợi liên quan [ROW] (P)C.1. Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng. [ROW] (P)C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/phá sản/ thương mại/cạnh tranh hay môi trường? | v | VietinBank không phát sinh trường hợp này. [ROW] (P)C.2. Khi các bên có quyền lợi liên quan tham gia vào quá trình quản trị công ty, họ phải được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên. [ROW] (P)C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không CBTT trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | v | VietinBank không phát sinh trường hợp này. [ROW] (P)C.2.2 | Có bằng chứng nào cho thấy công ty đang tham gia vào các hoạt động tẩy xanh không? | v | VietinBank không phát sinh trường hợp này. [ROW] (P)D. | CBTT và minh bạch [ROW] (P)D.1. Hình phạt của cơ quan quản lý liên quan đến báo cáo tài chính [ROW] (P)D.1.1 | Công ty có nhận được \"ý kiến loại trừ\" trong báo cáo kiểm toán độc lập? | v | Ý kiến kiểm toán chấp nhận toàn phần [ROW] (P)D.1.2 | Công ty có nhận được \"ý kiến bất lợi\" trong báo cáo kiểm toán độc lập? | v | Ý kiến kiểm toán chấp nhận toàn phần [ROW] (P)D.1.3 | Công ty có nhận được \"từ chối đưa ra ý kiến\" trong báo cáo kiểm toán độc lập? | v | Ý kiến kiểm toán chấp nhận toàn phần",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 13 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG THAM CHIẾU TIÊU CHUẨN GRI ; column_headers: TIÊU CHUẨN GRI | THÔNG TIN CÔNG BỐ | NỘI DUNG CÔNG BỐ VÀ/ HOẶC TRẢ LỜI [ROWS] TIÊU CHUẨN GRI | THÔNG TIN CÔNG BỐ | NỘI DUNG CÔNG BỐ VÀ/ HOẶC TRẢ LỜI [ROW] CBTT CHUNG [ROW] GRI 2: CBTT theo nguyên tắc chung 2021 | 2.1. Thông tin về tổ chức | (Phần 1) Thông tin khái quát (trang 8) [ROW] 2.2. Thông tin về các công ty con trong Báo cáo PTBV của tổ chức | (Phần 2) Tình hình hoạt động của các công ty con, công ty liên kết (trang 103-111) [ROW] 2.3. Kỳ báo cáo, tần suất và thông tin liên hệ | (Phần 6) Thông tin báo cáo PTBV (trang 222-223) [ROW] 2.4. Trình bày lại thông tin báo cáo | Báo cáo PTBV của VietinBank trong năm 2023 không có thông tin trình bày lại hay thay đổi số liệu đã công bố trong Báo cáo PTBV của VietinBank trong năm 2022 [ROW] 2.5. Bảo đảm độc lập của bên thứ ba | Một số chỉ số tài chính được báo cáo đã được kiểm định bởi đơn vị kiểm toán độc lập là Công ty TNHH Deloitte Việt Nam [ROW] 2.6. Các hoạt động, chuỗi giá trị và các mối quan hệ kinh doanh khác | (Phần 1) Giới thiệu VietinBank (trang 8-9) (Phần 2) Tình hình hoạt động của các công ty con, công ty liên kết (trang 103-111) (Phần 6) Xác định và gắn kết các bên liên quan trọng yếu (trang 230-231) [ROW] 2.7. Cán bộ nhân viên | (Phần 6) Trách nhiệm với người lao động (trang 268) [ROW] 2.9. Cơ cấu và thành phần quản trị | (Phần 1) Mô hình tổ chức (trang 30-31) (Phần 5) Tổng quan hoạt động quản trị công ty (trang 158-159) (Phần 6) Quản trị PTBV tại VietinBank (trang 227-231) [ROW] 2.10. Đề cử và lựa chọn quản lý cấp cao | Công tác đề cử và lựa chọn nhân sự cấp cao tại VietinBank được thực hiện tuân thủ theo quy định tại Điều lệ tổ chức và hoạt động của VietinBank, Quy chế Quản trị nội bộ VietinBank, Quy chế tổ chức và hoạt động của HĐQT và Quy chế tổ chức và hoạt động của BKS VietinBank. Các tiêu chuẩn và điều kiện đối với HĐQT, BKS, BĐH được quy định cụ thể, tuân thủ quy định pháp luật, đảm bảo tính đa dạng và độc lập và phù hợp với đặc thù hoạt động kinh doanh của VietinBank. [ROW] 2.11. Người đứng đầu tổ chức | (Phần 5) Thành viên và cơ cấu của HĐQT (trang 160-161) [ROW] 2.12. Vai trò của cấp quản lý cao nhất trong giám sát việc quản lý các tác động | (Phần 6) Quản trị PTBV tại VietinBank (trang 227) [ROW] 2.13. Phân công trách nhiệm quản lý tác động | (Phần 6) Quản trị PTBV tại VietinBank (trang 227) [ROW] 2.14. Vai trò của cấp quản lý cao nhất trong báo cáo PTBV | (Phần 6) Quản trị PTBV tại VietinBank (trang 227) [ROW] 2.15. Xung đột lợi ích | Điều lệ tổ chức và hoạt động của VietinBank, Quy chế Quản trị nội bộ VietinBank, Quy chế tổ chức và hoạt động của HĐQT và Quy chế tổ chức và hoạt động của BKS VietinBank đều có quy định cụ thể về các nguyên tắc đảm bảo sự công khai, minh bạch, dân chủ trong hoạt động quản trị, nhằm giám sát và ngăn ngừa xung đột lợi ích giữa các bên. [ROW] 2.16. Truyền thông về các mối quan ngại quan trọng | (Phần 5) Tổng quan hoạt động quản trị công ty (trang 158-159) [ROW] 2.18. Đánh giá hiệu quả hoạt động của cấp quản lý cao nhất | (Phần 5) Các giao dịch, thù lao và các khoản lợi ích của HĐQT, BKS và BĐH (trang 190)",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 13 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG THAM CHIẾU TIÊU CHUẨN GRI ; column_headers: TIÊU CHUẨN GRI | THÔNG TIN CÔNG BỐ | NỘI DUNG CÔNG BỐ VÀ/ HOẶC TRẢ LỜI [ROWS] TIÊU CHUẨN GRI | THÔNG TIN CÔNG BỐ | NỘI DUNG CÔNG BỐ VÀ/ HOẶC TRẢ LỜI [ROW] MÔI TRƯỜNG [ROW] GRI 304: Đa dạng sinh học 2016 | 304.1. Các địa điểm hoạt động thuộc sở hữu, cho thuê, quản lý trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn [ROW] 304.2. Tác động trọng yếu của các hoạt động, sản phẩm và dịch vụ đối với đa dạng sinh học | Các tòa nhà làm việc của VietinBank đều được đặt tại các khu vực đông người để thuận tiện cho các hoạt động giao dịch và không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học. Do đó, tác động của hoạt động kinh doanh của VietinBank đối với các vấn đề đa dạng sinh học là không có. [ROW] 304.3. Môi trường sống được bảo vệ hoặc phục hồi [ROW] GRI 306: Rác thải 2020 | 306.1. Rác thải và các tác động nghiêm trọng liên quan đến rác thải 306.2. Quản lý các tác động nghiêm trọng liên quan đến | Là doanh nghiệp hoạt động trong lĩnh vực dịch vụ tài chính, VietinBank không phát sinh chất thải rắn công nghiệp thông thường. VietinBank không thực hiện xử lý rác thải nội bộ. Ngân hàng ký hợp đồng với các đơn vị chuyên trách để thu gom tập trung và chuyển đi xử lý trong ngày tại các địa điểm tập kết. [ROW] NHÂN SỰ - VIỆC LÀM [ROW] GRI 401: Việc làm 2016 | 401.1. Tuyển dụng mới và nghỉ việc | (Phần 6) Trách nhiệm với người lao động - Đảm bảo việc làm cho người lao động (trang 268) [ROW] 401.2. Các phúc lợi dành riêng cho nhân viên toàn thời gian | (Phần 6) Trách nhiệm với người lao động - Chế độ phúc lợi (trang 270) [ROW] GRI 403: An toàn và sức khỏe nghề nghiệp 2018 | 403.1. Hệ thống quản lý an toàn và sức khỏe nghề nghiệp | (Phần 6) Trách nhiệm với người lao động - Đảm bảo sức khỏe cán bộ, nhân viên và an toàn nơi làm việc (trang 271-273) [ROW] 403.2. Xác định mối nguy, đánh giá rủi ro và điều tra sự cố | (Phần 6) Trách nhiệm với người lao động - Đảm bảo sức khỏe cán bộ, nhân viên và an toàn nơi làm việc (trang 271-273)",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.75,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E_COMMON": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 13 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG THAM CHIẾU TIÊU CHUẨN GRI ; column_headers: TIÊU CHUẨN GRI | THÔNG TIN CÔNG BỐ | NỘI DUNG CÔNG BỐ VÀ/ HOẶC TRẢ LỜI [ROWS] TIÊU CHUẨN GRI | THÔNG TIN CÔNG BỐ | NỘI DUNG CÔNG BỐ VÀ/ HOẶC TRẢ LỜI [ROW] 403.3. Dịch vụ sức khỏe nghề nghiệp | (Phần 6) Trách nhiệm với người lao động - Đảm bảo sức khỏe cán bộ, nhân viên và an toàn nơi làm việc (trang 273) [ROW] 403.4. Sự tham gia của người lao động, tham vấn và truyền thông về an toàn và sức khỏe nghề nghiệp | (Phần 6) Trách nhiệm với người lao động - Đảm bảo sức khỏe cán bộ, nhân viên và an toàn nơi làm việc (trang 273) [ROW] 403.5. Huấn luyện nhân viên về an toàn và sức khỏe nghề nghiệp | (Phần 6) Trách nhiệm với người lao động - Đảm bảo sức khỏe cán bộ, nhân viên và an toàn nơi làm việc (trang 271-273) [ROW] 403.6. Nâng cao sức khỏe người lao động | (Phần 6) Trách nhiệm với người lao động - Đảm bảo sức khỏe cán bộ, nhân viên và an toàn nơi làm việc (trang 271-273) [ROW] 403.7. Ngăn ngừa và giảm thiểu tác động đến an toàn và sức khỏe nghề nghiệp liên quan trực tiếp đến các mối quan hệ kinh doanh | (Phần 6) Trách nhiệm với người lao động - Đảm bảo sức khỏe cán bộ, nhân viên và an toàn nơi làm việc (trang 271-273) [ROW] GRI 404: Đào tạo và giáo dục 2016 | 404.1. Số giờ đào tạo trung bình hàng năm của mỗi nhân viên | (Phần 6) Trách nhiệm với người lao động - Đào tạo nâng cao trình độ (trang 274) [ROW] 404.2. Các chương trình nâng cao kỹ năng của nhân viên và các chương trình hỗ trợ chuyển tiếp | (Phần 6) Trách nhiệm với người lao động - Đào tạo nâng cao trình độ (trang 272) (Phần 6) Trách nhiệm với người lao động -Cơ hội phát triển nghề nghiệp (trang 275) [ROW] GRI 405: Đa dạng và cơ hội ẳ ạộ bình đẳng 2016 | 405.1. Mức độ đa dạng trong cấp quản lý và nhân viên | (Phần 6) Trách nhiệm với người lao động - Tôn trọng bình đẳng giới và sự đa dạng (trang 276) [ROW] GRI 408: Lao động trẻ em 2016 | 408.1. Các hoạt động có rủi ro đáng kể đối với hình thức lao động trẻ em | VietinBank không sử dụng hình thức lao động trẻ em. [ROW] GRI 409: Lao động cưỡng ép 2016 | 409.1. Các hoạt động có rủi ro đáng kể đối với hình thức lao động cưỡng ép | VietinBank không sử dụng hình thức lao động cưỡng ép. [ROW] BẢO VỆ QUYỀN LỢI KHÁCH HÀNG [ROW] GRI 418: Bảo mật khách hàng 2016 | 418.1. Các khiếu nại được xác nhận liên quan đến vi phạm quyền riêng tư của khách hàng và mất dữ liệu khách hàng | (Phần 6) Trách nhiệm với khách hàng - Công tác bảo mật thông tin khách hàng (trang 260)",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.75,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "S4": 3,
+        "S6": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Công tác tuyển dụng chú trọng đáp ứng nhu cầu về nhân lực, phục vụ cho việc thực thi chiến lược tăng trưởng và phát triển của Công ty. Tùy theo từng vị trí, yêu cầu công việc cụ thể, Tập đoàn đề ra các tiêu chuẩn tuyển dụng: trình độ chuyên môn, năng lực, tinh thần chủ động, tinh thần cầu tiến, kinh nghiệm công tác, đạo đức nghề nghiệp,... Về mặt đào tạo, Công ty luôn nâng cao kiến thức cho nhân viên thông qua các khóa đào tạo về chuyên môn và kỹ năng mềm. Song song đó, nhân viên được đào tạo nội bộ, hướng dẫn từ các cấp quản lý trực tiếp và những người có chuyên môn cao, khuyến khích các phòng ban trao đổi, học hỏi kinh nghiệm lẫn nhau để nâng cao kiến thức đa ngành. Xây dựng văn hóa doanh nghiệp lành mạnh, đồng hành cùng nhân viên để tạo môi trường làm việc thân thiện, cởi mở và đầy nhiệt huyết.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THÂN THIỆN VỚI MÔI TRƯỜNG [ROWS] TÁC ĐỘNG LÊN MÔI TRƯỜNG | Tập đoàn Khang Điền luôn ý thức bảo vệ môi trường, tuân thủ các quy định về môi trường trong hoạt động phát triển các dự án. Theo đó, các dự án đều thực hiện đầy đủ các báo cáo đánh giá tác động môi trường và thực hiện các thủ tục xin giấy phép môi trường theo quy định. Trong khâu thiết kế, Tập đoàn đề cao việc gia tăng các mảng xanh, lựa chọn các yếu tố tiết kiệm năng lượng trong quản lý vận hành dự án. Bên cạnh đó, Khang Điền nghiên cứu và áp dụng các tiêu chuẩn xanh (từ các tổ chức uy tín trong và ngoài nước) nhằm thiết kế và phát triển các dự án phù hợp. [ROW] QUẢN LÝ VẬT LIỆU | Tập đoàn Khang Điền chú trọng quản lý sử dụng vật liệu gạch và vật tư thiết bị kiến trúc với mục tiêu tiết kiệm năng lượng khi sản xuất và sử dụng. Theo đó, Tập đoàn chọn sử dụng gạch không nung, đây là một trong những loại vật liệu xây dựng xanh thân thiện với môi trường. Gạch không nung có khả năng cách âm, cách nhiệt, chống cháy, thoát ẩm tốt. Ngoài ra, Tập đoàn sử dụng các vật liệu xanh khác như đèn LED và đèn cảm ứng tiết kiệm điện, tỷ lệ vách kính, cửa sổ kính và tường phù hợp vừa đảm bảo tối ưu về sử dụng năng lượng, vừa đạt thẩm mỹ, hiệu quả cao trong việc đón ánh sáng và đối lưu gió tự nhiên, thiết bị vệ sinh có thiết kế tiết kiệm nước. Những vật liệu này làm giảm tác động lên môi trường trong mức độ cho phép của các quy chuẩn, tiêu chuẩn xây dựng về sức bền vật liệu, an toàn kết cấu công trình và kiến trúc công trình xây dựng. [ROW] TIÊU THỤ NĂNG LƯỢNG | Ngay từ khâu thiết kế, các kiến trúc sư được Tập đoàn Khang Điền yêu cầu lưu ý về phát triển bền vững, trong đó, tiêu thụ năng lượng trong cuộc sống hàng ngày tại các dự án cần đặc biệt quan tâm. Tại văn phòng Công ty, Công ty khuyến khích nhân viên có ý thức bảo vệ môi trường bằng hành động tiết kiệm năng lượng như tắt bớt đèn ở những khu vực không thật sự cần thiết, không mở vòi nước chảy mạnh, sử dụng giấy tiết kiệm, hạn chế in ấn, sử dụng chế độ in hai mặt... CBNV và cư dân tại những dự án của Tập đoàn Khang Điền tham gia hưởng ứng Giờ trái đất - Chiến dịch cộng đồng về môi trường trên toàn thế giới. Thông qua hành động tắt đèn, chiến dịch giúp nâng cao nhận thức về môi trường và biến đổi khí hậu, mọi người đã đồng lòng tắt những hệ thống chiếu sáng không cần thiết trong vòng một giờ.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E3": 0.777029,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

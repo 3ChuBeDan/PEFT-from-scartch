@@ -1,0 +1,29 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 403,
+      "text": "Là doanh nghiệp thực phẩm, Kinh Đô không chỉ chú trọng đảm bảo chất lượng, an toàn vệ sinh thực phẩm mà công ty luôn ý thức và thực hiện nghiêm ngặt tiêu chí sản xuất xanh sạch, thân thiện với môi trường. Theo đó, các dây chuyền nhập mới của Công ty thuộc thế hệ tiên tiến, sử dụng biến tần tiết kiệm điện. Với đặc thù của nhà máy sản xuất bánh kẹo, Công ty trang bị hệ thống xử lý chất thải đạt tiêu chuẩn môi trường và liên tục cải tiến ứng dụng các giải pháp tiết kiệm năng lượng, hợp lý hóa trong các dây chuyền sản xuất. Công ty luôn ưu tiên sử dụng nguồn nguyên vật liệu xanh sạch, thân thiện với môi trường. Xây dựng ý thức bảo vệ môi trường từ cấp lãnh đạo tới người lao động, Nhà máy tuân thủ thực hiện đầy đủ qui định của cơ quan chức năng, xây dựng môi trường làm việc thân thiện với môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

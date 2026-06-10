@@ -1,0 +1,175 @@
+{
+  "extracted_count": 10,
+  "extracted": [
+    {
+      "text": "Sau nhiều nỗ lực cao độ, các kỹ sư của Coteccons đã tìm ra phương án rất độc đáo. Đó là thay vì dùng cốp pha, họ quyết định sử dụng hệ thân cẩu (phần thân của cẩu tháp). 500 cẩu tháp của Công ty nằm khắp từ Nam ra Bắc được huy động về đây một cách hỏa tốc trong vòng 10 ngày.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Đội ngũ kỹ sư đã lắp dựng 500 thân cẩu ấy (tương đương khoảng 1.100 tấn thép, nếu nối lại, sẽ có độ dài lên tới 1,5km) và dựa trên lực chống đỡ của thân cẩu để đổ 2.000 khối bê tông (tương đương 6 nhịp cầu).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Tiến độ thần tốc trên minh chứng cho năng lực toàn diện và tính sẵn sàng của Coteccons trong việc đồng hành với khách hàng ngay cả trong những điều kiện bất khả thi. Nếu không có đội ngũ nhân sự có tinh thần chiến đấu và năng lực vượt trội, nguồn cung cấp nguyên vật liệu dồi dào, mạng lưới nhà cung cấp phong phú, khả năng tài chính mạnh mẽ, bộ máy quản lý hùng mạnh và linh hoạt... thì nhiệm vụ trên đã không thể được hoàn thành.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Trong định hướng phát triển, trước bức tranh giàu triển vọng lẫn thách thức của môi trường kinh tế Việt Nam, Covestcons sẽ quan tâm tìm kiếm các cơ hội mới trong các lĩnh vực như xây dựng, bất động sản, công nghệ thông tin, năng lượng tái tạo... Chúng tôi nhận định rằng nhu cầu nhà ở, cơ sở hạ tầng, năng lượng sạch và kết nối số hóa sẽ tiếp tục tăng cao, từ đó, mở ra nhiều cơ hội đầu tư hấp dẫn. Chính sách hỗ trợ từ chính phủ trong các lĩnh vực xây dựng, bất động sản, năng lượng tái tạo và công nghệ thông tin cũng tạo động lực phát triển mạnh mẽ cho các lĩnh vực này. Tuy nhiên, thách thức và sự cạnh tranh cũng ngày càng gay gắt. Để nắm bắt cơ hội tốt, Covestcons sẽ có chiến lược đầu tư linh hoạt và tập trung.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Về phía Coteccons, mỗi cuộc gặp trực tiếp mang lại sự hài lòng cho khách hàng giống như một liều vitamin, tiếp thêm động lực và làm phấn chấn tinh thần cho đội ngũ trong những giờ bay tiếp theo. Tôi vẫn nhớ một chuyến bay rất đặc biệt. Sáng ở Hồ Chí Minh, chúng tôi nhận được một cuộc gọi cần trao đổi gấp ở Hà Nội và phải mua vé đi ngay. Trên máy bay, tôi suy nghĩ ra nhiều kịch bản và thu xếp lại lịch trình do chuyến bay gấp mang lại. Khi đến nơi vào lúc 2h chiều ở Hà Nội, bước vào văn phòng khách hàng, chỉ sau một giờ trao đổi và giải đáp các quan ngại, chúng tôi đã đạt được kết quả thắng thầu ngoài mong đợi. Để đạt được điều đó, ngoài sự chuẩn bị kỹ lưỡng với mục tiêu rõ ràng, đội ngũ còn cần phải có tinh thần sẵn sàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Một bước ngoặc trong việc định hình văn hóa doanh nghiệp của Coteccons \"phiên bản mới\" OWN IT được triển khai từ cuối năm 2022. Văn hóa OWN IT khích lệ tinh thần chủ động để nhận thức, chịu trách nhiệm với thách thức hay trở ngại và tự tìm cách vượt qua dưới sự tư vấn của cấp trên hay đồng nghiệp, và nhân viên sẽ tự quyết định. Văn hóa OWN IT cũng đề cao tính chính trực và thẳng thắng, với nguyên văn \"No Politics\", \"No Judgment\" để tiết kiệm thời gian cho người cần được tư vấn hay giải quyết vấn đề... tất cả các định hướng này nhằm tạo dựng cho nhân viên tính \"tự quản\" trong quản lý công việc, từ đó có thể tiếp cận cơ hội và phát triển bản thân mà không cần Công ty phải luôn giám sát hay thúc giục.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Với tinh thần dần bồi dưỡng từ văn hóa OWN IT, mỗi cá nhân đều được xem là \"Owner\" của Công ty, có thể phát huy tiềm năng của bản thân, nâng cao hiệu quả công việc và mở rộng cơ hội phát triển.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Chúng tôi làm việc với sự thấu hiểu và tinh thần đồng đội. Chúng tôi không thoả hiệp với những hành động đi ngược lại tính nhân văn và không tạo ra giá trị cho cộng đồng. Đối xử công bằng và tử tế, không phân biệt hoàn cảnh xuất thân, vị trí và năng lực.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: HÀI HÒA NHU CẦU VÀ LỢI ÍCH VỚI CÁC BÊN LIÊN QUAN ; column_headers: Nhận diện bên liên quan | Kênh truyền thông/gặp gỡ | Tần suất đối thoại | Những vấn đề quan tâm | Nỗ lực của Coteccons trong việc đáp ứng kỳ vọng của các bên liên quan [ROWS] Nhận diện bên liên quan | Kênh truyền thông/gặp gỡ | Tần suất đối thoại | Những vấn đề quan tâm | Nỗ lực của Coteccons trong việc đáp ứng kỳ vọng của các bên liên quan [ROW] Người lao động | • Khảo sát với NLĐ về môi trường làm việc, chính sách lương, thưởng, phúc lợi. • Hội nghị NLĐ hàng năm. • Các sự kiện định kỳ của Công ty. • Các chương trình đào tạo, huấn luyện. • Các chương trình, ấn phẩm truyền thông nội bộ. • Cơ chế trao đổi trực tiếp, giải quyết | • Thường niên • Thường niên • Hàng năm/ quý • Liên tục • Định kỳ hàng tháng • Liên tục | • Sự ổn định trong công việc, môi trường làm việc chuyên nghiệp, công bằng, không phân biệt đối xử. • Chính sách phúc lợi, lương thưởng, chế độ làm việc tốt. • Đảm bảo an toàn lao động. • Thành tựu, đóng góp được ghi nhận. • Cơ hội thăng tiến nghề nghiệp, đào tạo đội ngũ kế thừa. • Chương trình đào tạo và phát triển nâng cao kiến thức, tay nghề. | • Liên tục nhiều năm liền là doanh nghiệp có môi trường làm việc tốt nhất Việt Nam trong ngành Xây dựng. • Quy trình tuyển dụng nghiêm túc, đảm bảo sự minh bạch, công bằng. • Nỗ lực duy trì chế độ lương thưởng, phúc lợi của NLĐ. • Chế độ đãi ngộ và lộ trình phát triển xứng đáng và công bằng. • 8.403 lượt, 32.850 giờ đào tạo (tăng 29% so với năm 2021). • Đặc biệt quan tâm đến công tác an toàn lao động. • Thực hiện chế độ mua bảo hiểm sức khỏe toàn diện cho toàn bộ NLĐ và hỗ trợ tài chính để NLĐ mua bảo hiểm sức khỏe cho người thân. • Tổ chức hội thao, phong trào rèn luyện sức khỏe cho toàn Công ty. • Xây dựng và đào tạo đội ngũ nhân sự kế thừa. • Xây dựng và phát huy tinh thần “One Team” cho toàn Công ty. [ROW] Khách hàng - ầ g Chủ đầu tư | • Gặp gỡ trực tiếp, trao đổi qua điện thoại, email với chủ đầu tư • Bảng câu hỏi khảo sát khách hàng. • Các hội thảo, hội nghị tư vấn về kỹ thuật xây dựng. • Các buổi tập huấn, hướng dẫn kỹ năng thực hiện an toàn lao động trong thi công, • Website, mạng xã hội, diễn đàn... | • Liên tục • Thường niên • Liên tục • Liên tục • Liên tục | • Chất lượng • Thương hiệu và uy tín • Tiến độ thực hiện công trình. • An toàn lao động. • Chi phí thi công. • Kỹ thuật thi công. • Đội ngũ thi công. | • Đạt chứng chỉ Năng lực hoạt động xây dựng. • Hệ thống quản lý được xây dựng và triển khai theo các tiêu chuẩn quốc tế mới nhất như ISO 9001:2015, ISO 14001:2015, ISO 45001:2018. • Liên tục cập nhật, hoàn thiện các quy trình kỹ thuật nội bộ. • Năng lực thiết bị thi công ấn tượng. • Các máy móc, thiết bị nhập khẩu từ châu Âu và các quốc gia phát triển trong khu vực. • Đa dạng hóa sản phẩm dịch vụ để phục vụ cho nhu cầu khách hàng thông qua các hoạt động R&D. • Chủ động tư vấn và tìm kiếm giải pháp hỗ trợ cho khách hàng, chủ đầu tư từ pháp lý, chi tiết kỹ thuật cho đến tài chính. • Hoàn thành các cam kết với khách hàng đúng tiến độ với chất lượng cao nhất. [ROW] • Nghiên cứu khảo sát thị trường. • Gặp gỡ trực tiếp, trao đổi qua điện khi bàn giao hoàn thiện dự án. • Website, mạng xã hội, diễn đàn... | • Liên tục • Liên tục | • Chất lượng dự án mang lại cho người sử dụng. • An toàn và hiệu quả trong thực tế sử dụng. | • Đảm bảo việc tương tác, tiếp nhận các ý kiến một cách thường xuyên thông qua các kênh: Phòng Phát triển kinh [ROW] Khách hàng - Người dùng ố g cuối | thoại, email với người sử dụng cuối sau | • Liên tục | doanh, Phòng Bảo hành, gửi email khảo sát, gặp mặt trực tiếp...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 816,
+      "text": "Đối với lĩnh vực vận tải than: Phấn đấu đảm nhận vận chuyển tối đa khối lượng than đầu vào cho các Nhà máy nhiệt điện của Tập đoàn, tham gia vận chuyển than cho các nhà máy điện của ngành điện.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1498,
+      "text": "[TABLE] [CONTEXT] section: BẢNG THAM CHIẾU CÁC TIÊU CHÍ BÁO CÁO PHÁT TRIỂN BỀN VỮNG THEO TIÊU CHUẨN GRI G4 ; column_headers: CHỈ SỐ GRI | NỘI DUNG | BÁO CÁO NĂM 2016 [ROWS] CHỈ SỐ GRI | NỘI DUNG | BÁO CÁO NĂM 2016 [ROW] TIÊU CHUẨN CHUNG [ROW] HỒ SƠ TỔ CHỨC [ROW] G4 - 3 | Tên công ty . [ROW] G4 - 4 | Các thương hiệu , sản phẩm và dịch vụ chính . | √ [ROW] G4 - 5 | Trụ sở chính . | √ [ROW] G4 - 6 | Số lượng các quốc gia công ty có hoạt động , tên các quốc gia hoặc các khu vực hoạt động chủ yếu hoặc khu vực có liên quan đến vấn đề phát triển bền vững được đề cập trong báo cáo . | √ [ROW] G4 - 7 | Loại hình sở hữu và hình thức pháp lý . | √ [ROW] G4 - 8 | Thị trường kinh doanh (theo khu vực địa lý , theo phân khúc thị trường , đối tượng khách hàng) . | √ [ROW] G4 - 9 | Quy mô Công ty . | √ [ROW] G4 - 10 | Báo cáo về lực lượng lao động . | √ [ROW] G4 - 11 | Tỷ lệ phần trăm tổng số người lao động được bao gồm trong các Thỏa ước lao động tập thể . | √ [ROW] XÁC ĐỊNH CÁC RANH GIỚI TRỌNG YẾU [ROW] G4 - 17 | Liệt kê các đơn vị bao gồm trong báo cáo tài chính hợp nhất của tổ chức hoặc tài liệu tương đương . Báo cáo về việc một đơn vị nào đó có trong các báo cáo tài chính hợp nhất của tổ chức hoặc tài liệu tương đương không được đề cập trong báo cáo hay không | √ [ROW] HỒ SƠ BÁO CÁO [ROW] G4 - 28 | Giai đoạn ba ́ o ca ́ o (như năm tài chi ́ nh hoă ̣ c năm theo li ̣ ch) dành cho thông tin đượ ̣ c cung câ ́ p . | √ [ROW] G4 - 30 | Chu kỳ báo cáo (quý , nửa năm , hàng năm . . . ) . | √ [ROW] G4 - 31 | Thông tin liên hệ nếu có câu hỏi/ thắc mắc liên quan đến báo cáo hay nội dung của báo cáo . | √ [ROW] QUẢN TRỊ [ROW] G4 - 34 | Cơ cấu quản trị , quản lý của tổ chức , bao gồm cả các ủy ban của cơ quan quản lý cao nhất , chịu trách nhiệm cho các trách nhiệm cụ thể . | √ [ROW] G4 - 41 | Báo cáo quy trình dành cho cơ quan quản trị cao nhất để đảm bảo tránh và kiểm soát được xung đột lợi ích . Báo cáo liệu xung đột lợi ích có được công bố cho các bên liên quan hay không? | √ [ROW] G4 - 46 | Ba o ca o vai tro cu a cơ quan qua n tri ̣ cao nhâ t trong việ ̣ c rà soa t lại ti nh hiê ̣ u qua cu ̉ a ca ́ c quy tri ̀ nh qua ̉ n tri ̣ ru ̉ i ro cu ̉ a tô ̉ chư ́ c đô ́ i vơ ́ i ca ́ c chu ̉ đê ̀ kinh tê ́ , môi trươ ̀ ng và xa ̃ hội . | √ [ROW] ĐẠO ĐỨC VÀ TÍNH CHÍNH TRỰC [ROW] G4 - 56 | Mô tả các giá trị , nguyên tắc , tiêu chuẩn và chuẩn mực hành vi của tổ chức như bộ quy tắc ứng xử và bộ quy tắc đạo đức . | √",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "S4": 0.321288
+      },
+      "themes": [
+        "G10",
+        "S4"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "S4": 1
+      }
+    },
+    {
+      "paragraph_id": 1502,
+      "text": "[TABLE] [CONTEXT] section: QUYỀN CON NGƯỜI ; column_headers: KHÔNG PHÂN BIỆT ĐỐI XỬ [ROWS] KHÔNG PHÂN BIỆT ĐỐI XỬ [ROW] HR3 | Tổng các sự cố về phân biệt đối xử và các hành động khắc phục | √ [ROW] LAO ĐỘNG TRẺ EM [ROW] HR5 | Các hoạt động của công ty và của các nhà cung cấp chính được xác định là có những rủi ro nghiêm trọng về tai nạn lao động trẻ em , biện pháp để đóng góp hiệu quả vào việc không sử dụng lao động trẻ em . | √ [ROW] LAO ĐỘNG CƯỠNG BỨC VÀ ÉP BUỘC [ROW] HR6 | Hoạt động của công ty và của các nhà cung cấp chính được xác định là có thể có nguy cơ liên quan đến lao động cưỡng bức và biện pháp đóng góp để loại trừ tất cả hình thức sử dụng lao động cưỡng bức và ép buộc . | √ [ROW] QUYỀN CỦA NGƯỜI BẢN ĐỊA [ROW] HR8 | Tổng số vụ vi phạm liên quan đến quyền lợi của người dân bản địa và hành động khắc phục . | √ [ROW] CƠ CHẾ KHIẾU NẠI VỀ QUYỀN CON NGƯỜI [ROW] HR12 | Số lượng khiếu nại liên quan đến lĩnh vực quyền con người được tiếp nhận , xử lý thông qua cơ chế khiếu kiện chính thức . | √",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "S4": 6,
+        "S6": 6
+      }
+    }
+  ]
+}

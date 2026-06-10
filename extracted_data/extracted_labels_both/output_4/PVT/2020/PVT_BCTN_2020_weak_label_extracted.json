@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 67,
+      "text": "PVTrans đảm nhận vận chuyển than cho NMNĐ Vũng Áng 1 với sản lượng 193.700 tấn. Công ty cũng khai thác các tàu chở than trên thị trường nội địa và quốc tế theo phương thức cho thuê định hạn, từng bước khẳng định thương hiệu vận tải than trên thị trường trong nước và quốc tế, làm tiền đề cho việc triển khai công tác vận chuyển",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 325,
+      "text": "Năm 2020, doanh thu thuần của PVTrans đạt 7.383 tỷ đồng, có giảm nhẹ 4,8% so với năm 2019 nhưng vẫn vượt kế hoạch được giao. Tuy nhiên, nếu tính cả phần hỗ trợ các đơn vị trong ngành khoảng 150 tỷ đồng do ảnh hưởng nặng nề của đại dịch Covid-19 thì doanh thu năm nay vẫn cao hơn năm trước. Doanh thu giảm chủ yếu từ dịch vụ vận tải dầu thô, vận tải than và thương mại. Năm 2020, trong bối cảnh thị trường tiêu thụ trong nước gặp nhiều khó khăn, tồn kho của NMLD luôn ở mức cao và NMLD Dung Quất dừng sản xuất 52 ngày để thực hiện bảo dưỡng định ký lần 4 (TA4) kể từ ngày 12/8/2020 đến 01/10/2020 làm cho sản lượng vận chuyển dầu thô của PVTrans cho BSR từ các mỏ nội địa về NMLD Dung Quất giảm khoảng 35% so với năm 2019 với tổng sản lượng đạt 4,32 triệu tấn. Ngoài ra, để chia sẻ khó khăn với BSR, PVTrans đã hỗ trợ giảm cước vận chuyển, đồng thời giãn tiến độ thanh toán cước vận chuyển kể từ đầu tháng 04/2020 cho đến hết năm 2020. Đối với hoạt động vận chuyển dầu thô bằng VLCC, mặc dù gặp khó khăn do chưa có tàu nhưng PVTrans đã linh hoạt liên kết với các broker lớn trên thị trường tham gia chào tàu và vận chuyển thành công 03 chuyến hàng từ Trung Đông về NMLD Nghi Sơn, đồng thời phát triển mối quan hệ với các chủ tàu VLCC và Aframax trong khu vực và thế giới để chuẩn bị cho giai đoạn đầu tư, khai thác sau này. Về vận tải than, do ảnh hưởng tiến độ của các nhà máy nhiệt điện trong Tập đoàn nên sản lượng than vận chuyển trong năm 2020 của PVTrans đã giảm đáng kể. Tuy nhiên, do đây không phải là lĩnh vực vận tải chính, chiếm tỷ trong doanh thu và lợi nhuận nhỏ nên không ảnh hưởng đáng kể đến kết quả SXKD chung của PVTrans.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

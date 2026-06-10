@@ -1,0 +1,56 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Xây dựng môi trường làm việc chuyên nghiệp, bình đẳng, thân thiện và an toàn, Coteccons thực sự trở thành mái ấm gia đình thứ hai đối với mọi CBNV. Ở đó, CBNV được chăm lo đời sống vật chất tinh thần, được phát triển nghề nghiệp, hoàn thiện bản thân và quan trọng là được đảm bảo việc làm, nguồn thu nhập ổn định, tạo sự cân bằng giữa công việc và đời sống. Tại Coteccons, tỷ lệ CBNV chủ động nghỉ việc thấp nhất thị trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Quan tâm đến đời sống tinh thần của CBNV, đặc biệt đối với những nhân viên được điều động công tác xa nhà. Công ty thường xuyên chia sẻ, thăm hỏi, động viên kịp thời tinh thần CBNV trong những ngày trọng đại, ngày Lễ/Tết hoặc trong những thời điểm khó khăn của gia đình họ như ốm đau, hiếu, hỉ. Dưới sự chỉ đạo của Ban Điều hành Công ty, các tổ chức đoàn thể như Công đoàn, Ban Hỗ trợ đồng nghiệp, Phòng Quản trị Nguồn nhân lực đã phát huy tốt vai trò trong những năm qua, mang lại đời sống tinh thần tốt cho CBNV.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Để tạo sự gắn bó giữa các CBNV Coteccons, hàng năm Công ty đều tổ chức các buổi gặp mặt giao lưu tập thể thông qua việc tổ chức họp mặt tất niên; du lịch nghỉ dưỡng với sự tham gia của CBNV và người thân trong gia đình. Ngoài ra, nhằm tạo cơ hội giao lưu, chia sẻ thông tin giữa Ban Lãnh đạo Công ty và CBNV, hàng năm Coteccons đều tổ chức Hội nghị Cán bộ nhân viên chức giúp mọi người hiểu rõ hơn về hoạt động của Công ty và cảm nhận được tinh thần đoàn kết, sự gắn bó giữa các bộ phận và đồng nghiệp với nhau. Đồng thời, tạo điều kiện cho các nhân viên được đóng góp ý kiến về hoạt động Công ty cũng như trình bày nguyện vọng cá nhân trực tiếp tới Ban Lãnh đạo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

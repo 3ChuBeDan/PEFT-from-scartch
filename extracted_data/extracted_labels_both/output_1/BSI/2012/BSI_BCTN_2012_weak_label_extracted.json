@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 198,
+      "text": " Thông qua chiến lược năm 2012 trong đó: đầu tư ngắn với tinh thần thận trọng hướng tới mục tiêu có lãi và tăng cường kiểm soát rủi ro, đầu tư trung và dài hạn năm 2012 theo hướng tái cơ cấu danh mục và thoái vốn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

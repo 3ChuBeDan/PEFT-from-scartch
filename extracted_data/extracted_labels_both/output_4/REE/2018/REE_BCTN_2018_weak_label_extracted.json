@@ -1,0 +1,29 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 629,
+      "text": "Hoạt động văn phòng cho thuê ứng dụng các công nghệ thân thiện môi trường vào xây dựng và vận hành tòa nhà thông minh, tiết kiệm năng lượng. Điển hình là việc xây dựng tòa nhà văn phòng mới e.town 5 theo tiêu chuẩn EDGE – chứng chỉ của SGS (World Bank) với các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện đến 31%, giảm đến 51% lượng nước sử dụng, giảm tối đa lượng khí thải CO 2 và sử dụng vật liệu thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: I. Th6ng tin chung l [ROWS] 33 | Hoat dQng vi6n th6ng c6 day [ROW] 34 | tloat d6ng viSn th6ng kh6ng dAy [ROW] 35 | Hoqrt dQng vi6n th6ng khic [ROW] 36 | ki6rn tra vd phin tich k! thuit [ROW] 37 | Kinh doanh b6t dQng sdn [ROW] 38 | Cho thuc n)ay m6c, thi6t bi vai dd dnng hilu hin]l khac [ROW] 39 | Sna chiia thiet bi lion lac [ROW] 40 | Xay dung, l;p dal, sria chila, biio dudng co so h4 tAng vi6n ihdng; [ROW] 4l | Kiai thdc vd thu gom than cul1g; [ROW] 42 | Khai thic vd ihu pom than non: [ROW] 43 | Khai th{c quing saU [ROW] 44 | Khai th6c quqng kiIn loai lihdc kh6ng chua sat; [ROW] 45 | Khai th6c quirng kim lo4i quj hi6m; [ROW] 46 | Klai th6c c6t di s6i, dat sdt; [ROW] 47 | Khai thic kho6ng ho6 chAt vd phan b6n; [ROW] 48 | Kiai thiic vd thu gom than bim; [ROW] 49 | Khai th6c mu6i; [ROW] 50 | Hoat dong h6 trg khai thic ro vri qu{ng k}rfc; [ROW] 51 | SAo xuet d6 u6ng ki6ng c6n, nudc kho6ng; [ROW] 52 | Srin xuat sat, thdp, gang; [ROW] 53 | San xuat kim loai mdu vir kim loai quj; [ROW] 54 | Dlic kim loai ndu; [ROW] 55 | \\ an lai hang hod \\ cn biin r a r idn Juung\u0002 [ROW] 56 | Vận tải hoá đường thuỷ nội địa; hàng [ROW] 57 | Kho bdi vii lnu giii hang ho6; [ROW] 58 | B6c x0p hing hori;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

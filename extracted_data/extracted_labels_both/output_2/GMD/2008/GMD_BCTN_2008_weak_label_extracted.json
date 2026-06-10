@@ -1,0 +1,65 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Ông Thân đã làm trong lĩnh vực ngân hàng được gần 30 năm. Ông bắt đầu vào làm việc tại BIDV năm 1979. Ông Thân được bổ nhiệm Phó Tổng giám đốc BIDV từ tháng 8/2004. Tháng 09/2008 ông Thân được bổ nhiệm là Uỷ viên HĐQT BIDV. Ngoài ra, ông Thân cũng đồng thời là Chủ tịch HĐQT Công ty chứng khoán BIDV từ tháng 7/2005, Chủ tịch HĐQT Công ty Liên doanh quản lý đầu tư BIDV- Partner từ tháng 01/2006, Uỷ viên HĐQT Công ty Cổ phần Đầu tư phát triển Khu kinh tế Hải Hà. Ông Thân đã từng giữ chức vụ quan trọng như: Phó Giám đốc BIDV Bắc Ninh, Giám đốc NHNN Bắc Ninh, Phó Giám đốc Sở giao dịch BIDV, Giám đốc Sở giao dịch BIDV.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": "Năm 2008, Công ty liên doanh Tháp BIDV đã hoàn thành gói thầu Móng và phần ngầm, bắt đầu thi công gói thầu phần Thân và lắp đặt thiết bị. Đến 31/12/2008, toà tháp đã cơ bản hoàn thành phần thô đến tầng 23. Công ty liên doanh đã lựa chọn CBRE là đơn vị tư vấn chuyên nghiệp, có uy tín để thực hiện tiếp thị cho thuê và quảng bá hình ảnh cho toà tháp. Đồng thời Công ty liên doanh cũng đang tích cực phối hợp với các bên tư vấn và đôn đốc các nhà thầu để đẩy nhanh tiến độ thi công gói thầu phần Thân và lắp đặt thiết bị để có thể sớm hoàn thành công tác xây dựng và khánh thành toà tháp vào quý 3 năm 2009.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

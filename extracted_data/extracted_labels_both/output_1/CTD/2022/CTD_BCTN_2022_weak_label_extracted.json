@@ -1,0 +1,308 @@
+{
+  "extracted_count": 17,
+  "extracted": [
+    {
+      "text": "OWN IT ở Coteccons có thể được hiểu khái quát là tinh thần chủ động để nhận thức, chịu trách nhiệm, quản lý công việc, tiếp cận cơ hội và phát triển bản thân mà không cần ai phải luôn thúc giục. Làm được như vậy, mỗi cá nhân chắc chắn sẽ tự vươn đến những thành tựu và chiến thắng cao hơn. Đồng thời, một doanh nghiệp mà từng thành viên đều mang tinh thần đó sẽ cộng hưởng thành văn hóa, sức mạnh, quyền lực và kết quả chung thực sự bền vững.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Coteccons. Theo đó, nếu là một phần của Coteccons, muốn đồng hành cùng Công ty trên hành trình mới, mỗi cá nhân phải trang bị cho chính mình tinh thần UP – khao khát và nỗ lực nâng cấp chính mình để trở thành một phiên bản mới, xuất sắc hơn của bản thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Tinh thần UP không đòi hỏi năng lực phi thường hay dành cho vĩ nhân, mà dành cho tất cả những ai biết tự khai mở nhận thức và tiềm lực để làm tốt hơn những việc đang làm, hướng tới giá trị tích cực hơn cho bản thân và tập thể.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Vừa qua, hành trình \"nâng cấp bản thân\" dành cho người Coteccons đã bắt đầu khẩu hiệu hành động tiếp theo: OWN IT – XÂY TÂM THẾ, DỰNG TƯƠNG LAI. Đây là bước thúc đẩy cao hơn, hướng tới tinh thần tự chủ và khát vọng lớn hơn trong mỗi người. Theo đó, khi vươn tới tinh thần tự chủ, mỗi người sẽ chủ động nhận thức, chịu trách nhiệm, quản lý công việc, tiếp cận cơ hội và phát triển bản thân mà không cần ai phải luôn thúc giục. Kết quả tương ứng chắc chắn sẽ là thành tựu chiến thắng cho những người biết tự tạo ra và đóng góp giá trị.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Ở mức độ sâu sắc và dài hạn hơn, nhân viên của Coteccons đã trở nên quen thuộc với triết lý sống lành mạnh và nhân văn này. Luyện tập thể thao, trân trọng thiên nhiên và bảo vệ môi trường một cách thiết thực cũng chính là lối sống cần có của những người muốn own it. Người Coteccons sẽ tạo nên những công trình xanh thực thụ và bền vững từ cốt lõi bằng nhận thức của từng cá nhân chứ không chỉ bằng tinh thần tuân thủ tiêu chuẩn do Công ty thiết lập.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Chúng tôi làm việc với sự thấu hiểu và tinh thần đồng đội. Chúng tôi không thoả hiệp với những hành động đi ngược lại tính nhân văn và không tạo ra giá trị cho cộng đồng. Đối xử công bằng và tử tế, không phân biệt hoàn cảnh xuất thân, vị trí và năng lực.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Do đó, từng thành viên đều có trọng trách và không gian phát triển riêng. Trong từng nhóm nhiệm vụ, cũng đã xác định ai là người hỗ trợ, ai là người làm chính . Môi trường đó tạo nên cơ chế tương hỗ và tinh thần tôn trọng nhau, thúc đẩy hiệu quả hợp tác rất tốt. Các bên đều cộng hưởng để đạt được thành quả chung tối ưu. Mỗi người đều có cơ hội phát huy năng lực và vai trò trong phạm vi công việc mình được phụ trách. Cả tổ chức giống như một đội chạy tiếp sức vậy. Theo tôi, đây là tinh thần đoàn kết rất tích cực.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Suốt nhiều tháng liền, đội ngũ chuyên trách của Coteccons đã làm việc cật lực, bất kể thời gian, bằng tinh thần tập trung cao độ để có được đề án tốt nhất. Cùng với uy tín vượt trội, tinh thần chính trực và minh bạch của doanh nghiệp, Coteccons đã chính thức được LMV trao quyền thực hiện dự án mang tính biểu tượng này.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Với vai trò là ngành trụ cột ở hầu hết quốc gia, ngành xây dựng là động lực to lớn để phát triển kinh tế đất nước. Ngành xây dựng đồng thời có những tác động đến môi trường tự nhiên, kinh tế - xã hội và đời sống của cộng đồng, cụ thể như tiêu thụ một lượng lớn nguyên vật liệu (bao gồm cả năng lượng) và thải ra một lượng lớn khí carbon trong quá trình sản xuất. Các hoạt động của ngành xây dựng dẫn đến nhiều vấn đề như làm xáo trộn đa dạng sinh học, tạo ra khí nhà kính, khí thải carbon, chất thải và gây ra các sự cố liên quan đến sức khỏe và an toàn...",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Green Up là sáng kiến nằm trong chương trình IMPACTD – chương trình phát triển bền vững của Coteccons với nỗ lực giảm thiểu - bù đắp các tác động đến xã hội và môi trường. Coteccons sẽ tiếp tiếp tục duy trì dài hạn, hướng đến mục tiêu tăng cường độ phủ xanh trên khắp cả nước nhằm ngăn ngừa thiên tai bão lũ, bảo vệ môi trường, chống biến đổi khí hậu, bảo tồn đa dạng sinh học và duy trì hệ sinh thái tự nhiên cho thế hệ mai sau.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Hoạt động thiết thực và kịp thời, cả về vật chất lẫn tinh thần, này thể hiện tinh thần trân trọng của",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Công ty phối hợp với các chủ đầu tư xây dựng các công trình tiết kiệm năng lượng, đạt tiêu chuẩn LEED Gold như: Diamond Lotus, Friendship, Khu nghỉ dưỡng Nam Hội An... LEED là hệ thống đánh giá, chứng nhận công trình xanh do Hội đồng Công trình xanh của Hoa Kỳ phát triển.",
+      "hard_labels": [
+        "E3",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Đối với 12 tiêu chí về Đối xử bình đẳng với cổ đông mà Coteccons đáp ứng tốt trở lên: Đạt 80%. [ROWS] B.1 Cổ phiếu và quyền biểu quyết | 1. Mỗi cổ phiếu phổ thông có một phiếu biểu quyết. 2. Nếu có nhiều hơn một loại cổ phiếu, có công bố số phiếu biểu quyết gắn với mỗi loại cổ phiếu. [ROW] B.2 Thông báo ĐHĐCĐ | 3. Cung cấp tiểu sử của TV/ủy viên HĐQT sẽ được bầu chọn/bầu chọn lại. 4. Kiểm toán viên/công ty kiểm toán chuẩn bị được bầu chọn/bầu chọn lại có được xác định rõ ràng. 5. Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng. [ROW] B.3 Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân | 6. Chính sách quy định cấm thành viên HĐQT và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra ngoài. 7. Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu của Công ty trong vòng 3 ngày làm việc. [ROW] B.4 Giao dịch Bên liên quan của Thành viên Hội đồng quản trị và nhân sự Quản lý cấp cao | 8. Chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với Công ty. 9. Chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích. 10. Chính sách về khoản vay cho thành viên HĐQT, quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường. [ROW] B.5 Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng | 11. Công bố về việc giao dịch Bên liên quan được thực hiện theo cách đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường. 12. Nếu cần có phê duyệt của cổ đông thông qua các giao dịch Bên liên quan, việc biểu quyết phê duyệt phải được biểu quyết bởi cổ đông không liên quan lợi ích.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Đối với 12 tiêu chí về Vai trò của các Bên có quyền lợi liên quan mà Coteccons đáp ứng tốt trở lên: Đạt 92%. [ROWS] C.1 Quyền của các Bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng | 1. Công bố chính sách và thực hành nhằm bảo vệ quyền lợi khách hàng. 2. Công bố chính sách và thực hành, mô tả nỗ lực bảo đảm chuỗi giá trị thân thiện với môi trường, phù hợp thúc đẩy PTBV. 3. Công bố chính sách và các thực hành, mô tả nỗ lực của Công ty trong việc tương tác với cộng đồng nơi Công ty hoạt động. 4. Công bố chính sách và các thực hành phòng chống tham nhũng của Công ty. 5. Công bố chính sách và các thực hành, mô tả cách thức bảo vệ quyền lợi của chủ nợ. 6. Báo cáo/nội dung riêng mô tả các nỗ lực về các vấn đề về Môi trường/Kinh tế và Xã hội. [ROW] C.2 Khi lợi ích của các Bên có quyền lợi liên quan được pháp luật bảo vệ, các Bên có quyền lợi liên quan phải có cơ hội được khiếu nại hiệu quả khi quyền lợi của họ bị vi phạm | 7. Cung cấp thông tin liên hệ trên trang Web hay BCTN để các bên có quyền lợi liên quan có thể sử dụng để lên tiếng về lo ngại và/hoặc khiếu kiện về những vi phạm có thể xảy ra đối với quyền lợi của họ. [ROW] C.3 Các cơ chế nâng cao hiệu quả tham gia của người lao động cần được phép xây dựng | 8. Công bố rõ ràng chính sách và thực hành, nỗ lực về sức khỏe, an toàn và phúc lợi cho nhân viên. 9. Công bố rõ ràng chính sách và thực hành, nỗ lực về các chương trình đào tạo và phát triển cho nhân viên. 10. Chính sách khen thưởng gắn với hiệu quả hoạt động của Công ty trong dài hạn hơn là trong ngắn hạn. [ROW] B.4 Giao dịch Bên liên quan của Thành viên Hội đồng quản trị và Nhân sự Quản lý cấp cao | 8. Chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với Công ty. 9. Chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích. 10. Chính sách về khoản vay cho thành viên HĐQT, quy định cấm hoạt động này hoặc đảm bảo [ROW] C.4 Các Bên có quyền lợi liên quan, bao gồm cả người lao động và tổ chức đại diện cho họ, phải được tự do truyền đạt những lo ngại của họ về những việc làm không hợp pháp hoặc không phù hợp đạo đức lên HĐQT và việc này không được ảnh hưởng tới quyền lợi của họ | 11. Chính sách tố giác bao gồm quy trình khiếu nại dành cho nhân viên và các Bên liên quan về hành vi không hợp pháp (kể cả tham nhũng) hoặc không phù hợp đạo đức và cung cấp thông tin liên hệ khiếu nại chi tiết được đề cập trên trang Web hoặc báo chí. 12. Chính sách hay thủ tục để bảo vệ nhân viên, cá nhân khỏi bị trả đũa vì đã tiết lộ hành vi không hợp pháp, không phù hợp đạo đức.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.5,
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "E3",
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S11"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S11"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: HÀI HÒA NHU CẦU VÀ LỢI ÍCH VỚI CÁC BÊN LIÊN QUAN ; column_headers: Nhận diện bên liên quan | Kênh truyền thông/gặp gỡ | Tần suất đối thoại | Những vấn đề quan tâm | Nỗ lực của Coteccons trong việc đáp ứng kỳ vọng của các bên liên quan [ROWS] Nhận diện bên liên quan | Kênh truyền thông/gặp gỡ | Tần suất đối thoại | Những vấn đề quan tâm | Nỗ lực của Coteccons trong việc đáp ứng kỳ vọng của các bên liên quan [ROW] Người lao động | • Khảo sát với NLĐ về môi trường làm việc, chính sách lương, thưởng, phúc lợi. • Hội nghị NLĐ hàng năm. • Các sự kiện định kỳ của Công ty. • Các chương trình đào tạo, huấn luyện. • Các chương trình, ấn phẩm truyền thông nội bộ. • Cơ chế trao đổi trực tiếp, giải quyết khiếu nại, tham vấn hai chiều. | • Thường niên • Thường niên • Hàng năm/ quý • Liên tục • Định kỳ hàng tháng • Liên tục | • Sự ổn định trong công việc, môi trường làm việc chuyên nghiệp, công bằng, không phân biệt đối xử. • Chính sách phúc lợi, lương thưởng, chế độ làm việc tốt. • Đảm bảo an toàn lao động. • Thành tựu, đóng góp được ghi nhận. • Cơ hội thăng tiến nghề nghiệp, đào tạo đội ngũ kế thừa. • Chương trình đào tạo và phát triển nâng cao kiến thức, tay nghề. | • Liên tục nhiều năm liền là doanh nghiệp có môi trường làm việc tốt nhất Việt Nam trong ngành Xây dựng. • Quy trình tuyển dụng nghiêm túc, đảm bảo sự minh bạch, công bằng. • Nỗ lực duy trì chế độ lương thưởng, phúc lợi của NLĐ. • Chế độ đãi ngộ và lộ trình phát triển xứng đáng và công bằng. • 8.403 lượt, 32.850 giờ đào tạo (tăng 29% so với năm 2021). • Đặc biệt quan tâm đến công tác an toàn lao động. • Thực hiện chế độ mua bảo hiểm sức khỏe toàn diện cho toàn bộ NLĐ và hỗ trợ tài chính để NLĐ mua bảo hiểm sức khỏe cho người thân. • Tổ chức hội thao, phong trào rèn luyện sức khỏe cho toàn Công ty. • Xây dựng và đào tạo đội ngũ nhân sự kế thừa. • Xây dựng và phát huy tinh thần “One Team” cho toàn Công ty. [ROW] Khách hàng - Chủ ầ g đầu tư Khách hàng - | • Gặp gỡ trực tiếp, trao đổi qua điện thoại, email với chủ đầu tư • • Bảng câu hỏi khảo sát khách hàng. • Các hội thảo, hội nghị tư vấn về kỹ thuật xây dựng. • Các buổi tập huấn, hướng dẫn kỹ năng thực hiện an toàn lao động trong thi công, • Website, mạng xã hội, diễn đàn... • Nghiên cứu khảo sát thị trường. • Gặp gỡ trực tiếp, trao đổi qua điện thoại, email với người sử dụng cuối sau khi bàn giao hoàn thiện dự án. | Liên tục • Thường niên • Liên tục • Liên tục • Liên tục • Liên tục • Liên tục | • Chất lượng • Thương hiệu và uy tín • Tiến độ thực hiện công trình. • An toàn lao động. • Chi phí thi công. • Kỹ thuật thi công. • Đội ngũ thi công. • Chất lượng dự án mang lại cho người sử dụng. • An toàn và hiệu quả trong thực tế sử dụng. | • Đạt chứng chỉ Năng lực hoạt động xây dựng. • Hệ thống quản lý được xây dựng và triển khai theo các tiêu chuẩn quốc tế mới nhất như ISO 9001:2015, ISO 14001:2015, ISO 45001:2018. • Liên tục cập nhật, hoàn thiện các quy trình kỹ thuật nội bộ. • Năng lực thiết bị thi công ấn tượng. • Các máy móc, thiết bị nhập khẩu từ châu Âu và các quốc gia phát triển trong khu vực. • Đa dạng hóa sản phẩm dịch vụ để phục vụ cho nhu cầu khách hàng thông qua các hoạt động R&D. • Chủ động tư vấn và tìm kiếm giải pháp hỗ trợ cho khách hàng, chủ đầu tư từ pháp lý, chi tiết kỹ thuật cho đến tài chính. • Hoàn thành các cam kết với khách hàng đúng tiến độ với chất lượng cao nhất. • Đảm bảo việc tương tác, tiếp nhận các ý kiến một cách thường xuyên thông qua các kênh: Phòng Phát triển kinh doanh, Phòng Bảo hành, gửi email khảo sát, gặp mặt trực tiếp...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

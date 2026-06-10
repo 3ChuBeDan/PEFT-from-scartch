@@ -1,0 +1,77 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 498,
+      "text": "Bên cạnh đó, tại Techcombank, cán bộ nhân viên luôn được tạo điều kiện tối đa để phát triển bản thân thông qua môi trường làm việc chuyên nghiệp, thân thiện với lộ trình phát triển nghề nghiệp rõ ràng. Ngân hàng liên tục tổ chức các buổi hội thảo chuyên đề như \"Hội thảo phát huy vai trò nhà lãnh đạo ngân hàng tương lai\", Workshop \"Hướng dẫn xây dựng khung năng lực nhằm mang lại những kiến thức mới mẻ, hữu ích cho CBNV\". Trong công việc hàng ngày, cán bộ nhân viên cũng luôn được khuyến khích để đưa ra những ý tưởng mới, các sáng kiến chuyển đổi với những chính sách đãi ngộ và cơ hội phát triển tương ứng. Techcombank hy vọng, mỗi cán bộ nhân viên không chỉ làm tốt công việc của bản thân, mà sẽ không ngừng trau dồi thêm kiến thức kỹ năng để phát triển bản thân thông qua chế độ đào tạo và kế hoạch phát triển bản thân (PDP) cùng chương trình kế cận (Succession Plan), vừa giúp đảm bảo nguồn nhân lực nội bộ chất lượng cao, vừa tạo điều kiện giúp CBNV phát triển hơn ngay trong Ngân hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 556,
+      "text": "Quan trọng hơn, năm 2019 là năm chúng tôi tiếp tục nâng cao hạ tầng an ninh mạng. Trong một thế giới đầy những mối đe dọa về an ninh mạng, khách hàng có thể hoàn toàn tin tưởng ở Techcombank bởi chúng tôi luôn tôn trọng và bảo vệ quyền riêng tư của khách hàng. Chúng tôi liên tục tuyển dụng nhân tài, đầu tư mạnh mẽ vào công nghệ an ninh mạng và tiến hành các khóa đào tạo, để đảm bảo rằng mọi thông tin và giao dịch của khách hàng đều được bảo vệ với phương pháp và công cụ an ninh mạng chuẩn quốc tế.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    },
+    {
+      "paragraph_id": 682,
+      "text": "Đối với quản trị rủi ro hoạt động và rủi ro gian lận: ARCO đã thông qua phương pháp luận quản trị rủi ro hoạt động và rủi ro gian lận; kiểm soát và giám sát việc thực thi phương pháp luận này nhằm giảm thiểu các rủi ro hoạt động, rủi ro gian lận phát sinh trong thực tế kinh doanh, vận hành hàng ngày tại các đơn vị kinh doanh.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 1405,
+      "text": "[TABLE] [CONTEXT] section: 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo) ; column_headers: Nhóm nợ | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc Nợ gia hạn nợ lần đầu; hoặc Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "extracted_count": 11,
+  "extracted": [
+    {
+      "paragraph_id": 554,
+      "text": "Trong lĩnh vực ngân hàng, FPT khẳng định vị thế đối tác dài hạn của các ngân hàng lớn trong nước với số lượng dự án và doanh số ký đạt kỷ lục. FPT tập trung vào các bài toán trọng điểm của ngành như: phòng chống rửa tiền, quản trị quan hệ khách hàng, hệ thống lõi tài chính ... với các dự án tiêu biểu như Phòng chống rửa tiền AML cho Vietcombank; Hệ thống quản lý quan hệ khách hàng Salesforce CRM cho VPBank; Hệ thống Core Finex cho HDBank và Sacombank. FPT cho ra mắt giải pháp Volar Finex, sản phẩm core tài chính Make in Viet Nam đầu tiên và duy nhất trên thị trường, cung cấp cho các tổ chức tài chính hệ thống lõi toàn diện theo các nghiệp vụ phức tạp.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 854,
+      "text": "Tập đoàn đã và đang áp dụng nhiều biện pháp để giảm thiểu tiêu thụ năng lượng, giảm phát thải khí nhà kính như: Xây dựng văn phòng làm việc, cơ sở đào tạo xanh; ứng dụng công nghệ mới, chất liệu thân thiện và tận dụng tối đa nguồn năng lượng tự nhiên. Đồng thời, FPT cũng phát triển các giải pháp hỗ trợ doanh nghiệp chuyển đổi xanh như: Tư vấn lộ trình triển khai ESG, giải pháp kiểm kê khí nhà kính VertZéro giúp các doanh nghiệp tự động hóa, số hóa toàn bộ quy trình báo cáo khí thải và theo dõi tiến trình thực hiện cam kết, đảm bảo quy chuẩn quốc tế ....",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 871,
+      "text": "Để thực hiện định hướng ESG, trong năm 2024, FPT đã ban hành và sửa đổi các chính sách liên quan đến ESG, tập trung vào bốn hạng mục chủ chốt gồm quản trị, nhân sự, môi trường và cộng đồng. Các chính sách này cũng được Tập đoàn triển khai đào tạo trên toàn hệ thống với tỷ lệ hoàn thành đạt 97,5%. Song song, Tập đoàn cũng đã hợp tác với USAID thông qua Chương trình Năng lượng phát thải thấp Việt Nam II (V-LEEP II) để tiếp cận các kiến thức toàn diện về chiến lược NetZero, phát triển năng lượng tái tạo, bao gồm: cơ chế mua bán điện trực tiếp với đơn vị phát điện năng lượng tái tạo, chứng chỉ năng lượng tái tạo, hệ thống lưu trữ năng lượng bằng pin, điện mặt trời mái nhà tự dùng và các chủ đề liên quan khác.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1064,
+      "text": "Tổ chức thu gom, phân loại, lưu giữ, vận chuyển và xử lý toàn bộ chất thải rắn sinh hoạt, chất thải rắn công nghiệp, chất thải nguy hại và các loại chất thải khác phát sinh đảm bảo theo đúng các quy định tại Nghị định số 38/2015/NĐ-CP và Thông tư 36/2015/TT-BTNMT;",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "paragraph_id": 1169,
+      "text": "Ngày hội hiến máu nhân đạo được FPT tổ chức thường niên với mong muốn nâng cao tinh thần tương thân tương ái, góp phần chia sẻ khó khăn với những hoàn cảnh kém may mắn trong xã hội. Với tinh thần \"Một giọt máu cho đi, một cuộc đời ở lại\", nghĩa cử hiến máu cứu người của CBNV FPT đã trở thành một nét đẹp trong hoạt động thiện nguyện - xã hội của FPT hàng năm. Trong năm 2024, 1.657 CBNV FPT đã tham gia hoạt động, hiến tặng 1.880 đơn vị máu. Hoạt động thực hiện với mong muốn khích lệ mọi người cùng chia sẻ những giá trị tốt đẹp, duy trì tinh thần lạc quan, năng lượng tích cực để cùng nhau tạo nên một Cộng đồng hạnh phúc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1719,
+      "text": "[TABLE] [CONTEXT] section: NỘI DUNG CHI TIẾT CÁC PHIÊN HỌP ; column_headers: Phiên họp | Tham dự | Nội dung họp [ROWS] Phiên họp | Tham dự | Nội dung họp [ROW] Phiên 01 Ngày 29/01/2024 | 03/03 | • Xem xét số liệu tài chính quý IV năm 2023 do Ban Điều hành chuẩn bị cho cuộc họp HĐQT ngày 31/01/2024; • Xem xét Báo cáo Tài chính quý IV và cả năm 2024 của Tập đoàn; • Đánh giá các đề xuất của Ban Điều hành về việc tăng vốn điều lệ cho ba công ty thành viên là: FPT Software, FPT Education, FPT IS; | • Xem xét Kế hoạch kinh doanh năm 2024 dự kiến do Ban Điều hành trình HĐQT; • Thảo luận nội bộ và chuẩn bị xây dựng kế hoạch hoạt động BKS năm 2024 trình ĐHĐCĐ. [ROW] Phiên 02 Ngày 08/03/2024 | 03/03 | • Đánh giá Báo cáo Tài chính quý I năm 2024 do Ban Điều hành trình bày; • Đánh giá Báo cáo Tài chính kiểm toán năm 2023 do Ban Điều hành trình bày trong cuộc họp HĐQT ngày 12/03/2024; • Xem xét Tài liệu ĐHĐCĐ 2024 do Ban Điều hành chuẩn bị; • Trao đổi và đánh giá công tác giám sát tính tuân thủ của các thành viên HĐQT; thành viên Ban Điều hành và các vị trí quản lý khác trong năm 2023 để chuẩn bị cho báo cáo BKS trình ĐHĐCĐ 2024; | • Đánh giá quy trình nhân sự cấp cao phù hợp với quy chế công ty hiện hành; • Xem xét báo cáo công nợ quá hạn, rủi ro tiềm ẩn các khoản nợ quá hạn, nợ khó đòi năm 2023 (đến 31/12/2023) và đưa ra khuyến nghị; • Thống nhất các nội dung trong báo cáo của BKS dự kiến sẽ trình ĐHĐCĐ 2024. [ROW] Phiên 03 Ngày 12/04/2024 | 03/03 | • Đánh giá kết quả ĐHĐCĐ năm 2024 và xem xét những ý kiến của cổ đông đã phát biểu, chia sẻ trong đại hội hoặc gửi thư đến Ban Tổ chức; | • Phân công chi tiết công việc các thành viên BKS dựa trên các nội dung trong kế hoạch hoạt động của BKS năm 2024 trình ĐHĐCĐ thông qua. [ROW] Phiên 04 Ngày 23/07/2024 | 03/03 | • Xem xét số liệu tài chính quý II năm 2024 và báo cáo kế hoạch hoạt động sáu tháng cuối năm 2024 do Ban Điều hành chuẩn bị cho cuộc họp HĐQT ngày 25/07/2024; • Xem xét Báo cáo Tài chính bán niên năm 2024 của Tập đoàn; | • Xem xét phương án tạm ứng cổ tức 2024 đợt 01 bằng tiền mặt (10%) theo nghị quyết ĐHĐCĐ 2024 đã thông qua; • Xem xét đánh giá một số tác động của thị trường tài chính, bối cảnh kinh tế thế giới và khu vực đến hoạt động của Tập đoàn. [ROW] Phiên 05 Ngày 28/10/2024 | 03/03 | • Xem xét số liệu tài chính quý III năm 2024 do Ban Điều hành chuẩn bị cho cuộc họp HĐQT ngày 30/10/2024; • Xem xét Báo cáo Kết quả kinh doanh chín tháng đầu năm 2024, đánh giá mức độ hoàn thành kế hoạch cả năm; | • Kiểm tra báo cáo kết quả chia cổ tức đợt một năm 2024 (bằng tiền mặt 10%); • Xem xét việc Ban Điều hành đề nghị tăng vốn cho FPT Smart Cloud; • Lên kế hoạch kiểm soát định kỳ công nợ quá hạn và hàng tồn kho quá hạn trong năm 2024.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 1723,
+      "text": "[TABLE] [CONTEXT] section: QUẢN TRỊ XUẤT SẮC ; column_headers: Vấn đề trọng yếu | Cam kết | Mục tiêu | Kết quả nổi bật 2024 [ROWS] Vấn đề trọng yếu | Cam kết | Mục tiêu | Kết quả nổi bật 2024 [ROW] Quản trị công ty | Quản trị công ty xuất sắc hướng tới sự phát triển bền vững. | • Không ngừng nâng cao năng lực quản trị đáp ứng lợi ích của tất các bên liên quan. | • Đáp ứng 100% tiêu chuẩn quản trị theo yêu cầu của luật pháp Việt Nam; • Cải tiến hoạt động quản trị theo các tiêu chuẩn tiên tiến; • Ứng dụng công nghệ vào thực tiễn quản trị để đảm bảo tính minh bạch, công bằng và quyền lợi của các bên liên quan; • Tiên phong nghiên cứu và ứng dụng AI trong Quản lý tài chính như: Dự báo hàng tồn kho, điểm đặt hàng; quản lý dòng tiền và tối ưu thanh khoản; phân tích tài chính và chatbot phân tích tài chính. [ROW] Quản trị dữ liệu | Đảm bảo an toàn và quyền riêng tư dữ liệu. | • Tuân thủ 100% quy định của luật pháp về quyền riêng tư của khách hàng. | • Hướng dẫn, tư vấn triển khai tuân thủ quy định pháp luật và quy định nội bộ về bảo vệ dữ liệu cá nhân cho các CTTV; • Triển khai công cụ phân quyền, kiểm duyệt sử dụng dữ liệu giữa các CTTV trong Tập đoàn. [ROW] Quản trị rủi ro, chống tham nhũng | Cam kết tuân thủ pháp luật và duy trì tiêu chuẩn đạo đức cao nhất trong tất cả các hoạt động kinh doanh. FPT không chấp nhận hành vi vi phạm các quy định về đạo đức của bất kỳ cá nhân nào trong tổ chức. | • 100% cán bộ quản lý được đào tạo về chống gian lận và tham nhũng; • 100% các trường hợp liên quan đến xung đột lợi tích và gian lận được xử lý; • Triển khai AI trong quản trị tài chính, mua sắm. | • Đẩy mạnh đào tạo, truyền thông để duy trì văn hóa chống tham nhũng; • Tổ chức bộ máy, xây dựng quy trình quy định, chế tài xử lý các vấn đề liên quan đến xung đột lợi ích và tham nhũng; • Ứng dụng AI trong mua sắm giúp kiểm soát chênh lệch giá; • Ra mắt kênh iNghe - Nền tảng ghi nhận mọi ý kiến và đóng góp thẳng thắn của CBNV, góp ý hoặc phản ánh khi phát hiện những vấn đề tiêu cực. [ROW] Quản trị an toàn thông tin | Cam kết hệ thống hiện đại, tập trung, bảo mật. | • Số sự cố an toàn thông tin ảnh hưởng danh tiếng của Tập đoàn bằng 0; • 100% CBNV được đào tạo nâng cao nhận thức để ngăn chặn vi phạm an toàn thông tin. | • Không xảy ra sự cố an toàn thông tin ảnh hưởng đến danh tiếng của Tập đoàn; • Ban hành và áp dụng bộ chính sách, tiêu chuẩn an ninh bảo mật về ứng dụng, hạ tầng; • Thực hiện 12 Bản tin An ninh bảo mật; 04 chiến dịch mô phỏng tấn công lừa đảo Phishing. [ROW] Quản trị mua sắm bền vững | Tính bền vững trong chuỗi cung ứng. | • Xây dựng các chính sách liên quan đến nguồn cung ứng nhằm đáp ứng mục tiêu Mua sắm bền vững của FPT và hướng tới áp dụng chính sách này cho 60% nhà cung cấp trọng yếu vào năm 2025. | • Ban hành chính sách Mua sắm bền vững, ưu tiên hàng hóa dịch vụ và nhà cung cấp xanh; • Đào tạo, hướng dẫn về phát triển bền vững, mục tiêu mua sắm bền vững tới đội ngũ lãnh đạo và cán bộ quản lý mua sắm; • Ứng dụng AI minh bạch hoá hoạt động mua sắm như: AI gợi ý nhà cung cấp; AI kiểm soát chênh lệch giá.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 0.5,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 1,
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1724,
+      "text": "[TABLE] [CONTEXT] section: TẠO MÔI TRƯỜNG LÀM VIỆC ĐẲNG CẤP, HẠNH PHÚC ; column_headers: Vấn đề trọng yếu | Cam kết | Mục tiêu | Kết quả nổi bật 2024 ; row_headers: Song hành vì sự phát triển cộng đồng Thông điệp và Định hướng ESG Quản trị hướng đến phát triển bền vững Môi trường làm việc đẳng cấp, hạnh phúc Hoạt động vì môi trường xanh 07 BÁO CÁO TÀI CHÍNH [ROWS] BÁO CÁO THƯỜNG NIÊN 2024 | Vấn đề trọng yếu | Cam kết | Mục tiêu | Kết quả nổi bật 2024 [ROW] 06 BÁO CÁO ESG 01 THÔNG ĐIỆP BAN LÃNH ĐẠO 02 DẤU ẤN 2024 & TỔNG QUAN VỀ FPT 04 PHÂN TÍCH HOẠT ĐỘNG KINH DOANH 05 QUẢN TRỊ CÔNG TY 03 CHIẾN LƯỢC PHÁT TRIỂN | Nơi làm việc hạnh phúc | Dựa trên nền tảng giá trị văn hóa Tôn - Đổi - Đồng, Chí - Gương - Sáng, FPT cam kết duy trì một nơi làm việc hạnh phúc mà ở đó mọi cá nhân dễ dàng hòa nhập, có cơ hội tham gia, đóng góp, phát triển một cách tự do và công bằng. Đồng thời, luôn đổi mới, sáng tạo để mang lại hạnh phúc cho CBNV dựa trên các yếu tố: tài chính, thể chất, trí tuệ và tinh thần. | • Đạt và duy trì liên tục Danh hiệu Nơi làm việc xuất sắc nhất châu Á do Great Place To Work® công bố; • Hướng đến xây dựng môi trường làm việc hạnh phúc dựa trên nhiều khía cạnh: Chăm sóc sức khỏe thể chất và tinh thần, điều kiện làm việc hiện đại, thu nhập và phúc lợi tốt, có cơ hội được phát triển, được tham gia đóng góp cho cộng đồng. | • Triển khai các chính sách phúc lợi chăm sóc sức khỏe thể chất và tinh thần cho CBNV: Khám sức khỏe cho 100% CBNV; bảo hiểm y tế riêng FPT Care cho 100% CBNV; • Tổ chức chuỗi chương trình Vui khỏe - Gắn kết - Yêu thương; • Đưa vào hoạt động phân khu ba của Khu Công nghệ thông tin tập trung FPT Complex tại Đà Nẵng, đáp ứng chỗ làm việc cho 10.000 nhân sự; • Đẩy mạnh triển khai và nâng cao hiệu quả chương trình khoán thu nhập đảm bảo các yếu tố: Minh bạch, làm nhiều hưởng nhiều và trả sớm, hướng tới nâng cao mặt bằng thu nhập; • Xây dựng và phát triển các chính sách phúc lợi ngoài lương: Chính sách An cư lạc nghiệp (hỗ trợ mua nhà, xe). Đã có hơn 3.500 CBNV được hỗ trợ mua nhà, mua xe. [ROW] Song hành vì sự phát triển cộng đồng Thông điệp và Định hướng ESG Quản trị hướng đến phát triển bền vững Môi trường làm việc đẳng cấp, hạnh phúc Hoạt động vì môi trường xanh 07 BÁO CÁO TÀI CHÍNH | Tổ chức học tập suốt đời | Duy trì FPT luôn là tổ chức học tập, kiến tạo việc học tập suốt đời của CBNV. | • Sử dụng công nghệ để cá thể hóa việc học tập của mỗi cá nhân; • Đẩy mạnh và nâng cao số giờ học tập cho CBNV; • Nâng cao hiệu quả đào tạo bằng công nghệ tiên tiến: AI Mentor, Text-to-voice, chatbot .... | • Ứng dụng AI Mentoring, AI Knowledge Explore trong việc cá thể hóa lộ trình học tập cho CBNV; • Ký kết hợp tác cùng Udemy, cung cấp hơn 58.200 tài khoản học tập cho CBNV toàn Tập đoàn; • Đạt 139 giờ học trung bình/năm/CBNV; • 184,7 tỷ đồng chi cho hoạt động đào tạo, ghi nhận trên 06 triệu giờ đào tạo. [ROW] Bình đẳng và đa dạng | Duy trì một môi trường làm việc bình đẳng, tôn trọng cá nhân, không phân biệt đối xử vì các lý do: Chủng tộc, màu da, dân tộc, quốc tịch, tôn giáo, giới tính, tuổi tác, khuynh hướng tình dục, khuyết tật, hoặc bất kỳ hành vi phân biệt đối xử nào khác bị cấm bởi Pháp luật Nhà nước Việt Nam hoặc các quốc gia trên toàn cầu mà FPT có hiện diện. | • Duy trì tỷ lệ nữ giới trong quy mô nhân sự trên 35%; • Duy trì và tăng cường sự đa dạng số lượng CBNV có quốc tịch nước ngoài. | • Ban hành các chính sách đảm bảo tính công bằng, dân chủ và đa dạng như: Chính sách tôn trọng quyền con người, Quy định chăm sóc sức khoẻ cho CBNV, Quy định chế độ đãi ngộ cho CBNV, Quy định đối thoại định kỳ tại nơi làm việc ...; • Tỷ lệ nhân sự nữ chiếm 37,1% tổng nhân sự; • Tích cực mở rộng tuyển dụng CBNV người nước ngoài. Trong năm 2024, số CBNV người nước ngoài là 3.489 người với 87 quốc tịch, tăng 19,3% so với cùng kỳ.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1727,
+      "text": "[TABLE] [CONTEXT] section: HOẠT ĐỘNG VÌ MÔI TRƯỜNG XANH ; column_headers: Vấn đề trọng yếu | Cam kết | Mục tiêu | Kết quả nổi bật 2024 [ROWS] Vấn đề trọng yếu | Cam kết | Mục tiêu | Kết quả nổi bật 2024 [ROW] Bảo vệ môi trường | Không ngừng cải thiện môi trường làm việc hướng tới môi trường làm việc xanh, an toàn, lành mạnh. | • Mục tiêu ngắn hạn: Đến năm 2030, bằng nguồn lực của FPT giảm 15,8% tổng lượng khí thải khí nhà kính phù hợp với mục tiêu chung của Việt Nam; • Mục tiêu dài hạn đến năm 2040 là NetZero (Cắt giảm lượng khí thải gây hiệu ứng nhà kính xuống bằng 0) như cam kết của Chính phủ Việt Nam tại COP 26. | • Ban hành Chính sách môi trường; • Chuẩn hoá phương pháp kiểm kê dữ liệu phát thải khí nhà kính cho phạm vi phát thải 01 và phạm vi phát thải 02; • 100% số liệu sử dụng năng lượng tại FPT được giám sát; • Triển khai sử dụng 100% bóng đèn Led trong các cơ sở xây mới; • Triệt để triển khai các chương trình xanh hoá như: 100% sử dụng cốc bằng vật liệu thân thiện môi trường, 100% không sử dụng chai nhựa trong văn phòng, 100% túi đựng rác trong văn phòng bằng các vật liệu có thể tái chế; • 100% CBNV được đào tạo về chính sách môi trường và bảo vệ môi trường hàng năm.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.388514,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E3": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1745,
+      "text": "[TABLE] [CONTEXT] section: Rủi ro hoạt động ; column_headers: Tên rủi ro | Nội dung | Biện pháp quản trị [ROWS] Tên rủi ro | Nội dung | Biện pháp quản trị [ROW] Rủi ro về công bố thông tin | Thông tin công bố không đúng thời hạn và không đầy đủ, chính xác. | • Cập nhật đầy đủ các quy định liên quan đến công bố thông tin đối với công ty niêm yết; • Xây dựng quy trình nội bộ về cung cấp và công bố thông tin nhằm đảm bảo các thông tin hoạt động, thông tin tài chính được báo cáo chính xác, kịp thời, đúng thời hạn; • Thường xuyên trao đổi với đại diện phụ trách công bố thông tin của Ủy ban Chứng khoán Nhà nước, Sở giao dịch Chứng khoán Tp.HCM để kiểm tra tính đầy đủ và chính xác của các thông tin cần công bố. [ROW] Rủi ro về nguồn nhân lực | Rủi ro về nguồn nhân lực liên quan đến cạnh tranh thu hút nhân sự; số lượng, chất lượng không bắt kịp nhu cầu tăng trưởng cũng như những chuẩn mực quốc tế để toàn cầu hóa hiệu quả. | • Xây dựng FPT thành tổ chức học tập, phát triển lực lượng lao động có trình độ cao, tổ chức tốt nguồn nhân lực, quy hoạch nhân sự quản lý với định hướng lâu dài; • FPT xây dựng chính sách đãi ngộ đảm bảo các tiêu chí: “Làm nhiều - hưởng nhiều”, thu nhập tương xứng với kết quả công việc, giá trị đóng góp cho FPT; công bằng và minh bạch; cạnh tranh theo thị trường. Ngoài ra FPT còn thực hiện các chính sách khác như trợ cấp mua nhà, mua xe cho CBNV; • Xây dựng môi trường làm việc tốt để nâng cao năng lực cạnh tranh trong thu hút nguồn nhân lực; • Xây dựng trường học hạnh phúc thu hút người học tại tất cả các cấp học của Tổ chức Giáo dục FPT tạo nguồn nhân lực chất lượng trong dài hạn cho thị trường và cho FPT; • Hợp tác với nhiều đối tác uy tín để cùng triển khai đào tạo trong các mảng công nghệ mới như AI, chip bán dẫn; • Hợp tác với các trường Đại học trong nước tạo điều kiện thực tập, nghiên cứu tại FPT và các công ty thành viên trực thuộc; hỗ trợ học bổng, xây dựng học liệu, phòng thí nghiệm phục vụ đào tạo, cơ hội việc làm. [ROW] Rủi ro về danh tiếng thương hiệu | Danh tiếng xấu ảnh hưởng lớn tới các doanh nghiệp, từ hình ảnh thương hiệu đến các hiệu ứng tiền tệ. | • Xây dựng hệ thống thu thập và phân tích ý kiến khách hàng để kịp thời điều chỉnh, cải tiến dịch vụ, đáp ứng nhu cầu khách hàng. Định kỳ khảo sát đo độ hài lòng của các bên liên quan; • Xây dựng quy trình quản trị xử lý khủng hoảng truyền thông; • Xây dựng quy định phát ngôn, chia sẻ và cung cấp thông tin trên các phương tiện truyền thông; • Giám sát, theo dõi các thông tin về Tập đoàn và CTTV trên các phương tiện truyền thông, mạng xã hội hàng ngày, hàng giờ để có phương án xử lý kịp thời khi có các thông tin không chính xác hoặc ảnh hưởng bất lợi đến danh tiếng/thương hiệu của Tập đoàn. [ROW] Rủi ro về bảo mật thông tin và rủi ro an ninh mạng | Thông tin là một trong những tài sản quan trọng, quý giá đối với tổ chức doanh nghiệp. Những rủi ro đối với các thông tin như bị lộ, bị thay đổi, bị mất mát đều ảnh hưởng nghiêm trọng đến hoạt động, uy tín, chiến lược của tổ chức, doanh nghiệp. | • Áp dụng triệt để các biện pháp chống thất thoát dữ liệu và an toàn hệ thống nhằm đảm bảo an ninh thông tin của Tập đoàn; • Tăng cường đầu tư hệ thống và giải pháp an toàn thông tin, cập nhật các quy trình áp dụng các tiêu chuẩn bảo mật mới nhất. Hiện tại, bên cạnh các hệ thống mua ngoài, FPT đã đầu tư phát triển một số sản phẩm về an toàn an ninh mạng như CyRadar, FPT.EagleEye ...; • Định kỳ kiểm tra, đánh giá toàn bộ hệ thống.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1752,
+      "text": "[TABLE] [CONTEXT] section: Kết quả quan trắc môi trường tại tòa nhà FPT Tower, số 10 Phạm Văn Bạch, Cầu Giấy, Tp.Hà Nội ; column_headers: Kết quả | Quy chuẩn (**) | KX01(*) | KX02(*) | KX03(*) ; row_headers: Tiếng ồn (dBA) | Nhiệt độ (̊C) | Độ ẩm (%) | Tốc độ gió (m/s) | Tổng bụi lơ lửng (μg/m3) | CO (μg/m3) | SO2 (μg/m3) | NO2 (μg/m3) [ROWS] Thông số | Kết quả | Quy chuẩn (**) [ROW] KX01(*) | KX02(*) | KX03(*) [ROW] Tiếng ồn (dBA) | 61,4 | 69,6 | 58,1 | 70 [ROW] Nhiệt độ (̊C) | 20,6 | 25,1 | 20,7 | - [ROW] Độ ẩm (%) | 70,4 | 56,0 | 72,1 | - [ROW] Tốc độ gió (m/s) | 1,5 | 0,9 | 0,8 | - [ROW] Tổng bụi lơ lửng (μg/m3) | 155 | 130 | 153 | 300 [ROW] CO (μg/m3) | <9000* | <9000* | <9000* | 30.000 [ROW] SO2 (μg/m3) | 88 | 79 | 84 | 350 [ROW] NO2 (μg/m3) | 75 | 68 | 71 | 200",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

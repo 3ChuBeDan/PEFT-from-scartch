@@ -1,0 +1,84 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 858,
+      "text": "Công đoàn Tập đoàn gồm 12 công đoàn cơ sở, bộ phận trực thuộc với gần 1.600 đoàn viên công đoàn. Trong những năm qua, Lãnh đạo, Đảng ủy và Công đoàn luôn quan tâm đến đời sống vật chất, tinh thần đối với cán bộ, người lao động, đặc biệt là với những đoàn viên công đoàn có hoàn cảnh khó khăn. Đây là những người lao động gặp phải những không may trong cuộc sống, bản thân bị bệnh nặng, ốm đau thường xuyên, phải chữa trị bệnh trong thời gian dài, chi phí tốn kém trong khi điều kiện gia đình cũng hết sức khó khăn; hoặc có trường hợp bản thân khỏe mạnh là trụ cột chính trong gia đình đông người, có người thân bệnh nặng, hiểm nghèo, chi phí hàng tháng tốn kém...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1289,
+      "text": "[TABLE] [CONTEXT] section: Kiểm kê, đo lường phát thải ra môi trường ; column_headers: Tên nhà máy | Tiêu chí | Năm 2022 | Năm 2021 | Hệ thống xử lý khí thải và chất thải [ROWS] Tên nhà máy | Tiêu chí | Năm 2022 | Năm 2021 | Hệ thống xử lý khí thải và chất thải [ROW] DAST | Tổng lượng khí thải (m3) | 7.994.940 | 11.152.510 | Kết quả quan trắc khí thải và hệ thống xử lý khí thải năm 2022 cho thấy các chỉ tiêu, thông số quan [ROW] TNST | Tổng lượng khí thải (m3) | 27.200 | 7.100 | trắc đều đạt quy chuẩn [ROW] DAST | Chất thải rắn thông thường (tấn) Chất thải nguy hại (tấn) | 761 240 96 | 1.127 | Các nhà máy đều ký kết các hợp đồng xử lý rác thải sinh hoạt, chất thải công nghiệp thông thường và chất thải [ROW] TNST | Chất thải rắn thông thường (tấn) 8,16 Chất thải nguy hại (tấn) 14,693 | 1,80 - | môi trường trên địa bàn, như: Công ty TNHH môi trường Việt Tiến, Công ty TNHH xây dựng và phát triển kinh doanh Việt Anh... | nguy hại với các công ty",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6,
+        "E2": 12
+      }
+    },
+    {
+      "paragraph_id": 1292,
+      "text": "[TABLE] [CONTEXT] section: Các biện pháp sáng kiến tiết kiệm và sử dụng năng lượng hiệu quả ; column_headers: Đơn vị tiêu thụ | Nguồn cung cấp nước | Lượng nước sử dụng năm 2022 (m3) | Tỷ lệ % và tổng lượng nước tái chế và tái sử dụng | Thông tin về hệ thống xử lý nước thải [ROWS] Đơn vị tiêu thụ | Nguồn cung cấp nước | Lượng nước sử dụng năm 2022 (m3) | Tỷ lệ % và tổng lượng nước tái chế và tái sử dụng | Thông tin về hệ thống xử lý nước thải [ROW] DAST | Công ty CP nước sạch số 2 Hà Nội | 42.023 | Đã nâng cấp hệ thống nước thải để tái sử dụng nước, vận hành từ năm 2023 | Có hệ thống xử lý nước thải công nghiệp 150m3/ngày đêm. [ROW] TNST | Công ty CP nước sạch Thái Nguyên | 6.449 | Không | Có hệ thống xử lý nước thải công nghiệp 80m3/ngày đêm. [ROW] NMTĐ Trung Thu | Nước ngầm, nước mó | Không áp dụng | Không | Không tạo ra nước thải phải xử lý theo [ROW] NMTĐ Bảo Lâm 1 | Nước từ giếng khoan | Không [ROW] NMTĐ Bảo Lâm 3 | Nước ngầm, nước mó | Không [ROW] NMTĐ Bảo Lâm 3A | Nước từ giếng khoan | Không [ROW] NMTĐ Mông Ân | Nước từ giếng khoan | Không [ROW] NMTĐ Bảo Lạc B | Nước từ giếng khoan | Không | quy định pháp luật [ROW] NMTĐ Sông nhiệm 4 | Nước ngầm, nước mó | Không [ROW] NMĐG Liên Lập | Nước từ giếng khoan | 2.022 | Không [ROW] NMĐG Phong Huy | Nước từ giếng khoan | Không [ROW] NMĐG Phong Nguyên | Nước từ giếng khoan | Không",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    },
+    {
+      "paragraph_id": 1342,
+      "text": "[TABLE] [CONTEXT] section: Công ty Cổ phần Tập đoàn PC1 Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2022 (tiếp theo) [ROWS] 01/01/2022 VND | 394.709.898.607 | 359.104.000.000 | 359.104.000.000 | 70.412.926.452 | 451.968.395.700 | 489.060.000.000 | 159.212.523.972 | 335.145.172.810 | 132.911.049.670 | 43.582.519.431 [ROW] 31/12/2022 VND | 346.709.898.607 | 325.438.000.000 | 325.438.000.000 | 68.300.000.000 | 428.768.395.700 | 437.580.000.000 | 152.212.523.972 | 335.082.568.179 | 922.730.554.943 | 59.279.968.311 [ROW] Tài sản đảm bảo | Tài sản hình thành từ Dự án Thủy điện Bảo Lâm 3 | Tài sản hình thành từ Dự án Thủy điện Trung Thu | Tài sản hình thành từ Dự án Thủy điện Trung Thu | Cẩu 800 tấn ZCC9800W | Tài sản hình thành từ Dự án Thủy điện Bảo Lâm 1 | Tài sản hình thành từ Dự án Thủy điện Mông Ân | Tài sản hình thành từ Dự án Thủy điện Bảo Lâm 3A | Tài sản hình thành từ Dự án Thủy điện Bảo Lạc B | Tài sản hình thành từ Dự án Nhà máy Tuyển quặng Niken-Đồng | Tài sản hình thành từ Dự án Nhà máy Mạ kẽm Thái Nguyên [ROW] Năm đáo hạn | 2030 | 2029 | 2029 | 2028 | 2030 | 2032 | 2030 | 2032 | 2032 | 2028 [ROW] Lãi suất năm | Lãi suất huy động tiết kiệm bằng tiền VND kỳ hạn 12 tháng cộng biên độ | Lãi suất ưu đãi từ nguồn vốn hỗ trợ Chương trình Phát triển Năng lượng Tái tạo (REDP) của Ngân hàng Thế giới cộng biên độ | Lãi suất ưu đãi từ nguồn vốn hỗ trợ Chương trình Phát triển Năng lượng Tái tạo (REDP) của Ngân hàng Thế giới cộng biên độ | 8,8% điều chỉnh 6 tháng 1 lần | Lãi suất ưu đãi từ nguồn vốn hỗ trợ Chương trình Phát triển Năng lượng Tái tạo (REDP) của Ngân hàng Thế giới | Lãi suất huy động tiết kiệm bằng tiền VND kỳ hạn 12 tháng cộng biên độ | Lãi suất huy động tiết kiệm bằng tiền VND kỳ hạn 12 tháng cộng biên độ | Lãi suất huy động tiết kiệm bằng tiền VND kỳ hạn 12 tháng cộng biên độ | Lãi suất huy động tiết kiệm bằng tiền VND kỳ hạn 12 tháng cộng biên độ | Lãi suất huy động tiết kiệm bằng tiền VND kỳ hạn 12 tháng cộng biên độ [ROW] Loại tiền | VND | VND | VND | VND | VND | VND | VND | VND | VND | VND [ROW] Ngân hàng TMCP Ngoại thương Việt Nam | Ngân hàng TMCP Đầu tư và Phát triển Việt Nam | Ngân hàng TMCP Đầu tư và Phát triển Việt Nam | Ngân hàng TMCP Đầu tư và Phát triển Việt Nam | Ngân hàng TMCP Công thương Việt Nam | Ngân hàng TMCP Công Thương Việt Nam | Ngân hàng TMCP Công Thương Việt Nam | Ngân hàng TMCP Công Thương Việt Nam | Ngân hàng TMCP Công Thương Việt Nam | Ngân hàng TMCP Công Thương Việt Nam",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    }
+  ]
+}

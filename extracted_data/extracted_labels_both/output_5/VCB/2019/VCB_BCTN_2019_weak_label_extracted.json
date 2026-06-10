@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 777,
+      "text": "Đặc biệt, Vietcombank rất tích cực triển khai các quy trình và hành động cụ thể để quản lý các rủi ro hoạt động trọng yếu. Trong đó, công tác quản lý rủi ro gian lận (QLRRGL) tiếp tục được đẩy mạnh, với việc thực hiện toàn diện chính sách, quy trình và công cụ QLRRGL, triển khai cơ chế tố giác và các quy định liên quan về quản lý nhân sự nhằm phòng ngừa và phát hiện sớm dấu hiệu rủi ro gian lận. Ngoài ra, khung quản lý rủi ro công nghệ thông tin (CNTT) tiếp tục được tăng cường, hoàn thiện nhằm phòng ngừa, giảm thiểu rủi ro CNTT và duy trì tính liên tục trong vận hành hệ thống CNTT.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

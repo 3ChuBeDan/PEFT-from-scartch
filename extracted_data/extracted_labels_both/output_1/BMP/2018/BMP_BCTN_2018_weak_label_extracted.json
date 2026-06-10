@@ -1,0 +1,47 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 414,
+      "text": "Đối với các chất thải, khí thải,...: Công ty thực hiện các hoạt động kiểm soát và xử lý các phát thải như các Báo cáo đánh giá tác động môi trường đăng ký tại chính quyền sở tại. Bên cạnh đó, các chỉ tiêu môi trường có liên quan được thực hiện đo kiểm bởi các đơn vị độc lập theo định kỳ nhằm đảm bảo rằng các phát thải tại công ty được kiểm soát và đáp ứng với các yêu cầu pháp luật hiện tại.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 949,
+      "text": "[TABLE] [CONTEXT] section: Đơn vị tính: VNĐ ; column_headers: Số đầu năm | Chi phí phát sinh trong năm | Kết chuyển vào TSCĐ trong năm | Số cuối năm ; row_headers: Mua sắm TSCĐ | Xây dựng cơ bản dở dang | - Chi phí tư vấn triển khai CNTT và bản quyền phần mềm Oracle | - Hệ thống cấp nước và khí nén tại Nhà máy nhựa BM - KCN Sóng Thần 1 | - Hệ thống nạp bột PVC-U | - Chi phí XDCB dở dang khác | Cộng [ROWS] Số đầu năm | Chi phí phát sinh trong năm | Kết chuyển vào TSCĐ trong năm | Số cuối năm [ROW] Mua sắm TSCĐ | 536.177.265 | 1.614.236.512 | 1.688.481.071 | 461.932.706 [ROW] Xây dựng cơ bản dở dang | 9.749.687.057 | 12.904.685.110 | 9.749.687.057 | 12.904.685.110 [ROW] - Chi phí tư vấn triển khai CNTT và bản quyền phần mềm Oracle | 9.749.687.057 | 262.500.000 | 9.749.687.057 | 262.500.000 [ROW] - Hệ thống cấp nước và khí nén tại Nhà máy nhựa BM - KCN Sóng Thần 1 | - | 8.580.526.510 | - | 8.580.526.510 [ROW] - Hệ thống nạp bột PVC-U | - | 4.043.476.782 | - | 4.043.476.782 [ROW] - Chi phí XDCB dở dang khác | - | 18.181.818 | - | 18.181.818 [ROW] Cộng | 10.285.864.322 | 14.518.921.622 | 11.438.168.128 | 13.366.617.816",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 335,
+      "text": "Con người luôn là nguồn lực cốt lõi của quá trình xây dựng và phát triển Công ty. Xây dựng và đào tạo đội ngũ trẻ kế thừa luôn là mục tiêu lớn của Công ty để đẩy mạnh tăng trưởng và phát triển bền vững. Việc đảm bảo thu hút nhân tài có tiềm năng, có thái độ tốt và tinh thần học hỏi cũng đồng thời là một thách thức lớn. Ngoài ra, các nhân sự trẻ cũng cần nhiều thời gian tích lũy kinh nghiệm thực tế và phát triển bản thân xứng tầm với bộ máy nhân sự lớn mạnh của Coteccons.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 341,
+      "text": "chăm lo đầy đủ đến sức khỏe và đời sống tinh thần thông qua các chế độ bảo hiểm sức khỏe cho CBNV và người thân, chính sách tài trợ giáo dục...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 342,
+      "text": "Ban Chấp hành Công đoàn Coteccons còn thường xuyên có những kế hoạch thăm hỏi, động viên, tặng quà cho các công trường gần và xa để khích lệ tinh thần các ban chỉ huy công trường vượt qua sóng gió. Nhân sự tại văn phòng cũng thường được tham gia các chương trình tình nguyện vừa để nâng cao tinh thần trách nhiệm với xã hội và cộng đồng, vừa để gắn kết các thành viên trong đại gia đình Coteccons ngoài những giờ làm việc căng thẳng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 525,
+      "text": "Xây dựng chính sách hỗ trợ CBNV và người thân bị bệnh nặng có hoàn cảnh khó khăn, kịp thời thăm hỏi, tặng quà vào các dịp sinh nhật, hiếu hỉ... Các phong trào thể dục thể thao, văn nghệ và các hoạt động tinh thần khác tổ chức vào các ngày lễ, các dịp kỷ niệm trong năm như: Quốc tế Phụ nữ 8/3, ngày Phụ nữ Việt Nam 20/10, năm mới... tạo sự giao lưu và gắn kết trong tập thể CBNV.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 678,
+      "text": "Duy trì việc ứng dụng phần mềm trong công tác quản lý hồ sơ, văn thư lưu trữ ...giảm thời gian làm những công việc thủ công, tránh sai sót; Quản lý toà nhà, nhà công vụ, tổ chức văn phòng làm việc tiện nghi và thân thiện; Thực hiện tốt công tác hậu cần, thể thiện hình ảnh thân thiện và chuyên nghiệp khi khách đến Văn phòng Công ty làm việc... Xây dựng kế hoạch và tổ chức thực hiện các sự kiện của Công ty trong năm theo đúng mục tiêu và chi phí đề ra. Phối hợp với các tổ chức đoàn thể chăm lo tốt đời sống vật chất, tinh thần và sức khoẻ cho CBNV Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

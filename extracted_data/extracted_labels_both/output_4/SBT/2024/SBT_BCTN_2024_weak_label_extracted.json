@@ -1,0 +1,679 @@
+{
+  "extracted_count": 40,
+  "extracted": [
+    {
+      "text": "Kiên định mục tiêu Net Zero 2035, AgriS triển khai các giải pháp giảm phát thải, tái chế phụ phẩm nông nghiệp và phát triển năng lượng tái tạo như điện mặt trời, điện gió và năng lượng sinh khối. Phát triển bền vững là kim chỉ nam cho mọi hoạt động, là nền tảng để tăng trưởng dài hạn và tạo tác động tích cực cho xã hội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Khánh thành tòa nhà AgriS Building - Biểu tượng công trình xanh hướng đến Net Zero năm 2035, đạt chứng nhận LEED Gold tuân thủ quy trình và chỉ tiêu nghiêm ngặt về năng lượng, môi trường",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Trong các tình huống có xung đột lợi ích, đảm nhận vai trò của người giám sát khách quan phù hợp đối với các hoạt động của Ban Điều hành, bao gồm việc cân bằng và ngăn ngừa những xung đột lợi ích, góp phần bảo vệ lợi ích chính đáng của Cổ đông, đặc biệt là Cổ đông nhỏ lẻ.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "B.4.5 Công ty thực hiện các quy trình và biện pháp kiểm soát chặt chẽ nhằm phòng ngừa hành vi tham nhũng, gian lận và xung đột lợi ích trong toàn bộ hoạt động thông qua các quy trình kiểm soát nội bộ, cơ chế phê duyệt giao dịch và quy định về quà tặng, xung đột lợi ích. Ngoài ra, Công ty thường xuyên tổ chức đào tạo, truyền thông nội bộ về đạo đức kinh doanh và quy tắc ứng xử cho cán bộ nhân viên, đồng thời duy trì kênh tiếp nhận và xử lý tố cáo (whistleblowing channel) để phát hiện và xử lý kịp thời các hành vi vi phạm.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "text": "Tôi cảm thấy may mắn khi được làm việc tại AgriS, nơi mỗi cá nhân được trao quyền học hỏi, phát triển toàn diện và luôn nhận được sự hỗ trợ từ đồng nghiệp thân thiện. Môi trường làm việc ở đây cân bằng giữa thoải mái và thử thách, giúp tôi luôn giữ được tinh thần hứng khởi, không ngừng rèn luyện và hoàn thiện bản thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Trong chiến lược phát triển đến 2030 và tầm nhìn đến 2035, AgriS tiếp tục gia tăng việc tối ưu hóa chuỗi giá trị từ cây trồng, phát triển các giải pháp dinh dưỡng có nguồn gốc tự nhiên, tham gia vào chuỗi cung ứng thực phẩm và đồ uống dinh dưỡng toàn cầu. Song song, chúng tôi đặt mục tiêu tất cả nhà máy sử dụng 100% năng lượng tái tạo, hoàn tất chuyển đổi lò hơi sinh khối, cắt giảm ít nhất 70-80% phát thải CO2 so với mức cơ sở 2023-2024. Logistics cũng sẽ được \"xanh hóa\" với một nửa phương tiện vận tải chuyển sang sử dụng điện hoặc nhiên liệu sinh học, và Hệ thống quản lý vận tải (Transport Management System – TMS) được triển khai trên toàn hệ thống. Đây cũng là giai đoạn chúng tôi thương mại hóa các tín chỉ carbon và chứng chỉ năng lượng tái tạo quốc tế (International Renewable Energy Certificate I-REC), biến kết quả giảm phát thải thành dòng doanh thu và lợi thế cạnh tranh. Ngoài ra, các chứng chỉ về phát triển toàn cầu như Bonsucro, Fairtrade, Rainforest Alliance, FSC sẽ được duy trì, đồng thời đáp ứng mọi yêu cầu mới nhất của Chỉ thị báo cáo phát triển bền vững (Corporate Sustainability Reporting Directive – CSRD),",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 0.20767,
+        "E3": 1.0,
+        "S6": 0.412568
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "S6"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 1,
+        "E3": 4,
+        "S6": 1
+      }
+    },
+    {
+      "text": "AgriS yêu cầu tất cả nhà cung cấp tuân thủ các tiêu chuẩn môi trường & xã hội tối thiểu theo quy định pháp luật và các cam kết quốc tế. Chúng tôi thực hiện sàng lọc, đánh giá định kỳ nhà cung cấp tập trung vào các khía cạnh: quản lý chất thải, sử dụng tài nguyên, phát thải carbon, bảo tồn đa dạng sinh học và tuân thủ quyền người lao động xã hội.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Công ty nghiêm túc tuân thủ các quy định pháp luật về cạnh tranh và chống độc quyền tại các quốc gia nơi AgriS hoạt động, đồng thời xây dựng chính sách nội bộ nhằm phòng ngừa và xử lý kịp thời các hành vi cản trở cạnh tranh, bao gồm các hành vi gian lận, thao túng giá cả, độc quyền hay các hành vi phi đạo đức khác.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "» 200.000 chứng nhận năng lượng sạch I-REC được phát hành mỗi năm cho các nhà máy sử dụng Biomass, đóng góp tích cực vào lộ trình bù trừ khí thải KNK và phát triển kinh tế tuần hoàn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Biến đổi khí hậu gây ra nhiều thách thức cho nông nghiệp, như hạn hán và lũ lụt, ảnh hưởng đến năng suất cây trồng. \"Theo phân tích của The Global Climate Risk Index (2019), Việt Nam là một trong những quốc gia bị tác động mạnh mẽ nhất do biến đổi khí hậu,. Sự thay đổi đột ngột về thời tiết, nhiệt độ và các hiện tượng cực đoan như lũ lụt, sóng nhiệt hay sâu bệnh mới không chỉ làm giảm năng suất, gián đoạn chuỗi cung ứng mà còn ảnh hưởng tới nguồn cung nguyên vật liệu đầu vào.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    },
+    {
+      "text": "CANH TÁC BỀN VỮNG và ĐA DẠNG SINH HỌC, CANH TÁC BỀN VỮNG ĐA DẠNG SINH HỌC THÍCH ỨNG VỚI BIẾN ĐỔI THÍCH ỨNG VỚI BIẾN ĐỔI CANH TÁC BỀN VỮNG CANH TÁC BỀN VỮNG ĐA DẠNG SINH HỌC ĐA DẠNG SINH HỌC THÍCH ỨNG VỚI BIẾN ĐỔI THÍCH ỨNG VỚI BIẾN ĐỔI",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 4
+      }
+    },
+    {
+      "text": "Đối với các khí thải phát sinh từ việc đốt Biomass thì sẽ có quan trắc khí thải tự động, liên tục và Các nhà máy đường của Công ty đều được xây dựng hệ thống xử lý khí thải, đạt yêu cầu của Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp đối với bụi và các chất vô cơ theo Quy chuẩn Việt Nam 19:2009/BTNMT và các quy định khác theo Luật Môi trường.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Xử lí chất thải bởi đơn vị thứ 3 (phương pháp đốt chất thải nguy hại và chất thải công nghiệp và chôn lấp chất thải sinh hoạt, tro và bùn thải);",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Sử dụng nhiên liệu sinh khối: Hầu hết lò hơi của các Nhà máy chủ yếu sử dụng nhiên liệu Sinh khối chủ yếu là Bã mía, Biomass,... thay cho Than đá, nhờ vậy hạn chế được đáng kể Phát thải nhà kính.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Loại bỏ việc sử dụng hơi mua từ than nâu: Niên độ 2024-2025 cũng là năm cuối cùng AgriS sử dụng hơi mua từ than nâu, niên độ sau tất cả các nhà máy sản xuất đường AgriS chỉ sử dụng hơi từ lò hơi sử dụng nhiên liệu Sinh khối là bã mía và Biomass.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Tổng tiêu thụ Năng lượng từ các nguồn năng lượng sạch do AgriS tạo ra như điện sinh khối (có nguồn gốc tái tạo như bã mía, mùn cưa, vỏ trấu) và Năng lượng mặt trời tăng 2% so với cùng kỳ. Bên cạnh đó, là việc sử dụng năng lượng có nguồn gốc không tái tạo (hơi mua từ than nâu) đã giảm 13% so với NĐ trước, và niên độ 2024-2025 cũng là niên độ cuối cùng AgriS sử dụng năng lượng này.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Sử dụng năng lượng sinh khối (Biomass)",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "AgriS chủ động sử dụng năng lượng sinh khối, một dạng năng lượng tái tạo được tạo ra từ các phụ phẩm nông nghiệp như bã mía, mùn cưa, vỏ trấu tại tất cả nhà máy trong hệ thống. Việc sử dụng Biomass không chỉ giúp tận dụng triệt để nguồn phụ phẩm sẵn có, giảm thiểu chất thải mà còn góp phần thay thế các nguồn năng lượng hóa thạch, giảm phát thải khí nhà kính.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E3": 4
+      }
+    },
+    {
+      "text": "Đồng thời, AgriS duy trì việc phát hành chứng nhận năng lượng sạch I-REC cho các nhà máy sử dụng Biomass là máy Nhà máy TTCS, Nhà máy AgriS Ninh Hoà, Nhà máy AgriS Gia Lai, Nhà máy TTCA, với hơn 200.000 I-REC mỗi năm, đóng góp tích cực vào lộ trình bù trừ khí thải KNK và phát triển kinh tế tuần hoàn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "AgriS coi quản lý chất thải và bao bì là một phần quan trọng trong chiến lược phát triển bền vững, gắn liền với kinh tế tuần hoàn. Bao bì sản phẩm nông nghiệp chủ yếu sử dụng nhựa PP/PE và giấy carton, vừa đảm bảo an toàn, chất lượng sản phẩm, vừa hướng đến khả năng tái chế và tái sử dụng để kéo dài vòng đời, giảm phát thải khí nhà kính. Song song đó, các loại phế phụ phẩm trong sản xuất như bã mía, tro, bùn lọc và vỏ trấu được tận dụng để sản xuất phân bón hữu cơ hoặc năng lượng sinh khối, góp phần giảm thiểu chất thải chôn lấp và tiết kiệm tài nguyên. Việc đẩy mạnh các giải pháp bao bì bền vững, tái chế – tái sử dụng chất thải và tuân thủ quy định EPR giúp AgriS vừa giảm áp lực môi trường, vừa tạo giá trị mới trong toàn chuỗi cung ứng.",
+      "hard_labels": [
+        "E2",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Hoạt động: ép, tinh luyện, sấy, đóng gói, vận chuyển và bảo trì thiết bị – các khâu này phát sinh chất thải rắn (bã mía, tro, bùn lọc, bao bì hỏng), nước thải công nghiệp và chất thải nguy hại (dầu, hóa chất, giẻ lau, bóng đèn).",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: C Công bố thông tin và Minh bạch ; caption: Phụ lục 2: Công ty tự đánh giá danh mục điểm phạt theo thẻ điểm QTCT ASEAN ; column_headers: Ký hiệu | Điểm thưởng theo Thẻ điểm QTCT ASEAN | Thực hành tại AgriS niên độ 2024-2025 [ROWS] Ký hiệu | Điểm thưởng theo Thẻ điểm QTCT ASEAN | Thực hành tại AgriS niên độ 2024-2025 [ROW] A | Quyền và đối xử công bằng với Cổ đông [ROW] A.1.1 | Công ty không hoặc sơ suất không đối xử công bằng đối với việc mua lại cổ phần đối với tất cả các cổ đông? | Không, AgriS luôn tuân thủ đầy đủ các quy định của Luật Doanh nghiệp, Luật Chứng khoán và Điều lệ Công ty trong mọi giao dịch liên quan đến mua lại cổ phần. Công ty tuyệt đối không có hành vi nào dẫn đến việc đối xử thiếu công bằng giữa các cổ đông. Mọi quyết định và hoạt động mua lại cổ phần đều được công bố thông tin minh bạch, công khai [ROW] A.2.1 | Có bằng chứng gì về rào cản đối với việc cổ đông không được trao đổi thông tin hoặc tham khảo ý kiến các cổ đông khác? | Không, Công ty luôn tạo mọi điều kiện thuận lợi nhất để các cổ đông được tự do trao đổi, chia sẻ thông tin với nhau trong mọi trường hợp. Công ty tuyệt đối không có bất kỳ hành vi ngăn cản hay có quy định nào nào làm hạn chế quyền trao đổi thông tin của cổ đông [ROW] A.3.1 | Công ty có đưa nội dung bổ sung và không được thông báo trước trong chương trình nghị sự vào thông báo ĐHĐCĐ/ ĐHĐCĐ bất thường? | Không, Tất cả mọi thông tin và tài liệu liên quan đến ĐHĐCĐ đều được AgriS đăng tải công khai trên website của công ty, mục Đại hội đồng Cổ đông. Công ty luôn tạo mọi điều kiện tốt nhất để cổ đông có thể nắm bắt được các thông tin cần thiết về đại hội nhằm thực hiện quyền và nghĩa vụ của mình [ROW] A.3.2 | Chủ tịch HĐQT, chủ tịch các ủy ban HĐQT và tổng giám đốc có tham dự ĐHĐCĐ mới nhất? | Có, Tại Biên bản họp ĐHĐCĐ bất thường niên độ 2024-2025 ghi nhận sự hiện diện và có mặt của toàn bộ nhân sự chủ chốt trong công ty, bao gồm: Chủ tịch HĐQT, chủ tịch các Ủy ban HĐQT và tổng giám đốc. [ROW] A.4.1 | Thỏa thuận cổ đông? | Không, Công ty hiện không có bất kỳ thỏa thuận cổ đông nào ngoài những quy định đã được ghi nhận trong Điều lệ và các văn bản pháp lý hiện hành. Mọi quyền và nghĩa vụ của cổ đông đều được thực thi minh bạch, công bằng và thống nhất theo đúng quy định pháp luật, bảo đảm không tồn tại bất kỳ thỏa thuận riêng lẻ nào có thể ảnh hưởng đến quyền lợi chính đáng của các cổ đông khác [ROW] A.4.2 | Giới hạn biểu quyết? | Điều lệ - Điều 11.2.a: “Tham dự, phát biểu trong cuộc họp Đại hội đồng cổ đông và thực hiện quyền biểu quyết trực tiếp hoặc thông qua người đại diện theo ủy quyền hoặc hình thức khác do Điều lệ công ty, pháp luật quy định. Mỗi cổ phần phổ thông có một phiếu biểu quyết” Quy chế nội bộ về QTCT - Điều 9.1.a: “Khi tiến hành đăng ký cổ đông, Công ty sẽ cấp cho từng cổ đông hoặc đại diện được uỷ quyền có quyền biểu quyết 01 (một) thẻ biểu quyết, trên đó có ghi số đăng ký, họ tên của cổ đông, họ và tên đại diện được uỷ quyền và số phiếu biểu quyết của cổ đông.” [ROW] A.4.3 | Cổ phiếu nhiều quyền biểu quyết? | Không, Mỗi cổ phiếu tại công ty là 1 quyền biểu quyết duy nhất. Không tồn tại cổ phiếu nhiều quyền biểu quyết tại công ty. [ROW] A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu chéo có tồn tại không? | Tỷ lệ giảm đáng kể qua các niên độ. Hiện tại Công ty không tồn tại cấu trúc sở hữu chéo. [ROW] A.6.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, ban điều hành và nhân viên công ty trong ba năm qua? | Không, Công ty không bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, ban điều hành và nhân viên công ty trong nhiều năm qua. Công ty cấm hoàn toàn mọi hoạt động nội gián và có chế tài xử lý nội bộ nghiêm khắc đối với hành vi này",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: PHÁT THẢI KHÍ NHÀ KÍNH TRỰC TIẾP - SCOPE 1 ; column_headers: Phân loại | Nguồn phát thải | Hoạt động thiết bị tương ứng | KNK phát sinh [ROWS] Phân loại | Nguồn phát thải | Hoạt động thiết bị tương ứng | KNK phát sinh [ROW] Phát thải KNK từ tiêu thụ Sinh khối | Bã mía Biomass mua ngoài (củi, trấu..) | Sử dụng cho lò hơi | CO 2 , CH 4 , N 2 O [ROW] Bột than gáo dừa [ROW] Phát thải KNK từ tiêu thụ hóa thạch sản sinh ra | Dầu Diesel (Dầu DO) | 1. Sử dụng để đốt lò hơi 2. Sử dụng cho xe do công ty quản lý 3. Xe công vụ của công ty đưa rước nhân viên 4. Sử dụng cho các thiết bị máy móc khác (máy bơm, máy hàn, cắt, máy cắt cỏ, máy thổi lá....) 5. Máy phát điện | CO 2 , CH 4 , N 2 O [ROW] Xăng LPG | 2. Xe công vụ của công ty đưa rước nhân viên 3. Sử dụng cho các thiết bị máy móc khác (máy bơm, máy hàn, cắt, máy cắt cỏ, máy thổi lá....) | CO 2 , CH 4 , N 2 O [ROW] Sử dụng cho nấu ăn [ROW] CH 4 | Nước thải | CH 4 , CO 2 [ROW] CO 2 | Bình chữa cháy* | CO 2 [ROW] Môi chất lạnh | Máy điều hòa, máy lạnh trung tâm | HCFC [ROW] NPK | Phân bón cho cây* | N 2 O [ROW] Phát thải KNK có tính rò rỉ | Hóa chất sử dụng | Lượng xút NaOH sử dụng trong quá trình sản xuất (quy ra lượng chất rắn) Tổng lượng chất trợ lắng sử dụng trong sản xuất (quá trình lắng lọc sản xuất đường...) Tổng lượng hóa chất sử dụng để xử lý nước cấp cho Lò hơi (Alovap, Alomine, muối, xút ...) | CO 2 [ROW] Lượng sulfur sử dụng trong quá trình sản xuất của nhà máy.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: TÌNH HÌNH SỬ DỤNG NĂNG LƯỢNG TRONG SẢN XUẤT NIÊN ĐỘ 2024-2025 ; column_headers: Các nguồn năng lượng đã tiêu thụ | Đơn vị | Tiêu thụ NĐ 2023-2024 | Tiêu thụ NĐ 2024-2025 (%) | Chênh lệch 2024-2025/ 2023-2024 [ROWS] Các nguồn năng lượng đã tiêu thụ | Đơn vị | Tiêu thụ NĐ 2023-2024 | Tiêu thụ NĐ 2024-2025 (%) | Chênh lệch 2024-2025/ 2023-2024 [ROW] 1 | Tiêu thụ Điện tự sản xuất từ việc sử dụng các nhiên liệu có nguồn gốc tái tạo như bã mía, biomass (mùn cưa, vỏ trấu) | KWh | 148.497.381 | 150.859.175 | 2% [ROW] 2 | Tiêu thụ Điện tự sản xuất từ Năng lượng mặt trời (năng lượng tái tạo) | KWh | 2.209.710 | 2.067.269 | -7% [ROW] 3 | Tiêu thụ Điện tự sản xuất từ việc sử dụng nhiên liệu có nguồn gốc không tái tạo (Hơi mua từ than nâu) | KWh | 6.809.512 | 6.988.000 | 3% [ROW] 4 | Tiêu thụ Điện điện từ nguồn cấp lưới điện quốc gia | KWh | 7.014.513 | 8.052.185 | 13% [ROW] Tổng Điện tiêu thụ từ nguồn gốc tái tạo | KWh | 150.707.091 | 152.926.444 | 1% [ROW] Tổng Điện tiêu thụ từ nguồn gốc không tái tạo | KWh | 13.824.025 | 13.824.025 | 8% [ROW] Tổng Điện tiêu thụ | KWh | 164.531.116 | 152.926.444 | 2% [ROW] Tổng Năng lượng tiêu thụ từ điện | GJ | 592.312.02 | 597.384.50 [ROW] Năng lượng điện tự phát/Tấn Thành phẩm đường | GJ | 0,84 | 0,87 [ROW] Năng lượng mua ngoài/Tấn Thành phẩm đường | GJ | 0,08 | 0,07",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    }
+  ]
+}

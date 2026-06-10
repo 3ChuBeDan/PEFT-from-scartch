@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "-Đồng hành với thanh niên trong học tập, nâng cao trình độ học vấn, chuyên môn, nghiệp vụ, Đồng hành với thanh niên trong nghề nghiệp và việc làm, Đồng hành với thanh niên trong nâng cao sức khỏe thể chất và đời sống tinh thần\" Tinh thần đồng đội vượt đỉnh Phansipans\" với 44 đoàn viên tham gia, đã chinh phục được đỉnh núi cao nhất Đông Dương, để lại dấu ấn của BSC trên đỉnh Phansipan,..., Đồng hành với thanh niên trong phát triển kỹ năng xã hội với cuộc thi \" cán bộ BSC trí tuệ -năng động – sáng tạo\" ,...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

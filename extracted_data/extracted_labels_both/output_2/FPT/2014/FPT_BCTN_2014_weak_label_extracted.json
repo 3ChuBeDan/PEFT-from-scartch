@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 650,
+      "text": "Các Thành viên có trách nhiệm tránh xung đột lợi ích giữa lợi ích Công ty và lợi ích cá nhân của mình hay của người có liên quan với mình. Trong trường hợp có xảy ra xung đột lợi ích, Thành viên có trách nhiệm thông báo bằng văn bản ngay lập tức về xung đột đó đến các Thành viên khác.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

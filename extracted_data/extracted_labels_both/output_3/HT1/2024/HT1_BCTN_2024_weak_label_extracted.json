@@ -1,0 +1,62 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 92,
+      "text": "Actively reduce furnace productivity, increase the use of alternative raw material sources in cement and clinker production. Testing lowcalorific value coal to proactively source coal; testing the use of steel slag instead of laterite stone; testing RDF (recycled from domestic waste) fuel sources to make up for the shortage of conventional industrial solid waste. Reduce the cost of repairing machinery and equipment, increase the volume of DIY repairs, reduce outsourcing. With the above production solutions, variable costs have been reduced over the same period and lower than the plan set out",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.623009,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1140,
+      "text": "[TABLE] [CONTEXT] section: The Board of Directors has approved 11 Minutes of meetings and 136 Rotational Resolutions/Resolutions/Decisions [ROWS] 126 24/12/NQLC-HĐQT 127 25/12/QĐ-HĐQT | 24/12/2024 24/12/2024 | Chấp thuận chủ trương ký hợp đồng bán clinker cho Công ty TNHH MTV Xi măng Hạ Long [ROW] Chấp thuận chủ trương ký hợp đồng bán clinker cho Công ty TNHH MTV Xi măng Hạ Long [ROW] 128 26/12/NQLC-HĐQT | 30/12/2024 | Phê duyệt điều chỉnh một số nội dung thuộc Kế hoạch lựa chọn nhà thầu của Dự án Tận dụng nhiệt khí thải để phát điện - Nhà máy Xi măng Bình Phước Phê duyệt điều chỉnh một số nội dung thuộc Kế hoạch lựa chọn nhà thầu của Dự án Tận dụng nhiệt khí thải để [ROW] 129 27/12/QĐ-HĐQT | 30/12/2024 | phát điện - Nhà máy Xi măng Bình Phước [ROW] 130 28/12/NQLC-HĐQT 131 29/12/QĐ-HĐQT | 30/12/2024 30/12/2024 | Phê duyệt dự án Tận dụng nhiệt khí thải để phát điện - Nhà máy Xi măng Kiên Lương Phê duyệt dự án Tận dụng nhiệt khí thải để phát điện - Nhà máy Xi măng Kiên Lương [ROW] 132 30/12/NQLC-HĐQT | 30/12/2024 [ROW] 133 31/12/NQLC-HĐQT | 30/12/2024 | Phê duyệt Kế hoạch kiểm toán nội bộ năm 2025 [ROW] 134 32/12/QĐ-HĐQT | 30/12/2024 | Ban hành Quy chế bảo đảm an toàn thông tin mạng [ROW] Ban hành Quy chế bảo đảm an toàn thông tin mạng [ROW] 135 33/12/NQLC-HĐQT | 30/12/2024 | Chấp thuận chủ trương ký kết hợp đồng gia công xi măng năm 2025 tại CN Công ty CP Xi măng VICEM Hà Tiên - Trạm nghiền Cam Ranh với Công ty CP Xi măng Vicem Hoàng Mai Chấp thuận chủ trương ký kết hợp đồng gia công xi măng năm 2025 tại CN Công ty CP Xi măng VICEM Hà Tiên - [ROW] 136 34/12/QĐ-HĐQT | 30/12/2024 | Trạm nghiền Cam Ranh với Công ty CP Xi măng Vicem Hoàng Mai",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 1212,
+      "text": "[TABLE] [CONTEXT] section: Operating lease assets ; column_headers: Closing balance VND | Opening balance VND ; row_headers: Less than 1 vear | From 1 | More than 5 years [ROWS] Closing balance VND | Opening balance VND [ROW] Less than 1 vear | 27,902,836,091 | 15,674,859,018 [ROW] From 1 | 111,092,531,268 | 62,570,953,621 [ROW] More than 5 years | 500,252,477,812 | 330,358,670,629 [ROW] 639,247,845,171 | 408,604,483,268",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

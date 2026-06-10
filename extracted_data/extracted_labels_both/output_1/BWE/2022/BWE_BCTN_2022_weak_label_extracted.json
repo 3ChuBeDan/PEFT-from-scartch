@@ -1,0 +1,452 @@
+{
+  "extracted_count": 26,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S0"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S0"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Giữa \"cơn bão\" số hóa của cuộc cách mạng 4.0, gần như mọi chủ doanh nghiệp đều đòi hỏi bộ phận nhân sự phải có chiến lược để giúp nhân viên sẵn sàng cho thời đại mới. Tuy nhiên, không phải ai cũng biết cần phải làm gì hay bắt đầu từ đâu. Nhận thức được điều đó, Biwase luôn tạo điều kiện để người lao động thoả sức sáng tạo, học hỏi, trải nghiệm thách thức để khẳng định bản thân, phát triển thăng tiến cùng tổ chức và được ghi nhận lương thưởng xứng đáng . Chúng tôi cam kết trao quy ền với tất cả sự minh bạch trong một môi trường văn hoá gắn kết, tạo nên tinh thần tập thể vững mạnh, thành công.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Đại dịch Covid -19 kéo dài gần hai năm nay đã chứng minh một cách rõ ràng tính dễ bị tổn thương của nhân loại và sự phụ thuộc của nó vào môi trường. Trong bối cảnh đó, nhiệm vụ ứng phó với biến đổi khí hậu toàn cầu, bảo tồn đa dạng sinh học và rừng, cũng như cuộc chiến vì nước, không khí và đất sạch trên hành tinh được đặt lên hàng đầu. Hiểu được vấn đề đó, với tư cách là Công ty đi đầu trong lĩnh vực Nước và Môi trường trên địa bàn tỉnh Bình Dương , BIWASE đã nghiêm túc thực hiện báo cáo đánh giá tác động và cam kết bảo vệ môi trường khi có kế hoạch triển khai đầu tư dự án. BIWASE liên tục cập nhật, đầu tư đổi mới công nghệ, áp dụng phương pháp sản xuất sạch để hướng tới sự phát triển bền vững. Công nghệ sạch có thể hiểu là công nghệ không gây ô nhiễm môi trường hoặc phát thải ít chất gây ô nghiễm. Tương tự, nhiên liệu sạch có thể hiểu là các nhiên liệu mà khi sử dụng sẽ không hoặc ít phát thải ra chất gây ô nhiễm môi trường.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Thu gom và xử lý nước thải sinh hoạt cho các hộ xã tháỉ khu vực Thành phõ Thủ Dâu Một; Lẳp đặt, xây dựng đẩu vụ xửlý; cẩp dịch vụ thoát nước xử lý nưởc thải theo đơn đặt hàng của các đổi tác. Cung",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Chi nhánh Nước thải Thuận An được thành lập ngày 14/12/2016 và chính thức đỉ vào hoạt động từ ngày 21/04/2017; vớỉ độỉ ngũ kỹ sư, chuyên viên, công nhân có tâm huyêt vớỉ sự nghỉệp bảo vệ môi trường và ứng dụng công nghệ xử lý nước thải sinh hoạt tiên tiên. Chi nhánh Nước thảỉ Thuận An hỉện đang góp phần cải thiện hệ thõng thoát nước trên địa bàn thành phổ Thuận An, nâng cao chât lượng cuộc sông nhân",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "kỹ sư, chuyên viên, nhân có tâm huyêt vớỉ sự nghỉệp bảo vệ môi trường và ứng dụng nghi xử lý nước thải sinh hoạt tiên tiến, Chi nhánh hỉện, gỏp phần cải thỉện hệ thống thuật nưởc và xử lý nước thải trên địa bàn thị xã Tân Uyên, cao chât lượng sông nhân dân dân cường sức khỏe công của khu vực, góp phần bảo vê nguồn nước Đồng Nai, đảm bảo mỹ vệ sinh môi trường đô thị ngũ công công nâng tăng sông 'quan",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Thu gom và xử lý nước thải sinh hoat cho các hộ xã thảỉ khu vực thành phôThuận An; Lắp đặt; xây dựng, đấu vụ xửlý; cẩp dịch vụ thoát nước, xử lý nước thảỉ theo đơn đặt hàng của các đổi tác Cung",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Thu gom và xử lý nước thải sinh hoạt cho các hộ xả thảỉ khu vực thị xã Tân Uyên, thành phõ Thuận An; Lẳp đặt, xây vân hành thu phí dịch vụ xử lý;Cung cẩp dịch vụ thoát nước, xử lý nước thái theo đơn đặt hàng của các đôỉ tác.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Được thành lập ngay 09/09/2018 và chính thức đỉ vào hoạt động ngày 30/11/2018, với độì ngũ kỹ sư, chuyên viên, công nhân có tâm huyết vởỉ sự nghiệp bảo vệ môi trường và ứng công nghệ xử lý nước thảỉ sinh hoạt tỉên thiện hệ thõng thoát nưởc và xử lý nước thảỉ trên địa bàn thành phố Dĩ An, nâng cường sửc khỏe cộng đông trong khu dung",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Thu gom và xử lý nưởc thảỉ sinh hoạt cho các hộ xả thảỉ khu vực thành phổ Dĩ trì, vận hành, thu phí dịch vụ xử lý; Cung câp dịch vu thoát nước xử lý nước thảỉ theo đơn đặt Collecting and treating domestic waste hàng",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": " Với thế mạnh về năng lực, kinh nghiệm trong xây lắp công trình chuyên về cấp nước, xử lý nước thải, xây dựng, lắp đặt, điện và điện tự động hóa...Ra đời khoảng 2 năm Công ty cổ phần Xây lắp – Điện Biwase đã thực hiện nhiều công trình quan trọng như: Công trình Nhà máy xử lý nước thải Kiến An – – Chợ Mới – –A –An Giang, công suất 10.000 m3/ngày đêm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Hoạt động sản xuất nước chủ yếu tiêu thụ điện năng nên không thải ra khí thải. Máy phát điện chỉ sử dụng khi mất điện đột xuất hay có thông báo của điện lực, nên nguồn phát sinh khí thải không đáng kể. Máy phát điện khi hoạt động có thải ra khí thải nhưng ống thải khí được bố trí nằm giữa khuôn viên rộng lớn của nhà máy nên không ảnh hưởng đến môi trường không khí xung quanh khu dân cư. Bên cạnh đó, xung quanh nhà máy trồng rất nhiều cây xanh nên khí thải sẽ được xử lý thông qua nhiều lớp cây xanh. Ngoài ra, trong quá trình vận hành Nhà máy x ử lý nước thải, Công ty vẫn đảm bảo thu gom rác thải nguy hại, khí thải và chất lượng nước thải đầu ra đạt theo quy định.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 2
+      }
+    },
+    {
+      "text": "Do đặc thù của ngành cấp nước là khai thác, sản xuất và cung cấp nước sinh hoạt nên chất thải nguy hại gẩn như không đáng kể, nên không đáng lo ngại. Tuy nhiên, Công ty vẫn có những quy định để xử lý những loại chất thải này. Các chất thải nguy hại chủ yếu là giẻ lau dính nhớt trong quá trình sửa chữa sự cố máy bơm và các bóng đèn huỳnh quang bị hư. Các chất thải này đều tập trung vào một chỗ tại nhà máy, sau đó Công ty sẽ tìm đơn vị thu gom và xử lý để ký hợp đồng thu gom.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": " Hệ thống Quản lý chất lượng – ISO 9001:2015 cho phạm vi: \"Sản xuất và kinh doanh nước sạch\", \"Sản xuất và kinh doanh phân bón hữu cơ, gạch xây, gạch lát và bê tông. Thu gom, v ận chuyển và xử lý chất thải sinh hoạt, chất thải công nghiệp, chất thải nguy hại, chất thải y t ế. Tái chế chất thải sinh hoạt và chất thải công nghiệp\", \"Sản xuất và kinh doanh nước uống tinh khiết đóng chai\".",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": " Hệ thống Quản lý an toàn và sức khỏe nghề nghiệp ISO 45001:2018 cho phạm vi \"Sản xuất và kinh doanh phân bón hữu cơ, gạch xây, gạch lát và bê tông. Thu gom, vận chuyển và xử lý chất thải sinh hoạt, chất thải công nghiệp, chất thải nguy hại, chất thải y tế. Tái chế chất thải sinh hoạt và chất thải công nghiệp\".",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": " Hệ thống quản lý Môi trường – – ISO 14001:2015 cho phạm vi \"Sản xuất và kinh doanh phân bón hữu cơ, gạch xây, gạch lát và bê tông. Thu gom, vận chuyển và xử lý chất thải sinh hoạt, chất thải công nghiệp, chất thải nguy hại, chất thải y tế. Tái chế chất thải sinh hoạt và chất thải công nghiệp\".",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "Nguôn nhân lực là một trong những yếu tố quan trọng quyết định sự thành công và phát triển bền vững của Công ty. Chính vì thế, hàng năm, Công ty luôn tích cực chăm lo đời sống cán bộ, công nhân viên. Công ty luôn tạo điều kiện để cán bộ, công nhân viên được làm việc trong môi trường an toàn, lành mạnh, được tham gia các khóa đào tạo, huấn luyện nâng cao kỹ năng chuyên môn, kỹ năng quản lý, tham gia các chuyên đề nghiên cứu khoa học, phát triển năng lực bản thân. Ngoài ra, cán bộ, công nhân viên còn tổ chức các hoạt động văn nghệ thể thao, du lịch, nghĩ dưỡng để tăng cường giao lưu giữa các phòng ban, nâng cao tinh thần đoàn kết và phối hợp giữa các bộ phận trong thực hiện công tác chung.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bên cạnh hoạt động sản xuất kinh doanh, Công ty cũng chú trọng và quan tâm đến công tác xã hội, hỗ trợ cuộc sống của cộng đồng dân cư trên địa bàn. Các hoạt động đầu tư cộng đồng và hoạt động phát triển cộng đồng khác, bao gồm hỗ trợ tài chính nhằm phục vụ cộng đồng. Trong năm 2022 Công ty Cổ phần Nước đã tham gia cũng như thực hiện nhiều chương trình mang lại giá trị cho cộng đồng, nêu cao tinh thần đoàn kết, tương thân tương ái, \"lá lành đùm lá rách\". Tặng quà tết cho dân quân, trẻ em mồ côi, trẻ em mồ côi do COVID, tặng bò, tặng thuốc khi dịch covid, giá trị trên 30 tỷ đồng Một số hoạt động tình nguyện nỗi bật mà Công ty đã thực hiện trong năm gồm có chương trình: Mang Xuân đến với người dân vùng biên.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Vượtlên mọi khó khăn vẫn còn ảnh hưởng bởi dịch bệnh,từng n người lãnh đạo, người quản lý, người công nhân luôn phấn đấu tựcải tiến chính bản thân tăng năng suất lao động năm sau cao hơnnăm trước, ngày càng làm hài lòng khách hàng nhiều hơn. Đạt được kết quả sản xuất kinh doanh trong điều kiện thị trường có nhiều biến động, rủi ro như thời gian qua là thành công về chiế lược, hiệu quả điều hành và tinh thần làm việc của toànthể CBCNVBIWASE",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "HĐQT Công ty đã làm việc với tinh thần trách nhiệm và minh bạch trong công tác quản trị, tuân thủ đúng các quy định đối với Công ty đại chúng niêm yết. Các cuộc họp của HĐQT đã được triệu tập kịp thời và thực hiện theo các trình tự quy định tại Điều lệ và Quy chế nội bộ v ề quản trị Công ty. Nội dung các cuộc họp đều được các thành viên HĐQT thảo luận, đánh giá đầy đủ và cẩn thận để đưa ra những định hướng và giải pháp đem lại lợi ích cao nhất cho Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: * Tầm nhìn ; column_headers: Về Cấp nước | Về môi trường | Về Thu gom xử lý nước thải [ROWS] Về Cấp nước | Về môi trường | Về Thu gom xử lý nước thải [ROW] - Là đơn vị kinh doanh nước sạch, bảo đảm cung c ấp nước đầy đủ cho mọi đối tượng khách hàng với chất lượng, dịch vụ tốt nhất. - Đem lại nguồn nước sạch t ốt nhất, nâng cao chất lượng dịch vụ, người tiêu dùng hài lòng, an toàn cho sức khỏe - Phát triển không ngừng, nâng cao vị thế Công ty | - Là đơn vị thu gom, xử lý, tái chế rác thải tốt nhất trên địa bàn Bình Dương v ới công nghệ xử lý hoàn hảo và tạo ra nhiều sản phẩm có ích cho xã hội - Giữ vững lá cờ đầu trong ngành xử lý môi trường trên cả nước. | - Là đơn vị vận hành, bảo trì hệ thống thu gom xử lý nước thải tốt nhất; đảm bảo nhiều hộ dân được đấu n ối hệ thống nước thải gia đình vào hệ thống chung v ới hệ thống thu gom tiên tiến, văn minh, chất lượng x ử lý đạt chuẩn cao nhất (loại A). - Nước thải sinh hoạt ở Bình Dương sẽ được thu gom nhiều nhất ở Việt Nam, - Văn minh, khoa học, hiện đại từ thiết bị - cơ giới, giảm sức lao động cho công nhân.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: [BÁO CÁO THƯỜNG NIÊN 2022] CÔNG TY CỔ PHẦN NƯỚC – MÔI TRƯỜNG BÌNH DƯƠNG (BWE) [ROWS] Trình độ chuyên môn | : | Kỹ sư Môi trường [ROW] Quá trình công tác | : [ROW] Từ 2002 – – 2003 | : | Phòng Kỹ thuật - Công ty Cấp thoát nước Bình Dương [ROW] Từ 2004 – – 2006 | : | Xí nghiệp Xử lý Chất thải [ROW] Từ 2007 – – 2008 | : | Phó Giám đốc Xí nghiệp Xử lý Chất thải [ROW] Năm 2009 | : | Giám đốc Xí nghiệp Xử lý Chất thải [ROW] Năm 2010 | : | Phó Giám đốc Xí nghiệp Cấp nước Dĩ An [ROW] Từ 2011 đến 16/03/2020 | : | Giám đốc Chi nhánh Xử lý Chất thải [ROW] Chức vụ công tác hiện nay tại tổ chức phát hành | : | Phó Tổng Giám đốc [ROW] Hành vi vi phạm pháp luật | : | Không [ROW] Các khoản nợ đối với Công ty | : | Không [ROW] Lợi ích liên quan đối với Công ty | : | Không [ROW] Số cổ phần sở hữu cá nhân | : | 120.000 cổ phần [ROW] Số cổ phần đại diện sở hữu | : | Không [ROW] Tỷ lệ sở hữu chứng khoán của những người có liên quan | : | Không",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: * Thu gom, vận chuyển và xử lý rác: ; column_headers: STT | Thành phần | Khối lượng (tấn) | Chiếm tỷ lệ (%) [ROWS] STT | Thành phần | Khối lượng (tấn) | Chiếm tỷ lệ (%) [ROW] 1 | Rác thải sinh hoạt | 863.255,47 | 89,50 [ROW] 2 | Chất thải công nghiệp không nguy hại | 69.326,43 | 7,19 [ROW] 3 | Bùn thải nguy hại | 12.738 | 1,32 [ROW] 4 | Chất thải lỏng nguy hại | 6.745,64 | 0,70 [ROW] 5 | Chất thải rắn nguy hại | 11.448,56 | 1,19 [ROW] 6 | Chất thải y tế nguy hại | 1.002,29 | 0,10 [ROW] Tổng cộng | 964.516,39 | 100",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: * Bảng tổng hợp tình hình hoạt động của các Chi nhánh xử lý nước thải trong kỳ ; caption: Công việc thi công rửa cống thoát nước và nạo vét hố ga bằng phương tiện, thết bị cơ giới ; column_headers: STT | Chi nhánh x ử lý nước thải | Công su ất thiết kế (m 3 /ngà yđêm) | Lượng nước xử lý trong kỳ (m 3 ) | Sản lượng x ử lý Bình quân (m 3 /ngà y đêm) | Sản lượng theo kế hoạch 2022 (m 3 | /ngày đêm) | Đạt Kế 2022 (%) | hoạch | Số lượng đấu n ối (khách hàng) | Ghi chú | Tăng trong 2022 | Lũy kế đến nay | Ngày bắt đầu vận hành [ROWS] Chi nhánh x ử lý nước thải | Công su ất thiết kế (m 3 /ngà yđêm) | Lượng nước xử lý trong kỳ (m 3 ) | Sản lượng x ử lý Bình quân (m 3 /ngà y đêm) | Sản lượng theo kế hoạch 2022 (m 3 | Đạt Kế 2022 (%) | Số lượng đấu n ối (khách hàng) | Ghi chú [ROW] STT | /ngày đêm) | hoạch | Tăng trong 2022 | Lũy kế đến nay | Ngày bắt đầu vận hành [ROW] 1 | Thủ Dầ u Một | 17.650 | 5.984.126 | 16.395 | 18 . 100 | 91% | 535 | 8.747 | 31/05/2013 [ROW] 2 | Thuận An | 17.000 | 5.030.238 | 13.781 | 14.800 | 93% | 797 | 7.045 | 21/04/2017 [ROW] 3 | Dĩ An | 20.000 | 4.569.399 | 12.519 | 13.400 | 94% | 1.522 | 5.984 | 30/11/2018 [ROW] 4 | Tân Uyên | 15.000 | 2.566.014 | 7.030 | 7.100 | 99% | 692 | 2.490 | 01/04/2019 [ROW] Tổng cộng | 69.650 | 18.149.777 | 49.725 | 53.400 | 93% | 3.546 | 24.266",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: [BÁO CÁO THƯỜNG NIÊN 2022] CÔNG TY CỔ PHẦN NƯỚC – MÔI TRƯỜNG BÌNH DƯƠNG (BWE) ; column_headers: 12 | Chuyên đề: \"Quản trị doanh nghiệp\" | - Ban lãnh đạo cty. - Giám đốc, cán bộ chủ chốt các CH, TP, GĐ các phòng ban, trung tâm | Tập huấn trực tiếp [ROWS] 12 | Chuyên đề: \"Quản trị doanh nghiệp\" | - Ban lãnh đạo cty. - Giám đốc, cán bộ chủ chốt các CH, TP, GĐ các phòng ban, trung tâm | Tập huấn trực tiếp [ROW] 13 | Chuyên đề: \"Khóa bồi dưỡng kiến thức về quản lý - do biwase tổ chức\" | - Ban lãnh đạo cty. - Cán quản lý cấp cao - CB tiềm năng cty, cty bạn | Học trực tiếp HT Cty [ROW] 14 | Chuyên đề: \"An toàn, môi trường và xã hội\" \"An toàn – vệ sinh công nghiệp\" | - Ban ATMTXH công ty và CNCN KLH - Cán bộ chuyên trách, không chuyên trách của ban ATMTXH cty và các ban của Chi nhánh trực thuột | Tập huấn trực tiếp [ROW] 15 | Chuyên đề: \"Vận hành An toàn Clo\" | - Cán bộ/NV sản xuất, các Chi nhánh trực thuộc | Tập huấn trực tiếp Tại KLH [ROW] 16 | Chuyên đề: \"Đào tạo hướng dẫn xây dựng QT ISO” 14.001 và 45.001 | - 3 ban ISI chi nhánh CN - KLH, Nước thải Thuận An, Dĩ An - Các Chi nhánh CN, DVĐT, NT T.Uyên | Tập huấn trực tiếp Tại CNN thải Thuận An [ROW] 17 | Chuyên đề: \"Nội dung – – Bình đẵng giới trong cty\" | - Ban ATMTXH công ty | Trao đội online [ROW] 18 | Chuyên đề: \"Vận hành và bảo dưỡng hệ thống xử lý nước thải” | - CB/NV các chi nhánh xử lý Nước thải | Đào tạo huấn luyện Tại CNN thải Thuận An (Giấy chứng chỉ) [ROW] 19 | Chuyên đề: \"Công tác Y tế - sơ c ấp cứu nội bộ \" | - Cán bộ/NV các Chi nhánh trực thuộc | Tập huấn trực tiếp Tại TTĐT - Biwase [ROW] 20 | Chuyên đề: \"Công nghệ lọc nước với màng lọc RO \" | - CNTV.CTN và Cán bộ/NV các Chi nhánh trực thuộc | Hội thảo trực tiếp Tại TTĐT - Biwase [ROW] 21 | Chuyên đề: \"BC về Xây dựng thù lao cho thành viên HĐQT cty\" | - HĐQT, Ban điều hành, Ban kiểm soát, KTT, tTP: Kế toán, NS - QT, CTT&DVKH cty + BGĐ cty CPN-TDM | Hội thảo trực tiếp Tại PH2 cty [ROW] 22 | Chuyên đề: \"huấn luyện vận hành, xử lý sự cố hóa chất” | - Các Nhóm 6 các CN Nước thải | Học trực tiếp Tại HT CN Nước thải TDM [ROW] 23 | Chuyên đề: \"Tập huấn ATVSV” | - Các ban ATVSN Chi nhánh trực thuộc Cty (trừ CN XL chất thải học riêng) | Học trực tiếp Tại HT lớp Cty [ROW] 24 | Chuyên đề: \"Đào tạo hướng dẫn xây dựng QT ISO” 14.001 và 45.001 và ĐT nhận biết | - 3 ban ISO chi nhánh CN - KLH, Nước thải Thuận An, Dĩ An - Các CN khác nhận biết | Tập huấn trực tiếp Tại Dĩ An (DS &chữ ký) [ROW] 25 | Chuyên đề: \"An toàn – – v ệ sinh công nghiệp\" - nhóm 2 | - Cán bộ chuyên trách, không chuyên trách của ban ATMTXH cty và các ban của Chi nhánh trực thuột | Tập huấn trực tiếp Tại TTĐT (chữ ký GCN) [ROW] 26 | Chuyên đề: \"Vận hành An toàn Clo\" | - Cán bộ/NV sản xuất, các Chi nhánh trực thuộc | Tập huấn trực tiếp Tại KLH (DS &chữ ký) [ROW] 27 | Chuyên đề: \"Công tác Y tế - sơ c ấp cứu nội bộ \" | - Cán bộ/NV các Chi nhánh trực thuộc | Tập huấn trực tiếp Tại TTĐT - Biwase (Sổ theo dõi &chữ ký)",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: * Bảng tổng hợp khối lượng nước tiêu thụ năm 2022 theo mục đích sử dụng so với năm 2021: ; caption: *Doanh thu thuần (không gồm nội bộ), Lợi nhuận gộp, p, L Lợi nhuận sau thuế tại các lĩnh vực hoạt động chính của công ty thực hiện năm 2022 so với năm 2021 như sau: ; column_headers: ST T | Lĩnh vực hoạt động chính | Doanh thu thuần (Tỷ đồng) | Lợi nhuận gộp (Tỷ đồng) | Lợi nhuận sau thuế (Tỷ đồng) | % LNST/ DT | Năm 2021 | Năm 2022 | Tốc độ tăng (%) | Chiếm tỷ lệ (%) ; row_headers: 1 | Cấp nước | 2 | Xử lý chất thải | 3 | Xử lý nước thải | 4 | Hoạt động khác | Tổng cộng [ROWS] ST T | Lĩnh vực hoạt động chính | Doanh thu thuần (Tỷ đồng) | Lợi nhuận gộp (Tỷ đồng) | Lợi nhuận sau thuế (Tỷ đồng) | % LNST/ DT [ROW] Năm 2021 | Năm 2022 | Tốc độ tăng (%) | Chiếm tỷ lệ (%) | Năm 2021 | Năm 2022 | Tốc độ tăng (%) | Chiếm tỷ lệ (%) | Năm 2021 | Năm 2022 | Tốc độ tăng (%) | Chiếm tỷ lệ (%) [ROW] 1 | Cấp nước | 1.970 | 2.159 | 110% | 60% | 1.072 | 1.135 | 106% | 83% | 503 | 582 | 116% | 85% | 27% [ROW] 2 | Xử lý chất thải | 675 | 707 | 105% | 20% | 131 | 113 | 86% | 8% | 52 | 13 | 25% | 2% | 2% [ROW] 3 | Xử lý nước thải | 51 | 151 | 296% | 4% | 6 | 39 | 650% | 3% | -6 | 18 | 300% | 3% | 12% [ROW] 4 | Hoạt động khác | 498 | 555 | 111% | 16% | 96 | 83 | 86% | 6% | 160 | 68 | 43% | 10% | 12% [ROW] Tổng cộng | 3.194 | 3.572 | 112% | 100% | 1.306 | 1.370 | 105% | 100% | 737 | 681 | 92% | 100% | 19%",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

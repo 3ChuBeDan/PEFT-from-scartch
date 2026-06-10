@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Ban Tổng Giám đốc của Bảo Việt Nhân thọ tin rằng phương pháp trích lập dự phòng hiện đang được áp dụng là đảm bảo nguyên tắc thận trọng và việc áp dụng phương pháp này cũng đã vượt quá mức cần thiết nếu Bảo Việt Nhân thọ trích lập dự phòng theo Thông tư 99. Nếu nhìn từ khía cạnh thận trọng thì Chuẩn mực Kế toán Việt Nam số 19, có hiệu lực từ tháng 1 năm 2006, cũng cho phép doanh nghiệp bảo hiểm, trong trường hợp đang áp dụng nguyên tắc kế toán thận trọng, không nhất thiết phải thay đổi các chính sách kế toán cho các hợp đồng bảo hiểm để làm giảm sự thận trọng đó.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

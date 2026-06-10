@@ -1,0 +1,131 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 11,
+      "text": "Theo tinh thần đó, ACB đã xác định lại bước đi và mục tiêu của Tầm nhìn đến năm 2015 là trở thành Tập đoàn tài chính ngân hàng hàng đầu tại Việt Nam. Đối với giai đoạn từ nay đến năm 2010 - mốc thời gian Việt Nam mở cửa hoàn toàn đối với lĩnh vực tài chính ngân hàng theo cam kết với WTO và đặc biệt là năm ACB tròn 18 tuổi - ACB đã xây dựng mục tiêu và kế hoạch hành động cụ thể từng năm. Đến năm 2010 dự kiến cơ cấu tổ chức mới sẽ vận hành một cách đầy đủ theo mô hình Tập đoàn ACB, gồm hai hoạt động nòng cốt: Ngân hàng thương mại ACB (bán lẻ) và Ngân hàng đầu tư ACB với đội ngũ cán bộ nhân viên khoảng 10.000 người và khoảng 350 chi nhánh và phòng giao dịch.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 132,
+      "text": "Về hoạt động quản lý và thu hồi các khoản nợ quá hạn, nợ xấu, tình hình như sau: Trên cơ sở các công cụ quản lý nợ xấu đã được hoàn thiện như quy trình xử lý nợ, các biểu mẫu, hệ thống công nghệ thông tin; với sự năng động của các nhân viên xử lý nợ, năm 2007 ACBA đã kiểm soát được tình trạng của 100% số hồ sơ nợ xấu. Tùy từng trường hợp, căn cứ vào khả năng và thiện chí trả nợ của khách hàng, tình trạng tài sản bảo đảm, các yếu tố pháp lý , v.v. mà ACBA đưa ra các giải pháp xử lý phù hợp. Kết quả năm 2007, ACBA thu vốn 32,36 tỷ đồng, thu lãi 5,7 tỷ đồng, thanh lý 127 hồ sơ, trong đó có nhiều hồ sơ khó, tồn đọng, đạt 269,7% kế hoạch năm.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 1
+      }
+    },
+    {
+      "paragraph_id": 133,
+      "text": "Bên cạnh việc thu nợ, ACBA cũng chú trọng đến việc phân tích nguyên nhân làm phát sinh nợ quá hạn, phản hồi lại cho ACB để có những giải pháp khắc phục, đảm bảo an toàn cho hoạt động tín dụng.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 1
+      }
+    },
+    {
+      "paragraph_id": 257,
+      "text": "thực hiện các phán đoán và ước lượng một cách hợp lý và thận trọng; và",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 259,
+      "text": "Chúng tôi, BanTổng Giám đốc chịu trách nhiệm bảo đảm rằng các sổ sách kế toán đúng đắn đã được thiết lập vàduy trìđể thểhiệntìnhhìnhtài chínhcủaTậpđoànvớiđộ chínhxáchợplý tại mọi thờiđiểm vàđể làm cơ sở để soạnlậpcácbáocáotài chínhhợpnhấtphùhợpvới chếđộkế toánđượcnêuởThuyết minhsố2chocácbáo cáotài chínhhợpnhất. BanTổng Giám đốc chịutráchnhiệm bảođảm việc tuânthủcácChuẩn mựcKế toán Việt Nam vàcácquiđịnhhiệnhànhápdụngchongânhàngvàcác tổchức tíndụngkháchoạtđộngtạinướcCHXHCN Việt Nam. BanTổng Giám đốc cũng chịu trách nhiệm đối với việc bảo vệ các tài sản củaTập đoàn và thực hiện các biện pháp hợp lý để phòng ngừa và phát hiện các gian lận và các sai qui định khác.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 1
+      }
+    },
+    {
+      "paragraph_id": 557,
+      "text": "Ngân hàng cho vay doanh nghiệp nhỏ và vừa tốt ấ",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 1
+      }
+    },
+    {
+      "paragraph_id": 846,
+      "text": "[TABLE] [CONTEXT] section: PHỤ LỤC III ; column_headers: Cúp thủy tinh | 25/3/2007 | Thành tựu về lãnh đạo trong ngành ngân hàng Việt Nam năm 2006 (The Leadership Achievement Award for the Financial Services Industry in Vietnam 2006). | The Asian Banker [ROWS] Cúp thủy tinh | 25/3/2007 | The Asian Banker | Thành tựu về lãnh đạo trong ngành ngân hàng Việt Nam năm 2006 (The Leadership Achievement Award for the Financial Services Industry in Vietnam 2006). [ROW] Bằng khen | QĐ số: 1435/QĐ\u0002 UBND 05/4/2007 | Ủy ban Nhân dân Tp. HCM | Có thành tích chấp hành tốt chính sách thuế năm 2006. [ROW] Bằng khen | QĐ số: 1728/QĐ-UBND 17/4/2007 | Ủy ban Nhân dân Tp. HCM | Có thành tích hoàn thành xuất sắc nhiệm vụ năm 2006. [ROW] 2541/QĐ/ BGD&ĐT 21/5/2007 | Bộ Giáo dục và Đào tạo | Có nhiều thành tích đóng góp cho sự nghiệp giáo ấ g dục đào tạo của đất nước. [ROW] Giải thưởng | 25/5/2007 | Tập đoàn Ngân hàng JP Morgan Chase | Chất lượng Thanh toán quốc tế xuất sắc (Quality Recognition Award). [ROW] Bằng khen | QĐ 2064/QĐ-NHNN ngày 10/9/2007 | Ngân hàng Nhà nước Việt Nam | Đã có thành tích xuất sắc trong phong trào thi đua nhân dịp kỷ niệm 15 năm hoạt động thông tin tín dụng (1992 – 2007). [ROW] Cúp thủy tinh | 18/11/2007 | Hội đồng Tư vấn Doanh nghiệp ASEAN (BAC) | “D “Doanh nghiệp ASEAN xuất sắc” trong lĩnh vực đội ngũ lao động. [ROW] Bằng khen | 12/2007 | Quỹ SMEDF, Dự án VNM/AID - CO/2000/2469 | Ngân hàng cho vay doanh nghiệp nhỏ và vừa tốt ấ gg y gệp nhất Việt Nam năm 2007 (Best SME Lending Bank Vietnam 2007). [ROW] w w w . a c b . c o m . v n Báo cáo thường niên 2007 109",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 1
+      }
+    }
+  ]
+}

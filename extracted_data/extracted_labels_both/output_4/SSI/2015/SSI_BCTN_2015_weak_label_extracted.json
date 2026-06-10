@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 797,
+      "text": "Song hành với công tác tuyển dụng và tuyển chọn, công tác đào tạo cũng được quan tâm nghiêm túc để đảm bảo chất lượng nguồn nhân lực, cũng như tiếp thêm cảm hứng và động lực cho nhân viên. Những chương trình đào tạo được thiết kế riêng cho từng phân khúc đối tượng, giúp tăng hiệu quả công việc, giảm rủi ro về nghiệp vụ và nâng cao tính gắn kết trong tổ chức. Trước những thay đổi về hành lang pháp lý, yêu cầu thị trường ngày một khắt khe, đội ngũ SSI lại càng cần trau dồi và phát triển để mang lại những giá trị cạnh tranh hơn nữa cho khách hàng. Chính sách đãi ngộ và chương trình đánh giá hiệu quả công việc luôn là bộ đôi song hành để đảm bảo sự hài lòng của nhân viên, tính công bằng trong nội bộ và cạnh tranh với thị trường, tạo một môi trường làm việc chuyên nghiệp cho nhân viên phát triển. Tối ưu hóa chi phí vận hành nhưng vẫn phải đảm bảo tốc độ phát triển nguồn lực cả về chất lượng và số lượng, thích ứng với yêu cầu của thị trường; thu hút và giữ chân nhân tài đặc biệt là nhân sự cấp cao luôn là thách thức cho hoạt động quản trị nguồn nhân lực. SSI đề cao việc quản trị bộ máy bằng hệ thống và các quy trình để đảm bảo tuân thủ chặt chẽ, phát triển bền vững và khả năng dự phòng nhân sự cho cả bộ máy để hạn chế tối đa những rủi ro có thể gặp phải do có biến động về nhân sự. Đối với công tác quản trị nhân sự, tính chính xác và bảo mật của thông tin nhân sự luôn là yếu tố được quan tâm hàng đầu. Các báo cáo định kỳ cho thấy xu hướng nhân sự trong Công ty được thực hiện thông qua hệ thống quản lý thông tin giúp Ban Lãnh Đạo quản lý và dự đoán tốt hơn tình hình nhân sự, cũng như có các phương án đào tạo, tuyển dụng, xây dựng chính sách phù hợp với tình hình thực tế. Với sự hỗ trợ của hệ thống công nghệ, các công tác nhân sự cũng đã được giảm thiểu rủi ro và nâng cao hiệu quả khi tác nghiệp. Bên cạnh đó, SSI tiếp tục duy trì kênh truyền thông nội bộ để tiếp tục chia sẻ tầm nhìn, chiến lược, củng cố văn hóa doanh nghiệp nhằm nuôi dưỡng tinh thần SSI. Những chia sẻ này cũng là yếu tố động viên tinh thần làm việc, cung cấp thông tin và tránh những căng thẳng không đáng có. Đây cũng là một biện pháp đảm bảo thông tin xuyên suốt và mỗi nhân viên đều hiểu được mục tiêu của bản thân và của tập thể để tiếp tục đóng góp sức mình vào sự phát triển chung của Công ty. Với sự chia sẻ và minh bạch cao trong tổ chức, bộ máy sẽ vận hành được trơn tru hơn, giảm thiểu những tác động tiêu cực tới nhân sự. Sang năm thứ 16, cùng với những cơ hội và thách thức mới, công tác quản trị nhân sự tại SSI nhận được sự quan tâm đặc biệt của Ban Lãnh Đạo để tiếp tục xây dựng và phát triển nguồn nhân lực tinh nhuệ, đậm tinh thần SSI. SSI tiếp tục đóng vai trò là một cái nôi nuôi dưỡng và phát triển nhân tài. Tại đây, SSI tiếp sức cho những hoài bão và sẵn sàng trao cơ hội thử sức và phát triển cho nhân viên. Bằng cách quản trị bằng hệ thống và quy trình kiểm soát chéo, SSI có thể mạnh dạn tạo điều kiện thử nghiệm, thử sức cho đội ngũ nhân viên nhưng vẫn đảm bảo hạn chế được những rủi ro có thể xảy ra.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

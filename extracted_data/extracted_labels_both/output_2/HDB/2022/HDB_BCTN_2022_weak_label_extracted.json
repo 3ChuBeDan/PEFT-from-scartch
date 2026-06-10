@@ -1,0 +1,137 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 492,
+      "text": "» Thực hiện cam kết không tài trợ các hoạt động liên quan đến than bao gồm khai thác than, vận chuyển than hoặc nhà máy nhiệt điện than, cũng như các dịch vụ cơ sở hạ tầng dành riêng để hỗ trợ hoạt động liên quan.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 767,
+      "text": "HDBank luôn coi nhiệm vụ kiến tạo những tài sản thân thiện với môi trường làm mục tiêu quan trọng. Từ mục tiêu đó, HDBank thực thi nhiệm vụ cung ứng nguồn vốn xanh cho các doanh nghiệp, địa phương phát triển các dự án kinh tế nông thôn, phát triển nguồn năng lượng sạch, năng lượng tái tạo...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1275,
+      "text": "trời áp mái với tổng giá trị giải ngân lên đến trăm triệu USD. Năm 2021, HDBank là ngân hàng Việt Nam đầu tiên cam kết không tài trợ các hoạt động liên quan đến than đá bao gồm khai thác than, vận chuyển than hoặc nhà máy nhiệt điện than, cũng như các dịch vụ cơ sở hạ tầng dành riêng để hỗ trợ các hoạt động liên quan. Đồng thời, nhận thức được tầm quan trọng của yếu tố quản trị trong việc nhận diện và quản trị mọi rủi ro, bao gồm rủi ro về môi trường và xã hội, chúng tôi không ngừng tăng cường chất lượng quản trị doanh nghiệp thông qua nâng cao tính độc lập của Hội đồng Quản trị và công tác quản lý rủi ro.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1381,
+      "text": "Trong năm 2022, HDBank tiếp tục giữ vững cam kết không tài trợ hoạt động nào liên quan đến khai thác than đá, vận chuyển than, nhà máy nhiệt điện than, cũng như các dịch vụ cơ sở hạ tầng liên quan đến các hoạt động này.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 2102,
+      "text": "[TABLE] [CONTEXT] section: CHỈ SỐ HOẠT ĐỘNG CHÍNH ; column_headers: 2020 | 2021 | 2022 ; row_headers: Vốn điều lệ | Tổng tài sản | Tỷ lệ an toàn vốn | Doanh số Tiền gửi (riêng lẻ) | Doanh số Cho vay (riêng lẻ) | Doanh số Thu nợ (riêng lẻ) | Nợ quá hạn | Nợ khó đòi | Hệ số sử dụng vốn | Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | Tỷ lệ nợ quá hạn/ Tổng dư nợ | Tỷ lệ nợ khó đòi/Tổng dư nợ | Khả năng thanh toán ngay | Khả năng thanh toán chung [ROWS] Chỉ tiêu | 2020 | 2021 | 2022 [ROW] 1. Quy mô vốn [ROW] Vốn điều lệ | 16.088 | 20.073 | 25.303 [ROW] Tổng tài sản | 319.127 | 374.612 | 416.273 [ROW] Tỷ lệ an toàn vốn | 12,1% | 14,3% | 13,4% [ROW] 2. Kết quả hoạt động kinh doanh [ROW] Doanh số Tiền gửi (riêng lẻ) | 2.074.731 | 2.505.144 | 3.442.169 [ROW] Doanh số Cho vay (riêng lẻ) | 144.737 | 238.279 | 282.799 [ROW] Doanh số Thu nợ (riêng lẻ) | 178.737 | 210.725 | 224.660 [ROW] Nợ quá hạn | 4.616 | 8.698 | 11.791 [ROW] Nợ khó đòi | 2.357 | 3.360 | 4.404 [ROW] Hệ số sử dụng vốn | 3,8% | 4,7% | 4,9% [ROW] Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | 0,07% | 0,01% | 0,03% [ROW] Tỷ lệ nợ quá hạn/ Tổng dư nợ | 2,59% | 4,28% | 4,47% [ROW] Tỷ lệ nợ khó đòi/Tổng dư nợ | 1,32% | 1,65% | 1,67% [ROW] 3. Khả năng thanh khoản [ROW] Khả năng thanh toán ngay | 11,8% | 14,0% | 15,2% [ROW] Khả năng thanh toán chung | 78,3% | 74,3% | 61,4%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "paragraph_id": 2126,
+      "text": "[TABLE] [CONTEXT] section: A.5 Thực hiện quyền của tất cả cổ đông, bao gồm cổ đông tổ chức ; column_headers: STT | Tiêu chí | Tính tuân thủ của HDBank | Cơ sở đánh giá cho năm 2022 | 2021 [ROWS] STT | Tiêu chí | Tính tuân thủ của HDBank | Cơ sở đánh giá cho năm 2022 [ROW] 2021 [ROW] B.4 | Giao dịch bên liên quan bởi Hội đồng Quản trị và Ban Điều hành [ROW] B.4.1 | Công ty có chính sách yêu cầu Thành viên Hội đồng Quản trị công bố lợi ích liên quan trong các giao dịch và mọi xung đột lợi ích với Công ty không? | Quy định tại Điều lệ, Quy chế Nội bộ về Quản trị Ngân hàng và các tài liệu có liên quan khác. HDBank cam kết tuân thủ theo quy định công bố thông tin hiện hành trên thị trường [ROW] B.4.2 | Công ty có chính sách yêu cầu một Tiểu ban gồm Thành viên Hội đồng Quản trị độc lập rà soát giao dịch bên liên quan trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của Công ty và cổ đông? | Ban Kiểm soát thực hiện chức năng giám sát công tác quản trị điều hành của Hội đồng Quản trị và Ban điều hành [ROW] B.4.3 | Công ty có chính sách yêu cầu Thành viên Hội đồng Quản trị không tham gia họp Hội đồng Quản trị trong các cuộc họp về các hoạt động giao dịch mà Thành viên đó có xung đột lợi ích? | Quy định tại Điều lệ, Quy chế Nội bộ về Quản trị Ngân hàng [ROW] B.4.4 | Công ty có chính sách về khoản vay cho Thành viên Hội đồng Quản trị trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Quy định tại Điều lệ, Quy chế Nội bộ v ề Quản trị Ngân hàng và các tài liệu có liên quan khác về cấp tín dụng [ROW] B.5 | Bảo vệ cổ đông nhỏ lẻ từ các hành vi tư lợi cá nhân [ROW] B.5.1 | Công ty có công bố về việc giao dịch bên liên quan được thực hiện theo phương thức đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | Quy định tại Điều lệ và đảm bảo tuân thủ quy định pháp luật [ROW] B.5.2 | Đối với những giao dịch bên liên quan được chấp thuận bởi Đại hội đồng Cổ đông, có được thông qua bởi những c ổ đông không có liên quan lợi ích? | Quy định tại Điều lệ",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "S4": 0.321288
+      },
+      "themes": [
+        "G10",
+        "S4"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "S4": 1
+      }
+    },
+    {
+      "paragraph_id": 2141,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM PHẠT ; column_headers: STT | Tiêu chí | Tính tuân thủ của HDBank | Cơ sở đánh giá cho năm 2022 | 2021 [ROWS] STT | Tiêu chí | Tính tuân thủ của HDBank | Cơ sở đánh giá cho năm 2022 [ROW] 2021 [ROW] (P) B | Đối xử bình đẳng với cổ đông [ROW] (P) B.1 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] (P) B.1.1 | Công ty có bị kết luận vi phạm về giao dịch nội gián của Hội đồng Quản trị, Ban Điều hành và nhân viên trong 3 năm qua? | Không phát sinh [ROW] (P) B.2 | Bảo vệ cổ đông nhỏ lẻ từ các hành vi tư lợi cá nhân [ROW] (P) B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu 3 năm qua? | Không phát sinh [ROW] (P) B.2.2 | Có giao dịch bên liên quan nào có tính chất hỗ trợ tài chính cho các đơn vị không phải là Công ty con trực thuộc không? | Không phát sinh [ROW] (P) C | Vai trò của các bên có quyền lợi liên quan [ROW] (P) C.1 | Quyền lợi của các bên có liên quan được quy định bởi pháp luật hoặc theo những thỏa thuận song phương phải được tôn trọng [ROW] (P) C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/ việc làm/ người tiêu dùng/ phá sản/ thương mại/ cạnh tranh hay các vấn đề về môi trường không? | Không phát sinh [ROW] (P) C.2 | Quyền lợi các bên liên quan được bảo vệ bởi luật pháp, các bên liên quan có cơ hội để thể hiện ý kiến nếu quyền lợi bị xâm phạm [ROW] (P) C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý liên quan đến việc công bố thông tin không đúng hạn cho những yêu cầu thiết yếu? | Không phát sinh [ROW] (P) D | Công bố thông tin và minh bạch [ROW] (P) D.1 | Hình phạt của cơ quan quản lý liên quan đến Báo cáo Tài chính [ROW] (P) D.1.1 | Công ty có nhận được “ý kiến loại trừ” trong Báo cáo kiểm toán độc lập? | Ý kiến kiểm toán chấp nhận toàn phần [ROW] (P) D.1.2 | Công ty có nhận được “ý kiến bất lợi” trong Báo cáo kiểm toán độc lập? | Ý kiến kiểm toán chấp nhận toàn phần",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

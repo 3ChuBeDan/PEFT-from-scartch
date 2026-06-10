@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 1976,
+      "text": "[TABLE] [CONTEXT] section: CÁC GIẢI THƯỞNG TRONG LĨNH VỰC THỰC PHẨM [ROWS] Đơn vị đạt giải ABT | 14 | IR Award 2016 – Doanh nghiệp niêm yết đạt chuẩn công bố thông tin Tổ chức trao giải Hiệp hội các nhà quản trị tài chính Việt Nam (VAFE) & Công ty CP Tài Việt (cổng TT TCCK Vietstock.vn) [ROW] 15 | Doanh nghiệp xuất khẩu uy tín 2015 Tổ chức trao giải Bộ Công Thương [ROW] 16 | Đơn vị phát triển bền vững năm 2015 Tổ chức trao giải Viện khoa học nghiên cứu nhân tài, nhân lực [ROW] 17 | 100 Doanh nghiệp Doanh nhân xuất sắc ASEAN năm 2016 Tổ chức trao giải Ban tuyên giáo Trung ương, Bộ văn hóa thể thao và du lịch; Trung ương hội phát triển kinh tế Việt nam- Lào- Campuchia; Hiệp hội doanh nhân Thái-Việt nam; Báo thời báo Mêkong [ROW] 18 | Nhãn hiệu Nổi tiếng- Nhãn hiệu cạnh tranh Việt Nam Tổ chức trao giải Hội sở hữu trí tuệ Việt Nam [ROW] 19 | Top 100 Thương hiệu tiên phong hội nhập quốc tế Tổ chức trao giải Liên hiệp các hội khoa học và kỹ thuật VN-Viện nghiên cứu DN vừa và nhỏ [ROW] 20 | Doanh nghiệp phát triển vững mạnh thời kỳ hội nhập Tổ chức trao giải TW hội khoa học phát triển nguồn nhân lực nhân tài Việt Nam [ROW] 21 | Doanh nghiệp phát triển kinh tế xanh bền vững, Thương hiệu vì môi trường, Sản phẩm thân thiện với môi trường, Nhà máy xanh thân thiện Tổ chức trao giải Trung ương hội kinh tế môi trường VN [ROW] 22 | Doanh nhân Việt Nam tiêu biểu, xuất sắc 2016 và thương hiệu phát triển kinh tế hội nhập Tổ chức trao giải Hội đồng các sở ngành tỉnh Bến Tre giới thiệu tôn vinh theo chương trình do Tạp chí Thương hiệu Việt thuộc Liên hiệp các Hội khoa học và kỹ thuật Việt Nam",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1978,
+      "text": "[TABLE] [CONTEXT] section: Các mục tiêu Môi trường – Xã hội – Cộng đồng ; column_headers: Lĩnh vực | Định hướng thực hiện | Mục tiêu 2017 và giai đoạn tiếp theo | Kết quả hiện tại [ROWS] Lĩnh vực | Định hướng thực hiện | Mục tiêu 2017 và giai đoạn tiếp theo | Kết quả hiện tại [ROW] An toàn thực phẩm | Là một trong những trọng tâm hàng đầu trong chiến lược phát triển bền vững, Tập đoàn PAN sẽ tập trung nâng cấp cả về cơ sở hạ tầng và hoạt động quản trị điều hành để đảm bảo đáp ứng các yêu cầu nghiêm ngặt về chất lượng và an toàn thực phẩm. Trong bối cảnh vấn đề an toàn thực phẩm ngày càng trở thành mối quan tâm sâu sắc của xã hội, những hoạt động này là vô cùng quan trọng và cần thiết để phòng ngừa, thiết lập lòng tin của khách hàng cũng như duy trì sự hợp tác tốt với các khách hàng quốc tế. Các nhà máy sản xuất thực phẩm của Tập đoàn đảm bảo không chỉ đạt chứng nhận tiêu chuẩn an toàn thực phẩm quốc tế như HACCP, ISO22000, BRC, IFS, SQF... mà còn hướng tới tiếp tục nhận được những phản hồi tích cực trong các đợt đánh giá của khách hàng hoặc bên thứ ba về hệ thống quản lý chất lượng và đảm bảo an toàn thực phẩm. | Duy trì 100% cơ sở sản xuất thực phẩm được chứng nhận phù hợp tiêu chuẩn An toàn thực phẩm quốc tế. | 100% các nhà máy hiện tại đang đáp ứng. Tuy nhiên do liên tục có thêm các nhà máy và cơ sở sản xuất mới, nên cần duy trì mục tiêu này. [ROW] Truy xuất nguồn gốc | Trong hoạt động sản xuất, khả năng truy xuất nguồn gốc là một sự đảm bảo mạnh mẽ cho chất lượng sản phẩm. Đối với sản phẩm thực phẩm nói riêng, truy xuất nguồn gốc còn là một yêu cầu bắt buộc đối với khách hàng. Tập đoàn PAN cũng hỗ trợ và đặt ra yêu cầu cao đối với khả năng truy xuất nguồn gốc, coi đây là một cam kết và chứng minh cho nỗ lực xây dựng một hệ thống sản xuất hiện đại, chuyên nghiệp, hướng đến nhiệm vụ nâng cao vị thế nền nông nghiệp và công nghiệp chế biến thực phẩm ở Việt Nam. | 100% sản phẩm của Tập đoàn có hệ thống theo dõi và truy xuất nguồn gốc hiệu quả, bao gồm tất cả sản phẩm thực phẩm và các sản phẩm nông nghiệp khác bao gồm: Hạt giống, hoa. | 84% [ROW] Sản phẩm | Đầu ra cuối cùng của mọi quá trình sản xuất là đưa sản phẩm đến tay khách hàng. Sản phẩm phải đáp ứng ngày càng cao hơn kỳ vọng của khách hàng, được khách hàng chấp nhận và liên tục được cải tiến. Đó không chỉ là trách nhiệm của nhà sản xuất mà còn là yếu tố quyết định sự tồn vong của doanh nghiệp. Do đó, các phản hồi và ý kiến khách hàng là nguồn thông tin quý giá để nhà sản xuất nhận biết ưu nhược điểm của mình, từ đó có các kế hoạch hợp lý trong việc cải tiến sản phẩm, nâng cao năng lực sản xuất. Tập đoàn PAN sẽ từng bước yêu cầu đưa ra các kế hoạch thu thập ý kiến khách hàng cho mọi sản phẩm của Tập đoàn. | 100% các dòng sản phẩm của công ty thành viên được đánh giá và thu thập ý kiến phản hồi của khách hàng (đến hết năm 2020). | 65% (Tỷ lệ trung bình)",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

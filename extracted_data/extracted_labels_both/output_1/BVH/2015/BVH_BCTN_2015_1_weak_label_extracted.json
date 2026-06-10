@@ -1,0 +1,356 @@
+{
+  "extracted_count": 22,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Thiên tai lũ lụt gia tăng: Thiên tai lũ lụt với những cơn bão mạnh hơn nhiều lần gây ra thiệt hại tài sản và con người. Trung bình mỗi năm Việt Nam có 392 người chết và thiệt hại hơn 1% GDP do các thảm họa liên quan đến biến đổi khí hậu. Các rủi ro về con người, tài sản cũng ảnh hưởng tới Bảo Việt với các chi phí bồi thường gia tăng.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "Hạn hán kéo dài làm gia tăng nguy cơ cháy nổ: Nắng nóng gay gắt với nền nhiệt cao kỷ lục ở Bắc Bộ đến Nam Trung Bộ khiến hơn 190.000 ha bị hạn hán và hơn 44.000 gia súc, gia cầm bị chết. Hạn hán kéo dài làm gia tăng các nguy cơ cháy rừng, cháy nổ các nhà máy. Đây cũng là rủi ro cho Bảo Việt khi thực hiện bảo hiểm về lâm nghiệp hay các bảo hiểm nhà xưởng cho doanh nghiệp.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    },
+    {
+      "text": "Chúng tôi đặt mục tiêu giảm tác động tiêu cực đối với môi trường hàng năm qua các dự án truyền thông nội bộ như sử dụng tiết kiệm điện, tiết kiệm nước, tiết kiệm và tái sử dụng giấy, hạn chế sử dụng bao bì ni-lon và thay thế bằng các loại vật liệu tái chế, thân thiện với môi trường, đồng thời tiến tới sử dụng các thiết bị tiết kiệm năng lượng hoặc thiết bị sử dụng năng lượng tái tạo. Những dự án này không những nâng cao nhận thức của cán bộ nhân viên trong toàn hệ thống mà còn giảm thiểu đáng kể các tác động đối với môi trường và xã hội .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Khối Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro (phương pháp ORCA) để thực hiện các hoạt động kiểm toán, theo đó Khối Kiểm toán nội bộ căn cứ vào kết quả đánh giá rủi ro để xác định mục tiêu, đối tượng kiểm toán, phạm vi kiểm toán và cách thức thực hiện kiểm toán.",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "text": "Năm 2015, Bảo Việt đã đưa yếu tố môi trường và xã hội trong công tác đấu thầu và lựa chọn nhà thầu. Theo đó, các yêu cầu đưa ra trong giai đoạn mời thầu bao gồm các yêu cầu về báo cáo tình hình sử dụng lao động, các hoạt động công ích (nếu có), mô tả về kiểm soát nguyên vật liệu, sử dụng hiệu quả năng lượng và tài nguyên, thân thiện với môi trường sử dụng trong dự án.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Khi có sự sẻ chia và sự trao đổi cởi mở, thẳng thắn sẽ tạo ra nhận thức chung và kiến tạo sự đồng thuận bền vững, tinh thần đoàn kết một lòng sẽ được củng cố và cùng đi theo một hướng, cùng xác định một mục tiêu và cùng nỗ lực vì \"MỘT BẢO VIỆT\".",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bản lĩnh ấy, tầm vóc ấy giờ vẫn luôn được giữ gìn và trân trọng. Những con người Bảo Việt với nhiệt huyết, đam mê, lòng yêu nghề và những tháng ngày cống hiến không mệt mỏi cho sự phát triển của Bảo Việt nói riêng và tinh thần Việt Nam nói chung, vẫn đang tiếp tục thể hiện tinh thần tiên phong trên những chặng đường mới. \"MỘT BẢO VIỆT\" và \"BẢO VIỆT LÀ SỐ MỘT\", tinh thần ấy đang được thấm vào mỗi trái tim và khối óc của NGƯỜI BẢO VIỆT.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Bảo Việt đã tổ chức các buổi đón tiếp các em tại Trụ sở chính của Tập đoàn Bảo Việt. Tại đây, Tổng Giám đốc cùng các Lãnh đạo Tập đoàn Bảo Việt đã chia sẻ và bảy tỏ mong muốn học bổng \"Bảo Việt – Niềm tin thắp sáng Tương lai\" sẽ giúp các em sinh viên phát huy được những tinh hoa của bản thân nhằm xây dựng tương lai cho chính các em cũng như cho nhà trường và đất nước sau này. Ông cũng hi vọng các em sinh viên có mặt ngày hôm nay sẽ là cầu nối, là tấm gương lan tỏa tinh thần học tập của các em cho các bạn sinh viên khác để học bổng Bảo Việt sẽ đến được với nhiều em nữa trong những năm học tiếp theo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Là doanh nghiệp cung cấp các dịch vụ tài chính, các hoạt động kinh doanh của Bảo Việt tác động không đáng kể đến môi trường. Vì vậy đối với hoạt động nội bộ, chúng tôi chú trọng vào việc nâng cao nhận thức của cán bộ nhân viên về bảo vệ môi trường và ứng phó với biến đổi khí hậu; thực hiện kiểm soát hệ thống xử lý chất thải tại các tòa nhà của Bảo Việt – đảm bảo đạt các tiêu chuẩn môi trường cho phép; giảm thiểu việc sử dụng nguồn năng lượng và tài nguyên thiên nhiên qua đó góp phần giảm thiểu cường độ phát thải khí nhà kính.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "chế môi trường không khí, ô nhiễm môi trường nước, xử lý chất thải rắn, chất thải rắn nguy hại; lực lượng và phương tiện PCCC tại chỗ.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Đề án bảo vệ môi trường của Bảo Việt (được Sở Tài nguyên và Môi trường phê duyệt năm 2014) tiếp tục được triển khai tại các Tòa nhà của Bảo Việt. Đề án này bao gồm các nội dung liên quan đến giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Lượng chất thải này phát sinh rất ít, nhưng để đảm bảo vệ sinh môi trường và thực hiện theo đúng quy định của nhà nước, các tòa nhà của Bảo Việt tiến hành lưu giữ, phân loại và thu gom theo đúng thông tư 12/2011/TT-BNTMT ngày 18 tháng 4 năm 2011 về quản lý chất thải nguy hại. Theo đó, chất thải nguy hại được đựng trong thùng riêng biệt, có khu vực lưu giữ riêng và dán nhãn cảnh báo chất thải nguy hại",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "Tiếp đó, Bảo Việt ký hợp đồng với đơn vị có chức năng thu gom, vận chuyển chất thải nguy hại của Tòa nhà. Thời gian lưu trữ chất thải nguy hại tại tòa nhà không quá 1 năm theo đúng quy định tại thông tư 12/2011/TT_BTNMT",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Đề án bảo vệ môi trường trong hoạt động quản lý tòa nhà ; column_headers: Nguồn chất thải có khả năng gây hại tới môi trường | Biện pháp xử lý kỹ thuật | Các giải pháp môi trường [ROWS] Nguồn chất thải có khả năng gây hại tới môi trường | Biện pháp xử lý kỹ thuật | Các giải pháp môi trường [ROW] Nguồn chất thải rắn thông thường Chất thải rắn phát sinh chủ yếu là từ hoạt động văn phòng của cán bộ nhân viên trong tòa nhà. Thành phần chất thải rắn bao gồm giấy in hỏng, bút hết mực, giấy bìa carton, vỏ hoa quả | • Tại mỗi tầng của tòa nhà, Bảo Việt đều trang bị 01 thùng composit lớn và 01 thùng đựng rác nhỏ ở cuối cầu thang để thu gom rác. • Hàng ngày, nhân viên vệ sinh tòa nhà dọn dẹp trong mỗi phòng của công ty thuê và quét dọn hành lang, khu vực xung quanh tòa nhà. • Cuối giờ làm việc, nhân viên vệ sinh của tòa nhà sẽ thu gom tất cả rác trong thùng rác ở các tầng ra điểm rác trước cửa tòa nhà. | • Truyền thông nâng cao nhận thức của cán bộ trong việc in ấn tài liệu nhằm giảm thiểu lượng giấy in. • Tái sử dụng các văn phòng phẩm bao gồm các loại bút và đồ dùng văn phòng bằng nhựa",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

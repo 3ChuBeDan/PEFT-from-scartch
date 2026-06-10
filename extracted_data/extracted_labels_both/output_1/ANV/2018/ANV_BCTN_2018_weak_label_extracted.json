@@ -1,0 +1,27 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 565,
+      "text": "[TABLE] [CONTEXT] section: 01_BÁO CÁO TIÊU THỤ NĂNG LƯỢNG [ROWS] STT | Tổng năng lượng sử dụng phân loại theo từng nguồn | 2018 [ROW] Điện (Kwh) | 51.380.100 [ROW] 1 | Tổng năng lượng tiêu thụ | 51.380.100 [ROW] Gas (kg) | 16.500 [ROW] 2 | Tổng năng lượng tiêu thụ | 16.500",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    }
+  ]
+}

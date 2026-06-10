@@ -1,0 +1,116 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 188,
+      "text": "Tại Nghị định 06/2022/NĐ-CP, Quyết định số 01/2022/QĐ-TTg của Thủ tướng Chính phủ ban hành danh mục lĩnh vực, cơ sở phát thải khí nhà kính phải thực hiện kiểm kê khí nhà kính. Các doanh nghiệp sản xuất thép đang tích cực kiểm kê số liệu phát thải, qua đó sử dụng số liệu này để lên lộ trình giảm phát thải khí nhà kính, quản lý dấu chân Carbon và tạo điều kiện thuận lợi cho việc xây dựng thị trường mua bán tín chỉ Carbon.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 587,
+      "text": "Việc áp dụng công nghệ thân thiện với môi trường, tiết kiệm năng lượng, tái sử dụng nước sản xuất, khí thải đang trở thành xu hướng tất yếu trong ngành thép hiện đại. Tại Hòa Phát, công nghệ luôn là ưu tiên số 1. Ngay từ khi triển khai các KLH gang thép, giải pháp công nghệ thu hồi nhiệt luyện coke, khí than lò cao để phát điện, tái sử dụng đã cho thấy hiệu quả rõ rệt, góp phần tạo nên sản phẩm thép xanh, thân thiện với môi trường, tăng thêm sức cạnh tranh cho các sản phẩm thép Hòa Phát.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 600,
+      "text": "Từ tháng 6/2023, Thép Hòa Phát Dung Quất bắt đầu tiếp xúc các đơn vị tư vấn lập báo cáo, kiểm kê phát thải khí nhà kính. Đồng thời, cung cấp số liệu hoạt động, thông tin liên quan để phục vụ kiểm kê khí nhà kính giai đoạn 2022-2023.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 601,
+      "text": "Cuối tháng 11/2023, Công ty đã được Tổ chức BSI thực hiện hoàn thành quá trình kiểm tra xác nhận Báo cáo kiểm kê khí nhà kính tại Khu liên hợp, đáp ứng các yêu cầu và đủ điều kiện xác nhận và công bố Báo cáo Kiểm kê khí nhà kính cho Doanh nghiệp theo yêu cầu của Tiêu chuẩn ISO 14064-1:2018.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 1066,
+      "text": "[TABLE] [CONTEXT] section: 1.4 Cấu trúc Tập đoàn ; column_headers: Công ty con | STT | Hoạt động chính | Tỷ lệ lợi ích và quyền biểu quyết của Tập đoàn | 31/12/2023 | 1/1/2023 [ROWS] STT | Công ty con | Hoạt động chính | Tỷ lệ lợi ích và quyền biểu quyết của Tập đoàn [ROW] 31/12/2023 | 1/1/2023 [ROW] 1 | Công ty CP Gang thép Hòa Phát (i) | Đầu tư, sản xuất, kinh doanh thép xây dựng và các hoạt động phụ trợ. | 99,999% | 99,998% [ROW] 2 | Công ty CP Sản phẩm thép Hòa Phát | Đầu tư, sản xuất, kinh doanh ống thép, tôn mạ màu và các hoạt động phụ trợ. | 99,994% | 99,994% [ROW] 3 | Công ty CP Phát triển Nông nghiệp Hòa Phát | Chăn nuôi gia súc, gia cầm; trồng trọt; các hoạt động dịch vụ trồng trọt, chăn nuôi, sau thu hoạch; sản xuất thức ăn gia súc, gia cầm và thủy sản. | 99,999% | 99,999% [ROW] 4 | Công ty CP Phát triển Bất động sản Hòa Phát | Đầu tư, xây dựng, kinh doanh bất động sản và các hoạt động phụ trợ. | 99,967% | 99,967% [ROW] 5 | Công ty CP Điện máy Gia dụng Hòa Phát | Đầu tư, sản xuất, kinh doanh các sản phẩm điện máy – gia dụng. | 99,900% | 99,900% [ROW] 6 | Công ty CP Đầu tư Khoáng sản An Thông | Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung trong đó chủ yếu là quặng sắt. | 99,958% | 99,958% [ROW] 7 | Công ty CP Thép Hòa Phát Hải Dương | Sản xuất thép, gang, khai thác quặng sắt, khai thác và thu gom than non; bán buôn kim loại và quặng kim loại; và sản xuất, mua bán than cốc. | 99,997% | 99,997% [ROW] 8 | Công ty CP Thép Hòa Phát Dung Quất (i) | Sản xuất sắt, thép, gang, khai thác quặng sắt; bán buôn kim loại và quặng kim loại; sản xuất mua bán than cốc và các ngành nghề liên quan khác. | 99,999% | 99,998% [ROW] 9 | Công ty TNHH Thép Hòa Phát Hưng Yên | Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại. | 99,999% | 99,998% [ROW] 10 | Công ty CP Vận tải biển Hòa Phát | Vận tải hàng hóa ven biển, đường thủy nội địa và viễn dương. | 99,519% | 99,518% [ROW] 11 | Công ty CP Đầu tư nước ngoài Hòa Phát (trước đây là Công ty CP Khoáng sản Bắc Úc) (iv) | Khai thác quặng sắt, khai thác kim loại khác không chứa sắt, sản xuất kim loại màu và kim loại quý. | - | 99,971% [ROW] 12 | Công ty TNHH Ống thép Hòa Phát | Sản xuất và kinh doanh thương mại ống thép. | 99,969% | 99,969% [ROW] 13 | Công ty TNHH Tôn Hòa Phát | Sản xuất và kinh doanh các loại tôn mạ kẽm, tôn mạ màu và tôn mạ lạnh. | 99,994% | 99,994% [ROW] 14 | Công ty TNHH Điện lạnh Hòa Phát | Sản xuất và kinh doanh thương mại sản phẩm điện lạnh. | 99,734% | 99,734% [ROW] 15 | Công ty TNHH Chế tạo Kim loại Hòa Phát | Sản xuất thiết bị xây dựng; kinh doanh thương mại máy móc và thiết bị xây dựng và khai thác khoáng sản loại nhỏ và vừa. | 99,910% | 99,910% [ROW] 16 | Công ty CP Sản xuất Container Hòa Phát | Sản xuất và kinh doanh Container. | 99,794% | 99,794% [ROW] 17 | Công ty TNHH Thương mại Hòa Phát | Chăn nuôi trâu, bò; hoạt động dịch vụ trồng trọt, chăn nuôi và sau thu hoạch. | 99,916% | 99,916% [ROW] 18 | Công ty CP Phát triển Chăn nuôi Hòa Phát | Chăn nuôi, cung cấp heo giống, heo thịt. | 99,974% | 99,974% [ROW] 19 | Công ty TNHH Thức ăn Chăn nuôi Hòa Phát Hưng Yên | Sản xuất, buôn bán thức ăn và nguyên liệu làm thức ăn gia súc, gia cầm và thủy sản. | 99,999% | 99,999% [ROW] 20 | Công ty TNHH Gia cầm Hòa Phát | Chăn nuôi gia cầm. | 99,999% | 99,999% [ROW] 21 | Công ty CP Xây dựng và Phát triển Đô thị Hòa Phát | Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật. | 99,936% | 99,936% [ROW] 22 | Công ty CP Phát triển Bất động sản Hòa Phát Sài Gòn | Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. | 99,867% | 99,867% [ROW] 23 | Công ty CP Phát triển Bất động sản | Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. | 99,930% | 99,930%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1067,
+      "text": "[TABLE] [CONTEXT] section: 1.4 Cấu trúc Tập đoàn ; column_headers: Công ty con | STT | Hoạt động chính | Tỷ lệ lợi ích và quyền biểu quyết của Tập đoàn | 31/12/2023 | 1/1/2023 [ROWS] STT | Công ty con | Hoạt động chính | Tỷ lệ lợi ích và quyền biểu quyết của Tập đoàn [ROW] 31/12/2023 | 1/1/2023 [ROW] 24 | Hòa Phát Hà Nội Công ty TNHH Đầu tư phát triển Thành phố mới | Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. | 99,967% | 99,967% [ROW] 25 | Công ty CP phát triển đô thị Hòa Phát Yên Mỹ | Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê, kinh doanh bất động sản. | 99,836% | 99,867% [ROW] 26 | Công ty CP phát triển hạ tầng khu công nghiệp Đồng Phúc | Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. | 99,836% | 99,867% [ROW] 27 | Công ty CP phát triển đô thị Hòa Phát Bắc Giang (iii) | Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê. | - | 99,867% [ROW] 28 | Công ty CP Điện máy Gia dụng Hòa Phát Hà Nam | Đầu tư, sản xuất, kinh doanh các sản phẩm điện máy, gia dụng. | 99,800% | 99,800% [ROW] 29 | Công ty CP Điện lạnh Hòa Phát Phú Mỹ | Sản xuất tủ đông, tủ mát. | 99,800% | 99,800% [ROW] 30 | Công ty TNHH MTV Bình Vàng | Khai thác quặng sắt, khai thác kim loại khác không chứa sắt, sản xuất kim loại màu và kim loại quý, khai thác quặng kim loại quý hiếm. | 99,959% | 99,958% [ROW] 31 | Công ty CP Khoáng sản Hòa Phát Mitraco | Khai thác và sản xuất quặng sắt, bô xít và các kim loại quý hiếm; bán buôn kim loại và quặng kim loại. | 98,379% | 98,379% [ROW] 32 | Công ty CP Năng lượng Hòa Phát | Sản xuất và bán buôn than cốc, khai thác và thu gom than cứng; sản xuất sản phẩm dầu mỏ tinh chế; bán buôn kim loại và quặng kim loại; và buôn bán than luyện cốc và than các loại. | 99,887% | 99,887% [ROW] 33 | Công ty CP Hợp kim sắt Hòa Phát Dung Quất | Sản xuất sắt, thép, gang. | 99,988% | 99,988% [ROW] 34 | Công ty CP Ống thép Hòa Phát Dung Quất | Sản xuất sắt, thép, gang. | 99,985% | 99,985% [ROW] 35 | Công ty CP Tôn Hòa Phát Dung Quất | Sản xuất sắt, thép, gang. | 99,988% | 99,988% [ROW] 36 | Hoa Phat Trading International Pte Ltd.(iv) | Kinh doanh thương mại sắt, thép, gang. | - | 99,998% [ROW] 37 | Công ty CP Cảng Tổng hợp Hòa Phát | Dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy. | 99,998% | 99,998% [ROW] 38 | Công ty TNHH Harmonia | Dịch vụ khách sạn. | 99,998% | 99,998% [ROW] 39 | Công ty TNHH MTV Hòa Phát Bình Định | Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại. | 99,999% | 99,998% [ROW] 40 | Công ty TNHH Thương mại Dịch vụ | Kho bãi và lưu giữ hàng hóa; bốc xếp hàng hóa. | 99,969% | 99,968% [ROW] 41 | Nhơn Trạch Dragon Resource Investment Pty Ltd. (iv) | Xuất, nhập khẩu, mua bán, phân phối hàng hóa; hoạt động vận tải, đại lý vận tải. | - | 99,971% [ROW] 42 | Công ty TNHH Thép Cán nguội Hòa Phát Ố | Sản xuất sản phẩm thép cán nguội. | 99,969% | 99,969% [ROW] 43 | g y p gộ Công ty TNHH MTV Ống thép Hòa Phát Bình Dương | Sản xuất và kinh doanh thương mại ống thép. | 99,969% | 99,969% [ROW] 44 | g Công ty TNHH Ống thép Hòa Phát Đà Nẵng | Sản xuất và kinh doanh thương mại ống thép. | 99,946% | 99,946% [ROW] 45 | g Công ty TNHH MTV Ống thép Hòa Phát Long An | Sản xuất và kinh doanh thương mại ống thép. | 99,969% | 99,969%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

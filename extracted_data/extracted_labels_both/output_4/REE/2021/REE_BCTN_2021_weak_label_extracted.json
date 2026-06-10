@@ -1,0 +1,107 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 324,
+      "text": "› Các nhà máy nhiệt điện than trong nước hiện vẫn đang đối mặt với tình trạng khan hiếm nguồn cung than tại chỗ do nguồn cung trong nước của Tập đoàn Công nghiệp Than – Khoáng sản Việt Nam (TKV) và Tổng Công ty Đông Bắc không đáp ứng đủ nhu cầu của các nhà máy;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 419,
+      "text": "› Ưu tiên công suất lắp đặt nguồn điện năng lượng tái tạo theo cam kết phát thải ròng bằng \"0\" (Net Zero Carbon Emission) vào năm 2050 của Hội nghị thượng đỉnh về biến đổi khí hậu của Liên Hợp Quốc năm 2021 (COP26) và theo quan điểm ưu tiên phát triển năng lượng sạch và năng lượng tái tạo đã được định hướng trong Nghị quyết 55 của Bộ Chính trị.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 430,
+      "text": "› Đối với mảng môi trường, công ty sẽ tiếp tục theo sát các cơ hội dự án xử lý chất thải rắn và phát điện đốt rác tại thị trường các đô thị lớn, với quy mô xử lý từ 2.000 tấn chất thải rắn mỗi ngày. Đồng thời sẽ tìm hiểu và nghiên cứu các công nghệ tiên tiến trong xử lý chất thải rắn sinh hoạt nhằm ứng dụng cho các dự án môi trường trong tương lai.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 540,
+      "text": "› Đối với mảng năng lượng, REE đã giảm đáng kể các khoản đầu tư vào mảng nhiệt điện than, hướng theo sáng kiến Tuyên bố chung toàn cầu về chuyển dịch từ than sang năng lượng sạch - một trong sáu sáng kiến mà Việt Nam đã cam kết tại Hội nghị COP26. Năm qua, chúng tôi đã giảm sở hữu của REE tại Nhiệt điện Than Quảng Ninh (UPCOM: QTP) từ 8,04% xuống chỉ còn 0,98% và dự kiến sẽ thoái vốn phần còn lại trong thời gian sắp tới. Bên cạnh đó, chúng tôi tiếp tục kiên trì theo đuổi mảng năng lượng tái tạo – hướng tới việc khai thác và ứng dụng nguồn năng lượng xanh sạch vào nền kinh tế quốc gia. Trong năm 2021, REE đã thành công đưa 3 dự án điện gió với tổng công suất 102 MW vào vận hành thương mại, góp phần gia tăng sản lượng điện năng xanh sạch vào tổng sản lượng điện quốc gia. Đối với các dự án điện mặt trời áp mái, 93 MWp đã được triển khai xây dựng và đóng góp vào tỷ trọng sử dụng năng lượng sạch của nhiều doanh nghiệp;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 6
+      }
+    },
+    {
+      "paragraph_id": 543,
+      "text": "› Với mảng bất động sản, REE bảo đảm các tòa nhà văn phòng mới của REE đều đạt chuẩn LEED Gold trở lên nhằm tiết kiệm tối đa năng lượng và đem đến cho khách hàng một không gian thoải mái khi làm việc. Tiêu biểu là tòa nhà văn phòng e.town Central với LEED Gold và và e.town 6 dự kiến với LEED Platinum của Hội đồng Công trình Xanh Mỹ (USGBC), cùng với e.town 5 theo tiêu chuẩn EDGE – chứng chỉ của SGS (World Bank) – thỏa mãn các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện hơn 30%, giảm hơn 50% lượng nước sử dụng, giảm tối đa lượng khí thải CO2 và sử dụng vật liệu thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 5,
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

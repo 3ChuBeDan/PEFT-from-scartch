@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 690,
+      "text": "[TABLE] [CONTEXT] section: Năm 2009 ; column_headers: (tiếp theo) ; row_headers: Điều chuyển công nợ các hộ lẻ không phải trả | Thu từ bán phế liệu, hàng kém phẩm chất | Thu cước vận chuyển | Thu thanh lý tài sản | Thu thanh lý bao bì | Thu nhập khác | Xí nghiệp Giống gia súc gia cầm | Doanh thu lợn chết | Xí nghiệp Ngan giống Pháp | Ngan, vịt loại 2 | Xí nghiệp Gà giống công nghiệp | Bán phế thải | Công ty TNHH Đầu tư và Phát triển chăn nuôi gia công 798,199,954 | Thu phạt gà chết | Công ty TNHH Cảng Dabaco Tân Chi | Thanh lý tài sản | Thu tiên thuê bãi | Thu khác | Công ty TNHH Thương mại Bắc Ninh | Hoa hồng môi giới | Cho thuê kho | Thu phạt hàng về chậm, kém chất lượng | Công ty TNHH MTV Thương mại Hiệp Quang 295,498,493 | Bán phế liệu thu hồi | Công ty TNHH Đầu tư phát triển chăn nuôi lợn 294,497,463 | Thu tiền bán lợn chết, lợn loại | Công ty TNHH Lợn giống Dabaco | Thu tiền bán phân | Chi nhánh Công ty CP Dabaco Việt Nam tại Hà Nội 86,169 | Xí nghiệp Lợn giống Lạc Vệ [ROWS] (tiếp theo) [ROW] Điều chuyển công nợ các hộ lẻ không phải trả | 55,527,310 56,967,571 [ROW] Thu từ bán phế liệu, hàng kém phẩm chất | - | 2,314,359,140 [ROW] Thu cước vận chuyển | 27,723,810 1,031,194,691 [ROW] Thu thanh lý tài sản | - 362,954,850 [ROW] Thu thanh lý bao bì | 414,327,523 23,904,762 [ROW] Thu nhập khác | 171,217,952 - [ROW] Xí nghiệp Giống gia súc gia cầm | 1,763,426,745 1,843,609,242 [ROW] Doanh thu lợn chết | 1,763,426,745 1,843,609,242 [ROW] Xí nghiệp Ngan giống Pháp | 182,320,353 923,058,700 [ROW] Ngan, vịt loại 2 | 182,320,353 923,058,700 [ROW] Xí nghiệp Gà giống công nghiệp | 474,695,750 318,531,788 [ROW] Bán phế thải | 474,695,750 318,531,788 [ROW] Công ty TNHH Đầu tư và Phát triển chăn nuôi gia công 798,199,954 | 7,780,000 [ROW] Thu phạt gà chết | 7,780,000 798,199,954 [ROW] Công ty TNHH Cảng Dabaco Tân Chi | 285,000,000 351,728,000 [ROW] Thanh lý tài sản | 285,000,000 - [ROW] Thu tiên thuê bãi | 90,000,000 | - [ROW] Thu khác | 261,728,000 | - [ROW] Công ty TNHH Thương mại Bắc Ninh | 259,431,090 151,462,496 [ROW] Hoa hồng môi giới | - | 136,690,700 [ROW] Cho thuê kho | - | 24,887,700 [ROW] Thu phạt hàng về chậm, kém chất lượng | 151,462,496 | - [ROW] Thu nhập khác | 97,852,690 - [ROW] Công ty TNHH MTV Thương mại Hiệp Quang 295,498,493 | - [ROW] Bán phế liệu thu hồi | 295,498,493 | - [ROW] Công ty TNHH Đầu tư phát triển chăn nuôi lợn 294,497,463 | - [ROW] Thu tiền bán lợn chết, lợn loại | 294,497,463 | - [ROW] Công ty TNHH Lợn giống Dabaco | 19,654,500 | - [ROW] Thu tiền bán phân | 19,654,500 | - [ROW] Chi nhánh Công ty CP Dabaco Việt Nam tại Hà Nội 86,169 | - [ROW] Thu nhập khác | - 86,169 [ROW] Xí nghiệp Lợn giống Lạc Vệ | 1,605,327,940 1,511,669,450 [ROW] Bán phế thải [ROW] 1,605,327,940 1,511,669,450",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    }
+  ]
+}

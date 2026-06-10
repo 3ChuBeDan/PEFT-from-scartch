@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 2326,
+      "text": "[TABLE] [CONTEXT] section: 23. Trai phieu chuye'n d6i ; column_headers: 31/12/2024 | Phat sinh trong nam | 01/01/2024 | Gift tri co kha nang thanh toan VND | Tang do phan Ioai Iai VND | Gib VI co kha n5ng thanh than VND | Gib tri ghi so VND | Tang VND | Githn Gia VI ghi so VND | VND ; row_headers: Trai phieu CI1424002 | Trai phieu CI142013 | COng [ROWS] 31/12/2024 | Phat sinh trong nam | 01/01/2024 [ROW] Gib tri ghi so VND | Gift tri co kha nang thanh toan VND | Tang VND | Tang do phan Ioai Iai VND | VND | Githn Gia VI ghi so VND | Gib VI co kha n5ng thanh than VND [ROW] Trai phieu CI1424002 | 2.812.258.900.000 2.813.068.900.000 2.812.258.900.000 [ROW] Trai phieu CI142013 | 14.955.422.278 | 14.994.000.000 | 134.739.867 | 28.696.682.411 | 13.876.000.000 [ROW] COng | 2.827.214.322.278 2.828.062.900.000 2.812.393.639.867 28.696.682.411 13.876.000.000",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

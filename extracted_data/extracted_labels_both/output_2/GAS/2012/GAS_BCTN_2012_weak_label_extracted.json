@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Chính sách nhân viên của PV Gas đã được xây dựng ngay từ khi thành lập PV Gas và tiếp tục được sửa đổi, bổ sung trên cơ sở cập nhật những quy định mới của pháp luật, phù hợp với xu thế của thị trường lao động và tình hình thực tế của PV Gas. Chính sách nhân viên được xem như cầu nối PV Gas với người lao động, thậm chí cả những người thân của người lao động trong một số trường hợp; quy định cụ thể, rõ ràng tất các vấn đề về quyền lợi và nghĩa vụ của người lao động khi làm việc tại PV Gas, bao gồm: lương, thưởng, phụ cấp, trợ cấp, đào tạo, môi trường làm việc, chế độ bảo hiểm, nhà ở, khám và theo dõi sức khỏe, hoạt động thể thao văn hóa, du lịch, nghỉ dưỡng và nhiều chế độ phúc lợi khác dành cho người lao động và gia đình người lao động. Nét tiên tiến và tác động tích cực của chính sách nhân viên thể hiện rõ trong thực tế qua việc người lao động tại PV Gas được trả lương, thưởng và các chế độ phúc lợi dựa trên năng lực và hiệu quả công việc của từng cá nhân, tạo thu nhập ổn định để trang trải cuộc sống bản thân và gia đình, được đào tạo nâng cao trình độ chuyên môn để cập nhật những kiến thức mới, được chăm lo về mặt thể chất và tinh thần để phục hồi sức lao động, được bảo đảm chế độ đầy đủ khi nghỉ hưu, khuyến khích người lao động có chuyên môn và kinh nghiệm gắn bó lâu dài với PV Gas, làm việc với tinh thần trách nhiệm cao và hiệu quả.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

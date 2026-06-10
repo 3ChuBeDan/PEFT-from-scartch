@@ -1,0 +1,683 @@
+{
+  "extracted_count": 36,
+  "extracted": [
+    {
+      "text": "Năm 2024 cũng là thời điểm nền kinh tế toàn cầu chuyển mình mạnh mẽ theo xu hướng phát triển bền vững , với các tiêu chí ESG (Môi trường - Xã hội - Quản trị) trở thành kim chỉ nam cho doanh nghiệp . Trước những thách thức và cơ hội , BIWASE tiếp tục khẳng định vị thế tiên phong trong lĩnh vực cấp nước , xử lý nước thải , tái chế chất thải và dịch vụ môi trường , hướng đến phát triển xanh và xây dựng thương hiệu bền vững .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Xây dựng hệ thống quản lý môi trường tiên tiến , cải tiến công nghệ xử lý nước thải và chất thải rắn .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Hơn ai hết , BIWASE hiểu rõ những nguy cơ tiềm ẩn của rác thải và chất thải rắn đối với môi trường . Do đó , BIWASE đã và đang không ngừng cải tiến , áp dụng các công nghệ xử lý chất thải của mình để không chỉ đảm bảo tuân thủ theo các quy chuẩn của pháp luật môi trường mà còn tăng cường hiệu quả xử lý chất thải và giảm tối đa tác động xấu đến môi trường trong quá trình xử lý chất thải , dựa trên ba nguyên tắc cơ bản bao gồm: Giảm thiểu , Tái sử dụng và Tái chế chất thải . Ngoài ra , các giải pháp quản lý xử lý mùi , bụi cũng được quan tâm nhằm hạn chế mùi bị phát tán ra ngoài môi trường .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "Nhựa thải của bình ắc quy sau các công đoạn súc rửa sẽ được đem đi tái chế . Bản cực chì thu được sẽ được chuyển giao cho đơn vị có chức năng xử lý tái chế hoặc chôn lấp an toàn . Hơi axit được thu qua chụp hút và quạt hút hơi hoá chất , dòng khí mang hơi axit sẽ được dẫn theo ống sục qua bồn chứa dung dịch NaOH để trung hoà lượng hơi axit thoát ra , hạn chế tối đa ảnh hưởng của hơi hoá chất axit đến công nhân vận hành . Nước thải sau quá trình trung hoà axit và nước thải sau súc rửa được xử lý tại trạm xử lý chất thải công nghiệp dạng lỏng , công suất 30 m3/ngày đêm xử lý đạt loại B , QCVN 40:2011/BTNMT , sau đó đưa qua trạm xử lý nước thải/chất thải lỏng , công suất 960 m3/ngày đêm đạt loại A , QCVN 40:2011/BTNMT trước khi thải ra môi trường .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6
+      }
+    },
+    {
+      "text": "Công ty lắp đặt hệ thống quan trắc khí thải tự động liên tục tại các lò đốt chất thải , để giám sát và thu thập dữ liệu về khí thải và trạm quan trắc nước thải tự động liên tục theo thời gian thực .",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 2
+      }
+    },
+    {
+      "text": "Hệ thống xử lý khí thải sử dụng các công nghệ tiên tiến như lọc bụi cyclone , tháp venturi , lọc bụi túi vải , nhằm loại bỏ bụi mịn và khí thải gây hại thải ra môi trường .",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Các lò đốt được sử dụng công nghệ đốt 2 cấp , lò đốt kiểu đáy tĩnh và được chia thành lò đốt chất thải y tế , lò đốt chất thải công nghiệp thông thường , và lò đốt chất thải nguy hại . Nhờ công nghệ 2 buồng đốt cùng với nhiệt độ cao và thời gian lưu khí trong buồng đốt đủ lâu ( ≥ 2 giây đối với chất thải không nguy hại và ≥ 2 . 89 giây đối với chất thải nguy hại) đảm bảo tiêu hủy hoàn toàn các chất thải độc hại (đặc biệt là dioxin , furan và PAH) và mùi .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "Để đảm bảo chất lượng nước thải và hệ thống xử lý nước thải không gây ra ảnh hưởng tiêu cực lên môi trường và cộng đồng , BIWASE áp dụng các quy trình bảo dưỡng máy móc định kỳ cùng với việc thiết lập quy trình ứng phó sự cố nước thải xử lý không đạt .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Các quy trình xử lý nước thải của BIWASE đề cao độ hiệu quả và giảm thiểu tác động môi trường . Các công nghệ được Công ty áp dụng trong quá trình xử lý nước thải như Công nghệ xử lý ASBR , x ử lý bằng tia UV giúp tăng độ hiệu quả và giảm thiểu tiêu thụ điện năng . Để kiểm soát tự động toàn quy trình vận hành của nhà máy và trạm bơm , việc điều khiển , theo dõi , giám sát chất lượng nước đầu vào và đầu ra (các thông số: lưu lượng , pH , COD , TSS) đươc thực hiện thông qua hệ thống điều khiển từ xa SCADA .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Đây là hệ thống thoát nước thải riêng biệt (tách riêng nước mưa) , thu gom trực tiếp (không cần qua hầm tự hoại) , phía trước nhà mỗi hộ dân được lắp 1 hố ga để đấu nối nước thải sinh hoạt (nước tắm , nước rửa thực phẩm , nước và phân từ nhà cầu) của hộ gia đình vào hố ga này và nước thải theo hệ thống thu gom chuyển về nhà máy xử lý nước thải sinh hoạt tập trung để xử lý . Hệ thống thu gom này không lẫn nước mưa bà dễ dàng kiểm soát được mùi hôi; đồng thời tạo điều kiện thuận lợi cho đơn vị quản lý theo dõi , kiểm tra và bảo trì .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Nước thải được chuyển qua trạm xử lý nước thải/chất thải lỏng có công suất 960 m 3 /ngày đêm . Nước sau xử lý đạt loại A theo QCVN 40:2011/BTNMT trước khi thải ra môi trường .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 4
+      }
+    },
+    {
+      "text": "Tại các Nhà máy xử lý nước thải , nước thải được xử lý bằng phương pháp sinh học với công nghệ sinh học ASBR có khả năng loại bỏ thành phần ô nhiễm hữu cơ và dinh dưỡng (như Nitơ và Phospho) với hiệu suất xử lý cao . Sau đó , nước thải sẽ được khử trùng bằng tia UV để xử lý hiệu quả các vi khuẩn mà không tạo ra các phụ phẩm độc hại trong nước . Sau khi thông qua toàn bộ quy trình xử lý , nước thải sau xử lý được xả ra nguồn tiếp nhận . BIWASE bảo đảm quy trình xử lý nước thải đạt chuẩn loại A , QCVN 14:2008/BTNMT và loại A , QCVN 40:2011/BTNMT .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "text": "Hàng ngày , chất thải sinh hoạt sẽ được thu gom riêng vào thùng chứa và được đơn vị xử lý chất thải thu gom đưa đi xử lý , các chất thải nguy hại được thu gom và xử lý riêng theo đúng quy định . Các chất thải nguy hại từ hoạt động xử lý nước thải được BIWASE áp dụng quy chuẩn kiểm soát quá trình từ nhập hàng đến lưu kho , sử dụng , thu gom và xử lý nghiêm ngặt với các bên để tránh các sự cố môi trường có thể xảy ra do tràn hóa chất .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Vào ngày 12/01/2024 , dự án lò đốt rác phát điện với công suất 5 MW/giờ chính thức được đưa vào vận hành , đánh dấu một bước tiến quan trọng trong việc tận dụng rác thải để sản xuất năng lượng tái tạo . Trong suốt năm 2024 , hệ thống này đã cung cấp tổng cộng 7 . 116 , 4 MW điện , đóng góp đáng kể vào nhu cầu sử dụng năng lượng của Khu liên hợp xử lý chất thải. Lượng điện do dự án tạo ra đã giúp đáp ứng 29% tổng nhu cầu tiêu thụ điện của khu vực , góp phần giảm áp lực lên lưới điện chung và thúc đẩy mục tiêu phát triển bền vững trong lĩnh vực xử lý rác thải và năng lượng tái tạo .",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Khu Liên Hợp dẫn đầu về lượng năng lượng mặt trời tiêu thụ trong năm 2024 với gần 3 triệu kWh , chiếm 11% tổng điện tiêu thụ cả năm của chi nhánh . Trong khi đó , Chi nhánh Dĩ An về nhì với tổng điện mặt trời sử dụng đạt 1 , 3 triệu kWh , tương ứng 4 , 8% tổng lượng điện tiêu thụ . Với BIWASE Bình Phước , hệ thống điện năng lượng mặt trời được lắp đặt và nâng cấp từ giữa năm 2021 hiện đang hoạt động với công suất 700KVA , thay thế hơn 21% điện năng tiêu thụ từ điện lưới quốc gia . Chi nhánh Tân Uyên sử dụng năng lượng mặt trời thay thế 35% điện năng tiêu thụ từ điện lưới quốc gia . Cả hai Chi nhánh này đều bắt đầu tiêu thụ năng lượng mặt trời từ 2022 và đã tiêu thụ khoảng 2 , 1 triệu kWh trong năm 2024 . Chi nhánh Thủ Dầu Một , sau khi được lắp đặt hệ thống điện mặt trời từ cuối năm 2021 với hiệu suất 200 kWh , đã thay thế 10 , 5% điện năng tiêu thụ từ điện lưới quốc gia thành điện mặt trời trong năm 2024 . 98 TRANG",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Giảm sử dụng điện lưới quốc gia , ưu tiên sử dụng điện năng lượng tái tạo , điện rác",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Nhờ các biện pháp toàn diện này , lượng khí nhà kính phát thải từ hoạt động sản xuất v à vận hành đã giảm đáng kể , giúp BIWASE không chỉ đạt được mục tiêu giảm phát thải so với năm 2023 mà còn góp phần xây dựng một hệ sinh thái xanh và bền vững hơn . TRANG",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "HĐQT Công ty đã làm việc với tinh thần trách nhiệm và minh bạch trong công tác quản trị , tuân thủ đúng các quy định đối với Công ty đại chúng niêm yết. Các cuộc họp của HĐQT đã được triệu tập kịp thời và thực hiện theo các trình tự quy định tại Điều lệ và Quy chế nội bộ về quản trị Công ty. Nội dung các cuộc họp đều được các thành viên HĐQT thảo luận, đánh giá đầy đủ và cẩn thận để đưa ra những định hướng và giải pháp đem lại lợi ích cao nhất cho Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Kiểm kê khí nhà kính theo tiêu chuẩn quốc tế",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Với tầm nhìn trở thành doanh nghiệp hàng đầu về phát triển bền vững , lãnh đạo BIWASE đã thể hiện sự quyết tâm cao trong việc giảm thiểu tác động môi trường . Bằng việc tổ chức tham gia khóa đào tạo và đặt ra mục tiêu rõ ràng về giảm lượng khí thải, lãnh đạo đã truyền cảm hứng cho toàn thể cán bộ nhân viên . Đồng thời, việc tích hợp kết quả kiểm kê khí nhà kính vào hệ thống đánh giá hiệu quả hoạt động và đầu tư vào các công cụ hỗ trợ đã tạo ra một môi trường làm việc khuyến khích đổi mới và sáng tạo . Qua đó , BIWASE không chỉ đạt được mục tiêu giảm phát thải mà còn xây dựng một văn hóa doanh nghiệp bền vững .",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Bảo vệ nhân quyền ở BIWASE được xem là giá trị cốt lõi trong việc vận hành Công ty , trong đó bao gồm KHÔNG CÓ lao động cưỡng bức và lao động trẻ em .",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "text": "BIWASE cam kết nghiêm cấm và lên án dưới mọi hình thức việc sử dụng lao động trẻ em , hoặc lao động cưỡng bức trong các hoạt động của Công ty .",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "text": "Chiến lược ngăn ngừa lao động trẻ em cũng được Công ty triển khai bằng cơ chế chặt chẽ trong quá trình tuyển dụng trực tiếp với Công ty và các bên liên quan . Khi có nghi ngờ về tuổi của nhân viên sẽ được báo cáo cho bộ phận nhân sự , nơi có thể kiểm tra và xác minh bất kỳ tài liệu nhận dạng nào của nhân viên (bao gồm cả nhân viên của nhà thầu) và/hoặc tiến hành phỏng vấn trực tiếp , đối chiếu thông tin với giấy tờ tùy thân của họ . Trong trường hợp Công ty nhận thấy rằng bất kỳ ai dưới 18 tuổi đang làm việc tại bất kỳ địa điểm nào của Công ty , phòng Quản trị và Nhân sự của BIWASE sẽ tiến hành thực hiện các bước dựa theo Chính sách không sử dụng lao động trẻ em , lao động cưỡng bức trong Tổng Công ty .",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.75,
+        "E3": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E3": 1,
+        "S4": 3,
+        "S6": 3
+      }
+    },
+    {
+      "text": "Đặc biệt , Biwase không chỉ đầu tư xây dựng sân tennis ngay trong khuôn viên Công ty mà còn tổ chức các hoạt động thể thao sôi động như đá banh và cầu lông dành cho nhân viên . Sau giờ làm việc , mọi người có thể tham gia những trận đấu kịch tính trên sân cỏ , những trận cầu lông đầy hào hứng hay những buổi giao lưu tennis đầy năng lượng . Những hoạt động này không chỉ giúp nhân viên rèn luyện thể chất mà còn tạo sự cân bằng tinh thần , giảm căng thẳng và tăng cường tinh thần đồng đội. Qua đó , Biwase không chỉ khẳng định vị thế của một doanh nghiệp hàng đầu mà còn xây dựng một môi trường làm việc lý tưởng , nơi nhân viên luôn được quan tâm và phát triển toàn diện cả v ề thể chất lẫn tinh thần .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Hằng năm , công ty tổ chức các chuyến du lịch dành cho nhân viên và gia đình , không chỉ trong nước mà còn mở rộng ra nước ngoài. Đây là cơ hội để nhân viên thư giãn , tái tạo năng lượng sau những ngày làm việc hăng say , đồng thời tăng cường sự kết nối với đồng nghiệp và gia đình . Những chuyến đi này cũng giúp người thân của nhân viên hiểu hơn về môi trường làm việc và sự quan tâm của công ty , qua đó củng cố tinh thần gắn bó và niềm tự hào khi là một phần của tổ chức .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "BIWASE luôn dành sự quan tâm đặc biệt đến đời sống tinh thần của nhân viên , không chỉ qua chế độ đãi ngộ mà còn bằng các hoạt động thể thao sôi nổi . Hàng năm , Công ty tổ chức cuộc đua xe đạp quy mô lớn với sự tham gia của 20 đội , c ả trong nước và quốc tế, ế, mang lại không khí phấn khởi và tinh thần cạnh tranh lành mạnh . Ngoài ra , các giải đấu cầu lông , tennis được tổ chức thường xuyên , tạo sân chơi để nhân viên thư giãn , g ắn kết đồng đội .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "BIWASE đặc biệt kiên quyết chống lại mọi hình thức lao động cưỡng bức , lao động trẻ em và các hành vi vi phạm nhân quyền . Đồng thời , công ty ưu tiên hợp tác với các đối tác áp dụng công nghệ xanh , sử dụng nguyên liệu tái chế và thực hiện các phương pháp sản xu ất thân thiện với môi trường . Để duy trì sự minh bạch và bền vững , BIWASE thực hiện kiểm tra định kỳ , hỗ trợ nhà cung cấp nâng cao hiệu quả quản lý và yêu cầu tuân thủ đầy đủ các tiêu chuẩn đã cam kết . Trong trường hợp phát hiện vi phạm hoặc đối tác từ chối hợp tác , công ty sẵn sàng chấm dứt quan hệ kinh doanh như một giải pháp cuối cùng .",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E3": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E3": 1,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: BÁO CÁO THƯỜNG NIÊN 2024 ; row_headers: LỜI NÓI ĐẦU - THÔNG ĐIỆP CỦA CHỦ TỊCH HĐQT | I . THÔNG TIN CHUNG: | 1 . 1 Quá trình phát triển . 1 . 2 Ngành nghề và địa bàn kinh doanh . 1 . 3 Mô hình quản trị , tổ chức kinh doanh và bộ máy quản lý . 1 . 4 Định hướng phát triển , chiến lược và mục tiêu . II . TÌNH HÌNH HOẠT ĐỘNG NĂM 2024 | LỜI KẾT | III . ĐÁNH GIÁ TÌNH HÌNH HOẠT ĐỘNG SXKD CỦA CÔNG TY NĂM 2024 3 . 1 Nhận xét kết quả thực hiện nhiệm vụ năm 2024 . 3 . 2 Một số chỉ tiêu kế hoạch 2025 . | V . ĐÁNH GIÁ TÌNH HÌNH HOẠT ĐỘNG , TÀI CHÍNH CÔNG TY NĂM 2024 5 . 1 Báo cáo của Ban kiểm soát . 5 . 2 Thẩm định báo cáo tài chính năm 2024 . 5 . 3 Nhận xét , đánh giá & kiến nghị | IV . ĐÁNH GIÁ TÌNH HÌNH QUẢN TRỊ CÔNG TY NĂM 2024 4 . 1 Báo cáo hoạt động của Hội đồng quản trị năm 2024 . 4 . 2 Đánh giá hoạt động của Ban Giám đốc Công ty . 4 . 3 Về công tác quản trị tài chính . 4 . 4 Đào tạo về quản trị công ty . 4 . 5 Tiền lương , thù lao , thưởng & lợi ích khác của TV HĐQT , BKS 4 . 6 Kế hoạch quản trị và định hướng phát triển năm 2024 . | VI . ĐẢM BẢO MÔI TRƯỜNG LÀM VIỆC TÍCH CỰC CHO NGƯỜI LAO ĐỘNG & LAN TỎA GIÁ TRỊ TỚI CỘNG ĐỒNG 6 . 1 Chính sách , môi trường , văn hóa doanh nghiệp 6 . 2 An toàn và sức khỏe nghề nghiệp . 6 . 3 Bình đẳng , tôn trọng và đa dạng . 6 . 4 Đào tạo và giáo dục . 6 . 5 Chính sách phúc lợi cho nhân viên . 6 . 6 Cam kết sử dụng lao động theo quy định . 6 . 7 Chăm lo sức khỏe tinh thần . 6 . 8 Giải thưởng & sự kiện nỗi bật năm 2024 6 . 9 Lan tỏa giá trị tới cộng đồng & xã hội [ROWS] LỜI NÓI ĐẦU - THÔNG ĐIỆP CỦA CHỦ TỊCH HĐQT | 3 [ROW] I . THÔNG TIN CHUNG: | 6 [ROW] 1 . 1 Quá trình phát triển . 1 . 2 Ngành nghề và địa bàn kinh doanh . 1 . 3 Mô hình quản trị , tổ chức kinh doanh và bộ máy quản lý . 1 . 4 Định hướng phát triển , chiến lược và mục tiêu . II . TÌNH HÌNH HOẠT ĐỘNG NĂM 2024 | 43 [ROW] III . ĐÁNH GIÁ TÌNH HÌNH HOẠT ĐỘNG SXKD CỦA CÔNG TY NĂM 2024 3 . 1 Nhận xét kết quả thực hiện nhiệm vụ năm 2024 . 3 . 2 Một số chỉ tiêu kế hoạch 2025 . | 111 [ROW] IV . ĐÁNH GIÁ TÌNH HÌNH QUẢN TRỊ CÔNG TY NĂM 2024 4 . 1 Báo cáo hoạt động của Hội đồng quản trị năm 2024 . 4 . 2 Đánh giá hoạt động của Ban Giám đốc Công ty . 4 . 3 Về công tác quản trị tài chính . 4 . 4 Đào tạo về quản trị công ty . 4 . 5 Tiền lương , thù lao , thưởng & lợi ích khác của TV HĐQT , BKS 4 . 6 Kế hoạch quản trị và định hướng phát triển năm 2024 . | 120 [ROW] V . ĐÁNH GIÁ TÌNH HÌNH HOẠT ĐỘNG , TÀI CHÍNH CÔNG TY NĂM 2024 5 . 1 Báo cáo của Ban kiểm soát . 5 . 2 Thẩm định báo cáo tài chính năm 2024 . 5 . 3 Nhận xét , đánh giá & kiến nghị | 139 [ROW] VI . ĐẢM BẢO MÔI TRƯỜNG LÀM VIỆC TÍCH CỰC CHO NGƯỜI LAO ĐỘNG & LAN TỎA GIÁ TRỊ TỚI CỘNG ĐỒNG 6 . 1 Chính sách , môi trường , văn hóa doanh nghiệp 6 . 2 An toàn và sức khỏe nghề nghiệp . 6 . 3 Bình đẳng , tôn trọng và đa dạng . 6 . 4 Đào tạo và giáo dục . 6 . 5 Chính sách phúc lợi cho nhân viên . 6 . 6 Cam kết sử dụng lao động theo quy định . 6 . 7 Chăm lo sức khỏe tinh thần . 6 . 8 Giải thưởng & sự kiện nỗi bật năm 2024 6 . 9 Lan tỏa giá trị tới cộng đồng & xã hội | 160 [ROW] LỜI KẾT | 201",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Chính sách doanh nghiệp 1 . 3 mô hình quản trị , tổ chức kinh doanh và bộ máy quản lý ; column_headers: Về cấp nước | Về môi trường | Về thu gom xử lý nước thải [ROWS] Về cấp nước | Về môi trường | Về thu gom xử lý nước thải [ROW] - Là đơn vị kinh doanh nước sạch, bảo đảm cung cấp nước đầy đủ cho mọi đối tượng khách hàng với chất lượng, dịch vụ tốt nhất. - Đem lại nguồn nước sạch tốt nhất, nâng cao chất lượng dịch vụ, người tiêu dùng hài lòng, an toàn cho sức khỏe - Phát triển không ngừng, nâng cao vị thế Công ty | - Là đơn vị thu gom, xử lý, tái chế rác thải tốt nhất trên địa bàn Bình Dương với công nghệ xử lý hoàn hảo và tạo ra nhiều sản phẩm có ích cho xã hội - Giữ vững lá cờ đầu trong ngành xử lý môi trường trên cả nước. | - Là đơn vị vận hành, bảo trì hệ thống thu gom xử lý nước thải tốt nhất; đảm bảo nhiều hộ dân được đấu nối hệ thống nước thải gia đình vào hệ thống chung với hệ thống thu gom tiên tiến , văn minh, chất lượng xử lý đạt chuẩn cao nhất (loại A). - Nước thải sinh hoạt ở Bình Dương sẽ được thu gom nhiều nhất ở Việt Nam, - Văn minh, khoa học, hiện đại từ thiết bị - cơ giới, giảm sức lao động cho công nhân.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Một số rủi ro trọng yếu đã được BIWASE nhận diện năm 2024 và biện pháp kiểm soát ; column_headers: STT | Rủi ro | Biện pháp kiểm soát [ROWS] STT | Rủi ro | Biện pháp kiểm soát [ROW] 8 | Rủi ro đầu tư và tiến độ triển khai dự án | Ban Giám đốc có trách nhiệm đánh giá từng kế hoạch đầu tư dựa theo chỉ đạo của HĐQT. Bên cạnh đó, phân bổ nguồn nhân lực có kinh nghiệm và kiến thức phù hợp với dự án và luôn cân nhắc đến an toàn tài chính, đầu tư hạ tầng sản xuất - kinh doanh, hạng mục công việc liên quan để đảm bảo mặt bằng thi công, nghiệm thu đưa vào hoạt động. [ROW] 9 | Rủi ro nguồn nguyên vật liệu | Hàng năm , các Chi nhánh có trách nhiệm xây dựng kịch bản ứng phó và tổ chức diễn tập cho các tình huống rủi ro có thể xảy ra. Xây dựng kế hoạch mua sắm hợp lý tuân thủ theo mục tiêu chiến lược của công ty theo từng năm. Định kỳ đánh giá lại chất lượng hàng tồn kho và đề ra phương án xử lý phù hợp cho từng trường hợp. [ROW] 10 | Rủi ro hoạt động | Quản lý chất lượng nước: Các Chi nhánh thực hiện đúng quy trình quản lý chất lượng nước và định kỳ. Thất thoát nước: Các Chi nhánh tuân thủ quy trình khắc phục sự cố nhanh chóng và kịp thời. Công nghệ: Các Chi nhánh thường xuyên cập nhật kỹ thuật công nghệ tiên tiến theo chỉ đạo của lãnh đạo. Định kỳ bảo trì bảo dưỡng theo quy định. An toàn lao động: Tập thể BIWASE cam kết tuân thủ thực hiện đúng quy trình về An toàn lao động đã cập nhật theo tiêu chuẩn. Chất lượng sản xuất: Thường xuyên cải tiến quy chế làm việc gắn liền với thi đua của tập thể nhân viên nhằm nâng cao tinh thần trách nhiệm của từng bộ phận. [ROW] 11 | Rủi ro môi trường và biến đổi khí hậu | Ứng phó với rủi ro khí hậu: BIWASE đã chủ động xây dựng kịch bản thích ứng với biến đổi khí hậu, đặc biệt là các giải pháp đối phó với hạn hán, xâm nhập mặn và ô nhiễm nguồn nước. Kiểm soát chặt chẽ phát thải: Nâng cao quy trình xử lý nước thải, giảm khí thải nhà kính trong hoạt động sản xuất, đảm bảo tuân thủ các quy định về môi trường. Phát triển năng lượng tái tạo: Mở rộng ứng dụng năng lượng mặt trời, tối ưu hóa tiêu thụ điện trong các nhà máy, hướng đến mục tiêu giảm phát thải carbon.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.5,
+        "E3": 1.0,
+        "G9": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "G9"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 2,
+        "E3": 2,
+        "G9": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÔNG TÁC XỬ LÝ CHẤT THẢI NĂM 2024 ; column_headers: STT | Loại chất thải | Khối lượng 2024 (tấn) | Chiếm tỷ lệ (%) [ROWS] STT | Loại chất thải | Khối lượng 2024 (tấn) | Chiếm tỷ lệ (%) [ROW] 1 | Rác thải sinh hoạt | 843 . 189 | 86 , 9 [ROW] 2 | Bùn thải nguy hại | 12 . 155 | 1 , 3 [ROW] 3 | Chất thải công nghiệp thông thường | 93 . 399 | 9 , 6 [ROW] 4 | Chất thải lỏng nguy hại | 8 . 098 | 0 , 8 [ROW] 5 | Chất thải rắn nguy hại | 13 . 039 | 1 , 3 [ROW] 6 | Chất thải y tế nguy hại | 776 | 0 , 1 [ROW] Tổng cộng | 970 . 656 | 100",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Bảng tổng hợp tình hình hoạt động của các Chi nhánh xử lý nước thải trong kỳ ; column_headers: S T T | Chi nhánh x ử lý nước thải | Công su ất thiết kế (m 3 / ngày đêm) | Lượng nước xử lý trong kỳ (m 3 ) | Sản lượng x ử lý Bình quân (m 3 / ngày đêm) | Sản lượng theo kế hoạch 2024 (m 3 / ngày đêm) | Đạt Kế hoạch 2024 (%) | Số lượng đấu nối (khách hàng) | Tăng trong 2024 | Lũy kế đến nay [ROWS] S T T | Chi nhánh x ử lý nước thải | Công su ất thiết kế (m 3 / ngày đêm) | Lượng nước xử lý trong kỳ (m 3 ) | Sản lượng x ử lý Bình quân (m 3 / ngày đêm) | Sản lượng theo kế hoạch 2024 (m 3 / ngày đêm) | Đạt Kế hoạch 2024 (%) | Số lượng đấu nối (khách hàng) [ROW] Tăng trong 2024 | Lũy kế đến nay [ROW] 1 | Thủ Dầu Một | 35 . 000 | 7 . 293 . 082 | 19 . 926 | 18 . 000 | 111% | 294 | 9 . 387 [ROW] 2 | Thuận An | 17 . 000 | 5 . 817 . 337 | 15 . 894 | 16 . 500 | 96% | 530 | 6 . 328 [ROW] 3 | Dĩ An | 20 . 000 | 5 . 625 . 375 | 15 . 370 | 16 . 500 | 93% | 1 . 368 | 8 . 658 [ROW] 4 | Tân Uyên | 15 . 000 | 3 . 155 . 887 | 8 . 623 | 8 . 600 | 100 , 2% | 455 | 3 . 485 [ROW] Tổng cộng | 87 . 000 | 21 . 891 . 681 | 59 . 813 | 59 . 600 | 100 , 3% | 2 . 647 | 27 . 858",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Tổng lượng nước thải được xử lý qua các năm 2022 năm 2024 , theo chi nhánh (m 3 ) ; column_headers: Đơn vị xử lý Nước thải | 2022 | 2023 | 2024 [ROWS] Đơn vị xử lý Nước thải | 2022 | 2023 | 2024 [ROW] Chi nhánh Nước thải Thủ Dầu Một | 5 . 984 . 126 | 6 . 196 . 477 | 7 . 293 . 082 [ROW] Chi nhánh Nước thải Thuận An | 5 . 030 . 238 | 5 . 558 . 868 | 5 . 817 . 337 [ROW] Chi nhánh Nước thải Dĩ An | 4 . 569 . 399 | 4 . 971 . 940 | 5 . 625 . 375 [ROW] Chi nhánh Nước thải Tân Uyên | 2 . 566 . 014 | 2 . 883 . 875 | 3 . 155 . 887 [ROW] Tổng | 18 . 149 . 777 | 19 . 611 . 160 | 21 . 891 . 681",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CHỨNG NHẬN ISO CỦA CÁC CHI NHÁNH NƯỚC THẢI ; column_headers: Chi nhánh | Cơ sở cấp | Ngày đăng ký ; row_headers: Hệ thống quản lý môi trường - ISO 14001:2015 | Hệ thống quản lý An toàn sức khỏe nghề nghiệp - ISO 45001:2018 [ROWS] Chi nhánh | Cơ sở cấp | Ngày đăng ký [ROW] Chi nhánh Xử lý Nước thải Thủ Dầu Một [ROW] Hệ thống quản lý môi trường - ISO 14001:2015 | BSI - VN | 28/02/2023 [ROW] Hệ thống quản lý An toàn sức khỏe nghề nghiệp - ISO 45001:2018 | BSI - VN | 28/02/2023 [ROW] Chi nhánh Xử lý Nước thải Dĩ An [ROW] Hệ thống quản lý môi trường - ISO 14001:2015 | BSI - VN | 03/03/2023 [ROW] Hệ thống quản lý An toàn sức khỏe nghề nghiệp - ISO 45001:2018 | BSI - VN | 03/03/2023 [ROW] Chi nhánh Xử lý Nước thải Thuận An [ROW] Hệ thống quản lý môi trường - ISO 14001:2015 | BSI - VN | 27/02/2023 [ROW] Hệ thống quản lý An toàn sức khỏe nghề nghiệp - ISO 45001:2018 | BSI - VN | 27/02/2023 [ROW] Chi nhánh Xử lý Nước thải Tân Uyên [ROW] Hệ thống quản lý môi trường - ISO 14001:2015 | BSI - VN | 09/03/2024 [ROW] Hệ thống quản lý An toàn sức khỏe nghề nghiệp - ISO 45001:2018 | BSI - VN | 09/03/2024",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: QUẢN LÝ PHÁT THẢI ; column_headers: ĐƠN VỊ | 2024 ; row_headers: Tổng số cơ sở trong phạm vi thu thập số liệu | Bình quân phát thải/khối nước sạch sản xuất | Bình quân phát thải/khối nước thải sinh hoạt được xử lý | Bình quân phát thải/tấn chất thải sinh hoạt được xử lý | Bình quân phát thải/tấn chất thải công nghiệp được xử lý [ROWS] ĐƠN VỊ | 2024 [ROW] Tổng số cơ sở trong phạm vi thu thập số liệu | Số cơ sở | 20 [ROW] Bình quân phát thải/khối nước sạch sản xuất | Kg CO2e | 0 , 26 [ROW] Bình quân phát thải/khối nước thải sinh hoạt được xử lý | Kg CO 2 e | 0 , 59 [ROW] Bình quân phát thải/tấn chất thải sinh hoạt được xử lý | Tấn CO 2 e | 0 , 79 [ROW] Bình quân phát thải/tấn chất thải công nghiệp được xử lý | Tấn CO 2 e | 0 , 75",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Các chỉ tiêu kết quả hoạt động sản xuất kinh doanh ; column_headers: STT | Mục đích sử dụng | Sản lượng xử lý (tấn) | Tỷ lệ tăng trưởng SL (%) | NĂM 2024 | Chiế m tỷ lệ | NĂM 2023 | Chiếm tỷ lệ | +/- [ROWS] STT | Mục đích sử dụng | Sản lượng xử lý (tấn) | Tỷ lệ tăng trưởng SL (%) [ROW] NĂM 2024 | Chiế m tỷ lệ | NĂM 2023 | Chiếm tỷ lệ | +/- [ROW] 1 | Rác thải sinh hoạt | 843.189 | 86,9% | 840.238 | 90,1% | 0% [ROW] 2 | Chất thải công nghiệp không nguy hại | 93.399 | 9,6% | 65.200 | 7,0% | 43% [ROW] 3 | Bùn thải nguy hại | 12.155 | 1,3% | 9.183 | 1,0% | 32% [ROW] 4 | Chất thải lỏng nguy hại | 8.098 | 0,8% | 5.889 | 0,6% | 38% [ROW] 5 | Chất thải rắn nguy hại | 13.039 | 1,3% | 10.915 | 1,2% | 19% [ROW] 6 | Chất thải y tế nguy hại | 776 | 0,1% | 641 | 0,1% | 21% [ROW] Tổng cộng | 970.656 | 100% | 932.066 | 100% | 4%",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

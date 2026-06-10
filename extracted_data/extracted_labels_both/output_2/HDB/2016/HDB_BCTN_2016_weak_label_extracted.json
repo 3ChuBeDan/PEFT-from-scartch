@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 395,
+      "text": "Năm 2016, ngành ngân hàng có nhiều biến động lớn, các chính sách thay đổi, hoạt động ngân hàng có nhiều khó khăn, nhiều luồng thông tin nhạy cảm... Tuy nhiên, với sự chỉ đạo của HĐQT và Ban Điều hành theo hướng phát triển ổn định, bền vững, an toàn, chất lượng, HDBank đã tạo được thiện cảm với khách hàng, đối tác và xây dựng được một hình ảnh thân thiện, tin cậy. HDBank cũng đã thành công trong việc xây dựng chuẩn nhận diện thương hiệu tại tất cả các điểm giao dịch với kiến trúc của logo thể hiện sự phóng khoáng và thân thiện, tăng thêm tính năng động, tạo ra sự kết nối linh hoạt của HDBank với cộng đồng, thiết kế hệ thống nội ngoại thất theo tiêu chuẩn quốc tế với mô hình hiện đại, thân thiện, an toàn cho khách hàng khi đến giao dịch.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

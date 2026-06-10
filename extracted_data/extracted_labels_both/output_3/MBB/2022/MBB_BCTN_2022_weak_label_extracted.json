@@ -1,0 +1,146 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 285,
+      "text": "\"Chuyển đổi số - Kết nối tài chính toàn diện \", đầu tư vào các dự án mở rộng hệ sinh thái số để hướng tới một doanh nghiệp bền vững. MB đã và đang nỗ lực xây dựng mô hình ngân hàng số, nghiên cứu tích hợp với các mục tiêu giảm phát thải khí nhà kính, đóng góp cho mục tiêu cam kết của quốc gia đối với công tác chống biến đổi khí hậu. Ngoài ra, việc phân bổ nguồn vốn tín dụng góp phần phát triển kinh tế - xã hội; thúc đẩy phát triển tín dụng xanh, ngân hàng xanh để góp phần chuyển đổi nền kinh tế sang hướng tăng trưởng xanh; tăng tỷ trọng tín dụng ngân hàng đầu tư vào năng lượng tái tạo, năng lượng sạch. MB đã và đang nỗ lực nghiên cứu các tiêu chí về phát triển bền vững, biến đổi khí hậu và tăng trưởng xanh trong các chương trình, dự án vay vốn tín dụng. Các tiêu chuẩn về môi trường được áp dụng trong chính sách tín dụng của Ngân hàng trong năm qua và đẩy mạnh hơn trong giai đoạn 5 năm tiếp theo.Với định hướng tích hợp Môi trường – Xã hội – Quản trị (ESG) trong chiến lược của MB, các vấn đề liên quan tới biến đổi khí hậu, an ninh mạng, hay nâng cấp trải nghiệm khách hàng là những vấn đề nổi cộm cần được đặc biệt quan tâm. Trước tình trạng môi trường đang bị tàn phá nghiêm trọng, MB nhận định rủi ro biến đổi khí hậu và những rủi ro chuyển đổi khác liên quan (ví dụ như thay đổi chính sách, quy định của Nhà nước nhằm thực hiện cam kết Net Zero) có thể làm gia tăng các rủi ro tín dụng, rủi ro hoạt động, v.v. Do vậy, MB định hướng thực hiện nghiên cứu xây dựng các chính sách, giải pháp nhằm kiểm soát những rủi ro nói trên, chủ động nghiên cứu những giải pháp đo lường và giảm phát thải khí nhà kính.Đối với hoạt động kinh doanh, MB xác định \"Khách hàng là trọng tâm\" là kim chỉ nam cho MB trong việc Phát triển bền vững hướng tới xã hội, phù hợp với mục tiêu số 11 của Liên hiệp quốc. Trong năm qua, song song với các hoạt động nâng cao năng lực chuyển đổi số, đảm bảo phát triển một hệ sinh thái tiện ích an toàn, hiệu quả, MB đã bắt đầu thực hiện",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.777029,
+        "G10": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "G10"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 2,
+        "G10": 1
+      }
+    },
+    {
+      "paragraph_id": 738,
+      "text": "Trong bối cảnh tình hình tội phạm tài chính ngày càng có xu hướng gia tăng, các cơ quan quản lý trong nước và quốc tế đã/đang đưa ra các yêu cầu ngày càng khắt khe, buộc các TCTD phải tuân thủ nhằm đảm bảo an toàn cho hệ thống tài chính và giao dịch của khách hàng, MB là một trong số ít các Ngân hàng tại Việt Nam tiên phong triển khai Dự án Phòng chống tội phạm tài chính một cách đồng bộ và toàn diện, kết hợp đồng thời giữa tư vấn phương pháp luận và phát triển phẩn mềm để thiết lập, hoàn thiện khung quản trị rủi ro vững chắc, đảm bảo quản trị hiệu quả được 02 nhóm tội phạm tài chính điển hình là Gian lận và Rửa tiền. Trong năm 2022, cùng đối tác tư vấn có năng lực, kinh nghiệm triển khai quốc tế, MB đã/ đang phát triển từng phần Hệ thống phòng chống gian lận, phòng chống rửa tiền toàn diện; giúp tự động hóa quá trình giám sát, phát hiện rủi ro nhanh hơn, chính xác hơn, đảm bảo an toàn cho tiền/ tài sản của Khách hàng và Ngân hàng.Các mảng rủi ro trọng yếu khác cũng được MB xây dựng thiết lập các mô hình quản lý, đo lường rủi ro chặt chẽ, thúc đẩy các chương trình củng cố và tăng cường thanh khoản đảm bảo an toàn hoạt động; tiến hành kiểm tra sức chịu đựng (stress testing)",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "paragraph_id": 934,
+      "text": "nghiệp vụ tín dụng của MB luôn gắn với việc thẩm định dự án, phương án vay vốn với vấn đề đảm bảo môi sinh, môi trường dựa trên các tiêu chí về đánh giá năng lực của doanh nghiệp trong việc quản lý rủi ro môi trường - xã hội và tính pháp lý của dự án liên quan đến đánh giá tác động môi trường, các biện pháp bảo vệ và phụ c hồi, ứng phó sự cố môi trường, đảm bảo tuân thủ các quy định về tiêu chuẩn công nghệ trên cơ sở chứng nhận của cơ quan Nhà nước có thẩm quyền để nhằm hạn chế/kiểm soát các dự án có khả năng ảnh hưởng đến môi trường - xã hội.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 986,
+      "text": "Các công nghệ giám sát an ninh mạng, đánh giá an ninh mạng, đảm bảo an ninh mạng và bảo mật thông tin khách hàng luôn được MB chú trọng đầu tư, triển khai và vận hành hiệu quả như: hệ thống giám sát tập trung an ninh mạng (SOC, Threat Intelligence, v.v.); hệ thống quản lý, kiểm soát truy cập đặc quyền tập trung (PIM); công cụ và các chương trình đánh giá an ninh mạng cả từ bên trong và bên ngoài (Red Team; Blue Team); các công cụ đảm bảo, kiểm soát an ninh mạng; công cụ bảo mật mã hóa dữ liệu, thông tin khách hàng, phân loại bảo mật dữ liệu toàn hàng và kiểm soát phòng chống thất thoát dữ liệu theo phân loại",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 6
+      }
+    },
+    {
+      "paragraph_id": 1661,
+      "text": "[TABLE] [CONTEXT] section: Chương 5 : Chuyển mình kiến tạo giá trị bền vữn g [ROWS] Với tinh thần tôn trọng – lắng nghe – hợp tác – cùng phát triển, MB luôn chú trọng việc tiếp nhận quan điểm và kỳ vọng của các bên liên quan, bao gồm Nhà cung cấp/Đối tác, Cộng đồng, Cổ đông/Nhà đầu tư, Người lao động, Chính phủ và các Hiệp hội ngành, Khách hàng/Người tiêu dùng. | Cách thức MB phản hồi • Triển khai lựa chọn nhà cung cấp/đối tác trên cơ sở thượng tôn Pháp luật, đảm bảo công bằng, minh bạch, thống nhất với quy chế, quy trình củ a MB • Thẳng thắn đối thoại, hướng đến xây dựng các mối quan hệ hợp tác bền vững cùng ph át triển | • Thường xuyên tham gia vào các hội nhóm trong cộng đồng để tìm hiểu kỹ hơn và thu th ập các thông tin cần thiết • Chủ động tìm các cách thức tiếp cận mới trong cộng đồng | • MB là tổ chức niêm yết, luôn nghiêm túc thực hiện các quy định về công bố thông tin, hướng đến các hoạt động quan hệ nhà đầu tư theo hướng chủ động, hiệu quả • Trong mô hình tổ chức của Văn phòng HĐQT MB, Phòng Quản lý cổ đông và Bộ phận IR được thiết lập với chức năng quản lý thông tin, tiếp nhận và kịp thời xử lý các yêu cầu của cổ đông, nhà đầu tư phù hợp quy định pháp luật, chính sách cổ đông của MB • Thực hiện Nghị quyết ĐHĐCĐ, HĐQT đã thông qua việc áp dụng phương thức điện tử trong gửi thông tin cho cổ đông từ năm 2023. Theo đó, các cổ đông sẽ có thể tiếp có thêm các kênh tiếp nhận thông tin từ MB theo hướng số hóa, nhanh chóng, kịp thời (gửi email, tin nhắn, App, v.v.) • Ngoài ra, các quyền lợi cơ bản của cổ đông vẫn được MB quan tâm và duy trì các thông lệ tốt: cơ chế tham dự và thông qua Nghị quyết đối với các vấn đề MB trình tại ĐHĐCĐ, cơ chế kiểm tra, giám sát hoạt động của cổ đông, cơ chế công khai, minh bạch thông tin được HĐQT MB thực hiện nghiêm túc theo quy định | Tổ chức các chương trình đào tạo và xây dựng lộ trình nghề nghiệp cho nhân viên Thực hiện đánh giá, khen thưởng định kỳ 6 tháng/lần các cá nhân có thành tích nổi bật trong hoạt động kinh doanh Kịp thời điều chỉnh chính sách chi trả lương và đãi ngộ cán bộ nhân viên làm việc tại nhà và đảm bảo sức khỏe nhân viên trong đại dịch Covid- 19 Thường xuyên tổ chức các sự kiện nội bộ nhằm tạo môi trường giao lưu, gắn kết cho nhân viên Đo đạc quan trắc môi trường lao động hàng năm và điều chỉnh nhằm đảm bảo sức khỏe và điều kiện làm việc cho nhân viên | • Dự án “Xây dựng mạng xã hội thiện nguyện Việt Nam” của MB đạt giải cao nhất trong cu ộc thi “Sáng kiến vì cộng đồng” lần thứ IV • Tuyển dụng lao động địa phương theo chính sách tuyển dụng lao động của MB • Chiến dịch Cùng MB phủ xanh Việt Nam đã thu hút hơ n 100.000 khách hàng cùng chung tay trồng cây bằng cách đổ i điểm MB Star trên ứng dụng APP MBbank • Tuân thủ quy định pháp luật, chính sách bán hàng đảm bảo hài hòa lợi ích khách hàng và doanh nghiệp Cam kết cung cấp dịch vụ với chất lượng tốt nhất, chi phí cạnh tranh Mỗi nhân viên luôn lắng nghe và sẵn sàng đáp ứng nhu cầu khách hàng Tri ân khách hàng qua c ác hội nghị khách hàng, chương trìn h khuyến mại, c hính sách ưu đãi kết hợp với đối tác tin cậy dành riêng cho khách hàng MB Có cơ chế giải quyế t khiếu nại [ROW] Mối quan tâm chính • Đảm bảo chất lượng sản phẩm, dịch vụ cung ứn g. • Tôn trọng lợi ích các bên MB tin rằng phương pháp đối thoại và cộng tác mang tính xây dựng với các bên liên quan giúp MB tạo dựng cũng như duy trì mối quan hệ gắn kết bền chặt và cùng có lợi. Sự đồng hành, tương tác thường xuyên của các bên liên quan giúp MB nắm bắt và ứng phó kịp thời với các biến động trên thị trường. | • Duy trì mối quan hệ hợp tác lâu dài • Tính chính xác và chân thực của các hội, nhóm trong cộng đồ ng • Có vai trò quan trọng về quyền và nghĩa vụ để Cùng phát triển và tạo sức mạnh cho cộng đồng như ngày càng Có nhiều hoạt động thiện nguyện diễn ra để cải thiện những khó khăn trong cuộc sống, giúp những trường hợp khó khăn, chính sách hòa nhập vào cộng đồng và góp vào sự phát triển | chung của đất nước • Thông tin minh bạch • Đảm bảo quyền lợi công bằng, bìn h đẳng giữa các cổ đông • Hoạt động kinh doanh hiệu quả, tăng trưởng bền vững, tạo thu nhập bền vững và dòng cổ tức ổn định, phân phối hợp lý tài sản và nguồn lực, bảo toàn chất lượng tài sản, lập kế hoạch thanh khoản và quản lý rủi ro, chi phí một cách thận trọng • Lồng ghép tính bền vững vào hoạt động cho vay và đầu tư • Đón đầu trong sự cạnh tranh mớ i nổi trong chuyển đổi số | • Môi trường làm việc an toàn • Chính sách đãi ngộ • Cơ hội thăng tiến • Mối quan hệ nhân viên • • | • • • • Thực hiệ n đường lối, chính sách, chủ trương của Chính phủ • Chung tay cùng các cơ quan ban ngành thực hiện các chính sách hỗ trợ phát triển kinh tế, cộng đồng | • Chất lượng, sự thân thiện, dễ tiếp cận, hướng tới cộng đồng của sản phẩm dịch vụ • Chi phí hấp dẫn • Đa dạng sản phẩm dịch vụ cho từng phân khúc • Quan hệ khách hàng tốt • Thông tin minh bạch • Bảo mật an toàn thông tin khách hàng • • • • [ROW] Thực tế thực hiện thông tin và trao đổi Hồ sơ mời thầu, họp trực tiếp, trao đổi qua email, điện Đánh giá NCC theo các quy định tại HSYC và đánh giá NCC sau sử dụng sản phẩm, dịch vụ (định kỳ hoặc theo • Tổ chức các đợt mời thầu cho các sản phẩm, dịch vụ của MB • Liên kết, sử dụng sản phẩm, dịch vụ từ 45 NCC thường xuyên theo HĐNT. • Định kỳ đánh giá sau sử dụng về chất lượng cung cấp dịch vụ của các bên | • Thực tế thực hiện thông tin và trao đổi khi tham gia trực tiếp chương trình của các Hội, nhóm trong cộng đồng và nghiêm túc thực hiện các định hướng, chiến lược, chính sách quy địn h chung về Quỹ ASXH | • Trao đổi bắt buộc: - 140 văn bản công bố thông tin trên thị trườn g chứng khoán - Thường xuyên trả lời các giải đáp thắc mắc của nhà đầu tư trong và ngoài nước qua các hình thức email, điện thoại, gặp gỡ trực tiếp và trực tuyến (Teams, Zoom, v.v.) • Trao đổi chủ động: - Thực hiện công bố thông tin của ngân hàng song ngữ (Báo cáo tài chính Quý, Báo cáo thường niên, Điều lệ, các tài liệu Đại hội cổ đông, v.v.) - Cải tiến và cập nhật thường xuyên các phân tích kết quả kinh doanh của MB tại IR pack - Tổ chức gặp gỡ hàng trăm lượt đại diện của trên 50 quỹ đầu tư dưới hình thức trực tiếp và trực tuyến - Tổ chức thành công hội nghị trực tuyến nhà đầu tư cập nhật kết quả kinh doanh kỳ 6 tháng đầu năm dưới sự chủ trì của Tổng Giám đốc | • Tổ chức Hội nghị người lao động thường niên • Thực hiện khảo sát hài lòng và gắn kết năm 2022: 91% cán bộ nhân viên th am gia khảo sát hài lòng về chính sách của MB | • Nghiêm túc thực hiện các định hướng, chiến lược của Chính phủ, Ngân hàng nhà nước | • Xây dựng các sản phẩm, dịch vụ, đáp ứng đa dạng nhu cầu của khách hàng, ra mắt các sản phẩm chiến dịch xanh hướng tới giá trị cộng đồng • Đẩy mạnh giao dịch số hóa bằng việc liên tục xây dựng, liên tục tinh chỉnh, ra mắt các tính năng mới trên hệ sinh thái số APP MBbank và BIZ MBBank • Áp dụng thành công, hiệu quả kênh đánh giá chất lượng dịch vụ của khách hàng sau giao dịch ngay trên APP MBbank • Nâng cấp thành công hệ thống corebanking T24 lên phiên bản R20 TAFJ sẵn sàng hạ tầng phục vụ cho 30 triệu khách hàng; Tích cực ứng dụng và phát triển các công nghệ mới như: RPA, MBot trong cải tiến quy trình tăng chất lượng trải nghiệm của khách hàng, rút ngắn thời gian giao dịch [ROW] Cách tiếp cận • thoại, v.v. Gắn kết các bên hữu quan | Nhà cung cấp/ đốitác • Hợp đồng dịch vụ • thời hạn hợp đồng) Cộng đồng • Qua văn bản hoặc làm việc trực tiếp • Tiếp cận dựa trên nhu cầu và nguồn lực sẵn có, hỗ trợ cộng đồng và có cơ hội tiếp cận với một số ph ươ ng pháp mới trong lĩnh vực phát triển cộng đồng là hết sức cần thiết và có ý nghĩa quan trọng | Cổ đông/ nhàđầu tư • Văn bản công bố thông tin trên thị trường chứng khoán • Các kênh trao đổi qua gặp gỡ trực tiếp và trực tuyến • Tích cực, chủ động tham gia các sự kiện, hội thảo lớn do các đơn vị uy tín tổ chức (Hội thảo Vietnam Access Day, Corporate Access Day do SSI, HSC tổ chức, Hội th ảo của Credit Suisse, JP Mo rgan, UBS) • Đầu mối phối hợp với các công ty chứng khoán hàng đầu bao gồm Vietcapital, SSI, HSC, VnDirect, MBS, Maybank KimEng, Credit Suise, UBS, v.v. tiếp xúc với các nhà đầu tư theo nhóm, các sự kiện nhóm lớn (large cap tour) với sự tham gia của đại diện các Khối QTRR, Khối đầu tư, Khối Tài chính Kế toán (theo phê duyệt khung của Tổng Giám đốc) • Analyst Meeting do Tổng Giám đốc chủ trì | Người lao động • Khảo sát, tiếp nhận ý kiến của nhân viên về môi trườ ng làm việc, chế độ phúc lợi, làm việc và các chính sách khác thông qua các kênh trực tiếp, gián tiếp • Hội nghị người lao động hàng năm • Tổ chức các hoạt động sự kiện nội bộ vào các dịp lễ, Tết, ngày kỷ niệm, v.v. | Chính phủ và các hiệp hội • Tham gia các Hội n ghị, Hội thảo do Chính phủ, Ngân hàng n hà nước, Bộ ban ngành tổ chức, tham gia các diễn đàn trao đổi của Hiệp hội ngành | ngành Khách hàng/ người ti êu dùng • Xây dựng đội ngũ nhân viên chăm sóc khách hàng trực tiếp và gián tiếp lin h hoạt tại điểm giao dịch, điểm tự phục vụ MB MB Smartbank, kênh bán hàng online để phục vụ mọi loại hình khách hàng • Tiếp nhận phản hồi và khảo sát thị hiếu khách hàng qua đội ngũ nhân viên, các kênh phản hồi tổng đài MB 24/7. e mail doanh nghiệp, APP MBbank, Mạng xã hội, Chợ ứng dụng, Chợ online",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1664,
+      "text": "[TABLE] [CONTEXT] section: GRI 1: Nguyên tắc chung 2021 ; column_headers: Số trang | 102-103 | 88-89 | 156-159 | 104 | 117 | 8-910-11 | 142-143 | 144-145 | 132-137168-170 | 65 | 136 [ROWS] Số trang | 102-103 | 88-89 | 156-159 | 156-159 | 156-159 | 104 | 156-159 | 117 | 8-910-11 | 142-143 | 144-145 | 144-145 | 132-137168-170 | 65 | 136 [ROW] Lĩnh vực trọng yếu tương ứng | Quản trị | Quản trị | Quản trị | Quản trị [ROW] Mục tham chiếu theo báo cáo thường niên | Chươ ng 4 - Đề cử và lựa chọn quản lý cấp cao | Chươ ng 4 - Hội đồng quản trị | Chươ ng 5 - Quản trị Phát triển bền vững | Chươ ng 5 - Quản trị Phát triển bền vững | Chươ ng 5 - Quản trị Phát triển bền vững | Chươ ng 4 - Quản lý xung đột lợi ích | Chươ ng 5 - Quản trị Phát triển bền vững | Chươ ng 4 - Tiền lương, thù lao và các khoản lợ i ích đối với Hội đồng quản trị, Ban Kiểm soát, Cơ quan Kiểm toán | Thông điệp của Chủ tịch Hội đồng Quản trịThông điệp của Phó Chủ tịch Hội đồng Quản trị kiêm Tổng Giám đốc Chươ ng 5 - Thông điệp về Phát triển bền vững | Chươ ng 5 - Cam kết về Phát triển bền vững | Chươ ng 5 - Cam kết về Phát triển bền vững | Chươ ng 4 - Báo cáo hoạt động KSNB và tuân thủChươ ng 5 - Phản hồi từ khách hàng đối vớ i chuyển đổi số | Chươ ng 3 - Quy trình khiếu nại, tố cáo | Chươ ng 4 - Hoạt động Kiểm soát tuân thủ 2022MB về cơ bản tuân thủ quy định của Pháp luật, NHNN và quy định nội bộ, không phát sinh các trường hợp trọng yếu. [ROW] Tên yêu cầu công bố thông tin | 2-10 Đề cử và lựa chọn quản lý cấp cao | 2-11 Người đứng đầu tổ chứ c | 2-12 Vai trò của cấp quản lý cao nhất trong giám sát việc quản lý các tác động | 2-13 Phân công trách nhiệm quản lý tác động | 2-14 Vai trò của cấp quản lý cao nhất trong báo cáo PTBV | 2-15 Xung đột lợi ích | 2-18 Đánh giá hiệu quả hoạt động của cấp quản lý cao nhất | 2-19 Chính sách về th ù lao | 2-22 Tuyên bố về chiến lược PTBV | 2-23 Cam kết chính sách | 2-24 Triển khai các cam kế t chính sách | 2-25 Quy trình khắc phục tác động tiêu cực | 2-26 Cơ chế tham vấn và báo c áo các mối qu an ngại | 2-27 Tuân thủ luật pháp và quy định [ROW] Tiêu chuẩn GRI | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | GRI 2: Công bố th ông tin th eo tiêuq chuẩn chung 2021 | GRI 2: Công bố th ông tin th eo tiêu chuẩn chung 2021 | GRI 2: Công bố th ông tin th eo tiêu chuẩn chung 2021 | GRI 2: Công bố th ông tin th eo tiêu chuẩn chung 2021 | GRI 2: Công bố th ông tin th eo tiêu chuẩn chung 2021",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1665,
+      "text": "[TABLE] [CONTEXT] section: GRI 1: Nguyên tắc chung 2021 [ROWS] Lĩnh vực trọng yếu tương ứng Số trang | Chống biến đổi khí hậu và Chiến lược “Net-zero” 23 | Chống biến đổi khí hậu và Chiến lược “Net-zero” 23 | 23 181 181 181 181 181 [ROW] Mục tham chiếu theo báo cáo thường niên | Chương 1 - Địa bàn kinh doanh Các tòa nhà, địa điểm thuộc hoạt động của MB được đặt tại các kh u vực đông dân cư, không nằm trong hoặc liền kề với các kh u bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các | khu bảo tồn. Chương 1 - Địa bàn kinh doanh Các tòa nhà, địa điểm thuộc hoạt động của MB được đặt tại các kh u vực đông dân cư, không nằm trong hoặc liền kề với các kh u bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các | khu bảo tồn. Chương 1 - Địa bàn kinh doanh Các tòa nhà, địa điểm thuộc hoạt động của MB được đặt tại các kh u vực đông dân cư, không nằm trong hoặc liền kề với các kh u bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn. Chống biến đổi khí hậu và Chiến lược “Net-zero” Chương 5 - Quản lý rác thải MB không có hệ thống xử lý rác thải nội bộ, MB ký hợp đồng vớ i đơn vị có chức năng chuyên về xử lý môi trườn g, rác thải được gom tập chung rồi chuyển đi xử lý trong ngày. Chống biến đổi khí hậu và Chiến lược “Net-zero” Chương 5 - Quản lý rác thải MB không có hệ thống xử lý rác thải nội bộ, MB ký hợp đồng vớ i đơn vị có chức năng chuyên về xử lý môi trường, rác thải được go m tập chung rồi chuyển đi xử lý trong ngày. Chống biến đổi khí hậu và Chiến lược “Net-zero” Chương 5 - Quản lý rác thải Chống biến đổi khí hậu và Chiến lược “Net-zero” Chương 5 - Quản lý rác thải MB không có hệ thống xử lý rác thải nội bộ, MB ký hợp đồng vớ i đơn vị có chức năng chuyên về xử lý môi trường, rác thải được go m tập chung rồi chuyển đi xử lý trong ngày. Chống biến đổi khí hậu và Chiến lược “Net-zero” Chương 5 - Quản lý rác thải MB không có hệ thống xử lý rác thải nội bộ, MB ký hợp đồng vớ i đơn vị có chức năng chuyên về xử lý môi trường, rác thải được go m tập chung rồi chuyển đi xử lý trong ngày. Chống biến đổi khí hậu và Chiến lược “Net-zero” [ROW] Tên yêu cầu công bố thông tin | 304-2 Tác động trọng yếu của các hoạt động, sản phẩm và dịch vụ đối với đa dạng sinh học | 304-3 Mô i trườn g sống được bảo vệ hoặc | 304-4 Các loài trong danh sách đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trườ ng sống trong các khu vực bị ảnh hưởng bởi các hoạt động 306-1 Rác thải và các tác động nghiêm trọng liên quan đến rác thải 306-2 Quản lý các tác động nghiêm trọng liên quan đến rác thải 306-4 Thay đổ i phương pháp xử lý rác thải 306-5 Chôn/Thải bỏ rác [ROW] phục hồi | 306-3 Lượn g rác thải thải [ROW] Số trang Tiêu chuẩn GRI | 162-163 GRI 3 00: Tiêu chuẩn về môi trường | 162-163 GRI 3 00: Tiêu chuẩn về môi trường | 178-180 178-180 178-180 178 178 178 178 178 23 GRI 3 00: Tiêu chuẩn về môi trường GRI 3 00: Tiêu chuẩn về môi trường GRI 3 00: Tiêu chuẩn về môi trường GRI 300: Tiêu chuẩn về môi trường GRI 3 00: Tiêu chuẩn về môi trường GRI 3 00: Tiêu chuẩn về môi trường [ROW] Mục tham chiếu theo báo cáo thường niên Lĩnh vực trọng yếu tương ứng | Quản trị | Quản trị | Chống biến đổi khí hậu và Chiến lược “Net-zero” Chống biến đổi khí hậu và Chiến lược | “Net-zero” Chống biến đổi khí hậu và Chiến lược | “Net-zero” Chống biến đổi khí hậu và Chiến lược “Net-zero” | Chống biến đổi khí hậu và Chiến lược “Net-zero” | Chống biến đổi khí hậu và Chiến lược “Net-zero” | Chống biến đổi khí hậu và Chiến lược “Net-zero” | Chống biến đổi khí hậu và Chiến lược “Net-zero” | Chống biến đổi khí hậu và Chiến lược “Net-zero” [ROW] Tên yêu cầu công bố thông tin | 205-2 Truyền thông và đào tạo về các chính sách và quy trình phòng chống tham nhũng Chươ ng 5 - Hoạt động Chống tham nhũng | 205-3 Các sự cố th am nhũng đã được xác nhận và biện ph áp khắc phục Chươ ng 5 - Hoạt động Chống tham nhũngMB hiện chưa ghi n hận các sự cố tham nhũng. | 302-1 Tiêu thụ năng lượng trong tổ chức Chươ ng 5 - Tiêu thụ năng lượng và tài nguyên thiên nhiên | Chươ ng 5 - Tiêu thụ năng lượng và tài nguyên thiên nhiên Chươ ng 5 - Tiêu thụ năng lượng và tài nguyên thiên | nhiên 303-1 Sử dụng nước như một nguồn tàinguyên chung Chươ ng 5 - Tiêu thụ nước | 303-2 Quản lý các tác độ ng liên quan đến xả th ải n ước Chươ ng 5 - Tiêu thụ nước | 303-3 Nguồn cung cấp nước Chươ ng 5 - Tiêu thụ nước MB chỉ thực hiện lấy nước từ 01 nguồn duy nhất là nguồn nước sạch của thành phố. | 303-4 Xả thải nước Chương 5 - Tiêu thụ nước MB xả thải nước vào hệ thống chung của thành phố, do Bộ Tài nguyên và Môi trường cấp phép xả thải | 303-5 Tiêu thụ nước Chươ ng 5 - Tiêu thụ nước | 304-1 Các địa điểm hoạt độ ng thuộc sở hữu, cho th uê, quản lý trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu Chươ ng 1 - Địa bàn kinh doanh Các tòa nhà, địa điểm thuộc hoạt động của MB được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn. [ROW] Tiêu chuẩn GRI | GRI 200: Tiêu chuẩn về kinh tế | về kinh tế | Tiêu chuẩn về kinh tếGRI 300: Tiêu chuẩn về môi trường 3l | 302-3 Đo lường việc sử dụng năng lượng 302-4 Tiết kiệm tiêu thụ | năng lượng | bảo tồn [ROW] GRI 200: Tiêu chuẩn | GRI 300: Tiêu chuẩn về môi trường | GRI 300: Tiêu chuẩn về môi trường GRI 300: Tiêu chuẩn về môi trường | GRI 300: Tiêu chuẩn về môi trường | GRI 300: Tiêu chuẩn về môi trường | GRI 300: Tiêu chuẩn về môi trường | GRI 300: Tiêu chuẩn về môi trường | GRI 3 00: Tiêu chuẩn về môi trường",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E_COMMON": 6
+      }
+    }
+  ]
+}

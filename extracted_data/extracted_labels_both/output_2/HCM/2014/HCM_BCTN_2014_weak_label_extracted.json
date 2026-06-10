@@ -1,0 +1,81 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "P m P HSC cam kết thực hiện việc phòng chống rửa tiền theo tiêu chuẩn cao nhất. Các thành viên HĐQT và toàn thể nhân viên được yêu cầu tuân thủ nghiêm ngặt các tiêu chuẩn này nhằm bảo vệ Công ty cũng như danh tiếng của Công ty khỏi hoạt động rửa tiền và các hoạt động phạm pháp khác.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Các chính sách Quản trị rủi ro liên quan trong quy trình tư vấn trên bao gồm: Chính sách Nhận diện và Báo cáo rủi ro, Chính sách kiểm soát gian lận, Chính sách giao dịch trên tài khoản cá nhân, Chính sách Kiểm soát Giao dịch nội gián và Chính sách về Xung đột lợi ích.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G10": 0.5,
+        "G11": 1.0
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 1,
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

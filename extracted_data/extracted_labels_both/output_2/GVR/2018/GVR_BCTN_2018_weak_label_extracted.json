@@ -1,0 +1,62 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Bên cạnh đó, Tập đoàn cũng luôn tìm hiểu và chia sẻ về vật chất lẫn tinh thần cho những cán bộ công nhân viên có hoàn cảnh khó khăn nhằm kịp thời động viên và khuyến khích tinh thần vượt khó của người lao động. Các hoạt động quyên góp, thiện nguyện cũng được Tập đoàn phát động thường xuyên nhằm động viên, san sẻ gánh nặng, hỗ trợ những mảnh đời bất hạnh, kém may mắn, những hoàn cảnh khó khăn, cơ cực. Vào những dịp Lễ, Tết Nguyên đán, Tết Trung thu, ngày Quốc tế phụ nữ, ngày Phụ nữ Việt Nam, Tập đoàn tổ chức gặp mặt, trao tặng các phần quà và tiền mặt cho cán bộ công nhân viên cũng như cho các con em của người lao động có thành tích cao trong lao động và học tập. Tổ chức những hoạt động văn nghệ, thể thao và các hoạt động tham quan du lịch nhằm nâng cao tinh thần đoàn kết, giải trí, nghỉ ngơi cho người lao động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Giảm dần mức tiêu phí năng lượng, tiếp tục có giải pháp tiết kiệm nhiên liệu điện, nước và không sử dụng hóa chất, cải thiện các chỉ tiêu chất lượng, ổn định chất lượng và có thể chủ động kiểm soát các thông số theo yêu cầu của khách hàng, tăng cường sử dụng năng lượng mặt trời đối với các nhà máy chế biến mủ cao su và các nhà máy có điều kiện ứng dụng năng lượng sạch khác. Thực hiện giảm thiểu, tái chế, tái sử dụng chất thải. Cải tiến quy trình quản lý, ứng dụng và chuyển sang các công tiên tiến. Tăng cường sử dụng các nguyên vật liệu, năng lượng tái tạo, sản phẩm thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Kiểm soát đánh đông giảm nồng độ ô nhiễm trong nguồn thải bằng điều chỉnh pH và thời gian để mủ đông tụ hoàn toàn. Sử dụng lưới chắn nhiều lớp, vớt mủ thường xuyên từ nguồn phát sinh đến đầu vào hệ thống xử lý nước thải. Tận dụng hồ chứa nước thải, bể gạn để mủ trong nước thải có đủ thời gian đông tụ tự nhiên trước khi chế biến làm tăng các chỉ số Po, PRI và Mooney. Giảm sử dụng hóa chất chất trong xử lý nước thải giúp công ty tiết giảm chi phí và góp phần bảo vệ môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

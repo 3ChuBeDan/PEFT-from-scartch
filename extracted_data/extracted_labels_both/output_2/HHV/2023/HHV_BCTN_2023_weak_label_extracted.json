@@ -1,0 +1,42 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Công ty luôn chú trọng đến công tác bảo vệ môi trường, định kỳ hàng năm đều thực hiện ký hợp đồng với các cơ quan chuyên môn để thực hiện công tác quan trắc môi trường với chi phí quan trắc môi trường trung bình 1 tỷ/năm/3 hầm. Kết quả quan trắc đều nằm trong giới hạn cho phép. Tại các dự án công trường của Công ty, hoạt động thi công xây lắp các dự án không tạo ra các chất thải nguy hại đối với môi trường xung quanh. Các trang thiết bị phục vụ hoạt động được bảo trì, bảo dưỡng thường xuyên, đảm bảo phát sinh tiếng ồn ở mức tối thiểu, duy trì môi trường làm việc an toàn, thoải mái cho người lao động và hạn chế tối đa ảnh hưởng đến dân cư lân cận.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Đối với chất thải rắn, chất thải nguy hại chủ yếu tại các hầm đường bộ: Công ty đã ký hợp đồng với cơ quan chuyên ngành để phân loại, thu gom và có nhân viên xử lý theo đúng quy trình. Khối lượng chất thải nguy hại lắng đọng tại các bể chứa trong quá trình quản lý vận hành các dự án hầm đường bộ trung bình là 25 tấn/năm/3 hầm. Chi phí xử lý chất thải nguy hại trung bình 210 triệu đồng/năm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    }
+  ]
+}

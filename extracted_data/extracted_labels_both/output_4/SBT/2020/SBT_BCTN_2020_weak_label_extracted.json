@@ -1,0 +1,230 @@
+{
+  "extracted_count": 12,
+  "extracted": [
+    {
+      "paragraph_id": 905,
+      "text": "Đặc biệt trong các tình huống có xung đột lợi ích, đảm nhận vai trò của người giám sát khách quan phù hợp đối với các hoạt động của Ban điều hành, bao gồm việc cân bằng và ngăn ngừa những xung đột lợi ích, góp phần bảo vệ lợi ích chính đáng của Cổ đông, đặc biệt là các Cổ đông nhỏ lẻ.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 2563,
+      "text": "Hiện tại Công ty quản lý dữ liệu quan trắc khí thải Lò hơi tự động, liên tục trên phần mềm trực tuyến. Các Nhà máy Đường của Công ty đều được xây dựng hệ thống xử lý khí thải, đạt yêu cầu của Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp đối với bụi và các chất vô cơ theo Quy chuẩn Việt Nam 19:2009/BTNMT và các quy định khác theo Luật Môi trường. Đồng thời, nhằm giám sát chất lượng khí thải, các Nhà máy được trang bị hệ thống quan trắc khí thải theo đúng quy định của Thông tư 10/2021/TT-BTNMT Quy định về kỹ thuật quan trắc môi trường và quản lý thông tin, dữ liệu quan trắc chất lượng môi trường. Dữ liệu quan trắc được gửi trực tiếp đến Sở Tài nguyên Môi trường của từng địa phương. Trong NĐ 2020-2021, Công ty đã quản lý tốt phát thải trong quá trình sản xuất, không có vi phạm nào được phát hiện trong năm.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.20767,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 2565,
+      "text": "Hầu hết lò hơi của các Nhà máy chủ yếu sử dụng nhiên liệu Sinh khối chủ yếu là Bã Mía, Biomass,... thay cho Than đá, nhờ vậy hạn chế được đáng kể Phát thải nhà kính. Mặt khác, công nghệ sản xuất Đường tinh luyện của Công ty áp dụng công nghệ Cacbonat hóa, nghĩa là sử dụng CO 2 và vôi trong quy trình sản xuất nhằm loại bỏ tạp chất. Do đó, lượng khí CO 2 sinh ra trong quá trình đốt lò hơi sẽ được trích thu về và tái sử dụng vào sản xuất. Ước tính tỷ lệ trích thu này khoảng 9-12% tổng lượng khói phát thải ra ngoài môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 2566,
+      "text": "Là một doanh nghiệp sản xuất, TTC Biên Hòa luôn ý thức cao vấn đề bảo vệ môi trường thông qua hành động thiết thực Công ty có chủ trương tái sử dụng chất thải phát sinh trong quá trình sản xuất tạo ra để bảo vệ môi trường, gia tăng giá trị và giảm giá thành sản phẩm. Đồng thời, quản lý Nước thải và Chất thải trên cơ sở tổng Nước thải theo chất lượng, địa điểm thải và tổng lượng Chất thải theo loại và phương pháp xử lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 2567,
+      "text": "TTC Biên Hòa đề ra các KPI về quản lý chất thải và thực hiện đánh giá nội bộ 1 lần/năm. Trong NĐ vừa qua, không có vi phạm nào về việc quản lý Chất thải và Nước thải được phát hiện. Công ty quản lý Nước thải và Chất thải theo các Quy chuẩn sau:",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 2638,
+      "text": "Đặc biệt, người thân CBNV Việt Nam đang làm việc tại Lào và Campuchia (tứ thân phụ mẫu, vợ chồng, con) dương tính với Covid-19, Công ty sẽ có chính sách hỗ trợ phù hợp nhằm động viên tinh thần CBNV yên tâm công tác. Chính sách hỗ trợ sẽ được xem xét cụ thể theo từng đối tượng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 2645,
+      "text": " Bậc 11 trở lên: người thân bao gồm tứ thân phụ mẫu, vợ chồng, con cái, anh chị em ruột, ông/bà nội ngoại  Trường hợp còn lại: người thân gồm tứ thân phụ mẫu, vợ chồng, con cái",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 2665,
+      "text": "Định kỳ hàng năm, Công ty đều phối hợp với cơ quan chức năng để tiến hành quan trắc môi trường làm việc, kiểm tra nồng độ bụi, tiếng ồn, độ rung,... để có căn cứ nghiên cứu và trang bị bổ sung thêm đồng phục, thiết bị bảo hộ cho nhân viên nhằm hạn chế ảnh hưởng môi trường đến sức khỏe người lao động, đồng thời đưa ra những giải pháp cải thiện, bổ sung thêm trang bị bảo hộ lao động cho Nhân viên nhằm hạn chế những tác động của Môi trường đến sức khỏe của người lao động.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 3206,
+      "text": "[TABLE] [CONTEXT] section: Chuỗi giá trị sẽ hình thành trong tương lai gần: ; column_headers: Sản phẩm | Thông tin [ROWS] Sản phẩm | Thông tin [ROW] NƯỚC MÍA MÍAHA | Phát triển mở rộng các dòng sản phẩm nước Mía với nhiều hương vị mới ngoài 3 hương vị hiện tại. [ROW] POLICOSANOL | Chiết suất Policosanol từ Mía có giá trị dược phẩm cao. [ROW] SIRO HƯƠNG | Phát triển các dòng đường lỏng hương phục vụ kênh tiêu dùng và Horeca. [ROW] PHÂN VI SINH | Phát triển thêm các dòng phân vi sinh Organic, và các dòng phân hữu cơ phục vụ sản xuất nông nghiệp. [ROW] BAO BÌ SẢN PHẨM | Thay đổi/bổ sung các quy cách bao bì cho sản phẩm nhằm tối ưu hóa chi phí, tạo sự tiện dụng trong vận chuyển, lưu trữ, cũng như thu hút người tiêu dùng. [ROW] SẢN PHẨM ĐƯỜNG THẾ HỆ MỚI | Phát triển các dòng Đường ăn kiêng, Đường năng lượng thấp, Đường Low GI nhằm tiếp tục đa dạng hóa các dòng sản phẩm của TTC Biên Hòa. [ROW] CỒN | Trong chiến lược mở rộng thị phần Đông Dương, TTC Biên Hòa sẽ khởi động nhà máy KVCL ở Campuchia với khu phức hợp đường, cồn, điện, với dòng cồn nhiên liệu và cồn thực phẩm với công suất 30.000 lít/ngày. [ROW] PHÂN HỮU CƠ ORGANIC | Dòng sản phẩm phân bón Organic cho vùng nguyên liệu Mía TTC Attapeu và cung cấp cho thị trường. [ROW] HỘP GIẤY, ỐNG HÚT TỪ BÃ MÍA | Xu thế thị trường là cho ra các dòng sản phẩm xanh và thân thiện với môi trường, giảm phát thải nhựa. [ROW] VIÊN NÉN BÃ MÍA | Dòng sản phẩm viên nén Cellulose làm nguyên liệu đốt. [ROW] THAN HOẠT TÍNH TỪ BÃ MÍA | Ngoài chức năng làm nguyên liệu đốt, bộ phận R&D của TTC Biên Hòa đang nghiên cứu và hoàn thiện phương án sản xuất than hoạt tính từ bã Mía vừa áp dụng cho quy trình sản xuất đường hiện hữu và bán ra thị trường. [ROW] SÁP MÍA | Hoạt chất Octacosanol có trong Mía có tác dụng dược phẩm đã được thế giới công nhận, việc hoàn thiện cộng nghệ sản xuất để cho dòng sản phẩm từ thiên nhiên phục vụ cho sức khỏe con người đang là một trong nhưng đề tài quan trọng được đưa ra trong chiến lược phát triển của TTC Biên Hòa.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 3213,
+      "text": "[TABLE] [CONTEXT] section: ẢNH HƯỞNG VỀ KẾT QUẢ TÀI CHÍNH VÀ CÁC RỦI RO/CƠ HỘI DO BIẾN ĐỔI KHÍ HẬU ; column_headers: Tên gọi | Các tác động đến kinh tế do rủi ro/ cơ hội mang lại | Ảnh hưởng về mặt tài chính trước khi áp dụng biện pháp quản lý | Biện pháp quản lý rủi ro/cơ hội [ROWS] Tên gọi | Các tác động đến kinh tế do rủi ro/ cơ hội mang lại | Ảnh hưởng về mặt tài chính trước khi áp dụng biện pháp quản lý | Biện pháp quản lý rủi ro/cơ hội [ROW] RỦI RO [ROW] Gió bão | Làm mía đổ ngã, giảm chất lượng và tăng chi phí thu hoạch mía, tỷ lệ thất thoát mía cao | Tình trạng mía đổ ngã có thể làm giảm năng suất mía 11-15%, giảm CCS 3-12% và giảm năng suất Đường 15-35% | • Trồng mía với độ sâu đảm bảo giảm tỷ lệ đổ ngã • Bổ sung chế phẩm, phân bón kích thích rễ phát triển mạnh, tăng khả năng bám đất, hút dinh dưỡng • Lột lá tạo độ thông thoáng trên đồng ruộng • Chọn giống chống chịu, ít đổ ngã cho vùng bị ảnh hưởng bởi gió bão [ROW] Ngập úng | Ảnh hưởng đến sinh lý của cây mía, làm giảm trọng lượng cây, năng suất mía và tỷ lệ thu hồi đường. | Năng suất giảm 20-25%, giảm trọng lượng cây 23% nếu ngập úng kéo dài | • Quy hoạch, thiết kế đồng ruộng, cải tạo cơ sở hạ tầng, nạo vét mương tiêu, ao chứa nước • Vun luống đối với vùng đất thấp hoặc trồng mới vụ Hè Thu • Chọn giống chịu úng phù hợp vùng đất thường xuyên bị ngập • Giám sát đồng ruộng bằng drone, flycam thường xuyên để kịp thời phát hiện ngập úng nội đồng [ROW] Hạn hán | Mía giảm năng suất | Năng suất giảm 30-50%, đặc biệt vùng duyên hải miền Trung Việt Nam | • Tăng khả năng giữ ẩm đất: Bón gel giữ ẩm, tăng cường phân hữu cơ, giữ lá, cày ngầm,.. • Chọn giống chịu hạn tốt cho từng vùng • Đầu tư áp dụng hệ thống tưới, chính sách phù hợp cho từng vùng • Tận dụng, tưới tiết kiệm, tích trữ đối với vùng nguồn nước hạn chế [ROW] La Nina | Gây ra những hiện tượng thời tiết bất thường, khiến cây mía giảm năng suất thậm chí mất trắng nếu không kịp thời quản lý | Năng suất cây mía giảm từ 10-50% tuỳ theo tác động mà La Nina gây ra đối với địa phương | • Thực hiện các biện pháp theo dõi, giám sát chặt chẽ diễn biến thời tiết và tình hình khí hậu để đánh giá tác động của La Nina. • Đa dạng các giải pháp trước biến động thời tiết: chủ động tưới tiêu, khai thông kênh dẫn nước, phát triển giống chống chịu các dạng thời tiết khắc nghiệt... [ROW] CƠ HỘI [ROW] Ngập úng và hạn hán | Canh tranh giữa cây mía và cây trồng khác | Cây mía có sức chịu đựng tốt hơn so với các cây trồng ngắn ngày khác đối với điều kiện ngập úng và hạn hán. Do đó, các vùng đất hay bị ngập úng và hạn hán thì cây mía có lợi thế cạnh tranh nên phát triển diện tích vùng nguyên liệu tốt | • Tập trung đầu tư các vùng đất khó khăn kèm theo giải pháp như đã đề cập ở phần rủi ro để ổn định vùng nguyên liệu • Các vùng đất thuận lợi ít bị ảnh hưởng bởi thời tiết thì tăng đầu tư thâm canh tăng năng suất, từ đó giúp tối đa lợi nhuận cho Người nông dân.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 4
+      }
+    },
+    {
+      "paragraph_id": 3216,
+      "text": "[TABLE] [CONTEXT] section: Tổng lượng Nước thải theo chất lượng và địa điểm tiếp nhận Nước thải niên độ 2020-2021 ; column_headers: Địa điểm xả thải | 2019-2020 | Phương pháp | xử lý | Chất lượng nước thải đầu ra | Nước thải sử dụng xử lý nước thải đầu ralại bởi tổ chức khác Nhà máy Vị trí NĐ 20192020 NĐ 20202021 % | Vị trí | NĐ 2019-2020 | NĐ 2020-2021 | % [ROWS] Địa điểm xả thải | 2019-2020 | Phương pháp [ROW] Vị trí | NĐ 2019-2020 | NĐ 2020-2021 | % | xử lý | Chất lượng nước thải đầu ra | Nước thải sử dụng xử lý nước thải đầu ralại bởi tổ chức khác Nhà máy Vị trí NĐ 20192020 NĐ 20202021 % [ROW] TTCS | Tây Ninh | 227.050 | 166.714 | (27) | Phương pháp sinh học kết hợp hóa lý | Cột A, QCVN 40:2011/BTNMT | • Tái sử dụng Nước thải sau xử lý cho hệ thống Nước tạo chân không trong Nhà máy Nhà máy tái sử dụng [ROW] Biên Hòa - Ninh Hòa | Khánh Hòa | 138.072 | 216.933 | 57 | Cột B, QCVN 40:2011/BTNMT [ROW] Biên Hòa - Đồng Nai | Đồng Nai | 83.995 | 93.077 | 11 | Cột A, QCVN 40:2011/BTNMT [ROW] TTC-Attapeu: Tưới Mía Khu vực Nông trường cạnh Nhà máy | Lào | 26.599 | 17.387 | (35) | Cột B, QCVN 40:2011/BTNMT [ROW] TTCS Gia Lai | Gia Lai | 35.976 | 28.876 | (20) | Cột B, QCVN 40:2011/BTNMT [ROW] Biên Hòa - Phan Rang | Ninh Thuận | 7.274 | 9.049 | 24 | Cột A, QCVN 40:2011/BTNMT",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    },
+    {
+      "paragraph_id": 3217,
+      "text": "[TABLE] [CONTEXT] section: Phân loại Chất thải theo phương pháp xử lý tại các Nhà máy TTC Biên Hòa ; column_headers: Niên độ 2019-2020 | Niên độ 2020-2021 | Chất thải nguy hại (tấn) | Chất thải thông thường (tấn) ; row_headers: Ủ phân (tấn) | Đốt (đốt khối lượng lớn) (tấn) | Thuê đơn vị chức năng xử lý [ROWS] Niên độ 2019-2020 | Niên độ 2020-2021 [ROW] Chất thải nguy hại (tấn) | Chất thải thông thường (tấn) | Chất thải nguy hại (tấn) | Chất thải thông thường (tấn) [ROW] Ủ phân (tấn) | 0 | 58.174 | 0 | 29.122 [ROW] Đốt (đốt khối lượng lớn) (tấn) | 0 | 547.169 | 0 | 665.586 [ROW] Thuê đơn vị chức năng xử lý | 12 | 3.118 | 11 | 3.772",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    }
+  ]
+}

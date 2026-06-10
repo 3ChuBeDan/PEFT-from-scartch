@@ -1,0 +1,137 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 50,
+      "text": "Thành công của BIDV là kết tinh của tinh thần đoàn kết - đồng lòng và những nỗ lực không ngừng nghỉ của tập thể 2,6 vạn người lao động, sự chia sẻ , hợp tác, đồng hành của các định chế tài chính, các doanh nghiệp, khách hàng, bạn hàng trong nước và quốc tế. Một BIDV Chuyên nghiệp - Thân thiện Hiện đại ngày càng tỏa sáng trong hành trình vượt qua thử thách, thắp sáng thành công.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 324,
+      "text": "Liên quan tới việc giải quyết các vụ án hình sự, trong năm 2019, Hội đồng Thẩm phán TAND Tối cao đã ban hành Nghị quyết 03/2019/NQ-HĐTP hướng dẫn áp dụng điều 324 của Bộ luật Hình sự về tội rửa tiền. Sự ra đời của Nghị quyết đã hiện thực hoá Kế hoạch triển khai thi hành Bộ luật Hình sự năm 2015 và Nghị quyết số 41 của Quốc hội trong Tòa án Nhân dân, đồng thời đáp ứng yêu cầu của công tác phòng, chống tội phạm rửa tiền; Khắc phục những bất cập, hạn chế trong thực tiễn xét xử, góp phần đấu tranh phòng, chống tham nhũng, bảo đảm minh bạch tài sản, thu nhập; Thực hiện nghiêm chỉnh cam kết của Việt Nam với cộng đồng quốc tế trong công tác chống rửa tiền, tài trợ khủng bố .",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 336,
+      "text": "Ngoài ra, trước các nguy cơ về an ninh mạng ngày càng gia tăng, BIDV đã tăng cường các công tác chuẩn bị, nâng cao tính sẵn sàng CNTT tại BIDV để đối phó với những tác động xấu từ bên ngoài và đáp ứng đầy đủ các yêu cầu ngày càng khắt khe v ề tuân thủ trong thời gian tới như: Thành lập tổ công tác đặc biệt ứng phó với các tình huống về an ninh mạng; Thành lập Trung tâm SOC để theo dõi, giám sát, phát hiện sớm và phân tích, xử lý sự sự cố bảo mật; Phối hợp/ký kết thỏa thuận hợp tác với CMC, VNCert trong công tác đánh giá an ninh ANBM hệ thống CNTT của BIDV. Phối hợp chặt chẽ với NHNN, Hiệp hội An toàn thông tin Việt Nam (VNISA), Bộ Công an (C50, PC50) thực hiện tốt công tác cảnh báo và giám sát an ninh mạng của BIDV. Đồng thời, để nâng cao năng lực xử lý của hệ thống cơ sở hạ tầng CNTT, BIDV đang trong giai đoạn xây dựng Trung tâm dữ liệu mới đáp ứng yêu cầu tăng trưởng và các chuẩn công nghệ quốc tế, nâng cao khả năng sẵn sàng và hoạt động liên tục của hệ thống CNTT, đáp ứng đầy đủ các yêu cầu kinh doanh và quản trị điều hành của BIDV, sẽ hoàn thành và đưa vào sử dụng trong năm 2020.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "paragraph_id": 785,
+      "text": "Một số dự án lớn, điển hình mà BIDV quản lý, triển khai như: Dự án hiệu quả lưới điện truyền tải (500 triệu USD); Dự án truyền tải điện miền Bắc và truyền tải điện miền Bắc mở rộng vay nguồn ADB trị giá 480 triệu USD; Chương trình hỗ trợ phát triển chính sách cải cách ngành điện giai đoạn 1 (312 triệu USD); Dự án chuyển đổi nông nghiệp nông thôn bền vững (238 triệu USD); Dự án phát triển nông thôn tổng hợp nhằm cải thiện khả năng thích ứng với biến đổi khí hậu vùng Đồng bằng sông Cửu Long (310 triệu USD)... Bên cạnh đó, BIDV cũng là ngân hàng tích cực triển khai, giải ngân các chương trình hạn mức nguồn vốn ủy thác nước ngoài lớn dành cho các lĩnh vực phát triển kinh tế bền vững, phát triển kinh tế tại các địa phương như: Hỗ trợ DNVVN, nguồn JICA; Phát triển năng lượng tái tạo, nguồn WB; Hiệu quả tiết kiệm năng lượng, nguồn WB; Hỗ trợ phát triển nhà ở, nguồn AFD; Tài chính nhà ở, nguồn ADB... góp phần hỗ trợ các DNVVN, các doanh nghiệp tư nhân và các cá nhân dễ dàng hơn trong việc tiếp cận các nguồn vốn trung dài hạn, ưu đãi của các nhà tài trợ quốc tế .",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 926,
+      "text": "Hồ sơ yêu cầu từ khách hàng bao gồm các hồ sơ liên quan đến môi trường xã hội như: Giấy phép khai thác tài nguyên đối với doanh nghiệp hoạt động trong lĩnh vực này; Quyết định phê duyệt báo cáo đánh giá tác động môi trường, phòng cháy chữa cháy, xử lý nguồn nước thải (đối với những dự án có yêu cầu); Giấy xác nhận đăng ký/Bản cam kết bảo vệ môi trường của cấp có thẩm quyền...",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 927,
+      "text": "Triển khai Chỉ thị số 03/CT-NHNN của NHNN Việt Nam v ề thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường và xã hội trong hoạt động cấp tín dụng, Khuyến nghị của Ngân hàng Phát triển châu Á (ADB), cũng như thể hiện cam kết của BIDV hướng tới mục tiêu phát triển bền vững, tháng 02/2019, BIDV đã ban hành Khung quản lý rủi ro môi trường và xã hội (ESMS), trong đó áp dụng bắt buộc đối với các Dự án sử dụng nguồn v ốn ADB. Khung quản lý rủi ro môi trường và xã hội quy định quy trình đánh giá rủi ro môi trường và xã bao gồm đầy đủ các nội dung: (i) Sàng lọc, phân loại rủi ro môi trường và xã hội; (ii) Đánh giá chi tiết rủi ro môi trường và xã hội phù hợp quy định chung và quy định riêng của 10 nhóm ngành nghề đặc thù; (iii) Kế hoạch hành động khắc phục cũng như chế độ báo cáo kiểm tra giám sát môi trường xã hội sau khi vay.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    },
+    {
+      "paragraph_id": 961,
+      "text": "Trong năm 2019, BIDV đã tiến hành rà soát, bổ sung, chỉnh sửa POM2, trong đó có điều chỉnh lại các quy định v ề an toàn môi trường và xã hội để phù hợp với thực tế triển khai dự án. Tính đến 31/12/2019, BIDV đã hướng dẫn cho các PFI và tổng cộng 09 chủ tiểu dự án về chế biến lúa gạo (trong đó năm 2019 có 02 tiểu dự án trả nợ trước hạn) hoàn tất các thủ tục về môi trường theo đúng quy định (tức là 100% đã có Quyết định phê duyệt Báo cáo đánh giá tác động môi trường/Kế hoạch quản lý môi trường do các cấp có thẩm quyền của Việt Nam phê duyệt) với tổng số vốn lũy kế đã giải ngân cho 09 tiểu dự án lúa gạo xấp xỉ 439,9 tỷ đồng; Riêng đối với Hợp phần cà phê, tính đến 31/12/2019, BIDV đã giải ngân thông qua 10 PFI cho 3.479 khoản vay tái canh cà phê với tổng v ốn lũy kế đã giải ngân đạt khoảng 1.185,7 tỷ đồng. Theo báo cáo của các PFI, 100% các khoản vay tái canh cà phê đều đã được bên vay và PFI lập \"Bản Thỏa thuận bảo vệ môi trường\" thỏa mãn các điều khoản, điều kiên v ề bảo vệ môi trường như đã được qui định trong ESMF và POM2.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

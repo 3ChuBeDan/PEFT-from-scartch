@@ -1,0 +1,65 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: Development Goals – SDGs) ; column_headers: Năng lượng (điện năng và các loại năng lượng từ nhiên liệu hóa thạch) | Chất thải rắn thông thường | Nước thải | Khí thải | Chất thải nguy hại [ROWS] Năng lượng (điện năng và các loại năng lượng từ nhiên liệu hóa thạch) | Chất thải rắn thông thường | Nước thải | Khí thải | Chất thải nguy hại [ROW] Biện pháp quản lý áp dụng | Tiết kiệm |  Điện năng: ‣ Kiểm soát nhiệt độ của hệ thống điều hòa phù hợp v ới thời tiết. ‣ Thiết kế không gian làm việc sử dụng tối ưu ánh sáng tự nhiên. ‣ Kiểm soát việc sử dụng thiết bị điện cho phù hợp v ới nhu cầu sử dụng và ng ắt các thiết bị khi không c ần thiết. ‣ Cài đặt giờ mở - tắt nhằm tối ưu hệ thống poster hình ảnh truyền thông - quảng cáo trong khu vực văn phòng và bảng hiệu tại các chi nhánh. ‣ Lựa chọn thiết bị có công suất phù hợp quy mô |  Tiết kiệm giấy, khuyến khích trao đổi công việc qua email, s ố hoá quy trình  Định mức sử dụng văn phòng phẩm; sử dụng giấy in văn phòng sản xuất từ nguyên liệu được chứng nhận quản lý rừng bền vững (chứng nhận FSC)  Hạn chế sử dụng đồ nhựa 1 lần, túi nilon |  Tiết kiệm nước tại khu v ệ sinh (truyền thông nội bộ , dán thông báo) |  Áp dụng định mức tiêu hao nhiên liệu cho các phương tiện vận chuyển; sử dụng các phương tiện đạt tiêu chuẩn v ề khí thải  Chỉ sử dụng máy phát điện trong trường hợp có sự cố hoặc cần thiết  Hệ thống điều hoà theo công nghệ hiện đại, tiết kiệm năng lượng. Hệ thống điều hoà |  Thay thế đèn huỳnh quang bằng đèn LED tiết kiệm năng lượng và thân thiện môi trường",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 10,
+        "E3": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Development Goals – SDGs) [ROWS] khách hàng, đối tác [ROW] Thải bỏ và xử lý |  Chất thải rắn thải bỏ được phân loại tại ngu ồn, có nhân viên vệ sinh thu gom hàng ngày  Chất thải sau thu gom được chuyển giao cho đơn vị thuê ngoài có năng lực để xử lý theo quy định pháp luật |  Có hệ thống thu gom và xử lý nước thải sinh hoạt đảm bảo quy chuẩn môi trường |  Định kỳ bảo dưỡng, sửa chữa, thay thế các phương tiện, thiết bị để t ối ưu hiệu su ất  Áp dụng công nghệ lọc khí thải đạt quy chuẩn môi trường đối với máy phát điện |  Phân loại tại ngu ồn, thu gom và lưu trữ theo quy định  Chất thải sau thu gom được chuyển giao cho đơn vị thuê ngoài có năng lực để xử lý theo quy định pháp luật",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.5 Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro cho các khoản nợ ; column_headers: Tỷ Iệ phòng [dự | Nhóm nợ | Diễn giải [ROWS] Nhóm nợ | Diễn giải | Tỷ Iệ phòng [dự [ROW] Nợ đủ tiêu chuấn | (a) Nợ trong hạn và được đánh là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh là có khả năng thu hồi đầy đủ nợ gốc và lãi bj hạn và thu hồi đầy đủ nợ gốc và lãi còn lại giá giá quá | 0% [ROW] Nợ cần chú ý | (a) Nợ quá hạn đến 90 ngày trừ khoản nợ quy đjnh tại điểm (b) của Nhóm 1; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu còn trong hạn; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày ngân ký văn bản thu hồi khoản nợ (sau đây gọi là ngày có quyết định thu hồi): Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tỗ chức tín dung; hoặc Khoản nợ vi phạm quy đinh tại các khoản 1,2, 3,4 Điều 127 Luật hàng | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

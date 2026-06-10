@@ -1,0 +1,276 @@
+{
+  "extracted_count": 15,
+  "extracted": [
+    {
+      "text": "Trong bối cảnh nền kinh tế gặp nhiều khó khăn cùng với việc chuyển đổi các sản phẩm/dịch vụ sang kênh Số, khả năng phát sinh rủi ro hoạt động, đặc biệt là rủi ro gian lận có xu hướng tăng lên. Với việc hoàn thành dự án Phòng chống tội phạm tài chính (FCRM) với 02 trụ cột chính là Phòng chống gian lận và Phòng chống rửa tiền, MB đã trở thành một trong những ngân hàng tiên phong trong việc ứng dụng hệ thống công nghệ thông tin toàn diện và hiện đại, cũng như các phương pháp luận tiên tiến trên thế giới về phòng chống gian lận, phòng chống rửa tiền; bảo vệ ngân hàng và khách hàng khỏi các rủi ro phát sinh từ các hoạt động tội phạm tài chính, đặc biệt là các tội phạm sử dụng công nghệ cao và mạng Internet như gian lận trực tuyến, tấn công mạng, và rửa tiền qua các đồng tiền kỹ thuật số... Năm 2025, MB đã ứng dụng triệt để phương pháp luận đã được bàn giao từ Dự án Phòng chống tội phạm tài chính, triển khai mở rộng việc phát hiện sớm rủi ro gian lận trên nhiều mảng hoạt động trọng yếu, kết hợp giữa rule base và mô hình máy học, giữa giám sát realtime, near realtime và batch để tăng tính chính xác, kịp thời, toàn diện của cảnh báo, giúp bảo vệ kết",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 8
+      }
+    },
+    {
+      "text": "quả hoạt động của Ngân hàng cũng như đảm bảo an toàn cho giao dịch của khách hàng. Bên cạnh ứng dụng cho hoạt động quản lý rủi ro gian lận của Ngân hàng, MB cũng đã đào tạo, chuyển giao phương pháp luận quản lý rủi ro gian lận cho các công ty thành viên toàn tập đoàn, nâng cao năng lực hiệp lực tập đoàn, bảo vệ tối đa cho khách hàng của MB nói riêng và MB Group nói chung. Hệ thống có khả năng phân tích dữ liệu lớn để phát hiện tội phạm gian lận, rửa tiền trên đa dạng các mảng hoạt động của MB và các công ty thành viên; giúp đảm bảo an toàn cho giao dịch của khách hàng và MB Group. Hệ thống kết hợp giữa rule base và mô hình máy học, kết hợp giữa giám sát realtime, near realtime và batch để tăng tính chính xác, kịp thời, toàn diện của cảnh báo. Các mô hình và kịch bản giám sát của hệ thống đều đang đạt chỉ tiêu kiểm soát chất lượng ở mức tốt so với thông lệ thị trường (tỷ lệ phát hiện chủ động cao, tỷ lệ cảnh báo giả thấp).",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "text": "Hoạt động PCRT dựa trên 2 trụ cột chính là Nhận biết Khách hàng và Giám sát giao dịch của khách hàng. Quá trình nhận biết khách hàng gồm thu thập, xác minh, cập nhật thông tin khách hàng và phân loại rủi ro được các Chi nhánh quản lý khách hàng của MB triển khai và thực hiện một cách thận trọng, thường xuyên, liên tục. Quá trình giám sát giao dịch khách hàng được thực hiện trước/trong/sau giao dịch nhằm phát hiện, từ chối các giao dịch không thuộc chính sách chấp nhận giao dịch của MB và cảnh báo liên tục các trường hợp đáng ngờ lợi dụng sản phẩm/dịch vụ ngân hàng cho các hoạt động rửa tiền. Việc thực thi hiệu quả không thể thiếu công cụ được trang bị tới các cán bộ nhân viên nhằm hỗ trợ quá trình thực hiện. Theo đó, hệ thống Phòng chống rửa tiền của MB được cung cấp bởi đối tác hàng đầu trên thế giới (Oracle) với đầy đủ các cấu phần giúp Nhận biết Khách hàng trong suốt quá trình quan hệ của KH tại MB và Giám sát giao dịch của khách hàng với các loại danh sách cấm vận/đen/cảnh báo và các kịch bản đáng ngờ về giao dịch giúp quản trị rủi ro RT & TTKB & TTPBVKHDHL và vi phạm cấm vận nhanh chóng, hiệu quả, tiệm cận với thông lệ tiên tiến của quốc tế.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G11": 2
+      }
+    },
+    {
+      "text": "Kiên định với tầm nhìn trở thành \"Doanh nghiệp số – Tập đoàn Tài chính dẫn đầu\" và định hướng dài hạn trở thành \"Tổ chức phát triển bền vững\", trong năm 2025, MB đã triển khai các chính sách tín dụng theo hướng xanh và có trách nhiệm. Ngân hàng ưu tiên cấp vốn cho các dự án năng lượng sạch, hạ tầng thân thiện môi trường và các doanh nghiệp hoạt động theo mô hình kinh tế xanh. Song song với đó, MB đẩy mạnh các chương trình trách nhiệm xã hội, chú trọng lan tỏa giá trị tích cực tới cộng đồng, đóng góp cho mục tiêu nâng cao chất lượng cuộc sống và phát triển kinh tế – xã hội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "MB đã triển khai hệ thống đảm bảo an ninh toàn diện, đặc biệt đối với ứng dụng công nghệ số qua thiết bị di động đã được triển khai các biện pháp bảo vệ ứng dụng theo đúng các yêu cầu của Ngân hàng nhà nước như ngăn chặn các hành vi chạy ứng dụng trên môi trường không an toàn, can thiệp vào ứng dụng, bảo vệ mã nguồn, chống mã độc... Đồng thời MB cũng đang triển khai hệ thống bảo vệ giao dịch của khách hàng như mô hình chấm điểm ngăn chặn rủi ro từ thiết bị và hình ảnh eKYC, mô hình Fraud nội bộ ngăn chặn các giao dịch nghi ngờ rửa tiền, lừa đảo, ...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "MB là một trong những ngân hàng tại Việt Nam tiên phong chủ động triển khai kiểm kê khí nhà kính đối với Phạm vi 1 và Phạm vi 2. Theo định hướng Chiến lược ESG, trong năm 2025 MB đã hoàn thành kiểm kê khí nhà kính theo tiêu chuẩn ISO 14064-1, nhằm xác định các nguồn phát thải chính và làm cơ sở xây dựng lộ trình giảm phát thải trong hoạt động vận hành.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Nước thải tại các trụ sở, văn phòng của MB chủ yếu là nước thải sinh hoạt thông thường. Các tòa nhà thuộc sở hữu của MB được lắp đặt và vận hành hệ thống xử lý nước thải tiêu chuẩn, xử lý nước thải đáp ứng QCVN 14:2025/BTNMT trước khi đấu nối vào hệ thống thoát nước và xử lý nước thải thành phố.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Trong quản lý rủi ro: Ứng dụng CNTT trong việc nhận diện, đo lường, kiểm soát và giảm thiểu rủi ro trong hoạt động ngân hàng: (i) AI và học máy (Machine Learning – ML): Phân tích các giao dịch theo thời gian thực để phát hiện các mẫu hành vi bất thường, cảnh báo và ngăn chặn kịp thời các hành vi gian lận, rửa tiền (AML), tài trợ khủng bố (CFT). Đánh giá rủi ro tín dụng: Sử dụng các mô hình AI/ML để phân tích điểm tín dụng, lịch sử giao dịch, và các yếu tố phi truyền thống (dữ liệu mạng xã hội, viễn thông...) để đánh giá khả năng trả nợ của khách hàng một cách chính xác và nhanh chóng hơn; (ii) Bigdata: Tổng hợp và phân tích dữ liệu từ nhiều nguồn khác nhau để xây dựng hồ sơ rủi ro toàn diện của khách hàng và giao dịch; (iii) An toàn thông tin và an ninh mạng: Đầu tư vào các giải pháp bảo mật tiên tiến (hệ thống tường lửa, mã hóa dữ liệu, giải pháp chống tấn công DDoS, Security Operations Center - SOC...) để bảo vệ dữ liệu khách hàng và hệ thống khỏi các mối đe dọa an ninh mạng.",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 1.0
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Danh mục từ viết tắt [ROWS] KTNB | Kiểm toán nội bộ | PTGĐ | Phó tổng giám đốc [ROW] KYC | Định danh khách hàng (Know Your Customer) | QĐ | Quyết định [ROW] LCR | Loan coverage ratio (Tỷ lệ bao phủ nợ xấu) | QĐNB | Quy định nội bộ [ROW] QĐPL | Quy định pháp luật [ROW] LDR | Tổng dư nợ cho vay/ nguồn vốn huy động | QTCT | Quản trị công ty [ROW] LGD | Tỷ trọng tổn thất ước tính | QTRR | Quản trị rủi ro [ROW] LLKD | Lực lượng kinh doanh | QTRRHĐ | Quản trị rủi ro hoạt động [ROW] LNG | Liên ngân hàng | RM | Quan hệ khách hàng [ROW] LNTT | Lợi nhuận trước thuế | ROA | Tỷ suất lợi nhuận /tổng tài sản [ROW] MB | Ngân hàng TMCP Quân đội | ROE | Tỷ lệ lợi nhuận/ Vốn chủ sở hữu [ROW] MB1688 | Chương trình sức khỏe trí tuệ | RPA | Tự động hóa quy trình bằng rô-bốt [ROW] MB247 | Tổng đài giải đáp hỗ trợ khách hàng 24/7 | RRHĐ RT | Rủi ro hoạt động Rửa tiền [ROW] MTV | Một thành viên | SBV | Ngân hàng nhà nước Việt Nam [ROW] MTXH | Môi trường – xã hội | SCF | Tài chính chuỗi cung ứng [ROW] Net-zero | Phát thải ròng bằng “0” | SME | Doanh nghiệp vừa và nhỏ [ROW] NFC | Xác thực sinh trắc học | SPO | Second Party Opinion – Đánh giá độc lập của bên thứ hai [ROW] NFI | Thu nhập phí thuần | TC&TP | Tiêu cực và tội phạm [ROW] NH | Ngân hàng | TCT | Tổng công ty [ROW] NHNN | Ngân hàng nhà nước | TCTD | Tổ chức tín dụng [ROW] NHTM | Ngân hàng thương mại | TMCP | Thương mại cổ phần [ROW] NHTMCP | Ngân hàng Thương mại cổ phần | TNHH | Trách nhiệm hữu hạn [ROW] NII | Thu nhập lãi thuần | TOI | Tổng thu nhập hoạt động [ROW] NIM | Tỷ lệ thu nhập lãi thuần/Biên lãi ròng | TP TCKT | Trái phiếu Tổ chức kinh tế [ROW] NPL | Tỷ lệ nợ xấu | TPDN | Trái phiếu doanh nghiệp [ROW] NPS | Chỉ số trung thành của khách hàng | Tài trợ khủng bố TTPBVKHDHL Tài trợ phổ biến vũ khí hủy diệt hàng loạt [ROW] NPTQTCT | Người phụ trách quản trị công ty | TV | Thành viên [ROW] NQ | Nghị quyết | UB | Uỷ ban [ROW] NSFR | Tỷ lệ nguồn vốn ổn định ròng | UBCKNN | Uỷ ban chứng khoán nhà nước [ROW] NSNN | Ngân sách nhà nước | UBKT | Uỷ ban kiểm toán [ROW] OCR | Trích xuất dữ liệu tự động | UBNS | Ủy ban Nhân sự [ROW] PCRT | Phòng chống rửa tiền | UN | Liên hợp quốc [ROW] PCTN, TC&TP | Phòng chống tham nhũng, tiêu cực & tội phạm | VBMA | Hiệp hội Thị trường Trái phiếu Việt Nam [ROW] PD | Xác suất vỡ nợ | VĐL | Vốn điều lệ [ROW] POS | Máy bán hàng cầm tay (Point of sales) | VPĐD | Văn phòng đại diện [ROW] XNK | Xuất nhập khẩu [ROW] PTBV | Phát triển bền vững | YEA | Tỷ suất tài sản sinh lời",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "G11",
+        "G9"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2,
+        "G9": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Đơn vị: tỷ VND ; column_headers: Năm 2024 | Năm 2025 | % Tăng/(Giảm) ; row_headers: - Vốn điều lệ | - Vốn chủ sở hữu | - Tổng Tài sản | - Tỷ lệ an toàn vốn (CAR) | - Huy động vốn (bao gồm CCTG) | - Tổng dư nợ tín dụng (Gồm Dư nợ & TPDN & Mua nợ) | - Nợ quá hạn | - Nợ xấu | - Tỷ lệ bao phủ nợ xấu | - Tỷ lệ nợ quá hạn / Tổng dư nợ | - Tỷ lệ nợ xấu / Tổng dư nợ | - Doanh thu | - Thu nhập lãi thuần | - Tỷ lệ thu nhập lãi thuần (NIM) | - Chi phí vốn (COF) | - Tỷ lệ chi phí hoạt động trên tổng thu nhập hoạt động (CIR) | - Chi phí dự phòng/Doanh thu | - Tỷ lệ lợi nhuận trên tổng tài sản (ROA) | - Tỷ lệ lợi nhuận trên vốn chủ sở hữu (ROE) | - Tỷ lệ dự trữ thanh khoản | - Tỷ lệ tổng dư nợ cho vay trên nguồn vốn huy động (LDR) | - Tỷ lệ vốn ngắn hạn cho vay trung dài hạn | - Lãi cơ bản trên cổ phiếu (EPS) | - Hệ số giá trên lợi nhuận (P/E) | - Giá trị sổ sách của một cổ phiếu (BVPS) | - Hệ số giá/giá trị sổ sách (P/B) [ROWS] Chỉ tiêu | Năm 2024 | Năm 2025 | % Tăng/(Giảm) [ROW] 1. Quy mô tài sản và nguồn vốn [ROW] - Vốn điều lệ | 53.063 | 80.550 | 51,8% [ROW] - Vốn chủ sở hữu | 117.060 | 142.023 | 21,3% [ROW] - Tổng Tài sản | 1.128.801 | 1.615.764 | 43,1% [ROW] - Tỷ lệ an toàn vốn (CAR) | 11,8% | 11,0% | (6,3%) [ROW] 2. Kết quả hoạt động kinh doanh [ROW] - Huy động vốn (bao gồm CCTG) | 805.647 | 1.062.198 | 31,8% [ROW] - Tổng dư nợ tín dụng (Gồm Dư nợ & TPDN & Mua nợ) | 811.142 | 1.109.895 | 36,8% [ROW] - Nợ quá hạn | 24.782 | 24.238 | (2,2%) [ROW] - Nợ xấu | 12.585 | 14.027 | 11,5% [ROW] - Tỷ lệ bao phủ nợ xấu | 92,2% | 93,7% | 1,6% [ROW] - Tỷ lệ nợ quá hạn / Tổng dư nợ | 3,2% | 2,2% | (30%) Tích cực [ROW] - Tỷ lệ nợ xấu / Tổng dư nợ | 1,6% | 1,3% | (20%) Tích cực [ROW] 3. Hiệu quả kinh doanh [ROW] - Doanh thu | 55.413 | 67.693 | 22,2% [ROW] - Thu nhập lãi thuần | 41.152 | 51.610 | 25,4% [ROW] - Tỷ lệ thu nhập lãi thuần (NIM) | 4,2% | 3,9% | (7,1%) [ROW] - Chi phí vốn (COF) | 3,2% | 3,2% | 0% [ROW] - Tỷ lệ chi phí hoạt động trên tổng thu nhập hoạt động (CIR) | 30,7% | 29,1% | (5,3%) [ROW] - Chi phí dự phòng/Doanh thu | 17,3% | 20,3% | 17,5% [ROW] - Tỷ lệ lợi nhuận trên tổng tài sản (ROA) | 2,2% | 2,0% | (9,9%) [ROW] - Tỷ lệ lợi nhuận trên vốn chủ sở hữu (ROE) | 21,5% | 21,1% | (1,6%) [ROW] 4. Các chỉ tiêu thanh khoản [ROW] - Tỷ lệ dự trữ thanh khoản | 13,5% | 15,5% | 14,8% [ROW] - Tỷ lệ tổng dư nợ cho vay trên nguồn vốn huy động (LDR) | 81,1% | 80% | (1,3%) [ROW] - Tỷ lệ vốn ngắn hạn cho vay trung dài hạn | 26,9% | 25,7% | (4,4%) [ROW] 5. Cổ phiếu [ROW] - Lãi cơ bản trên cổ phiếu (EPS) | 2.589 | 3.325 | 28,4% [ROW] - Hệ số giá trên lợi nhuận (P/E) | 5,8 | 7,6 | 31% [ROW] - Giá trị sổ sách của một cổ phiếu (BVPS) | 22.060 | 16.900 | (23,3%) [ROW] - Hệ số giá/giá trị sổ sách (P/B) | 1,1 | 1,5 | 36,3%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Danh sách Lĩnh vực trọng yếu 2025 ; column_headers: TT | Chủ đề | Ý nghĩa | SDGs [ROWS] TT | Chủ đề | Ý nghĩa | SDGs [ROW] Trụ cột 1. Khách hàng [ROW] 1 | Tài chính xanh | Tài chính xanh tại MB được thể hiện qua các hoạt động tài chính, đầu tư vào các lĩnh vực năng lượng tái tạo, hỗ trợ các ngành nghề/lĩnh vực thân thiện/giảm tác động tiêu cực đến môi trường, đầu tư xanh và trái phiếu xanh. | 7, 12, 13 [ROW] 2 | Tài chính toàn diện | MB thúc đẩy hoạt động ngân hàng trở nên dễ tiếp cận tới mọi phân khúc khách hàng cá nhân, mọi khu vực địa lý; hỗ trợ doanh nghiệp trong mọi giai đoạn tăng trưởng đi đôi với sự an toàn, hiệu quả và bền vững. | 8, 9 [ROW] 3 | Trải nghiệm khách hàng | MB hướng đến xây dựng các trải nghiệm xuất sắc - Xuất phát từ nhu cầu và vươn tới kỳ vọng của khách hàng. | 9, 17 [ROW] Trụ cột 2. Môi trường [ROW] 4 | Giảm phát thải | MB triển khai các sáng kiến giảm tác động đến môi trường, liên quan đến nỗ lực giảm phát thải khí nhà kính theo phạm vi 1 và 2 trong hoạt động của ngân hàng. | 7, 12, 13 [ROW] 5 | Quản lý rủi ro ESG, bao gồm rủi ro khí hậu | Những nỗ lực nhằm nhận diện, đánh giá và giảm thiểu rủi ro ESG, bao gồm rủi ro liên quan đến biến đổi khí hậu, gồm hiểu biết tác động tiềm ẩn của các yếu tố liên quan đến khí hậu trong hoạt động, tài sản và ổn định tài chính của ngân hàng; thực hiện các biện pháp thích ứng, góp phần chuyển đổi sang nền kinh tế carbon thấp. | 13 [ROW] Trụ cột 3. Xã hội [ROW] 6 | Giáo dục & Đào tạo | MB thúc đẩy văn hóa học tập liên tục, phát triển năng lực chuyên môn, kỹ năng tương lai và tư duy đổi mới cho cán bộ nhân viên. Hoạt động đào tạo gắn với khung năng lực, quản trị hiệu suất, định hướng nghề nghiệp và các nguyên tắc phát triển bền vững, góp phần xây dựng đội ngũ thích ứng cao, đáp ứng chiến lược dài hạn của MB. | 4, 13 [ROW] 7 | Đóng góp cho cộng đồng | MB thực hiện đóng góp cho sự phát triển của quốc gia, của cộng đồng, thể hiện qua cam kết và các hoạt động có trách nhiệm với xã hội bên cạnh các hoạt động kinh doanh cốt lõi. | 10 [ROW] Trụ cột 4. Quản trị [ROW] 8 | Đạo đức kinh doanh | MB hướng tới các chuẩn mực đạo đức kinh doanh như Quy tắc ứng xử, cạnh tranh lành mạnh ..., thực hiện và báo cáo minh bạch theo các thông lệ tốt. | 16 [ROW] 9 | Tuân thủ quy định | Tinh thần “Thượng tôn Pháp luật” tại MB thể hiện ở cam kết tuân thủ quy định luật pháp, gồm các quy định môi trường - xã hội, thực hành quản trị tốt ... | 16 [ROW] Nền tảng: Số hóa [ROW] 10 | Chuyển đổi số | Quá trình MB chuyển đổi số, thúc đẩy số hóa các sản phẩm dịch vụ, cho phép khách hàng trải nghiệm sản phẩm, dịch vụ có ứng dụng công nghệ, mọi lúc mọi nơi, hạn chế đi lại; hỗ trợ ngân hàng điều chỉnh quy trình kinh doanh và thực hành phát triển bền vững một cách hiệu quả hơn. | 8, 9 [ROW] 11 | An ninh mạng | MB thúc đẩy văn hóa, nhận thức về an ninh mạng, bảo vệ tài sản của ngân hàng khỏi các mối đe dọa và duy trì niềm tin của khách hàng, thông qua đào tạo về an ninh mạng giúp nhân viên nhận biết, ứng phó hiệu quả với các mối đe dọa tiềm ẩn cũng như báo cáo hoạt động/sự cố bất thường. | 8, 9 [ROW] 12 | Quản trị dữ liệu | MB thực hiện quản trị dữ liệu liên quan tới ESG đảm bảo việc công bố thông tin, sử dụng dữ liệu tuân thủ các quy định về an toàn, bảo mật thông tin và có trách nhiệm. | 8, 9",
+      "hard_labels": [
+        "E3",
+        "G10"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0,
+        "G10": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "G10"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3,
+        "G10": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Giảm phát thải ; column_headers: Hội sở 18 Lê Văn Lương | Toàn hàng (HO, CN/PGD) | Năm 2024 | Năm 2025 | % Tăng/ (Giảm) ; row_headers: Tổng phát thải khí nhà kính trực tiếp - Phạm vi 1 | Tổng phát thải khí nhà kính gián tiếp – Phạm vi 2 | Tổng phát thải khí nhà kính trực tiếp và gián tiếp [ROWS] Chỉ tiêu | Hội sở 18 Lê Văn Lương | Toàn hàng (HO, CN/PGD) [ROW] Năm 2024 | Năm 2025 | % Tăng/ (Giảm) | Năm 2024 [ROW] Tổng phát thải khí nhà kính trực tiếp - Phạm vi 1 | 11,3 | 5,5 | (51,3%) | 6.154 [ROW] Tổng phát thải khí nhà kính gián tiếp – Phạm vi 2 | 3.261,8 | 3.153,8 | (3,3%) | 20.265 [ROW] Tổng phát thải khí nhà kính trực tiếp và gián tiếp | 3.273,1 | 3.159,3 | (3,5%) | 26.419",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Hệ thống tiêu chí đánh giá [ROWS] Kết quả thực thi nhiệm vụ | Mức độ hoàn thành mục tiêu, chất lượng và hiệu quả công việc; đóng góp vào sự phát triển của đơn vị phụ trách và của MB. [ROW] Phẩm chất chính trị – đạo đức | Việc tuân thủ pháp luật, Điều lệ, quy chế MB; ý thức trách nhiệm và tinh thần gương mẫu trong công tác. [ROW] Năng lực chuyên môn – tinh thần học hỏi | Khả năng cập nhật kiến thức, tính chủ động, tinh thần cầu thị và thái độ trong thực thi nhiệm vụ. [ROW] Kỹ năng quản trị – điều hành | Phong cách lãnh đạo, phương pháp tổ chức công việc, tinh thần phòng chống tham nhũng, chống lãng phí và thực hành tiết kiệm. [ROW] Tinh thần đoàn kết – phối hợp | Mức độ hợp tác với các đơn vị, khả năng gắn kết và tạo động lực cho đội ngũ, cũng như mức độ tín nhiệm từ cán bộ nhân viên.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5,
+        "G9": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Thẻ điểm Quản trị Công ty theo thông lệ tốt (ACGS) ; column_headers: Mã số | Tiêu chí | Mức độ đáp Ghi chú/dẫn chứng [ROWS] Mã số | Tiêu chí | Mức độ đáp Ghi chú/dẫn chứng [ROW] (P)A.3.1 | Công ty có đưa nội dung bổ sung và không được thông báo trước trong chương trình nghị sự vào thông báo ĐHĐCĐ thường niên/ĐHĐCĐ bất thường? | X | Không phát sinh tại MB [ROW] (P)A.3.2 | Là Chủ tịch Hội đồng quản trị và Chủ tịch của tất cả các Ủy ban Hội đồng quản trị và Tổng thành viên vắng mặt trong Đại hội đồng cổ đông gần đây nhất? | X | Không phát sinh tại MB [ROW] (P)A.4 | Cấu trúc vốn và thỏa thuận cho phép một số cổ đông nhất định có được mức độ kiểm soát không tương xứng với quyền sở hữu vốn chủ sở hữu của họ nên được công bố. [ROW] Công ty đã không công bố sự tồn tại của: [ROW] (P)A.4.1 | Thỏa thuận cổ đông? | X | Không phát sinh tại MB [ROW] (P)A.4.2 | Giới hạn biểu quyết? | X | Không phát sinh tại MB [ROW] (P)A.4.3 | Cổ phiếu có nhiều quyền biểu quyết? | X | Không phát sinh tại MB [ROW] (P)A.5 | Cấu trúc vốn và thỏa thuận cho phép một số cổ đông nhất định có được mức độ kiểm soát không tương xứng với quyền sở hữu vốn chủ sở hữu của họ nên được công bố. [ROW] (P)A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu sở hữu chéo có tồn tại không? | X | Không phát sinh tại MB [ROW] (P)A.6 | Giao dịch nội gián và tự giao dịch lạm dụng nên bị cấm. [ROW] (P)A.6.1 | Công ty bị kết luận vi phạm về giao dịch nội gián liên quan đến thành viên/ủy viên HĐQT, ban điều hành và nhân viên công ty trong 3 năm qua? | X | Không phát sinh tại MB [ROW] (P)A.7 | Bảo vệ cổ đông thiểu số khỏi hành động lạm dụng [ROW] (P)A.7.1 | Có trường hợp nào không tuân thủ luật pháp,quy tắc và quy định liên quan đến giao dịch trọng yếu với bên liên quan trong ba năm vừa qua không? | X | Không phát sinh tại MB [ROW] (P)A.7.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp trên cơ sở thị trường) cho các đơn vị không phải công ty con? | X | Không phát sinh tại MB [ROW] (P)B.1 | Quyền của các bên liên quan được thiết lập bởi pháp luật hoặc thông qua các thỏa thuận chung phải được tôn trọng. [ROW] (P)B.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/phá sản/thương mại/cạnh tranh hay môi trường? | X | Không phát sinh tại MB [ROW] (P)B.2 | Khi các bên liên quan tham gia vào quá trình quản trị công ty, họ cần được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên. [ROW] (P)B.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không công bố thông tin trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | X | Không phát sinh tại MB [ROW] (P)B.2.2 | Có bằng chứng nào cho thấy công ty đang tham gia vào các hoạt động \"tẩy xanh\" không? | X | Không phát sinh tại MB",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

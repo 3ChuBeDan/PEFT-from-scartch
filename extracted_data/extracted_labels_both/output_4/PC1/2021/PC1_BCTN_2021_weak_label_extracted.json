@@ -1,0 +1,62 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 938,
+      "text": "Biến đổi khí hậu ngày càng tác động sâu rộng và nghiêm trọng đến đời sống con người. Toàn cầu đang hướng đến các nguồn năng lượng sạch, năng lượng tái tạo. Việt Nam không đứng ngoài xu thế đó, Chính phủ đã và đang cam kết chính sách ưu tiên cho phát triển năng lượng tái tạo, mục tiêu giảm mức phát thải về bằng 0 vào năm 2050. Công ty Cổ phần Tập đoàn PC1 tự tin thực hiện thành công các dự án nhà máy điện không phát thải.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 980,
+      "text": "Tại hội nghị Biến đổi Khí hậu Liên Hợp Quốc lần thứ 26 (COP26) tại Glasgow, Scotland, Thủ tướng Chính phủ Việt Nam - Phạm Minh Chính - một lần nữa cam kết Việt Nam sẽ tham gia giải pháp về biến đổi khí hậu toàn cầu. Việt Nam đặt mục tiêu nâng tỷ lệ năng lượng sạch trong tổng cung năng lượng sơ cấp lên ít nhất 20% vào năm 2030 và 30% vào năm 2045, đồng thời cam kết từng bước loại bỏ sản xuất điện bằng than và đạt phát thải ròng bằng 0 vào năm 2050. Thương mại có thể là một phần quan trọng trong giải pháp cho vấn đề biến đổi khí hậu mà Việt Nam đang trải qua và sẽ cần được xử lý trong những năm tới. Thương mại xanh - hay thương mại sạch hơn, thương mại hàng hóa môi trường, hàng hóa thân thiện với môi trường - có thể giúp Việt Nam đạt được các cam kết về khí hậu và tham vọng trở thành một nền kinh tế thu nhập cao vào năm 2045 như đã vạch ra trong Chiến lược Phát triển Kinh tế - Xã hội giai đoạn 2021-2030.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1067,
+      "text": "Công đoàn Tập đoàn gồm 12 công đoàn cơ sở, bộ phận trực thuộc với hơn 1.500 đoàn viên công đoàn. Trong những năm qua, Lãnh đạo, Đảng ủy và Công đoàn luôn quan tâm đến đời sống vật chất, tinh thần đối với cán bộ, người lao động, đặc biệt là với những đoàn viên công đoàn có hoàn cảnh khó khăn. Đây là những người lao động gặp phải những không may trong cuộc sống, bản thân bị bệnh nặng, ốm đau thường xuyên, phải chữa trị bệnh trong thời gian dài, chi phí tốn kém trong khi điều kiện gia đình cũng hết sức khó khăn; hoặc có trường hợp bản thân khỏe mạnh là trụ cột chính trong gia đình đông người, có người thân bệnh nặng, hiểm nghèo, chi phí hàng tháng tốn kém...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

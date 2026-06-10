@@ -1,0 +1,101 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 1643,
+      "text": "Trong năm 2019, công tác phân loại chất thải cũng đã được tuân thủ nghiêm ngặt tại tất cả các đơn vị trực thuộc của PV Drilling. Chất thải do các hoạt động sản xuất kinh doanh của PV Drilling bao gồm 3 loại chính: chất thải rắn sinh hoạt, chất thải rắn công nghiệp thông thường và chất thải nguy hại. Chất thải được phân loại và lưu chứa theo đặc điểm rắn, lỏng hoặc bùn từ ngay tại nguồn. Tất cả các đơn vị của PV Drilling đều có quy trình phân loại chất thải phù hợp với hoạt động của mình và ký hợp đồng với các đơn vị có chức năng xử lý theo đúng quy định của pháp luật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 12
+      }
+    },
+    {
+      "paragraph_id": 1650,
+      "text": "Đối với việc xử lý nước thải tại các giàn khoan ngoài khơi, PV Drilling lắp đặt các hệ thống xử lý nước thải hiện đại để xử lý nước thải sinh hoạt, nước thải sản xuất, nước vỉa,...đạt theo yêu cầu của quy chuẩn Việt Nam hoặc tiêu chuẩn quốc tế trước khi thải xuống biển, phù hợp với những công ước quốc tế mà Việt Nam tham gia.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 2090,
+      "text": "[TABLE] [CONTEXT] section: (tiếp theo) ; column_headers: Nguyên tắc 5.1 | HĐQT cần phải thực hiện tự đánh giá hàng năm đối với kết quả công việc của mình, bao gồm kết quả công việc của Chủ tịch, từng thành viên và các ủy ban. Ba năm một lần, việc đánh giá này nên được hỗ trợ của chuyên gia tư vấn / cố vấn bên ngoài. | \"Hàng năm PV Drilling đều thực hiện tự đánh giá đối với kết quả hoạt động của HĐQT và từng thành viên HĐQT, đánh giá của Thành viên độc lập đối với hoạt động của HĐQT PV Drilling. PV Drilling chưa có chuyên gia tư vấn/ cố vấn bên ngoài thực hiện công tác đánh giá nói trên.\" [ROWS] Nguyên tắc 5.1 | HĐQT cần phải thực hiện tự đánh giá hàng năm đối với kết quả công việc của mình, bao gồm kết quả công việc của Chủ tịch, từng thành viên và các ủy ban. Ba năm một lần, việc đánh giá này nên được hỗ trợ của chuyên gia tư vấn / cố vấn bên ngoài. | \"Hàng năm PV Drilling đều thực hiện tự đánh giá đối với kết quả hoạt động của HĐQT và từng thành viên HĐQT, đánh giá của Thành viên độc lập đối với hoạt động của HĐQT PV Drilling. PV Drilling chưa có chuyên gia tư vấn/ cố vấn bên ngoài thực hiện công tác đánh giá nói trên.\" [ROW] Nguyên tắc 5.2 | HĐQT cần phải thiết lập một hệ thống để quy định, ở mức tối thiểu, các tiêu chí và quy trình để xác định hiệu quả công việc của HĐQT, từng thành viên HĐQT và các ủy ban trực thuộc. Hệ thống này nên cho phép cơ chế phản hồi từ cổ đông. | PV Drilling đã xây dựng Quy chế làm việc của HĐQT để đảm bảo hiệu quả trong công tác quản trị. HĐQT sẽ xem xét bổ sung Quy định để xác định đánh giá hiệu quả hoạt động của từng thành viên HĐQT. [ROW] Nguyên tắc 5.3 | Khi đề xuất mức thù lao chi trả cho thành viên HĐQT lên Đại hội đồng cổ đông phê duyệt, HĐQT cần phải cân nhắc xem liệu cơ cấu thù lao đó có phù hợp với vai trò và trách nhiệm tương ứng của từng thành viên HĐQT, có gắn với kết quả hoạt động của cá nhân và công ty và tạo động lực để HĐQT lãnh đạo công ty nhằm đạt được cả mục tiêu ngắn hạn và dài hạn. | Thù lao cho thành viên HĐQT tại PV Drilling được xây dựng theo quy định hiện hành. [ROW] Nguyên tắc 6.1 | HĐQT cần phải bảo đảm việc áp dụng Bộ quy tắc Đạo đức Kinh doanh để thiết lập một văn hóa kinh doanh với chuẩn mực cao trong Công ty. Bộ Quy tắc này sẽ cung cấp chuẩn mực cho hành vi chuyên môn và đạo đức, cũng như làm rõ những hành vi và hoạt động được và không được chấp nhận trong quan hệ nội bộ và bên ngoài. Bộ Quy tắc cần phải được phổ biến phù hợp cho HĐQT, Ban điều hành và nhân viên trong công ty. Bộ Quy tắc cũng cần phải được công bố công khai trên website công ty. | PV Drilling đã ban hành Bộ Quy tắc ứng xử (QTUX) vào năm 2016, hiện vẫn đang được áp dụng trên toàn Tổng công ty. Bộ QTUX được xây dựng và truyền thông nhằm nâng cao nhận thức, tạo tinh thần văn hóa chung trong mọi hoạt động sản xuất kinh doanh của Tổng công ty. Bộ QTUX ra đời đánh dấu một mốc quan trọng trong nỗ lực của cấp quản lý nhằm tạo ra một môi trường với văn hóa đặc trưng và riêng biệt. Theo đó, Bộ QTUX được truyền thông và phổ biến để các CBCNV các cấp cùng thẩm thấu, chấp nhận, từ đó nâng cao nhận thức hành động. [ROW] Nguyên tắc 6.2 | HĐQT cần phải đảm bảo triển khai phù hợp và hiệu quả, và theo dõi việc tuân thủ Bộ quy tắc Đạo đức Kinh doanh và các chính sách nội bộ. | Bộ QTUX được truyền thông rộng rãi và áp dụng trên toàn Tổng công ty. [ROW] Nguyên tắc 6.3 | HĐQT là đầu mối và chịu trách nhiệm tập thể về quản trị, thành công trong dài hạn của công ty, và việc mang lại giá trị bền vững cho các bên có quyền lợi liên quan của công ty. HĐQT cần phải là tấm gương cho Ban điều hành và nhân viên trong công ty. | Điều lệ PV Drilling quy định rõ trách nhiệm của HĐQT tại Điều 21. [ROW] Môi trường kiểm soát | Nguyên tắc 7.1 | HĐQT cần phải đảm bảo sự tích hợp giữa chiến lược, rủi ro, kiểm soát và giám sát hiệu quả của hệ thống kiểm soát nội bộ của công ty. | Đã được quy định tại Điều 21, Điều lệ PV Drilling. [ROW] Nguyên tắc 7.2 | HĐQT cần phải thành lập chức năng kiểm toán nội bộ để có đảm bảo khách quan và tư vấn độc lập nhằm gia tăng giá trị và cải tiến hoạt động của tổ chức. | HĐQT PV Drilling đã lên kế hoạch thành lập Ủy ban Kiểm toán và trình Đại hội đồng cổ đông trong năm 2020. [ROW] Nguyên tắc 7.3 | HĐQT cần phải thành lập một chức năng tuân thủ như là tuyến phòng vệ thứ 2 với vị trí và quyền hạn cần thiết. | Ủy ban Kiểm toán trực thuộc HĐQT được thành lập năm 2020 sẽ có chức năng này. [ROW] Nguyên tắc 7.4 | HĐQT cần phải giám sát hệ thống quản lý rủi ro toàn doanh nghiệp và bảo đảm rằng các hoạt động quản lý rủi ro hỗ trợ công ty ra các quyết định chiến lược tốt hơn và dựa trên cơ sở hiểu biết đầy đủ về các rủi ro. HĐQT cũng cần phải quản lý rủi ro của công ty trong phạm vi khẩu vị rủi ro của công ty. | Ủy ban Kiểm toán trực thuộc HĐQT được thành lập năm 2020 sẽ có chức năng này. [ROW] Nguyên tắc 7.5 | HĐQT cần phải đảm bảo việc công ty thiết lập một khung quản lý an ninh mạng phù hợp. | HĐQT PV Drilling đã xây dựng quy trình/quy định quản lý an ninh mạng, dự kiến sẽ ban hành trong năm 2020.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 2141,
+      "text": "[TABLE] [CONTEXT] section: 4.2 Quản lý chất thải. Chất thải rắn: ; caption: Bảng 2. Tổng lượng chất thải phát sinh năm 2019. ; column_headers: TT | Loại chất thải phát sinh | Đơn vị Lượng phát thải [ROWS] TT | Loại chất thải phát sinh | Đơn vị Lượng phát thải [ROW] 1 | Chất thải rắn sinh hoạt | tấn | 135 [ROW] 2 | Chất thải rắn công nghiệp thông thường | tấn | 78 [ROW] 3 | Chất thải nguy hại | tấn | 165",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 17
+      }
+    },
+    {
+      "paragraph_id": 2156,
+      "text": "[TABLE] [CONTEXT] section: 6. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG ; column_headers: Số cuối năm Số đầu năm | VND | Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng ; row_headers: Công ty TNHH MTV Điều Hành Thăm Dò Khai Thác Dầu Khí Trong Nước | Tổng Công ty Thăm dò Khai thác Dầu khí | Các khách hàng khác [ROWS] Số cuối năm Số đầu năm [ROW] VND | VND [ROW] Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng [ROW] Công ty TNHH MTV Điều Hành Thăm Dò Khai Thác Dầu Khí Trong Nước | 45.368.376.000 (40.611.343.520) 91.029.215.565 (60.069.722.925) [ROW] Tổng Công ty Thăm dò Khai thác Dầu khí | 186.831.633.360 (150.871.502.080) 187.512.133.770 (134.851.032.765) [ROW] Các khách hàng khác | 20.147.184.160 (9.700.180.960) 13.452.498.915 (10.598.975.010) [ROW] 252.347.193.520 | 291.993.848.250 | (201.183.026.560) (205.519.730.700)",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

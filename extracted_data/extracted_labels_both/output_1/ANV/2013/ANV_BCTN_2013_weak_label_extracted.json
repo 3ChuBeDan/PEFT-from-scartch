@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 39,
+      "text": "Công ty đã chấp hành các tiêu chuẩn xử lý nước thải bằng cách xây dựng hệ thống xử lý nước thải tại các nhà máy, ký hợp thu gom chất thải rắn nguy hại để không ảnh hưởng đến môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

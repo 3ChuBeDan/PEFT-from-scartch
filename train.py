@@ -16,7 +16,7 @@ import torch
 print(torch.cuda.is_available())
 print(torch.cuda.get_device_name(0) if torch.cuda.is_available() else "CPU only")
 from datasets import DatasetDict, load_dataset
-from sklearn.metrics import accuracy_score, f1_score
+from sklearn.metrics import accuracy_score, f1_score, hamming_loss
 from transformers import (
     AutoTokenizer,
     DataCollatorWithPadding,
@@ -46,13 +46,18 @@ RESULT_COLUMNS = [
     "method",
     "model_name",
     "dataset",
+    "task_type",
     "rank",
     "alpha",
     "dropout",
     "seed",
     "accuracy",
+    "micro_f1",
     "macro_f1",
     "weighted_f1",
+    "samples_f1",
+    "hamming_loss",
+    "label_threshold",
     "trainable_params",
     "total_params",
     "trainable_percent",
@@ -68,6 +73,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--method", choices=["ft", "lora", "dora"], required=True)
     parser.add_argument("--model-name", default=DEFAULT_MODEL)
     parser.add_argument("--dataset", default="uit-vsfc")
+    parser.add_argument("--task-type", choices=["single_label", "multi_label"], default="single_label")
+    parser.add_argument("--label-map", default=None)
+    parser.add_argument("--label-threshold", type=float, default=0.5)
     parser.add_argument("--rank", type=int, default=8)
     parser.add_argument("--alpha", type=float, default=None)
     parser.add_argument("--dropout", type=float, default=0.05)
@@ -97,23 +105,28 @@ def normalize_dataset_name(name: str) -> str:
     return name.strip().lower()
 
 
-def load_uit_vsfc_or_csv(dataset_arg: str) -> DatasetDict:
+def load_uit_vsfc_or_local(dataset_arg: str) -> DatasetDict:
     dataset_key = normalize_dataset_name(dataset_arg)
     if dataset_key == "uit-vsfc":
         try:
             return load_dataset("uitnlp/vietnamese_students_feedback", trust_remote_code=True)
         except Exception as exc:
             raise RuntimeError(
-                "Could not load UIT-VSFC from Hugging Face. Pass a local CSV path "
-                "with columns text,label,split via --dataset."
+                "Could not load UIT-VSFC from Hugging Face. Pass a local CSV/JSONL path "
+                "with columns text,label(s),split via --dataset."
             ) from exc
 
     dataset_path = Path(dataset_arg)
-    if dataset_path.suffix.lower() != ".csv":
-        raise ValueError("--dataset must be 'uit-vsfc' or a local CSV path")
-    raw = load_dataset("csv", data_files=str(dataset_path))["train"]
+    suffix = dataset_path.suffix.lower()
+    if suffix == ".csv":
+        raw = load_dataset("csv", data_files=str(dataset_path))["train"]
+    elif suffix in {".json", ".jsonl"}:
+        raw = load_dataset("json", data_files=str(dataset_path))["train"]
+    else:
+        raise ValueError("--dataset must be 'uit-vsfc' or a local CSV/JSONL path")
+
     if "split" not in raw.column_names:
-        raise ValueError("Local CSV fallback must include a split column")
+        raise ValueError("Local CSV/JSONL dataset must include a split column")
     splits = {}
     for split_name in sorted(set(raw["split"])):
         split_data = raw.filter(lambda row, split_name=split_name: row["split"] == split_name)
@@ -156,14 +169,65 @@ def encode_labels(dataset: DatasetDict, label_column: str) -> tuple[DatasetDict,
     return dataset.map(map_str_label), len(label_map), label_map
 
 
+def normalize_label_list(value: Any) -> list[str]:
+    if value is None:
+        return []
+    if isinstance(value, str):
+        stripped = value.strip()
+        if not stripped:
+            return []
+        if stripped.startswith("["):
+            try:
+                parsed = json.loads(stripped)
+            except json.JSONDecodeError:
+                parsed = None
+            if isinstance(parsed, list):
+                return sorted({str(label).strip() for label in parsed if str(label).strip()})
+        return sorted({label.strip() for label in stripped.replace(",", "|").split("|") if label.strip()})
+    if isinstance(value, (list, tuple, np.ndarray)):
+        return sorted({str(label).strip() for label in value if str(label).strip()})
+    return [str(value).strip()]
+
+
+def encode_multilabels(
+    dataset: DatasetDict,
+    label_column: str,
+    label_map_path: str | None,
+) -> tuple[DatasetDict, int, dict[str, int]]:
+    if label_map_path:
+        label_map = json.loads(Path(label_map_path).read_text(encoding="utf-8"))
+        label_map = {str(label): int(idx) for label, idx in label_map.items()}
+    else:
+        labels: set[str] = set()
+        for split in dataset.values():
+            for value in split[label_column]:
+                labels.update(normalize_label_list(value))
+        label_map = {label: idx for idx, label in enumerate(sorted(labels))}
+
+    if not label_map:
+        raise ValueError("No labels found for multi-label dataset")
+
+    def map_multi_label(row: dict[str, Any]) -> dict[str, list[float]]:
+        encoded = [0.0] * len(label_map)
+        for label in normalize_label_list(row[label_column]):
+            if label not in label_map:
+                raise ValueError(f"Unknown label {label!r}; update --label-map or rebuild the dataset")
+            encoded[label_map[label]] = 1.0
+        return {"labels": encoded}
+
+    return dataset.map(map_multi_label), len(label_map), label_map
+
+
 def prepare_dataset(
     dataset_arg: str,
     tokenizer,
     max_length: int,
     max_train_samples: int | None,
     max_eval_samples: int | None,
+    task_type: str = "single_label",
+    label_map_path: str | None = None,
 ) -> tuple[DatasetDict, int, dict[str, int]]:
-    dataset = load_uit_vsfc_or_csv(dataset_arg)
+    dataset = load_uit_vsfc_or_local(dataset_arg)
     if "validation" not in dataset and "dev" in dataset:
         dataset["validation"] = dataset["dev"]
     if "validation" not in dataset and "test" in dataset:
@@ -174,7 +238,10 @@ def prepare_dataset(
 
     text_column = infer_text_column(dataset["train"].column_names)
     label_column = infer_label_column(dataset["train"].column_names)
-    dataset, num_labels, label_map = encode_labels(dataset, label_column)
+    if task_type == "multi_label":
+        dataset, num_labels, label_map = encode_multilabels(dataset, label_column, label_map_path)
+    else:
+        dataset, num_labels, label_map = encode_labels(dataset, label_column)
 
     def tokenize(batch: dict[str, list[Any]]) -> dict[str, Any]:
         return tokenizer(
@@ -233,6 +300,24 @@ def compute_metrics(eval_pred) -> dict[str, float]:
     }
 
 
+def make_multilabel_compute_metrics(threshold: float):
+    def compute_multilabel_metrics(eval_pred) -> dict[str, float]:
+        logits, labels = eval_pred
+        probs = 1.0 / (1.0 + np.exp(-logits))
+        preds = (probs >= threshold).astype(int)
+        labels_int = labels.astype(int)
+        return {
+            "accuracy": accuracy_score(labels_int, preds),
+            "micro_f1": f1_score(labels_int, preds, average="micro", zero_division=0),
+            "macro_f1": f1_score(labels_int, preds, average="macro", zero_division=0),
+            "weighted_f1": f1_score(labels_int, preds, average="weighted", zero_division=0),
+            "samples_f1": f1_score(labels_int, preds, average="samples", zero_division=0),
+            "hamming_loss": hamming_loss(labels_int, preds),
+        }
+
+    return compute_multilabel_metrics
+
+
 def directory_size_mb(path: Path) -> float:
     if not path.exists():
         return 0.0
@@ -276,8 +361,18 @@ def main() -> None:
         args.max_length,
         args.max_train_samples,
         args.max_eval_samples,
+        task_type=args.task_type,
+        label_map_path=args.label_map,
     )
-    model = build_phobert_classifier(args.model_name, num_labels=num_labels)
+    id2label = {idx: label for label, idx in label_map.items()}
+    problem_type = "multi_label_classification" if args.task_type == "multi_label" else None
+    model = build_phobert_classifier(
+        args.model_name,
+        num_labels=num_labels,
+        problem_type=problem_type,
+        id2label=id2label,
+        label2id=label_map,
+    )
     replaced_modules = configure_method(args, model)
     counts = count_parameters(model)
 
@@ -316,7 +411,9 @@ def main() -> None:
         "train_dataset": dataset["train"],
         "eval_dataset": dataset["validation"],
         "data_collator": DataCollatorWithPadding(tokenizer),
-        "compute_metrics": compute_metrics,
+        "compute_metrics": make_multilabel_compute_metrics(args.label_threshold)
+        if args.task_type == "multi_label"
+        else compute_metrics,
     }
     trainer_arg_names = inspect.signature(Trainer.__init__).parameters
     if "processing_class" in trainer_arg_names:
@@ -340,13 +437,18 @@ def main() -> None:
         "method": args.method,
         "model_name": args.model_name,
         "dataset": args.dataset,
+        "task_type": args.task_type,
         "rank": "" if args.method == "ft" else args.rank,
         "alpha": "" if args.method == "ft" else args.alpha,
         "dropout": "" if args.method == "ft" else args.dropout,
         "seed": args.seed,
         "accuracy": metrics.get("eval_accuracy"),
+        "micro_f1": metrics.get("eval_micro_f1"),
         "macro_f1": metrics.get("eval_macro_f1"),
         "weighted_f1": metrics.get("eval_weighted_f1"),
+        "samples_f1": metrics.get("eval_samples_f1"),
+        "hamming_loss": metrics.get("eval_hamming_loss"),
+        "label_threshold": args.label_threshold if args.task_type == "multi_label" else "",
         "trainable_params": counts.trainable,
         "total_params": counts.total,
         "trainable_percent": counts.trainable_percent,

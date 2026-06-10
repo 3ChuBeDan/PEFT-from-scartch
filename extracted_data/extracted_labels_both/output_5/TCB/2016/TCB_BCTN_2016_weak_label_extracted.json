@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Với chiến lược phát triển nguồn nhân lực và giữ chân nhân tài, các chương trình về quản lý nhân tài và đãi ngộ cán bộ nhân viên đạt thành tích cao được đẩy mạnh, song song với các chương trình đào tạo cho đội ngũ bán hàng để tăng chất lượng dịch vụ và các bộ phận hỗ trợ với tổng chi phí đào tạo, huấn luyện nghiệp vụ tăng 16% so với năm 2015. Ngân hàng cũng đã chú trọng hơn đến các chương trình xây dựng văn hóa tổ chức và chăm lo, gắn kết với nhân viên và người thân của cán bộ nhân viên với việc dành một phần chi phí cho tổ chức hoạt động teambuilding, hoạt động đoàn thể, thuê xe đưa cán bộ nhân viên và người thân về quê đón Tết, tổ chức tiệc tri ân cuối năm cho cán bộ nhân viên và người thân của từng đơn vị.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.5 Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro cho tiền gửi và cho vay các tổ chức tín dụng khác, mua và ủy thác mua trái phiếu doanh nghiệp chưa niêm yết, cho vay khách hàng và ủy thác cấp tín dụng (tiếp theo) ; column_headers: Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | a. | Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc b. Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | a. | Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc b. Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | a. c. e. | Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc b. Nợ gia hạn nợ lần đầu; hoặc Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc d. Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. Nợ trong thời hạn thu hồi theo kết luận thanh tra. | 20% [ROW] 4 | Nợ nghi ngờ | a. c. | Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc b. Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc | 50% [ROW] 5 | Nợ có khả năng mất vốn | a. c. e. f. | Nợ quá hạn trên 360 ngày; hoặc b. Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc d. Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã quá hạn; hoặc Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc g. Nợ của khách hàng là tổ chức tín dụng được NHNNVN công bố đặt vào tình trạng kiểm soát đặc biệt, hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa vốn và tài sản. | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 5
+      }
+    }
+  ]
+}

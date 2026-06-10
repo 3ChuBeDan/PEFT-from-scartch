@@ -1,0 +1,26 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 235,
+      "text": "Đối với hoạt đồng kinh doanh chính, KBC cũng hướng tới các giá trị xanh. 90% khách hàng của KBC là các doanh nghiệp công nghệ cao, sản xuất ít khói thải, và hiện có một số doanh nghiệp hoạt động trong lĩnh vực phát triển công nghệ sinh hóa thân thiện với môi trường. Tại các KCN của KBC, đều có hệ thống xử lý nước thải ngay từ khi thành lập nhằm đảm bảo chất lượng nước thải chung cho toàn KCN. Hiện nay nhà máy xử lý nước thải thải tại các KCN có công suất 10.000m3/ngày đêm hiện được đánh giá phù hợp với công suất của các nhà máy và cho ra sản phẩm nước thải đủ tiêu chuẩn trước khi xả ra sông hồ tự nhiên.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E3": 1
+      }
+    }
+  ]
+}

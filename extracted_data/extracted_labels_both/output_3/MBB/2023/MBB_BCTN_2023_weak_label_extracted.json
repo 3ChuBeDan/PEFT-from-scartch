@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Trong bối cảnh nền kinh tế gặp nhiều khó khăn cùng với việc chuyển đổi các sản phẩm/ dịch vụ sang kênh Số, khả năng phát sinh rủi ro hoạt động, đặc biệt là rủi ro gian lận có xu hướng tăng lên. Với mục tiêu tiếp tục hoàn thiện, nâng cao nền tảng quản trị rủi ro gian lận theo thông lệ quốc tế, MB đã chính thức triển khai Dự án Phòng chống tội phạm tài chính (FCRM) gồm 02 cấu phần Phòng chống gian lận và Phòng chống rửa tiền từ năm 2020. Hệ thống có khả năng phân tích dữ liệu lớn để phát hiện tội phạm gian lận, rửa tiền trên đa dạng các mảng hoạt động Ngân hàng; giúp đảm bảo an toàn cho giao dịch của khách hàng và ngân hàng. Hệ thống kết hợp giữa rule base và mô hình máy học, kết hợp giữa giám sát realtime, near realtime và batch để tăng tính chính xác, kịp thời, toàn diện của cảnh báo. Các mô hình và kịch bản giám sát của hệ thống đều đang đạt chỉ tiêu kiểm soát chất lượng ở mức tốt so với thông lệ thị trường (tỷ lệ phát hiện chủ động cao, tỷ lệ cảnh báo giả thấp).",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 6
+      }
+    },
+    {
+      "text": "MB đẩy mạnh tăng trưởng dư nợ tín dụng xanh trong cơ cấu tín dụng theo định hướng của NHNN (tăng 3,8 lần so với năm 2020). Trong đó, vốn tài trợ cho các dự án năng lượng tái tạo, năng lượng sạch hầu như là vốn cho vay trung dài hạn, đánh dấu sự chuyển đổi định hướng tín dụng theo hướng bền vững. Như thời điểm hiện tại, Ngân hàng đang cung cấp tài chính cho hơn 30 dự án điện mặt trời và điện gió với tổng quy mô vào khoảng 70.000 tỷ đồng, giúp các chủ đầu tư tạo ra khoảng 3.600 MW điện năng lượng tái tạo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ÁP DỤNG TIÊU CHUẨN GRI ; column_headers: Tiêu chuẩn GRI | Tên yêu cầu công bố thông tin | Mục tham chiếu theo báo cáo thường niên | Chủ đề trọng yếu tương ứng | Có công bố thông tin [ROWS] Tiêu chuẩn GRI | Tên yêu cầu công bố thông tin | Mục tham chiếu theo báo cáo thường niên | Chủ đề trọng yếu tương ứng | Có công bố thông tin [ROW] Công bố thông tin chung [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2-12 Vai trò của cấp quản lý cao nhất trong giám sát việc quản lý các tác động | Chương 5 – Quản trị Phát triển bền vững Chương 4 – Nâng tầm quản trị tiến bước Chương 1 – Cơ cấu quản trị Tập đoàn Chương 5 – Quản trị Phát triển bền vững Chương 4 – Nâng tầm quản trị tiến bước tương lai Chương 5 – Quản trị Phát triển bền vững | Quản trị PTBV | ✓ [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2-13 Phân công trách nhiệm quản lý tác động | Chương 5 - Quản trị Phát triển bền vững | Quản trị PTBV | ✓ [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung | 2-14 Vai trò của cấp quản lý cao nhất trong báo cáo PTBV | Chương 5 - Quản trị Phát triển bền vững | Quản trị PTBV | ✓ [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2-15 Xung đột lợi ích | Chương 4 – Quản lý xung đột lợi ích Chương 4 – Bảo đảm lợi ích và đối xử công bằng với cổ đông | Đạo đức doanh nghiệp | ✓ [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2-18 Đánh giá hiệu quả hoạt động của cấp quản lý cao nhất | Chương 5 - Quản trị Phát triển bền vững | Quản trị PTBV | ✓ [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2-19 Chính sách về thù lao | Chương 4 – Các giao dịch, lương, thù lao và các khoản lợi ích đối với HĐQT, BKS, BĐH | Đạo đức doanh nghiệp | ✓ [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2-22 Tuyên bố về chiến lược PTBV | Chương 5 – Thông điệp của lãnh đạo về Phát triển bền vững | Quản trị PTBV | ✓ [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2-23 Cam kết chính sách | Chương 5 – Định hướng và Mục tiêu Phát triển bền vững | Quản trị PTBV | ✓ [ROW] GRI 2: Công bố thông tin theo tiêu chuẩn chung 2021 | 2-24 Triển khai các cam kết chính sách | Chương 5 – Đóng góp tiêu biểu về Phát triển bền vững trong năm 2023 | Tất cả các chủ đề trọng yếu đối với MB | ✓",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

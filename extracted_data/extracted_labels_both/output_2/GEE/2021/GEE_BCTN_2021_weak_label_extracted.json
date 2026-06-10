@@ -1,0 +1,68 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "⚪ Các nguồn năng lượng tái tạo như thủy điện, điện mặt trời, điện gió đang là ưu tiên phát triển mạnh của Công ty với các lợi ích ưu việt của nguồn năng lượng sạch: giảm thiểu lượng khí thải nhà kính, ít gây ô nhiễm và thân thiện với môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "⚪ Tại COP26, Việt Nam đã cùng gần 150 quốc gia cam kết đưa mức phát thải ròng về \"0\" vào giữa thế kỷ; cùng với hơn 100 quốc gia tham gia cam kết giảm phát thải khí methane toàn cầu vào năm 2030 so với năm 2010; cùng gần 50 quốc gia tham gia tuyên bố toàn cầu về chuyển đổi điện than sang năng lượng sạch. Những cam kết mạnh mẽ và ý kiến đóng góp có trách nhiệm của người đứng đầu Chính phủ Việt Nam tại COP26 đã được cộng đồng quốc tế đánh giá cao, mở ra nhiều cơ hội hợp tác về tăng trưởng ít phát thải, thúc đẩy phát triển kinh tế tuần hoàn, thích ứng với biến đổi khí hậu. Trước bối cảnh này, GELEX Electric đã nhanh chóng nắm bắt và tập trung định hướng đầu tư vào lĩnh vực năng lượng xanh, năng lượng tái tạo như thủy điện, điện gió, điện mặt trời góp phần hạn chế khai thác nguồn năng lượng hóa thạch truyền thống, giảm lượng phát thải khí CO2 để bảo vệ môi trường và đem lại giá trị kinh tế bền vững cho doanh nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 1,
+        "E3": 4
+      }
+    },
+    {
+      "text": "Về yếu tố bảo vệ môi trường, tại các nước đang phát triển, ngành năng lượng với các nhà máy nhiệt điện chiếm tỷ lệ cao trong cơ cấu nguồn điện, thường đóng góp đến 70 - 90% lượng CO2 và 75% lượng khí khác thải ra môi trường. GELEX Electric tập trung phát triển những lĩnh vực mang tính bền vững, thiết yếu và giảm phát thải khí CO2 như nguồn năng lượng tái tạo bao gồm điện gió, điện mặt trời và định hướng tiếp tục phát triển mảng năng lượng tái tạo bao gồm cả điện rác, điện sinh khối nhằm cải thiện môi trường sống. Bên cạnh đó, GELEX Electric luôn nghiên cứu và áp dụng các công nghệ mới để sản xuất các sản phẩm thiết bị điện thân thiện với môi trường, đảm bảo các tiêu chuẩn kỹ thuật tiên tiến, ...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    }
+  ]
+}

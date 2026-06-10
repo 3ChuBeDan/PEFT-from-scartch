@@ -1,0 +1,120 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "text": "Thành lập Trung tâm Tích hợp Hệ thống (tiền thân của CMC SI) và Trung tâm Giải pháp Phần mềm (tiền thân của CMC Soft).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Khối Hạ tầng số do CMC Telecom dẫn dắt đạt doanh thu tăng 16% so với cùng kỳ và hoàn thành 96% kế hoạch. Năm 2024, CMC Data Center Tân Thuận trở thành đơn vị đầu tiên tại Việt Nam đạt đồng thời tiêu chuẩn An toàn Hệ thống Thông tin Cấp độ 4 và chứng chỉ Uptime Tier III về vận hành. Nhiều giải thưởng uy tín được trao cho khối như Sáng kiến An ninh mạng của năm (Asian Telecom Awards 2024) và Dịch vụ khách hàng tốt nhất 2024 (Global Brand Awards). Sản phẩm CMC Cloud được vinh danh Top 10 sản phẩm số xuất sắc giai đoạn 2018–2024.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Ưu tiên sử dụng các dạng năng lượng sạch, thân thiện với môi trường, hạn chế sự thất thoát, lãng phí các nguồn tài nguyên và năng lượng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tháng 5/2024 CMC Data Center Tân Thuận trở thành đơn vị đầu tiên tại Việt Nam đạt tiêu chuẩn An toàn Hệ thống Thông tin Cấp độ 4- mức cao nhất theo khung của Bộ TTTT – phối hợp Bộ Công An & Bộ Quốc phòng. Điều này khẳng định năng lực bảo mật và an ninh mạng ở cấp độ quốc gia.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Khối Hạ tầng số do CMC Telecom đạt mức tăng trưởng doanh thu 16%, hoàn thành 96% kế hoạch. Năm 2024, CMC Data Center Tân Thuận trở thành đơn vị đầu tiên tại Việt Nam đạt đồng thời tiêu chuẩn An toàn Hệ thống Thông tin Cấp độ 4 và chứng chỉ Uptime Tier III về vận hành. Nhiều giải thưởng uy tín được trao cho khối như Sáng kiến An ninh mạng của năm (Asian Telecom Awards 2024) và Dịch vụ khách hàng tốt nhất 2024 (Global Brand Awards). Sản phẩm CMC Cloud được vinh danh Top 10 sản phẩm số xuất sắc giai đoạn 2018–2024.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Quản trị các nhóm rủi ro chính năm 2024 ; column_headers: Nhóm Rủi ro Mô tả Biện pháp kiểm soát [ROWS] Nhóm Rủi ro Mô tả Biện pháp kiểm soát [ROW] Rủi ro chiến lược | Rủi ro Cạnh tranh | Rủi ro giảm lợi thế cạnh tranh trong thị trường mà mức độ cạnh tranh về cả số lượng lẫn chất lượng ngày càng gia tăng | Nâng cao năng lực cạnh tranh thông qua việc nâng cao chất lượng sản phẩm và dịch vụ, mở rộng hạ tầng và phát triển năng lực kỹ thuật, giải pháp đặc thù ngành góp phần tăng giá trị cho khách hàng. Nâng cao năng lực cạnh tranh trong dài hạn bằng chiến lược đầu tư vào nguồn lực nhân sự, đưa mục tiêu phát triển và nâng cao chất lượng nhân sự trực tiếp vào KPI của các đơn vị. Nâng cao chất lượng dịch vụ chăm sóc khách hàng, lấy \"Hướng khách hàng\" – một trong bốn giá trị cốt lõi của Tập đoàn Công nghệ CMC làm trọng tâm. Thường xuyên rà soát, đánh giá và cải tiến mô hình kinh doanh, đẩy mạnh chuyển đổi số nội bộ, hoàn thiện và tối ưu hóa các quy trình vận hành để nâng cao hiệu suất và chất lượng hoạt động, từ đó tạo ra năng lực cạnh tranh xuất phát từ năng lực nội tại của Tập đoàn. [ROW] Rủi ro hoạt động | Rủi ro an ninh thông tin | Rủi ro trong việc bị lộ, bị thay đổi, bị mất thông tin, rủi ro bị tấn công mạng, từ đó có thể gây ra ảnh hưởng đến hoạt động cũng như uy tín của Tập đoàn trên thị trường | Xác định việc đảm bảo bảo mật, an ninh, an toàn thông tin là ưu tiên hàng đầu trong hoạt động của doanh nghiệp. Đầu tư nguồn lực, nâng cao năng lực của hệ thống thông tin trong các đơn vị của Tập đoàn, áp dụng triệt để các biện pháp chống thất thoát dữ liệu và an toàn hệ thống thông tin. Gán trách nhiệm an toàn thông tin với từng thành viên trong Tập đoàn, nhằm giảm thiểu tối đa vi phạm an toàn thông tin dẫn tới hậu quả nghiệm trọng. Liên tục giám sát an toàn, an ninh mạng tự động qua Trung tâm điều hành an ninh mạng CMC (CMC SOC) - được tích hợp trí tuệ nhân tạo và công nghệ Automation. Thực hiện các hoạt động rà soát, giám sát, kiểm soát nội bộ, hoàn thiện hệ thống quy định, quy trình về quản trị an ninh thông tin trong Tập đoàn [ROW] Rủi ro nhân sự | Rủi ro không đáp ứng đủ nhu cầu nhân lực, không đảm bảo nhân sự chất lượng và ổn định trong khi không ngừng bứt phá về mặt quy mô hoạt động | Xây dựng môi trường làm việc tốt, phát triển thương hiệu tuyển dụng để thu hút nguồn nhân lực. Xây dựng lộ trình nghề nghiệp rõ ràng, đồng thời tổ chức các khóa đào tạo nhằm nâng cao kiến thức chuyên môn và kỹ năng mềm cho nhân viên và cán bộ lãnh đạo kế cận, xem đây vừa là yếu tố thu hút nhân sự, vừa là yếu tố giúp nâng cao chất lượng nhân sự. Tiếp tục thực hiện chính sách đãi ngộ cạnh tranh và minh bạch dựa vào kết quả công việc. Có tầm nhìn và kế hoạch dài hạn trong việc xây dựng đội ngũ nhân sự kế cận làm nòng cốt tương lai cho CMC Xây dựng văn hóa doanh nghiệp vững mạnh, theo đuổi giá trị cốt lõi của Tập đoàn CMC “Commitment – Cam kết” trong mọi hoạt động.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    }
+  ]
+}

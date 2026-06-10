@@ -1,0 +1,304 @@
+{
+  "extracted_count": 15,
+  "extracted": [
+    {
+      "paragraph_id": 460,
+      "text": "Trong bối cảnh khó khăn của thị trường thế giới gây ảnh hưởng mạnh đến hoạt động xuất nhập khẩu, gia tăng rủi ro về rửa tiền, tài trợ khủng bố và gian lận thương mại, SeABank tăng cường công tác nhận biết khách hàng, nhận biết giao dịch, tập trung kiểm soát chặt chẽ các hoạt động chuyển tiền ra nước ngoài theo Thông tư 20/2022/TT-NHNN nhằm ngăn chặn các hành vi lợi dụng chính sách để chuyển tiền trái mục đích, trái quy định.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 759,
+      "text": "Giám sát của quản lý cấp cao đối với đánh giá nội bộ về mức đủ vốn: tổ chức thực hiện đánh giá nội bộ về mức đủ vốn; xử lý, khắc phục các tồn tại, hạn chế của đánh giá nội bộ về mức đủ vốn theo yêu cầu, kiến nghị của NHNN, tổ chức kiểm toán độc lập và các cơ quan chức năng khác.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    },
+    {
+      "paragraph_id": 851,
+      "text": "Xây dựng bộ tiêu chí cảnh báo sớm các tài khoản có dấu hiệu gian lận/nghi ngờ gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1016,
+      "text": "SeABank tiếp tục mua các hợp đồng bảo hiểm rủi ro hoạt động toàn diện, bao gồm: rủi ro gian lận của nhân viên, rủi ro cơ sở vật chất, vận chuyển tiền, gian lận giả mạo, chi phí pháp lý, rủi ro tội phạm máy tính và điện tử, rủi ro an ninh mạng, rủi ro trách nhiệm nghề nghiệp... nhằm giúp SeABank giảm thiểu tổn thất trong bối cảnh rủi ro an ninh mạng và gian lận, giả mạo đang ngày càng gia tăng. Từ tháng 3/2023, SeABank triển khai thêm đơn bảo hiểm trách nhiệm Giám đốc và Cán bộ quản lý nhằm tăng cường bảo vệ trước các nguy cơ tổn thất do phát sinh khiếu kiện đối với các quyết định khi điều hành công việc/lỗi/sơ suất của Ngân hàng trong quá trình thực hiện công việc. SeABank chưa từng phát sinh sự kiện rủi ro cần yêu cầu bồi thường từ bảo hiểm.",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 1.0
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 1248,
+      "text": "Ngân hàng cũng triển khai Hệ thống SeATeller - Tự động hóa giao dịch quầy hỗ trợ nhận diện khách hàng tại mọi điểm chạm khi giao dịch tại Ngân hàng, giúp khách hàng nhập thông tin thông qua sinh trắc học. Hệ thống cũng đồng thời giúp tối ưu các thao tác dành cho GDV, Kiểm soát viên: cho phép cảnh báo trùng khớp, ngăn chặn gian lận 1 khách hàng mở nhiều ID, đối chiếu thông tin khách hàng... giúp Ngân hàng chủ động trong việc quản lý, kiểm soát và phòng chống gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1255,
+      "text": "Từ năm 2021, SeABank đã nỗ lực tìm kiếm các nguồn vốn tài trợ từ nước ngoài để hỗ trợ các chương trình tín dụng xanh, với mong muốn góp phần thực hiện mục tiêu trong Chiến lược quốc gia về tăng trưởng xanh cũng như hỗ trợ cho các hoạt động kinh doanh thuộc các ngành, lĩnh vực thân thiện với môi trường, thích ứng với biến đổi khí hậu, mang lại lợi ích về môi trường như: nông nghiệp xanh, công trình xanh, năng lượng tái tạo, năng lượng sạch, quản lý nước bền vững tại khu vực đô thị và nông thôn...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1421,
+      "text": "Đối với các tòa nhà có lượng xả nước thải trên 5m3/ ngày đêm: SeABank yêu cầu chủ cơ sở cung cấp giấy phép xả nước thải vào nguồn nước hoặc giấy phép môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1425,
+      "text": "Nhu cầu xả nước thải lớn hơn 5m3 /ngày đêm: Phải xây dựng trạm xử lý nước thải, các chỉ số đáp ứng Bảng 1- Giá trị các thông số ô nhiễm làm cơ sở tính toán giá trị tối đa cho phép trong nước thải sinh hoạt (Cột B quy định giá trị C).",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1441,
+      "text": "Nguồn phát thải khí nhà kính (GHG) chính của SeABank chủ yếu đến từ việc sử dụng năng lượng điện. SeABank sử dụng các hướng dẫn của Ủy ban liên chính phủ về biến đổi khí hậu (IPCC - Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories) về kiểm kê khí nhà kính và hệ số phát thải gián tiếp của mạng lưới điện Việt Nam để tính toán tổng lượng GHG phát thải trong năm kiểm kê.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 1447,
+      "text": "Lý do lựa chọn năm cơ sở: căn cứ theo quy định pháp luật tại Nghị định 06/2022/NĐ-CP ngày 7/1/2022 về Quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 1994,
+      "text": "[TABLE] [CONTEXT] section: A. Các dự án đang triển khai ; column_headers: Tên dự án | Mục đích, nội dung triển khai | Tình hình triển khai [ROWS] Tên dự án | Mục đích, nội dung triển khai | Tình hình triển khai [ROW] Phòng chống rửa tiền (AML) | Tuân thủ các quy định NHNN, trong năm 2023, SeABank đã triển khai hệ thống PCRT đảm bảo tuân thủ. | Thời gian triển khai: tháng 2/2022. Tổng đầu tư: 4 tỷ đồng. [ROW] Triển khai hệ thống quản lý thanh toán SeAPayment | Dự án tập trung xây dựng các tính năng chính: • Quản lý thanh toán dành cho Merchant là website/ứng dụng, giúp Merchant kiểm tra các giao dịch thanh toán từ phía khách hàng theo thời gian thực. • Thu hộ thương mại điện tử dành cho Merchant: cho phép Merchant đăng tải thông tin sản phẩm dịch vụ, mua hàng hóa dịch vụ và thanh toán qua ứng dụng SeANet/SeAMobile. • SeABank có thể quản trị Merchant thông qua việc tiếp nhận, kiểm duyệt thông tin của Merchant để kịp thời hỗ trợ... Hiện tại, dự án đang tìm kiếm giải pháp và xây dựng yêu cầu, dự kiến triển khai ứng dụng phiên | Thời gian triển khai: tháng 4/2023. Tổng đầu tư: 4,5 tỷ đồng. [ROW] B. Các dự án đã hoàn thành trong năm 2023 [ROW] Phòng chống thất thoát dữ liệu DLP | • Tăng cường các biện pháp bảo vệ đối với các dữ liệu nhạy cảm, quan trọng của Ngân hàng, đảm bảo được uy tín về bảo mật. • Giúp Ngân hàng đáp ứng các quy chuẩn quốc tế về an toàn thông tin (PCI-DSS, ISO) và tuân thủ các quy định của NHNN. • Hệ thống đã triển khai cho 12 đơn vị tại Hội sở, dự kiến tiếp tục mở rộng phạm vi trên toàn hệ thống. | Thời gian triển khai: tháng 1/2022. Tổng đầu tư: 8,6 tỷ đồng. [ROW] SeATeller | • Đã triển khai các nghiệp vụ tài chính dành cho KHCN và đầu tư. • Triển khai các bộ thiết bị SeATeller tại 6 chi nhánh: Sở Giao dịch, Hà Nội, Bắc Ninh, Thanh Hóa, Hồ Chí Minh, Đại Nam nhằm thí điểm nhận diện khách hàng tại mọi điểm chạm khi giao dịch tại quầy. • Đồng bộ trải nghiệm kênh quầy và kênh online • Nâng cao trải nghiệm khách hàng: hỗ trợ khách hàng nhập thông tin cá nhân tự động, tự động hiển thị thông tin lên mẫu biểu... • Tối ưu các thao tác dành cho GDV, Kiểm soát viên: cho phép cảnh báo trùng khớp, ngăn chặn gian lận mở nhiều ID, đối chiếu thông tin khách hàng... | Thời gian triển khai: tháng 4/2022. Tổng đầu tư: 8 tỷ đồng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 2050,
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI ; column_headers: Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROWS] Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROW] GRI 302: Năng lượng 2016 | 302-3 Đo lường việc sử dụng năng lượng | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả | 184-187 [ROW] GRI 303: Nước và nước thải 2018 | 302-4 Tiết kiệm tiêu thụ năng lượng | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả | 184-187 [ROW] GRI 303: Nước và nước thải 2018 | 303-1 Sử dụng nước như một nguồn tài nguyên chung | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả | 184-187 [ROW] GRI 303: Nước và nước thải 2018 | 303-2 Quản lý các tác động liên quan đến xả thải nước | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả | 184-187 [ROW] GRI 303: Nước và nước thải 2018 | 303-3 Nguồn cung cấp nước | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả 100% nước sinh hoạt của văn phòng làm việc được mua từ các công ty cấp nước của khu vực. | 184-187 [ROW] GRI 303: Nước và nước thải 2018 | 303-4 Xả thải nước | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả SeABank luôn tuân thủ quy định về xả thải | 184-187 [ROW] GRI 303: Nước và nước thải 2018 | 303-5 Tiêu thụ nước | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả | 184-187 [ROW] GRI 304: Đa dạng sinh học | 304-1 Các địa điểm hoạt động thuộc sở hữu, cho thuê, quản lý trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn | Các tòa nhà, địa điểm thuộc hoạt động của SeABank được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn. [ROW] GRI 304: Đa dạng sinh học | 304-2 Tác động trọng yếu của các hoạt động, sản phẩm và dịch vụ đối với đa dạng sinh học | Các tòa nhà, địa điểm thuộc hoạt động của SeABank được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn. [ROW] GRI 304: Đa dạng sinh học | 304-3 Môi trường sống được bảo vệ hoặc phục hồi | Các tòa nhà, địa điểm thuộc hoạt động của SeABank được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn.",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 6,
+        "E_COMMON": 8
+      }
+    },
+    {
+      "paragraph_id": 2051,
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI ; column_headers: Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROWS] Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROW] GRI 304: Đa dạng sinh học | 304-4 Các loài trong danh sách đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trường sống trong các khu vực bị ảnh hưởng bởi các hoạt động | Các tòa nhà, địa điểm thuộc hoạt động của SeABank được đặt tại các khu vực đông dân cư, không nằm trong hoặc liền kề với các khu bảo tồn và các khu vực có giá trị đa dạng sinh học cao bên ngoài các khu bảo tồn. [ROW] GRI 305: Khí thải 2016 | 305-2 Phát thải khí nhà kính (Phạm vi 2) do tiêu thụ năng lượng gián tiếp | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả - Phát thải khí nhà kính | 186-187 [ROW] GRI 305: Khí thải 2016 | 305-5 Giảm phát thải khí nhà kính | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả - Phát thải khí nhà kính | 186-187 [ROW] GRI 305: Khí thải 2016 | 306-1 Rác thải và các tác động nghiêm trọng liên quan đến rác thải | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả - Quản lý rác thải | 186 [ROW] GRI 305: Khí thải 2016 | 306-2 Quản lý các tác động nghiêm trọng liên quan đến rác thải | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả - Quản lý rác thải | 186 [ROW] GRI 305: Khí thải 2016 | 306-3 Lượng rác thải | Phần 03 – Sử dụng năng lượng, tài nguyên tiết kiệm hiệu quả - Quản lý rác thải | 186 [ROW] GRI 401: Việc làm 2016 | 401-2 Phúc lợi dành riêng cho nhân viên toàn thời gian | Chương II – Tổ chức và nhân sự Chương III – Đánh giá của BTGĐ liên quan đến vấn đề người lao động Phần 03 – Phát triển nhân tài | 37-38 70-71 174-177 [ROW] GRI 403: An toàn và sức khỏe nghề nghiệp 2016 | 403-6 Nâng cao sức khỏe người lao động | Chương II – Tổ chức và nhân sự Chương III – Đánh giá của BTGĐ liên quan đến vấn đề người lao động Phần 03 – Phát triển nhân tài | 37-38 70-71 174-177 [ROW] GRI 404: Đào tạo và giáo dục 2016 | 404-1 Số giờ đào tạo trung bình hàng năm của mỗi nhân viên | Phần 03 – Phát triển nhân tài | 174-177 [ROW] GRI 404: Đào tạo và giáo dục 2016 | 404-2 Các chương trình nâng cao kỹ năng của nhân viên và các chương trình hỗ trợ chuyển tiếp | Phần 03 – Phát triển nhân tài | 174-177",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 10,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 2052,
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI ; column_headers: Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROWS] Tiêu chuẩn GRI | Nội dung Công bố thông tin | Vị trí trong báo cáo thường niên | Số trang [ROW] GRI 404: Đào tạo và giáo dục 2016 | 404-3 Tỷ lệ phần trăm nhân viên nhận được đánh giá hiệu quả làm việc và tư vấn phát triển nghề nghiệp thường xuyên | Phần 03 – Phát triển nhân tài | 174-177 [ROW] GRI 406: Không phân biệt đối xử 2016 | 406-1 Các sự cố phân biệt đối xử và hành động khắc phục được thực hiện | Chương V – Cam kết của HĐQT về PTBV Chương VI – Cam kết của doanh nghiệp thực hiện trách nhiệm trong PTBV (Xây dựng văn hóa PTBV) Phần 03 – Phát triển nhân tài SeABank hiện chưa ghi nhận các sự cố phân biệt đối xử | 94-98 154-155 174-177 [ROW] GRI 407: Quyền tự do liên kết và thương lượng tập thể | 407-1 Các hoạt động và nhà cung cấp có thể gặp rủi ro về quyền tự do liên kết và thương lượng tập thể | Chương V – Tổng quan về hoạt động của HĐQT | 82-85 [ROW] GRI 408: Lao động trẻ em 2016 | 408-1 Các hoạt động có rủi ro đáng kể đối với việc sử dụng lao động trẻ em | Chương VI – Cam kết của doanh nghiệp thực hiện trách nhiệm trong PTBV (Xây dựng văn hóa PTBV) SeABank cam kết không sử dụng hình thức lao động trẻ em | 154-155 [ROW] GRI 409: Lao động cưỡng ép | 409-1 Các hoạt động có rủi ro đáng kể đối với hình thức lao động cưỡng ép | Chương VI – Cam kết của doanh nghiệp thực hiện trách nhiệm trong PTBV (Xây dựng văn hóa PTBV) SeABank cam kết không áp dụng hình thức lao động cưỡng ép | 154-155 [ROW] GRI 416: Sức khỏe và an toàn của khách hàng 2016 | 416-2 Sự cố không tuân thủ liên quan đến các tác động tới sức khỏe và an toàn của sản phẩm và dịch vụ | SeABank hiện chưa ghi nhận sự cố không tuân thủ liên quan đến các tác động tới sức khỏe và an toàn của sản phẩm và dịch vụ",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.623009,
+        "S4": 0.963863,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "S4": 3,
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 2061,
+      "text": "[TABLE] [CONTEXT] section: a) Phân loại nợ ; column_headers: Nhóm nợ | Tình trạng quá hạn [ROWS] Nhóm nợ | Tình trạng quá hạn [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm thỏa thuận chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi. [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm thỏa thuận chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; [ROW] 5 | Nợ có khả năng mất vốn | (a) Nợ quá hạn trên 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 91 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc (d) Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên; hoặc (e) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc (f) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc (g) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm thỏa thuận chưa thu hồi được trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc (h) Nợ của khách hàng là tổ chức tín dụng được NHNNVN công bố đặt vào tình trạng kiểm soát đặc biệt, hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa vốn và tài sản.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 5
+      }
+    }
+  ]
+}

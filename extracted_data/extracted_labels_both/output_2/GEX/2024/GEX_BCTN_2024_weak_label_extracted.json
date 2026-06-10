@@ -1,0 +1,89 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 137,
+      "text": "Sản phẩm: Nhà kho/nhà xưởng xây sẵn/xây theo yêu cầu với diện tích đa dạng, phân khúc cao cấp, đạt tiêu chuẩn công trình xanh quốc tế và chứng nhận LEED về công trình xanh.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 645,
+      "text": "Bê tông khí chưng áp của Viglacera được công nhận là thành viên của Singapore Green Building Coun - cil (SGBC – Hiệp hội Công trình Xanh Singapore) năm 2023 - Sản phẩm đạt tiêu chuẩn sử dụng cho các công trình đạt chuẩn quốc tế về công trình xanh.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E3": 0.777029,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 680,
+      "text": "Thực hiện biện pháp tái chế, tái sử dụng và xử lý chất thải an toàn. Đổi mới công nghệ và tối ưu hóa quy trình để giảm sử dụng nguyên liệu, năng lượng, khí thải và chất thải rắn. Đảm bảo khí thải, nước thải và các chất ô nhiễm không ảnh hưởng đến môi trường, thông qua đầu tư vào công nghệ lọc khí, xử lý nước thải và giám sát liên tục.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 923,
+      "text": "[TABLE] [CONTEXT] section: Thống kê Quản lý tác động đến môi trường trong các lĩnh vực SXKD ; column_headers: 2023 | 2024 ; row_headers: Phát thải khí nhà kính (GHG) | Tổng mức tiêu thụ các loại NVL chính (tấn) | Tỷ lệ NVL được tái chế (%) | Điện năng tiêu thụ (kWh) | Khí đốt LPG (tấn) | Khí CNG (mmBTU) | Tổng lượng nước tiêu thụ (m3) | Tỷ lệ nước được tái chế và tái sử dụng (%) (m3) | Tỷ lệ nước thải được xử lý (m3) | Khí đốt (tấn) | Tỷ lệ nước được tái chế và tái sử dụng (%) | Tỷ lệ nước thải được xử lý (%) | Tổng lượng nước cung cấp từ trạm cấp nước sạch tại các KCN (m3) | Tổng lượng nước thải được xử lý tập trung (m3) | Sản lượng sản xuất nước sạch (m3) | Lĩnh vực Thiết bị điện | Lĩnh vực Khu công nghiệp | Lĩnh vực cung cấp nước sạch [ROWS] Lĩnh vực Vật liệu xây dựng | 2024 | 2023 [ROW] Phát thải khí nhà kính (GHG) | 672.389 | 3.332.616 [ROW] Quản lý nguyên vật liệu [ROW] Tổng mức tiêu thụ các loại NVL chính (tấn) | 1.416.434 | 1.679.070 [ROW] Tỷ lệ NVL được tái chế (%) | 6,1% | 6,0% [ROW] Tiêu thụ năng lượng [ROW] Điện năng tiêu thụ (kWh) | 177.026.069 | 206.215.091 [ROW] Khí đốt LPG (tấn) | 181.271 | 123.255 [ROW] Khí CNG (mmBTU) | 1.415.476 | 2.467.988 [ROW] Tiêu thụ nước [ROW] Tổng lượng nước tiêu thụ (m3) | 1.308.260 | 1.381.325 [ROW] Tỷ lệ nước được tái chế và tái sử dụng (%) (m3) | 16,0% | 15,0% [ROW] Tỷ lệ nước thải được xử lý (m3) | 36,3% | 35,9% [ROW] Lĩnh vực Thiết bị điện | 2024 | 2023 [ROW] Quản lý nguyên vật liệu [ROW] Tổng mức tiêu thụ các loại NVL chính (tấn) | 149.635 | 128.353 [ROW] Tỷ lệ NVL được tái chế (%) | 0,1% | 0,1% [ROW] Tiêu thụ năng lượng [ROW] Điện năng tiêu thụ (kWh) | 42.451.802 | 38.336.545 [ROW] Khí đốt (tấn) | 64.702 | 54.644 [ROW] Tiêu thụ nước [ROW] Tổng lượng nước tiêu thụ (m3) | 180.844 | 144.694 [ROW] Tỷ lệ nước được tái chế và tái sử dụng (%) | 27,9% | 13,7% [ROW] Tỷ lệ nước thải được xử lý (%) | 66,4% | 68,6% [ROW] Lĩnh vực Khu công nghiệp | 2024 | 2023 [ROW] Tiêu thụ năng lượng [ROW] Điện năng tiêu thụ (kWh) | 11.734.390 | 9.704.301 [ROW] Cung cấp và xử lý nước thải tập trung [ROW] Tổng lượng nước cung cấp từ trạm cấp nước sạch tại các KCN (m3) | 14.814.948 | 13.475.186 [ROW] Tổng lượng nước thải được xử lý tập trung (m3) | 8.678.618 | 7.483.118 [ROW] Lĩnh vực cung cấp nước sạch | 2024 | 2023 [ROW] Sản lượng sản xuất nước sạch (m3) | 116.000.000 | 112.000.000",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Tất cả nhà máy đều đảm bảo nước thải đạt chất lượng theo tiêu chuẩn QCVN 4 0:2011 (loại A hoặc loại B) trước khi xả ra môi trường hoặc xả vào hệ thống thu gom nước thải của khu công nghiệp. Công tác quan trắc môi trường nước thải định kỳ của các đơn vị đều tuân thủ đúng tần suất như trong báo cáo Đánh giá tác động môi trường (ĐTM) được phê duyệt.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "E_COMMON": 1.0,
+        "S6": 0.412568
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E_COMMON": 3,
+        "S6": 1
+      }
+    },
+    {
+      "text": "Vào tháng 10/2020, miền Trung Việt Nam đã phải hứng chịu những cơn bão nhiệt đới liên tiếp, gây ra những trận lũ lụt và sạt lở đất tồi tệ nhất trong vòng 100 năm qua trở lại đây. Nhiều ngôi nhà đã bị tàn phá, mùa màng bị hư hại còn người dân thì bị lâm vào cảnh trắng tay. Tại thời điểm chương trình Chạy tiếp sức \"Lên cùng Việt Nam\" diễn ra, SABECO đã chứng kiến những thiệt hại nặng nề do các đợt lũ gây ra ở Miền Trung, điều này đã thôi thúc Tổng Công ty phải hành động kịp thời để hỗ trợ cộng đồng địa phương. Do đó, SABECO và Tổng LĐLĐVN đã quyết định trích số tiền tối thiểu 1 tỷ đồng để cứu trợ Miền Trung. Quyết định này hoàn toàn phù hợp với tinh thần tương thân tương ái của chương trình \"Lên cùng Việt Nam\", đồng thời thể hiện sức mạnh và tinh thần đoàn kết vượt qua mọi khó khăn của dân tộc Việt Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "G9": 1
+      }
+    }
+  ]
+}

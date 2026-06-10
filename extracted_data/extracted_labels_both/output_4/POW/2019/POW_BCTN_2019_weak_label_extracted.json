@@ -1,0 +1,224 @@
+{
+  "extracted_count": 12,
+  "extracted": [
+    {
+      "paragraph_id": 393,
+      "text": "Nguồn nhiên liệu đầu vào trong nước ngày càng hạn chế: Nguồn khí Đông Nam Bộ ngày càng suy giảm; nguồn khí Tây Nam Bộ không đủ, giá khí bổ sung từ Petronas cao ảnh hưởng đến vận hành của Nhà máy điện Cà Mau 1&2; nguồn than trong nước thiếu hụt nên phải sử dụng than trộn, than nhập khẩu ảnh hưởng đến vận hành của Nhà máy điện Vũng Áng 1. Với nguồn khí thiên nhiên trong nước đang ngày càng suy giảm, đòi hỏi phải sử dụng nguồn khí và LNG nhập khẩu giá cao để bù đắp nên ảnh hưởng đến tính cạnh tranh của PV Power khi tham gia thị trường điện.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 405,
+      "text": "-Trữ lượng than trong nước và trên thế giới đang ngày càng cạn kiệt, tiêu hao ngày càng tăng dẫn đến việc tìm kiếm, cung cấp đủ lượng than trong nước/nhập khẩu cho các Nhà máy điện than ngày càng khó khăn. Bên cạnh đó, đối với công tác cung ứng than nhập khẩu sẽ gặp nhiều khó khăn về công tác vận chuyển, cơ sở hạ tầng tiếp nhận, phân phối than.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 410,
+      "text": "Nguồn than Anthracite hiện có khối lượng hạn chế trên thị trường. Từ năm 2019, nhu cầu than cho sản xuất điện của các nhà máy tăng lên dẫn đến nguồn than sản xuất trong nước không đủ đáp ứng. Từ năm 2020, các nhà máy điện của EVN, PVN/PV Power đều phải sử dụng nguồn than pha trộn giữa than sản xuất trong nước và than nhập khẩu có chất lượng tương đương than cám sản xuất trong nước. Ngày 02/12/2019, Thủ tướng Chính phủ ban hành Chỉ thị số 29/CT-TTg về việc tiếp tục tăng cường công tác quản lý nhà nước đối với hoạt động sản xuất, kinh doanh than và cung cấp than cho sản xuất điện, theo đó \"Chủ đầu tư nhà máy nhiệt điện than chịu trách nhiệm thu xếp nguồn than hợp pháp để cung cấp trong suốt thời gian tồn tại của nhà máy\". Như vậy, nguồn than sử dụng cho nhà máy đã bao gồm cả than trong nước, than nhập khẩu, than pha trộn. Tuy nhiên, trước nhu cầu huy động điện ngày càng cao của Bộ Công Thương và A0, năm 2020, ngoài nguồn than do TKV cấp, PV Power sẽ chủ động thu xếp phần khối lượng còn lại.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 16
+      }
+    },
+    {
+      "paragraph_id": 416,
+      "text": "Đối với nhà máy sử dụng than trong nước: Chủ đầu tư nhà máy chịu trách nhiệm thu xếp nguồn than hợp pháp để cung cấp trong suốt thời gian tồn tại của nhà máy, chủ động trong công tác mua than từ TKV, TCT Đông Bắc hoặc từ các doanh nghiệp khác có nguồn gốc than hợp pháp theo quy định, đảm bảo giá than cạnh tranh và hiệu quả.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 417,
+      "text": "Đối với các nhà máy sử dụng than nhập khẩu: Chủ đầu tư nhà máy trực tiếp nhập khẩu hoặc mua than qua đầu mối là TKV, Tổng công ty Đông Bắc hoặc qua doanh nghiệp khác, bảo đảm nguồn than hợp pháp theo quy định, giá than cạnh tranh và hiệu quả. Khó khăn, vướng mắc hiện nay là toàn bộ chi phí vận chuyển than từ cảng trung chuyển khu vực Vũng Áng – Hà Tĩnh bằng đường bộ về kho NMNĐ Vũng Áng 1 phát sinh vẫn chưa được EVN thanh toán vào giá điện, do chưa có hướng dẫn của Bộ Công Thương hoặc cơ quan quản lý Nhà nước có thẩm quyền.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 469,
+      "text": "Nhập khẩu than: xây dựng quy chế/ quy trình cho nhập khẩu than, chuẩn bị đầu tư cơ sở hạ tầng cho công tác nhập khẩu than như cảng nhập, kho than, hệ thống phối trộn, vận tải nội địa ...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 502,
+      "text": "5 Tích cực đề xuất Chính phủ, các Bộ Ngành trong việc thay đổi cơ chế, chính sách đối với việc cung cấp than cho các Nhà máy điện. Ngày 02/12/2019, Thủ tướng Chính phủ đã có Chỉ thị số 29/CT-TTg về tiếp tục tăng cường công tác quản lý Nhà nước đối với hoạt động sản xuất điện, theo đó đã tạo chủ động cho các đơn vị sản xuất điện trong việc cung cấp than để vận hành nhà máy, tạo tiền đề cho việc khắc phục tình trạng thiếu than của Nhà máy nhiệt điện Vũng Áng 1 do chỉ được sử dụng than trong nước như trước đây.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 503,
+      "text": "6 Đẩy mạnh công tác xúc tiến đầu tư các dự án điện mới , nghiên cứu mở rộng nguồn nhiên liệu mới, các loại hình năng lượng sạch như điện mặt trời (mái nhà, lòng hồ), điện sử dụng khí LNG... ngoài các loại hình truyền thống là nhiệt điện than, nhiệt điện khí, thuỷ điện. Việc này có ý nghĩa quan trọng khi mà các nguồn nhiên liệu như than, khí gas đang dần suy giảm; đồng thời là những bước đi quan trọng trong việc thực hiện Chiến lược phát triển Tổng Công ty, giúp hoạt động sản xuất kinh doanh được đa dạng, không chỉ phụ thuộc vào việc vận hành các nhà máy hiện hữu.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 614,
+      "text": "Như vậy có thể thấy tốc độ tăng trưởng nhu cầu phụ tải của hệ thống điện Việt Nam rất lớn và tốc độ đáp ứng của các nguồn điện mới không đáp ứng kịp trong năm vừa qua cũng như trong các năm tiếp theo. Trong năm 2019, qua kịch bản huy động điện cùng với thực tế vận hành các nhà máy điện khí, than và thủy điện của PV Power, có thể thấy các Nhà máy điện khí là một ưu thế lớn của PV Power với việc vận hành đảm bảo không ảnh hưởng đến môi trường, độ khả dụng cao, tốc độ đáp ứng nhu cầu phụ tải nhanh. Đối với Nhà máy điện than cần đảm bảo độ khả dụng máy móc thiết bị cũng như khả dụng nhiên liệu thì mới vận hành tối đa công suất, đảm bảo hiệu quả - đây là một thách thức lớn trong công tác vận hành nhà máy điện than hiện nay.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 876,
+      "text": "Khí thải: các nhà máy khí điện sử dụng công nghệ đốt tiên tiến, khí thải luôn thấp hơn rất nhiều so với quy chuẩn. Nhà máy nhiệt điện than Vũng Áng 1 cũng được trang bị hệ thống xử lý khí thải hiệu suất cao đảm bảo khí thải ra tại ống khói nhà máy luôn đạt quy chuẩn. Năm 2018, nhà máy Vũng Áng 1 thực hiện chuyển đổi nhiên liệu đốt kèm khởi động lò từ HFO sang DO giúp đưa hệ thống xử lý khí thải vào hoạt động ngay trong khi khởi động lò. Tất cả các ống khói thải của các nhà máy đều lắp đặt thiết bị quan trắc tự động liên tục, một số nhà máy đã kết nối trực tiếp dữ liệu với Sở TNMT địa phương.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 877,
+      "text": "Nước thải: các nhà máy điện thuộc PVPower đều có hệ thống xử lý nước thải công nghiệp và nước thải sinh hoạt, đảm bảo nước thải đầu ra luôn đạt quy chuẩn. Nước thải của các nhà máy được kiểm soát chất lượng chặt chẽ, trước khi xả ra môi trường có hệ thống quan trắc chất lượng và lưu lượng tự động liên tục kết nối dữ liệu với Sở TNMT địa phương.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 878,
+      "text": "Chất thải rắn: Chất thải rắn thông thường cũng như chất thải nguy hại của các nhà máy đều được ký hợp đồng chuyển giao xử lý với các đơn vị đủ chức năng. Tro xỉ của NMNĐ Vũng Áng được chứng nhận hợp quy hợp chuẩn đủ điều kiện để được sử dụng sản xuất vật liệu xây dựng và đã được nhà máy chuyển giao cho các đơn vị tiêu thụ sản xuất vật liệu xây dựng như nhà máy xi măng, trạm trộn bê tông...",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 336,
+      "text": "RỦI RO GIAN LẬN, RỦI RO PHÒNG ỐỬỀÀ ÀỦ Ậ, CHỐNG RỬA TIỀN VÀ TÀI TRỢ KHỦNG BỐ",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 338,
+      "text": "Sự phát triển của khoa học công nghệ cũng đồng thời khiến dòng chảy tiền lưu thông giữa các quốc gia càng trở nên mạnh mẽ, việc kiểm soát nguồn gốc các khoản tiền lưu thông trong hệ thống ngân hàng ngày càng trở nên khó khăn hơn. Đồng thời, trước bối cảnh Việt Nam bị Mỹ đưa vào danh sách các nước thao túng tiền tệ, nghiệp vụ phòng chống rửa tiền, tài trợ khủng bố và giám sát dòng tiền liên quan đến quốc gia bị cấm vận hoặc các hoạt động chuyển ngoại tệ phi pháp được đánh giá là một trong những vấn đề trọng tâm giám sát của năm 2021. VietinBank đã liên tục thực hiện cập nhật, kiện toàn hệ thống văn bản quy định, hướng dẫn đảm bảo việc triển khai công tác phòng chống rửa tiền, tài trợ khủng bố được hiệu quả. Đồng thời, thúc đẩy hợp tác với các đối tác nước ngoài, các cơ quan công an, Cục phòng chống rửa tiền để đẩy mạnh công tác kiểm soát rủi ro phòng chống rửa tiền, tài trợ khủng bố, phát hiện ngăn chặn các giao dịch nghi ngờ một cách kịp thời. Trong năm 2021, VietinBank không phát sinh bất kỳ sự vụ, giao dịch vi phạm các chương trình/danh sách cấm vận phòng chống rửa tiền, tài trợ khủng bố của các tổ chức quốc tế.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 5
+      }
+    },
+    {
+      "paragraph_id": 652,
+      "text": "phó biến đổi khí hậu và PTBV. Năm 2021, dư nợ tín dụng xanh của VietinBank tăng trưởng 80% so với năm 2020, tài trợ cho đa dạng các lĩnh vực thân thiện với môi trường như: Xử lý chất thải và phòng chống ô nhiễm, nông nghiệp xanh, năng lượng sạch... Ngoài ra, VietinBank tích cực đẩy mạnh ứng dụng công nghệ, xây dựng thói quen thân thiện với môi trường cho khách hàng, phát triển các kênh giao dịch điện tử qua eFAST, iPay, các dịch vụ, phương thức thanh toán mới trên nền tảng công nghệ hiện đại, các giao dịch thanh toán trên kênh số năm 2021 tăng trưởng mạnh mẽ, tương đương 138% so với cùng kỳ, góp phần hướng tới mục tiêu xanh hóa hoạt động hệ thống ngân hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 658,
+      "text": "HĐQT ghi nhận và đánh giá cao nỗ lực của BĐH trong việc thực hiện nhiệm vụ và hoàn thành xuất sắc các chỉ tiêu kế hoạch kinh doanh được ĐHĐCĐ thường niên 2021 giao. Các thành viên trong BĐH đã phát huy tinh thần gương mẫu, trách nhiệm trong việc xây dựng môi trường làm việc chuyên nghiệp, thân thiện, lan toả văn hoá doanh nghiệp và gắn kết người lao động trong các hoạt động của Ngân hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 791,
+      "text": "VietinBank luôn tuân thủ các văn bản pháp luật hiện hành về bảo vệ môi trường như Luật bảo vệ môi trường năm 2014, các Nghị định và Thông tư hướng dẫn báo cáo hiện trạng và quản lý số liệu quan trắc môi trường. Định kỳ hằng năm, VietinBank ký kết các hợp đồng dịch vụ với các đơn vị chuyên môn để thực hiện quan trắc nước thải và quan trắc môi trường lao động định kỳ, ký hợp đồng thu gom, vận chuyển và xử lý rác thải tại các tòa trụ sở theo quy định của pháp luật.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.75,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 799,
+      "text": "Hiện tại, đối với tài trợ xanh (Green Finance) và PTBV, VietinBank đã triển khai các hoạt động đối với 6 lĩnh vực: Nông nghiệp xanh; Lâm nghiệp bền vững; Năng lượng tái tạo, năng lượng sạch; Tái chế, tái sử dụng các nguồn tài nguyên; Xử lý chất thải và phòng chống ô nhiễm; Quản lý nước bền vững tại khu vực đô thị và nông thôn .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 801,
+      "text": "Đạt được kết quả như trên, VietinBank đã triển khai đồng bộ các giải pháp tài chính toàn diện để thúc đẩy HĐKD hướng đến bảo vệ môi trường. VietinBank đã xây dựng quy định nội bộ về QLRR MT-XH, 100% các dự án do Ngân hàng tài trợ được đánh giá rủi ro MT-XH, áp dụng các tiêu chuẩn về môi trường. VietinBank cung cấp giải pháp tài chính toàn diện chuỗi giá trị Ngành Năng lượng từ năng lượng sơ cấp, sản xuất, truyền tải, phân phối và dịch vụ phục vụ Ngành Năng lượng; Chủ động xây dựng các sản phẩm, giải pháp linh hoạt trong tài trợ các dự án Xanh: Sản phẩm tài trợ dự án điện mặt trời mái nhà; giải pháp tài trợ các dự án ngành năng lượng tái tạo với quy trình cấp tín dụng nhanh qua đó tư vấn cho khách hàng danh mục hồ sơ tối thiểu; thiết kế công cụ tính toán hiệu quả tài chính nhanh để cán bộ thẩm định sử dụng; sản phẩm tái tài trợ các dự án đi vào vận hành hiệu quả, sản phẩm bảo lãnh vay vốn cho các dự án năng lượng tái tạo có nhu cầu vay vốn nước ngoài.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1616,
+      "text": "[TABLE] [CONTEXT] section: Dự phòng cụ thể ; column_headers: Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROW] 1 Nợ đủ tiêu chuẩn | (a) Khoản nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn | 5% [ROW] 3 Nợ dưới tiêu chuẩn | a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: - Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do khách hàng vi phạm hợp đồng tín dụng với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 1617,
+      "text": "[TABLE] [CONTEXT] section: 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo) ; column_headers: Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROW] 4 Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra, kiểm tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do khách hàng vi phạm thỏa thuận với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin tín dụng có liên quan. | 50% [ROW] 5 Nợ có khả năng mất vốn | (a) Khoản nợ quá hạn trên 360 ngày; hoặc (b) Khoản nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 91 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc (d) Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên; hoặc (e) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc (f) Khoản nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra, kiểm tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc (g) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do khách hàng vi phạm thỏa thuận với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chưa thu hồi được trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc (h) Khoản nợ của khách hàng là tổ chức tín dụng đang được kiểm soát đặc biệt, chi nhánh ngân hàng nước ngoài đang bị phong tỏa vốn và tài sản; hoặc (i) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin tín dụng có liên quan. | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 2
+      }
+    }
+  ]
+}

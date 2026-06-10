@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 244,
+      "text": "Phòng ngừa tội phạm tài chính: nghiên cứu soạn thảo và đề xuất áp dụng các chính sách như quà tặng, phòng chống tham nhũng, hối lộ, gian lận, xử lý tố cáo vi phạm trong nội bộ. Một trong những hoạt động kiểm soát tuân thủ mà khối GRC chú trọng tăng cường trong thời gian tới là hoạt động phòng và chống rửa tiền (AML). Dự án này dự kiến sẽ hoàn thành vào quý 2/2024.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 482,
+      "text": "HSC nhận thức rằng việc xây dựng chính sách, quy trình nội bộ và cơ chế giám sát các tình huống \"xung đột lợi ích\" đối với người quản lý và điều hành trong công ty không những góp phần ngăn ngừa, giảm thiểu rủi ro vụ lợi cá nhân mà còn đảm bảo sự bình đẳng giữa các cổ đông. Hiện tại, công ty đang tuân thủ theo chuẩn mực \"tránh xung đột lợi ích\" của pháp luật Việt Nam.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

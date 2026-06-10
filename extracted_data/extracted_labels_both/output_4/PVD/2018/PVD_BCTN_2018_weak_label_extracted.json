@@ -1,0 +1,98 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 1034,
+      "text": "Mặc dù vậy PV Drilling vẫn tiếp tục thực hiện các biện pháp khác nhau để thu hồi số nợ quá hạn nêu trên như gửi công văn đến PVEP và các Đơn vị thuộc PVEP để yêu cầu thanh toán nợ quá hạn cũng như tổ chức các cuộc họp 3 bên với PVN và PVEP để tìm cách giải quyết số nợ quá hạn mà PVEP và các Đơn vị thành viên thuộc PVEP còn nợ PV Drilling. Trong năm 2018, PV Drilling đã thu hồi gần 80% tổng nợ quá hạn của các lô 05.1a, lô 09.2/09 và lô 01/10-02/10 tương ứng 400 tỷ đồng. Đến thời điểm 31/12/2018, tổng số nợ quá hạn của PVEP và các Đơn vị thuộc PVEP hơn 400 tỷ đồng (các đơn vị thành viên và liên doanh của PVD). Trong năm 2019, PV Drilling sẽ tiếp tục làm việc với PVEP và các đơn vị thuộc PVEP để thu hồi dứt điểm số nợ quá hạn còn lại. Đây là một trong những nhiệm vụ trọng tâm mà Ban lãnh đạo PV Drilling đặt ra trong 2019.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 6
+      }
+    },
+    {
+      "paragraph_id": 1224,
+      "text": "Công tác quản lý chất thải luôn được chú trọng và quan tâm hàng đầu trong tất cả các hoạt động của PV Drilling từ hoạt động của khối văn phòng đến hoạt động sản xuất tại các cơ sở trên bờ cũng như tất cả các giàn khoan ngoài khơi. Công tác phân loại chất thải luôn được tuân thủ nghiêm ngặt tại tất cả các đơn vị trực thuộc của PV Drilling. Chất thải do các hoạt động sản xuất kinh doanh của PV Drilling bao gồm 3 loại chính: chất thải rắn sinh hoạt, chất thải rắn công nghiệp thông thường và chất thải nguy hại. Chất thải được phân loại và lưu chứa theo đặc điểm rắn, lỏng hoặc bùn từ ngay tại nguồn. Tất cả các đơn vị của PV Drilling đều có quy trình phân loại chất thải phù hợp với hoạt động của mình và ký hợp đồng với các đơn vị có chức năng xử lý theo đúng quy định của pháp luật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 13
+      }
+    },
+    {
+      "paragraph_id": 1227,
+      "text": "Đối với việc xử lý nước thải tại các giàn khoan ngoài khơi, PV Drilling lắp đặt các hệ thống xử lý nước thải hiện đại để xử lý nước thải sinh hoạt, nước thải sản xuất, nước vỉa... đạt theo yêu cầu của quy chuẩn Việt Nam hoặc tiêu chuẩn quốc tế trước khi thải xuống biển, phù hợp với những công ước quốc tế mà Việt Nam tham gia.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 2075,
+      "text": "[TABLE] [CONTEXT] section: 3.2 Quản lý chất thải Chất thải rắn: ; column_headers: TT | Loại chất thải phát sinh | Đơn vị | Lượng phát thải [ROWS] TT | Loại chất thải phát sinh | Đơn vị | Lượng phát thải [ROW] 1 | Chất thải rắn sinh hoạt | tấn | 208 [ROW] 2 | Chất thải nguy hại | tấn | 197 [ROW] 3 | Chất thải rắn công nghiệp thông thường | tấn | 2 [ROW] 4 | Nước | m3 | 20.001",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 15
+      }
+    },
+    {
+      "paragraph_id": 2094,
+      "text": "[TABLE] [CONTEXT] section: 6. PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG ; column_headers: Số cuối năm | Số đầu năm | VND | Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng ; row_headers: Công ty TNHH MTV Điều Hành Thăm Dò Khai Thác Dầu Khí | Tổng Công ty Thăm dò Khai thác Dầu khí | Các khách hàng khác [ROWS] Số cuối năm | Số đầu năm [ROW] VND | VND [ROW] Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng | Nợ quá hạn trên 6 tháng (Giá gốc) | Dự phòng [ROW] Công ty TNHH MTV Điều Hành Thăm Dò Khai Thác Dầu Khí | 91.029.215.565 | (60.069.722.925) | 450.616.527.915 | (220.582.461.189) [ROW] Tổng Công ty Thăm dò Khai thác Dầu khí | 187.512.133.770 | (134.851.032.765) | 183.927.204.360 | (93.977.838.690) [ROW] Các khách hàng khác | 13.452.498.915 | (10.598.975.010) | 14.459.242.596 | (9.698.947.776) [ROW] 291.993.848.250 | (205.519.730.700) | 649.002.974.871 | (324.259.247.655)",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

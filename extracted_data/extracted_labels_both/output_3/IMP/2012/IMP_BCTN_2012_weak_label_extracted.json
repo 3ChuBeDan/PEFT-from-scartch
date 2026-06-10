@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 940,
+      "text": "[TABLE] [CONTEXT] section: Các chƣơng trình xã hội thực hiện năm 2012 ; column_headers: STT | Hoạt động | Kinh phí | Số lƣợng | Đối tƣợng [ROWS] STT | Hoạt động | Kinh phí | Số lƣợng | Đối tƣợng [ROW] 1 | Khám chữa bệnh và phát thuốc, quà miễn phí | 600.000.000 | 15 chuyến | Đối tượng là các xã nghèo, diện chính sách, có công với cách mạng. Đoàn khám của ĐHYD Tp . HCM, các bệnh viện tuyến tỉnh, y bác sĩ tham gia khoảng 300 người, tổng bệnh nhân và bà con nghèo được khám, phát thuốc: 7 . 500 người [ROW] 2 | Ủng hộ cho Khách hàng thân thiết của Imexpharm bị cháy quầy thuốc tại chợ Quảng Ngãi | 5.000.000 | 1 | Tháng 3/2012 chợ Trung tâm tại Tỉnh Quảng Ngãi bị cháy, các tiểu thương rất khó khăn, trong đó có khách hàng thân thiết của Imexpharm, thể hiện tình tương thân tương ái và như lời cam kết khi kinh doanh gắn bó cùng Imexpharm, công ty trích quỹ hỗ trợ nhà thuốc xây mới lại để ổn định kinh doanh. [ROW] 3 | Tổ chức Giải cầu lông cho Tỉnh Cần Thơ | 60.000.000 | 1 | Kỷ niệm ngày Thế giới phòng chống lao 24/3, Imexpharm tài trợ thường niên cho Công đoàn Sở Y Tế tổ chức cho các quận huyện trong khu vực về tham gia tranh giải. [ROW] 4 | Tổ chức Giải Quần vợt ngành y tế ĐBSCL 2012 | 300.000.000 | 1 | Giải thường niên, năm 2012 tổ chức tại Tp Cần Thơ. [ROW] 5 | Tài trợ áo, nón, Banderoll cho Chương trình Tiếp sức Mùa thi 2012 | 70.000.000 | 1 | Các trường được tài trợ: ĐHYD Tp. HCM, ĐHYD Tp . Cần Thơ [ROW] 6 | Tham gia Triển lãm\" Người Việt ưu tiên dùng Thuốc Việt\" | 55.000.000 | 1 | Hưởng ứng lời kêu gọi, tuyên truyền của Chính phủ, Bộ Y Tế, Imexpharm tham gia Hội chợ triển lãm trên [ROW] 7 | Tổ chức Giải cầu lông cho Tỉnh Bắc Giang | 50.000.000 | 1 | Tài trợ cho Sở Y tế Bắc Giang phát triển phong trào thể thao rèn luyện sức khỏe. [ROW] 8 | Tài trợ Chương trình \" Mang âm nhạc đến cho Bệnh viện\" | 27.500.000 | 1 | Thí điểm lần đầu tiên tại phía Nam của Đoàn Thanh niên Cộng sản Hồ Chí Minh - Bộ Y Tế",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

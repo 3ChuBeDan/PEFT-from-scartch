@@ -1,0 +1,101 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 315,
+      "text": "Trong năm 2024, Eximbank đã ban hành quy định về quản lý rủi ro gian lận và Bộ tiêu chí hướng dẫn ĐVKD nhận diện các dấu hiệu nghi ngờ gian lận, lừa đảo, vi phạm pháp luật liên quan đến tài khoản thanh toán, thẻ ngân hàng, Đơn vị chấp nhận thanh toán và các biện pháp kiểm soát rủi ro.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 351,
+      "text": "Trong những năm qua, hoạt động của tội phạm rửa tiền diễn ra vô cùng phức tạp với thủ đoạn tinh vi và có tổ chức khiến công tác kiểm tra, rà soát để nhận diện và phát hiện các dấu hiện đáng ngờ ngày càng khó khăn. Rửa tiền gây tác động tiêu cực đến sự ổn định và phát triển của nền kinh tế. Trong bối cảnh hội nhập quốc tế ngày càng sâu rộng và khối lượng giao dịch tài chính tại Việt Nam tăng nhanh chóng, công tác Phòng, chống rửa tiền (PCRT) đã trở thành yêu cầu cấp bách.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 1113,
+      "text": "Trong năm 2023, nhiệm vụ quản lý nước thải và chất thải phát sinh được theo dõi giám sát chặt chẽ, Exmbank luôn thực hiện nhiều biện pháp nhằm kiểm soát lượng nước thải và chất thải từ các văn phong, Chi nhánh, PGD, dự án. Đầu tư cho đổi mới công nghệ, sử dụng tài nguyên và năng lượng hiệu quả để tạo ưu thế cạnh tranh và góp phần bảo vệ môi trường là con đường phát triển tất yếu, thực hiện mục tiêu phát triển xanh, phát triển bền vững.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1138,
+      "text": "Nhận thức rõ hệ thống ngân hàng đóng vai trò như một mắt xích trung gian có tác động đến môi trường thông qua hoạt động của khách hàng, Eximbank đã xanh hóa dòng vốn đầu tư thông qua việc hướng các nguồn lực tài chính vào những lĩnh vực xanh như doanh nghiệp ứng dụng công nghệ cao, các dự án năng lượng tái tạo, công nghiệp hỗ trợ, nông nghiệp nông thôn, các dự án thủy điện nhỏ và vừa, sinh khối, xử lý nước thải, rác thải... nhằm tăng dần tỷ trọng tín dụng xanh trong cơ cấu danh mục đầu tư tín dụng, góp phần thúc đẩy khách hàng vay vốn chuyển đổi dự án và mục đích sử dụng vốn vay sang các dự án thân thiện với môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1685,
+      "text": "[TABLE] [CONTEXT] section: ĐẦU TƯ DỰ ÁN 2024 ; column_headers: DỰ ÁN | HIỆU QUẢ MANG LẠI | THỜI GIAN TRIỂN KHAI [ROWS] DỰ ÁN | HIỆU QUẢ MANG LẠI | THỜI GIAN TRIỂN KHAI [ROW] Triển khai công nghệ AI cho hệ thống tổng đài chăm sóc khách hàng (Contact Center) | Áp dụng công nghệ AI vào tổng đài Contact Center mang lại dịch vụ hỗ trợ 24/7, trả lời ngay lập tức các yêu cầu từ khách hang như tra cứu số dư và tư vấn sản phẩm. Khách hàng luôn nhận được hỗ trợ kịp thời, mọi lúc, mọi nơi, tối ưu trải nghiệm và sự tiện lợi. | Tháng 04/2024 [ROW] Mở rộng hệ thống khởi tạo khoản vay và quản lý quy trình (LOS/BPM) | Tối ưu hóa quy trình phê duyệt tín dụng và cập nhật biểu mẫu, sản phẩm mới giúp tăng tốc độ xử lý hồ sơ, nâng cao hiệu suất làm việc, đồng thời tự động hóa và cải thiện hiệu quả nhằm đáp ứng tốt nhu cầu công việc mà còn giúp khách hàng tiết kiệm thời gian và công sức, mang lại trải nghiệm xử lý hồ sơ nhanh chóng và thuận tiện. | Tháng 05/2024 [ROW] Mở rộng hệ thống quản lý quan hệ khách hàng (CRM/ESale+) | Tích hợp quản lý chính sách KPI, bản tin truyền thông, danh mục các sản phẩm dịch vụ mới của ngân hang nhằm xây dựng siêu ứng dụng để hỗ trợ cán bộ bán hàng giúp nâng cao trải nghiệm người dùng nội bộ, tối ưu hóa quy trình bán hàng, tạo điều kiện để tiếp cận khách hàng cung cấp các dịch vụ và sản phẩm phù hợp, góp phần cải thiện hiệu suất và tăng cường sự hài lòng của khách hàng. | Tháng 05/2024 [ROW] Nâng cấp hệ thống báo cáo quản trị và kho dữ liệu (MIS/Datawarehouse) | Tích hợp dữ liệu từ các hệ thống CNTT để thu thập và quản lý tập trung, tạo ra các báo cáo quản trị hỗ trợ quyết định chiến lược một cách nhanh chóng và chính xác. Đồng thời, tự động cập nhật các báo cáo vận hành và chuyên sâu (như báo cáo tổng hợp, báo cáo khách hàng cá nhân, khách hàng doanh nghiệp, phân tích nợ,...) nhằm tiết kiệm thời gian và tối ưu hóa nguồn lực. | Tháng 05/2024 [ROW] Mở rộng hệ thống văn phòng điện tử Eximbank (E-Office) | Tích hợp các tính năng đột phá như truyền thông nội bộ, thư viện Mobile, danh bạ tự động, lịch làm việc 365 và xác thực 2 yếu tố qua Microsoft 365 nhằm tăng cường kết nối nội bộ và bảo mật thông tin. Đồng thời, ứng dụng giải pháp bảo mật và phòng chống thất thoát dữ liệu (bao gồm gán watermark cho tất cả tài liệu điện tử, phân quyền hạn chế tải tài liệu, không cho phép chụp màn hình) giúp bảo vệ các thông tin, tối ưu hóa quy trình làm việc và nâng cao hiệu quả quản trị CNTT. | Tháng 04/2024 [ROW] Triển khai Trung tâm điều hành an ninh (SOC) | Triển khai SOC nhằm nâng cao năng lực phát hiện, ngăn chặn và ứng phó với các mối đe dọa an ninh mạng đặc biệt trong bối cảnh các mối đe dọa an ninh mạng ngày càng phức tạp. SOC hoạt động 24/7, giúp theo dõi liên tục các hoạt động trên hệ thống mạng, phát hiện kịp thời các mối đe dọa và đưa ra giải pháp xử lý nhanh chóng, giảm thiểu tác động của các cuộc tấn công mạng. | Tháng 05/2024 [ROW] Xác thực căn cước công ắ ự dân gắn chip | Áp dụng công nghệ thu thập dữ liệu sinh trắc học giúp xác thực giao dịch trực tuyến an toàn và nhanh chóng. Thông qua việc tích hợp chip điện tử trong căn cước công dân, quy trình xác minh danh tính trở nên chính xác, giảm thiểu nguy cơ giả mạo và tăng cường tính bảo mật. Bên cạnh đó, xác thực căn cước gắn chip qua Trung tâm dữ liệu quốc gia đảm bảo thông tin khách hàng chính xác và luôn được cập nhật liên tục. | Tháng 06/2024 [ROW] Triển khai công nghệ nhận diện giọng nói (Voice Biometrics) cho hệ thống tổng đài chăm sóc khách hàng (Contact Center) | Áp dụng công nghệ nhận dạng giọng nói (Voice Biometrics) vào tổng đài chăm sóc khách hàng giúp xác thực danh tính nhanh chóng và an toàn, nâng cao độ chính xác cũng như giảm thiểu rủi ro khi cung cấp thông tin. đặc biệt giải pháp này càng trở nên cần thiết trong bối cảnh các hình thức lừa đảo ngày càng tinh vi. | Tháng 07/2024 [ROW] Triển khai giải pháp phòng chống thất thoát dữ liệu (DLP) | Áp dụng giải pháp DLP nhằm củng cố hệ thống bảo mật thông tin, kiểm soát truy cập và nhận diện các hành vi bất thường, từ đó giảm thiểu nguy cơ rò rỉ thông tin. Đồng thời, đảm bảo an toàn cho các truy cập từ xa, tăng cường tính linh hoạt mà vẫn duy trì hiệu quả kiểm soát dữ liệu nội bộ. | Tháng 07/2024",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

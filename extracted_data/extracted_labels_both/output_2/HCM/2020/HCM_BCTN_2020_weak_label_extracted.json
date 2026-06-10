@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 399,
+      "text": "Việc tiếp tục khác biệt hóa các dịch vụ của HSC thông qua công nghệ đổi mới sáng tạo cũng tiềm ẩn những rủi ro. Trong kỷ nguyên công nghệ thông tin và công nghệ số, rủi ro phát sinh từ tội phạm an ninh mạng ngày càng gia tăng, bao gồm: các hoạt động tấn công máy tính, xâm phạm an ninh mạng và rò rỉ dữ liệu,...",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 778,
+      "text": "Hiện tại, Công ty đang tuân thủ theo chuẩn mực \"tránh xung đột lợi ích\" của pháp luật Việt Nam. Công ty đang trong quá trình xây dựng Quy chế nội bộ về tránh xung đột lợi ích với mục tiêu là đưa ra các phương pháp tiếp cận để xác định và ngăn chặn hoặc quản lý các xung đột có thể phát sinh trong quá trình hoạt động của Công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 781,
+      "text": "Chính vì lý do trên, chính sách giao dịch với các bên liên quan đang được xây dựng như là một phần trong Quy chế nội bộ về tránh xung đột lợi ích để đảm bảo mọi xung đột lợi ích tiềm ẩn trong giao dịch với các bên liên quan được kiểm soát nghiêm ngặt.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

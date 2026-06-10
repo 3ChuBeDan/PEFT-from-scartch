@@ -1,0 +1,86 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 494,
+      "text": " Đẩy mạnh truyền thông lan tỏa chủ đề \"Lãnh đạo phục vụ\" tới lãnh đạo , quản lý cấp trung tại các đơn vị kinh doanh , trong đó thể hiện tinh thần Lãnh đạo làm gương. Tất cả lãnh đạo đều cần: chủ động cởi mở -lắng nghe chia sẻ -hỗ trợ -đồng hành -chịu trách nhiệm cùng cán bộ nhân viên trong quá trình triển khai công việc, từ đó thúc đẩy tinh thần chủ động hơn -dám dấn thân -dám nghĩ - dám làm - đổi mới và cùng chia sẻ trách nhiệm từ cán bộ nhân viên đối với lãnh đạo .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1424,
+      "text": "[TABLE] [CONTEXT] section: 6.3. Chương trình đào tạo [ROWS]  Xây dựng đội ngũ đạt hiệu suất cao EB Hub Head quy hoạch  Phân tích báo cáo tài chính - Thẩm định khách hàng – Phòng chống gian lận (Fraud)  Phân tích thị trường vi mô & quản lý bán hàng  Quản trị nhân sự cho đội ngũ EB Hub Head quy hoạch (HR for non HR) Nâng cao kỹ năng lãnh đạo cho quản lý c ấp trung EB  Ứng dụng Nhân tướng học trong quản trị nhân sự và kinh doanh [ROW] Talentpool: 2 khóa  Số lượng tham dự khóa học: 195 lượt  Đánh giá trung bình khóa học: 4 , 2/5 |  Lãnh đạo tỉnh thức (Search Inside Yourself)  Tổ chức số và hệ sinh thái số (Digital Organization and Ecosystems)",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1432,
+      "text": "[TABLE] [CONTEXT] section: Quản lý chất thải ; column_headers: Loại chất thải | Chất thải rắn thông thường | Nước thải | Khí thải | Chất thải nguy hại [ROWS] Loại chất thải | Chất thải rắn thông thường | Nước thải | Khí thải | Chất thải nguy hại [ROW] Khối lượng phát sinh | 116 , 6 tấn/năm | 166 . 562 m3 /năm (ước tính bằng 100% lượng nước tiêu thụ) [ROW] Biện pháp quản lý áp dụng (theo thứ tự ưu tiên từ trái qua phải) | Tiết kiệm |  Tiết kiệm giấy , khuyến khích trao đổi công việc qua email , s ố hoá quy trình (truyền thông nội bộ , dán thông báo)  Định mức sử dụng văn phòng phẩm; sử dụng giấy in văn phòng sản xuất từ nguyên liệu được chứng nhận quản lý rừng bền vững |  Tiết kiệm nước tại khu v ệ sinh (truyền thông nội bộ , dán thông báo) |  Áp dụng định mức tiêu hao nhiên liệu cho các phương tiện v ận chuyển , Sử dụng các phương tiện đạt tiêu chuẩn v ề khí thải  Chỉ sử dụng máy phát điện trong trường hợp có sự c ố hoặc c ần thiết  Hệ thống điều hoà theo công nghệ hiện đại , tiết |  Thay thế đèn huỳnh quang bằng đèn LED tiết kiệm năng lượng và thân thiện môi trường",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 13,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 1433,
+      "text": "[TABLE] [CONTEXT] section: Quản lý chất thải [ROWS] (chứng nhận FSC)  Hạn chế sử dụng đồ nhựa 1 lần , túi nilon | kiệm năng lượng , Hệ thống điều hoà được tắt sau giờ làm việc , chỉ duy trì tại các khu vực c ần thiết [ROW] Tuần hoàn/Tái sử dụng |  Các dạng tài sản lớn như bàn ghế , tủ , máy tính khi hỏng hóc được thanh lý theo quy trình , không thải bỏ cùng các chất thải khác  In giấy 2 mặt  Tái sử dụng các bao bì , hộp chứa | Không áp dụng | Không áp dụng  Khuyến khích bơm mực thêm cho các máy in , máy photocopy thay vì thay mới để hạn chế phát thải ra môi trường [ROW] Thải bỏ và xử lý |  Chất thải rắn thải bỏ được phân loại tại ngu ồn , có nhân viên vệ sinh thu gom hàng ngày  Chất thải sau thu gom được chuyển giao cho đơn vị thuê ngoài có năng lực để xử |  Có hệ thống thu gom và x ử lý nước thải sinh hoạt đảm bảo quy chuẩn môi trường |  Định kỳ duy trì bảo dưỡng , sửa chữa , thay thế các phương tiện , thiết bị để tối ưu hiệu suất  Áp dụng công nghệ lọc khí thải đạt quy chuẩn môi trường |  Phân loại tại ngu ồn , thu gom và lưu trữ theo quy định  Chất thải sau thu gom được chuyển giao cho đơn vị thuê ngoài có năng lực để xử lý theo quy định pháp luật",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7
+      }
+    }
+  ]
+}

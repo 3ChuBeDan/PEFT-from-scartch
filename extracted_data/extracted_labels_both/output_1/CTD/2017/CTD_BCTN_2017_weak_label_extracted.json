@@ -1,0 +1,162 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "text": "Danh tiếng của Coteccons có thể bị ảnh hưởng trực tiếp bởi các sự kiện từ bản thân Công ty, hoặc gián tiếp đến từ các công ty con hoặc công ty thành viên, hoặc đến từ các đối tượng bên thứ ba. Có thể thấy, uy tín của Coteccons đã được khẳng định trong nhiều năm thông qua phong cách làm việc chuyên nghiệp, chân thành với khách hàng và đối tác; luôn đảm bảo chất lượng và tiến độ. Vì vậy, rủi ro về danh tiếng đến từ bản thân Coteccons là không lớn. Tuy nhiên, bất kỳ một nguồn thông tin không đáng tin cậy nào cũng có thể ảnh hưởng đến thương hiệu Công ty, trong đó có niềm tin của nhà đầu tư, uy tín đối với khách hàng cũng như tinh thần của CBNV.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Con người luôn luôn là cốt lõi của quá trình xây dựng và phát triển Công ty. Xây dựng và đào tạo đội ngũ trẻ kế thừa luôn là mục tiêu lớn của Công ty để đẩy mạnh tăng trưởng và phát triển bền vững. Việc đảm bảo thu hút nhân tài có tiềm năng, có thái độ tốt và tinh thần học hỏi cũng đồng thời là một thách thức lớn. Ngoài ra, các nhân sự trẻ cũng cần nhiều thời gian tích lũy kinh nghiệm thực tế và phát triển bản thân xứng tầm với bộ máy nhân sự lớn mạnh của Coteccons.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Công đoàn Coteccons thường xuyên có những chuyến thăm hỏi, tặng quà, động viên cho các công trường để khích lệ tinh thần các ban chỉ huy công trường vượt qua khó khăn. Nhân sự tại văn phòng tích cực tham gia các chương trình tình nguyện vừa để nâng cao tinh thần trách nhiệm với xã hội và cộng đồng, vừa để gắn kết các thành viên trong đại gia đình Coteccons ngoài những giờ làm việc căng thẳng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Với phương châm \"Coteccons - hơn cả một gia đình\", Coteccons luôn chú trọng chăm lo cho sự phát triển nghề nghiệp và đời sống vật chất, tinh thần của CBNV. Xây dựng môi trường làm việc chuyên nghiệp, bình đẳng, thân thiện, an toàn, đảm bảo nguồn thu nhập ổn định, tạo sự cân bằng giữa công việc và đời sống là những vấn đề được quan tâm trong công tác quản trị nhân sự. Ban lãnh đạo Công ty, thông qua các sự kiện, khảo sát và hệ thống kênh thông tin đa dạng, luôn chia sẻ, lắng nghe và trân trọng những ý kiến đóng góp ý kiến của CBNV. Ngoài ra, đối với những CBNV hết tuổi lao động nhưng có trình độ chuyên môn, đủ sức khỏe tiếp tục làm việc, nếu có nhu cầu, Công ty có thể xem xét hợp tác theo hợp đồng tư vấn hoặc cộng tác viên, đồng thời duy trì việc thăm hỏi và tặng quà, mời tham dự họp mặt những CBNV đã nghỉ hưu. Điều này lý giải vì sao Coteccons luôn nằm trong danh sách những doanh nghiệp có môi trường làm việc tốt nhất Việt Nam, thu hút đông đảo lực lượng lao động có trình độ và chuyên môn cao về làm việc và gắn bó lâu dài với Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Việc sử dụng vật liệu thân thiện môi trường (vật liệu xanh) đang trở thành xu thế tất yếu và là mục tiêu hướng tới của ngành công nghiệp xây dựng. Các sản phẩm vật liệu xanh cần đạt hai yêu cầu: Tiêu tốn ít năng lượng hơn cho việc tạo ra nó và giúp tiết kiệm được điện năng tiêu thụ khi đưa vào sử dụng. Theo dự báo, nhu cầu sử dụng vật liệu xây dựng ở nước ta vào năm 2020 là 33 tỷ viên gạch. Như vậy, đến năm 2020, mỗi năm chúng ta phải tiêu tốn 50 triệu m 3 đất sét (tương đương 2.500 ha đất khai thác ở độ sâu 2 m), 5 triệu tấn than và thải ra môi trường 19 triệu tấn khí CO 2 gây ô nhiễm môi trường và hiệu ứng nhà kính. Trước tình hình đó, năm 2017, Coteccons đã liên tục triển khai áp dụng các loại",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: DANH MỤC ĐỐI CHIẾU GRI ; column_headers: Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2017 | Trang [ROWS] Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2017 | Trang [ROW] 202 - 2 | Tỷ lệ thành viên ban lãnh đạo được tuyển dụng từ cộng đồng địa phương |  [ROW] GRI 203 | Tác động Kinh tế Gián tiếp [ROW] 203 - 1 | Đầu tư cơ sở hạ tầng và các dịch vụ được hỗ trợ |  | 44 - 162 - 163 -167 [ROW] 203 - 2 | Tác động kinh tế gián tiếp trọng yếu |  | 167 [ROW] GRI 204 | Thông lệ Mua sắm [ROW] 204 - 1 | Tỷ lệ chi tiêu cho các nhà cung cấp địa phương |  [ROW] GRI 205 | Chống tham nhũng [ROW] 205 - 1 | Các hoạt động đã được đánh giá rủi ro liên quan đến tham nhũng |  [ROW] 205 - 2 | Truyền thông và đào tạo về các chính sách và quy trình chống tham nhũng |  [ROW] 205 - 3 | Các vụ việc tham nhũng đã xác nhận vàcác biện pháp xử lý |  [ROW] GRI 206 | Hành vi cản trở cạnh tranh [ROW] 206 - 1 | Các chế tài đối với hành vi cản trở cạnh tranh, thực hành độc quyền và chống độc quyền |  [ROW] GRI 301 | Vật liệu [ROW] 301 - 1 | Vật liệu đã được sử dụng theo trọng lượng hoặc khối lượng |  [ROW] 301 - 2 | Vật liệu tái chế đã được sử dụng |  [ROW] 301 - 3 | Sản phẩm được tái chế và vật liệu đóng gói sản phẩm |  [ROW] GRI 302 | Năng lượng [ROW] 302 - 1 | Tiêu thụ năng lượng trong tổ chức |  [ROW] 302 - 2 | Tiêu thụ năng lượng ngoài tổ chức |  [ROW] 302 - 3 | Cường độ sử dụng Năng lượng |  [ROW] 302 - 4 | Giảm tiêu hao năng lượng |  [ROW] 302 - 5 | Giảm nhu cầu năng lượng của sản phẩm và dịch vụ |  [ROW] GRI 303 | Nước [ROW] 303 - 1 | Lượng nước đầu vào theo nguồn |  [ROW] 303 - 2 | Những nguồn nước chịu ảnh hưởng đáng kể bởi lượng nước đầu vào |  [ROW] 303 - 3 | Tuần hoàn và tái sử dụng nước |  [ROW] GRI 304 | Đa dạng sinh học [ROW] 304 - 1 | Các cơ sở hoạt động được sở hữu, cho thuê, quản lý trong, hoặc gần kề các khu vực được bảo tồn và các khu vực đa dạng sinh học cao bên ngoài các khu được bảo tồn |  [ROW] 304 - 2 | Tác động đáng kể của các hoạt động, sản phẩm và dịch vụ đối với đa dạng sinh học | ",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "E_COMMON",
+        "G11"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3,
+        "G11": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: DANH MỤC ĐỐI CHIẾU GRI ; column_headers: Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2017 | Trang [ROWS] Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2017 | Trang [ROW] 304 - 3 | Các môi trường sống được bảo tồn hoặc phục hồi |  [ROW] 304 - 4 | Các loài trong Sách Đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trường sống trong các khu vực chịu ảnh hưởng bởi các hoạt động |  [ROW] GRI 305 | Phát thải [ROW] 305 - 1 | Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) |  [ROW] 305 - 2 | Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) |  [ROW] 305 - 3 | Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) |  [ROW] 305 - 4 | Thâm dụng phát thải khí nhà kính (GHG) |  [ROW] 305 - 5 | Giảm phát thải khí nhà kính (GHG) |  [ROW] 305 - 6 | Phát thải chất pháhủy tầng ô - zôn (ODS) |  [ROW] 305 - 7 | Nitrogen oxides (NOX), sulfur oxides (SOX), và các phát thải khí đáng kể khác |  [ROW] GRI 306 | Nước thải và Chất thải [ROW] 306 - 1 | Tổng lượng nước thải theo chất lượng và địa điểm |  [ROW] 306 - 2 | Tổng lượng chất thải theo loại và phương pháp xử lý |  [ROW] 306 - 3 | Sự cố tràn đáng kể |  [ROW] 306 - 4 | Vận chuyển chất thải nguy hại |  [ROW] 306 - 5 | Các khu vực chứa nước bị ảnh hưởng bởi việc thải nước và/hoặc dòng nước thải |  [ROW] GRI 307 | Tuân thủ về Môi trường [ROW] 307 - 1 | Không tuân thủ pháp luật và các quy định về môi trường |  | 145 [ROW] GRI 308 | Đánh giá Nhà cung cấp về Môi trường [ROW] 308 - 1 | Các nhà cung cấp mới đã được đánh giásơ bộ bằng cách sử dụng các tiêu chí về môi trường |  [ROW] 308 - 2 | Các tác động môi trường tiêu cực trong chuỗi cung ứng và các hành động đãthực hiện |  [ROW] GRI 401 | Việc làm [ROW] 401 - 1 | Số lượng nhân viên thuê mới và tỷ lệ thôi việc |  [ROW] 401 - 2 | Phúc lợi cung cấp cho nhân viên toàn thời gian không dành cho nhân viên tạm thời hoặc bán thời gian |  [ROW] 401 - 3 | Nghỉ thai sản |  [ROW] GRI 402 | Mối quan hệ Lao động/Quản lý [ROW] 402 - 1 | Thời hạn thông báo tối thiểu về những thay đổi trong hoạt động |  [ROW] GRI 403 | An toàn và Sức khỏe Nghề nghiệp [ROW] 403 - 1 | Đại diện của người lao động trong các liên ủy ban an toàn và sức khỏe nghề nghiệp chính thức giữa ban lãnh đạo và người lao động | ",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 7
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: DANH MỤC ĐỐI CHIẾU GRI ; column_headers: Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2017 | Trang [ROWS] Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2017 | Trang [ROW] 403 - 2 | Loại thương tích và tỷ lệ thương tích, bệnh nghề nghiệp, ngày công bị mất, tình trạng vắng mặt và số vụ tử vong liên quan đến công việc |  | 120 [ROW] 403 - 3 | Người lao động có tỷ lệ cao hoặc có nguy cơ cao mắc các bệnh liên quan đến nghề nghiệp |  [ROW] 403 - 4 | Các chủ đề về sức khỏe và an toàn được đề cập trong thỏa thuận chính thức với công đoàn |  [ROW] GRI 404 | Giáo dục và Đào tạo [ROW] 404 - 1 | Số giờ đào tạo trung bình mỗi năm cho mỗi nhân viên |  [ROW] 404 - 2 | Các chương trình nâng cao kỹ năng cho nhân viên và chương trình hỗ trợ chuyển tiếp |  | 120 - 121- 133 - 161- 167 - 168 [ROW] 404 - 3 | Tỷ lệ phần trăm nhân viên được đánh giá định kỳ hiệu quả công việc và phát triển nghề nghiệp |  [ROW] GRI 405 | Sự đa dạng và Cơ hội Bình đẳng [ROW] 405 - 1 | Sự đa dạng của cấp quản lý và nhân viên |  | 41 [ROW] 405 - 2 | Tỷ lệ lương cơ bản và thù lao của phụ nữ so với nam giới |  [ROW] GRI 406 | Không phân biệt đối xử [ROW] 406 - 1 | Các vụ việc phân biệt đối xử và các hành động khắc phục đã thực hiện |  | 121 - 158 [ROW] GRI 407 | Tự do lập hội/ Quyền tham gia công đoàn và Thương lượng tập thể [ROW] 407 - 1 | Các hoạt động và các nhà cung cấp mà ở đó quyền tự do lập hội/ quyền tham gia công đoàn và thương lượng tập thể có thể gặp rủi ro |  [ROW] GRI 408 | Lao động Trẻ em [ROW] 408 - 1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động trẻ em |  [ROW] GRI 409 | Lao động Cưỡng bức hoặc Bắt buộc [ROW] 409 - 1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc |  [ROW] GRI 410 | Thông lệ về An ninh [ROW] 410 - 1 | Nhân viên an ninh được đào tạo về các quy trình hoặc chính sách liên quan đến quyền con người |  [ROW] GRI 411 | Quyền của Người Bản địa [ROW] 411 - 1 | Các vụ vi phạm liên quan đến quyền của người bản địa |  [ROW] GRI 412 | Đánh giá Quyền Con người [ROW] 412 - 1 | Những hoạt động cần phải rà soát về quyền con người hoặc đánh giá tác động |  [ROW] 412 - 2 | Đào tạo nhân viên các quy trình hoặc chính sách về quyền con người | ",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "S4": 5,
+        "S6": 4
+      }
+    }
+  ]
+}

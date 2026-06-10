@@ -1,0 +1,46 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G9"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E2",
+        "E3"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

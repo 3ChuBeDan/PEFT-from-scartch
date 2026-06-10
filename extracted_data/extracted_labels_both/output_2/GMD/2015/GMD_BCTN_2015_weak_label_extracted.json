@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Đơn vị cũng đặc biệt chú trọng đến công tác đảm bảo an toàn môi trường, chủ động tuân thủ nghiêm ngặt các tiêu chuẩn môi trường, đề ra các giải pháp và hoạt động thiết thực trong việc bảo vệ môi trường, kiểm soát chặt chẽ các chất thải. Từ đó, chưa có sự cố môi trường nào xảy ra trong những năm qua. Công ty đã hoàn thành báo cáo đánh giá tác động môi trường (ĐTM) cho bến 70.000 DWT và đã được bộ Tài nguyên & Môi trường cấp phép trong tháng 9/2015.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0,
+        "S6": 0.412568
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 4,
+        "S6": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

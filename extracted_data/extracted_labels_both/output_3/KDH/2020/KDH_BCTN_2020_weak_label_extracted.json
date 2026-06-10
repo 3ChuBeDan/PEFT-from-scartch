@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 771,
+      "text": "Trong quá trình triển khai dự án, sự ảnh hưởng, tác động của công trình lên môi trường là một trong những mối quan tâm hàng đầu của chúng tôi. Ngay từ khâu thiết kế, việc tăng tỷ lệ các mảng xanh, mật độ bao phủ của cây xanh mặt nước và giảm bê-tông hóa mặt đất luôn được ưu tiên cân nhắc nhằm đem đến một môi trường sống xanh hơn, thân thiện hơn. Các giải pháp thông gió và chiếu sáng tự nhiên luôn được tối ưu hóa nhằm giảm thiểu năng lượng tiêu thụ khi đưa vào vận hành, sử dụng. Việc sử dụng vật tư, vật liệu có nguồn gốc thân thiện với môi trường, tiết kiệm nhiên liệu, năng lượng khi sản xuất và sử dụng như gạch không nung, đèn LED, cảm ứng... được chọn lựa nhằm mục tiêu không những giảm năng lượng tiêu thụ cho công trình mà còn góp phần hỗ trợ các công nghệ sản xuất thân thiện môi trường, phù hợp với xu thế phát triển của cả ngành công nghiệp. Các dự án chung cư cao tầng thường sử dụng gạch bê-tông không nung (không nung, đốt, không tạo hiệu ứng khí carbon và nhà kính), sơn ngoại thất cách nhiệt, thiết kế mở các khoảng không trong kết cấu nhằm giảm mức độ hấp thụ nhiệt của tòa nhà, từ đó giảm tiêu thụ năng lượng của hệ thống điều hòa không khí.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 803,
+      "text": "Khang Điền tiếp tục cung cấp các chế độ BHXH - BHYT và khám sức khỏe định kỳ cho người lao động. Trong năm 2020, chúng tôi tiếp tục cung cấp gói bảo hiểm sức khỏe cho toàn thể người lao động chính thức. Để nâng cao đời sống tinh thần cho người lao động, chúng tôi xây dựng môi trường làm việc thân thiện và cởi mở, thực hiện chế độ đãi ngộ cho người lao động theo quy định, quan tâm thăm hỏi các dịp lễ, Tết, chủ động quan tâm đến đời sống tinh thần của CBNV thông qua các hoạt động đoàn thể như tổ chức sinh nhật, tặng quà ngày 8/3, 20/10, và quan tâm hỗ trợ khi ốm đau, hiếu hỉ...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

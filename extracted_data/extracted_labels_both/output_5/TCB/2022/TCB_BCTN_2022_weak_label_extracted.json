@@ -1,0 +1,62 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 1163,
+      "text": "*LEED là một chương trình chứng nhận công trình xanh được công nhận trên toàn thế giới, được phát triển bởi tổ chức phi lợi nhuận Hội đồng Công trình Xanh Hoa Kỳ (USGBC). Mục đích của chứng nhận này là giúp các chủ sở hữu và bên vận hành tòa nhà có trách nhiệm với môi trường, cũng như sử dụng tài nguyên hiệu quả. Đây là một cách để đánh giá thiết kế, xây dựng, vận hành và bảo trì các tòa nhà, nhà ở và khu dân cư xanh.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 2171,
+      "text": "[TABLE] [CONTEXT] section: Hoạt động của các Ủy ban trực thuộc HĐQT - Ủy ban quản lý rủi ro (BRC) ; column_headers: STT | Số Nghị quyết | Ngày ban hành | Nội dung chính [ROWS] STT | Số Nghị quyết | Ngày ban hành | Nội dung chính [ROW] 1 | 0187/NQ-BRC | 18/03/2022 | ♦ Thông qua báo cáo cập nhật và rà soát định kì Q1/2022, bao gồm: Cập nhật tình hình thực hiện các yêu cầu của Ủy ban QLRR tại kì họp Q4/2021. Tổ chức thực hiện chính sách quản lý rủi ro: Giám sát khẩu vị rủi ro, cập nhật hạn mức rủi ro định kì, quản lý, rà soát trạng thái, chiến lược đối với các loại rủi ro trọng yếu của ngân hàng. Đánh giá tác động của thay đổi các văn bản pháp luật đến Techcombank ♦ Thông qua báo cáo về chất lượng tín dụng toàn hàng và chi tiết cho từng phân khúc khách hàng ♦ Về công tác quản trị rủi ro hoạt động: Ủy ban QLRR yêu cầu các đơn vị có liên quan: (i) thúc đẩy việc triển khai khung QTRR hoạt động trong các hoạt động kinh doanh/ vận hành của TCB; đặc biệt là trong việc thiết kế, cung cấp các sản phẩm dịch vụ; (ii) rà soát và hoàn thiện cơ chế ra quyết định, cơ chế theo dõi và xử lý kịp thời các sự kiện rủi ro hoạt động; (iii) tăng cường đánh giá RRHĐ trong bối cảnh căng thẳng, cấm vận trên thế giới leo thang ♦ Về công tác tuân thủ: Nâng cao nhận thức, ý thức về quản trị rủi ro hoạt động và tuân thủ của cán bộ nhân viên, trong đó chú trọng đến việc phát hiện và ngăn ngừa gian lận nội bộ. [ROW] 2 | 0542/NQ-BRC | 24/06/2022 | ♦ Thông qua báo cáo cập nhật và rà soát định kì Q2/2022, bao gồm: Cập nhật tình hình thực hiện các yêu cầu của Ủy ban QLRR tại kì họp Q1/2022. Tổ chức thực hiện chính sách quản lý rủi ro: Giám sát khẩu vị rủi ro, cập nhật hạn mức rủi ro định kì, quản lý, rà soát trạng thái, chiến lược đối với các loại rủi ro trọng yếu của ngân hàng. Đánh giá tác động của thay đổi các văn bản pháp luật đến Techcombank ♦ Về quản trị rủi ro tín dụng: Yêu cầu nhận diện các biến động tình hình kinh tế xã để từ đó (i) phân tích tác động của các kịch bản theo phân khúc khách hàng/ sản phẩm/ hạn mức kinh doanh bị ảnh hưởng, (ii) xây dựng phương thức theo dõi, rà soát và cảnh báo sớm nhằm giúp Techcombank nâng cao khả năng ứng phó sớm (chuẩn bị sẵn các kịch bản) đối với các biến động bất lợi trên thị trường ♦ Về quản trị rủi ro hoạt động và tuân thủ: Yêu cầu (i) Tăng cường đánh giá rủi ro trong các hoạt động kinh doanh hằng ngày của Techcombank; thông qua đó thiết lập các kịch bản, phát hiện sớm các rủi ro có thể phát sinh nhằm giúp Techcombank sẵn sàng ứng phó với các thách thức, các rủi ro trong hoạt động; (ii) đánh giá một cách cẩn trọng, nghiêm túc về rủi ro thất thoát dữ liệu nội bộ của Techcombank từ gian lận nội bộ trong bối cảnh TCB phát triển mạnh về số hóa, tự động hóa. [ROW] 3 | 0761/NQ-BRC | 23/09/2022 | ♦ Thông qua báo cáo cập nhật và rà soát định kì Q3/2022, bao gồm: Cập nhật tình hình thực hiện các yêu cầu của Ủy ban QLRR tại kì họp Q2/2022. Tổ chức thực hiện chính sách quản lý rủi ro: giám sát khẩu vị rủi ro, cập nhật hạn mức rủi ro định kì, quản lý, rà soát trạng thái, chiến lược đối với các loại rủi ro trọng yếu của ngân hàng. Đánh giá tác động của thay đổi các văn bản pháp luật đến Techcombank ♦ Về việc xây dựng Khẩu vị rủi ro, Hạn mức rủi ro, Định hướng kinh doanh và Định hướng tín dụng của TCB 2023: Cần được xây dựng song hành với chiến lược kinh doanh ♦ Về Kiểm tra sức chịu đựng về vốn: Đánh giá, phân tích sâu về tác động của biến động kinh tế vĩ mô đến phân khúc khách hàng, sản phẩm, chỉ số kinh doanh của TCB ♦ Về quản trị rủi ro hoạt động: yêu cầu thiết lâp các ngưỡng/ giới hạn RRHĐ trong các sản phẩm/ offerings, xây dựng, phân tích các kịch bản RRHĐ có thể phát sinh từ đó có các phương án xử lý rủi ro kịp thời.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 2198,
+      "text": "[TABLE] [CONTEXT] section: 4.5. Các khoản cho vay khách hàng ; column_headers: STT | Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROWS] STT | Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu còn trong hạn; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: ♦ Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc ♦ Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc ♦ Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng do khách hàng vi phạm thỏa thuận với Ngân hàng chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin tín dụng có liên quan. | 20% [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn đến 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai còn trong hạn; hoặc (d) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra, kiểm tra nhưng quá thời hạn thu hồi theo kết luận thanh tra, kiểm tra đến 60 ngày mà vẫn chưa thu hồi được; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng do khách hàng vi phạm thỏa thuận với Ngân hàng chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin tín dụng có liên quan. | 50%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 527,
+      "text": "SSI cũng đẩy mạnh thông tin truyền thông để nhân viên dễ dàng tiếp cận và có trách nhiệm thực hiện các biện pháp tự theo dõi và đánh giá các dấu hiệu nhiễm virus; tự chăm sóc bản thân và gia đình trong trường hợp nhiễm virus; thông báo tới bộ phận Nhân sự tình hình sức khỏe của bản thân và người thân trong gia đình để có biện pháp phù hợp và lấy ý kiến tư vấn của đơn vị y tế chuyên môn. Những hướng dẫn cơ bản cho việc tự bảo vệ bản thân và những người xung quanh được truyền tải đến các thành viên thông qua hệ thống email, diễn dàn SSI và kênh truyền thông nội bộ để tăng cường hiểu biết và trách nhiệm của mỗi cá nhân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 559,
+      "text": "Nếu như mọi năm, các sự kiện như Gala – sự kiện thường niên lớn nhất trong năm hay Family Day – Ngày hội Gia đình dành cho Nhân viên và người thân luôn được đầu tư khi tổ chức thì năm 2021, dưới ảnh hưởng của đại dịch Covid-19, để đảm bảo cho sức khỏe của cán bộ nhân viên Công ty, những chương trình này không thể diễn ra. Mặc dù vậy, Công ty vẫn đảm bảo mang đến cho nhân viên những hoạt động xây dựng văn hóa doanh nghiệp bằng cách thích ứng và thay đổi linh hoạt và chuyển đổi sang hình thức trực tuyến. Điển hình như các buổi phát sóng trực tiếp (livestream) từ các lãnh đạo để truyền tải thông điệp về định hướng của công ty xuống cho cán bộ nhân viên cũng như để khích lệ tinh thần nhân viên dù ở bất cứ địa điểm nào trên Tổ quốc. Hay những buổi lives -tream chơi trò chơi trên SSI Insiders như để gắn kết mọi người lại gần nhau hơn và cũng giúp cho nhân viên có thể giảm căng thẳng sau những giờ giao dịch gay cấn. Thông qua các hoạt động này, ngoài việc lan tỏa về tinh thần chia sẻ, học hỏi trong nhân viên, những hoạt động này còn khẳng định một điều rằng, dù trong hoàn cảnh khó khăn, SSI luôn ý thức nhấn mạnh tài sản lớn nhất của SSI là con người và luôn khuyến khích sự phấn đấu, phát triển bản thân hơn nữa của mỗi thành viên.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1063,
+      "text": "Bên cạnh việc lên được một hệ quy trình, quy chế hợp lý, việc tuyên truyền để toàn bộ thành viên nắm bắt, thấu hiểu, ghi nhớ và thực hiện theo quy định cũng được SSI triển khai song song. Thông qua hệ thống E-learning, SSI đã triển khai các khóa học như: Khóa học QTRR Kiểm soát Tuân thủ, bao gồm các nội dung về Đạo đức nghề nghiệp, Phòng chống rửa tiền, Phòng chống rủi ro gian lận; Khóa học đào tạo hội nhập về lịch sử hình thành, các tôn chỉ, mục đích, văn hóa của SSI; Khóa học Đào tạo thương hiệu SSI; Khóa học Quy tắc ứng xử trên mạng xã hội và Khóa đào tạo về Trách nhiệm hình sự trong lĩnh vực Chứng khoán. Đây là tiền đề để giúp cho bản thân mỗi người SSI đều nắm vững thông tin, từ đó có cách làm việc, hành xử phù hợp nhất trong mọi trường hợp, giảm thiểu rủi ro cho Công ty và cho chính bản thân.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.777029,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1894,
+      "text": "[TABLE] [CONTEXT] section: Bảng 1: Rủi ro tiềm tàng và biện pháp kiểm soát rủi ro tuân thủ ; column_headers: STT | Rủi ro tiềm tàng | Biện pháp kiểm soát [ROWS] STT | Rủi ro tiềm tàng | Biện pháp kiểm soát [ROW] 1 | Áp dụng các thay đổi của chính sách pháp luật đối với hoạt động của Công ty, điển hình những quy định mới của Luật Chứng khoán 54/2019/QH14, Luật Doanh ng\u0002 hiệp 59/2020/QH14, Luật Đầu tư 61/2020/QH14, Bộ luật Lao động 45/2019/QH14, Nghị định 155/2020/NĐ-CP hướng dẫn Luật Chứng khoán và các Nghị định, Thông tư, văn bản hướng dẫn thi hành | ▶ Thường xuyên cập nhật văn bản pháp luật mới, đặc biệt là các văn bản hướng dẫn cụ thể các hoạt động nghiệp vụ, các sản phẩm, dịch vụ mà Công ty cung cấp; ▶ Rà soát các quy trình, quy chế nội bộ, đối chiếu với các quy định mới của pháp luật, tổng hợp các nội dung có sự mâu thuẫn hoặc chưa được hướng dẫn rõ ràng; ▶ Triển khai các quy định trên tinh thần chặt chẽ, vì lợi ích khách hàng và đảm bảo an toàn cho hoạt động Công ty, nhân viên Công ty; ▶ Đề nghị sự hướng dẫn từ các cơ quan có thẩm quyền, sự chỉ đạo của các cấp lãnh đạo. Đảm bảo sự thống nhất trong cách hiểu và áp dụng quy định của toàn thể nhân viên, phòng ban của Công ty. [ROW] 2 | Rủi ro trong quản lý hoạt động cho vay, các cam kết, thỏa thuận, phát sinh cạnh tranh không lành mạnh nguyên nhân xuất phát từ thay đổi của môi trường kinh doanh, đầu tư nước ngoài, dịch bệnh, thị trường chứng khoán điều chỉnh | ▶ Thực hiện đầy đủ các cam kết, hợp đồng, thỏa thuận đã ký kết; thương lượng với đối tác/khách hàng để giải quyết các tranh chấp, mâu thuẫn phát sinh trên tinh thần hợp tác và củng cố mối quan hệ kinh doanh lâu dài, cùng có lợi; ▶ Tuân thủ các chính sách liên quan đến phí, nghiệp vụ cho vay đối với khách hàng, quản lý chặt hoạt động cho vay; ▶ Thực hiện hoạt động kiểm tra, giám sát nội bộ về việc ký kết và tiến độ thực hiện các cam kết, hợp đồng, thỏa thuận và thương lượng với khách hàng/đối tác [ROW] 3 | Xung đột lợi ích giữa Công ty – Đối tác/Khách hàng - Nhân viên | ▶ Đào tạo nâng cao ý thức về đạo đức nghề nghiệp; ▶ Xây dựng và áp dụng các chính sách để hạn chế xung đột lợi ích như chính sách phòng chống tham nhũng, chính sách giải quyết khiếu nại; ▶ Giám sát tài khoản, giao dịch của nhân viên và những người có liên quan. [ROW] 4 | Vi phạm quy định về phòng chống rửa tiền (PCRT), đặc biệt là nhận biết khách hàng và báo cáo về các giao dịch đáng ngờ | ▶ Ban hành quy định về phòng chống rửa tiền, và hướng dẫn, phối hợp thực hiện công tác phòng chống rửa tiền giữa các phòng ban có liên quan; ▶ Đào tạo cho nhân viên nâng cao nhận thức về phòng, chống rửa tiền; ▶ Từ chối khách hàng không cung cấp thông tin nhận biết theo quy định của pháp luật; ▶ Hoạt động nhận biết khách hàng được thực hiện độc lập, có kiểm soát, kết hợp giữa thực hiện thủ công của phòng nghiệp vụ và sử dụng hệ thống nhận diện khách hàng tự động của bên thứ ba. Áp dụng các phương thức nhận biết và xác minh khách hàng trực tuyến (eKYC); ▶ Chủ động thông tin, báo cáo cho cán bộ chịu trách nhiệm về PCRT ngay khi phát hiện giao dịch đáng ngờ; ▶ Thực hiện đánh giá rủi ro rửa tiền và tài trợ khủng bố của Công ty để có những khuyến nghị, thay đổi phù hợp.",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.777029,
+        "G10": 1.0,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "G10": 2,
+        "G11": 5
+      }
+    },
+    {
+      "paragraph_id": 1959,
+      "text": "[TABLE] [CONTEXT] section: 24 PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN ; column_headers: Số cuối năm | Số đầu năm ; row_headers: Công ty TNHH Phần mềm FPT | Công ty Cổ phần Công Nghệ Geek Up | Công ty TNHH Một Thành Viên Viễn Thông Quốc Tế FPT | Công ty TNHH INFOBIP | Công ty TNHH Hệ Thống Thông tin FPT (FIS) | Công ty TNHH MTV Ứng dụng kỹ thuật và sản xuất - Chi nhánh Hà Nội | Phải trả tiền mua chứng khoán | Phải trả người bán khác | Tổng cộng [ROWS] Số cuối năm | Số đầu năm [ROW] Công ty TNHH Phần mềm FPT | 1.288.818.000 | - [ROW] Công ty Cổ phần Công Nghệ Geek Up | 1.755.552.000 | 7.940.000 [ROW] Công ty TNHH Một Thành Viên Viễn Thông Quốc Tế FPT | 1.279.980.000 | 88.000.000 [ROW] Công ty TNHH INFOBIP | 1.124.550.130 | 564.700.460 [ROW] Công ty TNHH Hệ Thống Thông tin FPT (FIS) | 1.335.741.000 | 297.550.000 [ROW] Công ty TNHH MTV Ứng dụng kỹ thuật và sản xuất - Chi nhánh Hà Nội | 1.611.100.000 | - [ROW] Phải trả tiền mua chứng khoán | - | 15.222.592.400 [ROW] Phải trả người bán khác | 13.854.002.834 | 15.140.164.728 [ROW] Tổng cộng | 22.249.743.964 | 31.320.947.588",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

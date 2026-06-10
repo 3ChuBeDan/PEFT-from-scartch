@@ -1,0 +1,302 @@
+{
+  "extracted_count": 20,
+  "extracted": [
+    {
+      "text": " Xây dựng nhà máy điện sinh khối với công suất 65 MWh sử dụng nhiên liệu từ bã mía, ứng dụng hệ thống phát điện bằng năng lượng mặt trời tạo nguồn năng lượng sạch, thân thiện môi trường và bền vững.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Đối với lò hơi công suất 235 tấn hơi/giờ, vấn đề khí thải lò hơi được công ty xây dựng 02 hệ thống cyclone xử lý khí thải hiện đại, lượng CO2 trong khí thải lò hơi, sau khi qua hệ thống xử lý được thu hồi phục vụ quá trình làm sạch dịch đường. Chất lượng khí thải sau hệ thống xử lý luôn đạt cột B theo QCVN 19:2009/BTNMT. Chỉ tiêu khí CO sau hệ thống xử lý luôn nằm xung quanh ngưỡng 400 - 500 mg/Nm3 so với cột B theo QCVN 19:2009/BTNMT là 1.000 mg/Nm3 .",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "50.000.000 kWh, đáp ứng đáng kể cho nhu cầu điện trong mùa khô, giảm áp lực cho các nhà máy thủy điện đang thiếu nước, đảm bảo tính an toàn và thuận lợi cho việc cấp điện tại khu vực nông thôn. Nhà máy nhiệt điện từ bã mía tại Công ty Cổ phần Mía đường Thành Thành Công Tây Ninh cũng như các nhà máy nhiệt điện khác thuộc tập đoàn Thành Thành Công có tiềm năng to lớn về năng lượng tái tạo, phát triển năng lượng tái tạo góp phần giảm tiêu thụ than, dầu, khí đồng thời giảm phát thải khí nhà kính. Đây là kế hoạch chiến lược của Công ty cũng như tập đoàn, tăng cường đầu tư và hỗ trợ phát triển năng lượng tái tạo để bảo vệ môi trường, đảm bảo ngành năng lượng phát triển hiệu quả và bền vững theo định hướng chiến lược quốc gia về tăng trưởng xanh.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 4
+      }
+    },
+    {
+      "text": "Bên cạnh đó, TTCS tiếp tục duy trì kênh đào tạo nội bộ để tiếp tục chia sẻ tầm nhìn, chiến lược, củng cố văn hóa doanh nghiệp nhằm nuôi dưỡng tinh thần TTCS. Những chia sẻ này cũng là yếu tố động viên tinh thần làm việc, cung cấp thông tin và tránh những căng thẳng không đáng có. Đây cũng là một biện pháp đảm bảo thông tin xuyên suốt mà mỗi nhân viên đều hiểu được mục tiêu của bản thân và của tập thể để tiếp tục đóng góp hết sức mình vào sự phát triển chung của Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: NHỮNG THÀNH TỰU NỔI BẬT NIÊN ĐỘ 2015 - 2016 ; column_headers: NGÀY | HUÂN CHƯƠNG VÀ DANH HIỆU | ĐƠN VỊ TRAO TẶNG [ROWS] NGÀY | HUÂN CHƯƠNG VÀ DANH HIỆU | ĐƠN VỊ TRAO TẶNG [ROW] 08/2015 | Huân chương lao động hạng Nhì | Chủ tịch nước [ROW] 2015 | Chứng nhận ISO 22000:2005, ISO 9001:2008, ISO 14001:2004 | Bureau Veritas Certification [ROW] 30/10/2015 | Bằng khen “SAO VÀNG ĐẤT VIỆT TOP10/TOP100/ TOP200 thương hiệu Việt Nam 2015” | DN Trẻ Việt Nam [ROW] 2015 | Bông Lúa vàng Việt Nam 2015 | Bộ Nông Nghiệp và Phát triển Nông Thôn Việt Nam [ROW] Danh hiệu “Doanh nhân - Doanh nghiệp xuất sắc ASEAN 2015, Thương hiệu được yêu thích nhất ASEAN 2015 và Sản phẩm - Dịch vụ chất lượng ASEAN 2015” [ROW] 13/01/2016 | Top 500 doanh nghiệp lớn nhất Việt Nam | VNR [ROW] 21/02/2016 | Chứng nhận “Hàng Việt Nam chất lượng cao năm 2015” | Hội doanh nghiệp hàng Việt Nam chất lượng cao [ROW] 03/06/2016 | Chứng nhận “Gold Strusted Quality Supplier 2016” | Viện doanh nghiệp Việt Nam [ROW] 09/2016 | Top 50 thương hiệu giá trị nhất Việt Nam năm 2016 | Brand Finance Việt Nam (Trụ sở tại Anh) [ROW] TOP 50 Công ty Niêm yết tốt nhất 2015 | Forbes Việt Nam [ROW] TOP 30 Báo cáo Thường Niên tốt nhất 2015 | Sở GDCK Hồ Chí Minh & Báo Đầu Tư [ROW] 09/2016 | TOP 50 Thương hiệu tiêu biểu trong hội nhập kinh tế Châu Á - Thái Bình Dương [ROW] TOP 50 Thương hiệu vì Môi trường xanh quốc gia; TOP 50 Nhà máy xanh thân thiện; TOP 10 sản phẩm thân thiện có lợi cho người tiêu dùng | Hội kinh tế môi trường Việt Nam; Chương trình truyền thông xây dựng và phát triển nền kinh tế xanh quốc gia [ROW] TOP 10 Thương hiệu - sản phẩm - dịch vụ Hàng đầu Việt Nam 2016 | Hiệp hội chống hàng giả và bảo vệ thương hiệu Việt Nam (Vatap) phối hợp cùng Tạp chí Hàng hoá và Thương hiệu chứng nhận [ROW] 16/09/2016 | Sản phẩm nông nghiệp tiêu biểu 2015 | Trung Ương Hội Nông dân Việt Nam [ROW] 08/2016 | Thương vụ Hợp nhất - Sáp nhập tiêu biểu 2015-2016 | Báo Đầu tư và AVM Việt Nam [ROW] Giấy khen “Đã có thành tích tốt thực hiện tốt chính sách pháp luật thuế 2015” | Tổng Cục Thuế",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: danh sách các lĩnh vực trọng yếu và đánh giá tác động đến các bên liên quan ; column_headers: Các vấn đề trọng yếu | Nội dung chính [ROWS] Các vấn đề trọng yếu | Nội dung chính [ROW] Bảo vệ môi trường | Tuân thủ và đáp ứng các tiêu chuẩn quy định của Nhà nước: Nước thải, khí thải, tiếng ồn... Áp dụng các công nghệ xử lý nước thải sinh học để thân thiện môi trường. Ứng dụng công nghệ tiết kiệm năng lượng thân thiện môi trường: Năng lượng mặt trời Trồng và phủ xanh khuôn viên với định hướng: “Factory in the forest”. [ROW] Quản trị doanh nghiệp | Nâng cao tính chuyên nghiệp công tác quản trị; Chuyên môn hóa các tiểu ban trực thuộc HĐQT; Bảo vệ và công bằng cổ đông nhỏ lẻ; Tuân thủ và tiệm cận các tiêu chí chuẩn mực Corporate Governance quốc tế. [ROW] Đầu tư phát triển, đẩy mạnh chiến lược đa dạng hóa sản phẩm, nâng cao chất lượng dịch vụ | Phát triển các dòng sản phẩm mới như đường vàng, đường nâu, đường lỏng..., các dòng sản phẩm cạnh đường và sau đường. Đầu tư nâng cao chất lượng dịch vụ nhằm đáp ứng đa dạng nhu cầu của khách hàng. Ưu tiên đáp ứng và thỏa mãn nhu cầu sản phẩm khách hàng; ghi nhận các phản hồi để cải tiến sản phẩm và chất lượng dịch vụ. [ROW] Phát triển cộng đồng, sinh kế người trồng mía | Cải tiến và nâng cao thu nhập cho người trồng mía; Đóng góp xây dựng các chương trình cộng đồng, địa phương; Hướng dẫn ứng dụng kỹ thuật canh tác tiên tiến, thân thiện môi trường. [ROW] Đầu tư phát triển nguồn nhân lực chất lượng cao | Tổng quan nguồn nhân lực, các định hướng, chính sách liên quan đến phát triển nguồn nhân lực; Tạo môi trường văn hóa doanh nghiệp gắn kết và chia sẻ tại Công ty; Xây dựng chế độ thu nhập phù hợp, khuyến khích và động viên CBNV gắn với hiệu quả công việc. [ROW] Phát triển bền vững vùng nguyên liệu với phương châm “Làm giàu cho nông dân là trách nhiệm của chúng ta”. | Ứng dụng công nghệ canh tác tiên tiến, thân thiện với môi trường; Ứng dụng các giống mía phù hợp thổ nhưỡng; Chuyển giao mô hình canh tác hiệu quả cao và nhân rộng các cánh đồng mẫu lớn giúp giảm giá thành, tăng thu nhập cho người trồng mía.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.623009,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 3,
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

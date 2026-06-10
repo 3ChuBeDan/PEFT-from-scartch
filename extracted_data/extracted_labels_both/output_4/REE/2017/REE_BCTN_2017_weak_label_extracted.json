@@ -1,0 +1,454 @@
+{
+  "extracted_count": 28,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Hoạt động văn phòng cho thuê ứng dụng các công nghệ thân thiện môi trường vào xây dựng và vận hành tòa nhà thông minh, tiết kiệm năng lượng. Điển hình là việc xây dựng tòa nhà văn phòng mới e.town Central theo tiêu chuẩn LEED – chứng chỉ Vàng của Hội đồng Công trình Xanh Mỹ (USGBC) với các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện từ 20%-30%, giảm 35%-50% lượng nước sử dụng, giảm tối đa lượng khí thải CO2 và sử dụng vật liệu thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 5,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Trong mảng văn phòng cho thuê, xây dựng tòa nhà văn phòng mới e.town Central theo tiêu chuẩn LEED – chứng chỉ Vàng của Hội đồng Công trình Xanh Mỹ (USGBC) với các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện từ 20%-30%, giảm 35%-50% lượng nước sử dụng, giảm tối đa lượng khí thải CO2 và sử dụng vật liệu thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 5.1. Môi trường ; column_headers: 2017 | 2016 ; row_headers: Dầu DO (lít) | Tổng năng lượng tiêu thụ (GJ) | Điện (kWh) | Nước (m 3 ) [ROWS] 2017 | 2016 [ROW] Dầu DO (lít) | 25.785 | 32.817 [ROW] Tổng năng lượng tiêu thụ (GJ) | 955 | 1.216 [ROW] Điện (kWh) | 9.809.220 | 10.546.695 [ROW] Tổng năng lượng tiêu thụ (GJ) | 35.313 | 37.968 [ROW] Nước (m 3 ) | 191.909 | 207.631",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: vào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017 14. Các khoản đầu tư tài chính (tiếp theo)14.3 Đầu tư vào công ty liên kết ; column_headers: Thủy điện Thủy điện Thủy điện | Thủy điện | Thủy điện Thủy điện | Nhiệt điện | Phong điện | Cung cấp nước Cung cấp nước | Cung cấp nước | Khai thác than | Bất động sản | Cơ điện [ROWS] Ngành nghề Kinh doanh | Thủy điện Thủy điện Thủy điện | Thủy điện | Thủy điện Thủy điện | Nhiệt điện | Nhiệt điện | Phong điện | Cung cấp nước Cung cấp nước | Cung cấp nước | Cung cấp nước | Cung cấp nước | Cung cấp nước | Cung cấp nước | Cung cấp nước | Khai thác than | Khai thác than | Bất động sản | Cơ điện [ROW] Giá trị VND | 698.671.397.963 | 437.822.949.621 453.762.979.299 | 167.523.223.863 | 67.934.440.426 | - 1.219.908.077.322 | 76.160.222.753 | - | 40.176.895.080 | 283.811.659.144 | 77.091.298.544 | 59.177.810.108 | 40.527.746.144 | 29.066.790.237 | 23.823.831.140 | - 98.330.156.234 | 73.642.001.671 | 138.361.109.269 | 31.226.502.492 | 4.017.019.091.310 [ROW] Tỷ lệ sở hữu (%) | 21,01 | 42,63 25,76 | 34,3 | 25,47 - | 23,54 | 29,45 - | 20,02 | 42,07 | 32 | 44,17 | 40 | 20,05 | 29 | - | 23,81 | 23,95 | 28,87 | 35 [ROW] Giá trị VND | 715.379.876.041 | 468.315.497.265 546.259.182.412 | 186.664.097.753 | 86.586.387.912 | 532.551.381.701 | 1.258.411.237.954 | 82.129.643.885 | 34.783.874.232 40.279.501.762 | 285.828.712.486 | 79.814.304.214 | 61.027.942.156 | 83.669.434.089 | 29.109.331.766 | - | 692.973.263.040 | - | - | 165.268.353.595 | 37.621.723.637 | 5.386.673.745.900 [ROW] Tỷ lệ sở hữu (%) | 21,01 | 42,63 25,76 | 34,3 | 25,47 | 20,07 | 23,36 | 29,45 | 25 | 20,02 42,07 | 32 | 44,17 | 40 | 20,05 | - | 34,68 | - | - | 28,87 | 35 [ROW] Công ty Cổ phần Thủy điện Vĩnh Sơn – Sông Hinh | Công ty Cổ phần Thủy điện Thác Mơ Công ty Cổ phần Thủy điện Sông Ba Hạ | Công ty Cổ phần Thủy điện Srok Phu Miêng | Công ty Cổ phần Thủy điện Bình Điền | Công ty Cổ phần Thủy điện Miền Trung | Công ty Cổ phần Nhiệt điện Phả Lại (i) | Công ty Cổ phần Nhiệt điện Ninh Bình | Công ty Cổ phần Phong điện Thuận Bình | Công ty Cổ phần Cấp nước Nhà Bè Công ty Cổ phần B.O.O Nước Thủ Đức | Công ty Cổ phần Đầu tư Nước Tân Hiệp | Công ty Cổ phần Cấp nước Thủ Đức | Công ty Cổ phần Đầu tư và Kinh doanh Nước Sạch Sài Gòn | Công ty Cổ phần Cấp nước Gia Định | Công ty Cổ phần Cấp nước Trung An | Công ty Cổ phần Nước sạch Vinaconex | Công ty Cổ phần Than Núi Béo | Công ty Cổ phần Than Đèo Nai | Công ty Cổ phần Địa ốc Sài Gòn (ii) | Công ty Cổ phần Cơ điện Đoàn Nhất [ROW] Tên công ty | TỔNG CỘNG",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: vào ngày và cho năm tài chính kết thúc ngày 31 tháng 12 năm 2017 14. Các khoản đầu tư tài chính (tiếp theo)14.4 Đầu tư góp vốn vào đơn vị khác ; column_headers: Tên công ty | Số cuối năm | Số đầu năm | Giá gốc | Dự phòng | Giá trị hợp lý | Công ty Cổ phần Nhiệt điện Quảng Ninh | 470.646.304.200 | (125.546.409.600) | 345.099.894.600 | Công ty Cổ phần Sonadezi Châu Đức | 183.876.590.000 | (73.737.556.000) | 110.139.034.000 | Công ty Cổ phần Cấp nước Khánh Hòa | 53.193.860.000 | 50.351.440.000 | Công ty Cổ phần Than Núi Béo | 48.162.917.187 | - [ROWS] Giá trị hợp lý | 470.646.304.200 | 110.139.034.000 | 53.193.860.000 | - - | 32.619.000.000 | 693.831.381.645 | 1.360.429.579.845 [ROW] (73.737.556.000) | - | - [ROW] - | (3.438.255.801) | (77.175.811.801) [ROW] Số đầu năm [ROW] Dự phòng | - | - [ROW] - | - [ROW] Giá gốc | 32.619.000.000 | 697.269.637.446 [ROW] 470.646.304.200 | 183.876.590.000 | 53.193.860.000 | 1.437.605.391.646 [ROW] 50.351.440.000 [ROW] 48.162.917.187 | 268.032.779.816 [ROW] 345.099.894.600 [ROW] Giá trị hợp lý | 110.139.034.000 [ROW] 33.221.866.400 | 32.619.000.000 | 887.626.932.003 [ROW] - | - [ROW] (2.842.420.000) | (4.068.154.102) | (5.707.013.997) [ROW] Số cuối năm | (125.546.409.600) | (73.737.556.000) [ROW] Dự phòng | (211.901.553.699) [ROW] 37.290.020.502 [ROW] 48.162.917.187 | 32.619.000.000 | 273.739.793.813 | 1.099.528.485.702 [ROW] 470.646.304.200 | 183.876.590.000 [ROW] Giá gốc [ROW] 53.193.860.000 [ROW] Công ty Cổ phần Nhiệt điện Quảng Ninh | Công ty Cổ phần Nhiệt điện Hải Phòng [ROW] Công ty Cổ phần Sonadezi Châu Đức [ROW] Các khoản đầu tư dài hạn khác [ROW] Công ty Cổ phần Than Núi Béo [ROW] Tên công ty | Công ty Cổ phần Cấp nước Khánh Hòa [ROW] TỔNG CỘNG [ROW] Công ty Cổ phần Than Đèo Nai",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: as at and for the year ended 31 December 2017 14. Investments (continued)14.3 Investments in associates [ROWS] Business activities | Hydropower Hydropower | Hydropower | Hydropower | Hydropower | Hydropower | Thermal power | Thermal power Wind power | Water supply | Water supply Water supply | Water supply | Water supply | Water supply | Water supply | Water supply Coal Minning | Coal Minning | Real estate Mechanical and Engineering [ROW] Amount VND | 698,671,397,963 437,822,949,621 | 453,762,979,299 | 167,523,223,863 | 67,934,440,426 | - | 1,219,908,077,322 | 76,160,222,753 | - 40,176,895,080 | 283,811,659,144 | 77,091,298,544 | 59,177,810,108 | 40,527,746,144 | 29,066,790,237 | 23,823,831,140 | - 98,330,156,234 | 73,642,001,671 | 138,361,109,269 | 31,226,502,492 [ROW] % of | interest | 21.01 42.63 | 25.76 | 34.3 | 25.47 | - | 23.54 | 29.45 - | 20.02 | 42.07 | 32 | 44.17 | 40 | 20.05 | 29 | - | 23.81 23.95 | 28.87 | 35 [ROW] Amount VND | 715,379,876,041 468,315,497,265 | 546,259,182,412 | 186,664,097,753 | 86,586,387,912 | 532,551,381,701 | 1,258,411,237,954 | 82,129,643,885 | 34,783,874,232 40,279,501,762 | 285,828,712,486 | 79,814,304,214 | 61,027,942,156 | 83,669,434,089 | 29,109,331,766 | - 692,973,263,040 | - | - | 165,268,353,595 | 37,621,723,637 [ROW] % of | interest | 21.01 42.63 25.76 | 34.3 | 25.47 | 20.07 | 23.36 | 29.45 | 25 20.02 | 42.07 | 32 | 44.17 | 40 | 20.05 | - 34.68 | - | - | 28.87 | 35 [ROW] Vinh Son - Song Hinh Hydropower Joint Stock Company Thac Mo Hydropower Joint Stock Company | Song Ba Ha Hydropower Joint Stock Company | Srok Phu Mieng Hydropower Joint Stock Company | Binh Dien Hydropower Joint Stock Company | Central Hydropower Joint Stock Company | Pha Lai Thermal Power Joint Stock Company (i) | Ninh Binh Thermal Power Joint Stock Company Thuan Binh Wind Power Joint Stock Company | Nha Be Water Supply Joint Stock Company | Thu Duc Water B.O.O Corporation | Tan Hiep Water Investment Joint Stock Company | Thu Duc Water Supply Joint Stock Company | Saigon Water Investment and Trading Joint Stock Company | Gia Dinh Water supply Joint Stock Company | Trung An Water Supply Joint Stock Company | Vinaconex Water Supply Joint Stock Company Nui Beo Coal Joint Stock Company | Deo Nai Coal Joint Stock Company | Saigon Real Estate Joint Stock Company (ii) | Doan Nhat Mechanical Electrical Joint Stock Company [ROW] Name",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

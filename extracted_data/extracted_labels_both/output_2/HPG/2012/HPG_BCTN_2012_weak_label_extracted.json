@@ -1,0 +1,141 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "text": "Nghiên cứu quy hoạch lại cụm 10 lò sinh khí than , sử dụng than ép thay cho than cục 4B",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Đây là một phần trong chiến lược mở rộng luyện thép giai đoạn 2 của Khu liên hợp sản xuất gang thép nhằm giảm chi phí nhiên liệu cũng như chi phí vận hành một cách rõ rệt. Khi cả 2 giai đoạn đi vào hoạt động (từ tháng 7/2013), Khu liên hợp sẽ có 10 lò sinh khí than hoạt động. Việc quy hoạch lại địa điểm của cụm lò sinh khí được coi là một bước đi đúng đắn, bởi sau quy hoạch, khí than của 2 lò thổi sẽ được tận dụng để cung cấp cho cả 2 Nhà máy cán thông qua thiết bị trộn khí than, giảm chi phí nhiên liệu than tương đối lớn (khoảng 45% tổng lượng khí than cấp cho 2 lò gia nhiệt).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": "Bên cạnh đó, Công ty CP Thép Hòa Phát còn thành công trong việc thay thế than cục 4B (một tài nguyên đang ngày càng khan hiếm) bằng than ép bánh dạng quả bàng. Toàn bộ dây chuyền ép than được thiết kế liền mạch với hệ thống băng tải cấp liệu và băng tải nạp liệu, than cám nạp vào thông qua dây chuyền ép bánh, sấy khô rồi chuyển thẳng lên lò sinh khí với quy mô khép kín liên hoàn. Sự đầu tư cải tiến này sẽ tiết kiệm được khoảng 60 tỷ đồng chi phí sản xuất mỗi năm cho Khu liên hợp, đồng thời góp phần bảo vệ môi trường cũng như nguồn tài nguyên than quý giá của đất nước.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": " Năng lượng và thăm dò khai thác khoáng sản: Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung trong đó chủ yếu là quặng sắt, sản xuất và bán buôn than cốc, khai thác và thu gom than cứng, sản xuất sản phẩm dầu mỏ tinh chế, sản xuất, truyền tải, phân phối điện, bán buôn kim loại và quặng kim loại, và buôn bán than luyện cốc và than các loại.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Tính đến ngày 31/12/2012 Tập đoàn Hòa Phát có 12 công ty con và 2 công ty liên kết: ; column_headers: STT | Công ty con | Địa chỉ | Lĩnh vực sản xuất, kinh doanh chính | Vốn điều lệ đã góp ( tỷ đồng) | Tỷ lệ sở hữu của HPG [ROWS] STT | Công ty con | Địa chỉ | Lĩnh vực sản xuất, kinh doanh chính | Vốn điều lệ đã góp ( tỷ đồng) | Tỷ lệ sở hữu của HPG [ROW] 1 | Công ty CP Thép Hòa Phát | Xã Hiệp Sơn, huyện Kinh Môn, tỉnh Hải Dương | Sản xuất thép, gang, khai thác quặng sắt, khai thác và thu gom than non; bán buôn kim loại và quặng kim loại; và sản xuất, mua bán than cốc. | 2.000 | 85,00% [ROW] 2 | Công ty TNHH Một thành viên Thép Hòa Phát | Khu CN Phố Nối A, xã Giai Phạm, huyện Yên Mỹ, tỉnh Hưng Yên. | Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại. | 600 | 100% [ROW] 3 | Công ty TNHH Ống thép Hòa Phát | Số 39 Nguyễn Đình Chiểu, phường Lê Đại Hành, quận Hai Bà Trưng, TP Hà Nội. | Sản xuất và kinh doanh thương mại ống thép. | 350 | 99,86% [ROW] 4 | Công ty CP Năng lượng Hòa Phát | Xã Hiệp Sơn, huyện Kinh Môn, tỉnh Hải Dương | Sản xuất và bán buôn than cốc, khai thác và thu gom than cứng; sản xuất sản phẩm dầu mỏ tinh chế; bán buôn kim loại và quặng kim loại; và buôn bán than luyện cốc và than các loại. | 1.000 | 99,89% [ROW] 5 | Công ty CP Đầu tư Khoáng sản An Thông | Số 415, đường Trần Phú, TP Hà Giang, tỉnh Hà Giang. | Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung trong đó chủ yếu là quặng sắt. | 400 | 99,95% [ROW] 6 | Công ty CP Khoáng sản Hòa Phát | Khu CN Phố Nối A, xã Giai Phạm, huyện Yên Mỹ, tỉnh Hưng Yên. | Khai thác và thu gom than non; khai thác quặng sắt, bô xít, các kim loại quý hiếm; khai thác đá, cát, sỏi, đất sét; sản xuất than cốc, thạch cao, vôi, kim loại màu và kim loại quý; đúc sắt thép và kim loại màu. | 150 | 99,8% [ROW] 7 | Công ty TNHH Thiết bị Phụ tùng Hòa Phát | Số 39 Nguyễn Đình Chiểu, phường Lê Đại Hành, quận Hai Bà Trưng, TP Hà Nội. | Sản xuất thiết bị xây dựng; kinh doanh thương mại máy móc và thiết bị xây dựng và khai thác khoáng sản loại nhỏ và vừa. | 180 | 99,72%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 8
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Tính đến ngày 31/12/2012 Tập đoàn Hòa Phát có 12 công ty con và 2 công ty liên kết: ; column_headers: STT | Công ty con | Địa chỉ | Lĩnh vực sản xuất, kinh doanh chính | Vốn điều lệ đã góp ( tỷ đồng) | Tỷ lệ sở hữu của HPG [ROWS] STT | Công ty con | Địa chỉ | Lĩnh vực sản xuất, kinh doanh chính | Vốn điều lệ đã góp ( tỷ đồng) | Tỷ lệ sở hữu của HPG [ROW] 8 | Công ty CP Nội thất Hòa Phát | Đường B4, khu B, Khu Công nghiệp Phố Nối A, xã Lạc Hồng, huyện Văn Lâm, tỉnh Hưng Yên. | Sản xuất và kinh doanh thương mại các sản phẩm nội thất. | 250 | 99,60% [ROW] 9 | Công ty TNHH Điện lạnh Hòa Phát | Khu CN Phố Nối A, xã Giai Phạm, huyện Yên Mỹ, tỉnh Hưng Yên. | Sản xuất và kinh doanh thương mại sản phẩm điện lạnh. | 150 | 99,67% [ROW] 10 | Công ty TNHH Thương mại Hòa Phát | Số 39 Nguyễn Đình Chiểu, phường Lê Đại Hành, quận Hai Bà Trưng, TP Hà Nội. | Buôn bán và xuất nhập khẩu sắt thép các loại, vật liệu xây dựng, đồ nội thất, máy điều hòa, máy giặt, tủ lạnh. | 50 | 99,00% [ROW] 11 | Công ty CP Xây dựng và Phát triển Đô thị Hòa Phát | Số 39 Nguyễn Đình Chiểu, phường Lê Đại Hành, quận Hai Bà Trưng, TP Hà Nội. | Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật. | 300 | 99,67% [ROW] 12 | Công ty CP Golden Gain Việt Nam | Khu N03, khu đô thị Đông Nam Trần Duy Hưng, đường Hoàng Minh Giám, phường Trung Hòa, quận Cầu Giấy, TP Hà Nội. | Kinh doanh bất động sản. | 433,125 | 84,954% [ROW] Công ty liên kết [ROW] 1 | Công ty CP Khai khoáng Hòa Phát – SSG | Số nhà 55B, đường Phan Đình Phùng, phường Quyết Thắng, TP Kon tum. | Khai thác và thu gom than non; khai thác quặng sắt không chứa sắt; hoạt động dịch vụ hỗ trợ khai thác mỏ và quặng khác; và sản xuất than cốc, vôi, thạch cao. | 14,828 | 38% [ROW] 2 | Công ty CP Đầu tư Khai thác Khoáng Sản Yên Phú | Số 39 Nguyễn Đình Chiểu, phường Lê Đại Hành, quận Hai Bà Trưng, TP Hà Nội. | Khai thác mỏ và quặng sắt; sản xuất than cốc; sản xuất sắt, thép, gang và khai thác và thu gom than non, than bùn và quặng bô xít. | 2,85 | 50%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Công ty Cổ phần Tập đoàn Hòa Phát và các công ty con Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2012 (tiếp theo) ; column_headers: Lợi ích và quyền biểu quyết | STT | Hoạt động chính | 31/12/2012 | 31/12/2011 [ROWS] Lợi ích và quyền biểu quyết [ROW] STT | Hoạt động chính | 31/12/2012 | 31/12/2011 [ROW] Công ty con [ROW] 1 | Công ty TNHH Thiết bị Phụ tùng Hòa Phát | Sản xuất thiết bị xây dựng; kinh doanh thương mại máy móc và thiết bị xây dựng và khai thác khoáng sản loại nhỏ và vừa. | 99,72% | 99,72% [ROW] 2 | Công ty CP Nội thất Hòa Phát | Sản xuất và kinh doanh thương mại các sản phẩm nội thất. | 99,60% | 99,60% [ROW] 3 | Công ty TNHH Ống thép Hòa Phát | Sản xuất và kinh doanh thương mại ống thép. | 99,86% | 99,86% [ROW] 4 | Công ty TNHH Điện lạnh Hòa Phát | Sản xuất và kinh doanh thương mại sản phẩm điện lạnh. | 99,67% | 99,67% [ROW] 5 | Công ty CP Xây dựng và Phát triển Đô thị Hòa Phát | Xây dựng dân dụng; xây dựng công nghiệp, kinh doanh bất động sản thuộc quyền sở hữu hoặc đi thuê, cho thuê nhà, văn phòng; đầu tư và xây đồng bộ hạ tầng kỹ thuật. | 99,67% | 99,67% [ROW] 6 | Công ty TNHH Thương mại Hòa Phát | Buôn bán và xuất nhập khẩu sắt thép các loại, vật liệu xây dựng, đồ nội thất, máy điều hòa, máy giặt, tủ lạnh. | 99,00% | 99,00% [ROW] 7 | Công ty CP Thép Hòa Phát | Sản xuất thép, gang, khai thác quặng sắt, khai thác và thu gom than non; bán buôn kim loại và quặng kim loại; và sản xuất, mua bán than cốc. | 85,00% | 85,00% [ROW] 8 | Công ty CP Đầu tư Khoáng sản An Thông | Thăm dò, khai thác, tuyển luyện, chế biến, xuất nhập khẩu khoáng sản nói chung trong đó chủ yếu là quặng sắt. | 99,95% | 99,95% [ROW] 9 | Công ty CP Golden Gain Việt Nam | Kinh doanh bất động sản. | 84,954% | 84,92% [ROW] 10 | Công ty CP Năng lượng Hòa Phát | Sản xuất và bán buôn than cốc, khai thác và thu gom than cứng; sản xuất sản phẩm dầu mỏ tinh chế; bán buôn kim loại và quặng kim loại; và buôn bán than luyện cốc và than các loại. | 99,89% | 99,89% [ROW] 11 | Công ty TNHH Một thành viên Thép Hòa Phát | Sản xuất sắt, thép, gang; bán buôn kim loại và quặng kim loại. | 100% | 100% [ROW] 12 | Công ty CP Khoáng sản Hòa Phát | Khai thác và thu gom than non; khai thác quặng sắt, bô xít, các kim loại quý hiếm; khai thác đá, cát, sỏi, đất sét; sản xuất than cốc, thạch cao, vôi, kim loại màu và kim loại quý; đúc sắt thép và kim loại màu. | 99,8% | 70%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 8
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Công ty Cổ phần Tập đoàn Hòa Phát và các công ty con Thuyết minh báo cáo tài chính hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2012 (tiếp theo) ; column_headers: Lợi ích và quyền biểu quyết | STT | Hoạt động chính | 31/12/2012 | 31/12/2011 [ROWS] Lợi ích và quyền biểu quyết [ROW] STT | Hoạt động chính | 31/12/2012 | 31/12/2011 [ROW] 13 | Công ty CP Cửa Hòa Phát | Sản xuất các sản phẩm gỗ, plastic và cao su tổng hợp, sản xuất các sản phẩm bằng kim loại và hoạt động bán lẻ khác. | - | 60% [ROW] 1 | Công ty CP Khai khoáng Hòa Phát – SSG | Khai thác và thu gom than non; khai thác quặng sắt không chứa sắt; hoạt động dịch vụ hỗ trợ khai thác mỏ và quặng khác; và sản xuất than cốc, vôi, thạch cao. | 38% | 38% [ROW] 2 | Công ty CP Đầu tư Khai thác Khoáng Sản Yên Phú | Khai thác mỏ và quặng sắt; sản xuất than cốc; sản xuất sắt, thép, gang và khai thác và thu gom than non, than bùn và quặng bô xít. | 50% | 40% [ROW] 3 | Công ty CP Bất động sản Hòa Phát - Á Châu | Kinh doanh bất động sản, quyền sử dụng đất, xây dựng công trình kỹ thuật dân dụng, nhà các loại, kinh doanh vật liệu xây dựng, lắp đặt hệ thống điện, và hệ thống cấp thoát nước. | - | 35%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    }
+  ]
+}

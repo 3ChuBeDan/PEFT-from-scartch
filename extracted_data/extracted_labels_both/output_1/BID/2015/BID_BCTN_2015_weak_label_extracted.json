@@ -1,0 +1,152 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "paragraph_id": 728,
+      "text": "Tham gia xem xét báo cáo tài chính do kiểm toán viên độc lập chuẩn bị, có ý kiến hoặc yêu cầu người quản trị, điều hành ngân hàng, kiểm toán viên độc lập và kiểm toán nội bộ giải trình các vấn đề có liên quan đến báo cáo;",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 814,
+      "text": "bản thân doanh nghiệp, thúc đẩy tăng trưởng một cách toàn diện, dài hạn và bền vững. Chính vì vậy, BIDV đã xác định sứ mệnh của mình là: \"luôn đồng hành, chia sẻ và cung cấp dịch vụ tài chính – ngân hàng hiện đại, tốt nhất cho khách hàng; cam kết mang lại giá trị tốt nhất cho các cổ đông; tạo lập môi trường làm việc chuyên nghiệp, thân thiện, cơ hội phát triển nghề nghiệp và lợi ích xứng đáng cho mọi nhân viên; và là ngân hàng tiên phong trong hoạt động phát triển cộng đồng\".",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 888,
+      "text": "Với mục đích hỗ trợ trong công tác phân tích, đánh giá, dự báo, hoạch định chính sách, chiến lược phát triển, ... phục vụ công tác quản trị điều hành; BIDV đã đầu tư, xây dựng được hệ thống thông tin tương đối đầy đủ theo yêu cầu quản trị điều hành như: Hệ thống thông tin quản lý MIS, ERP, phân bổ thu nhập chi phí MPA, Treasury...; các hệ thống phục vụ cải cách hành chính như: BIDV Portal, Office One; các ứng dụng phục vụ QLRR và tuân chủ các chuẩn, thông lệ quốc tế: như phòng chống rửa tiền, quản trị rủi ro rác nghiệp, rủi ro thanh khoản, lãi suất, ....",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "paragraph_id": 948,
+      "text": "Công đoàn BIDV đã phối hợp với chính quyền tổ chức các hoạt động thăm quan nghỉ mát trong nước và ngoài nước; chúc mừng sinh nhật cho CBVC-LĐ; tổ chức các hoạt động vui chơi, giải trí cho con cán bộ nhân ngày Quốc tế thiếu nhi 01/6. Tổ chức các hoạt động văn hoá, văn nghệ, TDTT góp phần nâng cao thể chất và đời sống tinh thần cho người lao động, tạo không khí phấn khởi và động lực giúp CBVC-LĐ hăng hái thi đua, lao động hoàn thành tốt kế hoạch kinh doanh của đơn vị; tạo được mối quan hệ thân thiện giữa BIDV với bạn hàng, đối tác. Một số hoạt động điển hình: Các CĐCS khu vực Đồng bằng sông Cửu Long tổ chức Hội thao cấp khu vực tại Sóc Trăng; CĐCS Đông Đô, Hà Tây tổ chức Hội diễn văn nghệ, các CĐCS Ba Đình, Thanh Xuân, Tây Hà Nội, Hai Bà Trưng, Tây Hồ tổ chức hội thao \"5 anh em\"; các CĐCS Bình Thuận, Ninh Thuận, Khách Hòa, Nha Trang tổ chức giao lưu văn nghệ - thể thao....",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 951,
+      "text": "người lao động. BIDV chú trọng hoàn thiện môi trường văn hóa ứng xử của Ngân hàng để đội ngũ người lao động luôn cảm nhận và gắn bó BIDV như ngôi nhà thứ hai của mình, cùng nhau xây dựng một môi trường làm việc chuyên nghiệp và thân thiện. Từ năm 2009, BIDV ban hành Bộ Quy chuẩn đạo đức nghề nghiệp và Bộ Quy tắc ứng xử được ban hành, phổ biến, thực hành trong toàn hệ thống. Văn hoá doanh nghiệp của BIDV, với những chuẩn mực yêu cầu về tinh thần thượng tôn pháp luật, về sự trung thực, trung thành, về đòi hỏi hướng đến khách hàng, về trách nhiệm đóng góp cho xã hội, về tinh thần sáng tạo, kinh doanh hiệu quả, về ứng xử thân thiện, tận tình;... là những giá trị nền tảng góp phần giúp BIDV phát triển bền vững trong quá khứ, hiện tại và tương lai.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 989,
+      "text": "Với tôn chỉ Hướng đến khách hàng cùng mong muốn mang đến cho khách hàng những dịch vụ tài chính ngân hàng chuyên nghiệp, thân thiện, hiện đại, từ tháng 6/2013, Trung tâm chăm sóc khách hàng BIDV – BIDV Contact Center (TTCSKH - BCC) chính thức đi vào hoạt động, thể hiện quyết tâm không ngừng nâng cao sự hài lòng cho mỗi khách hàng, góp phần đưa BIDV trở thành một trong những ngân hàng thân thiện, hiện đại nhất Việt Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1077,
+      "text": "Điển hình là đối với dự án xử lý rác thải tại Long An: tháng 12/2015 BIDV đã ký hợp đồng tín dụng tài trợ vốn ưu đãi 148 triệu USD cho giai đoạn 1 - Dự án Khu công nghệ Môi trường xanh của Công ty CP xử lý chất thải Việt Nam - Long An. Dự án là một khu liên hợp xử lý chất thải hoàn chỉnh, gồm các hạng mục công trình như: Khu vực cầu cảng bốc dỡ, tiếp nhận chất thải, vật liệu tái chế, vật liệu xây dựng, hàng hóa, container; khu vực xử lý chất thải sinh hoạt công nghệ cao; khu xử lý chất thải y tế; các nhà máy tái chế bao gồm nhà máy phân loại tái chế đa năng, xưởng chế biến phân compost, nhà máy xử lý bùn thải, nhà máy xử lý nước sinh hoạt và nước mưa, nhà máy xử lý nước rỉ rác từ khu chôn lấp công nghệ cao; khu vực tiếp nhận chất thải điện tử và chất thải nguy hại từ hộ gia đình; nhà máy tái tạo năng lượng từ chất thải để đốt các chất thải sau phân loại... Khu Công nghệ Môi trường xanh được đặt tại xã Tân Lập, huyện Thủ Thừa, tỉnh Long An và áp dụng những công nghệ xử lý chất thải tiên tiến nhất của thế giới như: công nghệ tái tạo năng lượng từ chất thải, khí hóa, các quy trình tái sinh, tái tạo vật liệu... Dự án được thiết kế để phát triển linh hoạt và có khả năng mở rộng, đáp ứng nhu cầu quản lý chất thải liên vùng trong tương lai.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 13
+      }
+    },
+    {
+      "paragraph_id": 1082,
+      "text": "đói giảm nghèo, để đạt được mục tiêu về bảo vệ môi trường, đặc biệt là việc xây dựng và đưa ra cơ chế sàng lọc nhằm loại bỏ những tiểu dự án không đáp ứng về mặt môi trường ra khỏi danh mục tài trợ, hoặc yêu cầu và giám sát người vay tuân thủ các qui định về Bảo vệ môi trường đã đặt ra cho BIDV và các định chế tài chính tham gia dự án hàng loạt thách thức về con người, về cơ chế chính sách quản lý ..; Song với quyết tâm thực hiện cam kết về Bảo vệ môi trường trong khuôn khổ Dự án TCNT mà Chính phủ Việt Nam và WB ký kết, trong hơn 15 năm qua BIDV cùng với các định chế tài chính tham gia Dự án đã đạt được những thành công về khía cạnh BVMT như sau: (i) đã xây dựng và ban hành được các văn bản qui phạm pháp luật hướng dẫn về BVMT dành riêng cho Dự án TCNT và hệ thống NHTM tham gia dự án, (ii) liên tục tổ chức hàng chục khóa tập huấn, đào tạo trong và ngoài nước trong khuôn khổ từng Dự án về bảo vệ môi trường cho hàng trăm lượt cán bộ tín dụng, (iii) nhờ đó không ngừng nâng cao nhận thức về công tác BVMT cho hàng trăm cán bộ tín dụng của các ĐCTC tham gia Dự án, và hàng trăm ngàn người vay trên phạm vi cả nước, (iv) dự án đã tạo ra tính liên kết hệ thống trong nội bộ ngành NH từ cấp NH bán buôn (BIDV) tới các NH bán lẻ (37 ĐCTC) cùng với mạng luới chi nhánh rộng khắp trong việc phối hợp thẩm định, kiểm tra, giám sát các chủ tiểu dự án trong việc tuân thủ nghiêm chỉnh các qui định về BVMT của WB và Việt Nam...; Nhờ đó cho đến nay, 100% cán bộ tín dụng của các NHTM tham gia Dự án nắm rõ qui trình lồng ghép quá trình thẩm định về mặt kinh tế, tài chính với quá trình thẩm định về mặt môi trường trước khi ra quyết đinh cho vay. 100% người vay khi tiếp cận với nguồn vốn Dự án TCNT -WB đều ký Bản cam kết về BVMT, hoặc các Báo cáo Đánh giá tác động môi trường được phê duyệt... trong quá trình triển khai tiểu dự án; Đặc biệt qua 4 đợt \"Kiểm toán môi trường\" Dự án TCNT: gồm Dự án TCNT II vào các năm 2006 và 2007 và Dự án TCNT III vào các năm 2012 và 2013, cũng như hàng loạt đợt kiểm tra giám sát định kỳ và đột xuất của WB phối hợp với Ban quản lý Dự án (SGDIII-BIDV) từ khi triển khai Dự án đến nay cho thấy: tại các thời điểm kiểm toán cũng như tại các thời điểm kiểm tra, giám sát, trong tổng số hơn 1 triệu khoản vay (tiểu dự án), không có tiểu dự án nào có mức tác động nghiêm trọng tới môi trường, chỉ ở mức trung bình, nhẹ, thậm chí ngược lại có hàng trăm tiểu dự án có tác động tích cực tới môi trường do cải tạo và trồng rừng, trồng rau sạch, áp dụng các công nghệ sạch vào sản xuất..v.v...; Đây là thành công, là đóng góp to lớn của chuỗi Dự án đối với sự nghiệp bảo vệ môi trường tại Việt Nam trong những năm qua, đã được các Bộ tài nguyên và môi trường, Bộ KH&ĐT, Ngân hàng Nhà nước, Bộ Tài chính, Ngân hàng Thế giới....đánh giá cao tại các cuộc Hội thảo công bố kết quả kiểm toán môi trường, cũng như các ghi nhận của WB tại các Báo cáo giám sát định kỳ. Đặc biệt tại Báo cáo đánh giá kết thúc Dự án TCNT vào năm 2014 của 2 đơn vị Tư vấn (Viện khoa học môi trường và phát triển+ Công ty tư vấn Mekong Econoics) là 2 đơn vị được WB lựa chọn đánh giá kết thúc Dự án TCNT, đánh giá như sau: \"thay đổi nhận thức về môi trường khi cho vay của các PFIs được ghi nhận là một trong những thành công lớn nhất của Dự án TCNT. Hầu hết các PFIs khẳng định rằng việc tham gia Dự án TCNT đã giúp họ thay đổi nhận thức về vai trò của các cam kết môi trường khi cho vay, thay đổi nhận thức của lãnh đạo, cán bộ ngân hàng và chính khách hàng của NH về việc đảm bảo các điều kiện môi trường khi cho vay\". Nhờ đó, khi kết thúc chuỗi Dự án TCNT, 100% tiểu dự án vay vốn đã thực hiện đầy đủ các qui định về Bảo vệ môi trường của VN và chính sách an toàn môi trường của WB, được WB và cộng đồng quốc tế đánh giá cao và coi đây là hình mẫu cần nhân rộng ra ngoài phạm vi Dự án trong những thập niên tới. Chính vì vậy, thành công về BVMT không chỉ dừng lại ở Dự án TCNT, mà đã được WB tiếp tục nhân rộng và áp dụng trong khuôn khổ Dự án chuyển đổi nông nghiệp bền vững tại VN (VnSAT). Đây là Dự án ODA mới, với tổng số vốn tài trợ lên đến 237 triệu USD vừa mới được Chính phủ VN và WB ký kết Hiệp định chính thức vào cuối năm 2015. Một lần nữa, BIDV tiếp tục được WB lựa chọn là NH bán buôn đối với Dự án VnSAT, và các quy định về BVMT được BIDV xây dựng và ban hành trong khuôn khổ Dự án TCNT tiếp tục được WB sử dụng trong khuôn khổ Dự án VnSAT cho giai đoạn 2015-2020.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 4
+      }
+    }
+  ]
+}

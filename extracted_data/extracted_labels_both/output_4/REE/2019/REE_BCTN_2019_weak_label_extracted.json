@@ -1,0 +1,250 @@
+{
+  "extracted_count": 15,
+  "extracted": [
+    {
+      "text": "Ngành Điện ghi nhận Doanh thu 790 tỷ đồng trong năm 2019, giảm 5,3% so với năm 2018. Lợi nhuận sau thuế 813 tỷ đồng, giảm 14% so với năm 2018, do điều kiện thủy văn bất lợi, tình trạng khô hạn kéo dài, lượng nước về các hồ thấp nhất trong 30 năm trở lại đây, ảnh hưởng tiêu cực đến các nhà máy thủy điện; các Nhà máy nhiệt điện than luôn trong tình trạng thiếu than do TKV và Tổng Công ty than Đông Bắc không cung cấp đủ nguồn than sản xuât cho các nhà máy.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Các nhà máy nhiệt điện than luôn trong tình trạng thiếu than do TKV và TCT Đông Bắc không cung cấp đủ nguồn than sản xuất trong nước cho các nhà máy. Do vậy, TKV và TCT Đông Bắc buộc phải nhập khẩu than để bổ sung cho lượng than thiếu hụt. Điều này đã làm thay đổi đáng kể chất lượng than và ảnh hướng đến vận hành ổn định các nhà máy điện, đồng thời làm tăng chi phí mua than của các nhà máy điện.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 7
+      }
+    },
+    {
+      "text": "Với mảng bất động sản: Các tòa nhà văn phòng của REE mới xây dựng gần đây cùng đạt chuẩn Gold Leed, tiết kiệm tối đa năng lượng và đem đến cho khách hàng một không gian thoải mái khi làm việc. Điển hình là tòa nhà văn phòng e.town Central, theo tiêu chuẩn LEED – chứng chỉ Vàng của Hội đồng Công trình Xanh Mỹ (USGBC) và Etown 5 theo tiêu chuẩn EDGE – chứng chỉ của SGS (World Bank), với các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện hơn 30%, %, giảm hơn 50% lượng nước sử dụng, giảm tối đa lượng khí thải CO 2 và sử dụng vật liệu thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 4,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Hoạt động văn phòng cho thuê ứng dụng các công nghệ thân thiện môi trường vào xây dựng và vận hành tòa nhà thông minh, tiết kiệm năng lượng. Điển hình là việc xây dựng tòa nhà văn phòng mới e.town 5 theo tiêu chuẩn EDGE – chứng chỉ của SGS (World Bank) với các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện đến 31% , giảm đến 51% lượng nước sử dụng, giảm tối đa lượng khí thải CO 2 và sử dụng vật liệu thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

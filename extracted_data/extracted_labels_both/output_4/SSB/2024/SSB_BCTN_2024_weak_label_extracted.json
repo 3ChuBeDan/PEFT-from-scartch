@@ -1,0 +1,352 @@
+{
+  "extracted_count": 16,
+  "extracted": [
+    {
+      "paragraph_id": 711,
+      "text": "Từ năm 2021 đến nay, SeABank đã huy động được gần 1 tỷ USD (bao gồm TTTM) từ nước ngoài, trong đó gần 300 triệu USD được huy động tính riêng trong năm 2024 để hỗ trợ các chương trình bền vững, tín dụng xanh, tài trợ các dự án đầu tư, phương án sản xuất kinh doanh, phương án vay vốn trong lĩnh vực xanh như: nông nghiệp xanh, công trình xanh, năng lượng tái tạo, năng lượng sạch, quản lý nước bền vững tại khu vực đô thị và nông thôn... Mục tiêu tài trợ các dự án phát triển năng lượng tái tạo như điện mặt trời, điện gió và các giải pháp tiết kiệm năng lượng với tổng giá trị dự kiến đạt 5.000 tỷ đồng vào năm 2030.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1363,
+      "text": "Nhờ có khung quản lý rủi ro vững chắc, cùng với tinh thần quyết tâm, nỗ lực triển khai các chiến lược và giải pháp đa dạng, linh hoạt và quyết liệt theo tinh thần \"Choose your fighter, be a legend!\", SeABank đã vượt qua năm 2024 đầy thử thách bằng cách giám sát thận trọng và linh hoạt các rủi ro trọng yếu.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1546,
+      "text": "Sự kiện văn hóa nâng cao tinh thần nội bộ: Các cuộc thi và sự kiện nội bộ được tổ chức nhân dịp lễ như Quốc tế Phụ nữ 8/3, 20/10, Quốc tế Đàn ông 19/11; chuỗi sự kiện chào mừng 30 năm thành lập ngân hàng như \"Giải mã Nàng thơ\", \"Lời ngọc gửi Nàng\", \"Nam thần quanh ta\"... ngày càng đổi mới sáng tạo, góp phần nâng cao tinh thần, tạo nên một cộng đồng gắn kết, tràn đầy nhiệt huyết.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1676,
+      "text": "Xả thải: đảm bảo 100% nước thải được xử lý trước khi thải. Cụ thể, tại các trụ sở làm việc có cấp giấy phép xả nước thải ra môi trường do SeABank quản lý vận hành, nước thải được quan trắc chỉ số theo QCVN 14:2008/BTNMT định kỳ 3 tháng/lần. Kết quả phân tích cho thấy, tất cả các thông số đều thấp hơn giới hạn cho phép theo QCVN 14:2008/BTNMT (cột B, k = 1,2).",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 2325,
+      "text": "[TABLE] [CONTEXT] section: CHIẾN LƯỢC PHÁT TRIỂN VÀ ĐỊNH HƯỚNG NGẮN, TRUNG, DÀI HẠN ; column_headers: Trụ cột | Mục tiêu | Định hướng triển khai [ROWS] Trụ cột | Mục tiêu | Định hướng triển khai [ROW] MÔI TRƯỜNG (Environmental) | Tích hợp các tiêu chí bảo vệ môi trường vào hoạt động kinh doanh và quản lý rủi ro tín dụng | Xây dựng chính sách tín dụng xanh: • Ưu tiên cấp tín dụng và giải ngân cho các dự án thân thiện với môi trường, đặc biệt là các dự án năng lượng tái tạo và công nghệ sạch. • Cung cấp các sản phẩm tài chính bền vững như tín dụng xanh, trái phiếu xanh (green bonds, blue bonds...) để hỗ trợ các dự án về năng lượng tái tạo, sản xuất sạch, nông nghiệp hữu cơ... Quản lý rủi ro môi trường: • Áp dụng Sổ tay đánh giá rủi ro môi trường và xã hội cho các ngành kinh tế trong hoạt động cấp tín dụng, theo hướng dẫn của NHNN và/hoặc các tiêu chuẩn về quản lý rủi ro môi trường – xã hội khuyến nghị của các đối tác quốc tế. • Chính sách tín dụng có trách nhiệm: Không cấp vốn cho các dự án có rủi ro cao, các ngành nghề/lĩnh vực có khả năng gây nguy hại đến môi trường thuộc danh sách loại trừ của SeABank. • Chuỗi cung ứng bền vững: Ưu tiên hợp tác với các đối tác, nhà cung cấp có hoạt động xanh - bền vững. Giảm thiểu tác động môi trường từ hoạt động ngân hàng: • Tiết kiệm năng lượng và sử dụng tài nguyên hiệu quả: thực hiện các biện pháp tiết kiệm điện, nước, giảm thiểu rác thải và xử lý rác thải, sử dụng tài nguyên hiệu quả trong hoạt động hàng ngày của ngân hàng. • Giảm phát thải carbon: Ứng dụng công nghệ số để giảm thiểu giao dịch giấy tờ, tối ưu hóa quy trình vận hành giúp giảm tiêu thụ năng lượng. • Lan tỏa tinh thần sống xanh: phát động hàng loạt hoạt động, phong trào xanh nhằm nâng cao ý thức, thúc đẩy và tạo thói quen xanh trong nội bộ và đối tác, cộng đồng. [ROW] XÃ HỘI (Social) | Đảm bảo trách nhiệm xã hội của ngân hàng đối với cộng đồng, khách hàng và CBNV | Phát triển cộng đồng: • Tổ chức và tham gia tài trợ các dự án phát triển hạ tầng, xóa đói giảm nghèo, giáo dục, y tế... tại các địa phương trên toàn quốc. • Tham gia các chương trình ASXH, vì cộng đồng và bình đẳng xã hội do các cơ quan, đơn vị tổ chức.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 2340,
+      "text": "[TABLE] [CONTEXT] section: TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN ; column_headers: Tên dự án | Chi tiết mục đích, tình hình triển khai | Tiến độ triển khai | B. Các dự án đã hoàn thành trong năm 2024 [ROWS] Tên dự án | Chi tiết mục đích, tình hình triển khai | Tiến độ triển khai [ROW] B. Các dự án đã hoàn thành trong năm 2024 [ROW] Dự án nâng cấp hệ thống Ngân hàng lõi T24 | Mục đích: Cải thiện chất lượng sản phẩm dịch vụ, tối ưu hoạt động và đáp ứng ngày một tốt hơn nhu cầu của khách hàng. Thành tựu năm 2024: Tháng 11/2024, SeABank đã thực hiện nâng cấp thành công T24 lên phiên bản R22 - phiên bản mới nhất được triển khai tại thị trường Việt Nam. Một trong những cải tiến chủ chốt của hệ thống T24 phiên bản R22 là tích hợp các tính năng nghiệp vụ mới, đáp ứng các tiêu chuẩn quốc tế về tài chính và ngân hàng. Lợi ích của dự án: • Hỗ trợ cải thiện khả năng tuân thủ các quy định quốc tế, nâng cao khả năng quản lý rủi ro, đồng thời gia tăng tính minh bạch và an toàn trong hoạt động ngân hàng. • Các tính năng nghiệp vụ mới của T24 phiên bản R22 cho phép SeABank linh hoạt tùy chỉnh sản phẩm dịch vụ phù hợp với nhu cầu đa dạng của khách hàng. • SeABank tận dụng các công nghệ tiên tiến được tích hợp trong T24 phiên bản R22 để tối ưu hóa hiệu suất hoạt động của hệ thống lõi. Phiên bản mới này sử dụng các công nghệ hiện đại (TAFJ), phân tích dữ liệu thời gian thực, giúp rút ngắn thời gian xử lý giao dịch, nâng cao độ chính xác và giảm thiểu lỗi hệ thống. • Triển khai các sản phẩm tài chính theo tiêu chuẩn quốc tế, giúp khách hàng dễ dàng tiếp cận các dịch vụ tài chính tiên tiến như: quản lý dòng tiền đa quốc gia, thanh toán quốc tế, các dịch vụ hỗ trợ đầu tư. Qua đó, SeABank có thể mở rộng hợp tác quốc tế, nâng cao uy tín trên thị trường. | Thời gian bắt đầu dự án: Tháng 1/2023 Thời gian golive: tháng 10/2024 Tổng đầu tư: 95,3 tỷ đồng [ROW] Dự án Phòng chống rửa tiền (SeAAML) | Mục đích: Hệ thống phòng, chống rửa tiền (PCRT) được triển khai nhằm tuân thủ các quy định của NHNN, đảm bảo chuẩn quốc tế và phù hợp với luật PCRT của Việt Nam.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 2341,
+      "text": "[TABLE] [CONTEXT] section: TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN ; column_headers: Tên dự án | Chi tiết mục đích, tình hình triển khai | Tiến độ triển khai | B. Các dự án đã hoàn thành trong năm 2024 (tiếp) [ROWS] Tên dự án | Chi tiết mục đích, tình hình triển khai | Tiến độ triển khai [ROW] B. Các dự án đã hoàn thành trong năm 2024 (tiếp) [ROW] Dự án Phòng chống rửa tiền (SeAAML) - tiếp - | Thành tựu năm 2024: Dự án SeAAML đã triển khai thành công bốn chức năng chính: nhận biết và đánh giá rủi ro khách hàng; quét lọc giao dịch; giám sát giao dịch; báo cáo. Cụ thể: • Tự động quét lọc thông tin: Cho phép tự động quét lọc thông tin khách hàng ngay tại thời điểm thiết lập quan hệ với đồng thời nhiều yếu tố như tên, số giấy tờ tùy thân, năm sinh, quốc tịch và giới tính. • Tính năng Knock-out: Cho phép chặn mở ID khách hàng hoặc tài khoản thanh toán khi thông tin khách hàng trùng khớp với danh sách khủng bố hoặc khách hàng có quốc tịch/quốc gia đặt trụ sở tại các quốc gia bị cấm vận toàn phần. • Phân loại rủi ro: Hệ thống có khả năng phân loại rủi ro rửa tiền ngay khi khách hàng thiết lập quan hệ và đánh giá lại cuối mỗi ngày sau khi khách hàng sử dụng thêm các dịch vụ của SeABank. • API quét lọc tự động: Hệ thống sử dụng API để quét lọc tự động thông tin của khách hàng và các bên liên quan trước khi thực hiện giao dịch, không phụ thuộc vào các tiêu chuẩn ISO về format điện quốc tế và trong nước. • Báo cáo giao dịch đáng ngờ, lập báo cáo giao dịch đáng ngờ từ nhiều nguồn khác nhau: Cảnh báo từ hệ thống SeAAML hoặc từ nguồn khác như SeABank tự phát hiện hoặc theo các công văn của NHNN/các cơ quan Nhà nước có thẩm quyền. • Tra cứu linh hoạt: Người dùng có thể tra cứu thông tin theo từng khách hàng hoặc theo lô (danh sách khách hàng). • Giám sát giao dịch đáng ngờ: Hỗ trợ giám sát và phát hiện các giao dịch đáng ngờ trên hệ thống SeAAML và chạy tự động vào cuối mỗi ngày. | Thời gian triển khai: Tháng 2/2022 Thời gian golive: Tháng 1/2024 Tổng đầu tư: 4 tỷ đồng",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 2342,
+      "text": "[TABLE] [CONTEXT] section: TÌNH HÌNH ĐẦU TƯ, THỰC HIỆN CÁC DỰ ÁN ; column_headers: Tên dự án | Chi tiết mục đích, tình hình triển khai | Tiến độ triển khai [ROWS] Tên dự án | Chi tiết mục đích, tình hình triển khai | Tiến độ triển khai [ROW] B. Các dự án đã hoàn thành trong năm 2024 (tiếp) [ROW] Dự án Phòng chống rửa tiền (SeAAML) - tiếp - | Lợi ích của dự án: • SeAAML giúp giảm thiểu rủi ro rửa tiền qua SeABank, đảm bảo sự an toàn và minh bạch trong các giao dịch tài chính. • Tăng độ chính xác trong việc phát hiện và xử lý các giao dịch đáng ngờ, giảm thiểu các cảnh báo giả, từ đó nâng cao hiệu quả trong công tác PCRT. [ROW] Dự án Nâng cấp hệ thống thẻ Way 4 | Mục đích: Tăng cường tính linh hoạt của hệ thống thẻ, đạt hiệu quả hoạt động xuất sắc, thúc đẩy quá trình triển khai các sản phẩm và dịch vụ số mới. Thành tựu năm 2024: Phiên bản mới nhất của Way 4 cung cấp các chức năng như: • Đáp ứng tiêu chuẩn Visa/Master và các tổ chức thẻ quốc tế. • Kiến trúc mới (Multi Node cho một số Module) cho phép mở rộng năng lực xử lý khi cần thiết. • Cung cấp các API cho phép dễ dàng phát triển các công cụ trên các kênh ebank. Lợi ích của dự án: Đem tới cho khách hàng những sản phẩm công nghệ tiên tiến nhất nhờ triển khai thành công các công nghệ xử lý thanh toán thẻ hàng đầu thế giới và liên tục tiếp cận quá trình số hóa mới. | Thời gian golive: Tháng 11/2024 Tổng đầu tư: Tự triển khai",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 2372,
+      "text": "[TABLE] [CONTEXT] section: A. Thể chế hóa, xây dựng hành lang pháp lý và hệ thống quản trị liên quan đến PTBV của SeABank [ROWS] Xây dựng chính sách tín dụng xanh | • SeABank đã ban hành Chương trình ưu đãi thúc đẩy tăng trưởng dành cho tín dụng xanh năm 2021 và 2023, tiếp tục triển khai trong năm 2024. Mục đích chương trình: Hỗ trợ, thúc đẩy ĐVKD tập trung tiếp cận và thu hút các khách hàng có hoạt động kinh doanh thuộc các ngành, lĩnh vực thân thiện với môi trường, thích ứng với biến đổi khí hậu hoặc mang lại lợi ích về môi trường. • Ban hành Quy định chính sách cấp tín dụng xanh tại SeABank giai đoạn 2021- 2025 kèm theo Quyết định số 5151/2021/QĐ-TGĐ ngày 13/04/2021. [ROW] Xây dựng và cải tiến hệ thống quản lý rủi ro MTXH | • Từ năm 2021, SeABank đã ban hành Quy định về hệ thống quản lý rủi ro MTXH tại SeABank theo Quyết định 20365/2021/QĐ-TGĐ. Năm 2022, SeABank đã ban hành Hướng dẫn đánh giá và thẩm định rủi ro môi trường và xã hội ban hành kèm theo Văn bản số 12668/2022/HD-TGĐ. Năm 2023, SeABank tiếp tục sửa đổi, bổ sung Quy định về hệ thống quản lý rủi ro MTXH kèm theo Quyết định số 318/2023/ QĐ-TGĐ. Các quy định, hướng dẫn này tiếp tục được thực hiện trong năm 2024. • Hệ thống quản lý rủi ro MTXH của SeABank được thiết lập nhằm giảm thiểu rủi ro và tác động tiêu cực đến môi trường, xã hội trong các hoạt động cấp tín dụng, đầu tư và thuê ngoài của Ngân hàng, qua đó hướng đến hiệu quả tài chính bền vững, phù hợp với các cam kết của SeABank về giải quyết biến đổi khí hậu và đóng góp tích cực cho sự phát triển của xã hội, cộng đồng. Ví dụ: các dự án sản xuất hoặc các hoạt động liên quan đến các hình thức cưỡng bức lao động có hại hoặc có bóc lột lao động trẻ em; hoạt động khai thác gỗ thương mại trong rừng nhiệt đới ẩm nguyên sinh, hoạt động khai thác các sản phẩm lâm nghiệp không không phải từ rừng PTBV; một số hoạt động liên quan đến ngành than và khai thác than... sẽ được sàng lọc và loại trừ, không được xem xét cấp tín dụng/đầu tư hoặc trở thành đối tác thuê ngoài của Ngân hàng. [ROW] Xây dựng chính sách tín dụng có trách nhiệm | • SeABank đã ban hành Danh sách loại trừ không cấp tín dụng cho các ngành nghề theo Phụ lục số 01 của Quyết định 318/2023/QĐ-TGĐ. Theo đó, SeABank không cấp vốn cho các dự án gây nguy hại đến môi trường như: khai thác tài nguyên không bền chắc, khai thác gỗ rừng nguyên sinh; sản xuất công nghiệp có năng lượng phát thải cao như các ngành sản xuất dược phẩm, thuốc trừ sâu, thuốc diệt cỏ, chất làm suy giảm tầng ô-zôn; sản xuất vũ khí, đạn dược; sản xuất hoặc hoạt động có liên quan đến lao động trẻ em...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.415339,
+        "E3": 1.0,
+        "S4": 0.642575,
+        "S6": 0.825137
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 3,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 2374,
+      "text": "[TABLE] [CONTEXT] section: Tình hình triển khai thực hiện các cam kết PTBV năm 2024 (tiếp): [ROWS] Xây dựng văn hóa kinh doanh có đạo đức - tiếp - | • Ban hành và công bố “Bộ Quy tắc ứng xử dành cho Nhà cung cấp” từ năm 2024 nhằm thiết lập các tiêu chuẩn và nguyên tắc mà các đối tác, nhà cung cấp cần tuân thủ khi hợp tác với SeABank. Bộ quy tắc này giúp đảm bảo sự minh bạch, trách nhiệm và tuân thủ pháp luật trong mọi hoạt động kinh doanh giữa SeABank và các đối tác; đồng thời hạn chế các tác động gián tiếp lên MTXH trong các hoạt động kinh doanh của SeABank. • Ban hành Thỏa ước lao động tập thể và Nội quy lao động của Ngân hàng nhằm thể chế hóa các quy định của Luật Lao động. Đồng thời, SeABank còn duy trì một số chính sách phúc lợi ở mức cao hơn so với quy định của pháp luật như: chính sách nghỉ phép năm cao hơn mức tiêu chuẩn của pháp luật mở rộng theo chức danh, thâm niên và cống hiến cho Ngân hàng; chính sách bảo hiểm sức khỏe cho CBNV và gia đình... [ROW] Xây dựng và thực thi các chính sách PCRT | • Ban hành quy định về PCRT: quy định này đưa ra các biện pháp ngăn ngừa rủi ro rửa tiền tại SeABank một cách cụ thể, từ việc nhận biết khách hàng, các dấu hiệu phát hiện giao dịch đáng ngờ đến các biện pháp ứng xử tạm thời khi gặp trường hợp nghi ngờ giao dịch của khách hàng. • Đầu tư hệ thống PCRT: các giao dịch nếu có liên quan hoặc có dấu hiệu liên quan đến rửa tiền/giao dịch đáng ngờ đều được cảnh báo tự động trước khi thực hiện giao dịch (trước khi giao dịch được duyệt bởi cấp có thẩm quyền). • Tăng cường truyền thông, cập nhật các thông tin pháp lý, các thủ đoạn và cảnh báo mới về PCRT cho toàn bộ CBNV qua các bản tin pháp lý dưới dạng email gửi cho toàn hệ thống. • Đào tạo về PCRT: tổ chức các khóa đào tạo cho toàn bộ CBNV nhằm cập nhật các thay đổi về pháp luật liên quan đến PCRT, các thủ đoạn rửa tiền mới nhất tại Việt Nam và trên thế giới. Đảm bảo các CBNV mới gia nhập được đào tạo về PCRT trong vòng 02 tháng kể từ ngày gia nhập SeABank. • Thành lập Ban điều hành PCRT với người đứng đầu là PTGĐ phụ trách Khối PC&TT. Các thành viên bao gồm các PTGĐ, Giám đốc Khối của các Khối kinh doanh Hội sở và Giám đốc Khối Vận hành. Ban điều hành PCRT tổ chức, chỉ đạo, kiểm tra việc tuân thủ trong mọi hoạt động Ngân hàng. • Ban hành các quy định về PCRT phù hợp với quy định của pháp luật và phê duyệt các giao dịch theo thẩm quyền. • Hoạt động PCRT được kiểm toán thường niên bởi Phòng KTNB của SeABank và [ROW] Xây dựng và thực thi hiệu quả công tác phòng chống tham nhũng (PCTN) | • Trên cơ sở thực tiễn hoạt động và nhằm mục tiêu xây dựng, thúc đẩy phát triển văn hóa tổ chức, trách nhiệm liêm chính, trung thực, trong sạch, SeABank đã ban hành Quyết định số 12664/2022/QĐ-TGĐ ngày 08/08/2022 quy định về PCTN, tiêu cực và tội phạm tại SeABank. Theo đó: » Chính sách đã đưa ra những nguyên tắc thực hiện và quy định về PCTN, tiêu cực và tội phạm tại SeABank trong toàn bộ hoạt động kinh doanh, giao dịch với khách hàng, đối tác bên ngoài (nhà cung cấp, nhà thầu hoặc bất cứ một cá nhân, tổ chức nào liên quan), các hoạt động khác thay mặt cho SeABank; đưa ra các yêu cầu về quy tắc ứng xử của CBNV, trách nhiệm của SeABank và các CBNV trong công tác PCTN, tiêu cực và tội phạm.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0,
+        "S4": 0.321288
+      },
+      "themes": [
+        "G11",
+        "S4"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3,
+        "S4": 1
+      }
+    },
+    {
+      "paragraph_id": 2391,
+      "text": "[TABLE] [CONTEXT] section: ĐÀO TẠO VÀ CHỨNG CHỈ LIÊN QUAN ĐẾN QUẢN TRỊ CÔNG TY ; column_headers: STT | Họ và tên | Chức danh | Các khóa đào tạo đã tham dự [ROWS] STT | Họ và tên | Chức danh | Các khóa đào tạo đã tham dự [ROW] 1 | Lê Văn Tần | Chủ tịch HĐQT | Chương trình Chứng nhận Thành viên HĐQT tích hợp ESG [ROW] 2 | Khúc Thị Quỳnh Lâm | Phó Chủ tịch HĐQT | Chương trình Chứng nhận Thành viên HĐQT tích hợp ESG [ROW] 3 | Ngô Thị Nhài | Thành viên HĐQT (*) | Chương trình Chứng nhận Thành viên HĐQT tích hợp ESG [ROW] 4 | Trần Thị Thanh Thủy | Thành viên HĐQT | Chương trình Chứng nhận Thành viên HĐQT tích hợp ESG [ROW] 5 | Fergus Macdonald Clark | Thành viên độc lập HĐQT | Lãnh đạo trong quản trị “Nâng cao năng lực HĐQT trong kỷ nguyên AI” [ROW] 6 | Mathew Nevil Welch | Thành viên HĐQT | Chương trình Chứng nhận Thành viên HĐQT tích hợp ESG",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 5
+      }
+    },
+    {
+      "paragraph_id": 2393,
+      "text": "[TABLE] [CONTEXT] section: ĐÀO TẠO VÀ CHỨNG CHỈ LIÊN QUAN ĐẾN QUẢN TRỊ CÔNG TY ; column_headers: STT | Khóa học | Nội dung | Đối tượng | Số người tham gia đào tạo [ROWS] STT | Khóa học | Nội dung | Đối tượng | Số người tham gia đào tạo [ROW] 1 | Đào tạo định hướng dành cho thành viên HĐQT | Chế định pháp luật dành cho thành viên HĐQT; Pháp luật về Quản trị ngân hàng, vai trò của HĐQT, BKS và Ban Điều hành. | Thành viên HĐQT | 6 [ROW] 2 | DCP 27 | Chương trình Chứng nhận thành viên HĐQT tích hợp ESG | Thành viên HĐQT | 1 [ROW] 3 | Hội thảo chuyên sâu | Hội thảo chuyên sâu “Thực hành Quản trị công ty tốt vượt trên tuân thủ”; Hội thảo chuyên sâu về quản trị công ty của VIOD | Thành viên HĐQT | 2 [ROW] 4 | CSMP3 | Chương trình chuyên sâu dành cho Thư ký công ty tích hợp ESG | Thư ký công ty/ Người phụ trách Quản trị công ty | 2 [ROW] 5 | SeACoach | Chương trình đào tạo & phát triển năng lực huấn luyện cho đội ngũ quản lý năm 2024; Kỹ năng giải quyết vấn đề | Thư ký công ty/ Người phụ trách Quản trị công ty | 1 [ROW] 6 | CSMP5 | Chương trình chuyên sâu dành cho Thư ký công ty tích hợp ESG | Thư ký | 2 [ROW] 7 | Hội thảo chuyên sâu | Hội thảo chuyên sâu “Thực hành Quản trị công ty tốt vượt trên tuân thủ”; Hội thảo chuyên sâu về quản trị công ty của VIOD | Thư ký | 1 [ROW] 8 | SeACaptains | Đào tạo năng lực cho quản lý cấp trung | Thư ký | 1 [ROW] 9 | Kỹ năng quản lý cho cấp cao | “Mở khóa trí tuệ cùng AI, Leading with questions” (Lãnh đạo bằng câu hỏi); chương trình “Resilient Teams” (Xây dựng đội nhóm kiên cường); Xây dựng tổ chức học tập | Quản lý cấp cao | 2 [ROW] 10 | SeACoach (dành cho quản lý cấp cao) | Chương trình đào tạo & phát triển năng lực huấn luyện cho đội ngũ quản lý năm 2024; Kỹ năng giải quyết vấn đề | Quản lý cấp cao | 8 [ROW] 11 | SeALeadertalk | SeALeadertalk liên quan đến quản trị | Quản lý cấp cao | 13 [ROW] 12 | Đào tạo nhân sự quản lý mới | Các nội dung liên quan đến văn hóa tổ chức, tuân thủ... | Quản lý cấp cao | 2",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    },
+    {
+      "paragraph_id": 2419,
+      "text": "[TABLE] [CONTEXT] section: QUẢN LÝ TOÀN DIỆN CÁC RỦI RO TRỌNG YẾU NĂM 2024 ; column_headers: Danh mục rủi ro | Chiến lược, chính sách QTRR | Thực tế triển khai năm 2024 [ROWS] Danh mục rủi ro | Chiến lược, chính sách QTRR | Thực tế triển khai năm 2024 [ROW] Rủi ro hoạt động | • Quản lý sát sao, triển khai kịp thời các biện pháp phù hợp và áp dụng các công cụ quản lý rủi ro hoạt động. • Hướng tới mục tiêu cao nhất là chủ động phát hiện sớm và cảnh báo sớm về rủi ro hoạt động, từ đó hỗ trợ đắc lực cho việc phòng ngừa các sự cố rủi ro hoạt động trong tương lai. Trong đó, chú trọng cải thiện dữ liệu và giải pháp làm nền tảng cho việc phân tích và nâng cấp hệ thống quản lý rủi ro hoạt động, giúp nâng cao hơn nữa hiệu quả của công tác quản lý rủi ro hoạt động. • Phòng ngừa và giảm thiểu thiệt hại trong trường hợp có rủi ro tấn công an ninh mạng, rủi ro gian lận. | • Số sự kiện rủi ro hoạt động được hạn chế ở mức tối thiểu và không có tác động đáng kể đến hoạt động của SeABank trong năm 2024 nhờ áp dụng hiệu quả các biện pháp, công cụ như: thu thập và phân tích số liệu tổn thất; chỉ số rủi ro chính; tự đánh giá rủi ro và chốt kiểm soát; sử dụng các phát hiện của KTNB và Kiểm soát tuân thủ... • Tăng cường khai thác, phân tích dữ liệu, xây dựng các công cụ/tiêu chí nhận diện các giao dịch thẻ tín dụng khống và giao dịch tài khoản đáng ngờ, nhờ đó cảnh báo và ngăn chặn được rủi ro lừa đảo. • Tiếp tục mua các hợp đồng bảo hiểm rủi ro hoạt động toàn diện, bao gồm: rủi ro gian lận của nhân viên, rủi ro cơ sở vật chất, vận chuyển tiền, gian lận giả mạo, chi phí pháp lý, rủi ro tội phạm máy tính và điện tử, rủi ro an ninh mạng, rủi ro trách nhiệm nghề nghiệp... nhằm tăng cường bảo vệ trước các nguy cơ rủi ro. SeABank chưa từng phát sinh sự kiện rủi ro cần yêu cầu bồi thường từ bảo hiểm năm 2024. [ROW] Rủi ro phát triển bền vững | bền vững, tiếp tục tiên phong triển khai quản lý rủi ro MTXH và hoàn thiện hệ thống để đáp ứng các tiêu chuẩn quốc tế về ESG, thực hiện mục tiêu chung chuyển đổi xanh và phát thải ròng bằng 0. • Xây dựng và hoàn thiện hệ thống quản lý rủi ro MTXH với cơ cấu QTRR vững chắc, tuyên bố chiến lược về khẩu vị rủi ro MTXH rõ ràng và quy trình quản lý rủi ro hiệu quả. • Chủ động kiểm soát rủi ro MTXH thông qua: Hệ thống quản lý rủi ro môi trường và xã hội trong hoạt động cấp tín dụng (ESMS); thu hút vốn từ các tổ chức nước ngoài nhằm thúc đẩy tài trợ cho các dự án bền vững và hoạt động tài chính xanh. | • Tiến hành cải tiến, nâng cấp Hệ thống quản lý rủi ro MTXH nhằm đáp ứng yêu cầu của các đối tác nước ngoài, bổ sung thêm các yêu cầu như: quản lý rủi ro chuỗi cung ứng, đánh giá rủi ro vật chất liên quan tới biến đổi khí hậu; mở rộng phạm vi áp dụng tiêu chuẩn đánh giá rủi ro MTXH theo thông lệ quốc tế tiên tiến (Tiêu chuẩn hoạt động của IFC) so với quy định đã công bố năm 2022. • Phát hành trái phiếu xanh lam đầu tiên của Việt Nam và là Ngân hàng TMCP tư nhân đầu tiên phát hành trái phiếu xanh lá. Tổng cộng 150 triệu USD trái phiếu xanh được SeABank thành công phát hành cho các tổ chức tài chính quốc tế là IFC và AIIB trong năm 2024. Nguồn vốn này giúp SeABank đẩy mạnh tài trợ cho các hoạt động kinh tế bền vững gắn với đại dương và nước (như nuôi trồng và khai thác thủy sản, cấp nước sạch...), các lĩnh vực như tòa nhà xanh, năng lượng tái tạo và hiệu quả năng lượng.",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 0.777029,
+        "G10": 1.0,
+        "G11": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "G10",
+        "G11",
+        "G9"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2,
+        "G10": 2,
+        "G11": 3,
+        "G9": 1
+      }
+    },
+    {
+      "paragraph_id": 2422,
+      "text": "[TABLE] [CONTEXT] section: TÌNH HÌNH HOẠT ĐỘNG VÀ KẾT QUẢ VỀ TUÂN THỦ (tiếp) ; column_headers: Định hướng hoạt động | Triển khai hoạt động và kết quả năm 2024 [ROWS] Định hướng hoạt động | Triển khai hoạt động và kết quả năm 2024 [ROW] Đẩy mạnh toàn diện công tác truyền thông, đào tạo nhằm nâng cao năng lực tuân thủ chủ động và đạo đức nghề nghiệp. | • Tiếp tục tổ chức các khóa học nâng cao tính tuân thủ và đạo đức nghề nghiệp, đào tạo về PCRT cho CBNV trên toàn hàng: 100% CBNV mới gia nhập SeABank bắt buộc tham gia đào tạo về PCRT và tuân thủ; chuỗi workshop “Nâng cao năng lực tuân thủ chủ động, ngăn ngừa rủi ro” tại 10 cụm đơn vị (56 ĐVKD, gần 500 cán bộ bán); đào tạo trực tiếp tại ĐVKD sau kiểm tra, nâng cao kiến thức nghiệp vụ và ý thức tuân thủ (28 buổi với 75 giờ đào tạo); livestream tháo gỡ vướng mắc pháp lý cho lực lượng bán và các đơn vị Hội sở. • Với tinh thần “lãnh đạo làm gương”, SeABank thúc đẩy vai trò quan trọng của các cấp quản lý trong việc định hướng và dẫn dắt các CBNV tuân thủ quy định thông qua các học phần đào tạo chuyên sâu cho cán bộ cấp quản lý như: SeAManagers, SeAHipo... • Xây dựng, cập nhật liên tục bám sát theo xu hướng mới và các thay đổi trong quy định pháp lý: cẩm nang tuân thủ cho cán bộ tín dụng; đào tạo luật các TCTD mới; khóa học về quản lý con dấu; đào tạo PCRT... • Phát triển các công cụ hướng dẫn hỗ trợ thiết thực, dễ áp dụng như: hướng dẫn xác định lỗi tuân thủ và xác định mức độ rủi ro; hướng dẫn kiểm tra phát hiện hồ sơ, chứng từ giả mạo; hướng dẫn tra cứu thông tin khách hàng trên Cổng Dịch vụ công Quốc gia... • Truyền thông đa kênh: bản tin nội bộ (30 bản tin pháp lý, 23 bản tin tuân thủ), mini game tuân thủ... [ROW] Thực hiện luân chuyển cán bộ nhằm phòng ngừa rủi ro, gian lận và kiểm soát xung đột lợi ích. | Thực hiện các phương án luân chuyển: • Luân chuyển Trưởng nhóm Giao dịch viên (60 cán bộ tại 09 khu vực). • Luân chuyển cán bộ cụm kho quỹ tập trung. • Các vị trí khác nhằm tránh xung đột lợi ích theo quy định. [ROW] Chuyển đổi số trong hoạt động kiểm soát tuân thủ nhằm cảnh báo, phát hiện sớm sai phạm và ngăn ngừa rủi ro, đảm bảo an toàn, an ninh thông tin và bảo mật. | • Xây dựng các báo cáo dữ liệu tự động sàng lọc dựa trên tiêu chí giám sát dấu hiệu nhận diện sớm rủi ro; các phần mềm hỗ trợ hoạt động nghiệp vụ như phần mềm mua sắm SeAPurchase, phần mềm hỗ trợ quầy giao dịch SeATeller, phần mềm giám sát sau vay, phần mềm văn phòng điện tử SeAOffice... giúp tăng tính minh bạch và giảm thiểu sai sót. • Xây dựng và triển khai áp dụng hệ thống PCRT, chống tài trợ khủng bố, tài trợ phổ biến vũ khí hủy diệt hàng loạt SeAAML nhằm nâng cao tuân thủ theo quy định NHNN và đáp ứng các yêu cầu của đối tác quốc tế. Với hệ thống SeAAML, SeABank là ngân hàng đầu tiên của Việt Nam quét thông tin khách hàng ngay tại thời điểm giao dịch, phân loại rủi ro khách hàng tại thời điểm giao dịch và cuối mỗi ngày, đảm bảo độ chính xác cao, tỷ lệ cảnh báo giả rất thấp do quét đồng thời nhiều tiêu chí. • Xây dựng và triển khai hệ thống GRC nhằm kết nối hiệu quả thông tin giữa Hội sở với các đơn vị ở tuyến phòng thủ thứ nhất; giữa các Khối Hội sở có chức năng kiểm tra, kiểm toán, QTRR với nhau. Từ đó, đánh giá tổng quan bức tranh rủi ro, tuân thủ của Ngân hàng, dự báo được xu hướng các vấn đề rủi ro và tuân thủ nhằm tối ưu hóa, nâng cao hiệu quả kiểm tra giám sát, kiểm toán và đề xuất các biện pháp ngăn chặn, giảm thiểu rủi ro. • Định hướng xây dựng AI chatbot mục tiêu tư vấn hỗ trợ online và tra cứu hệ thống văn bản nội bộ tại SeABank; các hệ thống ticketing tự động quá quy trình nghiệp vụ, tối ưu nguồn lực và tăng tính minh bạch.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "E3",
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "paragraph_id": 2424,
+      "text": "[TABLE] [CONTEXT] section: CAM KẾT VỀ PHÁT TRIỂN BỀN VỮNG [ROWS] CAM KẾT VỚI CỘNG ĐỒNG | • Thúc đẩy tài chính toàn diện: Cung cấp các sản phẩm tín dụng vi mô và dịch vụ tài chính với chi phí hợp lý cho các nhóm dân cư thu nhập thấp, phụ nữ, các nhóm yếu thế. • Hỗ trợ cộng đồng chịu ảnh hưởng của biến đổi khí hậu: Đồng hành cùng các địa phương bị tác động nặng nề bởi biến đổi khí hậu, cung cấp các khoản vay cho tái thiết và PTBV. • Hoạt động thiện nguyện: Tổ chức các chương trình thiện nguyện trong đa dạng lĩnh vực như xóa đói giảm nghèo, tài trợ khuyến học, sức khỏe cộng đồng... [ROW] CAM KẾT VỚI KHÁCH HÀNG | • Phát triển sản phẩm tài chính xanh: Trái phiếu xanh và xanh lam dành riêng cho các dự án bền vững, tạo điều kiện để KHCN và tổ chức tham gia vào quá trình chuyển đổi xanh; Tín dụng xanh ưu đãi dành cho doanh nghiệp áp dụng mô hình kinh tế tuần hoàn hoặc công nghệ thân thiện môi trường. • Hỗ trợ tài chính cá nhân xanh: Phát triển các gói vay ưu đãi cho cá nhân mua sắm các sản phẩm thân thiện với môi trường như ô tô điện, hệ thống năng lượng mặt trời cho gia đình, căn hộ có chứng chỉ công trình xanh. • Tăng cường tư vấn ESG: Cung cấp dịch vụ tư vấn miễn phí cho KHDN về cách tích hợp các yếu tố ESG vào hoạt động kinh doanh, giúp họ tiếp cận nguồn vốn tốt hơn và nâng cao khả năng cạnh tranh. • Trải nghiệm dịch vụ bền vững: Đẩy mạnh số hóa các dịch vụ ngân hàng, cung cấp nền tảng giao dịch trực tuyến hiện đại, giúp giảm thiểu tài nguyên và tiết kiệm thời gian cho khách hàng. [ROW] CAM KẾT VỀ NHÂN QUYỀN VÀ NGƯỜI LAO ĐỘNG | • Tôn trọng sự đa dạng, bình đẳng: SeABank xây dựng môi trường làm việc nhân văn, lành mạnh, đề cao nhân quyền, đảm bảo sự tôn trọng, bình đẳng. • Phát triển nhân tài: Cơ hội công bằng, lộ trình đào tạo và thăng tiến rõ ràng nhằm phát triển và giữ chân nhân tài. • Đảm bảo chế độ đãi ngộ, lương thưởng: Được xây dựng dựa trên nhiều yếu tố, bám sát quy định, đảm bảo lợi ích, công bằng. [ROW] CAM KẾT VỚI CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ | • Tích hợp các yếu tố ESG trong quản trị: tích hợp các thủ tục quản lý MTXH vào quy trình tín dụng, đảm bảo không tài trợ các giao dịch có rủi ro MTXH cao nhưng không có biện pháp khắc phục, giảm thiểu. • Áp dụng các tiêu chuẩn quốc tế: áp dụng các khuyến nghị, tiêu chuẩn hoạt động của đối tác chiến lược vào hoạt động. • Minh bạch thông tin: xây dựng cơ chế tiếp nhận, xử lý khiếu nại và công khai các thông tin trên website của SeABank hoặc trên các kênh theo quy định. [ROW] ĐO LƯỜNG VÀ BÁO CÁO TIẾN ĐỘ | • Công bố Báo cáo Phát triển Bền vững hàng năm: bao gồm các chỉ số cụ thể như lượng phát thải giảm, số lượng dự án xanh được tài trợ và tỷ lệ danh mục tín dụng xanh. • Tích cực tham gia vào các đánh giá và xếp hạng ESG quốc tế để nâng cao uy tín và cải thiện hiệu quả hoạt động. • Đặt mục tiêu xây dựng chỉ số phát triển bền vững nội bộ: theo dõi đóng góp của từng bộ phận vào chiến lược PTBV tổng thể.",
+      "hard_labels": [
+        "E3",
+        "G9"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 0.4,
+        "G9": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 5,
+        "E_COMMON": 1,
+        "G9": 4
+      }
+    },
+    {
+      "paragraph_id": 2435,
+      "text": "[TABLE] [CONTEXT] section: Từ ngày 1 tháng 7 năm 2024 ; column_headers: Nhóm nợ | Tình trạng quá hạn [ROWS] Nhóm nợ | Tình trạng quá hạn [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Khoản nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Khoản nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 | Nợ cần chú ý | (a) Khoản nợ quá hạn đến 90 ngày; hoặc (b) Khoản nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn. [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Khoản nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Khoản nợ gia hạn nợ lần đầu còn trong hạn; hoặc (c) Khoản nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Khoản nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các Khoản 1, 3, 4, 5, 6 Điều 134 Luật các Tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các Khoản 1, 2, 3, 4 Điều 135 Luật các Tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các Khoản 1, 2, 5 Điều 136 Luật các Tổ chức tín dụng. (e) Khoản nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc (f) Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm thỏa thuận chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

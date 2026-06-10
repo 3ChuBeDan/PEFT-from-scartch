@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 143,
+      "text": "Chất lượng tín dụng: Trước bối cảnh hàng loạt doanh nghiệp phá sản, nợ xấu trở thành vấn đề nan giải của nền kinh tế, Sacombank đã tập trung nâng cao công tác ngăn chặn và xử lý nợ quá hạn, giám sát chặt chẽ và xuyên suốt tại từng địa bàn, bổ sung thành phần và cơ chế hoạt động của Phân ban ngăn chặn và xử lý nợ quá hạn, áp dụng cơ chế linh hoạt trong xử lý tài sản cấn trừ nợ, triển khai cơ chế khen thưởng đối với các đơn vị xử lý tốt nợ quá hạn... Nhờ vậy, tỷ lệ nợ quá hạn của Sacombank luôn nằm trong mức kiểm soát và thuộc nhóm thấp nhất trong toàn hệ thống. Tại thời điểm 31/12/2012 nợ quá hạn của Sacombank chiếm tỷ lệ 2,39%, nợ xấu chiếm tỷ lệ 1,97%.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 5
+      }
+    }
+  ]
+}

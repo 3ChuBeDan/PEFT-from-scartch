@@ -1,0 +1,99 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Người SSI với tinh thần nỗ lực học hỏi, trau dồi kiến thức luôn cố gắng chủ động, linh hoạt trong công việc để ngày càng chuyên nghiệp và nâng cao hiệu quả công việc. Tuy nhiên, từng cá nhân giỏi thôi thì chưa đủ để làm nên một doanh nghiệp phát triển bền vững. Chính vì vậy, SSI luôn đề cao sự thống nhất trong toàn Công ty, tinh thần đoàn kết, tinh thần đồng đội, làm việc nhóm một cách đồng bộ, được thể hiện trong chính 9 tôn chỉ kinh doanh, sự đầu tư vào các kênh truyền tải thông tin nội bộ và các hoạt động nội bộ của Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Bên cạnh đó, SSI tiếp tục duy trì kênh truyền thông nội bộ để tiếp tục chia sẻ tầm nhìn, chiến lược, củng cố văn hóa doanh nghiệp nhằm nuôi dưỡng tinh thần SSI. Những chia sẻ này cũng là yếu tố động viên tinh thần làm việc, cung cấp thông tin và tránh những căng thẳng không đáng có. Đây cũng là một biện pháp đảm bảo thông tin xuyên suốt và mỗi nhân viên đều hiểu được mục tiêu của bản thân và của tập thể để tiếp tục đóng góp sức mình vào sự phát triển chung của Công ty. Với sự chia sẻ và minh bạch cao trong tổ chức, bộ máy sẽ vận hành được trơn tru hơn, giảm thiểu những tác động tiêu cực tới nhân sự.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Quy trình phòng chống rửa tiền thông qua báo cáo kiểm toán nội bộ về phòng chống rửa tiền năm 2017.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Rủi ro tiềm tàng và biện pháp kiểm soát rủi ro tuân thủ ; column_headers: STT Rủi ro tiềm tàng Biện pháp kiểm soát [ROWS] STT Rủi ro tiềm tàng Biện pháp kiểm soát [ROW] 1 | Nhân viên môi giới vi phạm đạo đức nghề nghiệp, lạm dụng tài khoản của khách hàng | Đào tạo nâng cao ý thức về đạo đức nghề nghiệp; Phân quyền truy cập thông tin khách hàng; Thiết kế quy trình quản lý tài khoản có sự kiểm tra chéo; Khuyến khích khách hàng giao dịch qua internet; Thông báo kịp thời thay đổi số dư tài khoản cho khách hàng qua tin nhắn, email; Kiểm soát nghiệp vụ từ trung tâm; Xử lý nghiêm các hành vi vi phạm đạo đức nghề nghiệp; Luân chuyển các vị trí kiểm soát, phê duyệt. [ROW] 2 | Nhân viên môi giới vi phạm đạo đức nghề nghiệp, tham gia làm giá chứng khoán | Đào tạo nâng cao ý thức về đạo đức nghề nghiệp; Giám sát tài khoản giao dịch của nhân viên và người thân; Xử lý nghiêm các hành vi vi phạm đạo đức nghề nghiệp; Kiểm tra lịch sử làm việc của nhân viên khi tuyển dụng. [ROW] 3 | Kiểm soát xung đột lợi ích giữa khách hàng và nhân viên môi giới | Đào tạo nâng cao ý thức về đạo đức nghề nghiệp; Giám sát tài khoản giao dịch của nhân viên và người thân. [ROW] 4 | Vi phạm quy định về phòng chống rửa tiền, đặc biệt là nhận biết khách hàng | Ban hành quy định về phòng chống rửa tiền, lồng ghép các quy định về phòng chống rửa tiền vào các quy trình nghiệp vụ; Hàng năm đào tạo cho nhân viên nâng cao nhận thức về phòng, chống rửa tiền; Từ chối khách hàng không cung cấp thông tin nhận biết theo quy định của Pháp luật; Chủ động phân loại độ rủi ro của khách hàng trong phòng, chống rửa tiền. [ROW] 5 | Nhân viên vi phạm quy trình nghiệp vụ | Đào tạo nghiệp vụ cho mọi nhân viên mới, đào tạo định kỳ bắt buộc cho mọi nhân viên; Việc giải quyết các nghiệp vụ bắt buộc có các chốt phê duyệt, kiểm soát; Rà soát, cập nhật quy trình thường xuyên và khi phát hiện các vi phạm để hoàn thiện quy trình, giảm thiểu rủi ro; Tăng tần suất kiểm soát nội bộ đối với các bộ phận được đánh giá là có khả năng xảy ra rủi ro.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.777029,
+        "G10": 0.5,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "G10": 1,
+        "G11": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: B. ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG ; column_headers: Mã | Nội dung Câu hỏi | Trả lời câu hỏi | Diễn giải chi tiết (nếu có) | Đánh giá về tình hình thực hiện tới năm 2017 [ROWS] Mã | Nội dung Câu hỏi | Trả lời câu hỏi | Đánh giá về tình hình thực hiện tới năm 2017 | Diễn giải chi tiết (nếu có) [ROW] B.1.2 | Trong trường hợp Công ty có nhiều hơn một loại cổ phiếu, Công ty có công bố quyền bỏ phiếu tương ứng cho từng loại cổ phiếu? | Có | Thực hiện tốt | SSI chỉ có 1 loại cổ phiếu. Tuy nhiên, Điều lệ có quy định về các loại cổ phiếu có thể phát hành và quyền biểu quyết của từng loại. [ROW] B.2. Thông báo Đại hội đồng Cổ đông [ROW] B.2.1 | Mỗi nghị quyết trong ĐHĐCĐ gần nhất chỉ liên quan đến một nội dung của dự thảo nghị quyết, nghĩa là không gộp nhiều nội dung vào trong cùng một nghị quyết? | Có | Thực hiện tốt | Cổ đông biểu quyết để thông qua từng vấn đề được thảo luận tại cuộc họp ĐHĐCĐ, không biểu quyết gộp nhiều nội dung. [ROW] B.2.2 | Thông báo và tài liệu ĐHĐCĐ gần nhất được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu tiếng Việt? | Có | Thực hiện tốt | Toàn bộ tài liệu ĐHĐCĐ của Công ty là tài liệu song ngữ [ROW] Thông báo về ĐHĐCĐ có những chi tiết sau không: [ROW] B.2.3 | Có cung cấp tiểu sử của ứng cử viên cho HĐQT hoặc các thành viên hết nhiệm kỳ cần bầu chọn lại (tối thiểu là tuổi, trình độ chuyên môn, ngày bổ nhiệm đầu tiên, kinh nghiệm và nhiệm kỳ thành viên HĐQT trong các công ty niêm yết khác)? | Có | Thực hiện tốt | Tiểu sử của các ứng cử viên HĐQT, các thành viên hết nhiệm kỳ cần bầu chọn lại được đưa vào tài liệu ĐHĐCĐ công bố, cũng như gửi tới toàn thể Cổ đông (qua email và đường bưu điện) [ROW] B.2.4 | Kiểm toán viên/công ty kiểm toán chuẩn bị được bầu chọn/bầu chọn lại có được xác định rõ ràng? | Có | Thực hiện tốt | Tài liệu họp có bao gồm Tờ trình về việc lựa chọn Công ty Kiểm toán, trong đó có cung cấp danh sách và thông tin các Công ty Kiểm toán. Công ty Kiểm toán được đưa ra trình ĐHĐCĐ đều là nhóm các Công ty Kiểm toán độc lập quốc tế, có danh tiếng và uy tín cao nhiều năm trên thị trường. [ROW] B.2.5 | Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng? | Có | Thực hiện tốt | Thư mời họp gửi qua đường bưu điện và thư điện tử đều có kèm theo Giấy Ủy quyền tham dự ĐHĐCĐ. Mẫu này cũng được đăng trên website Công ty. Có mẫu ủy quyền tiếng Anh và tiếng Việt. [ROW] B.3. Cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] B.3.1 | Công ty có chính sách và/ hoặc quy định cấm thành viên HĐQT và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | Có | Thực hiện tốt | Nội dung này được quy định trong Điều lệ Công ty [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Có | Thực hiện tốt | Năm 2017 không có trường hợp thành viên HĐQT nào vi phạm [ROW] B.4. Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trọng các giao dịch và mọi xung đột lợi ích với Công ty? | Có | Thực hiện tốt | Nội dung này được quy định trong Điều lệ Công ty [ROW] B.4.2 | Công ty có chính sách yêu cầu lập một tiểu ban bao gồm thành viên HĐQT độc lập rà soát giao dịch bên liên quan trọng yếu/ quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của Công ty và Cổ đông không? | Không | Chưa thực hiện [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Có | Thực hiện tốt | Nội dung này được quy định trong Điều lệ Công ty [ROW] B.4.4 | Công ty có chính sách về khoản vay cho thành viên HĐQT, trong đó quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Có | Thực hiện tốt | Nội dung này được quy định trong Điều lệ Công ty",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    }
+  ]
+}

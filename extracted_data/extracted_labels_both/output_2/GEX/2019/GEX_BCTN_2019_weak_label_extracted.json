@@ -1,0 +1,35 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Không phát hiện sai sót trọng yếu liên quan đến các ước tính kế toán, không có trường hợp gian lận thực tế hay nghi ngờ gian lận nào được ghi nhận trong việc lập báo cáo tài chính.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S99"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S99"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

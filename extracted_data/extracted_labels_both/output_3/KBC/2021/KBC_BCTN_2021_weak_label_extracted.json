@@ -1,0 +1,73 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Bà Nguyễn Thị Thu Hương -Tổng Giám đốc KBC cùng các đại diện lãnh đạo Tập đoàn nhận các quyết định chấp thuận chủ trương đầu tư cho các dự án: Cụm công nghiệp Kim Động, Cụm công nghiệp Chính Nghĩa và Cụm công nghiệp Đặng Lễ với tổng vốn đăng ký đầu tư trên 1 tỷ USD",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Tại KCN Quế Võ hiện có 02 nhà máy cung cấp nước sạch có tổng công suất tối đa là 9.000m3/ngày đêm, tiêu thụ trung bình là 8.500 m3/ngày đêm, ngoài ra còn bổ sung nguồn nước của công ty cổ phần nước sạch Bắc Ninh với lưu lượng bình quân 1.500m3/ngđ, tổng lượng nước tiêu thụ tại KCN Quế Võ năm 2021 là 6.089.610 m3. Trong đó 50% nhu cầu nước sạch Công ty phải mua ngoài để đáp ứng nhu cầu cung cấp nước sạch cho các doanh nghiệp trong KCN; Về xử lý nước thải có 02 nhà máy xử lý nước thải có công suất tối đa là 6.000m3/ngày đêm mỗi nhà máy . Tổng lượng nước thải KCN này xử lý trong năm là 4.813.9090 m3.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "Về xử lý nước thải Công ty SHP đã phối hợp với 2 công ty xử lý nước thải là Công ty TNHH KHCN Môi Trường Quốc Việt và công ty Cổ phần Môi trường xanh Posbee với tổng công suất của 2 nhà máy xử lý nước thải tập trung tại KCN Tràng Duệ là 8.000m3/ngày đêm. Cả hai nhà máy đều đã được Bộ Tài nguyên và Môi trường cấp giấy phép xả thải, đảm bảo đáp ứng xử lý lượng nước thải phát sinh của KCN Tràng Duệ. Tổng lượng nước thải xử lý toàn bộ KCN Tràng Duệ năm 2020 là: 2.149.724,4 m3",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "text": "Tại Khu công nghiệp Tân Phú Trung có 01 nhà máy cấp nước sạch có công suất tối đa 3.000m 3 /ngđêm, trong năm 2021 tổng lượng nước sạch đã cung cấp cho các nhà đầu tư là: 1.040.911 m 3 trung bình 2.852 m 3 /ngđêm; có 01 nhà máy xử lý nước thải công suất 4.000 m 3 /ngđêm, tổng lượng nước thải đã xử lý trong năm 2021 là: 759.525 m 3 , lưu lượng xử lý nước thải trung bình: 2.081m 3 /ngđêm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

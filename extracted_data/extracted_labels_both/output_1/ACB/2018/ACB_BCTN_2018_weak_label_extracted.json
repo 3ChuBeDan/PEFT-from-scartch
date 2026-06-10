@@ -1,0 +1,73 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Hệ thống quản lý nợ (Debt Management System, viết tắt là DMS) là một giải pháp quản lý toàn bộ quá trình xử lý các khoản nợ tại ACB từ lúc giải ngân cho đến khi khách hàng thanh lý khỏi hệ thống. DMS giúp theo dõi và kiểm soát diễn biến nợ nhóm, nợ quá hạn, nợ xấu từ đó đưa ra phương án ngăn chặn phát sinh nợ quá hạn hoặc xử lý nợ kịp thời. DMS được triển khai toàn hệ thống ACB từ tháng 4 năm 2018, và hoàn tất vào tháng 11 năm 2018.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 2
+      }
+    },
+    {
+      "text": "Năm 2018, ACB tiếp tục tập trung đầu tư cải thiện hệ thống quản trị dữ liệu đào tạo, cơ sở vật chất và trang thiết bị học tập đào tạo. Với người học là trọng tâm và mục tiêu lan tỏa tinh thần học tập trong tổ chức, ACB khánh thành Trung tâm Học tập (ACB Learning Hub) Tp. Hồ Chí Minh. Trung tâm có thiết kế không gian mở nhằm phát huy tinh thần tự học của nhân viên. Trung tâm còn có nhiều khu vực học tập với thiết kế khác biệt, đa dạng, áp dụng nhiều công nghệ hiện đại nhằm tổ chức các chương trình học với hình thức đa dạng và năng động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Về quản lý rủi ro tín dụng, tổ chức lại đơn vị phân tích tín dụng tại Hội sở theo hướng tách bạch giữa chức năng phân tích tín dụng và kinh doanh; tổ chức lại đơn vị đầu mối quản lý tập trung các mô hình tín dụng, gồm mô hình phục vụ phê duyệt tín dụng, mô hình xếp hạng nội bộ phục vụ việc phân loại nợ, và mô hình hành vi phục vụ việc kiểm soát và cấp hạn mức cho khách hàng.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 2.4.2 Các chỉ tiêu tài chính chủ yếu ; column_headers: 2018 | 2017 | +/- (%) ; row_headers: CAR | CAR Tier 1 | Vốn chủ sở hữu/Tổng tài sản | Vốn chủ sở hữu/Tổng cho vay khách hàng | Nợ xấu N3-5 (tỷ đồng) | Nợ quá hạn N2-5 (tỷ đồng) | Nợ xấu/Tổng dư nợ (%) | Nhóm 5/Tổng nợ xấu (%) | Nợ quá hạn/Tổng dư nợ (%) | Quỹ dự phòng rủi ro tín dụng/Tổng nợ xấu (%) | (Vốn chủ sở hữu + Dự phòng)/Tổng nợ xấu (số lần) | Dư nợ cho vay/TTS | Tổng dư nợ/Tổng tiền gửi khách hàng [ROWS] Các chỉ số hoạt động | 2018 | 2017 | +/- (%) [ROW] Hệ số an toàn vốn (%) [ROW] CAR | 12,81 | 11,49 | 1,32 [ROW] CAR Tier 1 | 10,56 | 7,77 | 2,79 [ROW] Vốn chủ sở hữu/Tổng tài sản | 6,38 | 5,64 | 0,74 [ROW] Vốn chủ sở hữu/Tổng cho vay khách hàng | 9,12 | 8,08 | 1,04 [ROW] Khả năng thanh khoản (%) [ROW] Dư nợ cho vay/TTS | 70,00 | 69,80 | 0,19 [ROW] Tổng dư nợ/Tổng tiền gửi khách hàng | 77,47 | 75,83 | 1,64 [ROW] Chất lượng tài sản [ROW] Nợ xấu N3-5 (tỷ đồng) | 1.675 | 1.390 | 21 [ROW] Nợ quá hạn N2-5 (tỷ đồng) | 2.058 | 1.839 | 12 [ROW] Nợ xấu/Tổng dư nợ (%) | 0,73 | 0,70 | 0,03 [ROW] Nhóm 5/Tổng nợ xấu (%) | 69,50 | 56,73 | 12,77 [ROW] Nợ quá hạn/Tổng dư nợ (%) | 0,89 | 0,93 | -0,03 [ROW] Quỹ dự phòng rủi ro tín dụng/Tổng nợ xấu (%) | 151,89 | 132,74 | 19,15 [ROW] (Vốn chủ sở hữu + Dự phòng)/Tổng nợ xấu (số lần) | 12,55 | 12,86 | -0,32",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

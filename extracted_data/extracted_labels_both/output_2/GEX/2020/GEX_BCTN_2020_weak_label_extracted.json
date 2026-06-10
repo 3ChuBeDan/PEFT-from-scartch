@@ -1,0 +1,26 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 389,
+      "text": "Tiếp tục tìm kiếm phát triển dự án mảng năng lượng tái tạo tiềm năng (các dự án điện gió ngoài khơi, điện mặt trời mái nhà, các dạng năng lượng tái tạo khác như sinh khối, điện rác, ...).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    }
+  ]
+}

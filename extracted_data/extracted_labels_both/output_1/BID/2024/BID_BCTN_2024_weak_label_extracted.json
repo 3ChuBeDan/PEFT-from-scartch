@@ -1,0 +1,210 @@
+{
+  "extracted_count": 11,
+  "extracted": [
+    {
+      "text": "Với thông điệp \"Thật đáng giá\", mỗi một sản phẩm dịch vụ thẻ BIDV đều được chú trọng đầu tư nghiên cứu tỉ mỉ ứng dụng công nghệ số để thiết kế riêng biệt theo hành vi khách hàng, mang lại sự phù hợp nhất đối với từng phân khúc khách hàng trong các lĩnh vực được quan tâm như: Sản phẩm thẻ Ghi nợ quốc tế BIDV Mastercard Moneyverse – sản phẩm tài chính giáo dục đầu tiên hướng đến đào tạo thế hệ trẻ có tri thức trong kiểm soát \"quỹ đạo chi tiêu\", mở ra hành trình hoàn thiện bản thân, mang trong mình bản sắc của sinh viên Việt Nam; Sản phẩm thẻ Tín dụng quốc tế BIDV JCB Well-being tiên phong trên thị trường chăm sóc sức khỏe toàn diện là công cụ tài chính mang lại trải nghiệm tận hưởng trọn vẹn hành trình chăm sóc thân - tâm - trí với những đặc quyền riêng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Triển khai các gói \"tín dụng xanh\" gắn với quản lý rủi ro môi trường trong hoạt động cấp tín dụng, dành tỷ trọng nhất định để tài trợ cho các khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, các ngành sản xuất và tiêu dùng phát thải carbon thấp, thích ứng với biến đổi khí hậu, qua đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường, ngăn chặn biến đổi khí hậu, nâng cao hiệu quả sử dụng tài nguyên, năng lượng, thể hiện trách nhiệm với cộng đồng và môi trường.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Kinh tế Việt Nam năm 2024 đối mặt với nhiều khó khăn thách thức do biến động, bất ổn của kinh tế thế giới cũng như hạn chế, bất cập nội tại: sức cầu tiêu dùng, đầu tư tư nhân phục hồi chưa vững chắc và còn thấp so với mức trước dịch; giải ngân đầu tư công tăng chậm; chất lượng tăng trưởng cải thiện chưa rõ nét; áp lực nợ xấu, tỷ giá tăng dù trong tầm kiểm soát; tiến trình cơ cấu lại doanh nghiệp Nhà nước và các tổ chức tín dụng yếu kém còn chậm, kìm hãm nguồn lực phát triển; thị trường trái phiếu doanh nghiệp, thị trường bất động sản phục hồi chậm; thị trường vàng còn biến động và tiềm ẩn rủi ro; thể chế cho chuyển đổi số, kinh tế xanh, kinh tế tuần hoàn, chuyển đổi năng lượng còn chậm so với yêu cầu phát triển; ảnh hưởng nặng nề của bão số 3 Yagi cần thời gian để khắc phục.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Đến 31/12/2024, dư nợ tín dụng lĩnh vực xanh tại BIDV đạt 80.870 tỷ đồng (chiếm tỷ trọng 4,01% tổng dư nợ), tăng 9% so với thời điểm 31/12/2023. Tín dụng xanh tại BIDV chủ yếu tập trung vào lĩnh vực năng lượng tái tạo, năng lượng sạch với dư nợ 59.974 tỷ đồng (chiếm ~74% tổng dư nợ tín dụng xanh tại BIDV).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Sử dụng nguồn vốn thu được từ phát hành trái phiếu: Xác định các danh mục dự án xanh và dự án xã hội đủ điều kiện sử dụng nguồn vốn huy động từ trái phiếu bền vững, bao gồm dự án thuộc các lĩnh vực như hiệu quả năng lượng, năng lượng tái tạo, hệ thống quản lý nước thải, ô nhiễm không khí, nhà ở xã hội, cơ sở hạ tầng xã hội cơ bản, các dịch vụ chăm sóc sức khỏe cộng đồng, cho vay doanh nghiệp SMEs do phụ nữ làm chủ...;",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "BIDV cũng tiếp tục đẩy mạnh phát triển các sản phẩm và dịch vụ tài chính, hỗ trợ vốn tín dụng cho các dự án xanh và kinh tế tuần hoàn: (i) Tiên phong ban hành Khung trái phiếu bền vững, Khung quản lý rủi ro môi trường và xã hội trong tài trợ thương mại đáp ứng các nguyên tắc, tiêu chuẩn quốc tế; (ii) Phát hành thành công 3.000 tỷ đồng trái phiếu bền vững theo hướng dẫn của Hiệp hội thị trường vốn quốc tế (ICMA); (iii) Triển khai sản phẩm Tiền gửi Xanh với hơn 5.000 tỷ đồng huy động sau hơn 2 tháng; (iv) Tiếp tục tập trung tài trợ vốn ưu đãi cho các dự án năng lượng tái tạo, nông nghiệp sạch và giao thông bền vững thông qua các gói tín dụng xanh cho cả đối tượng khách hàng cá nhân và doanh nghiệp, duy trì vị thế là ngân hàng có quy mô dư nợ tín dụng xanh lớn nhất trên thị trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.25,
+        "E3": 1.0,
+        "G9": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 2,
+        "G9": 1
+      }
+    },
+    {
+      "text": "Nghiên cứu báo cáo tài chính do kiểm toán viên độc lập chuẩn bị, có ý kiến hoặc yêu cầu người quản trị, điều hành BIDV, kiểm toán viên độc lập và kiểm toán nội bộ giải trình các vấn đề có liên quan đến báo cáo.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Quyết định số 238/BOL ngày 26 tháng 3 năm 2020 của Ngân hàng Nhà nước Lào về việc phân loại nợ đối với các khách hàng bị ảnh hưởng bới dịch Covid-19; Quyết định số 368/BOL ngày 26 tháng 3 năm 2024 của Ngân hàng Nhà nước Lào về việc thôi áp dụng chính sách hỗ trợ đối với khách hàng bị ảnh hưởng bởi dịch Covid 19; Thông báo số 172/BOL ngày 15 tháng 5 năm 2017 của Thống đốc Ngân hàng Nhà nước Lào và các văn bản khác của Ngân hàng Nhà nước Lào về việc phân loại nợ đối với một số khách hàng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: HOẠT ĐỘNG QUẢN TRỊ CÔNG TY (tiếp theo) ; column_headers: Mục | Nội dung | Kết quả đánh giá | Cơ sở đánh giá [ROWS] Mục | Nội dung | Kết quả đánh giá | Cơ sở đánh giá [ROW] (P)A.5 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai. [ROW] (P)A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu sở hữu chéo có tồn tại không? | X | Không phát sinh tại BIDV [ROW] (P)B. | ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG [ROW] (P)B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] (P)B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, Ban Điều hành và nhân viên công ty trong ba năm qua? | X | Không phát sinh tại BIDV [ROW] (P)B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] (P)B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | X | Không phát sinh tại BIDV [ROW] (P)B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | X | Không phát sinh tại BIDV [ROW] (P)C. | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] (P)C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/phá sản/thương mại/cạnh tranh hay môi trường? | X | Không phát sinh tại BIDV [ROW] (P)C.2 | Khi các bên có quyền lợi liên quan tham gia vào quá trình quản trị công ty, họ phải được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên. [ROW] (P)C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không công bố thông tin trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | X | Không phát sinh tại BIDV [ROW] (P)C.2.2 | Có bằng chứng nào cho thấy công ty đang tham gia vào các hoạt động quảng cáo xanh (greenwashing) không? | X | Không phát sinh tại BIDV [ROW] (P)D. | CÔNG BỐ THÔNG TIN VÀ MINH BẠCH [ROW] (P)D.1 | Hình phạt của cơ quan quản lý liên quan đến báo cáo tài chính [ROW] (P)D.1.1 | Công ty có nhận được \"ý kiến loại trừ\" trong báo cáo kiểm toán độc lập? | X | Không phát sinh tại BIDV [ROW] (P)D.1.2 | Công ty có nhận được \"ý kiến bất lợi\" trong báo cáo kiểm toán độc lập? | X | Không phát sinh tại BIDV [ROW] (P)D.1.3 | Công ty có nhận được \"từ chối đưa ra ý kiến\" trong báo cáo kiểm toán độc lập? | X | Không phát sinh tại BIDV [ROW] (P)D.1.4 | Công ty có sửa đổi Báo cáo Tài chính trong năm vừa qua vì những lý do khác với lý do thay đổi trong chính sách kế toán? | X | Không phát sinh tại BIDV [ROW] (P)E. | TRÁCH NHIỆM CỦA HĐQT [ROW] (P)E.1 | Tuân thủ quy định, quy tắc và luật hiện hành về niêm yết",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

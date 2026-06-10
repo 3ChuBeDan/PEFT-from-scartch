@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 971,
+      "text": "Tặng quà cho các bệnh nhân chạy thận tại xóm chạy thận 121 Lê Thanh Nghị, Hai Bà Trưng, Hà Nội",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 982,
+      "text": "Các chương trình an sinh xã hội do BSC triển khai đã tạo nên những thay đổi thiết thực, mang lại niềm hy vọng và sự sẻ chia, đặc biệt với những đối tượng yếu thế trong xã hội; lan tỏa mạnh mẽ tinh thần tương thân tương ái tới cộng đồng. Bên cạnh đó, thể hiện vai trò tiên phong, gắn kết mục tiêu phát triển chung của BSC trong việc xây dựng một xã hội phát triển bền vững.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

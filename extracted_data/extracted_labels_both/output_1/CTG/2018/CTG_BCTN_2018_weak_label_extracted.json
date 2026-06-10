@@ -1,0 +1,119 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 334,
+      "text": "Gian lận trong lĩnh vực ngân hàng: Thời gian qua, hệ thống ngân hàng thương mại (NHTM) Việt Nam ghi nhận nhiều vụ việc gian lận nội bộ và gian lận bên ngoài, trong đó một số cá nhân, tổ chức đã nghiên cứu kỹ quy định/quy trình nghiệp vụ của các ngân hàng để lợi dụng sơ hở trong các hoạt động tiền gửi/tiền vay/cầm cố/bảo lãnh nhằm chiếm đoạt tiền/tài sản của ngân hàng và khách hàng. Một phần nguyên nhân xảy ra vụ việc bắt nguồn từ tâm lý chủ quan, cả nể, không tuân thủ các bước tác nghiệp theo quy định/quy trình của cán bộ cũng như sự cả tin của khách hàng. Trước tình hình trên, VietinBank tập trung kiện toàn lại cơ cấu tổ chức, nâng cao công tác quản trị rủi ro và hiệu quả hệ thống kiểm soát nội bộ, đáp ứng các yêu cầu của Thông tư 13/2018/ TT-NHNN ban hành ngày 18/5/2018 quy định về hệ thống kiểm soát nội bộ của TCTD (Thông tư 13) và các yêu cầu quản trị theo tiêu chuẩn quốc tế cũng như truyền thông/cảnh báo đến khách hàng để phòng ngừa và giảm thiểu rủi ro gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "paragraph_id": 335,
+      "text": "An toàn thông tin - bảo mật thông tin: Trong thời đại kỹ thuật số, thông tin khách hàng đang được các tổ chức/cá nhân sử dụng để nghiên cứu xu hướng tiêu dùng, phát triển tập khách hàng, gia tăng doanh số, bán chéo sản phẩm, v.v... Một số cán bộ NHTM chủ động chia sẻ thông tin, kể cả các thông tin nhạy cảm của khách hàng như số dư tiền gửi, tên người dùng, mật khẩu... với bạn bè, người thân, thậm chí mua bán công khai thông tin khách hàng mà không thận thức được hành động này vi phạm Nghị định 117/2018/NĐ-CP về giữ bí mật, cung cấp thông tin khách hàng, tiềm ẩn rủi ro pháp lý/tuân thủ và rủi ro danh tiếng cho ngân hàng. Nhận diện rủi ro này, VietinBank đã phát triển phương pháp luận và các công cụ/hệ thống để ngăn ngừa thất thoát thông tin, đồng thời tăng cường truyền thông/đào tạo để nâng cao nhận thức của cán bộ trong toàn hệ thống, bảo vệ danh tiếng cho VietinBank và tài sản của khách hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 695,
+      "text": "Thế giới đang phải hứng chịu tác động ngày càng nặng nề của biến đổi khí hậu và các hình thái thời tiết cực đoan, trong đó Việt Nam nằm trong số 10 nước bị tác động nặng nề nhất trong vòng 20 năm qua và là 1 trong 6 nước chịu tác động lớn nhất trong 4 năm gần đây theo báo cáo tại Hội đồng Bảo an Liên Hợp Quốc. Tại Việt Nam, biến đổi khí hậu đã gây ra hạn hán, lũ lụt, nước biển dâng tại khu vực Đồng bằng Sông Cửu Long; ô nhiễm không khí tại các thành phố, đô thị lớn; ô nhiễm nguồn nước cũng như các hiện tượng thời tiết cực đoan, bất thường, ảnh hưởng nghiêm trọng đến sự phát triển kinh tế xã hội và đời sống người dân. Nghiên cứu của các tổ chức quốc tế cũng cho rằng biến đổi khí hậu có thể làm Việt Nam tổn thất 15 tỷ USD/năm, tương đương 5% GDP.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "G9": 1.0
+      },
+      "themes": [
+        "E1",
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "G9": 2
+      }
+    },
+    {
+      "paragraph_id": 696,
+      "text": "Đánh giá tầm quan trọng của mục tiêu phát triển bền vững , Chính phủ đã có nhiều chính sách nhằm tạo hàng lang pháp lý thuận lợi cho việc ứng dụng và phát triển công nghệ thân thiện với môi trường. Thủ tướng Chính phủ đã có quyết định số 2612/QĐ-TTg ngày 30/12/2013 phê duyệt Chiến lược sử dụng công nghệ sạch giai đoạn đến năm 2020, tầm nhìn đến năm 2030 với mục tiêu tổng quát là sử dụng công nghệ sạch, thân thiện với môi trường, tăng hiệu quả sử dụng năng lượng, tài nguyên, phát thải thấp trong sản xuất công nghiệp nhằm thúc đẩy tăng trưởng \"xanh\", hạn chế biến đổi khí hậu và nâng cao đời sống cộng đồng. Theo đó, đến năm 2020, 100% các dự án đầu tư mới thuộc các ngành sử dụng nhiều năng lượng, có khả năng gây ô nhiễm nghiêm trọng cho môi trường phải đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật về công nghệ sạch. Với vị thế là một ngân hàng TMCP do Nhà nước nắm cổ phần chi phối (64,46%), VietinBank đã nghiêm túc thực hiện Quyết định số 403/QĐTTg ngày 20/03/2014 của Thủ tướng Chính phủ về việc phê duyệt kế hoạch hành động quốc gia về tăng trưởng xanh giai đoạn 2014 - 2020 và Chỉ thị số 03/CT-NHNN ngày 24/3/2015 của Thống đốc NHNN về thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường và xã hội trong hoạt động cấp tín dụng cũng như các quy định pháp luật khác có liên quan về bảo vệ môi trường trong hoạt động cấp tín dụng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "G9": 0.5
+      },
+      "themes": [
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "G9": 1
+      }
+    },
+    {
+      "paragraph_id": 1429,
+      "text": "[TABLE] [CONTEXT] section: 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo) ; column_headers: Nhóm nợ | Phân loại nợ theo định lượng | Phân loại nợ theo định tính | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Phân loại nợ theo định lượng | Phân loại nợ theo định tính | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi nhưng có dấu hiệu khách hàng suy giảm khả năng trả nợ. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: - Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. | Các khoản nợ được đánh giá là không có khả năng thu hồi đầy đủ cả nợ gốc và lãi khi đến hạn, có khả năng tổn thất. | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 1430,
+      "text": "[TABLE] [CONTEXT] section: THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) [ROWS] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc | Các khoản nợ được đánh giá là có khả năng tổn thất cao. | 50% [ROW] (e) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. [ROW] 5 | Nợ có khả năng mất vốn | (a) Nợ quá hạn trên 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc (d) Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã quá hạn; hoặc (e) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc (f) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc (g) Nợ của khách hàng là tổ chức tín dụng được NHNN công bố đặt vào tình trạng kiểm soát đặc biệt, hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa vốn và tài sản. | Các khoản nợ được đánh giá là không còn khả năng thu hồi, mất vốn. | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 2
+      }
+    }
+  ]
+}

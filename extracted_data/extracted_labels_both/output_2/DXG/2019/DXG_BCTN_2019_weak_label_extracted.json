@@ -1,0 +1,35 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tuy nhiên, ngoài nỗ lực của Chính phủ còn cần sự tham gia, phối hợp của các doanh nghiệp. Để nền kinh tế xanh hơn thì bản thân các doanh nghiệp trong nước phải có những hành động cụ thể hơn, thiết thực hơn để góp phần làm nền kinh tế xanh hơn. Dự án của Công ty luôn hướng đến việc đạt tiêu chuẩn thân thiện với môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

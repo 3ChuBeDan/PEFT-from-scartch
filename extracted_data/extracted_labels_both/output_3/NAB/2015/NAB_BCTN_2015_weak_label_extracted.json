@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Năm 2015 Ngân hàng Nam Á hỗ trợ cho CBNV đang làm việc trên toàn hệ thống đi tham quan, nghỉ mát dài ngày. Ngân hàng Nam Á thường xuyên quan tâm đến đời sống vật chất và tinh thần của người lao động, chi thăm hỏi CBNV ốm đau, thăm viếng nguời quá cố (tứ thân phụ mẫu), mừng kết hôn của CBNV, tặng quà cho CBNV Nữ nhân ngày Quốc tế Phụ nữ, tặng quà và tổ chức các hoạt động vui chơi cho con CBNV nhân ngày Quốc tế thiếu nhi, ..., tạo sân chơi lành mạnh, thân thiện và vui tươi cho các CBNV qua các hoạt động kỷ niệm những ngày Lễ lớn của đất nước, kỷ niệm ngày thành lập Ngân hàng Nam Á, ngày thành lập Đoàn Thanh Niên... do Công đoàn và Đoàn Thanh niên Ngân hàng Nam Á tổ chức.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Báo cáo thường niên 2015/ Annual report 2015 ; column_headers: Nhóm nợ | Tiêu chí phân loại | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Tiêu chí phân loại | Tỷ lệ dự phòng [ROW] Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

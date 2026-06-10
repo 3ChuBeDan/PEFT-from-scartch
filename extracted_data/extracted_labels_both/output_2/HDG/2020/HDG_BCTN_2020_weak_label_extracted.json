@@ -1,0 +1,28 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Ý thức bảo vệ môi trường luôn được đề cao trong mọi lĩnh vực hoạt động của Tập đoàn. Việc phát ể g g g triển lĩnh vực năng lượng, đặc biệt là năng lượng tái tạo cũng xuất phát từ tinh thần ấy. Các nhà máy điện đều được đánh giá tác động môi trường trước và trong quá trình vận hành, đảm bảo mức độ an toàn và tiêu chuẩn không gây ảnh hưởng xấu đến môi trường và đời sống người dân xung ể g gg g g gg quanh. Dự án điện gió, điện mặt trời được lựa chọn kỹ lưỡng các thiết bị chuyển hóa năng lượng ể gg g và các nhà thầu uy tín trên thế giới để cung cấp những thiết bị thân thiện môi trường cho dự án. ể",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

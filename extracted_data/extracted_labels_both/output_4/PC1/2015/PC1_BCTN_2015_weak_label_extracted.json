@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Sau mười năm chuyển thành Công ty cổ phần, PCC1 vẫn giữ vững truyền thống phát huy sức mạnh đoàn kết tập thể. Lãnh đạo Công ty chú trọng chăm lo đời sống vật chất, tinh thần của cán bộ, công nhân viên; vừa tôn trọng vừa đặt ra yêu cầu cao đối với đội ngũ người lao động ở tất cả các vị trí công tác. Phương châm hành động của Công ty là: \"Chất lượng - Tiến độ - Giá thành - Thẩm mỹ công nghiệp\". Công ty tiếp tục chú trọng động viên cán bộ, công nhân viên phát huy trí tuệ, tinh thần sáng tạo, thực hiện cải tiến kỹ thuật để nâng cao năng suất lao động mà vẫn bảo đảm chất lượng sản phẩm. Một trong những sáng kiến điển hình là \"Máy thổi khí khô\" của Công ty TNHH MTV Xây lắp điện I – Hoàng Mai, đưa Công ty trở thành đơn vị đầu tiên trong cả nước sử dụng thiết bị để xử lí cách điện ẩm của máy biến áp và các thiết bị điện 500kV. Sáng kiến này đã được áp dụng thành công tại TBA 500kV Quảng Ninh, TBA 500kV Thường Tín, TBA 500kV Ô Môn... Điều đáng chú ý là sáng kiến này đã tiết kiệm được nhiều chi phí do không phải nhập thiết bị từ nước ngoài. Một sáng kiến có giá trị khác là sáng kiến của Công ty TNHH Chế tạo cột thép Đông Anh trong việc chế tạo đồ gá để mạ cột đơn thân có đường kính lớn, đảm bảo chính xác các thông số kỹ thuật.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

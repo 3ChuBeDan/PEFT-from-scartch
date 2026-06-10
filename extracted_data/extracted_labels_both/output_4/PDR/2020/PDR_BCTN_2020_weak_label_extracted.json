@@ -1,0 +1,110 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 1686,
+      "text": "Giám sát chất thải rắn sinh hoạt và chất thải nguy hại:",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 2227,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM QUẢN TRỊ ASEAN ; column_headers: Câu hỏi | Nội dung câu hỏi | Đánh giá | Kết quả thực hiện năm 2019 | Kết quả thực hiện năm 2020 [ROWS] Câu hỏi | Nội dung câu hỏi | Đánh giá | Kết quả thực hiện năm 2019 | Kết quả thực hiện năm 2020 [ROW] B | ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] B.2.1 | Mỗi nghị quyết trong ĐHĐCĐ gần nhất chỉ liên quan đến một nội dung của dự thảo nghị quyết, nghĩa là không gộp nhiều nội dung vào trong cùng một nghị quyết? | . | \"Nghị quyết cuộc họp ĐHĐCĐ thường niên năm 2019 đã thực hiện tốt nguyên tắc này. \" | Tiếp tục duy trì hoạt động Tốt [ROW] B.2.2 | Thông báo và tài liệu ĐHĐCĐ được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu Đại hội bằng tiếng Việt. | . | Năm 2019, PDR đang trong tiến trình xây dựng đầy đủ thông báo và tài liệu ĐHĐCĐ bằng 02 ngôn ngữ tiếng Anh và tiếng Việt. | PDR đang thực hiện dịch thuật theo lộ trình bằng tiếng Anh và dự kiến công bố vào cùng ngày với tài liệu ĐHCĐ thường niên 2021 bằng Tiếng Việt và Tiếng Anh. [ROW] B.2.3 | Có cung cấp tiểu sử của thành viên/ủy viên HĐQT (tối thiểu là tuổi, trình độ chuyên môn, ngày bổ nhiệm đầu tiên, kinh nghiệm, và nhiệm kỳ thành viên HĐQT trong các công ty niêm yết khác) sẽ được bầu chọn/ bầu chọn lại? | . | \"PDR công bố đầy đủ các thông tin về tiểu sử của các thành viên sẽ được bầu chọn/bầu chọn lại. \" | Tiếp tục duy trì hoạt động Tốt. [ROW] B.2.4 | Tài liệu họp nêu danh sách Công ty kiểm toán lựa chọn? | . | Tài liệu cuộc họp ĐHĐCĐ thường niên của PDR có nêu rõ. Tiếp tục duy trì hoạt động Tốt. [ROW] B.2.5 | Tài liệu họp ĐHĐCĐ có giải thích về chính sách chia cổ tức? | . | Tài liệu cuộc họp ĐHĐCĐ thường niên có thể hiện nội dung này. Trong tờ trình thể hiện tỷ lệ, số tiền chia | Tiếp tục duy trì hoạt động Tốt. [ROW] B.2.6 | Tài liệu họp ĐHĐCĐ có công bố cụ thể mức chia cổ tức. | . | cổ tức hàng năm, mức trích lập các quỹ. [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | . | PDR đang thực hiện tốt nguyên tắc này theo Thông tư 155/2015/TT-BTC và Điều lệ Công ty. | Tiếp tục duy trì hoạt động Tốt. [ROW] B.4.2 | Công ty có quy định yêu cầu phải có một tiểu ban gồm các thành viên HĐQT độc lập xem xét các giao dịch quan trọng để xác định rằng chúng có lợi cho công ty và cho cổ đông? | . | PDR sẽ xem xét bổ sung quy định này trong các năm tiếp theo. | PDR sẽ tiếp tục xem xét bổ sung quy định này trong các năm tiếp theo. [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | . | Các thành viên HĐQT của PDR có tham gia nhưng không được biểu quyết khi có các hoạt động, giao dịch xung đột lợi ích. | Công ty đang trong lộ trình xây dựng chính sách cụ thể cho vấn đề này. [ROW] B.5.1 | Công ty có bất kỳ hỗ trợ tài chính cho các đơn vị không phải là công ty con trực thuộc không? | . | PDR không có vấn đề này. | PDR không có vấn đề này. [ROW] C | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng. [ROW] C.1.1 | Ban hành các quy định và thực thi nỗ lực nhằm bảo vệ quyền lợi của khách hàng? | . | PDR trình bày vấn đề này trong Báo cáo thường niên 2020 và trong các văn bản lưu hành trong hoạt động của PDR. | Trong hoạt động kinh doanh đặc thù của PDR, PDR đã đăng ký và được phê duyệt từ Cục quản lý Cạnh tranh liên quan đến Hợp đồng mua bán sản phẩm trong đó có quy định chặt chẽ về quyền lợi và bảo vệ quyền lợi của khách hàng. [ROW] C.1.2 | Giải thích quy trình và hoạt động lựa chọn nhà cung cấp/nhà thầu? | . | PDR có quy trình và hoạt động lựa chọn nhà cung cấp/nhà thầu. Tuy nhiên, đây là quy trình lưu hành nội bộ và được phê duyệt bởi Tổng giám đốc của PDR. | Tại PDR tiếp tục duy trì và cải tiến tiêu chí này. [ROW] C.1.3 | Mô tả nỗ lực của công ty nhằm bảo đảm chuỗi giá trị của công ty thân thiện với môi trường hoặc phù hợp với việc thúc đẩy PTBV? | . | PDR trình bày vấn đề này trong Báo cáo thường niên 2020. | Tại PDR tiếp tục duy trì và cải tiến tiêu chí này. [ROW] C.1.4 | Mô tả nỗ lực của công ty trong việc tương tác với cộng đồng nơi công ty hoạt động? | . | PDR trình bày vấn đề này trong Báo cáo thường niên 2020. | Tại PDR tiếp tục duy trì và cải tiến tiêu chí này. [ROW] C.1.5 | Mô tả chương trình và quy trình phòng chống tham nhũng của công ty? | . | PDR trình bày vấn đề này trong Báo cáo thường niên 2020 và các quy trình, quy định rõ các thẩm quyền quyết định về quản lý tài chính của PDR để phòng chống tham nhũng. | Tại PDR tiếp tục duy trì và cải tiến tiêu chí này. [ROW] C.1.6 | Mô tả cách bảo vệ quyền lợi của chủ nợ? | . | PDR sẽ xem xét bổ sung quy định này trong các năm tiếp theo. | PDR sẽ xem xét bổ sung quy định này trong các năm tiếp theo. [ROW] C.1.7 | Hành động cụ thể nhằm bảo vệ sức khỏe và sự an toàn của khách hàng? | . | PDR trình bày vấn đề này trong Báo cáo thường niên 2020. | PDR đã trình bày vấn đề này trong Báo cáo thường niên 2020. [ROW] C.1.8 | Lựa chọn và tiêu chí đối với nhà cung cấp/nhà thầu. | . | PDR ban hành quy trình lựa chọn và các tiêu chí đối với nhà cung cấp/nhà thầu. | PDR ban hành quy trình lựa chọn và các tiêu chí đối với nhà cung cấp/nhà thầu.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 2234,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM PHẠT ; column_headers: Câu hỏi Nội dung câu hỏi | Đánh giá | Kết quả thực hiện 2019 | Kết quả thực hiện 2020 [ROWS] Câu hỏi Nội dung câu hỏi | Đánh giá | Kết quả thực hiện 2019 | Kết quả thực hiện 2020 [ROW] A. | QUYỀN CƠ BẢN CỦA CỔ ĐÔNG [ROW] A.1 | Quyền cơ bản của cổ đông [ROW] A.1.1 | Công ty không hoặc sơ suất không đối xử công bằng đối với việc mua lại CP đối với tất cả các cổ đông? | . | PDR không ghi nhận bất kỳ phát sinh nào. Điều lệ và quy chế nội bộ về QTCT có quy định rõ ràng về việc đối xử công bằng với việc mua lại CP đối với tất cả các cổ đông. | Tại PDR tiếp tục duy trì và cải tiến tiêu chí này. [ROW] A.2 | Cổ đông, bao gồm cả cổ đông tổ chức, phải được trao đổi với nhau về các vấn đề liên quan tới quyền cơ bản của cổ đông như nêu trong bộ Nguyên tắc QTCT này, trừ trường hợp ngoại lệ nhằm ngăn ngừa lạm dụng [ROW] A.2.1 | Có bằng chứng gì về rào cản đối với việc cổ đông không được trao đổi thông tin hoặc tham khảo ý kiến các cổ đông khác? | . | PDR không ghi nhận bất kỳ rào cản nào. | Tại PDR tiếp tục duy trì và cải tiến tiêu chí này. [ROW] A.3 | Quyền tham gia hiệu quả vào và biểu quyết trong đại hội đồng cổ đông và được thông báo về các quy định, bao gồm thủ tục biểu quyết diễn ra trong đại hội đồng cổ đông [ROW] A.3.1 | Công ty có đưa nội dung bổ sung và không được thông báo trước trong chương trình nghị sự vào thông báo ĐHĐCĐ/ ĐHĐCĐ bất thường? | . | PDR luôn thông báo trước cho cổ đông các nội dung bổ sung trong chương trình ĐHĐCĐ/ ĐHĐCĐ bất thường. | Tiếp tục duy trì hoạt động Tốt. [ROW] A.3.2 | Chủ tịch HĐQT, Chủ tịch Tiểu ban kiểm toán và TGĐ/Giám đốc có tham dự ĐHĐCĐ mới nhất? | . | PDR thực hiện tốt quy định này. Tại các kỳ ĐHĐCĐ thường niên đều có sự tham dự tất cả thành viên HĐQT, Ban TGĐ, BKS và các Chức vụ quản lý khác. | Tiếp tục duy trì hoạt động Tốt. [ROW] A.4 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ CP mà họ sở hữu phải được công bố công khai. [ROW] A.4.1 | Công ty có không công bố sự tồn tại của thỏa thuận cổ đông? | . | Tại PDR không tồn tại thỏa thuận này. | Tiếp tục duy trì hoạt động Tốt. [ROW] A.4.2 | Công ty có không công bố sự tồn tại của giới hạn biểu quyết? | . | PDR quy định cụ thể trong Chương trình - thể lệ/ quy chế biểu quyết tại ĐHĐCĐ thường niên. | Tiếp tục duy trì hoạt động Tốt. [ROW] A.4.3 | Công ty có không công bố sự tồn tại của cổ phiếu có nhiều quyền biểu quyết? | . | Tại PDR không tồn tại loại quyền biểu quyết này. Tiếp tục duy trì hoạt động Tốt. [ROW] A.5 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ CP mà họ sở hữu phải được công bố công khai. [ROW] A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu sở hữu chéo có tồn tại không? | . | PDR không ghi nhận cấu trúc sở hữu kim tự tháp hay cấu trúc sở hữu chéo. [ROW] B. | ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG [ROW] B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, ban điều hành và nhân viên công ty trong ba năm qua? | . | PDR không ghi nhận bất kỳ vi phạm nào. | Tiếp tục duy trì hoạt động Tốt. [ROW] B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | . | PDR không ghi nhận bất kỳ vi phạm không tuân thủ luật pháp. | Tiếp tục duy trì hoạt động Tốt. [ROW] B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | . | PDR không ghi nhận bất kỳ giao dịch với bên liên quan nào. | Tiếp tục duy trì hoạt động Tốt. [ROW] C. | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng. [ROW] C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/ người tiêu dùng/ phá sản/thương mại/cạnh tranh hay môi trường? | . | PDR không ghi nhận bất kỳ vi phạm nào. | Tiếp tục duy trì hoạt động Tốt. [ROW] C.2 | Khi các bên có quyền lợi liên quan tham gia vào quá trình QTCT, họ phải được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên. [ROW] C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không CBTT trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | . | PDR tuân thủ chặt chẽ quy định về CBTT theo thông tư 155, luật Doanh nghiệp năm và không ghi nhận bất kỳ vi phạm nào. | Tiếp tục duy trì hoạt động Tốt.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 2239,
+      "text": "[TABLE] [CONTEXT] section: BÌNH ĐẲNG GIỚI ; column_headers: Tiêu chí | Nội dung [ROWS] Tiêu chí | Nội dung [ROW] • Giám sát kỹ các chỉ tiêu: pH, BOD5, TSS, tổng chất rắn hòa tan, Sunfua (tính theo H2S), Nitrat (tính theo N), Amoni (tính theo N), dầu mỡ động, thực vật, tổng các chất [ROW] NƯỚC SẠCH VÀ VỆ SINH Nguồn cung ứng và quản lý bền vững nguồn nước | • Sử dụng nước theo Quy chuẩn Việt Nam, đặc biệt là trong dự án theo Quy chuẩn xây dựng Việt Nam - QCXDVN 01:2008/BXD. • Kiểm tra định kỳ hệ thống nước sinh hoạt và sử dụng trong các dự án. • Tận dụng nước mưa và tái xử lý nước thải qua hệ thống trạm xử lý ngay tại dự án để sử dụng tưới cây cho dự án. • Trong thiết kế kỹ thuật sử dụng thiết bị tiết kiệm nước, sử dụng máy giặt tự động với [ROW] • Sử dụng nguồn năng lượng sạch và bền vững trên toàn dự án. • Năng lượng điện: Sử dụng năng lượng mặt trời. • Năng lượng nước: Sử dụng hệ thống cấp nước tinh khiết trực tiếp tích hợp năng [ROW] NĂNG LƯỢNG SẠCH VÀ BỀN VỮNG Khả năng tiếp cận nguồn năng lượng hiện đại, bền vững, đáng tin cậy với giá cả hợp lý. | lượng mặt trời. • Năng lượng gas: Sử dụng khí CNG tự nhiên với thành phần methane (Mê-tan) thân thiện với môi trường. [ROW] • Tiếp tục đạt mức tăng trưởng doanh thu cao và đóng góp hàng tỷ đồng tiền thuế cho ngân sách thành phố. • Cung cấp hàng ngàn cơ hội việc làm trực tiếp và cơ hội gián tiếp thụ hưởng. [ROW] TĂNG TRƯỞNG KINH TẾ VÀ VIỆC LÀM BỀN VỮNG Tăng trưởng kinh tế và việc làm bền vững. | • Tài trợ Đại hội lần VI của Hội Kiến trúc sư tỉnh Bình Định. • Hỗ trợ chương trình phát triển của CLB Doanh nhân Quảng Ngãi. • Sử dụng vật liệu thân thiện với môi trường như gạch nhẹ, gạch không nung, gỗ [ROW] nhân tạo... • Sử dụng thang máy có thể hồi chuyển năng lượng để tiết kiệm điện. [ROW] CÔNG NGHIỆP, ĐỔI MỚI VÀ CƠ SỞ HẠ TẦNG Xây dựng cơ sở hạ tầng đồng bộ, tập trung | • Không ngừng đổi mới và áp dụng công nghệ xây dựng theo xu hướng chung của thế giới, tạo chất lượng bền vững và an toàn cho cư dân. • Trong thiết kế, luôn lưu ý đến thông thoáng tự nhiên bằng sử dụng các lam che chống [ROW] • Tiếp tục hỗ trợ nạn nhân chất độc màu da cam huyện Bình Chánh - TP.HCM. • Hỗ trợ BCH Đoàn TP.HCM thực hiện Lễ thắp nến tri ân 73 năm ngày Thương binh Liệt sỹ . • Ủng hộ Ban Quản Trị The EverRich 1 tổ chức chương trình Đêm hội Trăng rằm tại Tòa nhà E1 ngày 01/10/2020. • Tài trợ Đại Hội nhiệm kỳ II Hội nữ Doanh nhân TP.HCM. • Ủng hộ Trung tâm nuôi dạy trẻ khuyết tật Võ Hồng Sơn. • [ROW] GIẢM BẤT BÌNH ĐẲNG Giảm bất bình đẳng. | Tài trợ kinh phí thăm hỏi tri ân Cựu TNXP các tỉnh Miền Trung. • Ủng hộ quỹ chăm sóc trẻ em xã Nhơn Lý.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 2,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 2243,
+      "text": "[TABLE] [CONTEXT] section: Sự tham gia của các bên liên quan (tiếp theo) ; column_headers: Các bên liên quan | Cách tiếp cận | Các mối quan tâm chính của các bên liên quan | Phản hồi của PDR [ROWS] Các bên liên quan | Cách tiếp cận | Các mối quan tâm chính của các bên liên quan | Phản hồi của PDR [ROW] CỘNG ĐỒNG | • Tham gia các chương trình, hoạt động xây dựng cộng đồng của các tổ chức, chính quyền. • Cung cấp thông tin về hoạt động kinh doanh của doanh nghiệp qua các kênh truyền thông chính thống đến cộng đồng. | • Vấn đề công ăn việc làm. • Đóng góp cho cộng đồng . • Tình cảm, trách nhiệm đối với cộng đồng. • Tác động trực tiếp và gián tiếp của Công ty đến môi trường trong quá trình hoạt động . | • Cam kết đặt yếu tố môi trường lên trên sự phát triển, hạn chế đến mức tối thiểu sự tác động đến môi trường trong quá trình triển khai và đưa vào hoạt động các dự án quy mô. • Khẳng định tinh thần làm việc với tất cả lương tâm và trách nhiệm sao cho vừa bảo vệ được môi trường vừa tạo được sự tăng trưởng cho xã hội, đất nước. • Tiếp tục đẩy mạnh thực hiện các chương trình, hoạt động từ thiện và tài trợ, chung tay góp sức xây dựng cộng đồng ngày một phát triển. [ROW] CHÍNH PHỦ | • Tham gia các hội thảo, hội nghị chuyên ngành BĐS, xây dựng, kiến trúc do các bộ ban ngành tổ chức. • Tích cực tham gia các hoạt động của các hiệp hội kiến trúc, xây dựng, phát triển dự án. • Thực hiện công khai thông tin, báo cáo thuế theo quy định hiện hành. | • Việc tuân thủ pháp luật của Công ty. • Khó khăn mà Công ty gặp phải trong quá trình thực thi các chính sách, quy định của pháp luật. • Xu hướng chung của thị trường và xu hướng ngành. • Thực hiện các hoạt động đầu tư, kinh doanh một cách có trách nhiệm với khách hàng, xã hội và môi trường. | • Tuân thủ một cách tuyệt đối các quy định của chính phủ, pháp luật Việt Nam về kinh tế, xã hội và môi trường. • Thực hiện đầy đủ nghĩa vụ nộp ngân sách Nhà nước. [ROW] ĐỐI THỦ CẠNH TRANH | • Gặp gỡ, chia sẻ với các đối thủ cạnh tranh thông qua các cuộc họp của các hiệp hội xây dựng, BĐS, các cuộc gặp gỡ NĐT quan tâm đến ngành BĐS do HOSE tổ chức • Duy trì quan hệ cá nhân giữa lãnh đạo doanh nghiệp với lãnh đạo các đối thủ cạnh tranh. • Tổng hợp các thông tin về đối thủ cạnh tranh thông qua các tin tức từ các kênh truyền thông chính thống. | • Quy tắc ứng xử với đối thủ cạnh tranh. • Cạnh tranh lành mạnh. • Tuân thủ luật chống độc quyền, cạnh tranh. | • Hòa hợp với đối thủ cạnh tranh bằng tất cả thiện chí và không ngừng học hỏi từ những thành công của họ. • Không nói xấu hoặc có hành động phá hoại công ty đối thủ, đồng thời công nhận những thành công và tôn trọng lợi ích của họ trên cơ sở “Công ty tốt nhất là công ty chiến thắng”. • Cam kết cạnh tranh công bằng, không thông đồng hoặc có các hoạt động gây ảnh hưởng đến giá cả thị trường, không tiếp nhận những thông tin có thể là bí mật về đối thủ cạnh tranh. • Linh hoạt ứng phó trước sự cạnh tranh gay gắt, nhất quán với nguyên tắc kinh doanh trung thực, lấy chất lượng, uy tín và thương hiệu đặt lên hàng đầu. Tôn trọng và tuân thủ luật chống độc quyền, luật cạnh tranh, đảm bảo sự cạnh tranh lành mạnh, tự do và cởi mở.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G11": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E3",
+        "G11",
+        "G9"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G11": 2,
+        "G9": 1
+      }
+    }
+  ]
+}

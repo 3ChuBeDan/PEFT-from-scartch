@@ -1,0 +1,107 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 489,
+      "text": "Tiếp tục nghiên cứu, kiện toàn mô hình hoạt động, tinh gọn bộ máy đáp ứng HĐKD và yêu cầu của NHNN. Kiện toàn mạnh mẽ, nâng cao hiệu quả hoạt động các đơn vị mạng lưới. Thực hiện nghiêm túc, toàn diện, hiệu quả các công cụ, chính sách nhân sự, đảm bảo sử dụng nhân sự hiệu quả, tăng cường nhân sự cho đơn vị trực tiếp kinh doanh, nâng cao chất lượng nguồn lực và năng suất lao động. Ứng dụng triệt để 7 giá trị cốt lõi trong VHDN VietinBank, xây dựng và nêu cao tinh thần sáng tạo, đổi mới không ngừng trong mọi hoạt động để hướng tới sự hoàn hảo trong công việc và trong mọi SPDV mang tới khách hàng. Nuôi dưỡng, phát huy tinh thần tự hào thương hiệu VietinBank và sự gắn kết trong mọi cán bộ, người lao động làm động lực thúc đẩy cho sự phát triển hiệu quả, bền vững của VietinBank.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 690,
+      "text": "Thực hiện định hướng của NHNN thúc đẩy cấp tín dụng xanh cho những dự án có mục tiêu rõ ràng về bảo vệ môi trường, khuyến khích hoạt động kinh doanh thân thiện với môi trường, triển khai kế hoạch hành động của Ngành Ngân hàng thực hiện Chiến lược Quốc gia về tăng trưởng xanh đến năm 2020 và Ðề án phát triển ngân hàng xanh tại Việt Nam theo Quyết định số 1604/QÐNHNN, VietinBank đã cấp tín dụng cho đa dạng các khách hàng thuộc lĩnh vực tín dụng Xanh, dự án tiết kiệm và hiệu quả năng lượng. Trong đó, dư nợ trung dài hạn chiếm tỷ trọng 89%, dư nợ năng lượng tái tạo, năng lượng sạch (65%), quản lý nước bền vững tại khu vực đô thị và nông thôn (17%), xử lý chất thải và phòng chống ô nhiễm (16%), nông nghiệp xanh, lâm nghiệp bền vững, tái chế, tái sử dụng các nguồn tài nguyên.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 692,
+      "text": "DƯ NỢ NĂNG LƯỢNG TÁI TẠO, NĂNG LƯỢNG SẠCH",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 695,
+      "text": "tăng cường quản lý tài nguyên và bảo vệ môi trường. Thông qua chương trình tín dụng xanh, VietinBank mong muốn cung cấp cho các khách hàng giải pháp tài chính tốt nhất, hướng tới những giá trị bền vững, đẩy mạnh phát triển năng lượng tái tạo, giảm mạnh tiêu thụ điện lưới, giảm ô nhiễm môi trường, đảm bảo an ninh năng lượng quốc gia; nâng cao chất lượng cuộc sống của người dân, giúp các hộ gia đình ở khu vực nông thôn nâng cấp các công trình nước sạch và vệ sinh, bảo đảm theo tiêu chuẩn quốc gia.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1433,
+      "text": "[TABLE] [CONTEXT] section: 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo) ; column_headers: Nhóm nợ | Phân loại nợ theo định lượng | Phân loại nợ theo định tính | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Phân loại nợ theo định lượng | Phân loại nợ theo định tính | Tỷ lệ dự phòng [ROW] 1 Nợ đủ tiêu chuẩn | a. Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc b. Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn. | 0% [ROW] 2 Nợ cần chú ý | a. Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc b. Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | Các khoản nợ được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi nhưng có dấu hiệu khách hàng suy giảm khả năng trả nợ. | 5% [ROW] 3 Nợ dưới tiêu chuẩn | a. Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc b. Nợ gia hạn nợ lần đầu; hoặc c. Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc d. Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: - Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc - Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. e. Nợ trong thời hạn thu hồi theo kết luận thanh tra. | Các khoản nợ được đánh giá là không có khả năng thu hồi đầy đủ cả nợ gốc và lãi khi đến hạn, có khả năng tổn thất. | 20% [ROW] 4 Nợ nghi ngờ | a. Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc b. Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc c. Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc d. Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc e. Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. | Các khoản nợ được đánh giá là có khả năng tổn thất cao. | 50% [ROW] 5 Nợ có khả năng mất vốn | a. Nợ quá hạn trên 360 ngày; hoặc b. Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc c. Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc d. Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã quá hạn; hoặc e. Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc f. Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc g. Nợ của khách hàng là tổ chức tín dụng được NHNN công bố đặt vào tình trạng kiểm soát đặc biệt, hoặc chi nhánh | Các khoản nợ được đánh giá là không còn khả năng thu hồi, mất vốn. | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Cam kết bảo vệ môi trường: GELEX hướng đến đầu tư phát triển những mảng thân thiện môi trường như năng lượng tái tạo, nghiên cứu phát triển sản phẩm thiết bị điện, vật liệu xây dựng mới thân thiện môi trường, đầu tư công nghệ sản xuất hiện đại để giảm phát thải, giảm tiêu thụ năng lượng, giảm tiêu hao nguyên liệu trong quá trình sản xuất tại các nhà máy. Bên cạnh đó, các hoạt động phát triển bền vững của GELEX cũng được gắn chặt với các mục tiêu phát triển bền vững của liên hợp quốc (Sustainable Development Goal – SDGs) gồm 17 mục tiêu và 169 yếu tố phát triển bền vững được đưa ra tại Hội nghị thượng đỉnh Liên Hợp Quốc về Phát triển bền vững được tổ chức tháng 9/2015 tại thành phố New York, Hoa Kỳ với trọng tâm là các mục tiêu Phát triển bền vững cho giai đoạn 2015 – 2030. GELEX bám sát các mục tiêu này để xây dựng hoạt động PTBV phù hợp nhằm góp phần chung tay giải quyết các thách thức phát triển lớn mà người dân Việt Nam và thế giới đang phải đối mặt.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Tập Đoàn đẩy mạnh đầu tư phát triển năng lượng sạch, năng lượng tái tạo gồm điện gió, điện mặt trời, thủy điện. Việc phát triển năng lượng sạch có lượng phát thải ít hơn đáng kể so với nhiệt điện, giúp góp phần vào chủ trương giảm phát thải chung của Chính Phủ. Tập đoàn hiện đang sở hữu và vận hành các dự án năng lượng sạch với tổng công suất hơn 260 MW.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 4
+      }
+    }
+  ]
+}

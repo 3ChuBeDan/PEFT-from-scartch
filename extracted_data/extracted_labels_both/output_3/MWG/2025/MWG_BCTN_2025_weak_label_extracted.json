@@ -1,0 +1,383 @@
+{
+  "extracted_count": 24,
+  "extracted": [
+    {
+      "text": "Công ty vận hành kết hợp sử dụng hệ thống ERP nội bộ, với sự giám sát của Ủy ban Kiểm toán phối hợp cùng các phòng ban liên quan nhằm kiểm soát rủi ro công nghệ thông tin, bảo mật dữ liệu và an ninh mạng. Chính sách an ninh mạng được thiết lập và đang áp dụng là một phần không thể tách rời trong hệ thống QLRR tổng thể.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Công ty vận hành kết hợp sử dụng hệ thống ERP nội bộ, với sự giám sát của UBKT phối hợp cùng các phòng ban liên quan nhằm kiểm soát rủi ro công nghệ thông tin, bảo mật dữ liệu và an ninh mạng. Chính sách an ninh mạng được thiết lập và đang áp dụng là một phần không thể tách rời trong hệ thống QLRR tổng thể.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Công ty đã ban hành các chính sách và quy trình quản lý giao dịch với các bên liên quan, bảo đảm tính minh bạch, công bằng và kiểm soát xung đột lợi ích. Trong năm 2025, MWG không ghi nhận các giao dịch gây xung đột lợi ích trọng yếu với Công ty. Đồng thời, các chính sách phòng chống tham nhũng, hối lộ và vi phạm đạo đức kinh doanh tiếp tục được thực thi nghiêm túc và nhất quán trong toàn hệ thống.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tại MWG, rác thải phát sinh chủ yếu là rác sinh hoạt và được phân loại, thu gom, xử lý theo đúng quy định. Công ty tuân thủ các quy định về quản lý rác thải điện tử, đảm bảo xử lý phù hợp nhằm giảm thiểu tác động môi trường, đồng thời hợp tác với các đối tác uy tín như Công ty CP Môi trường Việt Úc trong xử lý chất thải nguy hại. Trên cơ sở đó, MWG tiếp tục đẩy mạnh các sáng kiến kinh tế tuần hoàn theo hướng có trọng tâm, kiểm soát chặt chẽ rác thải điện tử và bao bì, đồng thời tăng cường hợp tác với các đối tác nhằm nâng cao hiệu quả xử lý và thúc đẩy mô hình tuần hoàn trên toàn hệ thống.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Ngày 18/08, ĐMX triển khai thí điểm chương trình thu gom rác thải điện tử tại Hà Nội, hợp tác với Công ty TNHH Quy Hoạch Chất Thải Việt Nam, áp dụng cho 4 nhóm thiết bị gia dụng đã qua sử dụng gồm tivi, tủ lạnh, máy giặt và máy lạnh. Chương trình thuộc sáng kiến do Bộ Môi trường Nhật Bản bảo trợ, hướng tới xây dựng mô hình thu gom – xử lý rác thải điện tử tại Đông Nam Á. Việc tích hợp thu hồi thiết bị cũ vào quy trình giao hàng là một trong những sáng kiến giúp MWG chủ động tìm kiếm giải pháp hiệu quả trong xử lý rác thải điện tử, từng bước hoàn thiện mô hình kinh tế tuần hoàn.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E3": 1
+      }
+    },
+    {
+      "text": "Tăng cường minh bạch, hợp tác và cam kết tuân thủ: MWG công khai đầy đủ chính sách bảo mật trên các kênh chính thức, đặc biệt tại Chuyên trang Quan hệ Cổ đông. Doanh nghiệp đồng thời hợp tác với các tổ chức an ninh mạng uy tín, tham gia Hiệp hội An ninh mạng Quốc gia để nâng cao năng lực phòng thủ hệ thống. 100% nhân viên ký cam kết bảo vệ dữ liệu cá nhân và tuân thủ nghiêm quy định bảo mật của công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÓNG GÓP VÀO 17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG - 17 SDGS ; column_headers: Chủ Đề Trọng Yếu | Tác Động & Ảnh Hưởng | 17 SDGs Liên Quan [ROWS] Chủ Đề Trọng Yếu | Tác Động & Ảnh Hưởng | 17 SDGs Liên Quan [ROW] Quản Lý Khí Hậu, Năng Lượng & Phát Thải Khí Nhà Kính | Việc ứng dụng năng lượng tái tạo, IoT và công nghệ xanh giúp giảm phát thải khí nhà kính, tối ưu tiêu thụ năng lượng và giảm tác động môi trường. Các sáng kiến này đồng thời nâng cao hiệu quả vận hành, tối ưu chi phí, thúc đẩy bảo tồn tài nguyên và hỗ trợ quá trình chuyển đổi sang mô hình kinh doanh carbon thấp, góp phần củng cố niềm tin của các bên liên quan và phát triển bền vững dài hạn. | 12 13 [ROW] Quản Lý Rác Thải & Kinh Tế Tuần Hoàn | Các hoạt động phân loại, thu gom, tái chế và tối ưu bao bì giúp giảm tác động môi trường, quản lý và sử dụng tài nguyên nước hiệu quả. Đồng thời, các sáng kiến kinh tế tuần hoàn góp phần kéo dài vòng đời sản phẩm, thúc đẩy tiêu dùng có trách nhiệm và hỗ trợ mục tiêu phát triển bền vững dài hạn. | 13 [ROW] Trách Nhiệm Sản Phẩm & Niềm Tin Khách Hàng | MWG đảm bảo chất lượng, an toàn và minh bạch thông tin sản phẩm thông qua kiểm soát chuỗi cung ứng, truy xuất nguồn gốc và truyền thông có trách nhiệm; cải tiến quy trình quản trị nội dung nhằm nâng cao mức độ minh bạch, giảm thiểu rủi ro thông tin và củng cố niềm tin của người tiêu dùng. [ROW] Phát Triển Con Người & An Toàn Lao Động | MWG đảm bảo môi trường làm việc an toàn, công bằng và phát triển thông qua đào tạo, phúc lợi và chăm sóc sức khỏe, giúp nâng cao năng suất, gắn kết nhân viên và hỗ trợ tăng trưởng bền vững. [ROW] Bảo Mật Dữ Liệu & An Toàn Thông Tin | MWG thực hiện bảo vệ dữ liệu và quyền riêng tư thông qua hệ thống bảo mật, tuân thủ pháp luật và đào tạo nhân viên, giúp giảm rủi ro an ninh mạng và củng cố niềm tin các bên liên quan. [ROW] Tác Động Kinh Tế & Trách Nhiệm Xã Hội | MWG đóng góp ngân sách, thúc đẩy tăng trưởng kinh tế và triển khai các chương trình cộng đồng về sức khỏe, giáo dục và tài chính, góp phần phát triển xã hội bền vững. [ROW] Đạo Đức Kinh Doanh & Quản Lý Tuân Thủ | MWG thực hiện quản trị minh bạch, chống tham nhũng và kiểm soát tuân thủ nhằm giảm rủi ro, bảo vệ cổ đông và củng cố niềm tin các bên liên quan. [ROW] Quản Lý Trách Nhiệm Với Nhà Cung Cấp, Đối tác | MWG tích hợp ESG vào quy trình quản lý trách nhiệm các đối tác cung ứng nhằm đảm bảo chất lượng sản phẩm, giảm rủi ro và xây dựng chuỗi cung ứng minh bạch, bền vững. | 12",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 0.623009,
+        "E3": 1.0,
+        "G10": 0.5,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "G10",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 3,
+        "E3": 3,
+        "G10": 1,
+        "G9": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

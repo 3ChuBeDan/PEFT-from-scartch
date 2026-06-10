@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Quy trình sản xuất của chúng tôi tạo ra một lượng nhỏ nước thải và chất thải công nghiệp khác. Để đảm bảo tuân thủ các quy định hiện hành, tại tất cả các nhà máy, chúng tôi đã lắp đặt thiết bị bảo vệ môi trường và thực hiện tái chế một số loại chất thải, bao gồm cả chất thải rắn, lỏng và khí.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Masan Consumer đã đầu tư xây dựng hệ thống xử lý nước thải hiện đại do đối tác Hà Lan thiết kế cho các nhà máy ở Bình Dương, Hải Dương và Nghệ An. Chúng tôi sử dụng 800.000 m 3 nước cho sản xuất công nghiệp và dân sinh trong năm 2016, toàn bộ nước thải được xử lý bằng hệ thống xử lý nước thải công nghệ cao có công suất 5.000 m 3/ngày. Khoảng 5% lượng nước thải được tái sử dụng để tưới cây và lau dọn nhà máy. Kết quả kiểm ra chất lượng nước thải sau xử lý đều đạt chuẩn A, tiêu chuẩn cao nhất tại Việt Nam và đạt tiêu chuẩn ISO 14001 về quản lý môi trường. Masan Consumer cũng là một trong những đơn vị tiên phong trong minh bạch hóa quy trình xử lý nước thải thông qua việc lắp đặt hệ thống quan trắc nước thải tự động, báo cáo trực tiếp và liên tục với Sở Tài nguyên và Môi trường Bình Dương.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "extracted_count": 11,
+  "extracted": [
+    {
+      "paragraph_id": 402,
+      "text": "Năm 2024, trong bối cảnh nền kinh tế gặp nhiều khó khăn cùng với việc chuyển đổi các sản phẩm/dịch vụ sang kênh Số, khả năng phát sinh rủi ro hoạt động, đặc biệt là rủi ro gian lận có xu hướng tăng lên, được sự ủng hộ của Ban lãnh đạo Ngân hàng, MB đã triển khai và hoàn thành dự án Dự án Phòng chống tội phạm tài chính (FCRM) với 02 trụ cột chính là Phòng chống gian lận và Phòng chống rửa tiền , trở thành một trong những ngân hàng tiên phong trong việc ứng dụng hệ thống công nghệ thông tin toàn diện và hiện đại, cũng như các phương pháp luận tiên tiến trên thế giới về phòng chống gian lận, phòng chống rửa tiền; bảo vệ ngân hàng và Khách hàng khỏi các rủi ro phát sinh từ các hoạt động tội phạm tài chính, đặc biệt là các tội phạm sử dụng công nghệ cao và mạng Internet như gian lận trực tuyến, tấn công mạng, và rửa tiền qua các đồng tiền kỹ thuật số... Hệ thống có khả năng phân tích dữ liệu lớn để phát hiện tội phạm gian lận, rửa tiền trên đa dạng các mảng hoạt động Ngân hàng; giúp đảm bảo an toàn cho giao dịch của khách hàng và ngân hàng. Hệ thống kết hợp giữa rule base và mô hình máy học, kết hợp giữa giám sát realtime, near realtime và batch để tăng tính chính xác, kịp thời, toàn diện của cảnh báo. Các mô hình và kịch bản giám sát của hệ thống đều đang đạt chỉ tiêu kiểm soát chất lượng ở mức tốt so với thông lệ thị trường (tỷ lệ phát hiện chủ động cao, tỷ lệ cảnh báo giả thấp).",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 9
+      }
+    },
+    {
+      "paragraph_id": 404,
+      "text": "Rủi ro gian lận, phòng chống rửa tiền và tài trợ khủng bố",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 418,
+      "text": "Hoạt động PCRT dựa trên 2 trụ cột chính là Nhận biết Khách hàng và Giám sát giao dịch của khách hàng. Quá trình nhận biết khách hàng gồm thu thập, xác minh, cập nhật thông tin khách hàng và phân loại rủi ro được các Chi nhánh quản lý khách hàng của MB triển khai và thực hiện một cách thận trọng, thường xuyên, liên tục. Quá trình giám sát giao dịch khách hàng được thực hiện trước/trong/sau giao dịch nhằm phát hiện, từ chối các giao dịch không thuộc chính sách chấp nhận giao dịch của MB và cảnh báo liên tục các trường hợp đáng ngờ lợi dụng sản phẩm/dịch vụ ngân hàng cho các hoạt động rửa tiền. Việc thực thi hiệu quả không thể thiếu công cụ được trang bị tới các cán bộ nhân viên nhằm hỗ trợ quá trình thực hiện. Theo đó, Hệ thống Phòng chống rửa tiền của MB được cung cấp bởi đối tác hàng đầu trên thế giới (Oracle) với đầy đủ các cấu phần giúp nhận biết Khách hàng trong suốt quá trình quan hệ của KH tại MB và giám sát giao dịch của khách hàng với các loại danh sách cấm vận/cảnh báo và các kịch bản đáng ngờ về giao dịch giúp quản trị rủi ro RT & TTKB & TTPBVKHDHL và vi phạm cấm vận nhanh chóng, hiệu quả, tiệm cận với thông lệ tiên tiến của quốc tế.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 2241,
+      "text": "[TABLE] [CONTEXT] section: Danh mục từ viết tắt ; column_headers: AI | Trí tuệ nhân tạo | CQQLNN | Cơ quan quản lý nhà nước | KYC | Đinh danh khách hàng (Know Your Customer) | QTCT | Quản trị công ty [ROWS] AI | Trí tuệ nhân tạo | CQQLNN | Cơ quan quản lý nhà nước | KYC | Đinh danh khách hàng (Know Your Customer) | QTCT | Quản trị công ty [ROW] ALM | Quản lý cân bằng giữa tài sản và nguồn vốn | CRM | Máy nộp và rút tiền tự động | LCR | Loan coverage ratio (Tỷ lệ bao phủ nợ xấu) | QTKD | Quản trị kinh doanh [ROW] AMC | Công ty TNHH Quản lý Nợ và Khai thác Tài sản Ngân hàng TMCP Quân Đội | CSAT | Chỉ số hài lòng của khách hàng | LDR | Tổng dư nợ cho vay/ nguồn vốn huy động | QTRR | Quản trị rủi ro [ROW] API | Giao diện lập trình ứng dụng | CSR | Trách nhiệm xã hội của doanh nghiệp | LGD | Tỷ trọng tổn thất ước tính | RM | Quan hệ khách hàng [ROW] APP MB | App dành cho khách hàng cá nhân của MB | CTTV | Công ty thành viên | LNTT | Lợi nhuận trước thuế | ROA | Tỷ suất lợi nhuận /tổng tài sản [ROW] ASEAN | Hiệp hội các Quốc gia Đông Nam Á | ĐGD | Điểm giao dịch | LNG | Liên Ngân hàng | ROE | Tỷ lệ lợi nhuận/ Vốn chủ sở hữu [ROW] ATM | Máy rút tiền tự động | ĐHĐCĐ | Đại hội đồng cổ đông | MB247 | Tổng đài giải đáp hỗ trợ khách hàng 24/7 | RPA | Tự động hóa quy trình bằng rô-bốt [ROW] AUM | Tổng tài sản quản lý | ĐVKD | Đơn vị kinh doanh | MTV | Một thành viên | RRHĐ | Rủi ro hoạt động [ROW] BaaS | Banking as a Service | eKYC | Định danh khách hàng điện tử (Electronic Know Your Customer) | Net-zero | Phát thải ròng bằng “0” | RT | Rửa tiền [ROW] BCTC | Báo cáo tài chính | ESG | Môi trường – Xã hội - Quản trị | NFC | Xác thực sinh trắc học | SBV | Ngân hàng nhà nước Việt Nam [ROW] BCTN | Báo cáo thường niên | ESOP | Phát hành cổ phiếu cho CBNV trong ngân hàng | NFI | Thu nhập phí thuần | SCF | Tài chính chuỗi cung ứng [ROW] BĐH | Ban điều hành | EU | Liên minh Châu Âu EU | NH | Ngân hàng | SKD | Sản xuất kinh doanh [ROW] BĐS | Bất động sản | EVN | Tập đoàn Điện lực Việt Nam | NHNN | Ngân hàng nhà nước | SME | Doanh nghiệp vừa và nhỏ [ROW] BHXH | Bảo hiểm xã hội | FCRM | Quản trị rủi ro phòng chống tội phạm tài chính | NHQG | Ngân hàng quốc gia | SVCK | So với cùng kỳ [ROW] BIZ MB | App dành cho khách hàng doanh nghiệp của MB | FDI | Vốn đầu tư nước ngoài | NHTM | Ngân hàng thương mại | TC&TP | Tiêu cực và tội phạm [ROW] BKS | Ban kiểm soát | FTA | Hiệp định thương mại tự do | NHTMCP | Ngân Hàng thương mại cổ phần | TCT | Tổng công ty [ROW] BLĐ | Ban lãnh đạo | FYPB | Doanh số bán mới | NHTW | Ngân hàng trung ương | TCTD | Tổ chức tín dụng [ROW] BMFF | Quỹ Đầu tư tăng trưởng Bordier - MB Flagship | GCC | Hội đồng điều phối Tập đoàn | NIM | Tỷ lệ thu nhập lãi thuần/Biên lãi ròng | TGĐ | Tổng giám đốc [ROW] BQP | Bộ quốc phòng | GĐ | Giám đốc | NII | Thu nhập lãi thuần | TMCP | Thương mại cổ phần [ROW] BRICS | Khối BRICS | GDP | Tổng sản phẩm quốc nội | NPL | Tỷ lệ nợ xấu | TNHH | Trách nhiệm hữu hạn [ROW] CAGR | Mức tăng trưởng bình quân | GRI | Tổ chức Sáng kiến Báo cáo Toàn cầu | NPS | Chỉ số trung thành của khách hàng | TOI | Tổng thu nhập hoạt động [ROW] CAR | Tỷ lệ an toàn vốn | GSO | Tổng cục thống kê Việt Nam | NPTQTCT | Người phụ trách quản trị công ty | TP TCKT | Trái phiếu Tổ chức kinh tế [ROW] CASA | Tỷ lệ tiền gửi không kỳ hạn | GTCG | Giấy tờ có giá | NQ | Nghị quyết | TPDN | Trái phiếu doanh nghiệp [ROW] CBNV | Cán bộ nhân viên | HĐQT | Hội đồng quản trị | NSFR | Tỷ lệ nguồn vốn ổn định ròng | TTKB | Tài trợ khủng bố [ROW] CBQL | Cán bộ quản lý | ICAAP | Quy trình đánh giá tính đầy đủ vốn nội bộ | NSLĐ | Năng suất lao động | TTPBVKHDHL | Tài trợ phổ biến vũ khí hủy diệt hàng loạt [ROW] CCCD | Căn cước công dân | ICMA | Hiệp hội thị trường vốn quốc tế | NSNN | Ngân sách nhà nước | TTTM | Tài trợ thương mại [ROW] CCTG | Chứng chỉ tiền gửi | IFRS | Chuẩn mực báo cáo tài chính quốc tế | OCR | Trích xuất dữ liệu tự động | TV | Thành viên [ROW] CĐ | Cổ đông | IMF | Qũy tiền tệ quốc tế | PCRT | Phòng chống rửa tiền | UB | Chuyên viên chăm sóc khách hàng [ROW] CEO | Tổng giám đốc | IB | Ngân Hàng Đầu tư | PCTN | Phòng, chống tham nhũng | UBCKNN | Uỷ ban chứng khoán nhà nước [ROW] CES | Chỉ số nỗ lực/dễ dàng tiếp cận sản phẩm của ngân | IR | Hoạt động Quan hệ Nhà đầu tư | PD | Xác suất vỡ nợ | UBKT | Uỷ ban kiểm toán [ROW] CGBB | hàng Chuyển giao bắt buộc | ISO | Tổ chức tiêu chuẩn hóa quốc tế | PDTĐ | Phê duyệt tự động | UN | Liên hợp quốc [ROW] CIB | Khối khách hàng lớn | ISO/IEC | Các hệ thống quản lí an toàn thông tin | POS | Máy bán hàng cầm tay | VBMA | Hiệp hội Thị trường Trái phiếu Việt Nam [ROW] CIR | Tỷ lệ chi phí hoạt động trên tổng thu nhập hoạt động | KH | Khách hàng | PTBV | Phát triển bền vững | VĐL | Vốn điều lệ [ROW] CN/PGD | Chi nhánh/ Phòng giao dịch | KHCN | Khách hàng cá nhân | PTGĐ | Phó tổng giám đốc | XNK | Xuất nhập khẩu [ROW] CNTT | Công nghệ thông tin | KHDN | Khách hàng doanh nghiệp | QĐ | Quyết định | YEA | Tỷ suất tài sản sinh lời [ROW] COF | Chi phí vốn | KKH BQ | Không kỳ hạn bình quân | QĐNB | Quy định nội bộ [ROW] Ủy ban Chống gian lận khi lập BCTC thuộc Hội đồng | KNK | Khí nhà kính | QĐPL | Quy định pháp luật [ROW] COSO | quốc gia Hoa Kỳ Chỉ số giá tiêu dùng | KSV | Kiểm soát viên | QLRR | Quản lý rủi ro [ROW] CPI CQ KTT | Cơ quan Kinh tế trưởng | KTNB | Kiểm toán nội bộ | QR | Mã phản hồi nhanh",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "G11": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "E1",
+        "G11",
+        "G9"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "G11": 3,
+        "G9": 1
+      }
+    },
+    {
+      "paragraph_id": 2313,
+      "text": "[TABLE] [CONTEXT] section: Các chỉ tiêu tài chính chủ yếu của MB năm 2024 ; column_headers: Năm 2023 | Năm 2024 | % Tăng / (Giảm) ; row_headers: Vốn điều lệ | Vốn chủ sở hữu | Tổng Tài sản | Tỷ lệ an toàn vốn (CAR) | Huy động vốn (bao gồm CCTG) | Tổng dư nợ tín dụng (gồm Dư nợ & TPDN) | Nợ quá hạn | Nợ khó đòi | Tỷ lệ bao phủ nợ xấu | Tỷ lệ nợ quá hạn / Tổng dư nợ | Tỷ lệ nợ xấu / Tổng dư nợ | Doanh thu | Thu nhập lãi thuần | Tỷ lệ thu nhập lãi thuần (NIM) | Chi phí vốn (COF)** | Tỷ lệ chi phí hoạt động trên tổng thu nhập hoạt động (CIR) | Chi phí dự phòng/Doanh thu | Tỷ lệ lợi nhuận trên tổng tài sản (ROA) | Tỷ lệ lợi nhuận trên vốn chủ sở hữu (ROE) | Tỷ lệ dự trữ thanh khoản * | Tỷ lệ tổng dư nợ cho vay trên nguồn vốn huy động (LDR) * | Tỷ lệ vốn ngắn hạn cho vay trung dài hạn * | Lãi cơ bản trên cổ phiếu (EPS) | Hệ số giá trên lợi nhuận (P/E) | Giá trị sổ sách của một cổ phiếu (BVPS) | Hệ số giá/Giá trị sổ sách (P/B) [ROWS] Chỉ tiêu | Năm 2023 | Năm 2024 | % Tăng / (Giảm) [ROW] 1. Quy mô tài sản và nguồn vốn [ROW] Vốn điều lệ | 52.141 | 53.063 | 1,8% [ROW] Vốn chủ sở hữu | 96.711 | 117.060 | 21% [ROW] Tổng Tài sản | 944.954 | 1.128.801 | 19,5% [ROW] Tỷ lệ an toàn vốn (CAR) | 10,75% | 11,8% | 1,0% [ROW] 2. Kết quả hoạt động kinh doanh [ROW] Huy động vốn (bao gồm CCTG) | 671.154 | 805.674 | 20,0% [ROW] Tổng dư nợ tín dụng (gồm Dư nợ & TPDN) | 651.346 | 811.142 | 24,5% [ROW] Nợ quá hạn | 23.723 | 24.782 | 4,5% [ROW] Nợ khó đòi | 9.805 | 12.585 | 28,4% [ROW] Tỷ lệ bao phủ nợ xấu | 117% | 92,2% | (24,8%) [ROW] Tỷ lệ nợ quá hạn / Tổng dư nợ | 3,9% | 3,2% | (0,7%) [ROW] Tỷ lệ nợ xấu / Tổng dư nợ | 1,6% | 1,6% | 0,0% [ROW] 3. Hiệu quả kinh doanh [ROW] Doanh thu | 47.036 | 55.413 | 17,1% [ROW] Thu nhập lãi thuần | 38.684 | 41.152 | 6,4% [ROW] Tỷ lệ thu nhập lãi thuần (NIM) | 4,9% | 4,1% | (0,8%) [ROW] Chi phí vốn (COF)** | 4,3% | 3,2% | (1,2%) [ROW] Tỷ lệ chi phí hoạt động trên tổng thu nhập hoạt động (CIR) | 31,5% | 30,7% | (0,8%) [ROW] Chi phí dự phòng/Doanh thu | 12,9% | 17,3% | 4,4% [ROW] Tỷ lệ lợi nhuận trên tổng tài sản (ROA) | 2,5% | 2,2% | (0,3%) [ROW] Tỷ lệ lợi nhuận trên vốn chủ sở hữu (ROE) | 23,9% | 21,5% | (2,4%) [ROW] 4. Các chỉ tiêu thanh khoản [ROW] Tỷ lệ dự trữ thanh khoản * | 16,7% | 13,5% | (3,2%) [ROW] Tỷ lệ tổng dư nợ cho vay trên nguồn vốn huy động (LDR) * | 76,4% | 81,1% | 4,7% [ROW] Tỷ lệ vốn ngắn hạn cho vay trung dài hạn * | 26,1% | 26,9% | 0.8% [ROW] 5. Cổ phiếu [ROW] Lãi cơ bản trên cổ phiếu (EPS) | 3.164 | 3.724 | 560 [ROW] Hệ số giá trên lợi nhuận (P/E) | 5,02 | 5,86 | 16,9% [ROW] Giá trị sổ sách của một cổ phiếu (BVPS) | 18.548 | 22.060 | 18,9% [ROW] Hệ số giá/Giá trị sổ sách (P/B) | 1,01 | 1,14 | 13,2%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "paragraph_id": 2322,
+      "text": "[TABLE] [CONTEXT] section: CÁC CHỦ ĐỀ ESG TRỌNG YẾU ; column_headers: TT | Chủ đề | Ý nghĩa | Tham chiếu UN SDG [ROWS] TT | Chủ đề | Ý nghĩa | Tham chiếu UN SDG [ROW] 1 | Tài chính xanh | Tài chính xanh tại MB được thể hiện qua các hoạt động tài chính, đầu tư vào các lĩnh vực năng lượng tái tạo, hỗ trợ các ngành nghề/lĩnh vực thân thiện/giảm tác động tiêu cực đến môi trường, đầu tư xanh và trái phiếu xanh. [ROW] 2 | Tài chính toàn diện | MB thúc đẩy hoạt động ngân hàng trở nên dễ tiếp cận tới mọi phân khúc khách hàng cá nhân, mọi khu vực địa lý; hỗ trợ doanh nghiệp trong mọi giai đoạn tăng trưởng đi đôi với sự an toàn, hiệu quả và bền vững. [ROW] 3 | Trải nghiệm khách hàng | MB hướng đến xây dựng các trải nghiệm xuất sắc - Xuất phát từ nhu cầu và vươn tới kỳ vọng của khách hàng. [ROW] 4 | Giảm phát thải | MB triển khai các sáng kiến giảm tác động đến môi trường, liên quan đến nỗ lực giảm phát thải khí nhà kính theo phạm vi 1 và 2 trong hoạt động của ngân hàng. [ROW] 5 | Quản lý rủi ro ESG, bao gồm rủi ro khí hậu | Những nỗ lực nhằm nhận diện, đánh giá và giảm thiểu rủi ro ESG, bao gồm rủi ro liên quan đến biến đổi khí hậu, gồm hiểu biết tác động tiềm ẩn của các yếu tố liên quan đến khí hậu trong hoạt động, tài sản và ổn định tài chính của ngân hàng; thực hiện các biện pháp thích ứng, góp phần chuyển đổi sang nền kinh tế carbon thấp. [ROW] 6 | Giáo dục & Đào tạo | Bao gồm đào tạo, nâng cao kỹ năng của nhân viên về các kiến thức kĩ năng cần thiết, bao gồm nội dung phát triển bền vững, và phương pháp đánh giá hiệu suất, phát triển nghề nghiệp. [ROW] 7 | Đóng góp cho cộng đồng | MB thực hiện đóng góp cho sự phát triển của quốc gia, của cộng đồng, thể hiện qua cam kết và các hoạt động có trách nhiệm với xã hội bên cạnh các hoạt động kinh doanh cốt lõi. [ROW] 8 | Đạo đức kinh doanh | MB hướng tới các chuẩn mực đạo đức kinh doanh như Quy tắc ứng xử, cạnh tranh lành mạnh..., thực hiện và báo cáo minh bạch theo các thông lệ tốt. [ROW] 9 | Tuân thủ quy định | Tinh thần “Thượng tôn Pháp luật” tại MB thể hiện ở cam kết tuân thủ quy định luật pháp, gồm các quy định môi trường - xã hội, thực hành quản trị tốt ... [ROW] 10 | Chuyển đổi số | Quá trình MB chuyển đổi số, thúc đẩy số hóa các sản phẩm dịch vụ, cho phép khách hàng trải nghiệm sản phẩm, dịch vụ có ứng dụng công nghệ, mọi lúc mọi nơi, hạn chế đi lại; hỗ trợ ngân hàng điều chỉnh quy trình kinh doanh và thực hành phát triển bền vững một cách hiệu quả hơn. [ROW] 11 | An ninh mạng | MB thúc đẩy văn hóa, nhận thức về an ninh mạng, bảo vệ tài sản của ngân hàng khỏi các mối đe dọa và duy trì niềm tin của khách hàng, thông qua đào tạo về an ninh mạng giúp nhân viên nhận biết, ứng phó hiệu quả với các mối đe dọa tiềm ẩn cũng như báo cáo hoạt động/sự cố bất thường. [ROW] 12 | Quản trị dữ liệu | MB thực hiện quản trị dữ liệu liên quan tới ESG đảm bảo việc công bố thông tin, sử dụng dữ liệu tuân thủ các quy định về an toàn, bảo mật thông tin và có trách nhiệm.",
+      "hard_labels": [
+        "E3",
+        "G10"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0,
+        "G10": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "G10"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3,
+        "G10": 3
+      }
+    },
+    {
+      "paragraph_id": 2345,
+      "text": "[TABLE] [CONTEXT] section: PHÁT TRIỂN NĂNG LỰC CỦA HỘI ĐỒNG QUẢN TRỊ ; column_headers: STT | Tên chương trình | Thời gian | Các thành viên tham gia [ROWS] STT | Tên chương trình | Thời gian | Các thành viên tham gia [ROW] 1 | Hội nghị chuyên đề công tác thanh toán của NHNN | Tháng 1 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 2 | Hội nghị chuyên đề về công tác điều chỉnh chính sách tiền tệ, tín dụng, ngoại hối, Thanh tra giám sát, tái cơ cấu, xử lý nợ xấu và hoàn thiện thể chế của NHNN | Tháng 1 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 3 | Hội nghị đẩy mạnh tín dụng thúc đẩy tăng trưởng kinh tế do NHNN tổ chức | Tháng 2 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 4 | Hội thảo trực tuyến “Giải pháp An ninh Mạng 2024” | Tháng 3 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 5 | Tọa đàm với chủ đề “Một số quy định mới của Luật Đất đai 2024 và góp ý các dự thảo Nghị định quy định chi tiết thi hành Luật Đất đai liên quan đến hoạt động ngân hàng | Tháng 3 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 6 | Khóa đào tạo về xây dựng Hệ thống quản lý rủi ro môi trường, khí hậu và xã hội trong hoạt động cấp tín dụng của TCTD tại Hà Nội do NHNN tổ chức | Tháng 4 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 7 | Hội thảo chuyên đề Ứng phó trước làn sóng tấn công mạng vào các tổ chức, công ty tài chính do Hiệp hội An ninh mạng Quốc gia tổ chức | Tháng 4 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 8 | Hội thảo \" Giải pháp tháo gỡ vướng mắc trong tiếp cận vốn tín dụng đối với khu vực kinh tế tập thể do NHNN tổ chức | Tháng 4 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 9 | Hội thảo Ứng dụng phương pháp và hệ thống phân tích lợi nhuận đa chiều trong công tác Kế toán quản trị tại các NHTM Việt Nam do Viện Chiến lược - NHNN tổ chức | Tháng 5 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 10 | Hội thảo “Ứng dụng trí tuệ nhân tạo (AI) trong Phòng chống tội phạm tài chính” | Tháng 5 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 11 | Tọa đàm thực hành báo cáo phát triển bền vững do NHNN tổ chức | Tháng 6 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 2346,
+      "text": "[TABLE] [CONTEXT] section: PHÁT TRIỂN NĂNG LỰC CỦA HỘI ĐỒNG QUẢN TRỊ ; column_headers: STT | Tên chương trình | Thời gian | Các thành viên tham gia [ROWS] STT | Tên chương trình | Thời gian | Các thành viên tham gia [ROW] 12 | Hội thảo Khoa học của NHNN về Phát triển lành mạnh tín dụng tiêu dùng, đẩy lùi \"tín dụng đen\" | Tháng 7 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 13 | Tọa đàm về “Xử lý nợ xấu - Thực trạng và giải pháp” do Hiệp hội Ngân hàng tổ chức | Tháng 8 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 14 | Tọa đàm của NHNN về quản lý rủi ro trong hoạt động cho vay doanh nghiệp vừa và nhỏ | Tháng 8 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 15 | Hội nghị trực tuyến chuyên đề của Ủy ban Quốc gia về chuyển đổi số \"Nâng cao hiệu quả cung cấp và sử dụng dịch vụ công trực tuyến” | Tháng 8 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 16 | Hội thảo “Chiến thắng cuộc đua thanh toán số trong ngành Tài chính Ngân hàng” do Hiệp hội Ngân hàng tổ chức | Tháng 9 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 17 | Hội nghị trực tuyến của NHNN về công tác kiểm soát, kiểm toán và kiểm tra nội bộ của các Tổ chức tín dụng năm 2024 | Tháng 10 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 18 | Hội thảo của NHNN về tín dụng cho nông nghiệp ứng dụng công nghệ cao, nông nghiệp sạch tại Việt Nam: Thực trạng và giải pháp | Tháng 11 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 19 | Hội thảo ESG trên thị trường chứng khoán Việt Nam - Thực tiễn và giải pháp theo kế hoạch cụ thể do UBCK NN tổ chức | Tháng 11 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 20 | Hội thảo “Phòng chống gian lận 2024: Đổi mới chiến lược phòng chống rủi ro gian lận với AI/ML” do Hiệp hội Ngân hàng tổ chức/ | Tháng 11 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu [ROW] 21 | Hội thảo ESG (nội bộ) | Tháng 12 | Thành viên HĐQT và các Uỷ ban, Các thành viên khác theo yêu cầu",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 2367,
+      "text": "[TABLE] [CONTEXT] section: 4.5 Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro ; column_headers: Nhóm nợ | Phân loại nợ theo phương pháp định lượng | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Phân loại nợ theo phương pháp định lượng | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) (b) | Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy | 0% [ROW] 2 | Nợ cần chú ý | (a) (b) (c) | Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc Nợ điều chỉnh kỳ hạn trả nợ lần đầu. Nợ được phân loại vào nhóm 2 theo quy định tại Khoản 2, Khoản 3 | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) (b) (c) (d) (e) (f) (g) (h) | Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc Nợ gia hạn nợ lần đầu; hoặc Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các Khoản 1, 3, 4, 5, 6 Điều 134 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các Khoản 1, 2, 3, 4 Điều 135 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các Khoản 1, 2, 5, 9 Điều 136 Luật các tổ chức tín dụng. Khoản nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc Nợ được phân loại vào nhóm 3 theo quy định tại Khoản 2, Khoản 3 Điều 10 Thông tư 31; hoặc Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của ngân hàng, tổ chức tín dụng phi ngân hàng do khách hàng vi phạm thỏa thuận với ngân hàng, tổ chức tín dụng phi ngân hàng chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc Khoản nợ phải phân loại vào nhóm 3 theo quy định tại Khoản 4 Điều 8 | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 2489,
+      "text": "[TABLE] [CONTEXT] section: Mục lục GRI ; column_headers: Tiêu chuẩn GRI | Chỉ số GRI | Trang [ROWS] Tiêu chuẩn GRI | Chỉ số GRI | Trang [ROW] GRI 303: Nước và nước thải 2018 | 303-1 Tương tác với nước như một nguồn tài nguyên chung | 188-189 [ROW] 303-2 Quản lý các tác động liên quan đến xả nước [ROW] 303-3 Nước đầu vào | 188-189 [ROW] 303-4 Nước thải | 189 [ROW] 303-5 Nước tiêu thụ | 188-189 [ROW] GRI 304: Đa dạng sinh học 2016 | 304-1 Các cơ sở hoạt động được sở hữu, cho thuê, quản lý trong, hoặc gần kề các khu vực được bảo tồn và các khu vực đa dạng sinh học cao bên ngoài các khu được bảo tồn [ROW] 304-2 Tác động đáng kể của các hoạt động, sản phẩm và dịch vụ đối với đa dạng sinh học [ROW] 304-3 Các môi trường sống được bảo tồn hoặc phục hồi [ROW] 304-4 Các loài trong Sách Đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trường sống trong các khu vực chịu ảnh hưởng bởi các hoạt động [ROW] GRI 305: Phát thải 2016 | 305-1 Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) [ROW] 305-2 Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) | 186 [ROW] 305-3 Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) [ROW] 305-4 Thâm dụng phát thải khí nhà kính (GHG) [ROW] 305-5 Giảm phát thải khí nhà kính (GHG) | 186 [ROW] 305-6 Phát thải chất phá hủy tầng ô-zôn (ODS) [ROW] 305-7 Nitrogen oxides (NOx), sulfur oxides (SOx) và các phát thải khí đáng kể khác [ROW] GRI 306: Nước thải và chất thải 2016 | 306-3 Sự cố tràn đáng kể [ROW] GRI 306: Chất thải 2020 | 306-1 Phát sinh chất thải và các tác động đáng kể liên quan đến chất thải [ROW] 306-2 Quản lý các tác động đáng kể liên quan đến chất thải [ROW] 306-3 Chất thải phát sinh | 187 [ROW] 306-4 Chất thải được chuyển hướng khỏi việc thải bỏ [ROW] 306-5 Chất thải được xử lý | 187",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 12,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 2491,
+      "text": "[TABLE] [CONTEXT] section: Mục lục GRI ; column_headers: Tiêu chuẩn GRI | Chỉ số GRI | Trang [ROWS] Tiêu chuẩn GRI | Chỉ số GRI | Trang [ROW] GRI 406: Không phân biệt đối xử 2016 | 406-1 Các vụ việc phân biệt đối xử và các hành động khắc phục đã thực hiện | 199 [ROW] GRI 407: Tự do lập hội / Quyền tham gia công đoàn và Thương lượng tập thể 2016 | 407-1 Các hoạt động và các nhà cung cấp mà ở đó quyền tự do lập hội/ quyền tham gia công đoàn và thương lượng tập thể có thể gặp rủi ro | 199 [ROW] GRI 408: Lao động trẻ em 2016 | 408-1 Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động trẻ em | 199 [ROW] GRI 409: Lao động cưỡng bức hoặc bắt buộc 2016 | 409-1 Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc | 199 [ROW] GRI 410: Thông lệ về an ninh 2016 | 410-1 Nhân viên an ninh được đào tạo về các quy trình hoặc chính sách liên quan đến quyền con người [ROW] GRI 411: Quyền của Người Bản địa 2016 | 411-1 Các vụ vi phạm liên quan đến quyền của người bản địa [ROW] GRI 413: Cộng đồng địa phương 2016 | 413-1 Những hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển | 200-201 [ROW] 413-2 Những hoạt động có tác động tiêu cực tiềm ẩn và tác động tiêu cực thực tế đáng kể tới cộng đồng địa phương [ROW] GRI 414: Đánh giá Nhà cung cấp về mặt Xã hội 2016 | 414-1 Các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về mặt xã hội [ROW] 414-2 Các tác động xã hội tiêu cực trong chuỗi cung ứng và các hành động đã thực hiện [ROW] GRI 415: Chính sách công 2016 | 415-1 Đóng góp chính trị [ROW] GRI 416: Sức khỏe và An toàn của Khách hàng 2016 | 416-1 Đánh giá tác động về sức khỏe và an toàn của các loại sản phẩm và dịch vụ [ROW] 416-2 Các vụ việc không tuân thủ liên quan đến tác động sức khỏe và an toàn của các sản phẩm và dịch vụ [ROW] GRI 417: Tiếp thị và Nhãn hiệu 2016 | 417-1 Các yêu cầu đối với thông tin nhãn hiệu, sản phẩm và dịch vụ [ROW] 417-2 Các vụ việc không tuân thủ liên quan đến thông tin và nhãn hiệu của sản phẩm và dịch vụ [ROW] 417-3 Các vụ việc không tuân thủ liên quan đến truyền thông tiếp thị [ROW] GRI 418: Quyền bảo mật thông tin khách hàng 2016 | 418-1 Khiếu nại có căn cứ về việc vi phạm Quyền bảo mật thông tin khách hàng và mất dữ liệu khách hàng | 206",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "S4": 4,
+        "S6": 4
+      }
+    }
+  ]
+}

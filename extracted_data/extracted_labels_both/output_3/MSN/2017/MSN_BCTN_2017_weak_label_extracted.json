@@ -1,0 +1,86 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 261,
+      "text": "Quy trình sản xuất của chúng tôi tạo ra một lượng nhỏ nước thải và chất thải công nghiệp khác. Để đảm bảo tuân thủ các quy định hiện hành, tại tất cả các nhà máy, chúng tôi đã lắp đặt thiết bị quan trắc môi trường và thực hiện tái chế một số loại chất thải (bao gồm cả chất thải rắn, lỏng và khí).",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 274,
+      "text": "Masan Consumer Holdings đã đầu tư xây dựng hệ thống xử lý nước thải hiện đại do đối tác Hà Lan thiết kế cho các nhà máy ở Bình Dương, Hải Dương và Nghệ An. Kết quả kiểm ra chất lượng nước thải sau xử lý đều đạt chuẩn A, tiêu chuẩn cao nhất tại Việt Nam và đạt tiêu chuẩn ISO 14001 về quản lý môi trường. Masan Consumer cũng là một trong những đơn vị tiên phong trong minh bạch hóa quy trình xử lý nước thải thông qua việc lắp đặt hệ thống quan trắc nước thải tự động, báo cáo trực tiếp và liên tục với Sở Tài nguyên và Môi trường Bình Dương.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 276,
+      "text": "Trong năm 2017, Masan Resources đã hoàn thành phân tích 100% mẫu môi trường với tổng số 9.193 mẫu, trong đó có 8.789 mẫu nước, 111 mẫu đất và quặng đuôi, 53 mẫu chất thải rắn và 240 mẫu khí thải. Đồng thời, Masan Resources đã hoàn thành xây dựng nhà tập kết chất thải nguy hại mới; lắp đặt thiết bị quan trắc mực nước ngầm tự động cho năm hố khoan, và hiện đang hoàn thiện việc lắp đặt trạm quan trắc nước thải tự động và quan trắc khí thải tự động.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 277,
+      "text": "Masan Resources cũng đã hoàn thiện chương trình quản lý chất thải nghiêm ngặt, tuân thủ các quy định và yêu cầu pháp lý về bảo vệ môi trường của Việt Nam. Tổng cộng có 2.962 tấn chất thải nói chung đã được chúng tôi thu gom và chuyển giao cho nhà thầu xử lý, gồm có chất thải tái chế, chất thải nguy hại, chất thải công nghiệp, rác thải sinh hoạt và bùn lắng. Nước thải từ nhà máy sẽ được trung hòa. Kim loại nặng được kết tủa dưới dạng bùn mật độ cao và được làm đặc, nước tràn từ bể lắng được thải qua hồ khử thải và sau đó thải ra môi trường, còn phần lắng còn nằm lại sẽ được giữ ở khu chứa đuôi quặng. Trong năm nay chúng tôi cũng đã xử lý và tái sử dụng 9.390 triệu lít nước, đáp ứng 85% nhu cầu nước của nhà máy.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7
+      }
+    }
+  ]
+}

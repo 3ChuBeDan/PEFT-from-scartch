@@ -1,0 +1,113 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 70,
+      "text": "Tháng 11/2009, Công ty Hệ thống Thông tin FPT ký hợp đồng triển khai hệ thống ERP lớn nhất trong ngành công nghệ thông tin Việt Nam với Tổng công ty Xăng dầu Việt Nam (Petrolimex) trị giá 12,6 triệu USD. Với vai trò tổng thầu, Công ty Cổ phần Hệ thống Thông tin FPT sẽ triển khai hệ thống ERP tại 41 công ty con của Petrolimex ở Việt Nam, 111 điểm triển khai trên toàn quốc, đáp ứng nhu cầu sử dụng cho khoảng 1.300 người dùng. Dự án sẽ triển khai trong vòng 24 tháng. Sau khi hoàn thiện, Petrolimex sẽ có được một hệ thống ERP đạt chuẩn quốc tế, với giải pháp đã triển khai thành công tại hầu hết các tập đoàn lớn nhất thế giới trong ngành xăng dầu như Petrochina, ExxoMobil, Gazprom, Royal Dutch Shell, Sinopec, Petrobras, BP, TOTAL, BHP Billiton, và Chevron.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 72,
+      "text": "Dự án Thuế Thu nhập cá nhân do Công ty Hệ thống Thông tin FPT làm tổng thầu đã hoàn thành giai đoạn phát triển ứng dụng, chuẩn bị thực hiện giai đoạn kiểm thử mức người dùng với 300 kịch bản kiểm tra. Toàn bộ các bước của dự án đều được Tổng cục Thuế nghiệm thu và đánh giá cao. Cho đến thời điểm này, cả Tổng cục Thuế và FPT đều khẳng định dự án chắc chắn sẽ thành công. Ngoài ra, trong năm 2009 , Công ty Hệ thống Thông tin FPT cũng đã hoàn thiện dự án tổng thầu Cung cấp và tích hợp triển khai giải pháp công nghệ thông tin cho Tổng cục Thống kê thực hiện Tổng điều tra dân số và nhà ở, được khách hàng đánh giá là xuất sắc.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 74,
+      "text": "Công ty TNHH Hệ thống Thông tin FPT được chuyển đổi thành Công ty Cổ phần Hệ thống Thông tin FPT với số vốn điều lệ là 350 tỷ VND.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 171,
+      "text": "Ngày 31/07/2009, Công ty TNHH Hệ thống Thông tin FPT được chuyển đổi thành Công ty Cổ phần Hệ thống Thông tin FPT với số vốn điều lệ là 350 tỷ đồng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 352,
+      "text": "Thiết kế và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài chính hợp nhất hợp lý nhằm hạn chế rủi ro và gian lận. động kinh doanh; và · Thiết kế và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu cho mục đích lập và trình bày báo cáo tài chính hợp nhất hợp lý nhằm hạn chế rủi ro và gian lận. Báo cáo thường niên 2009 Báo cáo tài chính 47",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 796,
+      "text": "[TABLE] [CONTEXT] section: Công nghệ thông tin và Viễn thông ; column_headers: Doanh thu* (tỷ VND) | Tăng trưởng so với năm 2008 | Lợi nhuận trước thuế (tỷ VND) ; row_headers: Công ty Cổ phần Viễn thông FPT | Công ty Cổ phần Hệ thống Thông tin FPT | Công ty Cổ phần Phần mềm FPT | Công ty Cổ phần Thương mại FPT | Đại học FPT | Khác** | Tổng số ngành Công nghệ thông tin & Viễn thông [ROWS] Công ty | Doanh thu* (tỷ VND) | Tăng trưởng so với năm 2008 | Lợi nhuận trước thuế (tỷ VND) | Tăng trưởng so với năm 2008 [ROW] Công ty Cổ phần Viễn thông FPT | 1.851,5 | 42,5% | 540,0 | 51,3% [ROW] Công ty Cổ phần Hệ thống Thông tin FPT | 2.994,6 | 8,1% | 414,8 | 29,3% [ROW] Công ty Cổ phần Phần mềm FPT | 746,2 | 4,5% | 209,5 | -6,5% [ROW] Công ty Cổ phần Thương mại FPT | 12.722,2 | 7,7% | 364,3 | -13,4% [ROW] Đại học FPT | 175,9 | 26,5% | 61,2 | 40,3% [ROW] Khác** | 72,8 | 39,7% | 23,3 | 7,4% [ROW] Tổng số ngành Công nghệ thông tin & Viễn thông | 18.563,3 | 10,6% | 1.613,7 | 16,2%",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

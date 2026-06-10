@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 544,
+      "text": "Hiện tại, Công ty đang tuân thủ theo chuẩn mực \"tránh xung đột lợi ích\" của pháp luật Việt Nam. Công ty đang trong quá trình xây dựng Quy chế nội bộ về tránh xung đột lợi ích với mục tiêu là đưa ra các phương pháp tiếp cận để xác định và ngăn chặn hoặc quản lý các xung đột lợi ích có thể phát sinh trong quá trình hoạt động của Công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "paragraph_id": 546,
+      "text": "Chính sách giao dịch với các bên liên quan đang được xây dựng như là một phần trong Quy chế nội bộ về tránh xung đột lợi ích để đảm bảo mọi xung đột lợi ích tiềm ẩn trong giao dịch với các bên liên quan được kiểm soát nghiêm ngặt.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

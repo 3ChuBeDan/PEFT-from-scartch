@@ -1,0 +1,157 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "paragraph_id": 496,
+      "text": "Hoàn tất công tác tái cấu trúc bộ máy hoạt động trên tinh thần quản lý tập trung, điều hành phân c ấp, tinh gọn bộ máy. Xây dựng các công cụ quản trị theo mô hình mới, làm hành lang pháp lý trên tinh thần dân chủ, công khai, minh bạch, tạo cơ chế phối hợp nhịp nhàng hiệu quả giữa công tác quản trị, điều hành và giám sát hoạt động Ngân hàng; cũng như tạo môi trường làm việc thân thiện, gắn bó cho CBNV;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 635,
+      "text": "Xác định các mục tiêu chiến lược, xây dựng chương trình, kế hoạch, biện pháp tổ chức thực hiện công tác phòng, chống tham nhũng, tội phạm và rửa tiền. Tổ chức kiểm tra, giám sát công tác phòng, chống tham nhũng, tội phạm và rửa tiền tại Sacombank; đồng thời nghiên cứu, đề xuất, tham mưu, báo cáo cho HĐQT về phương án xử lý các vụ việc tiêu cực, tham nhũng và những giải pháp nâng cao hiệu quả công tác phòng, chống tham nhũng, tội phạm có liên quan đến hoạt động của Sacombank...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 636,
+      "text": "Xây dựng chương trình, kế hoạch, biện pháp; tổ chức thực hiện công tác phòng, chống rửa tiền. Xem xét, đánh giá tính phù hợp và hiệu quả của các quy định hiện hành của Ngân hàng về phòng, chống rửa tiền; đồng thời tham mưu, đề xuất, khuyến nghị cấp có thẩm quyền về những yêu cầu cần thay đổi...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 653,
+      "text": "Chỉ đạo trong công tác ngăn chặn, xử lý nợ quá hạn và quyết định các giải pháp nhằm xử lý hiệu quả hoạt động tín dụng và ngăn chặn tình trạng nợ quá hạn phát sinh. Tham mưu cho HĐQT quyết định thực hiện việc khoanh nợ, mua, bán khoán nợ quá hạn; chuyển nợ thành vốn góp, cổ phần của khách hàng vay và các phương pháp xử lý, thu hồi nợ quá hạn khác theo quy định pháp luật...",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "paragraph_id": 655,
+      "text": "Tổ chức kiểm tra, giám sát, hỗ trợ Ban TGĐ công tác ngăn chặn, xử lý nợ quá hạn và tham mưu cho Ủy ban Ngăn chặn, xử lý nợ quá hạn và triển khai Nghị quyết 42 và HĐQT các giải pháp nhằm xử lý hiệu quả hoạt động tín dụng và ngăn chặn tình trạng nợ quá hạn phát sinh. Quyết định áp dụng các giải pháp xử lý nợ quá hạn phát sinh trong phạm vi chức năng, nhiệm vụ do HĐQT phân quyền...",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "paragraph_id": 849,
+      "text": "Sacombank thực hiện chi trả thù lao không dựa trên quy tắc về tiền lương tối thiểu vùng mà toàn bộ CBNV tại Sacombank đều được nhận thù lao cao hơn mức lương tối thiểu vùng (tối thiểu cao hơn 7% mức lương tối thiểu Vùng 1). Ngân hàng thực hiện trả lương cho người lao động khác (không bao gồm CBNV) theo sự thỏa thuận giữa Ngân hàng và đối tượng Người lao động này nhưng vẫn đảm bảo cao hơn mức lương tối thiểu Vùng 1.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 4
+      }
+    },
+    {
+      "paragraph_id": 1642,
+      "text": "[TABLE] [CONTEXT] section: BẢNG TUÂN THỦ GRI STANDARDS (tiếp theo) ; column_headers: GRI STANDARDS | THÔNG TIN CÔNG BỐ | NỘI DUNG TRONG BÁO CÁO | TRANG [ROWS] GRI STANDARDS | THÔNG TIN CÔNG BỐ | NỘI DUNG TRONG BÁO CÁO | TRANG [ROW] GRI 409: LAO ĐỘNG CƯỠNG BỨC HOẶC BẮT BUỘC [ROW] 409-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc | Không phát sinh [ROW] GRI 411: QUYỀN CỦA NGƯỜI BẢN ĐỊA [ROW] 411-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc. Các vụ vi phạm liên quan đến quyền của người bản địa | Không phát sinh [ROW] GRI 409: LAO ĐỘNG CƯỠNG BỨC HOẶC BẮT BUỘC [ROW] 409-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc | Không phát sinh [ROW] GRI 413: CỘNG ĐỒNG ĐỊA PHƯƠNG [ROW] 413-1 | Những hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển | Con số và sự kiện | 122-123 [ROW] GRI 416: AN TOÀN VÀ SỨC KHỎE CỦA KHÁCH HÀNG [ROW] 416-1 | Đánh giá tác động về sức khỏe và an toàn của các phân loại sản phẩm hoặc dịch vụ | Không phát sinh [ROW] 416-2 | Các vụ việc không tuân thủ liên quan đến tác động sức khỏe và an toàn của các sản phẩm và dịch vụ",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "S4": 5,
+        "S6": 5
+      }
+    },
+    {
+      "paragraph_id": 1667,
+      "text": "[TABLE] [CONTEXT] section: 4.5 Dự phòng rủi ro tín dụng ; column_headers: Nhóm nợ [ROWS] Nhóm nợ [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc [ROW] (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc [ROW] (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

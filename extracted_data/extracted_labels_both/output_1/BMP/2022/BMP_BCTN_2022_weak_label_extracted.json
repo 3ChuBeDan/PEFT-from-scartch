@@ -1,0 +1,127 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "text": "Hiện nay, các chương trình giảm phát thải khí nhà kính đang là trọng tâm của Việt Nam thông qua các sửa đổi về Luật, Nghị định về Bảo vệ Môi trường. Trong đó có các quy định về việc báo cáo, kiểm kê GHG và thực hiệc các kế hoạch nhằm giảm thiểu nguồn phát thải, qua đó giảm các tác động của môi trường từ khí nhà kính trong các đơn vị sản xuất, dịch vụ.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Trong quá trình hoạt động kinh doanh sản xuất, nhiên liệu sử dụng cho việc vận chuyển hàng hoá nội bộ và sinh hoạt tại công ty không nhiều nên lượng phát thải khí nhà kính trực tiếp chiếm tỷ trọng thấp. Tuy nhiên, điện năng là nguồn năng lượng chủ yếu được sử dụng tại công ty, đây là nguồn phát thải khí nhà kính gián tiếp và chiếm tỷ trọng cao trong tổng số GHG của toàn bộ công ty.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Để đảm bảo nguồn lực cho hoạt động sản xuất kinh doanh, việc chăm lo sức khỏe vật chất và tinh thần cho người lao động luôn là một trong những ưu tiên hàng đầu của Công ty. Chính vì vậy, trong năm 2022 Nhựa Bình Minh đã triển khai nhiều hoạt động cải thiện sức khỏe và tinh thần cho người lao động thông qua:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "l Tổ chức các lớp huấn luyện an toàn, vệ sinh lao động định kỳ hàng năm và thực hiện những buổi chia sẻ về văn hóa an toàn đồng bộ với định hướng của tập đoàn SCG. Điều này góp phần đưa \"văn hóa an toàn\" dần lan tỏa đến nhiều lĩnh vực và mọi vị trí công việc.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "Khí thải: Ngoài khí nhà kính phát thải như đã nêu ở mục 6.1, các hoạt động sản xuất tại công ty không có phát thải các loại khí có hại, không tác động đến môi trường sinh thái và môi trường lao động.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Đại dịch Covid-19 qua đi, nhưng vẫn để lại nhiều khó khăn cho cộng đồng, nhất là các đối tượng yếu thế. Các công tác xã hội của Công ty không chỉ dừng lại ở việc hỗ trợ vật chất mà còn mang lại ý nghĩa tinh thần cho cả đối tượng được hỗ trợ, mang lại cả tinh thần tương thân tương ái cho người lao động trong Công ty, khi chính họ trực tiếp tham gia góp sức vào hoạt động này. Các hoạt động công tác xã hội của Công ty đã nhận được được sự đánh giá cao của cộng đồng địa phương, cũng như sự ủng hộ nhiệt tình của các thành viên trong Công ty. Ở chiều ngược lại, Công ty cũng nhận được các tình cảm quý báu từ cộng đồng nâng cao hình ảnh của Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "x Trong điều kiện nền kinh tế toàn cầu đang rất chú trọng đến các đòi hỏi về những khái niệm và mô hình mới như Kinh tế xanh GE (Green Economy), Kinh tế tuần hoàn CE (Circular Economy), Quản trị công ty CG (Corporate Governance), Môi trường – Xã hội Quản trị ESG (Environmence Society Governance), Công ty đang phải thực hiện những bước chuyển đổi để giữ vị thế doanh nghiệp hàng đầu. Bên cạnh đó, Công ty vẫn phải ưu tiên duy trì và nâng cao hiệu quả kinh doanh để tạo nền tảng tài chính vững chắc cho việc thực hiện những hoạt động trên.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E3": 4
+      }
+    }
+  ]
+}

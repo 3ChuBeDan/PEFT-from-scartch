@@ -1,0 +1,48 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Hội đồng quản trị Tập đoàn tin tưởng rằng với bề dày truyền thống lịch sử của Petrolimex, với định hướng chiến lược kinh doanh đã được chuẩn bị kỹ lưỡng, kế hoạch triển khai phù hợp, cùng với đội ngũ lãnh đạo và cán bộ, công nhân viên tài năng, có ý chí và tinh thần trách nhiệm cao cộng với tinh thần quả cảm, khát vọng tiến lên, Petrolimex chắc chắn sẽ vượt qua mọi khó khăn thách thức để đạt được những thành tựu to lớn trong hoạt động sản xuất kinh doanh, hướng tới một Tập đoàn năng lượng hàng đầu Việt Nam luôn tăng trưởng và phát triển bền vững, cung cấp tới người tiêu dùng những sản phẩm đạt tiêu chuẩn chất lượng cao, thân thiện với môi trường, và được quốc tế luôn biết đến như là một đối tác tin cậy đầy tiềm năng thích ứng với sự phát triển của thời đại.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E5"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E5"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

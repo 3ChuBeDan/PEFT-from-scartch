@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 434,
+      "text": "[TABLE] [CONTEXT] section: 4.7 Các khoản đầu tư ; column_headers: Khoản đầu tư quá hạn : Mức lập dự phòng [ROWS] Khoản đầu tư quá hạn : Mức lập dự phòng [ROW] - Từ 3 năm | 100% khoản nợ quá hạn [ROW] - Từ 2 đến dưới 3 năm | 70% khoản nợ quá hạn [ROW] - Từ 1 năm đến dưới 2 năm 50% khoản nợ quá hạn [ROW] - Từ 3 tháng đến dưới 1 năm 30% khoản nợ quá hạn",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

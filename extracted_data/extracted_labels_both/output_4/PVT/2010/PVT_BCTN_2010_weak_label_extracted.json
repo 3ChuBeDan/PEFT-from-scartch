@@ -1,0 +1,35 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MĂU B 09-DN ; column_headers: 2010 | 2009 | VNĐ | 31/12/2010 | 31/12/2009 ; row_headers: Lương | Thưởng | Tổng Công ty Tài chính Cẩ Dầu khí Việt Nam phần | Tống Công ty Dầu Việt Nam | Ban lý Nhà máy Lọc dẩu Dung Quất quàn | ty TNHH MTV Lọc Hóa Dầu Bình Sơn Công | Công ty Cổ Vận tài Dầu khí Phuơng Nam phần | ty Cổ Vận tải Dầu khí Thái BInh Dương phần Công | Vận tải Dầu khí Tàu ty phần Vũng Công | Vận tải Dầu khÍ Hà Nội phần Công | ty Cô Vận tài Sản khí Quốc tế phẩm phần Công | ty Dầu Việt Nam Tổng Công | Công ty Tài chính Cỗ phẩn Dầu khí Việt Nam Tổng | ty Cẩ phần Vận tải Dầu khí Phương Nam Công | Công ty Cổ Vận tải Dầu khí Thái Bình Dương phẩn | ty Cổ Vận tẳi Dầu khí Tàu phần Vũng Công | ty Cổ phần Vận tải Dẩu khí Hà Nội Công | Công ty Cổ phẩn Vận tải Sản khí Quốc tế phẩm | Ban lý Nhà máy Loc dầu Dung Quất quản | ty TNHH MTV Lọc Hóa Dầu Binh Sơn Công | ty Cồ phần Vận tải Dầu khí Phuơng Nam Công | ty Cổ phần Vận tài Dầu khí Thái Binh Duơng Công | ty Cổ Vận tải Dầu khí Vũng Tàu phẩn Công | ty Cồ Vận tài Dầu khí Hà Nội phần Công | ty Cổ phần Vận tải Dầu khí Dưong Đông Công | Công ty Cổ Vận tải Dầu khí Cửu Long phần | Công ty Cổ phần Vận tài Dẩu Phuơng Đông Việt [ROWS] 2010 | 2009 [ROW] VNĐ [ROW] Lương | 3.152.387,809 | 2.850.656.043 [ROW] Thưởng | 1.343.523.000 | 229.149.095 [ROW] 3.079.805.138 [ROW] Số dư với các bên liên quan tại ngày kết thúc niên độ kế toán như sau: [ROW] 31/12/2010 | 31/12/2009 [ROW] VNĐ [ROW] Vay [ROW] Tổng Công ty Tài chính Cẩ Dầu khí Việt Nam phần | 300.789.998.071 | 320.504.916.979 [ROW] Phải thu thương mại [ROW] Tống Công ty Dầu Việt Nam | 57.571.391.637 | 80.262.679.985 [ROW] Ban lý Nhà máy Lọc dẩu Dung Quất quàn | 103.092.422.402 [ROW] ty TNHH MTV Lọc Hóa Dầu Bình Sơn Công | 199,658.077.561 [ROW] Công ty Cổ Vận tài Dầu khí Phuơng Nam phần | 149.585.835.134 | 32.467.821.307 [ROW] ty Cổ Vận tải Dầu khí Thái BInh Dương phần Công | 175.641.953.645 | 25.195.265.683 [ROW] Vận tải Dầu khí Tàu ty phần Vũng Công | 2.662.719.068 | 12.280.481.631 [ROW] Vận tải Dầu khÍ Hà Nội phần Công | 14.862.948.753 [ROW] ty Cô Vận tài Sản khí Quốc tế phẩm phần Công | 62.994.000 [ROW] Phải thu khác [ROW] ty Dầu Việt Nam Tổng Công | 17.625.828.285 | 41.353.108 [ROW] Công ty Tài chính Cỗ phẩn Dầu khí Việt Nam Tổng | 4.940.233.333 [ROW] ty Cẩ phần Vận tải Dầu khí Phương Nam Công | 89.270,418.815 | 66,187.771.334 [ROW] Công ty Cổ Vận tải Dầu khí Thái Bình Dương phẩn | 1.722.380.192.226 | 1.490.325.040,968 [ROW] ty Cổ Vận tẳi Dầu khí Tàu phần Vũng Công | 153.606.553.128 | 167.028.850.708 [ROW] ty Cổ phần Vận tải Dẩu khí Hà Nội Công | 177.484.466.466 | 56.685.157 [ROW] Công ty Cổ phẩn Vận tải Sản khí Quốc tế phẩm | 118.180.087 [ROW] Phải trả thưong mại [ROW] Ban lý Nhà máy Loc dầu Dung Quất quản | 11.452.696.673 [ROW] ty TNHH MTV Lọc Hóa Dầu Binh Sơn Công | 36.522.909.307 [ROW] ty Cồ phần Vận tải Dầu khí Phuơng Nam Công | 56.648.453.191 | 20.967.794.987 [ROW] ty Cổ phần Vận tài Dầu khí Thái Binh Duơng Công | 356.397.844.045 | 199.797.864.570 [ROW] ty Cổ Vận tải Dầu khí Vũng Tàu phẩn Công | 18.465.861.608 | 25.167.856,062 [ROW] ty Cồ Vận tài Dầu khí Hà Nội phần Công | 36.581.151.213 | 638.384.996 [ROW] ty Cổ phần Vận tải Dầu khí Dưong Đông Công | 14.107.500.000 [ROW] Công ty Cổ Vận tải Dầu khí Cửu Long phần | 6.378,.823.000 [ROW] Công ty Cổ phần Vận tài Dẩu Phuơng Đông Việt",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6
+      }
+    }
+  ]
+}

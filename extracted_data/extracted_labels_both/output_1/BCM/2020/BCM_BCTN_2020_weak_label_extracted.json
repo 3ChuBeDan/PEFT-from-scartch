@@ -1,0 +1,63 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Chất thải rắn sinh hoạt phát sinh hàng ngày được phân loại tại nguồn và chất thải nguy hại được thu gom, lưu giữ riêng theo đúng quy định, 100% nhà cung cấp dịch vụ thu gom, xử lý chất thải có giấy phép hành nghề;",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Trên nền tảng chính sách đã nêu, trong năm 2020, Tổng Công ty đã đặt ra 05 mục tiêu và đã đạt được kết quả như sau: ; column_headers: STT | Mục tiêu | Bộ phận liên quan | Biện pháp thực hiện | Theo dõi | Kết quả [ROWS] STT | Mục tiêu | Bộ phận liên quan | Biện pháp thực hiện | Theo dõi | Kết quả [ROW] 1 | Không có sự cố tràn đổ ô nhiễm môi trường gây ảnh hưởng cộng đồng | Các trạm vận hành nhà máy nước thải, quản lý cơ sở hạ tầng và cây xanh | Kiểm soát hoạt động vận hành thu gom và xử lý nước thải, đảm bảo an toàn. Kiểm soát lưu trữ hóa chất đúng quy định Quản lý, giám sát các nhà thầu thi công luôn tuân thủ theo đúng yêu cầu quy định về môi trường. Quan trắc môi trường khu vực liên quan định kỳ để kiểm soát ngưỡng thải. | Hàng tháng | Không có tràn đổ nước thải, hóa chất gây ô nhiễm. Không có công trình gây ô nhiễm môi trường bị cộng đồng khiếu nại. [ROW] 2 | Không bị phạt vì vi phạm pháp luật về môi trường | Tất cả các phòng ban, xí nghiệp, ban quản lý trực thuộc | Nhận dạng đầy đủ các yêu cầu pháp luật liên quan đến môi trường. Xác định các yêu cầu cần tuân thủ. Đánh giá sự tuân thủ định kỳ. | Hàng tháng | Không có lần nào bị phạt bởi cơ quan hữu quan. [ROW] 3 | Không có sự cố cháy nổ | Tất cả các phòng ban, xí nghiệp, ban quản lý trực thuộc | Thực hiện tốt công tác phòng cháy tại tất cả các khu vực thuộc Tổng Công ty quản lý. Thường xuyên kiểm tra công tác phòng cháy tại tất cả các khu vực. | Hàng tháng | Không có sự cố cháy nổ [ROW] 4 | Tất cả các yếu tố thải ra không bị vượt ngưỡng quy định. | Tất cả các phòng ban, xí nghiệp, ban quản lý trực thuộc | Kiểm soát hoạt động vận hành xử lý nước thải, đảm bảo đầu ra dưới ngưỡng quy định. Kiểm tra đấu nối đầy đủ. Quan trắc môi trường khu vực liên quan định kỳ để kiểm soát ngưỡng thải. | Hàng tháng | Toàn bộ nước thải từ các khu công nghiệp, khu dân cư, tái định cư đều được thu gom, xử lý đúng quy định. Không có lần nào nước thải, khi thải ra ngoài bị vượt ngưỡng. Không có trường hợp nào bị thiếu đầu nối. Quan trắc môi trường nước thải hàng quý bởi cơ quan độc lập. [ROW] 5 | Đạt chứng nhận ISO 14001:2015 | Tất cả các phòng ban, xí nghiệp, ban quản lý trực thuộc | Xây dựng tài liệu, rà soát các hoạt động, khắc phục và cải tiến để phù hợp tiêu chuẩn ISO 14001:2015. Tham gia các khóa đào tạo có liên quan. | Hàng tháng | Chứng chỉ ISO 14001:2015",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 12,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Giao dịch với các công ty doanh; lìên kết liên ; column_headers: Năm naỵ | Năm nay ; row_headers: Doanh thu các trình xây công dựng | Doanh thu bán cây | Cổ tức được chia | tiền đầu tư dự án Ứng | Chuyển nhượng quyền sử dụng đất | Mua hộ khẩu trang | Phí quàn lý | Phí quản lý, xử lý nước thải | Chuyến giao phần mềm | Mua thiết bị, thi công trình công | Chi phí thi công | Nhận cung cấp dịch vụ cước, bảo trì | Mua tài sản cổ định | Mua hàng hóa, Cụ cụ công dụng | Chi phí thuê chỗ đặt server | Chi lãi vay phí | Tiền cho mượn | Phí bào lãnh thực hiện hợp đồng vay | Chi phí các dịch vụ khác [ROWS] Năm naỵ | Năm nay [ROW] ty Liên doanh TNHH khu nghiệp Công công [ROW] Việt Nam - Singapore [ROW] Doanh thu các trình xây công dựng | 8.627.135.682 [ROW] Doanh thu bán cây | 496.000.000 [ROW] Cổ tức được chia | 460.600.000.000 [ROW] tiền đầu tư dự án Ứng | 83.206.621.076 | 40.000.000.000 [ROW] ty Cổ phần Setia - Becamex Công [ROW] Chuyển nhượng quyền sử dụng đất | 28.349.260.424 [ROW] Mua hộ khẩu trang | 5.236.364 [ROW] ty Liên doanh TNHH Sinviet Công [ROW] Phí quàn lý | 29.456.547 [ROW] ty Cổ nghệ & Truyền thông Vìệt Nam phần Công Công [ROW] Phí quản lý, xử lý nước thải | 23.936.044 | 28.414.211 [ROW] Chuyến giao phần mềm | 2.272.727.273 [ROW] Cổ tức được chia | 17.844.600.000 [ROW] Mua thiết bị, thi công trình công | 1.286.117.820 | 39.158.710.779 [ROW] Chi phí thi công | 28.757.522.195 [ROW] Nhận cung cấp dịch vụ cước, bảo trì | 454.808.271 | 7.640.829.764 [ROW] Mua tài sản cổ định | 12.169.001.954 [ROW] Mua hàng hóa, Cụ cụ công dụng | 5.217.581.260 [ROW] Chi phí thuê chỗ đặt server | 566.580.000 [ROW] Chi lãi vay phí | 970.416.667 [ROW] Tiền cho mượn | 80.000.000.000 [ROW] ty TNHH Becamex Tokyu Công [ROW] Phí bào lãnh thực hiện hợp đồng vay | 146.304.303 | 144.564.551 [ROW] Mua hộ khẩu trang | 6.545.455 [ROW] Chi phí các dịch vụ khác | 436.538.863",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    }
+  ]
+}

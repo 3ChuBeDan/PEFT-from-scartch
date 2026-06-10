@@ -1,0 +1,227 @@
+{
+  "extracted_count": 12,
+  "extracted": [
+    {
+      "paragraph_id": 1054,
+      "text": "HĐQT có quy trình để giải quyết các xung đột lợi ích, khi một thành viên HĐQT hoặc thành viên Ban TGĐ đối mặt với rủi ro hoặc vấn đề tiềm ẩn xung đột lợi ích, thành viên có liên quan có trách nhiệm báo cáo thông tin đến HĐQT tại các cuộc họp, cân nhắc và đưa ra quyết định liên quan đến vấn đề là đối tượng người có liên quan để tránh xung đột theo quy định.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1526,
+      "text": "Trong các tình huống có xung đột lợi ích, đảm nhận vai trò của người giám sát khách quan phù hợp đối với các hoạt động của Ban Điều hành, bao gồm việc cân bằng và ngăn ngừa những xung đột lợi ích, góp phần bảo vệ lợi ích chính đáng của Cổ đông, đặc biệt là Cổ đông nhỏ lẻ.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1607,
+      "text": "minh đầy đủ các thông tin trọng yếu trên BCTC, không có sai sót trọng yếu hoặc bất hợp lý, không có biến động bất thường đối với doanh thu, lợi nhuận hoặc các khoản mục tài sản trọng yếu và không phát hiện các gian lận hoặc rủi ro gian lận tiềm tàng trên BCTC;",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 3814,
+      "text": "Hiện tại Công ty quản lý dữ liệu quan trắc khí thải Lò hơi tự động, liên tục trên phần mềm trực tuyến. Các Nhà máy Đường của Công ty đều được xây dựng hệ thống xử lý khí thải, đạt yêu cầu của Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp đối với bụi và các chất vô cơ theo Quy chuẩn Việt Nam 19:2009/BTNMT và các quy định khác theo Luật Môi trường. Đồng thời, nhằm giám sát chất lượng khí thải, các Nhà máy được trang bị hệ thống quan trắc khí thải theo",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5
+      }
+    },
+    {
+      "paragraph_id": 3820,
+      "text": "Hầu hết lò hơi của các Nhà máy chủ yếu sử dụng nhiên liệu Sinh khối chủ yếu là Bã mía, Biomass,... thay cho Than đá, nhờ vậy hạn chế được đáng kể Phát thải Khí nhà kính (KNK). Mặt khác, công nghệ sản xuất Đường tinh luyện của Công ty áp dụng công nghệ Cacbonat hóa, nghĩa là sử dụng CO 2 và vôi trong quy trình sản xuất nhằm loại bỏ tạp chất. Do đó, lượng khí CO 2 sinh ra trong quá trình đốt lò hơi sẽ được trích thu về và tái sử dụng vào sản xuất. Ước tính tỷ lệ trích thu này khoảng 9-12% tổng lượng khói phát thải ra ngoài môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 3847,
+      "text": "Là một doanh nghiệp sản xuất, TTC AgriS luôn ý thức cao vấn đề bảo vệ môi trường thông qua hành động thiết thực Công ty có chủ trương tái sử dụng chất thải phát sinh trong quá trình sản xuất tạo ra để bảo vệ môi trường, gia tăng giá trị và giảm giá thành sản phẩm. Đồng thời, quản lý Nước thải và Chất thải trên cơ sở tổng Nước thải theo chất lượng, địa điểm thải và tổng lượng Chất thải theo loại và phương pháp xử lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 3848,
+      "text": "TTC AgriS đề ra các KPI về quản lý chất thải và thực hiện đánh giá nội bộ 1 lần/năm. Trong NĐ vừa qua, không có vi phạm nào về việc quản lý Chất thải và Nước thải được phát hiện. Công ty quản lý Nước thải và Chất thải theo các Quy chuẩn sau:",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 3979,
+      "text": "Định kỳ hàng năm, Công ty đều phối hợp với cơ quan chức năng để tiến hành quan trắc môi trường làm việc, kiểm tra nồng độ bụi, tiếng ồn, độ rung,... để có căn cứ nghiên cứu và trang bị bổ sung thêm đồng phục, thiết bị bảo hộ cho nhân viên nhằm hạn chế ảnh hưởng môi trường đến sức khỏe người lao động, đồng thời đưa ra những giải pháp cải thiện, bổ sung thêm trang bị bảo hộ lao động cho Nhân viên nhằm hạn chế những tác động của Môi trường đến sức khỏe của người lao động.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 4577,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM PHẠT ; column_headers: STT | Mã số | Thẻ điểm | Kết quả | đánh giá | Khả năng cải thiện | Cơ sở đưa ra nhận định | Ngắn hạn | Trung hạn [ROWS] STT | Mã số | Thẻ điểm | Kết quả | Khả năng cải thiện | Cơ sở đưa ra nhận định [ROW] đánh giá | Ngắn hạn | Trung hạn [ROW] B | ĐỐI XỬ CÔNG BẰNG VỚI CỔ ĐÔNG [ROW] B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] 9 | B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, ban điều hành và nhân viên công ty trong ba năm qua? | 100% | Mọi giao dịch nội gián hoàn toàn bị cấm tại Công ty [ROW] B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] 10 | B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | 100% | Hoàn toàn không xảy ra [ROW] 11 | B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | 100% | Hoàn toàn không xảy ra [ROW] C | VAI TRÒ CỦA CÁC BÊN LIÊN QUAN [ROW] C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng [ROW] 12 | C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/phá sản/ thương mại/cạnh tranh hay môi trường? | 100% | Hoàn toàn không xảy ra [ROW] C.2 | Khi các bên có quyền lợi liên quan tham gia vào quá trình quản trị công ty, họ phải được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên. [ROW] 13 | C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không công bố thông tin trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | 100% | Hoàn toàn không xảy ra [ROW] 14 | C.2.2 | Có bằng chứng nào cho thấy công ty đang tham gia hoạt động \"tẩy xanh\" (cố gắng tạo ra vẻ ngoài bền vữngtrong khi trên thực tếkhông có sự cam kết và hành động tương ứng) không? | 100% | Hoàn toàn không xảy ra [ROW] D | CÔNG BỐ THÔNG TIN VÀ MINH BẠCH [ROW] D.1 | Hình phạt của cơ quan quản lý liên quan đến báo cáo tài chính [ROW] 15 | D.1.1 | Công ty có nhận được \"ý kiến loại trừ\" trong báo cáo kiểm toán độc lập? | 100% | BCTC kiểm toán NĐ 2023-2024: Ý kiến kiểm toán chấp nhận toàn phần [ROW] 16 | D.1.2 | Công ty có nhận được \"ý kiến bất lợi\" trong báo cáo kiểm toán độc lập? | 100% | BCTC kiểm toán NĐ 2023-2024: Ý kiến kiểm toán chấp nhận toàn phần [ROW] 17 | D.1.3 | Công ty có nhận được \"từ chối đưa ra ý kiến\" trong báo cáo kiểm toán độc lập? | 100% | BCTC kiểm toán NĐ 2023-2024: Ý kiến kiểm toán chấp nhận toàn phần",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 4590,
+      "text": "[TABLE] [CONTEXT] section: Năng lượng tiêu hao trong tổ chức ; column_headers: Các nguồn năng lượng đã tiêu thụ | Chênh lệch niên độ 2023-2024/ niên độ 2022-2023 (%) [ROWS] Các nguồn năng lượng đã tiêu thụ | Chênh lệch niên độ 2023-2024/ niên độ 2022-2023 (%) [ROW] (1) Tiêu thụ Năng lượng từ việc sử dụng nhiên liệu có nguồn gốc không tái tạo (dầu mỏ, khí đốt, than đá,...) | 3% [ROW] (2) Tiêu thụ Năng lượng điện từ nguồn cấp lưới điện quốc gia | -20% [ROW] (3) Tiêu thụ Năng lượng từ các nguồn khác như điện sinh khối có nguồn gốc tái tạo như bã mía, mùn cưa, vỏ trấu,... | 30% [ROW] (4) Tiêu thụ Năng lượng do tổ chức tạo ra để dùng (bao gồm Năng lượng mặt trời,...) | 0% [ROW] (5) Tổng lượng tiêu thụ Năng lượng | 25% [ROW] (6) Tổng Năng lượng tổ chức bán ra (bao gồm nguồn Năng lượng từ sinh khối và mặt trời) | 23%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 4592,
+      "text": "[TABLE] [CONTEXT] section: Tổng Nước thải theo chất lượng và địa điểm thải ; column_headers: STT | Địa điểm xả thải | Lượng nước thải (m 3 ) | Phương pháp | xử lý | Chất lượng | Nhà máy | Vị trí | NĐ 2023-2024 | NĐ 2022-2023 | nước thải đầu ra | Chênh lệch 2023-2024/2022-2023 [ROWS] Địa điểm xả thải | Lượng nước thải (m 3 ) | Phương pháp | Chất lượng [ROW] STT | Nhà máy | Vị trí | NĐ 2023-2024 | NĐ 2022-2023 | Chênh lệch 2023-2024/2022-2023 | xử lý | nước thải đầu ra [ROW] 1 | AgriS Gia Lai | Gia Lai | 24.110 | 24.514 | -2% | Phương pháp sinh học kết hợp hóa lý | Cột B, QCVN 40:2011/BTNMT [ROW] 2 | AgriS Ninh Hoà | Khánh Hòa | 370.108 | 226.782 | 63% | Cột B, QCVN 40:2011/BTNMT [ROW] 3 | Biên Hòa - Phan Rang | Ninh Thuận | 16.715 | 13.344 | 25% | Cột A, QCVN 40:2011/BTNMT [ROW] 4 | TTCS | Tây Ninh | 199.848 | 167.091 | 20% | Cột A, QCVN 40:2011/BTNMT [ROW] 5 | TTC Biên Hoà - Đồng Nai | Đồng Nai | 89.083 | 87.309 | 2% | Cột A, QCVN 40:2011/BTNMT [ROW] 6 | TTC - Attapeu | Lào | 18.342 | 47.361 | -61% | Cột B, QCVN 40:2011/BTNMT [ROW] Tổng cộng | 718.206 | 566.401 | 27%",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 4593,
+      "text": "[TABLE] [CONTEXT] section: Phân loại Chất thải phát sinh tại các Nhà máy TTC AgriS ; column_headers: Niên độ 2023-2024 (tấn) | Niên độ 2022-2023 (tấn) | Chất thải nguy hại | Chất thải thông thường ; row_headers: Ủ phân | Đốt (đốt khối lượng lớn) | Thuê đơn vị chức năng xử lý [ROWS] Niên độ 2023-2024 (tấn) | Niên độ 2022-2023 (tấn) [ROW] Chất thải nguy hại | Chất thải thông thường | Chất thải nguy hại | Chất thải thông thường [ROW] Ủ phân | 0 | 16.175 | 0 | 15.817 [ROW] Đốt (đốt khối lượng lớn) | 0 | 834.032 | 0 | 791.896 [ROW] Thuê đơn vị chức năng xử lý | 16,1 | 23,5",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    }
+  ]
+}

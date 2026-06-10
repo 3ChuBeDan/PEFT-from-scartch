@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 29,
+      "text": "Mỗi cá nhân cam kết sống có trách nhiệm với bản thân, gia đình, tổ chức và xã hội. Thực thi xuất sắc mọi công việc với tinh thần tự nguyện, chủ động, sáng tạo và tận tâm. Luôn tiên phong theo đuổi và thực hiện những nhiệm vụ khó khăn nhất với tinh thần quyết thắng",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

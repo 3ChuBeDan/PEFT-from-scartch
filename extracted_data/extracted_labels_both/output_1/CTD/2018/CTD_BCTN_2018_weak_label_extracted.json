@@ -1,0 +1,175 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "paragraph_id": 196,
+      "text": "NÊU CAO TINH THẦN GƯƠNG MẪU TRONG THAY ĐỔI VỀ TƯ DUY, MỖI LÃNH ĐẠO CẤP CAO CẦN CÓ NHỮNG SUY NGHĨ MỚI, NHỮNG THAY ĐỔI TÍCH CỰC VÀ TRIỆT ĐỂ NHƯ TINH THẦN TỰ CHỊU TRÁCH NHIỆM, TỰ ĐÁNH GIÁ BẢN THÂN ĐỊNH KỲ... ĐỂ XEM XÉT LẠI HIỆU QUẢ CÔNG VIỆC, TỪ ĐÓ CÓ SỰ ĐIỀU CHỈNH, THAY ĐỔI TRONG ĐIỀU HÀNH ĐỂ HOẠT ĐỘNG CÔNG TY HOẶC BỘ PHẬN ĐI ĐÚNG ĐỊNH HƯỚNG VÀ ĐẠT ĐƯỢC MỤC TIÊU ĐÃ ĐỀ RA.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 197,
+      "text": "thay đổi tích cực và triệt để như tinh thần tự chịu trách nhiệm, tự đánh giá bản thân định kỳ... để xem xét lại hiệu quả công việc, từ đó có sự điều chỉnh, thay đổi trong điều hành để hoạt động Công ty hoặc bộ phận đi đúng định hướng và đạt được mục tiêu đã đề ra. Việc thay đổi tư duy hình thành những hành động mới tích cực và hiệu quả hơn, tránh lặp lại những hành động rập khuôn, trì trệ gây cản trở đến những ý tưởng mới.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 262,
+      "text": "Năm 2018, Coteccons nói chung và Phòng Kỹ thuật nói riêng đã nghiên cứu triển khai áp dụng các loại vật liệu mới thay thế gạch đất sét nung nhằm giảm thiểu ảnh hưởng đến môi trường; sử dụng vật liệu thân thiện môi trường (vật liệu xanh); phối hợp với nhà cung cấp bê tông nhằm tăng hàm lượng sử dụng tro bay (vật liệu tái chế), ứng dụng thi công bê tông, bê tông khối lớn cho hầu hết các dự án của Tập đoàn, hướng tới đáp ứng xu thế hiện nay trong ngành xây dựng về mặt an toàn, sử dụng vật liệu thân thiện môi trường nhưng vẫn đảm bảo hiệu quả thi công.",
+      "hard_labels": [
+        "E3",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 264,
+      "text": "NĂM 2018, COTECCONS ĐÃ NGHIÊN CỨU TRIỂN KHAI ÁP DỤNG CÁC LOẠI VẬT LIỆU MỚI THAY THẾ GẠCH ĐẤT SÉT NUNG NHẰM GIẢM THIỂU ẢNH HƯỞNG ĐẾN MÔI TRƯỜNG; SỬ DỤNG VẬT LIỆU THÂN THIỆN MÔI TRƯỜNG (VẬT LIỆU XANH); PHỐI HỢP VỚI NHÀ CUNG CẤP BÊ TÔNG NHẰM TĂNG HÀM LƯỢNG SỬ DỤNG TRO BAY (VẬT LIỆU TÁI CHẾ), ỨNG DỤNG THI CÔNG BÊ TÔNG, BÊ TÔNG KHỐI LỚN CHO HẦU HẾT CÁC DỰ ÁN CỦA TẬP ĐOÀN, HƯỚNG TỚI ĐÁP ỨNG XU THẾ HIỆN NAY TRONG NGÀNH XÂY DỰNG VỀ MẶT AN TOÀN, SỬ DỤNG VẬT LIỆU THÂN THIỆN MÔI TRƯỜNG NHƯNG VẪN ĐẢM BẢO HIỆU QUẢ THI CÔNG.",
+      "hard_labels": [
+        "E3",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 468,
+      "text": "Thương hiệu dẫn đầu ngành xây dựng của Coteccons đã được khẳng định trong nhiều năm liền thông qua phong cách làm việc chuyên nghiệp, chân thành với khách hàng và đối tác; luôn đảm bảo chất lượng và tiến độ. Tuy vậy, trong thời đại công nghệ thông tin hiện nay, niềm tin của nhà đầu tư, khách hàng, đối tác cũng như tinh thần của cán bộ nhân viên vẫn có thể bị ảnh hưởng trong ngắn hạn bởi những nguồn thông tin không xác đáng và tin cậy. Rủi ro danh tiếng có thể đến từ bản thân Công ty hoặc từ các đối tượng bên thứ ba.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1311,
+      "text": "[TABLE] [CONTEXT] section: CÔNG TRÌNH HÔM NAY Di sản ngày mai ; column_headers: Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2018 | Trang [ROWS] Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2018 | Trang [ROW] GRI 304 | Đa dạng sinh học [ROW] 304 - 1 | Các cơ sở hoạt động được sở hữu, cho thuê, quản lý trong, hoặc gần kề các khu vực được bảo tồn và các khu vực đa dạng sinh học cao bên ngoài các khu được bảo tồn |  [ROW] 304 - 2 | Tác động đáng kể của các hoạt động, sản phẩm và dịch vụ đối với đa dạng sinh học |  [ROW] 304 - 3 | Các môi trường sống được bảo tồn hoặc phục hồi |  [ROW] 304 - 4 | Các loài trong Sách Đỏ của IUCN và các loài trong danh sách bảo tồn quốc gia có môi trường sống trong các khu vực chịu ảnh hưởng bởi các hoạt động |  [ROW] GRI 305 | Phát thải [ROW] 305 - 1 | Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) |  [ROW] 305 - 2 | Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) |  [ROW] 305 - 3 | Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) |  [ROW] 305 - 4 | Thâm dụng phát thải khí nhà kính (GHG) |  [ROW] 305 - 5 | Giảm phát thải khí nhà kính (GHG) |  [ROW] 305 - 6 | Phát thải chất pháhủy tầng ô - zôn (ODS) |  [ROW] 305 - 7 | Nitrogen oxides (NOX), sulfur oxides (SOX), và các phát thải khí đáng kể khác | ",
+      "hard_labels": [
+        "E1",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 1312,
+      "text": "[TABLE] [CONTEXT] section: CÔNG TRÌNH HÔM NAY Di sản ngày mai ; column_headers: Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2018 | Trang [ROWS] Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2018 | Trang [ROW] GRI 306 | Nước thải và Chất thải [ROW] 306 - 1 | Tổng lượng nước thải theo chất lượng và địa điểm |  [ROW] 306 - 2 | Tổng lượng chất thải theo loại và phương pháp xử lý |  [ROW] 306 - 3 | Sự cố tràn đáng kể |  [ROW] 306 - 4 | Vận chuyển chất thải nguy hại |  [ROW] 306 - 5 | Các khu vực chứa nước bị ảnh hưởng bởi việc thải nước và/hoặc dòng nước thải |  [ROW] GRI 307 | Tuân thủ về Môi trường [ROW] 307 - 1 | Tuân thủ pháp luật và các quy định về môi trường |  | 136 - 139 [ROW] GRI 308 | Đánh giá Nhà cung cấp về Môi trường [ROW] 308 - 1 | Các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về môi trường |  [ROW] 308 - 2 | Các tác động môi trường tiêu cực trong chuỗi cung ứng và các hành động đã thực hiện |  | 136 - 137 [ROW] GRI 401 | Việc làm [ROW] 401 - 1 | Số lượng nhân viên thuê mới và tỷ lệ thôi việc |  | 124 - 125 [ROW] 401 - 2 | Phúc lợi cung cấp cho nhân viên toàn thời gian không dành cho nhân viên tạm thời hoặc bán thời gian |  | 117; 135",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 1314,
+      "text": "[TABLE] [CONTEXT] section: CÔNG TRÌNH HÔM NAY Di sản ngày mai ; column_headers: Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2018 | Trang [ROWS] Số tiêu chuẩn | TIÊU CHUẨN GRI | Báo cáo PTBV 2018 | Trang [ROW] 405 - 1 | Sự đa dạng của cấp quản lý và nhân viên |  | 114 - 115 [ROW] 405 - 2 | Tỷ lệ lương cơ bản và thù lao của phụ nữ so với nam giới |  [ROW] GRI 406 | Không phân biệt đối xử [ROW] 406 - 1 | Các vụ việc phân biệt đối xử và các hành động khắc phục đã thực hiện |  [ROW] GRI 407 | Tự do lập hội/ Quyền tham gia công đoàn và Thương lượng tập thể [ROW] 407 - 1 | Các hoạt động và các nhà cung cấp mà ở đó quyền tự do lập hội/ quyền tham gia công đoàn và thương lượng tập thể có thể gặp rủi ro |  [ROW] GRI 408 | Lao động Trẻ em [ROW] 408 - 1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động trẻ em |  [ROW] GRI 409 | Lao động Cưỡng bức hoặc Bắt buộc [ROW] 409 - 1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc |  [ROW] GRI 410 | Thông lệ về An ninh [ROW] 410 - 1 | Nhân viên an ninh được đào tạo về các quy trình hoặc chính sách liên quan đến quyền con người |  [ROW] GRI 411 | Quyền của Người Bản địa",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "S4": 4,
+        "S6": 4
+      }
+    }
+  ]
+}

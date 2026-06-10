@@ -1,0 +1,171 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "paragraph_id": 681,
+      "text": "Tiếp nối việc quản lý rủi ro pháp lý thông qua các hoạt động cập nhật thay đổi pháp luật một cách thường xuyên và kịp thời nhất có thể, Phòng Pháp lý tiếp tục nâng cao tính tuân thủ pháp luật của Novaland qua việc thiết lập quy định phòng chống rửa tiền và đề xuất thành lập Bộ phận Phòng chống rửa tiền nhằm kiểm soát chặt chẽ quy định ban hành.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 682,
+      "text": "Quy định Phòng chống Rửa tiền của Tập đoàn tuân thủ nghiêm ngặt các hướng dẫn về phòng chống rửa tiền do Ngân hàng Nhà nước ban hành, quy định chi tiết các yêu cầu đối với quy trình nhận biết khách hàng, trong đó các khách hàng cá nhân và tổ chức của Tập đoàn phải trình bày các thông tin tài chính nhất định để phục vụ công tác nhận diện. Chúng tôi tuyệt đối tuân thủ theo quy định Phòng chống rửa tiền nhằm khẳng định rằng các khách hàng của chúng tôi chỉ tham gia vào các giao dịch kinh doanh hợp pháp. Quy định Phòng chống rửa tiền góp phần quan trọng trong quá trình xây dựng một mô hình QTRR vững chắc và hiệu quả.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "paragraph_id": 691,
+      "text": "Thiết lập chức năng phòng chống rửa tiền nhằm tuân thủ theo quy định của pháp luật, đưa ra các quy định và biện pháp phòng chống rửa tiền, đồng thời hướng dẫn các phòng ban liên quan nghiêm túc thực hiện.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 703,
+      "text": "Đơn cử như trong công tác quản trị nhà chung cư, ngay sau khi Bộ Xây dựng ban hành Thông tư 06/2019/TT-BXD liên quan đến công tác quản lý vận hành Nhà chung cư, Novaland đã tiến hành xây dựng bộ mẫu hồ sơ tổ chức hội nghị Nhà chung cư, Hội nghị cụm nhà chung cư, Hội nghị khu nhà ở riêng lẻ và bộ mẫu hồ sơ bàn giao cho Ban Quản trị nhằm phù hợp với quy định của Thông tư và sẵn sàng đưa vào sử dụng kể từ ngày 01/01/2020. Đối với công tác phòng, chống rửa tiền, Novaland tuân thủ chặt chẽ các quy định của Ngân hàng Nhà nước về phòng chống rửa tiền; cập nhật quy trình giao dịch của mình để đảm bảo phòng, chống rửa tiền một cách hiệu quả, phù hợp quy định pháp luật mà vẫn tạo thuận lợi cho khách hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 2076,
+      "text": "Tập đoàn Novaland đảm bảo nhiệm vụ quản lý nước thải và chất thải phát sinh; đồng thời theo dõi, giám sát chặt chẽ bằng nhiều biện pháp kiểm soát tối ưu lượng nước thải và chất thải từ các dự án.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 2742,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM PHẠT ; column_headers: STT | Tiêu chí | Tình hình tuân thủ tại NVL 2019 | Cơ sở đánh giá cho năm 2019 [ROWS] STT | Tiêu chí | Tình hình tuân thủ tại NVL 2019 | Cơ sở đánh giá cho năm 2019 [ROW] (P) A | QUYỀN CỦA CỔ ĐÔNG [ROW] (P) A.1 | Quyền cơ bản của cổ đông [ROW] (P) A.1.1 | Công ty không hoặc sơ suất không đối xử công bằng với việc mua lại cổ phần đối với tất cả các cổ đông? | ● | Hoàn toàn không xảy ra. Điều lệ, Quy chế QTCT: Thực hiện công bằng việc mua lại cổ phần theo yêu cầu cổ đông [ROW] (P) A.2 | Quyền tham gia vào các quyết định liên quan đến những thay đổi cơ bản của Công ty [ROW] (P) A.2.1 | Có bằng chứng gì về rào cản đối với việc cổ đông không được trao đổi thông tin hoặc tham khảo ý kiến các cổ đông khác? | ● | Hoàn toàn không xảy ra Điều lệ, Quy chế QTCT: Quyền lợi của Cổ đông được xác định rõ ràng, cụ thể [ROW] (P) A.3 | Quyền tham gia và biểu quyết tại ĐHĐCĐ, được thông tin về quy định họp ĐHĐCĐ, bao gồm thủ tục biểu quyết [ROW] (P) A.3.1 | Công ty có đưa nội dung bổ sung và không được thông báo trước trong chương trình nghị sự vào thông báo ĐHĐCĐ/ ĐHĐCĐ bất thường | ● | Bất kỳ thông tin nào được thêm vào chương trình nghị sự đều được thông báo trước cho cổ đông [ROW] (P) A.3.2 | Chủ tịch HĐQT, Trưởng ban Tiểu ban KTNB và TGĐ có tham dự ĐHĐCĐ gần nhất? | ● | Tham dự đầy đủ [ROW] (P)A.4 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai [ROW] (P) A.4.1 | Công ty có không công bố sự tồn tại của thỏa thuận cổ đông? | ● | Không tồn tại thỏa thuận này Điều lệ, Quy chế QTCT [ROW] (P) A.4.2 | Công ty có không công bố sự tồn tại của giới hạn biểu quyết? | ● | Điều lệ, Quy chế QTCT, Quy chế biểu quyết tại ĐHĐCĐ 2019 [ROW] (P) A.4.3 | Công ty có không công bố sự tồn tại của cổ phiếu có nhiều quyền biểu quyết? | ● | Không có cổ phiếu có nhiều quyền biểu quyết [ROW] (P) A.5 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải đước công bố công khai [ROW] (P) A.5.1 | Cấu trúc sở hữu kim tự tháp hoặc cấu trúc sở hữu chéo có tồn tại không? | ● [ROW] (P) B (P) B.1 | ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] (P) B.1.1 | Công ty có bị kết luận vi phạm về giao dịch nội gián của HĐQT, Ban TGĐ và nhân viên trong 3 năm qua? | ● | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi hoàn toàn bị cấm tại Công ty",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 2761,
+      "text": "[TABLE] [CONTEXT] section: TÓM TẮT HIỆU QUẢ HOẠT ĐỘNG PTBV 2019 ; column_headers: LĨNH VỰC | CÁC CHƯƠNG TRÌNH SÁNG KIẾN | KẾT QUẢ THỰC HIỆN [ROWS] LĨNH VỰC | CÁC CHƯƠNG TRÌNH SÁNG KIẾN | KẾT QUẢ THỰC HIỆN [ROW] HIỆU QUẢ HOẠT ĐỘNG KINH TẾ VÀ TĂNG TRƯỞNG BỀN VỮNG SDG 1,8,9,10,16 XÓA NGHÈO KHÔNG CÒN NẠN ĐÓI GIẢM BẤT Ẳ GIÁO D GIẢM BẤT BÌNH ĐẲNG GIÁO DỤ CHẤT LƯ ĐÔ THỊ & CỘNG ĐỒNG Ề BÌNH ĐẲNG Ớ Ị BỀN VỮNG GIỚI NĂNG LƯỢNG SẠCH Ề NĂNG LƯỢNG SẠCH Ề ÓÈ Ợ & BỀN VỮNG Ợ & BỀN VỮNG XÓA NGHÈO VIỆC LÀM ĐÀNG VIỆC LÀM ĐÀNG KHÔNG CÒN Ó HOÀNG & TĂNG HOÀNG & TĂNG NẠN ĐÓI TRƯỞNG KINH TẾRƯỞNG KINH TẾ Ạ CÔNG NGHIỆP, Ổ CÔNG NGHIỆP, Ổ CUỘC SỐNG Ỏ Ệ, ĐỔI MỚI & CƠ SỞ Ệ, ĐỔI MỚI & CƠ SỞ Ộ KHỎE MẠNH HẠ TẦNGHẠ TẦNG 17 MỤC TIÊU ỂỀ 7 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐCCỦA LIÊN HỢP QUỐC HÒA BÌNH, CÔNG ẰỂ Ế HÒA BÌNH, CÔNG ẰỂ Ế GIẢM BẤT Ẳ , BẰNG & THỂ CHẾ , BẰNG & THỂ CHẾ BÌNH ĐẲNG VỮNG MẠNHVỮNG MẠNH HỢP TÁC ĐỂHỢP TÁC ĐỂ ĐÔ THỊ & CỘN Ề HIỆN THỰC HÓAHIỆN THỰC HÓA BỀN VỮNG CÁC MỤC TIÊUCÁC MỤC TIÊU NĂNG LƯỢNG SẠCH Ề NĂNG LƯỢNG SẠCH Ề ÓÈ Ợ & BỀN VỮNG Ợ & BỀN VỮNG XÓA NGHÈ VIỆC LÀM ĐÀNG VIỆC LÀM ĐÀNG KHÔNG CÒN Ó HOÀNG & TĂNG HOÀNG & TĂNG NẠN ĐÓI TRƯỞNG KINH TẾTRƯỞNG KINH TẾ Ạ CÔNG NGHIỆP Ổ CÔNG NGHIỆP, Ổ CUỘC SỐNG Ỏ Ệ, ĐỔI MỚI & CƠ SỞ Ệ, ĐỔI MỚI & CƠ SỞ Ộ KHỎE MẠNH HẠ TẦNGHẠ TẦNG 17 MỤC TIÊU ỂỀ 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐCCỦA LIÊN HỢP QUỐC HÒA BÌNH, CÔNG ẰỂ HÒA BÌNH, CÔNG ẰỂ Ế GIẢM BẤT Ẳ , BẰNG & THỂ CHẾ , BẰNG & THỂ CHẾ BÌNH ĐẲNG VỮNG MẠNHVỮNG MẠNH HỢP TÁC ĐỂHỢP TÁC ĐỂ ĐÔ THỊ & CỘ Ề HIỆN THỰC HÓAHIỆN THỰC HÓA BỀN VỮNG CÁC MỤC TIÊUCÁC MỤC TIÊU M BẤT Ẳ GIÁO DỤC Ấ H ĐẲNG Ụ CHẤT LƯỢNG HỊ & CỘNG ĐỒ BÌNH ĐẲNG Ị VỮNG GIỚI Ợ BỀN VỮNG Ợ BỀN VỮNG XÓA NGHÈO IỆC LÀM ĐÀNỆC LÀM ĐÀN KHÔNG CÒN Ệ OÀNG & T Ở Ệ ÀNG & TĂ Ở NẠN ĐÓI ÔNG NGHIỆP Ổ NG NGHIỆP, CUỘC SỐNG Ỏ Ệ, ỔI MỚI & CƠ Ầ Ệ, I MỚI & CƠ S Ầ Ộ KHỎE MẠNH ÒA BÌNH, CA BÌNH, CÔ GIẢM BẤT Ẳ ÒA BÌNH, CÔ ẰNG & THỂ A BÌNH, CÔN NG & THỂ C GIẢM BẤT BÌNH ĐẲNG HỢP TÁC ĐỂHỢP TÁC ĐỂ ĐÔ THỊ & CỘNG ĐỒNG Ề Ợ HIỆN THỰC Ợ IỆN THỰC Ị BỀN VỮNG TIÊU DÙNG & SẢN XUẤT CÓ TRÁCH NHIỆM HÀNH ĐỘNG ỨNG ẾỔ Ộ PHÓ VỚI BIẾN ĐỔI KHÍ HẬU TÀI NGUYÊN NƯỚC | GIÁO DỤC Ấ C Ụ CHẤT LƯỢNG C BÌNH ĐẲNG ta GIỚI NƯỚC SẠCH độ & VỆ SINH độ NĂNG LƯỢNG SẠCH Ề kin Ợ & BỀN VỮNG ki VIỆC LÀM ĐÀNG tế HOÀNG & TĂNG tế TRƯỞNG KINH TẾ CÔNG NGHIỆP, Ổ ́n Ệ, ĐỔI MỚI & CƠ SỞ án HẠ TẦNG CUỘC SỐNG Ỏ Ộ KHỎE MẠNH 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC HÒA BÌNH, CÔNG ẰỂ Ế t t , BẰNG & THỂ CHẾ t tr VỮNG MẠNH t tr HỢP TÁC ĐỂ n HIỆN THỰC HÓA n CÁC MỤC TIÊU n TIÊU DÙNG NƯỚC & SẢN XUẤT & VỆ SI CÓ TRÁCH NHIỆM HÀNH ĐỘNG ỨNG ẾỔ NĂNG LƯỢNG Ề q Ộ PHÓ VỚI BIẾN ĐỔI NĂNG LƯỢNG & BỀN VỮNG qu KHÍ HẬU q TÀI NGUYÊN VIỆC LÀM t NƯỚC Ệ HO t TÀI NGUYÊN CÔNG N ĐẤT DÙNG Ấ NƯỚC SẠCH N XUẤT & VỆ SINH NH ĐỘNG ỨNG Ó ỚẾỔ NĂNG LƯỢNG SẠCH Ề qu Ộ Ó VỚI BIẾN ĐỔ Ợ & BỀN VỮNG qu NGUYÊN Ớ VIỆC LÀM ĐÀNG trìn ỚC HOÀNG & TĂNG trìn TRƯỞNG KINH TẾ trìn NGUYÊN CÔNG NGHIỆP, Ổ ph Ệ, ĐỔI MỚI & CƠ SỞ ph HẠ TẦNG p 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC HÒA BÌNH, CÔNG ẰỂ Ế Th , BẰNG & THỂ CHẾ Th VỮNG MẠNH HỢP TÁC ĐỂ ha HIỆN THỰC HÓA hà CÁC MỤC TIÊU TÀI NGUYÊN ĐẤT • Nâng cao năng lực quản trị đảm bảo hiệu quả kinh tế và tăng trưởng bền vững. • ỤC ƯỢNG BÌNH ĐẲNG GIỚI NƯỚC SẠCH & VỆ SINH NĂNG LƯỢNG SẠCH & BỀN VỮNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG TRƯỞNG KINH TẾ CÔNG NGHIỆP, ĐỔI MỚI & CƠ SỞ HẠ TẦNG Các tác động kinh tế gián tiếp, góp phần giảm bất bình đẳng từ HÒA BÌNH, CÔNG BẰNG & THỂ CHẾ VỮNG MẠNH HỢP T HIỆN CÁC ĐỘNG ỨNG VỚI BIẾN ĐỔI ẬU TÀI NGUYÊN NƯỚC TÀI NGUYÊN ĐẤT ĂNG LƯỢNG SẠCH BỀN VỮNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG TRƯỞNG KINH TẾ CÔNG NGHIỆP, ĐỔI MỚI & CƠ SỞ HẠ TẦNG quá trình phát triển. • HÒA BÌNH, CÔNG BẰNG & THỂ CHẾ VỮNG MẠNH HỢP TÁC ĐỂ HIỆN THỰC HÓA CÁC MỤC TIÊU Thực hành mua sắm có trách nhiệm. | • Tái đầu tư cho phát triển dự án mới, tích lũy chuẩn bị cho các dự án cụm đô thị nghỉ dưỡng. • Tăng cường đầu tư về hạ tầng kỹ thuật mang XÓA NGHÈO lại lợi ích cho cộng đồng và các bên liên quan. • Tạo việc làm và nâng cao năng suất lao động giúp giảm bớt sự bất bình đẳng để đảm bảo thúc đẩy tăng trưởng. • Cung ứng vật liệu xanh thân thiện môi trường, giải pháp năng lượng mặt trời cho một số dự án. • Thực hiện đánh giá nhà cung cấp trên các phương diện thực hành tuân thủ về xã hội và môi trường. XÓA NGHÈO GIẢM BẤT Ẳ GIẢM BẤT BÌNH ĐẲNG [ROW] ĐẦU TƯ PHÁT TRIỂN CON NGƯỜI - QUẢN TRỊ NHÂN LỰC CHO PTBV SDG 3,4,8,16 NƯỚC SẠCH CUỘC SỐ Ỏ CUỘC SỐN Ỏ & VỆ SINH Ộ KHỎE M Ộ KHỎE MẠ NĂNG LƯỢNG SẠCH Ề GIÁO DỤC Ấ GIÁO DỤC Ấ Ợ & BỀN VỮNG Ụ CHẤT LƯỢ Ụ CHẤT LƯỢN VIỆC LÀM ĐÀNG BÌNH ĐẲNG Ớ BÌNH ĐẲNG Ớ HOÀNG & TĂNG GIỚIGIỚI TRƯỞNG KINH TẾ CÔNG NGHIỆP, Ổ NƯỚC SẠC Ệ NƯỚC SẠCH Ệ Ệ, ĐỔI MỚI & CƠ SỞ Ạ & VỆ SINH Ạ & VỆ SINH HẠ TẦNG Ệ Ệ 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC HÒA BÌNH, CÔNG ẰỂ Ế HÀNH ĐỘNG Ứ Ế HÀNH ĐỘNG ỨN Ế , BẰNG & THỂ CHẾ Ộ PHÓ VỚI BIẾN Ộ PHÓ VỚI BIẾN Đ VỮNG MẠNH KHÍ HẬUKHÍ HẬU HỢP TÁC ĐỂ TÀI NGUY Ớ TÀI NGUYÊ Ớ HIỆN THỰC HÓA NƯỚCNƯỚC CÁC MỤC TIÊU TÀI NGUYÊN TIÊU DÙNTIÊU DÙNG ĐẤT & & S NG LƯỢNG Ề GIÁO DỤC Ấ IÁO DỤC Ấ ỢẠ ỀN VỮNG Ụ CHẤT LƯỢNG Ụ HẤT LƯỢNG C LÀM ĐÀNG BÌNH ĐẲNG ÌNH ĐẲNG ÀNG GIỚIIỚI NG NGHIỆP, NƯỚC SẠCHƯỚC SẠCH Ệ MỚI & CƠ Ầ & VỆ SINH VỆ SINH NĂNG LƯỢNG SẠCH Ề ĂNG LƯỢNG SẠCH Ề Ợ & BỀN VỮNG Ợ BỀN VỮNG ỚC SẠCH Ệ CUỘC SỐNG Ỏ UỘC SỐNG Ỏ Ạ Ệ SINH Ộ KHỎE MẠNH Ộ HỎE MẠNH HÒA BÌNH, CÔNG ẰỂ Ế ÒA BÌNH, CÔNG ẰỂ Ế , BẰNG & THỂ CHẾ , ẰNG & THỂ CHẾ VỮNG MẠNHỮNG MẠNH NGUYÊN TIÊU DÙNG IÊU DÙNG T & SẢN XUẤT SẢN XUẤT CÓ TRÁCH NHIỆMÓ TRÁCH NHIỆM A BÌNH, CÔNG Ể Ế HÀNH ĐỘNG ỨNG ẾỔ ÀNH ĐỘNG ỨNG ẾỔ A BÌNH, CÔNG NG & THỂ CHẾ Ộ PHÓ VỚI BIẾN ĐỔI Ộ HÓ VỚI BIẾN ĐỔI NG MẠNH KHÍ HẬUHÍ HẬU P TÁC ĐỂ TÀI NGUYÊN ÀI NGUYÊN N THỰ NƯỚCƯỚC TÀI NGUYÊNÀI NGUYÊN ĐẤTẤT ĂNG LƯỢN Ề GIÁO DỤ Ấ GIÁO DỤC Ấ Ợ BỀN VỮNG Ụ CHẤT LƯỢN Ụ CHẤT LƯỢNG ỆC LÀM ĐÀN BÌNH ĐẲNBÌNH ĐẲNG Ệ OÀNG GIỚGIỚI ÔNG NGHIỆP, Ổ NƯỚC SẠCNƯỚC SẠCH Ệ ỔI MỚI & C Ầ & VỆ SIN& VỆ SINH NĂNG LƯỢNG SẠC Ề NĂNG LƯỢNG SẠCH Ề Ợ & BỀN VỮN Ợ & BỀN VỮNG ƯỚC SẠCH Ệ CUỘC SỐN Ỏ CUỘC SỐNG Ỏ Ạ VỆ SINH Ộ KHỎE MẠN Ộ KHỎE MẠNH HÒA BÌNH, CÔN ẰỂ HÒA BÌNH, CÔNG ẰỂ Ế , BẰNG & THỂ CH , BẰNG & THỂ CHẾ VỮNG MẠNVỮNG MẠNH ÀI NGUYÊN TIÊU DÙNTIÊU DÙNG ẤT & SẢN XUẤ& SẢN XUẤT CÓ TRÁCH NHIỆMCÓ TRÁCH NHIỆM ÒA BÌNH, CÔNG ẰỂ Ế HÀNH ĐỘNG ỨN Ế HÀNH ĐỘNG ỨNG ẾỔ ÒA BÌNH, CÔNG ẰNG & THỂ CHẾ Ộ PHÓ VỚI BIẾN ĐỔ Ộ PHÓ VỚI BIẾN ĐỔI ỮNG MẠN KHÍ HẬKHÍ HẬU ỢP TÁC ĐỂ TÀI NGUYÊTÀI NGUYÊN Ợ ỆN TH NƯỚNƯỚC TÀI NGUYÊTÀI NGUYÊN ĐẤĐẤT | VIỆC LÀM ĐÀNG IỆC LÀM ĐÀNG HOÀNG & TĂNG OÀNG & TĂNG TRƯỞNG KINH TẾRƯỞNG KINH TẾ CÔNG NGHIỆP, Ổ ÔNG NGHIỆP, Ổ M Ệ, ĐỔI MỚI & CƠ SỞ Ệ, ỔI MỚI & CƠ SỞ Ma HẠ TẦNGẠ TẦNG M 17 MỤC TIÊU ỂỀ 7 MỤC TIÊU ỂỀ N Ụ PHÁT TRIỂN BỀN VỮNG Ụ HÁT TRIỂN BỀN VỮNG Nh CỦA LIÊN HỢP QUỐCỦA LIÊN HỢP QUỐC Nh HỢP TÁC ĐỂỢP TÁC ĐỂ HIỆN THỰC HÓAIỆN THỰC HÓA CÁC MỤC TIÊUÁC MỤC TIÊU VIỆC LÀM ĐÀNVIỆC LÀM ĐÀNG HOÀNG & TĂNHOÀNG & TĂNG TRƯỞNG KINH TTRƯỞNG KINH TẾ CÔNG NGHIỆ Ổ CÔNG NGHIỆP, Ổ M Ệ, ĐỔI MỚI & CƠ S Ệ, ĐỔI MỚI & CƠ SỞ Ma HẠ TẦNHẠ TẦNG M 17 MỤC TIÊ ỂỀ 17 MỤC TIÊU ỂỀ N Ụ PHÁT TRIỂN BỀN VỮN Ụ PHÁT TRIỂN BỀN VỮNG Nh CỦA LIÊN HỢP QUỐCỦA LIÊN HỢP QUỐC Nh HỢP TÁC ĐHỢP TÁC ĐỂ HIỆN THỰC HÓHIỆN THỰC HÓA CÁC MỤC TIÊCÁC MỤC TIÊU • Chương trình Giám đốc điều hành - CEO. • Chuỗi hội thảo với chủ đề “Tái cấu trúc Khối điều hành dự án – The New Gene of General ÔNG NGHIỆP, ỔI MỚI & CƠ SỞ Ạ TẦNG NG NGHIỆP, I MỚI & CƠ SỞ TẦNG Management Department”. • Cải tiến chương trình đào tạo 7 MỤC TIÊU RIỂN BỀN VỮNG LIÊN HỢP QUỐC MỤC TIÊU IỂN BỀN VỮNG ÊN HỢP QUỐC Nhân viên kinh doanh tân tuyển. • Hệ thống Quản lý học tập – Learning Management System (LMS) với sự phát triển chức năng Khung chỉ số năng lực. | • Triển khai các chương trình đào tạo với tổng số giờ đào tạo trên 71.000 giờ. • Hơn 152 khóa học được tổ chức trong năm 2019. • Chương trình CEO dành cho 25 quản lý cấp cao với 11 chuyên đề được chia sẻ và 1.939 giờ đào tạo. • 57 đội ngũ nhân tài (talents) đến từ 06 Khối; 51% học viên tham gia vào dự án đã và đang thuộc đội ngũ Quản lý cấp trung. • Chuỗi hội thảo với chủ đề “Tái cấu trúc Khối Điều hành Dự án – The New Gene of General Management Department” thu hút sự quan tâm của đội ngũ điều hành dự án với 490 lượt tham dự nhằm nâng cao hiệu quả tương tác liên phòng ban.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 11
+      }
+    },
+    {
+      "paragraph_id": 2762,
+      "text": "[TABLE] [CONTEXT] section: TÓM TẮT HIỆU QUẢ HOẠT ĐỘNG PTBV 2019 ; column_headers: LĨNH VỰC | CÁC CHƯƠNG TRÌNH SÁNG KIẾN | KẾT QUẢ THỰC HIỆN [ROWS] LĨNH VỰC | CÁC CHƯƠNG TRÌNH SÁNG KIẾN | KẾT QUẢ THỰC HIỆN [ROW] ĐẦU TƯ PHÁT TRIỂN CON NGƯỜI - QUẢN TRỊ NHÂN LỰC CHO PTBV SDG 3,4,8,16 NƯỚC SẠCH CUỘC SỐ Ỏ CUỘC SỐN Ỏ & VỆ SINH Ộ KHỎE M Ộ KHỎE MẠ NĂNG LƯỢNG SẠCH Ề GIÁO DỤC Ấ GIÁO DỤC Ấ Ợ & BỀN VỮNG Ụ CHẤT LƯỢ Ụ CHẤT LƯỢN VIỆC LÀM ĐÀNG BÌNH ĐẲNG Ớ BÌNH ĐẲNG Ớ HOÀNG & TĂNG GIỚIGIỚI TRƯỞNG KINH TẾ CÔNG NGHIỆP, Ổ NƯỚC SẠC Ệ NƯỚC SẠCH Ệ Ệ, ĐỔI MỚI & CƠ SỞ Ạ & VỆ SINH Ạ & VỆ SINH HẠ TẦNG Ệ Ệ 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC HÒA BÌNH, CÔNG ẰỂ Ế HÀNH ĐỘNG Ứ Ế HÀNH ĐỘNG ỨN Ế , BẰNG & THỂ CHẾ Ộ PHÓ VỚI BIẾN Ộ PHÓ VỚI BIẾN Đ VỮNG MẠNH KHÍ HẬUKHÍ HẬU HỢP TÁC ĐỂ TÀI NGUY Ớ TÀI NGUYÊ Ớ HIỆN THỰC HÓA NƯỚCNƯỚC CÁC MỤC TIÊU TÀI NGUYÊN TIÊU DÙNTIÊU DÙNG ĐẤT & & S NG LƯỢNG Ề GIÁO DỤC Ấ IÁO DỤC Ấ ỢẠ ỀN VỮNG Ụ CHẤT LƯỢNG Ụ HẤT LƯỢNG C LÀM ĐÀNG BÌNH ĐẲNG ÌNH ĐẲNG ÀNG GIỚIIỚI NG NGHIỆP, NƯỚC SẠCHƯỚC SẠCH Ệ MỚI & CƠ Ầ & VỆ SINH VỆ SINH NĂNG LƯỢNG SẠCH Ề ĂNG LƯỢNG SẠCH Ề Ợ & BỀN VỮNG Ợ BỀN VỮNG ỚC SẠCH Ệ CUỘC SỐNG Ỏ UỘC SỐNG Ỏ Ạ Ệ SINH Ộ KHỎE MẠNH Ộ HỎE MẠNH HÒA BÌNH, CÔNG ẰỂ Ế ÒA BÌNH, CÔNG ẰỂ Ế , BẰNG & THỂ CHẾ , ẰNG & THỂ CHẾ VỮNG MẠNHỮNG MẠNH NGUYÊN TIÊU DÙNG IÊU DÙNG T & SẢN XUẤT SẢN XUẤT CÓ TRÁCH NHIỆMÓ TRÁCH NHIỆM A BÌNH, CÔNG Ể Ế HÀNH ĐỘNG ỨNG ẾỔ ÀNH ĐỘNG ỨNG ẾỔ A BÌNH, CÔNG NG & THỂ CHẾ Ộ PHÓ VỚI BIẾN ĐỔI Ộ HÓ VỚI BIẾN ĐỔI NG MẠNH KHÍ HẬUHÍ HẬU P TÁC ĐỂ TÀI NGUYÊN ÀI NGUYÊN N THỰ NƯỚCƯỚC TÀI NGUYÊNÀI NGUYÊN ĐẤTẤT ĂNG LƯỢN Ề GIÁO DỤ Ấ GIÁO DỤC Ấ Ợ BỀN VỮNG Ụ CHẤT LƯỢN Ụ CHẤT LƯỢNG ỆC LÀM ĐÀN BÌNH ĐẲNBÌNH ĐẲNG Ệ OÀNG GIỚGIỚI ÔNG NGHIỆP, Ổ NƯỚC SẠCNƯỚC SẠCH Ệ ỔI MỚI & C Ầ & VỆ SIN& VỆ SINH NĂNG LƯỢNG SẠC Ề NĂNG LƯỢNG SẠCH Ề Ợ & BỀN VỮN Ợ & BỀN VỮNG HOÀNG & TĂNHOÀNG & TĂNG ƯỚC SẠCH Ệ CUỘC SỐN Ỏ CUỘC SỐNG Ỏ Ạ VỆ SINH Ộ KHỎE MẠN Ộ KHỎE MẠNH HÒA BÌNH, CÔN ẰỂ HÒA BÌNH, CÔNG ẰỂ Ế , BẰNG & THỂ CH , BẰNG & THỂ CHẾ VỮNG MẠNVỮNG MẠNH HỢP TÁC ĐHỢP TÁC ĐỂ ÀI NGUYÊN TIÊU DÙNTIÊU DÙNG ẤT & SẢN XUẤ& SẢN XUẤT CÓ TRÁCH NHIỆMCÓ TRÁCH NHIỆM ÒA BÌNH, CÔNG ẰỂ Ế HÀNH ĐỘNG ỨN Ế HÀNH ĐỘNG ỨNG ẾỔ ÒA BÌNH, CÔNG ẰNG & THỂ CHẾ Ộ PHÓ VỚI BIẾN ĐỔ Ộ PHÓ VỚI BIẾN ĐỔI ỮNG MẠN KHÍ HẬKHÍ HẬU ỢP TÁC ĐỂ TÀI NGUYÊTÀI NGUYÊN Ợ ỆN TH NƯỚNƯỚC TÀI NGUYÊTÀI NGUYÊN ĐẤĐẤT | VIỆC LÀM ĐÀNG IỆC LÀM ĐÀNG HOÀNG & TĂNG OÀNG & TĂNG TRƯỞNG KINH TẾRƯỞNG KINH TẾ CÔNG NGHIỆP, Ổ ÔNG NGHIỆP, Ổ Ệ, ĐỔI MỚI & CƠ SỞ Ệ, ỔI MỚI & CƠ SỞ HẠ TẦNGẠ TẦNG 17 MỤC TIÊU ỂỀ 7 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG Ụ HÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐCỦA LIÊN HỢP QUỐC HỢP TÁC ĐỂỢP TÁC ĐỂ HIỆN THỰC HÓAIỆN THỰC HÓA CÁC MỤC TIÊUÁC MỤC TIÊU VIỆC LÀM ĐÀNVIỆC LÀM ĐÀNG TRƯỞNG KINH TTRƯỞNG KINH TẾ CÔNG NGHIỆ Ổ CÔNG NGHIỆP, Ổ Ệ, ĐỔI MỚI & CƠ S Ệ, ĐỔI MỚI & CƠ SỞ HẠ TẦNHẠ TẦNG 17 MỤC TIÊ ỂỀ 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮN Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐCỦA LIÊN HỢP QUỐC HIỆN THỰC HÓHIỆN THỰC HÓA CÁC MỤC TIÊCÁC MỤC TIÊU | • Chương trình đào tạo nhân viên kinh doanh tân tuyển được cải tiến áp dụng hình thức học trực tuyến, giúp rút ngắn thời lượng đào tạo trực tiếp và nâng cao năng lực cho đội ngũ nhân viên kinh doanh. • Hệ thống Quản lý học tập – Learning Management System: Ngoài chức năng triển khai đào tạo trực tuyến còn được phát triển thêm chức năng Khung chỉ số năng lực, giúp toàn thể nhân viên chủ động học tập để đáp ứng lộ trình phát triển cá nhân. [ROW] QUẢN LÝ TÁC ĐỘNG MÔI TRƯỜNG - PHÁT TRIỂN CÁC DỰ ÁN XANH VÀ BỀN VỮNG SDG 7,9,12,13,16 XÓA NGHÈONẠN ĐÓIKHỎE MẠNHXÓA NGHÈONẠN ĐÓIKHỎE MẠNH VIỆC LÀM ĐÀNG NĂNG LƯỢNG S Ề GIẢM BẤT ÌẲ GIẢM BẤT ÌẲ HOÀNG & TĂNG & BỀN VỮNG BÌNH ĐẲNG ÌNH ĐẲNG TRƯỞNG KINH TẾ CÔNG NGHIỆP, Ổ VIỆC LÀM ĐÀN Ô THỊ & CỘNG Đ ỀỮ THỊ & CỘNG ĐỒ Ữ Ệ, ĐỔI MỚI & CƠ SỞ Ệ HOÀNG & TĂNG Ị Ộ ỀN VỮNG Ị Ộ N VỮNG HẠ TẦNGTRƯỞNG 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC HỢP TÁC ĐỂHÒA BÌNH, Ằ HIỆN THỰC HÓABẰNG & THỂ C CÁC MỤC TIÊUVỮNG MẠNH IỆC LÀM ĐÀNG NĂNG LƯỢNG SẠCH Ề GIẢM BẤT ÌẲ ẢM BẤT Ẳ Ệ OÀNG & TĂN Ợ & BỀN VỮNG BÌNH ĐẲNG NH ĐẲNG CÔNG NGHIỆP, ỔỞ VIỆC LÀM ĐÀNG Ô THỊ & CỘNG ĐỒN ỀỮ THỊ & CỘNG ĐỒNG Ữ ĐỔI MỚI & CƠ SHOÀNG & TĂNG ỀN VỮNG VỮNG HẠ TẦNGTRƯỞNG KINH TẾ CÔNG NGHIỆP, Ổ ÊU DÙNG ẢẤ U DÙNG ẢẤ Ệ, ĐỔI MỚI & CƠ SỞ SẢN XUẤT ẢN XUẤT HẠ TẦNG Ó TRÁCH NTRÁCH NH 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC HỢP TÁC ĐỂHÒA BÌNH, CÔNG ẰỂ Ế Ợ HIỆN THỰC HÓA , BẰNG & THỂ CHẾ CÁC MỤC TIÊUVỮNG MẠNH HỢP TÁC ĐỂ HIỆN THỰC HÓA CÁC MỤC TIÊU GIÁO DỤC Ấ IÁO DỤC Ấ Ụ CHẤT LƯỢNG Ụ HẤT LƯỢNG BÌNH ĐẲNG ÌNH ĐẲNG GIỚIIỚI NƯỚC SẠCHƯỚC SẠCH & VỆ SINH VỆ SINH SD XÓA NGHÈOÓA NGHÈO KHÔNG CÒNHÔNG CÒN 79 NẠN ĐÓIẠN ĐÓI CUỘC SỐNG Ỏ UỘC SỐNG Ỏ 13 Ộ KHỎE MẠNH Ộ HỎE MẠNH VIỆC LÀM ĐNĂNG LƯ GIẢM BẤT Ẳ IẢM BẤT Ẳ VIỆC LÀM Đ HOÀNG & TĂ NĂNG LƯỢ & BỀN VỮN GIẢM BẤT BÌNH ĐẲNG IẢM BẤT ÌNH ĐẲNG CÔNG NGHIỆP, ỔỞ VIỆC LÀM ĐÀNG ĐÔ THỊ & CỘNG ĐỒNG Ề Ô THỊ & CỘNG ĐỒNG Ề CÔG ĐỔI MỚI ỆC HOÀNG Ị BỀN VỮNG Ị Ộ ỀN VỮNG CÔNG NG TIÊU DÙNG IÊU DÙNG CÔNG NGH ĐỔI MỚI & & SẢN XUẤT SẢN XUẤT HẠ TẦNG CÓ TRÁCH NHIỆMÓ TRÁCH NHIỆM HÀNH ĐỘNG ỨNG ẾỔ ÀNH ĐỘNG ỨNG ẾỔ Ộ PHÓ VỚI BIẾN ĐỔI Ộ HÓ VỚI BIẾN ĐỔI KHÍ HẬUHÍ HẬU TÀI NGUYÊN ÀI NGUYÊN NƯỚCƯỚC ĐẤTẤT GIÁO DỤ Ấ GIÁO DỤC Ấ Ụ CHẤT LƯỢN Ụ CHẤT LƯỢNG BÌNH ĐẲNBÌNH ĐẲNG GIỚGIỚI NƯỚC SẠCNƯỚC SẠCH & VỆ SIN& VỆ SINH SD XÓA NGHÈXÓA NGHÈO KHÔNG CÒKHÔNG CÒN 79 NẠN ĐÓNẠN ĐÓI CUỘC SỐN Ỏ CUỘC SỐNG Ỏ 13 Ộ KHỎE MẠN Ộ KHỎE MẠNH VIỆC LÀM NĂNG L GIẢM BẤ Ẳ GIẢM BẤT Ẳ VIỆC LÀM HOÀNG & T NĂNG LƯ & BỀN VỮ GIẢM BẤT BÌNH ĐẲNGIẢM BẤT BÌNH ĐẲNG CÔNG NGHIỆP, ỔỞ VIỆC LÀM ĐÀNG ĐÔ THỊ & CỘNG ĐỒN Ề ĐÔ THỊ & CỘNG ĐỒNG Ề CÔG ĐỔI MỚ ỆC HOÀN Ị BỀN VỮN Ị BỀN VỮNG CÔNG N TIÊU DÙNTIÊU DÙNG CÔNG NG ĐỔI MỚI & SẢN XUẤ& SẢN XUẤT HẠ TẦNG CÓ TRÁCH NHIỆMCÓ TRÁCH NHIỆM HÀNH ĐỘNG ỨN Ế HÀNH ĐỘNG ỨNG ẾỔ Ộ PHÓ VỚI BIẾN ĐỔ Ộ PHÓ VỚI BIẾN ĐỔI KHÍ HẬKHÍ HẬU TÀI NGUYÊTÀI NGUYÊN NƯỚNƯỚC TÀI NGUYÊTÀI NGUYÊN ĐẤĐẤT | NĂNG LƯỢNG SẠCH Ề ĂNG LƯỢNG SẠCH Ề Đà Ợ & BỀN VỮNG Ợ BỀN VỮNG Đ VIỆC LÀM ĐÀNG IỆC LÀM ĐÀNG tạ HOÀNG & TĂNG OÀNG & TĂNG tạ TRƯỞNG KINH TẾRƯỞNG KINH TẾ ạ CÔNG NGHIỆP, Ổ ÔNG NGHIỆP, Ổ nân Ệ, ĐỔI MỚI & CƠ SỞ Ệ, ỔI MỚI & CƠ SỞ nân HẠ TẦNGẠ TẦNG 17 MỤC TIÊU ỂỀ 7 MỤC TIÊU ỂỀ ứu Ụ PHÁT TRIỂN BỀN VỮNG Ụ HÁT TRIỂN BỀN VỮNG ứu CỦA LIÊN HỢP QUỐCỦA LIÊN HỢP QUỐC HÒA BÌNH, CÔNG ẰỂ Ế ÒA BÌNH, CÔNG ẰỂ Ế , BẰNG & THỂ CHẾ , ẰNG & THỂ CHẾ VỮNG MẠNHỮNG MẠNH N HỢP TÁC ĐỂỢP TÁC ĐỂ HIỆN THỰC HÓAIỆN THỰC HÓA CÁC MỤC TIÊUÁC MỤC TIÊU ê TÀI NGUYÊNÀI NGUYÊN NĂNG LƯỢNG SẠC Ề NĂNG LƯỢNG SẠCH Ề Đà Ợ & BỀN VỮN Ợ & BỀN VỮNG Đ VIỆC LÀM ĐÀNVIỆC LÀM ĐÀNG tạ HOÀNG & TĂNHOÀNG & TĂNG tạ TRƯỞNG KINH TTRƯỞNG KINH TẾ ạ CÔNG NGHIỆ Ổ CÔNG NGHIỆP, Ổ nâ Ệ, ĐỔI MỚI & CƠ S Ệ, ĐỔI MỚI & CƠ SỞ nân HẠ TẦNHẠ TẦNG 17 MỤC TIÊ ỂỀ 17 MỤC TIÊU ỂỀ ứu Ụ PHÁT TRIỂN BỀN VỮN Ụ PHÁT TRIỂN BỀN VỮNG cứu CỦA LIÊN HỢP QUỐCỦA LIÊN HỢP QUỐC HÒA BÌNH, CÔN ẰỂ HÒA BÌNH, CÔNG ẰỂ Ế , BẰNG & THỂ CH , BẰNG & THỂ CHẾ VỮNG MẠNVỮNG MẠNH N HỢP TÁC ĐHỢP TÁC ĐỂ HIỆN THỰC HÓHIỆN THỰC HÓA CÁC MỤC TIÊCÁC MỤC TIÊU ê • Đánh giá chuẩn về sử dụng vật liệu, quản lý năng lượng và môi trường tại các dự án. • NG LƯỢNG SẠCH BỀN VỮNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG TRƯỞNG KINH TẾ CÔNG NGHIỆP, ĐỔI MỚI & CƠ SỞ HẠ TẦNG G LƯỢNG SẠCH ỀN VỮNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG TRƯỞNG KINH TẾ CÔNG NGHIỆP, ĐỔI MỚI & CƠ SỞ HẠ TẦNG Đào tạo nâng cao nhận thức về quản lý giám sát môi trường. • 17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC ỮNG MẠNHCÁC MỤC TIÊU 17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC G MẠNHCÁC MỤC TIÊU Nghiên cứu triển khai các dự án công trình xanh. • Ứng dụng CNTT vào các mảng hoạt động quản trị, kinh doanh và quản lý dự án. | • Xây dựng định mức sử dụng năng lượng và thực hành tiết kiệm năng lượng. • Triển khai đánh giá tác động môi trường cho tất cả các dự án thực hiện. • Đánh giá triển khai các dự án công trình xanh theo tiêu chuẩn EDGE của IFC. • Trung tâm giám sát các dự án từ xa, quản lý vận hành đồng bộ và theo dõi tình hình triển khai các dự án. • Đưa công nghệ mang tính nhân bản và thiết thực vào các dự án đô thị sinh thái thông minh như: Hệ thống nước tưới thông minh, hệ thống làm mát môi trường thông minh, hệ thống chiếu sáng thông minh, hệ thống nước uống công cộng... [ROW] TẠO LẬP VÀ CHIA SẺ GIÁ TRỊ SDG 1,6,3,11,16,17 XÓA NGHÈONẠN ĐÓI GIÁO DỤC Ấ ƯỚC SẠCH ẢM BẤT CÔNG NG ĐỔI MỚI CUỘC S Ỏ Ụ CHẤT LƯỢNG Ạ VỆ SINH ẢM BẤT NH ĐẲNG ĐỔI MỚI & C HẠ TẦNG Ộ KHỎE MẠN BÌNH ĐẲNG ĂNG LƯỢNG HỊ & CỘNG Đ GIÁO DỤC GIỚI BỀN HỊ & VỮNG CH NƯỚC SẠCH ỆC LÀM ĐÀNG DÙNG BÌNH ĐẲNG & VỆ SINH ÀNG & TĂN Ở DÙNG ẢN XUẤT GIỚI KHÔNG CÒN ÁO DỤC NĂNG LƯỢN & BỀN VỮN NẠN ĐÓI HẤT LƯỢN & BỀN V XÓA N CUỘC SỐNG Ỏ NH ĐẲNG Ớ VIỆC LÀM ĐÀ HOÀNG & TĂ KHÔNG CÒ Ộ KHỎE MẠNH ỚI HOÀNG & TĂ TRƯỞNG KIN NẠN ĐÓI ĐÔ THỊ & CỘNG ĐỒNG Ề HÀNH ĐỘNG ỨNG Ó ỚẾỔ HÒA BÌNH, CÔNG BẰNG & THỂ CHẾ GIẢM BẤT Ẳ Ị BỀN VỮNG Ộ PHÓ VỚI BI BẰNG & VỮNG M BÌNH Đ TIÊU DÙNG ÀI NGUYÊN HỢP TÁC HIỆN THỰ ĐÔ THỊ & C & SẢN XUẤT ƯỚC HIỆN THỰC CÁC MỤC T Ị Ộ BỀN VỮNG CÓ TRÁCH NHIỆM CÁC MỤC TIÊU HÀNH ĐỘNG ỨNG ẾỔ I NGUYÊN TIÊU DÙNG ẢẤ Ộ PHÓ VỚI BIẾN ĐỔIT TIÊU DÙNG & SẢN XUẤT KHÍ HẬU CÓ TRÁ TÀI NGUYÊN ÒA BÌNH, CÔN HÀNH ĐỘN NƯỚC ẰNG & PHÓ TÀI NGUYÊN ỢP TÁC ĐỂ TÀI NGUY ĐẤT Ợ IỆN T N KHÔNG GIÁO DỤC Ấ NĂNG L & BỀN NẠN ĐÓI Ụ CHẤT LƯỢNG & BỀN VỮ XÓA NGH CUỘC SỐ BÌNH ĐẲNG VIỆC LÀM HOÀNG & KHÔNG K GIỚI H T GIÁO DỤC Ấ NƯỚC SẠCH IẢM BẤT CÔNG NG ĐỔI MỚI CUỘC S Ỏ CHẤT LƯ& VỆ SINH IẢM BẤT ÌNH ĐẲNG ĐỔI MỚ HẠ TẦN Ộ KHỎE BÌNH ĐẲNG Ớ NĂNG LƯỢNG SẠCH Ề Ô THỊ & CỘNG ĐỒNG GIÁO DỤC Ấ GIỚI Ợ & BỀN VỮNG Ô THỊ & CỘNG Đ ỀN VỮNG Ụ CHẤT LƯ NƯỚC SẠCH Ệ VIỆC LÀM ĐÀNG IÊU DÙNG BÌNH ĐẲNG Ớ & VỆ SINH HOÀNG & TĂNG SẢN XUẤT GIỚI Ệ TRƯỞNG KINH TẾ & SẢN XUẤT Ó TRÁCH NHIỆM NĂNG LƯỢNG Ề CÔNG NGHIỆP, Ổ ÀNH ĐỘNG ỨN NƯỚC SẠC Ệ HẠ TẦNG HÓ VỚI B HÍ HẬU Ệ 17 MỤC TIÊU ỂỀ TÀI NGUYÊN HÒA BÌNH, CÔNG ẰỂ Ế HÀNH ĐỘNG Ế NƯỚC , BẰNG & THỂ CHẾ Ộ PHÓ VỚI BIẾN VỮNG MẠNH KHÍ HẬU TÀI NGUYÊ Ấ HỢP TÁC ĐỂ TÀI NGU Ớ ĐẤT HIỆN THỰC HÓA NƯỚC CÁC MỤC TIÊU ĐÔ THỊ & CỘNG Đ Ề HÀNH ĐỘNG ỨNG ẾỔ HÒA BÌNH, CÔ BẰNG & THỂ C GIẢM BẤT Ẳ ĐÔ THỊ & CỘNG ĐỒ BỀN VỮNG Ộ PHÓ VỚI BIẾN ĐỔI BẰNG & THỂ CH VỮNG MẠNH GIẢM BẤT BÌNH ĐẲNG KHÍ HẬU VỮNG TIÊU DÙNG TÀI NGUYÊN HỢP TÁC HIỆN THỰ ĐÔ THỊ & C & SẢ NƯỚC HIỆ CÁ BỀ HÀNH ĐỘNTÀI NGUYÊN TIÊU DÙN PĐẤT GIÁO DỤC Ấ Ụ CHẤT LƯỢNG 11 XÓA NGHÈO KHÔNG CÒN 7 NẠN ĐÓI CUỘC SỐNG Ỏ Ộ KHỎE MẠNH GIÁO D Ấ NƯỚC SẠ Ệ GIẢM BẤT Ẳ CÔNG ĐỔI M CUỘ Ỏ CHẤT LƯ& VỆ SINH GIẢM BẤT BÌNH ĐẲNG ĐỔI MỚ HẠ TẦN Ộ KHỎE BÌNH ĐẲNG GIỚI NĂNG LƯỢNG SẠC ỀỮ ĐÔ THỊ & CỘNG ĐỒNG Ề GIÁO DỤC CHẤT LƯỢNG GIỚI & BỀN V Ị BỀN VỮNG CH NƯỚC Ệ VIỆC LÀM TIÊU DÙNG BÌNH Ớ & VỆ SIN HOÀNG & T Ở & SẢN XUẤT GIỚI TRƯỞNG KINH TẾ CÓ TRÁCH NHIỆM HẠ TẦN KHÍ HẬU KHÔNG CÒN ÁO DỤC NĂNG LƯỢNG SẠCH Ề KHÔNG CÒN NẠN ĐÓI ÁO DỤC ẤT LƯỢNG Ợ & BỀN VỮNG XÓA NGHÈO CUỘC SỐNG NH ĐẲNG VIỆC LÀM ĐÀNG KHÔNG CÒN CUỘC SỐNG KHỎE MẠNH NH ĐẲNG ỚI HOÀNG & TĂNG KHÔNG CÒN NẠN ĐÓI KHỎE MẠNH ỚI TRƯỞNG KINH TẾ NẠN ĐÓI GIÁO DỤCƯỚC SẠCH M BẤT CÔNG NGHIỆP, Ổ CUỘC SỐNG GIÁO DỤC CHẤT LƯỢNG ƯỚC SẠCH VỆ SINH M BẤT Ẳ Ệ, ĐỔI MỚI & CƠ SỞ CUỘC SỐNG KHỎE MẠNH CHẤT LƯỢVỆ SINH H ĐẲNG HẠ TẦNG KHỎE M 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC Ô THỊ & CỘNG ĐỒN NH ĐỘNG ỨNG HÒA BÌNH, CÔNG ẰỂ Ế GIẢM BẤT Ô THỊ & CỘNG ĐỒNG ỀN VỮNG NH ĐỘNG ỨNG Ó VỚI BIẾN ĐỔI , BẰNG & THỂ CHẾ GIẢM BẤT BÌNH ĐẲNG ỀN VỮNG Ó VỚI BIẾN Đ Í HẬU VỮNG MẠNH BÌNH ĐẲNG IÊU DÙNG NGUYÊN HỢP TÁC ĐỂ ĐÔ THỊ & CỘN IÊU DÙNG SẢN XUẤT NGUYÊN ƯỚC HIỆN THỰC HÓA ĐÔ THỊ & CỘNG Đ BỀN VỮNG SẢN XUẤT Ó TRÁCH NHIỆM ƯỚC CÁC MỤC TIÊU BỀN VỮNG NH ĐẲNG G LƯỢNG S Ề & CỘNG ĐỒ GIÁO DỤC Ấ ỚI ỢẠ ỀN VỮNG & CỘNG ĐỒNG ỮNG Ụ CHẤT LƯỢNG ƯỚC SẠCH LÀM ĐÀNG DÙNG BÌNH ĐẲNG VỆ S NG & DÙNG N XUẤ GIỚI ẠN ĐÓI T LƯỢNG BỀN VỮNG XÓA NGHÈO UỘC SỐNG H ĐẲNG IỆC LÀM ĐÀN OÀNG & TĂN KHÔNG CÒN HỎE MẠN OÀNG & RƯỞNG K NẠN ĐÓI ÁO DỤC Ấ C SẠCH Ệ BẤT Ẳ ÔNG NGHIỆP ỔI MỚI & CƠ CUỘC SỐNG Ỏ Ụ ẤT LƯỢNG Ạ Ệ SINH BẤT ĐẲNG ỔI MỚI & CƠ Ạ TẦNG Ộ KHỎE MẠNH THỊ & CỘNG H ĐỘNG ỨN ÒA BÌNH, C ẰNG & THỂ GIẢM BẤT Ẳ THỊ & CỘNG Đ N VỮNG Ộ VỚI BIẾN ĐỔ ẰNG & THỂ ỮNG MẠNH GIẢM BẤT BÌNH ĐẲNG IÊU DÙNG ẢẤ I NGUYÊN Ớ HỢP TÁC ĐỂ HIỆN THỰC HÓA ĐÔ THỊ & CỘNG ĐỒNG Ề SẢN XUẤ ỚC HIỆN THỰC CÁC MỤC Ị BỀN VỮNG ÀNH ĐỘNG NGUYÊN TIÊU DÙNG Ộ HÓ VỚI BIẾN & SẢN XUẤT HÍ HẬU CÓ TRÁCH NHIỆM ÀI NGUYÊN BÌNH, CÔNG Ể Ế HÀNH ĐỘNG ỨNG ẾỔ ƯỚC BÌNH, CÔNG G & THỂ CHẾ Ộ PHÓ VỚI BIẾN ĐỔI G MẠNH KHÍ HẬU I NGUYÊN TÁC ĐỂ TÀI NGUYÊN ẤT N THỰC NƯỚC ẰNG ĐẤT | NĂNG LƯỢNG SẠCH Ề ÔNG NGHIỆP, ỔỞ NH ĐỘNG ỨNG Ổ NƯỚC SẠCH Ệ Ợ & BỀN VỮNG Ệ, ỔI MỚI & CƠ NH ĐỘNG ỨNG Ó VỚI BIẾN Đ Ạ & VỆ SINH VIỆC LÀM ĐÀNG I NGUYÊN NĂNG LƯỢNG Ề G HOÀNG & TĂNG ỚC & BỀN VỮNG G TRƯỞNG KINH TẾ ƯỚC Gi CÔNG NGHIỆP, Ổ NGUYÊN VIỆC LÀM ĐÀ qu Ệ, ĐỔI MỚI & CƠ SỞ NGUYÊN Ệ HOÀNG & TĂNG qu HẠ TẦNGTRƯỞNG q 17 MỤC TIÊU ỂỀ m s Ụ PHÁT TRIỂN BỀN VỮNG m s CỦA LIÊN HỢP QUỐC m s HÒA BÌNH, CÔNG ẰỂ Ế TÀI NGUYÊN Ấ , BẰNG & THỂ CHẾ ĐẤT VỮNG MẠNH HỢP TÁC ĐỂHÒA BÌNH Ằ HIỆN THỰC HÓABẰNG & THỂ C CÁC MỤC TIÊUVỮNG MẠNH ỢẠ & BỀN VỮNG Ệ, ĐỔI MỚI & CƠ SỞ HÀNH ĐỘNG ỨNG PHÓ VỚI BIẾN ĐỔI Ạ & VỆ SINH Ụ PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC BÌNH ĐẲNG GIỚI NƯỚC SẠCH & VỆ SINH NĂNG LƯỢNG SẠCH Ề b Ợ & BỀN VỮNG b VIỆC LÀM ĐÀNG HOÀNG & TĂNG i TRƯỞNG KINH TẾ gia CÔNG NGHIỆP, Ổ Ệ, ĐỔI MỚI & CƠ SỞ HẠ TẦNG 17 MỤC TIÊU ỂỀ Ụ PHÁT TRIỂN BỀN VỮNG kh CỦA LIÊN HỢP QUỐC kh HÒA BÌNH, CÔNG ẰỂ Ế CÔNG NGHI ỔỚ ết p , BẰNG & THỂ CHẾ ĐỔI MỚI & C Ầ ết p VỮNG MẠNH HẠ TẦN ết HỢP TÁC ĐỂ ản HIỆN THỰC HÓA ản CÁC MỤC TIÊU ản NĂNG LƯỢNG ỀỮ CÔNG NGHIỆP, ỔỚƠ HÀNH ĐỘNG ỨNG ẾỔ NƯỚC SẠCH Ệ S Ợ & BỀN VỮNG Ệ ĐỔI MỚI & CƠ SỞ Ầ Ộ PHÓ VỚI BIẾN ĐỔI & VỆ SINH VIỆC LÀM TÀI NGUYÊN NĂNG L Ề G HO NƯỚC & CÔNG NG Ổ TÀI NGUYÊN VIỆC LÀ q ĐẤT ĂNG LƯỢNG S Ề G NGHIỆP, Ở ĐỘNG ỨNG NƯỚC SẠCH Ợ BỀN VỮNG Ệ MỚI & CƠ S Ầ ỘG ỨG VỚI BIẾN ĐỔ & VỆ SINH ỆC LÀM ĐÀNG GUYÊN NĂNG LƯỢNG SẠCH Ề Giả Ệ OÀNG & TĂNG GUYÊN C Ợ & BỀN VỮNG G ÔNG NGHIỆP, ỔỞ GUYÊN VIỆC LÀM ĐÀNG qu ỔI MỚI & CƠ SỞHOÀNG & TĂNG qu Ạ TẦNGTRƯỞNG KINH TẾ qu BÌNH, CÔNG CÔNG NGHIỆP, Ổ t p BÌNH, CÔNG & THỂ CHẾ Ệ, ĐỔI MỚI & CƠ SỞ t p & THỂ CH MẠNH HẠ TẦNG t 17 MỤC TIÊU ỂỀ qu Ụ PHÁT TRIỂN BỀN VỮNG qu CỦA LIÊN HỢP QUỐC qu ỢP TÁC ĐỂHÒA BÌNH, CÔNG ẰỂ Ế Ợ ỆN THỰC HÓA , BẰNG & THỂ CHẾ ÁC MỤC TIÊUVỮNG MẠNH HỢP TÁC ĐỂ HIỆN THỰC HÓA CÁC MỤC TIÊU ÒA BÌNH, CÔ TÀI NGUYÊN • Đảm bảo chất lượng sản phẩm qua từng giai đoạn từ thiết kế, xây NG NƯỚC SẠCH & VỆ SINH NĂNG LƯỢNG SẠCH & BỀN VỮNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG TRƯỞNG KINH TẾ dựng đến bàn giao. • LÀM ĐÀNG NG & TĂNG ỞNG KINH TẾ CÔNG NGHIỆP, ĐỔI MỚI & CƠ SỞ HẠ TẦNG HÒA BÌNH, CÔNG BẰNG & THỂ CHẾ VỮNG MẠNH HỢP TÁC ĐỂ HIỆN THỰC HÓA CÁC MỤC TIÊU UYÊN TÀI NGUYÊN ĐẤT ĂNG LƯỢNG SẠCH BỀN VỮNG VIỆC LÀM ĐÀNG HOÀNG & TĂNG TRƯỞNG KINH TẾ CÔNG NGHIỆP, ĐỔI MỚI & CƠ SỞ HẠ TẦNG Giải quyết phản hồi khách hàng PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC và sự hài lòng của khách hàng. • 17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC 17 MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA LIÊN HỢP QUỐC Giám sát quản lý an toàn theo các giai đoạn triển khai dự án. • PTBV cùng cộng đồng, nâng cao trách nhiệm xã hội của doanh nghiệp. Lan tỏa tác động từ các chương trình và giá trị mang lại đến CBLQ. | • Đánh giá độc lập chất lượng công trình các sản phẩm trước khi bàn giao. • Đảm bảo các Dự án tuân thủ đầy đủ các yêu cầu tiêu chuẩn về an toàn và sức khỏe, PCCC. • Rút ngắn thời gian giải quyết và phản hồi hiệu quả các yêu cầu của khách hàng. Đo lường sự hài lòng của khách hàng và kế hoạch hành động cải tiến. • Chương trình “Khách hàng thân thiết – NovaLoyalty” đã triển khai chính thức vào tháng 6/2019 nhằm tri ân khách hàng đã tín nhiệm và đồng hành với Tập đoàn, khuyến khích khách hàng đăng ký tham gia trở thành thành viên của NovaLoyalty. • Dành hơn 78 tỷ đồng cho các hoạt động vì cộng đồng, với hàng triệu người thụ hưởng; tập trung vào các chương trình hỗ trợ phát triển cộng đồng, giáo dục, sức khỏe cộng đồng và an sinh xã hội.",
+      "hard_labels": [
+        "E3",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 15,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 2765,
+      "text": "[TABLE] [CONTEXT] section: 6. VĂN HÓA DOANH NGHIỆP & MÔI TRƯỜNG LÀM VIỆC ; caption: 5 yếu tố của từng nhóm quản lý phản hồi như bên dưới ; column_headers: NHÓM | STT YẾU TỐ ĐƯỢC ĐÁNH GIÁ ẤẾ Ợ (TỪ THẤP ĐẾN CAO) | YẾU TỐ [ROWS] NHÓM | STT YẾU TỐ ĐƯỢC ĐÁNH GIÁ ẤẾ Ợ (TỪ THẤP ĐẾN CAO) | YẾU TỐ [ROW] LÃNH ĐẠO Ấ Ạ CẤP CAO | 1 | Thích nghi hoàn cảnh [ROW] 2 3 | Thể hiện cam kết và duy trì năng suất làm việc cao Sự liêm chính, ngay thẳng [ROW] 4 | Tinh thần trách nhiệm [ROW] 5 | Thực thi tính kỷ luật, tuân thủ nội quy [ROW] LÃNH ĐẠO Ấ Ạ CẤP TRUNG | 1 | Thể hiện cam kết và duy trì năng suất làm việc cao [ROW] 2 | Thích nghi hoàn cảnh [ROW] 3 | Tinh thần trách nhiệm [ROW] 4 | Sự liêm chính, ngay thẳng [ROW] 5 | Thực thi tính kỷ luật, tuân thủ nội quy [ROW] LÃNH ĐẠO PHÒNG BAN | 1 | Thích nghi hoàn cảnh [ROW] 2 | Mong muốn hoàn thiện [ROW] 3 | Tinh thần trách nhiệm [ROW] 5 | Thực thi tính kỷ luật, tuân thủ nội quy",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

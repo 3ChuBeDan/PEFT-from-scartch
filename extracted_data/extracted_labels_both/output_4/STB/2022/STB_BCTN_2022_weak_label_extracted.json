@@ -1,0 +1,90 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Nâng cấp hệ thống SOC (Security Operation Center); Triển khai giải pháp thu thập, phân tích mối đe dọa (Threat Intelligence Platform), tích hợp các hệ thống bảo mật với hệ thống SOAR (Security Orchestration Automation and Response) giúp tự động hóa quá trình điều tra, phản ứng trước các sự kiện an ninh mạng, tự động cô lập, ngăn chặn các cuộc tấn công mạng. Triển khai giải pháp quản lý tài khoản đặc quyền (Privileged Access Management), giúp kiểm soát các hoạt động của tài khoản quản trị hệ thống thông tin. Tăng cường công tác giám sát an ninh mạng, phát hiện và xử lý gần 200 website giả mạo. Tổ chức diễn tập thực chiến đảm bảo an toàn thông tin mạng nhằm giúp đánh giá, nâng cao năng lực ứng phó sự cố an ninh mạng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    },
+    {
+      "text": "Trực thuộc Ủy ban Phòng, chống tham nhũng, tội phạm, tiêu cực và rửa tiền Hội đồng phòng, chống rửa tiền",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Nhận thức được tầm quan trọng của công tác phòng, chống tham nhũng và rửa tiền đồng thời khẳng định quyết tâm phòng, chống tham nhũng, tội phạm, tiêu cực và rửa tiền, Ủy ban Phòng, chống tham nhũng, tội phạm, tiêu cực và rửa tiền tại Sacombank đã không ngừng nỗ lực xây dựng khung pháp lý, tổ chức bộ máy quản lý hiệu quả.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "Phòng, chống tham nhũng, tiêu cực, tội phạm và rửa tiền là mối quan tâm hàng đầu của các quốc gia và các tổ chức quốc tế, trong đó có Việt Nam. Ý thức về nhiệm vụ quan trọng của hệ thống các ngân hàng thương mại trong công tác phòng, chống tham nhũng, tiêu cực, tội phạm và rửa tiền, do đó Lãnh đạo Sacombank đặc biệt chú trọng quan tâm, đầu tư về cơ chế chính sách, đào tạo nhân sự để chung tay với Ngân hàng Nhà nước ngăn chặn các hành vi tham nhũng, tiêu cực, tội phạm và rửa tiền.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.6 Phân loại nợ và mức trích, phương pháp trích lập dự phòng rủi ro cho tiền gửi tại và cho vay các tổ chức tín dụng khác, mua và ủy thác mua trái phiếu doanh nghiệp chưa niêm yết, cho vay khách hàng, ủy thác cấp tín dụng và tài sản có rủi ro tín dụng khác (tiếp theo) ; column_headers: Nhóm nợ Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm nợ Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: » Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do khách hàng vi phạm hợp đồng tín dụng với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin tín dụng có liên quan. | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "DỄ TIẾP CẬN TINH THẦN HỢP TÁC NĂNG ĐỘNG TINH THẦN TRÁCH NHIỆM Đạt tiêu chuẩn chất lượng cao trong các hoạt động và dịch vụ cung cấpGần gũi thân thiện và chuyên nghiệp, quan tâm tới đồng nghiệp và khách hàngHợp tác gắn bó với đồng nghiệp trong toàn Tập đoàn, xây dựng mối quan hệ bền vững với khách hàng và đối tác dựa trên sự hiểu biết lẫn nhauLuôn hướng về phía trước, phát triển không ngừng, nắm bắt cơ hội và tạo ra các tiêu chuẩn mới sẵn sàng tiếp nhận ý tưởng và sáng kiến mới",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "TINH THẦN HỢP TÁC NĂNG ĐỘNG TINH THẦN TRÁCH NHIỆM Gần gũi thân thiện và chuyên nghiệp, quan tâm tới đồng nghiệp và khách hàngHợp tác gắn bó với đồng nghiệp trong toàn Tập đoàn, xây dựng mối quan hệ bền vững với khách hàng và đối tác dựa trên sự hiểu biết lẫn nhauLuôn hướng về phía trước, phát triển không ngừng, nắm bắt cơ hội và tạo ra các tiêu chuẩn mới sẵn sàng tiếp nhận ý tưởng và sáng kiến mớiMinh bạch và trung thực thể hiện tinh thần trách nhiệm với cộng đồng, xây dựng các chuẩn mực trong quản trị doanh nghiệp",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "trở nên thân thiện trở nên thân thiện",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Website baoviet.com.vn đã được thay đổi để trở nên thân thiện hơn với người sử dụng và để việc truy cập thông tin được nhanh chóng, tiện lợi, và dễ dàng. Nhà đầu tư có thể tìm thấy nhiều thông tin hữu ích về tình hình hoạt động kinh doanh, các sự kiện, thông tin tài chính, giá cổ phiếu tại trang Web của Tập đoàn Website baoviet.com.vn đã được thay đổi để trở nên thân thiện hơn với người sử dụng và để việc truy cập thông tin được nhanhchóng, tiện lợi, và dễ dàng. Nhà đầu tư có thể tìm thấy nhiềuthông tin hữu ích về tình hình hoạt động kinh doanh, các sự kiện, thông tin tài chính, giá cổphiếu tại trang Web của Tập đoàn",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "HSC nhận thức rằng việc xây dựng chính sách, quy trình nội bộ và cơ chế giám sát các tình huống \"xung đột lợi ích\" đối với người quản lý và điều hành trong Công ty không những góp phần ngăn ngừa, giảm thiểu rủi ro vụ lợi cá nhân mà còn đảm bảo sự bình đẳng giữa các cổ đông. Hiện tại, Công ty đang tuân thủ theo chuẩn mực \"tránh xung đột lợi ích\" của pháp luật Việt Nam.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

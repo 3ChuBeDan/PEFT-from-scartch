@@ -1,0 +1,137 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 373,
+      "text": "Không có trường hợp gian lận thực tế hoặc nghi ngờ gian lận nào được ghi nhận trong việc lập BCTC.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 796,
+      "text": "Nước thải sinh hoạt: phát sinh trong quá trình sinh hoạt của công nhân viên, học viên làm việc và học nghề trong Công ty như: nước thải từ nhà vệ sinh, nước rửa chân tay, nước rửa sàn, nước giặt giũ quần áo cho công nhân viên, nước thải từ hệ thống máy điều hòa không khí... Lưu lượng nước thải phát sinh từ quá trình sinh hoạt của Công ty khoảng 80~90 m3/ ngàyxđêm. Thành phần nước thải này chứa chủ yếu là: các chất cặn bã, các chất dinh dưỡng (N, P), chất rắn lơ lửng (SS), COD, các chất hữu cơ (BOD5 và các vi khuẩn)... nếu không được xử lý trước khi thải ra môi trường sẽ gây ô nhiễm tới môi trường nước, đất trong khu vực.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 803,
+      "text": "Theo kết quả phân tích nước thải của PNJP vào 2 đợt lấy mẫu (ngày 21/06/2019 và ngày 03/12/2019) thì tất cả các chỉ tiêu phân tích trong mẫu nước thải sau Hệ thống xử lý nước thải đều đạt QCVN 40:2011/BTNMT, loại B – Quy chuẩn kỹ thuật quốc gia về nước thải công nghiệp.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 832,
+      "text": "Chất thải nguy hại được phân loại, thu gom và lưu trữ vào kho chứa chất thải nguy hại đáp ứng đầy đủ yêu cầu của luật. PNJP đã hợp đồng với các đơn vị có chức năng để thu gom, vận chuyển và xử lý các chất thải nguy hại trên theo đúng quy định của luật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 839,
+      "text": "Khí thải từ hệ thống thoát nước và hệ thống xử lý nước thải: thành phần chất ô nhiễm từ hệ thống thoát nước và hệ thống xử lý nước thải rất đa dạng như: NH3, H2S, Mecaptan, ... các khí này có khả năng gây mùi nên có thể sẽ gây ảnh hưởng đến các khu vực trong công ty. Tuy nhiên, lượng khí này phát sinh không nhiều. Mặt khác, hệ thống thoát nước và xử lý nước thải được thiết kế kín nên khả năng ảnh hưởng đến môi trường là không đáng kể.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 1365,
+      "text": "[TABLE] [CONTEXT] section: - Bùn thải từ bể tự hoại và hệ thống xử lý nước thải tập trung: ; column_headers: Chỉ tiêu | Loại hình | Đơn vị | 2018 | 2019 | 2020 ; row_headers: Tổng trọng lượng chất thải nguy hại phân chia theo các phương pháp xử lý [ROWS] Chỉ tiêu | Loại hình | Đơn vị | 2018 | 2019 | 2020 [ROW] Tổng trọng lượng chất thải nguy hại phân chia theo các phương pháp xử lý | Tổng | KG | 17.775 | 33.024 | 27.067 [ROW] Tái chế | KG | 1.592 | 4.235 | 5.306 [ROW] Đốt – chôn lấp | KG | 13.983 | 28.391 | 21.005 [ROW] Khác | KG | 2.200 | 398 | 756",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 1369,
+      "text": "[TABLE] [CONTEXT] section: Năm 2020 ghi nhận nhiều giải thưởng của các tổ chức uy tín dành cho các hoạt động nhân sự của PNJ: ; caption: Tỷ lệ của mức lương gộp khởi điểm theo giới tính so với mức lương tối thiểu của vùng (Phạm vi: Tập đoàn PNJ) ; column_headers: Deloitte đảm bảo | Đơn vị tính | 2018 | 2019 | 2020 ; row_headers: Lương tối thiểu theo quy định | Lương trung bình với lao động nam | Lương trung bình cấp quản lý nam | Thù lao trung bình cấp quản lý nam | Lương trung bình với lao động nữ | Lương trung bình cấp quản lý nữ | Thù lao trung bình cấp quản lý nữ | Tỷ lệ lương trung bình của lao động nam/lương tối thiểu | Tỷ lệ lương trung bình của lao động nữ/lương tối thiểu | Lương trung bình của nhân viên [ROWS] Chỉ tiêu | Deloitte đảm bảo | Đơn vị tính | 2018 | 2019 | 2020 [ROW] Lương tối thiểu theo quy định | Triệu đồng | 3,98 | 4,18 | 4,42 [ROW] Lương trung bình với lao động nam | Triệu đồng | 13 | 12,32 | 14,47 [ROW] Lương trung bình cấp quản lý nam | Triệu đồng | 52,2 | 52,54 | 68,54 [ROW] Thù lao trung bình cấp quản lý nam | Triệu đồng | 52,2 | 71,26 | 90,47 [ROW] Lương trung bình với lao động nữ | Triệu đồng | 12,2 | 11,43 | 10,96 [ROW] Lương trung bình cấp quản lý nữ | Triệu đồng | 52 | 53,22 | 68,55 [ROW] Thù lao trung bình cấp quản lý nữ | Triệu đồng | 52 | 73,23 | 91,38 [ROW] Tỷ lệ lương trung bình của lao động nam/lương tối thiểu | % | 327% | 295% | 318% [ROW] Tỷ lệ lương trung bình của lao động nữ/lương tối thiểu | % | 321% | 273% | 248% [ROW] Lương trung bình của nhân viên | x | Triệu đồng | 12,9 | 13,79 | 12,07",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 7
+      }
+    }
+  ]
+}

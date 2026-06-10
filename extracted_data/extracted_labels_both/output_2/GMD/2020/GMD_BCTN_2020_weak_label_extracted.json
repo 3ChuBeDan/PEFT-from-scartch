@@ -1,0 +1,66 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 51,
+      "text": "Gemadept với tinh thần dân tộc, doanh nghiệp vì cộng đồng, luôn chung tay góp sức cùng Chính phủ trong các công tác bảo vệ môi trường, tiết kiệm năng lượng, tương thân tương ái, xây dựng cộng đồng và xã hội. Thành công của Gemadept không chỉ thúc đẩy sự phát triển bền vững của Công ty, đảm bảo đời sống cho hàng nghìn cán bộ, nhân viên, mà rộng lớn hơn là gia tăng các giá trị đem đến cho các Cổ đông, Khách hàng, Đối tác, xứng đáng với niềm tin mà các bên thân ái dành cho Gemadept, đồng thời góp phần vào thịnh vượng chung của xã hội và sự phát triển mạnh mẽ của ngành Cảng - Logistics Việt Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 917,
+      "text": "Tạm gác lại những bộn bề công việc vào mùa cuối năm, CBNV Gemadept đã thu xếp tham gia hành trình thiện nguyện, cùng với các cán bộ tại Trung Tâm trao tận tay từng phần quà, những bao lì xì đỏ như lộc Xuân may mắn đầu năm cho những mảnh đời bất hạnh. Cũng trong dịp này, đoàn đã chuẩn bị và thu xếp bữa cơm trưa ấm áp nghĩa tình cho các học viên, cùng giao lưu văn nghệ như một món quà tinh thần ngày xuân, khuấy động không gian trầm lắng của miền đất xa xôi thuộc vùng Đông Nam Bộ.... Năm nay, số lượng học viên tại Trung tâm tăng hơn, từ 700 lên 800 học viên (bao gồm 650 bệnh nhân tâm thần không nơi lương tựa và 150 người lang thang, cơ nhỡ) nên đời sống vật chất và tinh thần của các học viên lại càng thêm khó khăn. Xuyên suốt hành trình, các thành viên của đoàn dù là các bạn trẻ mới tham gia lần đầu hay là các anh chị đã nhiều năm đồng hành cùng chuyến xe thiện nguyện đều bồi hồi xúc động bởi chính lúc cho đi cũng là lúc nhận về biết bao yêu thương.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1015,
+      "text": "Thường xuyên làm việc với Trung tâm quan trắc môi trường biển để khảo sát, đo đạc, phân tích các thông số môi trường và lập báo cáo quan trắc môi trường theo định kỳ. Các chỉ số về môi trường không khí, môi trường nước của Công ty đều nằm trong giới hạn cho phép. Các hệ thống quản lý, xử lý khí thải, nước thải, chất thải rắn tại Công ty vận hành tương đối ổn định, đảm bảo chất lượng nước thải, khí thải sau xử lý đạt tiêu chuẩn môi trường;",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 6,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

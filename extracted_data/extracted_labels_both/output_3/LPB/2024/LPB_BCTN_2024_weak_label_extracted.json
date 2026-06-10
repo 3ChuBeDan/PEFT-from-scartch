@@ -1,0 +1,56 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Bên cạnh đó, LPBank tăng cường bảo vệ Ngân hàng trước rủi ro gian lận bằng bảo hiểm gian lận, xây dựng BCP (kế hoạch kinh doanh liên tục) đảm bảo tính liên tục trong hoạt động kinh doanh trước các tình huống bất khả kháng. Đồng thời, Ngân hàng nâng cao quy trình kiểm tra, kiểm soát nội bộ để giảm thiểu các rủi ro phát sinh trong quá trình vận hành.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Trước bối cảnh nguy cơ an ninh mạng gia tăng, LPBank đã thành lập tổ công tác đặc biệt để ứng phó với các tình huống an ninh mạng, phối hợp với NHNN, Hiệp hội An ninh mạng Việt Nam (VNISA) và các cơ quan chức năng để nâng cao năng lực giám sát. Với phương châm \"An toàn - Chính xác - Hiệu quả\", LPBank tiếp tục nghiên cứu, chuẩn hóa và triển khai đồng bộ các quy trình nhằm nâng cao chất lượng dịch vụ, bảo vệ dữ liệu khách hàng và củng cố uy tín ngân hàng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MẪU B05/TCTD ; column_headers: STT | NHÓM | Tình trạng quá hạn [ROWS] STT | NHÓM | Tình trạng quá hạn [ROW] 1. | Nợ đủ tiêu chuẩn | Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. (a) (b) [ROW] 2. | Nợ cần chú ý | Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn. (a) (b) [ROW] 3. | Nợ dưới tiêu chuẩn | • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 134 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 135 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5, 9 Điều 136 Luật các tổ chức tín dụng. Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc Nợ gia hạn nợ lần đầu còn trong hạn; hoặc Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: (a) (b) (c) (d) Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm thỏa thuận chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi. (e) (f)",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

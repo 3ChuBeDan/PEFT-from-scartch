@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "c栄a b違n thân ng逢ời lao động và t泳 thân ph映 mẫu; tặng quà cho cán bộ nữ CNVC –LĐ nhân dịp 8/3; tặng quà cho các cháu là con cán bộ công nhân viên công ty có thành tích học tập t ốt, ngày Quốc tế thiếu nhi và Tết Trung thu...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Ban Tổng Giám đốc làm việc với tinh thần trách nhiệm cao vì lợi ích c栄a Công ty và c ổ đông; không ngừng đổi mới công tác qu違n lỦ, điều hành, xây dựng cơ chế chính sách phù hợp với tình hình s違n xu医t kinh doanh thực tế c栄a Công ty, quan tâm nâng cao đời s ống vật ch医t và tinh thần cho ng逢ời lao động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

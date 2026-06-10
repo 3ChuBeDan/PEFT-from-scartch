@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Ủy ban ALCO, Pháp chế, Quản lý rủi ro & Phòng, chống rửa tiền (PC, QLRR & PCRT) là đơn vị trực thuộc HĐQT, có trách nhiệm cao nhất trong việc tham mưu cho HĐQT, giúp HĐQT quản lý và giám sát toàn diện các hoạt động quản lý Tài sản Nợ - Tài sản Có, quản lý rủi ro, công tác phòng, chống rửa tiền trong hoạt động kinh doanh của ngân hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Tiếp tục triển khai và phát huy hiệu quả của các nhóm kiểm soát phòng, chống rửa tiền tại các Đơn vị kinh doanh để kiểm soát hoạt động rửa tiền cho toàn hệ thống; Tính đến hết năm 2011, tất các các Chi nhánh/Phòng giao dịch đều có các nhóm kiểm soát phòng, chống rửa tiền tại đơn vị.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

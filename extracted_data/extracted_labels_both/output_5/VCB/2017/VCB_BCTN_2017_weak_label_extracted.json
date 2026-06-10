@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 738,
+      "text": "Ngoài ra, Vietcombank cũng chú trọng đến công tác quản lý rủi ro gian lận, với việc xây dựng và triển khai khung Quản lý Rủi ro Gian lận (QLRRGL), ban hành chính sách, quy trình QLRRGL và các quy định liên quan về quản lý nhân sự nhằm phòng ngừa và phát hiện rủi ro gian lận. Cơ chế tố giác cũng đã được Vietcombank triển khai.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

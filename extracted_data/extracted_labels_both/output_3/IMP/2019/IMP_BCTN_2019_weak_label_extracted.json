@@ -1,0 +1,130 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "text": "Tại nhà máy IMP 2, nhà máy IMP4 và nhà máy IMP3 Công ty ký hợp đồng xử lý chất thải nguy hại với Công ty TNHH Môi trường Sen vàng để xử lý chất thải nguy hại.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: BẢNG CÂN ĐỐI KẾ TOÁN (tiếp theo) ; column_headers: Số kiểm toán | Tỷ trọng | Thay đổi | Nhận xét [ROWS] Số kiểm toán | Tỷ trọng | Thay đổi | Nhận xét [ROW] Đơn vị: triệu đồng | 31/12/2019 | % | % [ROW] Thông thường doanh thu từ hệ điều trị thường có thời hạn thu hồi dài trên 3 tháng, và rủi ro nợ xấu thấp. Hiện tỷ trọng quá hạn của hệ điều trị trên 3 tháng là 31,2% tổng nợ quá hạn hệ điều trị, giảm so với năm 2018 (38,2%). Tương tự, đối với hệ thị trường, tỷ trọng quá hạn trên 3 tháng chiếm 33,5% tổng nợ quá hạn hệ thị trường, giảm so với năm 2018 (42,5 %). Tuy nhiên, giá trị của các khoản nợ quá hạn trên 3 tháng của cả hai kênh ETC và OTC đều tăng (ETC: 6,6 tỷ đồng, so với 2018 là 3,7 tỷ đồng; OTC: 12,9 tỷ đồng, so với 2018 là 9,7 tỷ đồng). Do vậy, Công ty cần theo dõi chặt chẽ và đẩy nhanh thu hồi các khoản nợ này để giảm thiểu rủi ro nợ xấu. [ROW] » Trả trước cho người bán | 56,240 | 3.0% | -29.9% | Bao gồm: mua tài sản 26,576 tỷ, còn lại là các khoản chi phí đăng ký visa sản phẩm tại Châu Âu, thử tương đương sinh học và mua nguyên vật liệu và Pre-Audit nhà máy IMP4. [ROW] » Dự phòng phải thu ngắn hạn khó đòi | (14,432) | -0.8% | 15.5% Trong năm, Công ty đã trích lập thêm dự phòng cho các khoản nợ phải thu quá hạn là 1,9 tỷ. Đồng thời, đối với giá trị phải thu khó đòi đã trích lập dự phòng cuối năm 2018 (12,5 tỷ đồng), Công ty đã thu hồi trong năm 2019 được 1,3 tỷ đồng, thực hiện các thủ tục pháp lý chuyển cơ quan pháp luật giải quyết 11,0 tỷ đồng (trong đó cơ quan thi hành án 3,7 tỷ đồng, Tòa án 2,1 tỷ đồng và Công an đang thụ lý 5,3 tỷ đồng); làm thủ tục xoá nợ 0,4 tỷ đồng. Các khoản nợ khó đòi phát sinh năm 2019, Công ty đã căn cứ vào quy chế quản lý tài chính của Công ty để xử lý, đồng thời một số trường hợp đang tiến hành các thủ tục pháp lý để chuyển cơ quan pháp luật giải quyết nhằm thu hồi được nợ. [ROW] » Hàng tồn kho | 350,457 | 19.0% | 8.2% Hàng tồn kho tăng chủ yếu do (i) Công ty dự trữ nguyên liệu sản xuất (chiếm 63,7% giá trị hàng tồn kho) tăng 12,3% so với 2018 trên cơ sở dự đoán giá nguyên liệu có thể biến động, và (ii) thành phẩm (chiếm 29,4% giá trị hàng tồn kho) tăng 22,2% so với 2018 do Công ty sản xuất một số mặt hàng đã có đơn đặt hàng, và mặt hàng dự trữ trước khi số đăng ký hết hạn. Do đó, số ngày tồn kho tăng từ 135 ngày năm 2018 lên 140 ngày 2019. Chúng tôi lưu ý Công ty cần quản lý chặt chẽ hàng tồn kho tại các chi nhánh, bộ phận Bán hàng cần triển khai các giải pháp đẩy mạnh doanh số đối với các mặt hàng đang tồn kho, đề phòng rủi ro hàng chậm luân chuyển, bị ảnh hưởng chất lượng phải lập dự phòng giảm giá hàng tồn kho. [ROW] » Tài sản ngắn hạn khác | 19,358 | 1.0% | -26.5%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

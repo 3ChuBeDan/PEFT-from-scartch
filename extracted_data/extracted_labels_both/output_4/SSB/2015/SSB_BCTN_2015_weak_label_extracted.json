@@ -1,0 +1,18 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

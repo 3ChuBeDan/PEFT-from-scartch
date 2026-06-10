@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 437,
+      "text": "Các chương trình đào tạo kỹ năng quản lý, tổ chức công việc cho các cấp Lãnh đạo và các hoạt động phát triển tinh thần đồng đội, kỹ năng phối hợp, làm việc nhóm hiệu quả cũng thường xuyên được triển khai. BSC tự hào đã xây dựng được một môi trường làm việc chuyên nghiệp, thân thiện, xây dựng được một mái nhà chung, an toàn, hạnh phúc để tập thể cán bộ nhân viên yên tâm làm việc, phát huy năng lực và phát triển sự nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 478,
+      "text": "Sự trung thực và thẳng thắn, sẵn sàng nói thẳng, nói thật để công việc được tốt hơn, trên cơ sở tôn trọng bản thân và tôn trọng đồng nghiệp",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

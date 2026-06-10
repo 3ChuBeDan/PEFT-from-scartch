@@ -61,6 +61,23 @@ The CSV must contain:
 - `label`: sentiment label
 - `split`: `train`, `validation` or `test`
 
+## Multi-label extracted dataset
+
+Build a multi-label dataset from extracted weak labels:
+
+```bash
+python scripts/build_multilabel_dataset.py --input-dir extracted_data/extracted_labels_both --output-dir data/multilabel
+```
+
+This writes `dataset.jsonl`, split-specific JSONL files, `label_map.json`, and
+`summary.json`. Labels are preserved exactly as extracted.
+
+Train PhoBERT with multi-label BCE loss:
+
+```bash
+python train.py --method dora --dataset data/multilabel/dataset.jsonl --task-type multi_label --label-map data/multilabel/label_map.json --rank 8 --alpha 16 --dropout 0.05
+```
+
 ## Benchmark notebook
 
 Open `notebooks/phobert_dora_benchmark.ipynb` to run the planned benchmark

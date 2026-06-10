@@ -1,0 +1,29 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 681,
+      "text": "Trong hoạt động cấp tín dụng, Vietcombank ngày càng chú trọng hơn tới các rủi ro về môi trường. Các dự án \"Xanh\" bao gồm: nông nghiệp xanh, công nghiệp xanh, năng lượng tái tạo, năng lượng sạch, tái chế và tài sử dụng tài nguyên, xử lý chất thải, quản lý nước bền vững tại đô thị và nông thôn... đang trở thành các lĩnh vực được chú trọng đẩy mạnh cho vay tại Vietcombank. Đến cuối năm 2021, tỷ trọng dư nợ cho vay các dự án \"Xanh\" tại Vietcombank đã tăng gấp đôi so với năm 2020. Trong đó, vốn tài trợ cho các dự án năng lượng tái tạo, năng lượng sạch chiếm tới hơn 90% và hầu như toàn bộ là vốn cho vay trung dài hạn. Hoạt động tài trợ vốn trung dài hạn cho các dự án năng lượng tái tạo, năng lượng sạch đã tăng trưởng gần 350% trong năm vừa qua, đánh dấu sự chuyển đổi định hướng tín dụng theo hướng bền vững tại Vietcombank.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E2": 1,
+        "E3": 6
+      }
+    }
+  ]
+}

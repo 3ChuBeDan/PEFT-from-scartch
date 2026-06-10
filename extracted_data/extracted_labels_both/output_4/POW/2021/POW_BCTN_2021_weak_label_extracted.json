@@ -1,0 +1,173 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "text": "Ngành nghề kinh doanh chính: Sản xuất, truyền tải và bán điện; Nghiên cứu, đầu tư, phát triển, xây dựng, sở hữu, vận hành, khai thác các dự án năng lượng sạch, năng lượng tái tạo (điện gió, điện mặt trời, sinh khối, địa nhiệt và điện rác và các loại hình năng lượng tái tạo khác).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    },
+    {
+      "text": "Nhập khẩu than: Xây dựng quy chế/quy trình cho nhập khẩu than, chuẩn bị đầu tư cơ sở hạ tầng cho công tác nhập khẩu than như cảng nhập, kho than, hệ thống phối trộn, vận tải nội địa...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "Căn cứ Báo cáo số 227/ĐLDK-ATSKMT ngày 01/03/2022 của Ban An toàn - Sức khỏe - Môi trường Tổng công ty về việc Báo cáo kiểm kê khí thải năm 2021, theo hướng dẫn Kiểm kê khí thải cho các hoạt động dầu khí của Tập đoàn Dầu khí Việt Nam, sử dụng số liệu nhiên liệu (khối lượng sử dụng và lưu trữ, nhiệt trị) và sản lượng điện năm 2021 của các nhà máy điện, tính toán trên hệ số phát thải tương ứng với từng loại nhiên liệu được Tập đoàn cung cấp theo hướng dẫn, Ban An toàn - Sức khỏe - Môi trường Tổng công ty đã đưa ra kết quả kiểm kê phát thải khí nhà kính của Tổng công ty.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Các sáng kiến và biện pháp giảm thiểu phát thải khí nhà kính. Theo kế hoạch đã đăng ký với Tập đoàn Dầu khí Việt Nam và được ban hành theo kế hoạch chung của Tập đoàn Dầu khí Việt Nam tại QĐ số 2128/QĐ-DKVN ngày 19/04/2021 PVN về việc \"Ban hành kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu của Tập đoàn Dầu khí, giai đoạn 2018-2030\" PV Power có 13 dự án giảm nhẹ phát thải khí nhà kính thực hiện tại các nhà máy điện, dự kiến theo tính toán của Tập đoàn Dầu khí Việt Nam sẽ giảm thiểu được 160.884 tấn CO2e trong giai đoạn 2018-2025 và 109.420 tấn CO2e trong giai đoạn 2026-2030. Trong đó, trừ giải pháp vận hành nhà máy nhiệt điện Nậm Cắt (hiện nay không thuộc sở hữu PV Power), 12 giải pháp còn lại dự kiến giảm thiểu 101.252 tấn CO2e trong giai đoạn 2018-2025 và",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "text": "Ngày 13/08/2020 PV Power đã thành lập Công ty cổ phần Năng lượng tái tạo Điện lực Dầu khí (PV Power REC) với chức năng nhiệm vụ phát triển và sản xuất kinh doanh nguồn năng lượng tái tạo (nghiên cứu đầu tư các dự án điện mặt trời, điện rác, điện sinh khối và điện gió...). PV Power REC có vốn điều lệ 60 tỷ đồng, PV Power góp 30,6 tỷ đồng, tương đương 51% vốn điều lệ từ nguồn vốn chủ sở hữu của PV Power.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "PV Power đã nỗ lực phối hợp với các nhà cung cấp như TKV, Công ty than Đông Bắc để đảm bảo nguồn than sản xuất cho Nhà máy điện Vũng Áng 1. Tổng khối lượng giao nhận than đến hết 31/12/2021 2.403.452 tấn/kế hoạch 3.200.000 tấn, tương đương 75% kế hoạch năm;",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Công tác cung cấp than cho Nhà máy nhiệt điệt Vũng Áng 1: PV Power đã nỗ lực phối hợp với các nhà cung cấp như TKV, Công ty than Đông Bắc để đảm bảo nguồn than sản xuất cho Nhà máy điện Vũng Áng 1. Đối với Hợp đồng mua bán than dài hạn với TKV, hiện Tổng công ty và TKV tiếp tục đàm phán về các nội dung chính của dự thảo Hợp đồng, trình cấp có thẩm quyền phê duyệt. Công tác tìm kiếm bổ sung nguồn than ngoài TKV vẫn trong quá trình thẩm định để lựa chọn nhà cung cấp thực hiện (gói thầu mua bổ sung 450.000 tấn than cho Nhà máy nhiệt điện Vũng Áng 1).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 6
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 6.2 Quản lý nguyên vật liệu ; column_headers: Tên Nhà máy | Tiêu thụ nhiên liệu 2021 | Than (tấn) | Dầu DO (tấn) | Khí tự nhiên (Tr.Sm3) ; row_headers: Công ty Điện lực Dầu khí Hà Tĩnh | Công ty Điện lực Dầu khí Cà Mau | Công ty CP Điện lực Dầu khí Nhơn Trạch 2 | Công ty Điện lực Dầu khí Nhơn Trạch | Công ty cổ phần Thủy điện Hủa Na | Công ty Cổ phần Thủy điện Đakđrinh [ROWS] Tên Nhà máy | Tiêu thụ nhiên liệu 2021 [ROW] Than (tấn) | Dầu DO (tấn) | Khí tự nhiên (Tr.Sm3) [ROW] Công ty Điện lực Dầu khí Hà Tĩnh | 2.474.356 | 3.785 | không áp dụng [ROW] Công ty Điện lực Dầu khí Cà Mau | không áp dụng | 119,427 | 888,723 [ROW] Công ty CP Điện lực Dầu khí Nhơn Trạch 2 | không áp dụng | 0 | 621,18 [ROW] Công ty Điện lực Dầu khí Nhơn Trạch | không áp dụng | 0 | 125,46 [ROW] Công ty cổ phần Thủy điện Hủa Na | không áp dụng | - | không áp dụng [ROW] Công ty Cổ phần Thủy điện Đakđrinh | không áp dụng | - | không áp dụng",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4. BÁO CÁO ĐÁNH GIÁ LIÊN QUAN ĐẾN TRÁCH NHIỆM VỀ MÔI TRƯỜNG VÀ XÃ HỘI CỦA TỔNG CÔNG TY ; caption: 4.1. Đánh giá liên quan đến các chỉ tiêu môi trường (tiêu thụ nước, năng lượng, phát thải...) Bảng thông số các chỉ tiêu môi trường toàn Tổng công ty năm 2021 ; column_headers: Chỉ tiêu | Đơn vị [ROWS] Chỉ tiêu | Đơn vị [ROW] Nước sạch tiêu thụ: | m 3 | 2.278.705 [ROW] Nước mặt làm mát: | m 3 | 1.581.092.613 [ROW] Tiêu thụ năng lượng (tỉ lệ điện tự dùng): | 6,9% [ROW] Tổng lượng khí thải: | triệu m 3 | 79.353 [ROW] Tổng lượng nước thải: | m 3 | 361.819.875 [ROW] Chất thải rắn thông thường: | tấn | 1.039 [ROW] Tro xỉ nhiệt điện than | tấn | 770.069 [ROW] Chất thải nguy hại: | tấn | 155",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5,
+        "E3": 1
+      }
+    }
+  ]
+}

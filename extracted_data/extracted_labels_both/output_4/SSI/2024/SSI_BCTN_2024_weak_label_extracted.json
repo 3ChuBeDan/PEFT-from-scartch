@@ -1,0 +1,103 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Năm 2024, Việt Nam và thế giới chứng kiến xu hướng đáng báo động về rủi ro an ninh mạng. Nhiều cuộc tấn công từ tin tặc quốc tế với đa dạng hình thức nhằm vào các doanh nghiệp Việt Nam, đặc biệt là các doanh nghiệp trong lĩnh vực chứng khoán với vụ tấn công mã độc mã hóa tống tiền vào VNDirect, cũng như một số đơn vị khác như PVOil, VNPOST khiến hoạt động kinh doanh bị gián đoạn và thiệt hại kinh tế nặng nề. Song song đó, công nghệ Generative AI đang bùng nổ với xu hướng được tin tặc tận dụng để tối ưu hóa quá trình tạo mã độc và xây dựng các kịch bản tấn công tinh vi. Nhận thức rõ rủi ro từ các cuộc tấn công này, hệ thống an ninh mạng của SSI liên tục củng cố khả năng phòng thủ, giảm thiểu rủi ro và bảo vệ dữ liệu cho khách hang, đảm bảo hoạt động kinh doanh liên tục cho SSI. Công ty tiếp tục chú trọng đầu tư phát triển hạ tầng an ninh mạng cũng như nâng cao năng lực đội ngũ chuyên gia bảo mật nhằm bảo vệ lợi ích của các bên liên quan trong bối cảnh kỹ thuật số ngày càng phát triển.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "text": "Kênh Truyền thông Nội bộ được duy trì để tiếp tục chia sẻ tầm nhìn, chiến lược, củng cố văn hóa doanh nghiệp nhằm nuôi dưỡng tinh thần SSI, gắn kết đội ngũ nhân sự với các mục tiêu của tổ chức. Đây cũng là một biện pháp đảm bảo thông tin xuyên suốt và mỗi nhân viên đều hiểu được mục tiêu của bản thân và của tập thể để tiếp tục đóng góp sức mình vào sự phát triển chung của Công ty. Với sự chia sẻ và minh bạch cao trong tổ chức, bộ máy sẽ vận hành được trơn tru hơn, giảm thiểu những tác động tiêu cực tới nhân sự. Cùng với những cơ hội và thách thức mới, công tác quản trị nhân sự tại SSI nhận được sự quan tâm đặc biệt của Ban Lãnh đạo để tiếp tục xây dựng và phát triển nguồn nhân lực tinh nhuệ, đậm tinh thần SSI. SSI tiếp tục đóng vai trò là cái nôi nuôi dưỡng và phát triển nhân tài. Tại đây, SSI tiếp sức cho những hoài bão và sẵn sàng trao cơ hội thử sức và phát triển cho nhân viên. Bằng cách quản trị bằng hệ thống và quy trình kiểm soát chéo, SSI có thể mạnh dạn tạo điều kiện thử nghiệm, thử sức cho đội ngũ nhân viên nhưng vẫn đảm bảo hạn chế được những rủi ro có thể xảy ra.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Rủi ro tiềm tàng và biện pháp kiểm soát rủi ro tuân thủ ; column_headers: STT Rủi ro tiềm tàng | Biện pháp kiểm soát [ROWS] STT Rủi ro tiềm tàng | Biện pháp kiểm soát [ROW] 1 Rủi ro về vi phạm quyền riêng tư, lộ lọt dữ liệu cá nhân của các chủ thể dữ liệu mà SSI được tiếp cận/xử lý | Theo dõi, giám sát đầy đủ nhằm đảm bảo việc triển khai các biện pháp bảo vệ dữ liệu cá nhân được thực hiện theo các quy định, kế hoạch được phê duyệt. Thực hiện các hoạt động đào tạo, nâng cao nhận thức về bảo vệ dữ liệu cá nhân trong toàn Công ty. Đảm bảo các hoạt động kiểm tra tuân thủ liên quan đến bảo vệ dữ liệu cá nhân được thực hiện đầy đủ nhằm khắc phục kịp thời các thiếu sót, lỗ hổng được phát hiện liên quan đến dữ liệu cá nhân. [ROW] 2 Rủi ro tuân thủ các tiêu chuẩn của bên thứ ba đối với một số hoạt động mà SSI có thuê bên thứ ba cung cấp dịch vụ | Công ty yêu cầu thẩm định, xem xét, đánh giá năng lực của các chuỗi cung ứng dịch vụ để xác định những rủi ro tiềm ẩn nhằm bảo vệ Công ty khỏi các cuộc tấn công mạng hoặc các sự kiện truyền thông bất lợi. Hợp đồng với bên thứ ba luôn được yêu cầu phải có tính ràng buộc về mặt pháp lý và tuân thủ các quy định như bảo vệ dữ liệu cá nhân/quyền riêng tư, phải có các điều khoản liên quan đến chống hối lộ, tham nhũng, an ninh mạng và các rủi ro tuân thủ thiết yếu khác. Thực hiện thủ tục giám sát hiệu quả của nhà cung cấp và quản lý quyền truy cập của họ vào dữ liệu nhạy cảm bằng cách đảm bảo áp dụng đầy đủ các biện pháp bảo mật và kiểm soát phù hợp. [ROW] 3 Rủi ro an ninh, an toàn thông tin | Công ty đã xây dựng kế hoạch tổng thể và chi tiết đối với hoạt động quản trị dữ liệu tại Công ty; thực hiện ban hành quy chế, chính sách, quy định về quản trị dữ liệu. Công ty đã xây dựng hệ thống giám sát, phát hiện nhanh và ngăn chặn các hành vi vi phạm, đánh cắp hoặc phá hủy dữ liệu nhạy cảm ngoài ý muốn. Các hệ thống quản trị dữ liệu, thiết bị làm việc tại Công ty được áp dụng các chính sách bảo mật mạnh mẽ; phân loại và mã hóa dữ liệu. Công ty áp dụng các biện pháp an toàn, an ninh mạng, ứng phó sự cố nhằm giảm thiểu tác động, hạn chế rủi ro về vi phạm dữ liệu. Tăng cường hoạt động đào tạo nội bộ, tuyển dụng các chuyên gia về an ninh và quản trị dữ liệu. [ROW] 4 Rủi ro vi phạm quy định về phòng, chống rửa tiền và tài trợ khủng bố, đặc biệt rủi ro khi thiết lập, duy trì quan hệ kinh doanh với khách hàng thuộc danh sách đen, danh sách cảnh báo | Công ty tiếp tục theo dõi, cập nhật các quy định pháp luật về phòng chống rửa tiền. Công ty sử dụng phần mềm quản lý dữ liệu khách hàng để hỗ trợ nhân viên cập nhật và quản lý thông tin khách hàng hiệu quả. Công ty sử dụng dữ liệu World-Check để kiểm tra và sàng lọc thông tin khách hàng, nhằm phát hiện các trường hợp nghi ngờ liên quan đến rửa tiền và ngăn chặn quan hệ kinh doanh với khách hàng bị cấm. Chủ động theo dõi và cập nhật các danh sách đen từ Bộ Công An, danh sách cảnh báo từ NHNN và danh sách Đen và danh sách Xám từ Lực lượng đặc nhiệm tài chính (FATF). Tăng cường kiểm tra, giám sát việc tuân thủ quy định của toàn bộ nhân viên và bộ phận nghiệp vụ về PCRT. Tăng cường đào tạo nâng cao nhận thức của nhân viên trong công tác phòng,",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 1.0
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3,
+        "G11": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Rủi ro tiềm tàng và biện pháp kiểm soát rủi ro tuân thủ ; column_headers: STT Rủi ro tiềm tàng | Biện pháp kiểm soát [ROWS] STT Rủi ro tiềm tàng | Biện pháp kiểm soát [ROW] 5 Rủi ro áp dụng các thay đổi của chính sách pháp luật đối với hoạt động của Công ty | Thường xuyên cập nhật văn bản pháp luật mới, đặc biệt là các văn bản, hướng dẫn cụ thể các hoạt động nghiệp vụ, các sản phẩm, dịch vụ mà Công ty cung cấp. Rà soát các quy trình, quy chế nội bộ, đối chiếu với các quy định mới của pháp luật, tổng hợp các nội dung có sự mâu thuẫn hoặc chưa được hướng dẫn rõ ràng. Triển khai các quy định trên tinh thần chặt chẽ, vì lợi ích khách hàng và đảm bảo an toàn cho hoạt động Công ty, nhân viên Công ty. Đề nghị sự hướng dẫn từ các cơ quan có thẩm quyền, sự chỉ đạo của các cấp lãnh đạo. Đảm bảo sự thống nhất trong cách hiểu và áp dụng quy định của toàn thể nhân viên, phòng ban của Công ty. [ROW] 6 Xung đột lợi ích giữa Công ty – Đối tác/Khách hàng – Nhân viên | Xây dựng và áp dụng các quy tắc, chính sách để hạn chế xung đột lợi ích như quy tắc đạo đức nghề nghiệp, chính sách phòng chống tham nhũng, chính sách giải quyết khiếu nại. Thực hiện tách biệt văn phòng, con người, dữ liệu của các bộ phận có khả năng gây ra xung đột lợi ích. Đào tạo nâng cao ý thức về đạo đức nghề nghiệp. Giám sát tài khoản, giao dịch của nhân viên và những người có liên quan. [ROW] 7 Rủi ro nhân viên vi phạm quy định của pháp luật, quy trình nghiệp vụ của Công ty | Tăng cường tần suất kiểm soát nội bộ đối với các bộ phận được đánh giá là có khả năng xảy ra rủi ro. Ngăn chặn, báo cáo các cơ quan nhà nước có thẩm quyền khi phát hiện trường hợp nhân viên có hành vi vi phạm quy định của pháp luật. Rà soát thường xuyên các vi phạm, áp dụng hình thức xử lý kỷ luật công bằng, nghiêm khắc đối với nhân viên vi phạm theo Nội quy lao động và các Quy định nội bộ của Công ty. [ROW] 8 Rủi ro trong sự phát triển mạnh mẽ của sản phẩm, dịch vụ mới áp dụng CNTT trong lĩnh vực tài chính | Nghiên cứu các quy định về giám sát của cơ quan quản lý đối với lĩnh vực công nghệ tài chính (fintech) để thiết kể sản phẩm mới phù hợp với quy định. Kiến nghị cơ quan giám sát cập nhật và bổ sung các văn bản pháp lý liên quan tạo điện kiện thuận lợi cho danh nghiệp phát triển. Sử dụng các dịch vụ tư vấn công nghệ và tư vấn pháp lý chuyên ngành để giảm thiểu rủi ro. [ROW] 9 Rủi ro tuân thủ pháp luật và hợp đồng khi Công ty áp dụng các hình thức giao dịch trực tuyến | Nghiên cứu, cập nhật các quy định về giao dịch điện tử, giao dịch trực tuyến có liên quan. Tham khảo ý kiến của các cơ quan có thẩm quyền, các đối tác cung cấp dịch vụ trực tuyến uy tín, tin cậy để có được giải pháp tối ưu. Soạn thảo các quy trình liên quan để ràng buộc việc thực hiện một cách chặt chẽ, hạn chế rủi ro cho Công ty và nhân viên, và tạo thuận lợi để khách hàng thực hiện giao dịch. Tăng nguồn lực đầu tư vào CNTT để tăng tính hiệu quả của hệ thống giao dịch điện",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Tổng quan về việc cung cấp giải pháp PTBV của SSI ; column_headers: Ngân hàng đầu tư | Quản lý quỹ | Đầu tư [ROWS] Ngân hàng đầu tư | Quản lý quỹ | Đầu tư [ROW] ■ Tư vấn các cấu trúc tài chính có tác động tích cực ■ Tư vấn phát hành trái phiếu xanh, xã hội | ■ Đầu tư tư nhân vào các doanh nghiệp tạo ảnh hưởng tích cực tới môi trường, xã hội ■ Quỹ tương hỗ và ETF Phát triển bền vững | ■ Trái phiếu Xanh và trái phiếu xã hội ■ Đầu tư chủ động hướng đến phát triển bền vững [ROW] Tác động | Rủi ro | Cơ hội [ROW] Dịch vụ Ngân hàng đầu tư | Hoạt động tư vấn M&A, tư vấn huy động vốn cần có đánh giá đấy đủ các rủi ro ESG tiềm tàng có thể phát sinh trong và sau giao dịch | ■ Các dự án tài chính không thân thiện với môi trường (năng lượng hóa thạch, công nghiệp nặng) có thể gặp khó khăn trong việc huy động vốn. ■ Doanh nghiệp không tuân thủ tiêu chuẩn lao động hoặc có vấn đề về đạo đức có thể bị tẩy chay, làm giảm khả năng tiếp cận vốn. ■ Rủi ro liên quan đến quyền lợi cổ đông và trách nhiệm xã hội có thể ảnh hưởng đến danh tiếng của ngân hàng đầu tư. | ■ Gia tăng nhu cầu phát hành trái phiếu xanh, tín dụng bền vững. ■ Hỗ trợ M&A trong lĩnh vực ESG, đặc biệt là năng lượng tái tạo, công nghệ sạch. ■ Cơ hội tư vấn tái cấu trúc doanh nghiệp để đáp ứng tiêu chuẩn ESG, giúp thu hút đầu tư quốc tế. [ROW] Quản lý quỹ | ■ Xu hướng đầu tư vào các quỹ đầu tư ESG, đặc biệt là các quỹ mở và ETF ESG. ■ Nhà đầu tư cá nhân và tổ chức ngày càng ưu tiên các danh mục đầu tư bền vững. | ■ Danh mục quỹ có chứa các công ty vi phạm ESG có thể bị rút vốn mạnh ■ Nguy cơ liên quan đến danh mục quỹ đầu tư vào các công ty vi phạm đạo đức, nhân quyền. ■ Thiếu các tiêu chuẩn đánh giá ESG đồng bộ gây khó khăn trong việc xác định danh mục đầu tư. | ■ Nhu cầu tăng mạnh với các quỹ ESG, đặc biệt là quỹ tác động (Impact Investing). ■ Tăng khả năng thu hút dòng vốn từ các tổ chức tài chính toàn cầu. ■ Phát triển sản phẩm mới như quỹ xanh, quỹ phát triển bền vững. [ROW] Đầu tư | ESG ảnh hưởng trực tiếp đến chiến lược đầu tư của SSI | ■ Danh mục đầu tư vào ngành dầu khí, khai khoáng, công nghiệp nặng có thể gặp áp lực giảm giá trị. ■ Ảnh hưởng tiêu cực đến thương hiệu của tổ chức khi đầu tư vào các doanh nghiệp có hành vi phi đạo đức. ■ Doanh nghiệp trong danh mục đầu tư nếu bị phát hiện vi phạm quy định ESG có thể ảnh hưởng đến giá trị đầu tư. | ■ Đầu tư vào lĩnh vực năng lượng tái tạo, công nghệ sạch, và kinh tế tuần hoàn. ■ Phát triển danh mục đầu tư ESG giúp giảm thiểu rủi ro dài hạn và tăng tính hấp dẫn với nhà đầu tư tổ chức. ■ Tận dụng các chính sách hỗ trợ của chính phủ đối với doanh nghiệp xanh.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E3": 4
+      }
+    }
+  ]
+}

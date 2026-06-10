@@ -1,0 +1,116 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 152,
+      "text": "Tinh thần trách nhiệm: Có tinh thần trách nhiệm với khách hàng, cộng đồng, đồng nghiệp và trung thực trong công việc",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 154,
+      "text": "Tinh thần hợp tác: Thể hiện tinh thần hợp tác và tôn trọng đồng nghiệp",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 225,
+      "text": "BANK ất lượng định kin ược nâng thành, cô INSURANCE hệ thống thông tin h doanh. Báo cáo Tài ấ HOLDINGS Quản lý Bất động sản Is được ban hành trong toàn ấlhệ hốhô HOLDINGS ợg, ng bố thông tin. LIFE HOLDIN Hệ thống chỉ số phân tích KPIs được ban hành trong toàn B INSURA HOLDIN Tập đoàn nhằm nâng cao chất lượng hệ thống thông tin B INSURA quản trị phục vụ việc ra quyết định kinh doanh. Báo cáo Tài A INSURA HOLDINGS L chính hàng năm ngày càng được nâng cao chất lượng, chi A HOLDINGS tiết và rút ngắn thời hạn hoàn thành, công bố thông tin.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 702,
+      "text": "Khắc phục hậu quả thiên tai: Là cửa ngõ của Đông Nam Á với đường bờ biển kéo dài, cùng với sự biến đổi của khí hậu, Việt Nam thường xuyên hứng chịu các đợt thiên tai gây thiệt hại về người và của. Cùng với Nhà nước, Bảo Việt thường xuyên tổ chức các hoạt động nhằm hỗ trợ về vật chất và tinh thần đối với các đồng bào chịu ảnh hưởng từ các đợt hạn hán, lũ lụt, bao gồm: Quyên góp tiền mặt, quần áo, sách vở, lương thực thực phẩm...",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "E3": 0.5,
+        "G9": 1.0
+      },
+      "themes": [
+        "E3",
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G9": 2
+      }
+    },
+    {
+      "paragraph_id": 1470,
+      "text": "Quy trình xây dựng các giả định là nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo bằng việc áp dụng giả định tương đối thận trọng để tránh các biến động trong thực tiễn hoạt động. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả trong tương lai nằm trong giới hạn chấp nhận được. Các giả định được xem xét bao gồm giả định về xác suất xảy ra tổn thất và lãi suất đầu tư.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1478,
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảng tỷ lệ tử vong CSO 1980 đang được sử dụng.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    }
+  ]
+}

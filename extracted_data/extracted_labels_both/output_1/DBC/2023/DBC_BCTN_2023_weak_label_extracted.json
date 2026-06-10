@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: Cơ cấu tổ chức ; column_headers: Tỷ lệ biểu (%) quyết | Tỷ lệ sở hữu (%) | Địa chỉ trụ sở chính | STT | Tên công ty | Hoat động chính trong năm [ROWS] STT | Tên công ty | Tỷ lệ biểu (%) quyết | Tỷ lệ sở hữu (%) | Địa chỉ trụ sở chính | Hoat động chính trong năm [ROW] Công ty TNHH Lợn giống Hạt nhân Dabaco | 100 | 100 | Xã Tân Chi, huyện Tiên Du; tỉnh Bắc Ninh | Chăn nuôi gia súc, gia cầm, sản xuất, kinh doanh lợn giống, lợn thịt, tinh lợn, trâu, bò. [ROW] 2 | ty TNHH MTV Lợn giống Lạc Vệ Công | 100 | 100 | Thôn Hộ Vệ, huyện Tiên Du, tỉnh Bắc Ninh | Chăn nuôi lợn, chăn nuôi gia cầm và một số loại gia súc; sản xuất kinh doanh lợn giống, lợn thịt, tinh lợn, ba ba và giống khác. [ROW] ty TNHH Đầu tư và Phát triễn Chăn nuôi gia (**) Công công | 100 | 100 | Cụm công nghiệp xã Lạc Vệ, huyện Tiên Du, tỉnh Bắc Ninh | Chăn nuôi, các hoạt động hỗ trợ chăn nuôi , mua bán và đại lý. [ROW] Công ty TNHH Đầu tư Phát triển Chăn nuôi Lợn Dabaco | 100 | 100 | Cụm công nghiệp xã Lạc Vệ, huyện Tiên Ninh | Chăn nuôi lợn thịt; chăn nuôi lợn sữa, lợn giống, hoạt hỗ trợ chăn nuôi; sản xuất và kinh doanh mua bán lợn thịt; lợn giống, lợn thương phẩm. động",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Cam kết đầu tư ; column_headers: Đơn vị tính: VND Số đầu năm | Số cuối năm ; row_headers: Công ty TNHH Xây dựng Hồ Điều Hòa Văn Miếu Bắc Ninh | ty TNHH Dabaco Hòa Bình Công | ty Cổ phần Dabaco Quảng Ninh Công | ty TNHH Dược và Thú y Dacovet Công | ty TNHH Đầu tư và Phát triển Cum Công nghiệp Khúc Xuyên Công | ty TNHH Phân bón Hữu cơ Việt Nhật Công | ty TNHH Du lịch và Khách sạn Le Indochina Công | Công ty TNHH Dabaco Thanh Hóa | ty TNHH Đầu tư và Pháttriễn chăn nuôi gia công Công | ty TNHH Xây dựng Đường H2 Thành Bắc Ninh phố Công | TỔNG CỘNG [ROWS] Số cuối năm | Đơn vị tính: VND Số đầu năm [ROW] Công ty TNHH Xây dựng Hồ Điều Hòa Văn Miếu Bắc Ninh | 100.000.000.000 | 100.000.000.000 [ROW] ty TNHH Dabaco Hòa Bình Công | 100.000.000.000 | 100.000.000.000 [ROW] ty Cổ phần Dabaco Quảng Ninh Công | 99.000.000- | 99.000.000.000 [ROW] ty TNHH Dược và Thú y Dacovet Công | 50.000.000.000 [ROW] ty TNHH Đầu tư và Phát triển Cum Công nghiệp Khúc Xuyên Công | 43.000.000.000 | 43.000.000.000 [ROW] ty TNHH Phân bón Hữu cơ Việt Nhật Công | 35.000.000.000 | 35.000.000.000 [ROW] ty TNHH Du lịch và Khách sạn Le Indochina Công | 26.907.454.091 | 26.907.454.091 [ROW] Công ty TNHH Dabaco Thanh Hóa | 100.000.000.000 [ROW] ty TNHH Đầu tư và Pháttriễn chăn nuôi gia công Công | 20.000.000.000 [ROW] ty TNHH Xây dựng Đường H2 Thành Bắc Ninh phố Công | 13.350.672.132 [ROW] TỔNG CỘNG | 453.907.454.091 | 537.258.126.223",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "text": "» Cam kết không tài trợ các hoạt động liên quan đến than bao gồm khai thác than, vận chuyển than hoặc nhà máy nhiệt điện than, cũng như các dịch vụ cơ sở hạ tầng dành riêng để hỗ trợ hoạt động liên quan.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "» Ngân hàng tiên phong trong việc cam kết không tài trợ các hoạt động liên quan đến than bao gồm khai thác than, vận chuyển than hoặc nhà máy nhiệt điện than, cũng như các dịch vụ cơ sở hạ tầng dành riêng để hỗ trợ hoạt động liên quan.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ TÌNH HÌNH THỰC HIỆN QUẢN TRỊ CÔNG TY DỰA TRÊN Ể Ị Ự THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: STT | Tiêu chí | Cơ sởđánh giá | 2020 | cho năm 2021 | Tính tuân thủ của HDBank | 2021 [ROWS] STT | Tính tuân thủ của HDBank | Cơ sởđánh giá [ROW] Tiêu chí | 2020 | 2021 | cho năm 2021 [ROW] B.3 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] B.3.1 | Công ty có chính sách hoặc quy định cấm Thành viên Hội đồng Quả n trị và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | Quy định tại Điều lệ, Quy chế Nội bộ về Quả n trị Ngân hàng và các tài liệu có liên quan khác [ROW] B.3.2 | Thành viên Hội đồng Quả n trị có được yêu c ầu phả i báo cáo giao dịch cổ phiếu Công ty trong 3 ngày làm việc? | HDBank cam kết tuân thủ theo quy định công bố thông tin hiện hành trên thị trường [ROW] B.4 | Giao dịch bên liên quan bởi Hội đồng Quản trị và Ban Điều hành [ROW] B.4.1 | Công ty có chính sách yêu cầu Thành viên Hội đồng Quả n trị công bố lợi ích liên quan trong các giao dịch và mọi xung đột lợi ích với Công ty không? | Quy định tại Điều lệ, Quy chế Nội bộ về Quả n trị Ngân hàng và các tài liệu có liên quan khác. HDBank cam kết tuân thủ theo quy định công bố thông tin hiện hành trên thị trường [ROW] B.4.2 | Công ty có chính sách yêu cầu một Tiểu ban gồm Thành viên Hội đồng Quả n trị độc lập rà soát giao dịch bên liên quan trọng yếu/ quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của Công ty và c ổđông? | Ban Kiểm soát thực hiện chức năng giám sát công tác quả n trịđiều hành của Hội đồng Quả n trị và Ban điều hành [ROW] B.4.3 | Công ty có chính sách yêu cầu Thành viên Hội đồng Quả n trị không tham gia họp Hội đồng Quả n trị trong các cuộc họp về các hoạt động giao dịch mà Thành viên đó có xung đột lợi ích? | Quy định tại Điều lệ, Quy chế Nội bộ về Quả n trị Ngân hàng [ROW] B.4.4 | Công ty có chính sách về khoả n vay cho Thành viên Hội đồng Quả n trị trong đó quy định cấm hoạt động này hoặc đả m bả o rằng các khoả n vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Quy định tại Điều lệ, Quy chế Nội bộ về Quả n trị Ngân hàng và các tài liệu có liên quan khác về cấp tín dụng",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5,
+        "S4": 0.642575
+      },
+      "themes": [
+        "G10",
+        "G11",
+        "S4"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1,
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Thẻđiểm phạt ; column_headers: STT | Tiêu chí | Cơ sởđánh giá cho năm 2021 | 2020 | Tính tuân thủ của HDBank | 2021 [ROWS] Tính tuân thủ của HDBank [ROW] STT | Tiêu chí | 2020 | 2021 | Cơ sởđánh giá cho năm 2021 [ROW] (P)B | ĐỐI XỬ BÌNH ĐẲNG VỚI CỔĐÔNG [ROW] (P)B.1 | Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] (P)B.1.1 | Công ty có bị kết luận vi phạm về giao dịch nội gián của Hội đồng Quả n trị, Ban Điều hành và nhân viên trong 3 năm qua? | Không phát sinh [ROW] (P)B.2 | Bảo vệ cổđông nhỏ lẻ từ các hành vi tư lợi cá nhân [ROW] (P)B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu 3 năm qua? | Không phát sinh [ROW] (P)B.2.2 | Có giao dịch bên liên quan nào có tính chất hỗ trợ tài chính cho các đơn vị không phả i là Công ty con trực thuộc không? | Không phát sinh [ROW] (P)C | VAI TRÒ CỦA CÁC BÊN CÓ QUYỀN LỢI LIÊN QUAN [ROW] (P)C.1 | Quyền lợi của các bên có liên quan được quy định bởi pháp luật hoặc theo những thỏa thuận song phương phải được tôn trọng [ROW] (P)C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/phá sả n/ thương mại/cạnh tranh hay các vấn đề về môi trường không? | Không phát sinh [ROW] (P)C.2 | Quyền lợi các bên liên quan được bảo vệ bởi luật pháp, các bên liên quan có cơ hội để thể hiện ý kiến nếu quyền lợi bị xâm phạm [ROW] (P)C.2.1 | Công ty có phả i chịu bất kỳ hình phạt nào của cơ quan quả n lý liên quan đến việc công bố thông tin không đúng hạn cho những yêu cầu thiết yếu? | Không phát sinh [ROW] (P)D | CÔNG BỐ THÔNG TIN VÀ MINH BẠCH [ROW] (P)D.1 | Hình phạt của cơ quan quản lý liên quan đến Báo cáo Tài chính [ROW] (P)D.1.1 | Công ty có nhận được “ý kiến loại trừ” trong Báo cáo kiểm toán độc lập? | Ý kiến kiểm toán chấp nhận toàn phần [ROW] (P)D.1.2 | Công ty có nhận được “ý kiến bất lợi” trong Báo cáo kiểm toán độc lập? | Ý kiến kiểm toán chấp nhận toàn phần",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Hành động của HDBank đáp ứng kỳ vọng của bên liên quan ; column_headers: Đối tượng liên quan | Kênh tương tác | Các vấn đề được các bên lưu tâm | Hành động của HDBank đáp ứng kỳ vọng của bên liên quan [ROWS] Đối tượng liên quan | Kênh tương tác | Các vấn đề được các bên lưu tâm | Hành động của HDBank đáp ứng kỳ vọng của bên liên quan [ROW] Người lao động | » Kênh truyền thông nội bộ » Tổ chức công đoàn, đoàn thanh niên » Điện thoại và email » Các chương trình đào tạo » Các hoạt động giao lưu văn nghệ thể thao. | » Môi trường làm việc cùng các chế độ, chính sách phúc lợi » Lộ trình thăng tiến và động lực làm việc » Chương trình đào tạo phát triển kỹ năng nghề nghiệp » An toàn và sức khỏe lao động | » Đả m bả o chính sách thu nhập và chế độ phúc lợi cho người lao động, tạo điều kiện tốt nhất để các cán bộ nhân viên được tiêm v ắc – xin sớm và phòng ngừa Covid-19 tốt nhất. » Chăm lo tốt cho người lao động và người thân m ắc Covid-19 với kinh phí hỗ trợ chữa bệnh và túi thuốc an sinh. » Áp dụng công nghệ trong công tác quả n lý, ý, gắn kết nhân sự nhưứng dụng chấm công, công cụ trao đổi trực tuyến và truyền thông nội bộ Workplace,... » Tổ chức các khóa đào tạo, chương trình thi đua trực tuyến để tăng tính gắn kết và phát triển kỹ năng của người lao động. [ROW] Cơ quan quản lý | » Tham dự các buổi hội nghị, hội thả o do Bộ, ban, ngành tổ chức » Tham dự các cuộc họp, làm việc song phương, đa phương » Báo cáo xin ý kiến, hướng dẫn thực hiện | » Tuân thủ các quy định của Pháp luật » Đả m bả o tăng trưởng kinh tế bền vững đóng góp cho sự phát triển chung của nền kinh tế » Quả n lý tác động tới môi trường và xã hội » Trao đổi trong quá trình thực thi các chính sách, quy định của pháp luật | » Đồng hành cùng Chính phủ và địa phương thực hiện xuất sắc các công tác phòng chống dịch bệnh. Tổng kinh phí HDBank đã đóng góp lên đến hàng trăm tỷ đồng. » =Luôn tuân thủ đầy đủ các quy định của cấp có thẩm quyền trong mọi hoạt động. » =Tiên phong thực thi chủ trương của Chính phủ và Ngân hàng Nhà Nước v ề tín dụng Xanh, tín dụng nông nghiệp công nghệ cao, nông thôn, năng lượng tái tạo, tại trợ doanh nghiệp nhỏ và vừa, hộ gia đình...đóng góp cho chiến lược kinh tế Xanh, bền vững của Việt Nam",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 3.5.1 Phân loại nợ và dự phòng rủi ro tín dụng ; column_headers: Nhóm n ợ | Tỷ lệ dự phòng cụ thể (%) | Diễn giải [ROWS] Nhóm n ợ | Diễn giải | Tỷ lệ dự phòng cụ thể (%) [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả nă ng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: » Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do khách hàng vi phạm hợp đồng tín dụng với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông | 20% [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn đến 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do khách hàng vi phạm thỏa thuận với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin tín dụng có liên quan. | 50% [ROW] 5 | Nợ có khả nă ng mất v ốn | (a) Nợ quá hạn trên 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 91 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc (d) Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã quá hạn; hoặc (e) Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian trên 60 ngày kể từ ngày có quyết định thu hồi; hoặc (f) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

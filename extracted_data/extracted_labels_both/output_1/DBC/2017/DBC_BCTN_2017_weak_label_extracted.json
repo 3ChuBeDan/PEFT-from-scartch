@@ -1,0 +1,68 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 378,
+      "text": "Tập đoàn luôn thực hiện đúng các quy định của pháp luật về bảo vệ môi trường. Thực hiện đầu tư đầy đủ các hệ thống xử lý khí thải, nước thải tại tại tất cả các đơn vị . Tuân thủ việc lập báo cáo đánh giá tác động môi trường (ĐTM) trước khi triển khai xây dựng; Thực hiện quan trắc môi trường mỗi năm 2 lần và lập báo cáo hiện trạng môi trường định kỳ nộp cho các cơ quan quản lý môi trường để kịp thời khắc phục những ảnh hưởng từ hoạt động sản xuất kinh doanh, đảm bảo các chỉ tiêu về môi trường đáp ứng các tiêu chuẩn qui định.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.5,
+        "E_COMMON": 1.0,
+        "S6": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E_COMMON": 3,
+        "S6": 1
+      }
+    },
+    {
+      "paragraph_id": 400,
+      "text": "-Tổ chức thăm hỏi CBCNV -LĐ lúc ốm đau, thai sản, sinh nhật, đám hiếu, hỷ của bản thân người lao động và tứ thân phụ mẫu; tặng quà cho cán bộ nữ CNVC – LĐ nhân dịp 8/3; tặng quà cho các cháu là con cán bộ công nhân viên công ty có thành tích học tập tốt, ngày Quốc tế thiếu nhi và Tết Trung thu . ..",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 865,
+      "text": "[TABLE] [CONTEXT] section: 1 ; column_headers: Tỷ lê sở | Đia chi tru sò chlnh | STT [ROWS] STT | Tỷ lê sở | Đia chi tru sò chlnh [ROW] Công ty TNHH Đau tu va công | 100 | 100 | Cum nghiep Ninn công | hễ trq chan nuôi mua bán [ROW] Cong ty TNHH trien Chan Dabaco | 100 | 100 | Cum cong nghỉệp Tien Du, tinh Bac Ninh | chan lon gióng hoạt Gộng hỗ trợ chan nuói; kinn doanh [ROW] 5 | MTV Ga giòng Dabaco | 100 | 100 | Lac Ve, huyen Tiên Du; tỉnh Bẳc Nirh | Chan nuói và kinh doanh gả gióng [ROW] Cong ty TNHH MTV Dabaco Bẩc Tay | Cum công nghièp Mông Hóa huyen Kỳ Son tinh Hoa Binh | lâm thuc an cho gia súc, [ROW] Công ty TNHH nghiep Công nghé cao Dabaco Nong | 100 | 100 | Lac Vẻ huyen Ninn | Sản xuát va kinh doanh rau {can ửng dung công [ROW] Cong ty TNHH MTV Thuong mai Hièo Quang | 100 | 100 | Khu công nghièp tinh Bảc Ninh | Sản xuat, kinh doanh thực bl nhua PP PE composit; thuong mal , dịch vu [ROW] Công ty TNHH Dich vu Thuong mal Bàc Ninh | 100 | Cum công nghièp | Mua bán xuát nhâp khẩu Cicn Vu khàch sen nha thuong hang mai [ROW] 10 | Công ty TNHH Bat động sản Dabaco | 100 | 10o | Tàng 3 toa nhà Techcombank đương Nguyễn phó Bác Ninh | môi sân giao dich",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

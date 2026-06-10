@@ -1,0 +1,124 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "text": "Tại thời điểm này, Tập đoàn CMC đã xây dựng xong kế hoạch kinh doanh cho năm 2020, đồng sức đồng lòng cùng nhau chèo lái qua sóng dữ với tinh thần chiến binh quyết chiến và không lùi bước. Tập đoàn CMC tự hào khi có những \"chiến binh\" quả cảm như vậy, chính trong lúc này, các bạn đã phát huy 4 giá trị cốt lõi của CMC: Sáng tạo, Tốc độ, Cam kết và Hướng khách hàng. Đặc biệt hơn, các bạn luôn giữ mãi tinh thần \"Khát khao\" (Aspire) mà các thế hệ người CMC luôn giữ gìn, tiếp nối suốt 27 năm qua. Đó là khát khao chinh phục thế giới số, khát vọng hướng tới vị thế hàng đầu. \"Khát khao\" là một điều gì đó đẹp hơn cả sở thích, sâu sắc hơn cả ước mơ, rực cháy hơn cả đam mê. Khát khao, là lý tưởng, là mục đích để người ta sống và làm việc, hoàn thiện cuộc đời mình.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Năm 1996: Thành lập Trung tâm Tích hợp Hệ thống (tiền thân của CMC SI) và Trung tâm Giải pháp Phần mềm (tiền thân của CMC Soft). Trụ sở đặt tại thành phố Hồ Chí Minh",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Xây dựng Báo cáo rủi ro gian lận và các phương pháp để phòng ngừa, phát hiện gian lận",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "CMC luôn chú trọng phát triển cơ sở vật chất, xây dựng môi trường làm việc thân thiện cho toàn bộ CBNV. Các văn phòng làm việc của CMC đề được xây dựng theo tiêu chuẩn quốc tế, thân thiện đảm bảo CBNV có được điều kiện tốt nhất để sáng tạo, phát huy hết năng lực của mình trong công việc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Ưu tiên sử dụng các dạng năng lượng sạch, thân thiện với môi trường, hạn chế sự thất thoát, lãng phí các nguồn tài nguyên và năng lượng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Qua đánh giá thuận lợi và khó khăn của nền kinh tế, cũng như xu hướng và nhu cầu thị trường CNTT và Viễn thông, với đánh giá tác động của đại dịch Covid 19 vẫn còn lớn và khó lường, Công ty đã chuẩn bị xây dựng 3 kịch bản kế hoạch kinh doanh năm 2020 ở 03 mức mục tiêu (lạc quan thận trọng và xấu), với mức tăng trưởng doanh thu ở các kịch bản mục tiêu và thận trọng lần lượt 25% và 12%. Đánh giá và dự báo mức độ ảnh hưởng đến thời điểm hiện tại, Công ty lựa chọn trình Đại hội cổ đông kế hoạch kinh doanh ở kịch bản thận trọng theo các chỉ tiêu kinh doanh dưới đây là cơ sở để thưc hiện. Trong trường hợp việc kiểm soát dịch bệnh tốt và môi trường kinh doanh thuận lợi, Công ty sẽ thúc đẩy hoạt động sản xuất kinh doanh ở mức cao hơn. Chỉ tiêu doanh thu, chi phí, lợi nhuận năm 2020 như sau:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: QUẢN TRỊ CÁC RỦI RO QUAN TRỌNG ; column_headers: RỦI RO | MÔ TẢ RỦI RO | BIỆN PHÁP KIỂM SOÁT [ROWS] RỦI RO | MÔ TẢ RỦI RO | BIỆN PHÁP KIỂM SOÁT [ROW] AN NINH THÔNG TIN | Những rủi ro đối với các thông tin như bị lộ, bị thay đổi, bị mất mát đều ảnh hưởng nghiêm trọng đến hoạt động, đến uy tín, đến chiến lược của tập đoàn. | Áp dụng triệt để các biện pháp chống thất thoát dữ liệu và an toàn hệ thống nhằm đảm bảo an ninh thông tin của CMC. Triển khai hệ thống quản lý an ninh thông tin ISMS tại một số công ty thành viên lớn. Gán trách nhiệm an toàn thông tin với các thành viên tổ chức, nhằm tránh vi phạm an toàn thông tin dẫn tới hậu quả nghiêm trọng. Triển khai giám sát an toàn an ninh mạng tự động qua Trung tâm điều hành an ninh mạng CMC (CMC NextGen SOC) – được tích hợp trí tuệ nhân tạo & công nghệ Automation. [ROW] TUÂN THỦ | CMC có quy mô hoạt động ngày càng lớn, không chỉ ở phạm vi Việt Nam. Do đó, các rủi ro liên quan tới việc không tuân thủ quy định, pháp luật nước sở tại (quy định về xuất nhập cảnh, lao động nhập cư, thuế, ...) sẽ ảnh hưởng đến uy tín của tập đoàn. | Thường xuyên nghiên cứu, cập nhật quy định, chính sách, luật pháp của các thị trường nước ngoài có liên quan Tổ chức đào tạo nhân viên về các quy đinh, chính sách ở các thị trường này Thực hiện thắt chặt các bước kiểm soát với nhân viên đang làm việc tại thị trường nước ngoài [ROW] DỊCH BỆNH | Rủi ro không giữ chân được các khách hàng cũ, khó tìm kiếm khách hàng mới do ảnh hưởng của dịch COVID-19 | Thường xuyên trao đổi để nắm rõ tình hình khách hàng, kịp thời đưa ra các biện pháp để hỗ trợ khách hàng trong thời kỳ dịch bệnh Tìm kiếm các thị trường, các lĩnh vực kinh doanh ít bị ảnh hưởng bởi dịch bệnh để cung cấp sản phẩm, dịch vụ",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

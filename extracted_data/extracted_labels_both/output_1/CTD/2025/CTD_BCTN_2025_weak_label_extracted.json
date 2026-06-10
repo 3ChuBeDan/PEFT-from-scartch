@@ -1,0 +1,470 @@
+{
+  "extracted_count": 22,
+  "extracted": [
+    {
+      "paragraph_id": 299,
+      "text": "Chúng tôi hướng tới tạo sự khác biệt trước hết bằng tinh thần đồng hành với khách hàng, đứng cùng lập trường và đội ngũ với họ để hiểu nhu cầu của họ ở mức cao nhất. Khi khách hàng đưa ra tiêu chuẩn mới hoặc yêu cầu mà mình chưa từng gặp qua, chúng tôi sẽ không nghĩ rằng họ sai hoặc gây áp lực. Ngược lại, sẽ đón nhận bằng tinh thần tiếp nhận cái mới, nghiên cứu kỹ để phản hồi, tư vấn hoặc đáp ứng. Có nghĩa rằng để làm việc với khách hàng mới, chúng tôi không chỉ nâng cấp năng lực cho đội ngũ, mà còn thay đổi cách tiếp nhận của họ.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 385,
+      "text": "Đạt 3 chứng chỉ LEED (2 LEED Platinum và 1 LEED Gold). · Lắp đặt 12.400 tấm pin mặt trời áp mái, sử dụng hoàn toàn 100% năng lượng tái tạo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 581,
+      "text": "Vì vậy, \"The Happy Coteccons\" được triển khai với mục đích chính là gắn kết tinh thần của nhân viên, đảm bảo sức khỏe vật chất, tạo môi trường làm việc thân thiện, chăm sóc người lao động, để từ đó, nâng cao sự hài lòng, hiệu suất làm việc và sức mạnh giữ chân nhân sự.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1142,
+      "text": "Chúng tôi khởi đầu hành trình phát triển bền vững từ trái tim – nơi tinh thần nhân văn là cốt lõi cho mọi quyết định. Đây chính là tinh thần human-hearted mà Coteccons đã chọn lựa để theo đuổi.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1161,
+      "text": "Có thể lấy ví dụ từ việc Coteccons tự lựa chọn tiêu chuẩn kiểm kê khí nhà kính. Với sự phức tạp đặc thù của hoạt động xây dựng, nhiệm vụ này đòi hỏi sự chuẩn hóa từ khâu kiểm soát đầu vào, quản lý chuỗi nguyên vật liệu cho đến hệ thống hóa việc tiêu thụ năng lượng qua các giai đoạn xây dựng. Suốt ba năm qua, chúng tôi vừa tiến hành kiểm kê, vừa nghiên cứu công thức tính toán cường độ phát thải phù hợp với bối cảnh ngành xây dựng Việt Nam. Kết quả bước đầu không chỉ phục vụ kế hoạch giảm phát thải của riêng Công ty mà còn kỳ vọng sẽ đóng góp cho việc thiết lập tiêu chuẩn mới cho ngành.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1176,
+      "text": "Được đào tạo về kiểm kê khí nhà kính.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1188,
+      "text": "Bối cảnh trong nước hôm nay cho thấy một quyết tâm mạnh mẽ chưa từng có của Chính phủ trong việc hiện thực hóa mục tiêu phát triển bền vững. Không chỉ dừng ở các cam kết chính trị, quyết tâm ấy đã và đang được cụ thể hóa qua hệ thống pháp lý và chính sách ngày càng hoàn thiện. Luật Bảo vệ môi trường 2020 tiếp tục được rà soát, bổ sung để phù hợp với thực tiễn; Nghị định 06/2022/ NĐ-CP về giảm nhẹ phát thải khí nhà kính tạo tiền đề cho việc thí điểm thị trường carbon trong nước từ năm 2025; đặc biệt, Nghị định 05/2025/NĐ-CP về trách nhiệm mở rộng của nhà sản xuất (EPR) đã mở rộng phạm vi áp dụng sang cả lĩnh vực xây dựng, đặt ra yêu cầu cho doanh nghiệp vừa tuân thủ luật pháp trong nước, vừa tiệm cận chuẩn mực quốc tế.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1191,
+      "text": "Chính phủ Việt Nam định hình rõ con đường phát triển dựa trên các mô hình kinh tế mới ưu việt – từ kinh tế số, kinh tế xanh, đến kinh tế tuần hoàn nhằm đáp ứng xu thế toàn cầu, nâng cao năng suất, chất lượng và hiệu quả, đồng thời gia tăng sức cạnh tranh của nền kinh tế.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1196,
+      "text": "Sự kết hợp giữa bối cảnh quốc tế, khung pháp lý trong nước và bộ tứ nghị quyết trên đã tạo nên động lực mạnh mẽ cho Coteccons trong việc tái cấu trúc chiến lược phát triển bền vững. Doanh nghiệp không chỉ dừng lại ở mức tuân thủ mà đã và đang tiên phong trong kiểm kê khí nhà kính, quản lý công trường bền vững và hướng tới kinh tế tuần hoàn, diễn ra đồng thời với hoạt động chăm lo toàn diện cho người lao động. Đây là lợi thế để Coteccons gia tăng giá trị thương hiệu, tiếp cận nguồn vốn xanh và mở rộng hợp tác quốc tế.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 1345,
+      "text": "D ưới góc nhìn của một chuyên gia về KH&CN vật liệu, ứng dụng ESG trong ngành xây dựng thể hiện sự thay đổi cốt lõi hướng tới các hoạt động xây dựng bền vững và có trách nhiệm. Khía cạnh môi trường của ESG là quan trọng, tập trung vào giảm thiểu phát thải thông qua sử dụng vật liệu bền vững/xanh và quy trình tiết kiệm năng lượng. Vật liệu xanh là chìa khóa để giảm phát thải carbon, sử dụng hiệu quả năng lượng, phù hợp với các mục tiêu ESG bằng cách giảm sự phụ thuộc vào tài nguyên nguyên sinh và thúc đẩy kinh tế tuần hoàn. \"",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1363,
+      "text": "Trong năm 2025, Coteccons đã cụ thể hóa Điều khoản về Lao động và Nhân quyền vào Bộ Quy tắc Ứng xử dành cho Đối tác kinh doanh (đã ban hành tháng 10/2024). Trong đó, Công ty ban hành Chính sách Chống Lao động Cưỡng bức và Lao động Trẻ em áp dụng cho các nhà thầu phụ tại một số dự án trọng điểm. Chính sách này được xây dựng trên cơ sở Các Nguyên tắc Hướng dẫn của Liên Hợp Quốc về Kinh doanh và Nhân quyền, đi kèm Cơ chế tiếp nhận và xử lý khiếu nại dành cho công nhân.",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 1489,
+      "text": "Coteccons khởi đầu hành trình phát triển bền vững ầố g từ trái tim – nơi tinh thần nhân văn là cốt lõi cho mọi ếầ ọ quyết định. Đây chính là tinh thần Human-hearted ể ổ qyịy mà Coteccons đã chọn lựa để theo đuổi.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1587,
+      "text": "Thực hiện các giải pháp thi công xanh, tiết kiệm nước, quản lý chất thải hiệu quả và bảo tồn đa dạng sinh học – nhằm nâng cao hiệu quả sử dụng tài nguyên và giảm thiểu tác động môi trường.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1608,
+      "text": "Tất cả các công trình này đều được xây dựng theo xu hướng \"xanh hóa\". Trong đó, nổi bật là nhà máy Pandora được vận hành 100% bằng năng lượng tái tạo, xây dựng theo tiêu chuẩn LEED Gold.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1652,
+      "text": "Coteccons ký hợp đồng với đơn vị nhà thầu phụ tiến hành quan trắc môi trường theo giấy phép môi trường và định kỳ nộp báo cáo công tác bảo vệ môi trường hàng năm cho cơ quan liên quan.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 1665,
+      "text": "Đối với các dự án nằm trong khu công nghiệp hoặc cụm công nghiệp, Coteccons thực hiện thủ tục xin đấu nối nước thải và chuyển toàn bộ lượng nước thải về hệ thống xử lý tập trung của khu vực đó, theo hợp đồng đã ký với Ban Quản lý khu công nghiệp/cụm công nghiệp.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1694,
+      "text": "Tiến sĩ Habil . ĐẶNG MẬU CHIẾN Chuyên gia Phát triển bền vững, đồng hành cùng Coteccons trong công tác kiểm kê khí nhà kính – nhấn mạnh.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1831,
+      "text": "Trong năm qua, Coteccons đã ghi dấu ấn bằng việc sử dụng 48% thép xanh, tương đương hơn 300.169 tấn, từ các nhà cung cấp đạt chứng nhận LEED, EPD và LCA. Đồng thời, Công ty cũng đưa vào công trình hơn 41,2 triệu viên gạch XMCL, chiếm 50% tổng lượng gạch sử dụng trong năm.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1877,
+      "text": "Hoạt động này thể hiện cam kết dài hạn của Coteccons trong ứng phó với biến đổi khí hậu, phục hồi hệ sinh thái bản địa, bảo tồn đa dạng sinh học và xây dựng mô hình sinh kế xanh cho cộng đồng.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1996,
+      "text": "Chúng tôi làm việc với sự thấu hiểu và tinh thần đồng đội. Chúng tôi không thoả hiệp với những hành động đi ngược lại tính nhân văn và không tạo ra giá trị cho cộng đồng. Đối xử công bằng và tử tế, không phân biệt hoàn cảnh xuất thân, vị trí và năng lực.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 2560,
+      "text": "[TABLE] [CONTEXT] section: THƯ CẢM ƠN TỪ CHÍNH QUYỀN ; column_headers: NỘI DUNG BÁO CÁO | TIÊU CHUẨN GRI | GHI CHÚ [ROWS] NỘI DUNG BÁO CÁO | TIÊU CHUẨN GRI | GHI CHÚ [ROW] Tiêu chuẩn & phạm vi báo cáo | • GRI 2-1: Hồ sơ tổ chức chi tiết • GRI 2-2: Phạm vi báo cáo • GRI 2-3: Thời gian báo cáo, tần suất, thông tin liên hệ | Thông tin tổ chức, phạm vi, kỳ báo cáo, liên hệ [ROW] Giới thiệu chung (thông điệp) | • GRI 2-22: Thông điệp lãnh đạo về PTBV | Thông điệp lãnh đạo về chiến lược PTBV [ROW] Vai trò PTBV trong ếổể chiến lược tổng thể | • GRI 2-22: Thông điệp lãnh đạo về PTBV • GRI 3-3: Mục tiêu PTBV, lộ trình, chỉ số đo lường | Chiến lược PTBV, mục tiêu, roadmap [ROW] Các vấn đề trọng yếu 2025 | • GRI 3-1: Quy trình xác định trọng yếu • GRI 3-2: Danh mục các vấn đề trọng yếu | Danh sách 14 vấn đề trọng yếu (E, S, G) [ROW] GRI 403: An toàn & sức khỏe NLĐ | Sức khỏe & an toàn lao động [ROW] GRI 401: Việc làm GRI 402: Quan hệ lao động | Môi trường làm việc hạnh phúc, thu nhập NLĐ [ROW] GRI 413: Trách nhiệm cộng đồng | Trách nhiệm cộng đồng & ứng phó BĐKH [ROW] GRI 404: Đào tạo & phát triển | Đào tạo, nâng cao kỹ năng [ROW] GRI 306: Kinh tế tuần hoàn, Quản lý rác thải | Kinh tế tuần hoàn, quản lý chất thải: 3R, quản lý chất thải [ROW] GRI 305: Giảm phát thải khí nhà kính | Giảm phát thải khí nhà kính [ROW] GRI 308: Đánh giá chuỗi cung ứng GRI 414: Quản lý chuỗi cung ứng | Quản lý chuỗi cung ứng: Đánh giá nhà cung ứng (môi trường & xã hội) [ROW] GRI 205: Phòng chống tham nhũng, tuân thủ pháp luật | Đạo đức & liêm chính: Phòng chống tham nhũng, tuân thủ pháp luật [ROW] GRI 2: Công bố chung • GRI 2-29: Phương pháp tiếp cận sự tham gia các bên liên quan • GRI 2-12: Vai trò của cơ quan quản trị cao nhất (HĐQT) trong việc giám sát các tác động bền vững | Cơ chế tham vấn, khảo sát các bên liên quan [ROW] GRI 2: Công bố chung • GRI 2-23: Các bộ quy tắc ứng xử, chính sách nhân quyền • GRI 2-24: Triển khai chính sách đạo đức, nhân quyền • GRI 2-26: Cơ chế khiếu nại/Đường dây hỗ trợ miễn phí công nhân xây dựng ố g y g GRI 205: Phòng chống tham nhũng ố g g GRI 406: Không phân biệt đối xử ề g ệ GRI 407: Tự do lập hội/Quyền tham gia công đoàn và ể ự thỏa ước tập thể ậ GRI 408: Phòng chống lao động trẻ em ố g g ộg GRI 409: Phòng chống lao động cưỡng bức | Đạo đức & Quy tắc ứng xử: Chính sách nhân quyền, lao động, chống tham nhũng",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E3": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 6,
+        "E3": 2,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 2561,
+      "text": "[TABLE] [CONTEXT] section: THƯ CẢM ƠN TỪ CHÍNH QUYỀN ; column_headers: NỘI DUNG BÁO CÁO | TIÊU CHUẨN GRI | GHI CHÚ [ROWS] NỘI DUNG BÁO CÁO | TIÊU CHUẨN GRI | GHI CHÚ [ROW] CHƯƠNG: KHỞI NGUỒN TỪ TRÁI TIM | GRI 401: Việc làm GRI 402: Quan hệ lao động GRI 403: An toàn & sức khỏe NLĐ GRI 404: Đào tạo & phát triển ẳ ạp GRI 405: Đa dạng & bình đẳng cơ hội ố ạg g GRI 406: Không phân biệt đối xử ề g ệ GRI 407: Tự do lập hội/Quyền tham gia công đoàn ể ự ập và thỏa ước tập thể ố ậ GRI 408: Phòng chống lao động trẻ em ố g g ộg GRI 409: Phòng chống lao động cưỡng bức GRI 410: Đảm bảo an ninh GRI 411: Phạm vi liên quan đến quyền các dân tộc bản địa ồ ạ GRI 413: Cộng đồng địa phương • GRI 413-1: Có sự tham gia cộng đồng để tạo ra giá trị chung | • Phúc lợi, môi trường làm việc hạnh phúc • Bình đẳng giới, lãnh đạo nữ • Helpline, quyền NLĐ • Chương trình Xây Tết, học bổng, chăm lo NLĐ [ROW] CHƯƠNG: CÔNG TRƯỜNG AN TOÀN VÀ BỀN VỮNG | GRI 403: An toàn và Sức khỏe nghề nghiệp GRI 303: Nước và Nước thải GRI 305: Phát thải GRI 306: Chất thải | • An toàn lao động & văn hóa an toàn • Quản lý năng lượng & giảm phát thải tại công trường • Quản lý nước & chất thải • Ứng phó BĐKH tại công trường • Minh bạch & tuân thủ [ROW] CHƯƠNG: KẾT NỐI CHUỖI GIÁ TRỊ ỦỀ Ị CỦA NỀN KINH TẾ TUẦN HOÀN | GRI 301: Vật liệu • GRI 301-1: Các nhóm giải pháp 3R tiêu biểu đã được Coteccons triển khai • GRI 302: Thay thế đèn LED cho đèn huỳnh quang, dùng hệ thống đèn sử dụng năng lượng mặt trời • GRI 302-4: Tối ưu hóa quy trình giúp giảm hao hụt và sử dụng hiệu quả nguồn năng lượng GRI 305: Phát thải • GRI 305-1: Nỗ lực giảm phát thải trực tiếp (từ hoạt động kinh doanh) • GRI 305-2: Xây dựng Chuỗi cung ứng Xanh GRI 306: Chất thải • GRI 306-1: Quản lý chất thải một cách có trách nhiệm, triển khai mô hình “thu gom – tái chế – tái sử dụng” • GRI 306-2: Thu hồi và tái chế hơn 1.316 tấn thép vụn tại 34 công trường • GRI 306-3: Chất thải được phát sinh, hướng đến mô hình kinh tế tuần hoàn • GRI 306-4: Quản lý và xử lý chất thải hiệu quả, hướng tới mô hình kinh tế tuần hoàn GRI 413: Cộng đồng địa phương • GRI 413-1: Có sự tham gia cộng đồng để tạo ra giá trị chung | • 3R (Reduce – Reuse – Recycle), quản lý chất thải xây dựng • Sử dụng vật liệu tái chế, thép xanh, bê tông xanh, gạch • Chuỗi cung ứng xanh, EPD/LCA • Kinh tế tuần hoàn & đổi mới sản phẩm [ROW] CHƯƠNG: THÀNH VIÊN CÓ TRÁCH NHIỆM VỚI Ồ Ệ CỘNG ĐỒNG | GRI 413: Cộng đồng địa phương • GRI 413-1: Sự tham gia và tác động tích cực của công ty tới cộng đồng địa phương GRI 303: Nước và Nước thải • GRI 303-3: Bảo vệ và phục hồi tài nguyên nước ở lưu vực sông Gianh GRI 304: Đa dạng sinh học • GRI 304-2: Các tác động tích cực đến đa dạng sinh học thông qua trồng cây bản địa • GRI 304-3: Bảo tồn động vật quý hiếm và phục hồi hệ sinh thái GRI 305: Giảm phát thải • GRI 305-5: Giảm thiểu tác động đến biến đổi khí hậu | • Trồng rừng, đa dạng sinh học, Voọc quý hiếm • Sinh kế bền vững (cà gai leo, OCOP) • Hỗ trợ thiên tai, nhà tái thiết, trường học • Xóa đói giảm nghèo, nhà tình thương. • Hỗ trợ bệnh nhân nghèo, mổ mắt, bảo trợ trẻ em • “Hái Trăng Về Làng”, quà Trung thu cho trẻ em [ROW] CHƯƠNG: ĐỒNG HÀNH CÙNG CHÍNH PHỦ TRONG CHUYỂN ĐỔI XANH | GRI 204: Thực hành mua sắm • GRI 204-1: Tập trung cho nhà cung cấp tại địa phương • GRI 308-1: Đánh giá nhà cung cấp về môi trường trong chuỗi giá trị • GRI 414-1: Đánh giá nhà cung cấp về xã hội trong chuỗi giá trị GRI 404: Đào tạo và Giáo dục • GRI 404-2: Nâng cao kỹ năng cho người lao động để phát triển nghề nghiệp GRI 413: Cộng đồng địa phương • GRI 413-1: Sự tham gia và tác động tích cực của Công ty tới cộng đồng địa phương | ESG Scorecard - đánh giá và thúc đẩy sự phát triển bền vững trong chuỗi cung ứng",
+      "hard_labels": [
+        "E2",
+        "E3",
+        "E_COMMON",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 1.0,
+        "E_COMMON": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 15,
+        "E3": 4,
+        "E_COMMON": 3,
+        "S4": 3,
+        "S6": 2
+      }
+    }
+  ]
+}

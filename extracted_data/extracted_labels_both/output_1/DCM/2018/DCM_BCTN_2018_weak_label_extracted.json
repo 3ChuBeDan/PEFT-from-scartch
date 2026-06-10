@@ -1,0 +1,96 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Cùng với các Công ty trong cụm công nghiệp Khí - Điện - Đạm Cà Mau thuộc Tập đoàn Dầu khí Quốc gia Việt Nam, các doanh nghiệp tại đây đã đóng góp trên 40% nguồn thu ngân sách và tạo ra trên 30% việc làm cho lao động địa phương, Cụm công nghiệp Khí - Điện Đạm Cà Mau là động lực kinh tế quan trọng giúp vùng sình lầy \"nước đen\" Cà Mau xưa kia được thay bằng chiếc \"áo mới\". Cũng trên cơ sở nền tảng của cụm Công nghiệp Khí - Điện - Đạm Cà Mau, hạ tầng khu công nghiệp, hệ thống đường giao thông, điện, cấp thoát nước, sân bay đã được hình thành giúp Cà Mau khai thác tiềm năng du lịch sinh thái, nuôi trồng xuất khẩu thủy sản cũng như kết nối gần hơn với các tỉnh, thành phố trong cả nước.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Thực hiện theo quy định của pháp luật mới ban hành về việc cấp phép xả nước thải cho nước thải sau xử lý và nước sông làm mát thải, Công ty cũng đã được Bộ Tài Nguyên Môi Trường cấp phép xả nước thải vào nguồn nước theo quyết định số 3195/GP-BTNMT ngày 14/12/2017. Công ty cũng đã tuân thủ đầy đủ và nghiêm túc các nội dung quy định trong giấy phép.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Chất thải nguy hại: giẻ lau dính dầu, bóng đèn huỳnh quang, dầu nhớt thải, hóa chất thải bỏ của phòng thí nghiệm,... Biện pháp thu gom, lưu trữ và xử lý: Phân loại và thu gom tại nguồn, sau đó thuê đơn vị dịch vụ chuyên ngành xử lý. Công ty đã đăng ký sổ chủ nguồn thải chất thải nguy hại mã số QLCTNH: 96.000016.T do Sở Tài nguyên Môi trường tỉnh Cà Mau cấp lần 4 ngày 23/12/2014.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "Cùng với các Công ty trong cụm công nghiệp Khí Điện - Đạm Cà Mau thuộc Tập đoàn Dầu khí Quốc gia Việt Nam, các doanh nghiệp tại đây đã đóng góp trên 40% nguồn thu ngân sách và tạo ra trên 30% việc làm cho lao động địa phương, Cụm công nghiệp Khí - Điện - Đạm Cà Mau là động lực kinh tế quan trọng giúp vùng sình lầy \"nước đen\" Cà Mau xưa kia được thay bằng chiếc \"áo mới\". Cũng trên cơ sở nền tảng của cụm Công nghiệp Khí - Điện Đạm Cà Mau, hạ tầng khu công nghiệp, hệ thống đường giao thông, điện, cấp thoát nước, sân bay đã được hình thành giúp Cà Mau khai thác tiềm năng du lịch sinh thái, nuôi trồng xuất khẩu thủy sản cũng như kết nối gần hơn với các tỉnh, thành phố trong cả nước.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÔNG TÁC BẢO VỆ MÔI TRƯỜNG, KIỂM SOÁT PHÁT THẢI, KHÍ THẢI VÀ CHẤT THẢI [ROWS] Loại nguồn thải | Chỉ tiêu giám sát [ROW] Khí thải các ống khói reforming sơ cấp, ống khói nồi hơi Phụ trợ, ống khói tạo hạt | Bụi, CO, NOx, SO2, NH3, tiếng ồn, độ rung [ROW] Nước thải sinh hoạt | pH, BOD5, TSS, TDS, Chất hoạt động bề mặt, Dầu mỡ động thực vật, Sunfua, Amoni, Tổng phốt pho, Tổng nitơ, Coliform, Lưu lượng [ROW] Nước thải nhiễm dầu, nhiễm amoniắc | pH, Màu, BOD5, COD, Chất rắn lơ lửng, Asen, Thủy ngân, Chì, Cadimi, Sắt, Đồng, Tổng dầu mỡ khoáng, Sunfua, Amoni, Tổng nitơ, Tổng photpho, Clo dư, Coliform, Lưu lượng nước thải [ROW] Nước thải đầu ra chung của 03 hệ thống xử lý nước thải nhiễm dầu, nhiễm amoniắc, nước thải sinh hoạt, nước thải trên kênh thoát nước chung | Nhiệt độ, Màu, pH, BOD5 (200C), COD, TSS, Tổng chất rắn hòa tan (TDS), Asen, Thủy ngân, Chì, Cadimi, Đồng, Sắt, Tổng dầu mỡ khoáng, Tổng các chất hoạt động bề mặt, Dầu mỡ động, thực vật, Sunfua, Amoni (tính theo Nitơ), Tổng nitơ, Tổng photpho, Clo dư, Coliform. [ROW] Đầu ra nước sông làm mát | pH, Nhiệt độ, Cl2, TSS",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 9,
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

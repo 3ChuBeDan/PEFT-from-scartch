@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 178,
+      "text": "Trúng thầu hợp đồng cung cấp ống HDPE đường kính đến 1200mm cho dự án nhà máy xử lý nước thải lớn nhất Đông Nam Á – Nhà máy xử lý nước thải Nam Bình Dương. Nhựa Bình Minh trở thành doanh nghiệp đầu tiên cung ứng ống nhựa có đường kính lớn nhất tại Việt Nam.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 443,
+      "text": " Đội ngũ nhân sự có năng lực, được hỗ trợ bởi một hệ thống chính sách tốt, được chăm lo đời sống vật chất và tinh thần nên thu nhập và tinh thần của người lao động ổn định, luôn gắn bó với Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1108,
+      "text": "[TABLE] [CONTEXT] section: 7. Tăng, giảm tài sản cố định vô hình ; row_headers: Số dư đầu năm | Số tăng trong năm | Số giảm trong năm | Số dư cuối năm | Khấu hao trong năm | Tại ngày đầu năm | Tại ngày cuối năm | - Chi phí xây dựng cơ bản dở dang | + Chi phí khảo sát Nhà máy ép phun tại Sóng Thần | + Xưởng PE | + Trạm biến áp 500 KVA | CỘNG [ROWS] Đơn vị tính: VND Quyền sử dụng đất [ROW] Nguyên giá [ROW] Số dư đầu năm | 35.996.185.657 [ROW] Số tăng trong năm | - [ROW] Số giảm trong năm | - [ROW] Số dư cuối năm | 35.996.185.657 [ROW] Giá trị hao mòn luỹ kế [ROW] Số dư đầu năm | 4.628.331.295 [ROW] Khấu hao trong năm | 762.250.680 [ROW] Số giảm trong năm | - [ROW] Số dư cuối năm | 5.390.581.975 [ROW] Giá trị còn lại [ROW] Tại ngày đầu năm | 31.367.854.362 [ROW] Tại ngày cuối năm | 30.605.603.682 [ROW] Chi phí xây dựng cơ bản dở dang [ROW] 31/12/2011 | 01/01/2011 [ROW] - Chi phí xây dựng cơ bản dở dang | 322.015.454 | 5.820.683.272 [ROW] Trong đó những công trình lớn: [ROW] + Chi phí khảo sát Nhà máy ép phun tại Sóng Thần | 322.015.454 | 322.015.454 [ROW] + Xưởng PE | - | 4.961.481.818 [ROW] + Trạm biến áp 500 KVA | - | 537.186.000 [ROW] CỘNG | 322.015.454 | 5.820.683.272",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

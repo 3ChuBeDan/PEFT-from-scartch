@@ -1,0 +1,54 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Tỷ lệ giao dịch nghi ngờ gian lận, giao dịch gian lận",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Không chỉ chia sẻ với khó khăn của người dân trong nước, SeABank còn thể hiện tinh thần nhân đạo quốc tế với nhân dân Nhật Bản và Phillipines khi ủng hộ 500 triệu đồng cho người dân Nhật Bản bị tổn thất nặng nề bởi trận động đất, sóng thần kinh hoàng tháng 3/2011 và ủng hộ người dân Phillipines 2.500USD sau những thiệt hại khủng khiếp họ phải gánh chịu sau siêu bão HaiYan. Sự hỗ trợ kịp thời, vượt biên giới của SeABank đã cho thấy tinh thần nhân đạo, nhân văn của Ngân hàng đã vượt mọi khoảng cách về địa lý, nêu cao tinh thần tương thân, tương ái, để bạn bè quốc tế cũng biết tới SeABank là một Ngân hàng luôn hành động vì cộng đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E8",
+        "G1"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E8",
+        "G1"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

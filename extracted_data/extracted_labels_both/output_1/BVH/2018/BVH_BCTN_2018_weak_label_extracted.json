@@ -1,0 +1,419 @@
+{
+  "extracted_count": 24,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Rõ ràng các hoạt động của con người đã gây tác động rộng rãi hơn lên cả hành tinh, làm suy thoái các hệ sinh thái tự nhiên, cạn kiệt các nguồn tài nguyên thiên nhiên, đa dạng sinh học, gây ô nhiễm không khí, nước, đất..., và đặc biệt đã làm cho khí hậu toàn cầu bị biến đổi. Bão tố, lũ lụt, hạn hán bất thường đang tăng dần lên, cả về tần số và mức độ, gây thiệt hại về nhiều mặt ở tất cả các vùng trên thế giới, trong đó có Việt Nam.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E_COMMON": 0.5,
+        "G9": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E_COMMON": 1,
+        "G9": 2
+      }
+    },
+    {
+      "text": "(*) Lương tối thiểu vùng của Bảo Việt lấy theo mức lương tối thiểu vùng cao nhất tại 03 khu vực trọng điểm",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "Các loại hình bảo hiểm Phi nhân thọ để bảo vệ sức khỏe và an toàn tài chính trước các rủi ro về sức khỏe cho cán bộ nhân viên và người thân bao gồm: Bảo hiểm sức khỏe (Healthcare), Bảo hiểm sức khỏe cho người thân, Bảo hiểm kết hợp con người và Bảo hiểm Bệnh ung thư (K-Care).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Những con người Bảo Việt với nhiệt huyết, đam mê, lòng yêu nghề và những tháng ngày cống hiến không mệt mỏi cho sự phát triển của Bảo Việt nói riêng và tinh thần Việt Nam nói chung, vẫn đang tiếp tục thể hiện tinh thần tiên phong trên những chặng đường mới. Cùng với niềm tin, sự quyết tâm, đồng lòng của tập thể lãnh đạo, cán bộ nhân viên, tư vấn viên sẽ tạo nên sức mạnh hợp lực toàn hệ thống, tạo đà phát triển nhanh hơn, bền vững hơn cho Bảo Việt trên những chặng đường sắp tới.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Khi có sự sẽ chia và sự trao đổi cởi mở, thẳng thắn sẽ tạo ra nhận thức chung và kiến tạo sự đồng thuận bền vững, tinh thần đoàn kết một lòng sẻ được củng cố và cùng đi theo một hướng, cùng xác định một mục tiêu và cùng nỗ lực vì \"MỘT BẢO VIỆT\".",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Khối Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro để thực hiện các hoạt động kiểm toán, theo đó Khối Kiểm toán nội bộ căn cứ vào kết quả đánh giá rủi ro để xác định mục tiêu, đối tượng kiểm toán, phạm vi kiểm toán và cách thức thực hiện kiểm toán",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Báo cáo tình hình thực hiện công tác bảo vệ môi trường của cơ sở trong thời gian qua bao gồm biện pháp khống chế môi trường không khí, ô nhiễm môi trường nước, xử lý chất thải rắn, chất thải rắn nguy hại; lực lượng và phương tiện PCCC tại chỗ.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Bảo Việt tiếp tục triển khai các giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Chương trình \"Bảo Việt - Vì những niềm tin của bạn\" nằm trong chuỗi chương trình được tổ chức từ năm 2013 đến nay với mong muốn góp phần tiếp thêm niềm tin, tinh thần lạc quan cho các bệnh nhân cần truyền máu. Việc tổ chức chương trình hiến máu là một hành động thiết thực góp phần giảm bớt được tình trạng thiếu máu phục vụ cho điều trị bệnh nhân hiện nay và thể hiện được tinh thần tình nguyện chia sẻ, giúp đỡ cộng đồng của các cán bộ Bảo Việt. Tính đến nay, Bảo Việt đã đóng góp hàng ngàn đơn vị máu, góp phần cùng cộng đồng cung cấp kịp thời nguồn máu, đem lại sự sống cho nhiều bệnh nhân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Đây là một hoạt động rất có ý nghĩa, là dịp để mọi người thể hiện tinh thần sẻ chia, chung sức vì cộng đồng, góp phần tôn vinh và phát huy những giá trị nhân văn cao đẹp của dân tộc. Bên cạnh đó, với tinh thần \"Mỗi giọt máu cho đi, một cuộc đời ở lại\", hoạt động hiến máu cứu người đã góp một phần rất quan trọng nhằm bổ sung lượng máu hằng năm cho các cơ sở y tế, giúp cứu sống hàng ngàn bệnh nhân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Vào trung tuần tháng 10/2018, Tập đoàn Bảo Việt đã tổ chức chương trình Làm cho thế giới sạch hơn - \"Phụ nữ Bảo Việt yêu thương trong hành động\" tại Tp Hồ Chí Minh và Hà Nội. Chương trình thu hút sự tham gia của 1.000 cán bộ, tư vấn viên và người thân tham gia làm sạch môi trường, thể hiện trách nhiệm với cộng đồng và vai trò của phụ nữ trong các hoạt động cộng đồng. Đây còn là một trong những hoạt động nhằm hiện thực hóa chiến lược phát triển bền vững cân bằng 3 mục tiêu kinh tế - xã hội - môi trường của Bảo Việt. Là một thương hiệu hơn nửa thế kỷ gắn bó với thị trường, các cán bộ Bảo Việt và người thân thường xuyên tham gia tích cực vào các hoạt động an sinh xã hội, với thông điệp mỗi người, mỗi doanh nghiệp vì một môi trường xanh, sạch, trong lành. Việc người thân cán bộ, đặc biệt là các em nhỏ, tham gia cùng làm sạch môi trường, có ý nghĩa rất lớn trong nâng cao nhận thức, góp phần hình thành thói quen và hành động của thế hệ tương lai.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Bên cạnh đó, Đề án bảo vệ môi trường của Bảo Việt (được Sở Tài nguyên và Môi trường phê duyệt năm 2014) tiếp tục được triển khai tại các Tòa nhà của Bảo Việt. Đề án này bao gồm các nội dung liên quan đến giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Khí thải từ các phương tiện giao thông của Tòa nhà (sử dụng xăng và dầu DO), CHẤT THẢI NGUY HẠI Khí thải từ các phương tiện giao th áhtiệủkháh àT CHẤT THẢI NGUY HẠI",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 4
+      }
+    },
+    {
+      "text": "các phương tiện của khách ra vào Tòa nhà và từ các phương tiện tham gia giao Ạ Chủ ếlà bóđèhỳh hákhả1 k/thái thông trên tuyến phố Lê Thái Tổ Chủ yếu là bóng đèn huỳnh Bụi và khí thải của các phương tiện giao thông làm gia tăng mức độ ô nhiễm khối lượng chất thải nguy hại khoảng 3 kg/tháng pg ệpg ệg ng trên tuyến phố Lê Thái Tổ Chủ yếu là bóng đèn huỳnh quang cháy khoảng 1 kg/tháng; mực in g yp thải khoảng 1 kg/tháng; giẻ lau dính dầu khoảng 1 kg/tháng. Tổng và khí thải của các phương tiện giao thông làm g ờkhôkhí khếkhôó biệh khối lượng chất thải nguy hại khoảng 3 kg/tháng.",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 4
+      }
+    },
+    {
+      "text": "Do lượng chất thải này phát sinh rất ít, nhưng để đảm bảo vệ sinh môi trường và thực hiện theo đúng quy định của nhà nước, các tòa nhà của Bảo Việt tiến hành lưu giữ, phân loại và thu gom theo đúng Thông tư 36/2015/TT-BNTMT ngày 30 tháng 6 năm 2015 về quản lý chất thải nguy hại. Theo đó, chất thải nguy hại được đựng trong thùng riêng biệt, có",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Tiếp đó, Bảo Việt ký hợp đồng với đơn vị có chức năng thu gom, vận chuyển chất thải nguy hại của Tòa nhà. Thời gian lưu trữ chất thải nguy hại tại tòa nhà không quá 1 năm theo đúng quy định Thông tư 36/2015/ TT-BNTMT ngày 30 tháng 6 năm 2015.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo thông qua việc áp dụng giả định thận trọng để tránh các biến động bất lợi trong thực tiễn. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảo Việt Nhân thọ đang sử dụng Bảng tỷ lệ tử vong CSO 1980.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: SỰ HIỆN DIỆN TRÊN THỊ TRƯỜNG ; column_headers: Khu vực trọng điểm | Khu vực Hà Nội | Khu vực Nghệ An | Khu vực TP HCM | Bình quân Bảo Việt | Lương tối thiểu vùng | 3.980.000 | 3.090.000 | 3.980.000 (*) | Lương thực trả của nhân viên tuyển dụng mới | Lương thấp nhất | Lương bình quân [ROWS] Khu vực trọng điểm | Khu vực Hà Nội | Khu vực Nghệ An | Khu vực TP HCM | Bình quân Bảo Việt [ROW] Lương tối thiểu vùng | 3.980.000 | 3.090.000 | 3.980.000 | 3.980.000 (*) [ROW] Lương thực trả của nhân viên tuyển dụng mới | Lương thấp nhất | Lương bình quân | Lương thấp nhất | Lương bình quân | Lương thấp nhất | Lương bình quân | Lương thấp nhất | Lương bình quân [ROW] Nam | 4.000.000 | 8.865.579 | 6.500.000 | 6.875.000 | 4.000.000 | 11.527.187 | 4.000.000 | 9.802.923 [ROW] Nữ | 5.000.000 | 8.190.772 | 5.500.000 | 6.100.000 | 5.000.000 | 9.260.895 | 5.000.000 | 8.549.354 [ROW] Lương thực trả bình quân của nhân viên tuyển dụng mới (cả nam, nữ) | 4.500.000 | 8.528.175 | 6.000.000 | 6.487.500 | 4.500.000 | 10.394.041 | 4.500.000 | 9.176.138 [ROW] Tỷ lệ (%) mức lương thực trả của nhân viên nam tuyển mới so với mức lương tối thiểu vùng | 101% | 223% | 210% | 222% | 101% | 290% | 101% | 246% [ROW] Tỷ lệ (%) mức lương thực trả của nhân viên nữ tuyển mới so với mức lương tối thiểu vùng | 126% | 206% | 178% | 197% | 126% | 233% | 126% | 215% [ROW] Tỷ lệ (%) mức lương thực trả của nhân viên bình quân (cả nam, nữ) so với mức lương tối thiểu vùng | 113% | 214% | 194% | 210% | 113% | 261% | 113% | 231%",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MỤC TIÊU ; column_headers: Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận ; row_headers: 7. Nhận diện rủi ro liên quan đến việc hoàn thành mục tiêu xuyên suốt toàn Tập đoàn và phân tích rủi ro làm cơ sở cho việc xác định cách thức quản lý rủi ro | 8. Xem xét nguy cơ gian lận khi đánh giá rủi ro liên quan đến việc hoàn thành các mục tiêu | 9. Nhận diện và đánh giá các thay đổi có thể ảnh hưởng đáng kể đến hệ thống kiểm soát nội bộ | 10. Lựa chọn và phát triển các hoạt động kiểm soát nhằm giảm thiểu rủi ro ở mức độ có thể chấp nhận được | 11. Lựa chọn và phát triển các hoạt động kiểm soát chung về công nghệ thông tin để hỗ trợ thực hiện các mục tiêu | 12. Triển khai các hoạt động kiểm soát thông qua các chính sách và thủ tục [ROWS] Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận [ROW] 7. Nhận diện rủi ro liên quan đến việc hoàn thành mục tiêu xuyên suốt toàn Tập đoàn và phân tích rủi ro làm cơ sở cho việc xác định cách thức quản lý rủi ro | Ban hành Quy chế quản lý rủi ro nhằm nhận diện, kiểm soát và báo cáo về các rủi ro chính, bao gồm: rủi ro bảo hiểm, rủi ro hoạt động, rủi ro thị trường, rủi ro tín dụng, rủi ro thanh khoản, rủi ro danh tiếng, rủi ro chiến lược, rủi ro phát triển bền vững; Quy chế quản lý rủi ro quy định rõ cơ cấu tổ chức, quyền hạn và trách nhiệm của các cấp trong công tác quản lý rủi ro; cách thức nhận diện các rủi ro trọng yếu và các chuẩn mực quản trị rủi ro trong hoạt động kinh doanh của Tập đoàn Bảo Việt và các Công ty con Ban hành Chính sách quản lý rủi ro, Tuyên bố khẩu vị rủi ro và hạn mức rủi ro chủ yếu của Tập | ü | ü [ROW] 8. Xem xét nguy cơ gian lận khi đánh giá rủi ro liên quan đến việc hoàn thành các mục tiêu | Rủi ro gian lận là một trong số các loại rủi ro được nhận diện, đánh giá trong Quy chế quản lý rủi ro, Chính sách quản lý rủi ro. | ü | ü [ROW] 9. Nhận diện và đánh giá các thay đổi có thể ảnh hưởng đáng kể đến hệ thống kiểm soát nội bộ | Các vấn đề liên quan đến rủi ro (ví dụ: các yếu tố tác động từ môi trường bên ngoài như chính sách, cơ chế, chính trị...) được phản ánh trong các Báo cáo Ban điều hành đồng thời được phân tích, đánh giá và xử lý tại các cuộc họp định kỳ của Hội đồng Quản lý rủi ro (RMC) và Ủy ban Tài sản Nợ - Tài sản có (ALCO). | ü | ü [ROW] Tên cấu phần: Hoạt động kiểm soát [ROW] 10. Lựa chọn và phát triển các hoạt động kiểm soát nhằm giảm thiểu rủi ro ở mức độ có thể chấp nhận được | Các biện pháp kiểm soát được thiết lập và vận hành đối với mọi hoạt động tại tất cả các cấp, được lồng ghép trong các tác nghiệp hàng ngày ở tất cả các quy trình nghiệp vụ. | ü | ü [ROW] 11. Lựa chọn và phát triển các hoạt động kiểm soát chung về công nghệ thông tin để hỗ trợ thực hiện các mục tiêu | Các loại hình kiểm soát chính bao gồm: Kiểm soát định hướng, Kiểm soát phòng ngừa, Kiểm soát phát hiện; Kiểm soát thủ công, Kiểm soát tự động. Trong đó kiểm soát tự động thông qua hệ thống CNTT đóng vai trò quan trọng nhằm hạn chế sai sót và tác động của con người tới hiệu quả của kiểm toán. | ü | ü [ROW] 12. Triển khai các hoạt động kiểm soát thông qua các chính sách và thủ tục | Các biện pháp kiểm soát chính bao gồm: rà soát kết quả hoạt động của Ban điều hành cấp cao, từng phòng ban; thẩm định, phê duyệt; phân tích các chỉ số KPIs... | ü | ü",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: VỀ ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG ; column_headers: Tiêu chí | Kết quả đánh giá | Giải thích kết quả [ROWS] Tiêu chí | Kết quả đánh giá | Giải thích kết quả [ROW] Thông báo và tài liệu họp ĐHĐCĐ | + | - Công bố thông báo họp và các tài liệu liên quan song ngữ Anh – Việt trên website của Bảo Việt; - Cung cấp đầy đủ cơ sở, thông tin và giải trình cho các vấn đề trình ĐHĐCĐ thông qua tại Đại hội; [ROW] Công bố thông tin về ứng viên HĐQT, chính sách chi trả cổ tức | + | Công bố đầy đủ trong tài liệu ĐHĐCĐ và Báo cáo thường niên [ROW] Chất lượng và thời gian công bố tài liệu ĐHĐCĐ bằng tiếng Anh | + | Thông báo và tài liệu ĐHĐCĐ gần nhất đã được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu tiếng Việt. [ROW] Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao | _ | Công ty chưa có quy định yêu cầu phải có một tiểu ban bao gồm các thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông. [ROW] _ | Công ty chưa có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích, chỉ quy định không được biểu quyết. [ROW] + | Công ty quy định tại Điều lệ và Quy chế quản trị yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 40. QUẢN LÝ RỦI RO BẢO HIỂM VÀ RỦI RO TÀI CHÍNH (tiếp theo) ; column_headers: THAY ĐỔI BIẾN % | THAY ĐỔI TRÁCH NHIỆM BẢO VỆ (TRIỆU VND) | ẢNH HƯỞNG ĐẾN NGUỒN VỐN CHỦ SỞ HỮU (TRIỆU VND) ; row_headers: Tỷ lệ chiết khấu | Tỷ lệ tử vong [ROWS] THAY ĐỔI BIẾN % | THAY ĐỔI TRÁCH NHIỆM BẢO VỆ (TRIỆU VND) | ẢNH HƯỞNG ĐẾN NGUỒN VỐN CHỦ SỞ HỮU (TRIỆU VND) [ROW] Ngày 31 tháng 12 năm 2018 [ROW] Tỷ lệ chiết khấu | +0,25 | (975.029) | 780.023 [ROW] Tỷ lệ chiết khấu | -0,25 | 1.136.932 | (909.546) [ROW] Tỷ lệ tử vong | +10 | 82.209 | (65.767) [ROW] Tỷ lệ tử vong | -10 | (59.557) | 47.646 [ROW] Tỷ lệ tử vong | +20 | 187.630 | (150.104) [ROW] Tỷ lệ tử vong | -20 | (96.688) | 77.350 [ROW] Ngày 31 tháng 12 năm 2017 [ROW] Tỷ lệ chiết khấu | +0,25 | (260.318) | 208.255 [ROW] Tỷ lệ chiết khấu | -0,25 | 387.142 | (309.713) [ROW] Tỷ lệ tử vong | +10 | 12.063 | (9.650) [ROW] Tỷ lệ tử vong | -10 | (2.562) | 2.050 [ROW] Tỷ lệ tử vong | +20 | 29.510 | (23.608) [ROW] Tỷ lệ tử vong | -20 | 10.032 | (8.026)",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 527,
+      "text": "⚪ Năm 2022, dự kiến tìm kiếm các cơ hội M&A các dự án năng lượng tái tạo, đồng thời, tiếp tục tìm kiếm cơ hội đầu tư vào các dự án năng lượng sạch khác như thủy điện, điện sinh khối,.... phù hợp với định hướng chiến lược sản xuất kinh doanh của Tập đoàn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 590,
+      "text": "Tập đoàn GELEX chấp hành các quy định pháp luật về bảo vệ môi trường; ký kết các cam kết và đảm bảo về trách nhiệm môi trường khi thiết lập, thực hiện các giao dịch với đối tác trong ngoài nước; triển khai các giải pháp về đổi mới sáng tạo, về cải tiến công nghệ, đầu tư thiết bị công nghệ mới để sử dụng vật tư nguyên liệu và sản xuất sản phẩm thân thiện với môi trường; đào tạo nguồn nhân lực để đảm bảo luôn tận dụng và tối ưu hiệu quả việc sử dụng nguyên liệu đầu vào của chu trình sản xuất. Những năm qua, Tập đoàn GELEX cũng như các công ty thành viên không ngừng nghiên cứu và phát triển các sản phẩm thiết bị điện mới có tính năng tiết kiệm điện, góp phần bảo vệ tài nguyên, môi trường. Ngoài ra, việc tích cực mở rộng hoạt động kinh doanh vào lĩnh vực năng lượng tái tạo của Tập đoàn GELEX giúp góp phần giảm thải khí nhà kính từ các nhà máy nhiệt điện truyền thống, góp phần hiện thực hóa chiến lược phát triển năng lượng tái tạo của Việt Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.901975,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 759,
+      "text": "⚪ Đối với lĩnh vực phát điện: đẩy mạnh đầu tư phát triển năng lượng sạch, năng lượng tái tạo gồm điện gió, điện mặt trời, thủy điện. Tập đoàn hiện đang sở hữu và vận hành các dự án năng lượng tái tạo với tổng công suất hơn 260 MW. Trong thời",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    }
+  ]
+}

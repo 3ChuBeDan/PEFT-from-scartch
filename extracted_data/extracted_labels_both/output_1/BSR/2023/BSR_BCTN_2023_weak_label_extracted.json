@@ -1,0 +1,575 @@
+{
+  "extracted_count": 28,
+  "extracted": [
+    {
+      "paragraph_id": 333,
+      "text": "Thực hiện 04 đợt quan trắc môi trường theo đánh giá tác động môi trường, 04 đợt quan trắc chất lượng nguồn nước biển khai thác sử dụng và 06 đợt quan trắc chất lượng nước thải sau xử lý và nguồn nước tiếp nhận.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 339,
+      "text": "Triển khai có hiệu quả Kế hoạch Văn hóa an toàn thông qua các chương trình quan sát hành vi an toàn (SAO) với 53.049 thẻ, thẻ đánh giá thực thi an toàn (SAC) với 4.095 thẻ và triển khai Thực hành văn hóa an toàn các quý I, II/2023 với chủ đề: \"Nhận diện sớm, phòng ngừa xa\" và quý III, IV theo chủ để \"Tuân thủ quy trình nghiệp vụ, thực thi kỷ luật\".",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 497,
+      "text": "Tập đoàn Dầu khí Việt Nam (PVN) ban hành quyết định số 2128/QĐ-DKVN ngày 19/04/2019 về \"Kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu Tập đoàn Dầu khí Việt Nam giai đoạn 2018 – 2030\", trong dó Tập đoàn cam kết cắt giảm khí nhà kính phạm vi 1 và 2 tới năm 2025 là 2,86%, tới năm 2030 là 2,44%.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 498,
+      "text": "Song hành với các định hướng phát triển bền vững, BSR đã xây dựng lộ trình cụ thể để cắt giảm phát thải theo từng giai đoạn, theo đó giai đoạn 2023 – 2024, BSR tiến hành kiểm kê khí nhà kính và xây dựng, thẩm định kế hoạch giảm nhẹ khí nhà kính đến năm 2030 cho NMLD Dung Quất, thực hiện các biện pháp giảm nhẹ phát thải khí nhà kính phù hợp với điều kiện sản xuất kinh doanh của BSR, đề xuất phương án trồng rừng và đăng ký chương trình theo cơ chế trao đổi, bù trừ tín chỉ carbon. BSR tiếp tục triển khai các giải pháp cải tiến công nghệ, phát triển năng lượng tái tạo để giảm nhẹ phát thải khí nhà kính đến giai đoạn I (đến năm 2030) và giai đoạn II (đến năm 2050). Hiện tại, các giải pháp đang được BSR nghiên cứu, xem xét nhằm giảm phát thải CO 2 bao gồm: tối ưu vận hành (giảm từ 2-5%); nâng cấp/ cải tiến thiết bị, công nghệ (giảm từ 15-20%); thu hồi CO 2 (giảm từ 30%) và trồng rừng, sử dụng năng lượng tái tạo (giảm 50%). Các nhóm giải pháp giảm thải CO 2 sẽ giảm khoảng 50% lượng phát thải CO 2 tại các phân xưởng, nhà máy và 50% còn lại sẽ bổ sung bằng năng lượng tái tạo, trồng rừng và GH2. Lộ trình giảm thải CO 2 của BSR đang được tiến hành nghiên cứu, xem xét và tiếp tục làm việc với các nhà tư vấn quốc tế, nhà bản quyền công nghệ để đánh giá tính khả thi của các giải pháp và hoàn thiện lộ trình.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 10,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 537,
+      "text": "Sử dụng tài nguyên tiết kiệm, hiệu quả, gắn liền với bảo vệ môi trường sinh thái. Chủ động thực hiện các giải pháp giảm thiểu và thích ứng với biến đổi khí hậu. Phát triển năng lượng mới, năng lượng tái tạo.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 925,
+      "text": "Tại ngày 31 tháng 12 năm 2023, nợ ngắn hạn của BSR-BF vượt quá tài sản ngắn hạn là khoảng 1.532,3 tỷ VND, lỗ lũy kế của BSR-BF là khoảng 1.588 tỷ VND và nợ quá hạn thanh toán là khoảng 1.566,7 tỷ VND. BSR-BF đang thiếu hụt vốn lưu động để thanh toán các khoản nợ đến hạn. Các khoản nợ quá hạn thanh toán tại ngày 31 tháng 12 năm 2023 chủ yếu bao gồm (1) số dư nợ phải trả chi phí lãi vay khoảng 439,6 tỷ VND, (2) số dư gốc vay khoảng 1.127,1 tỷ VND. Ngày 22 tháng 02 năm 2024, BSR-BF đã nộp đơn đến Tòa án Nhân dân tỉnh Quảng Ngãi yêu cầu mở thủ tục phá sản. Tại ngày lập báo cáo tài chính hợp nhất này, BSR-BF đang chờ quyết định thụ lý của Tòa án về việc mở thủ tục phá sản.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 1281,
+      "text": "Nước thải công nghiệp: Chủ yếu là nước thải nhiễm dầu với thông số ô nhiễm đặc trưng là tổng dầu và COD. Toàn bộ nước thải phát sinh được thu gom và xử lý tại hệ thống xử lý nước thải của Nhà máy với lưu lượng trung bình năm 2023 khoảng 255m3/h.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1282,
+      "text": "Khí thải phát thải từ các lò đốt, lò gia nhiệt và lò đốt coke tái sinh xúc tác với chất ô nhiễm đặc trưng là SOx, NOx và bụi được xử lý, lọc bụi tĩnh điện và quan trắc tự động trước khi phát thải qua các ống khói. Lượng khí thải nhà kính phát thải năm 2023 khoảng 1.685.611 tấn CO2 tương đương (CO2e).",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1
+      }
+    },
+    {
+      "paragraph_id": 1283,
+      "text": "Chất thải rắn phát sinh trong quá trình hoạt động của Nhà máy chủ yếu là chất thải rắn công nghiệp thông thường như: xúc tác thải RFCC, chất thải sinh hoạt của người lao động... và chất thải nguy hại như: các loại dầu thải, giẻ lau nhiễm thành phần nguy hại... Toàn bộ lượng chất thải rắn và nguy hại phát sinh sẽ được thu gom phân loại và lưu chứa tại các kho lưu chứa chất thải tạm thời của Nhà máy có tổng diện tích trên 1.000m 2 trước khi chuyển giao cho nhà thầu có chức năng xử lý đúng quy định pháp luật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    },
+    {
+      "paragraph_id": 1292,
+      "text": "Phân xưởng xử lý nước thải của Nhà máy hoạt động ổn định và hiệu quả từ năm 2010 đến nay. Tất cả thông số nước thải Nhà máy sau xử lý luôn thấp hơn giới hạn cho phép của QCVN 40:2011/BTNMT. Tại bể chứa nước thải sau xử lý, Công ty trồng một số loài cây thủy sinh như sen, súng, thả cá để làm chỉ thị sinh học. Hiện tại các loài này đều đang phát triển rất tốt, điều đó thể hiện chất lượng nước thải đầu ra của Nhà máy Lọc dầu Dung Quất rất sạch, có thể đảm bảo cho sự sinh sống và phát triển của các sinh vật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1294,
+      "text": "Nhà máy lọc dầu Dung Quất hiện hữu và mở rộng tương lai có diện tích sử dụng khoảng 956ha, bao gồm 485ha mặt đất và 471ha mặt biển. Các hoạt động sản xuất và xả thải của Nhà máy có các nguy cơ về tràn dầu trong quá trình xuất-nhập, lưu chứa các sản phẩm và dầu thô, xả nước thải và khí thải có thể tác động đến hệ sinh thái biển trong vịnh Việt Thanh và vịnh Dung Quất, ô nhiễm môi trường không khí xung quanh. Tuy nhiên, các nguy cơ này đã được BSR kiểm soát chặt chẽ thông qua: quy trình quản lý, quy trình vận hành; vận hành các hệ thống xử lý nước thải, xử lý khí thải; quan trắc môi trường tự động liên tục và quan trắc định kỳ bởi đơn vị có chức năng; định kỳ tổ chức diễn tập ứng phó sự cố môi trường.",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 5,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 1296,
+      "text": "Theo kết quả phân tích, đánh giá về đa dạng sinh học của Trung tâm Nghiên cứu môi trường Dầu khí (CPSE) năm 2017 cho báo cáo đánh giá tác động môi trường của Dự án NCMR Nhà máy và dữ liệu quan trắc qua các năm trước đó, các quần xã sinh vật biển xung quanh Nhà máy lọc dầu Dung Quất có chỉ số đa dạng sinh học (Hs) và chỉ số cân bằng (J) ở mức cao (Trích Báo cáo đánh giá tác động môi trường năm 2019).",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 6
+      }
+    },
+    {
+      "paragraph_id": 1298,
+      "text": "Nhà máy có các nguồn phát sinh khí thải chủ yếu từ các ống khói của các lò gia nhiệt (các phân xưởng U11, U12, U13, U24), các nồi hơi (phân xưởng U40, U52), lò đốt coke và tái sinh xúc tác (phân xưởng U15) và phân xưởng thu hồi lưu huỳnh (SRU). Các hạng mục xử lý khí thải đảm bảo khí thải phát sinh đáp ứng quy chuẩn chuẩn môi trường cho phép gồm:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3
+      }
+    },
+    {
+      "paragraph_id": 1300,
+      "text": "Thiết kế và lắp đặt chiều cao ống khói được đúng theo các báo cáo đánh giá tác động môi trường cho Nhà máy lọc dầu Dung Quất.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1301,
+      "text": "Để giám sát và kiểm soát việc phát thải ra môi trường, Công ty đã triển khai lắp đặt hệ thống quan trắc tự động, liên tục cho các ống khói tại các phân xưởng U11, U40, U25 và kết nối, truyền dữ liệu về Sở TNMT tỉnh Quảng Ngãi. Ngoài ra, định kỳ hàng quý Công ty thuê đơn vị có chức năng (EMC) để tiến hành quan trắc chất lượng các nguồn thải. Kết quả, các thông số chất lượng khí thải của Nhà máy đều đáp ứng QCVN 34:2010/BTNMT Quy chuẩn kỹ thuật Quốc gia về khí thải công nghiệp lọc hoá dầu đối với bụi và các chất vô cơ.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1326,
+      "text": "Đây là chủ đề nóng của toàn cầu trong nhiều năm gần đây với những tác động ngày càng khốc liệt và rõ rệt đối với các quốc gia và con người. Giảm khí nhà kính, thích ứng với biến đổi khí hậu sẽ là câu chuyện trong dài hạn và là xu hướng bắt buộc đối với mọi cá nhân và tổ chức. Ở Tập đoàn dầu khí Việt Nam và BSR, vấn đề này đã được nhận thức và có các kế hoạch cụ thể và xuyên suốt tới mọi thành viên, trong đó PVN đã ban hành Quyết định số 2128/QĐ-DKVN ngày 19/04/2019 về \"Kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu Tập đoàn Dầu khí Việt Nam giai đoạn 2018-2030\", Quyết định nêu lên cam kết cắt giảm khí nhà kính của PVN, trong đó mục tiêu tới năm 2025 và 2030, Tập đoàn sẽ cắt giảm khí nhà kính phạm vi 1 và 2 theo thứ tự là 2,86% và 2,44% so với năm 2010.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5
+      }
+    },
+    {
+      "paragraph_id": 1334,
+      "text": "Với BSR, công ty đã có lộ trình cụ thể để NMLD Dung Quất giảm phát thải theo từng giai đoạn. Cụ thể, giai đoạn năm 2023 – 2025, BSR sẽ kiểm kê khí nhà kính và xây dựng, thẩm định kế hoạch giảm nhẹ khí nhà kính đến năm 2030 cho NMLD Dung Quất, thực hiện các biện pháp giảm nhẹ phát thải KNK phù hợp với điều kiện sản xuất kinh doanh của BSR, đề xuất phương án trồng rừng và đăng ký chương trình theo cơ chế trao đổi, bù trừ tín chỉ carbon.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3
+      }
+    },
+    {
+      "paragraph_id": 1335,
+      "text": "Giai đoạn 2023 – 2030, BSR triển khai các giải pháp cải tiến công nghệ, trồng rừng, phát triển năng lượng tái tạo giai đoạn I để giảm nhẹ phát thải khí nhà kính đến 2030. Thực hiện giao dịch tín chỉ carbon từ 2028, xác định hạn ngạch phát thải và kế hoạch thực hiện của BSR đến 2050. Giai đoạn từ 2030 – 2050, triển khai các giải pháp cải tiến công nghệ, trồng rừng, phát triển năng lượng tái tạo giai đoạn II để giảm nhẹ phát thải khí nhà kính đến 2050 và thực hiện giao tín chỉ carbon.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1336,
+      "text": "Hiện các giải pháp đang được BSR nghiên cứu, xem xét nhằm giảm phát thải CO2 bao gồm, tối ưu vận hành (giảm từ 2-5%); nâng cấp/ cải tiến thiết bị, công nghệ (giảm từ 15-20%); thu hồi CO2 (giảm từ 30%) và trồng rừng, sử dụng năng lượng tái tạo (giảm 50%). Các nhóm giải pháp giảm thải CO2 sẽ giảm khoảng 50% lượng phát thải CO2 tại các phân xưởng, nhà máy và 50% còn lại sẽ bổ sung bằng năng lượng tái tạo, trồng rừng và GH2. Lộ trình giảm thải CO2 của BSR đang được tiến hành nghiên cứu, xem xét và tiếp tục làm việc với các nhà tư vấn quốc tế, nhà bản quyền công nghệ để đánh giá tính khả thi của các giải pháp và hoàn thiện lộ trình.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1338,
+      "text": "Từ số liệu về phát thải khí nhà kính, có thể thấy lượng khí nhà kính phát thải tại NMLD Dung Quất mỗi năm tăng do sản lượng chế biến tăng. Tuy nhiên, phát thải trên đơn vị sản phẩm có xu hướng giảm dần qua các năm, đặc biệt tại năm 2023 lượng CO2e/sản phẩm giảm đáng kể do các nguyên nhân sau:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1368,
+      "text": "Kết thúc năm 2023, NMLD Dung Quất lập thành tích hoạt động an toàn, ổn định, liên tục ở công suất cao, lũy kế đạt hơn 42,2 triệu giờ công an toàn. Công tác an toàn tại BSR thành công ở các tiêu chí: Không tai nạn lao động mất ngày công; không sự cố rò rỉ cấp 1, 2 và cháy nổ; không sự cố môi trường; không sự cố an ninh. Trong năm 2023, BSR cũng đã cập nhật 85 tài liệu an toàn cấp 2/3/4; công tác đào tạo an toàn cũng đạt hơn 15 giờ đào tạo/người/năm; có 260 báo cáo an toàn hàng ngày và 11 báo cáo an toàn tháng phân tích xu hướng an toàn được ban hành; BSR cũng đã thực hiện 169 tình huống diễn tập các cấp độ. Bên cạnh đó, BSR cũng triển khai có hiệu quả Kế hoạch Văn hóa an toàn thông qua các chương trình quan sát hành vi an toàn (SAO) với 53.049 thẻ, thẻ đánh giá thực thi an toàn (SAC) với 4.095 thẻ và triển khai Thực hành văn hóa an toàn các quý I, II/2023 với chủ đề: \"Nhận diện sớm, phòng ngừa xa\" và quý III, IV theo chủ để \"Tuân thủ quy trình nghiệp vụ, thực thi kỷ luật\".",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "E_COMMON": 0.5,
+        "S4": 1.0
+      },
+      "themes": [
+        "E_COMMON",
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 1,
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 1457,
+      "text": "Các đoàn thể, hội nhóm được phép thành lập tại BSR trên cơ sở tuân thủ luật pháp Việt Nam, được công ty quan tâm và ủng hộ hoạt động cả về vật chất và tinh thần. Phong trào hoạt động được duy trì và phát triển hàng năm nhằm tạo môi trường vui vẻ, thân thiện, khuyến khích người lao động làm việc hiệu quả.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1524,
+      "text": "Là một doanh nghiệp có cổ phần có yếu tố Nhà nước, BSR tuân theo các quy định chặt chẽ về kiểm soát xung đột lợi ích trong Công ty đặc biệt trong các hoạt động như bổ nhiệm, đấu thầu, đầu tư, ký hợp đồng... Ban Kiểm soát, các đoàn giám sát của cơ quan chuyên ngành, các đơn vị kiểm toán, tập đoàn PVN... là những bên tham gia để đảm bảo việc này được thực hiện một cách minh bạch và đúng quy định. Các vấn đề có rủi ro liên quan đến xung đột lợi ích, hoặc các mối quan ngại có liên quan đến hoạt động của BSR đều được báo cáo trung thực và đầy đủ tới các tổ chức có thẩm quyền, và tùy trường hợp sẽ bao gồm cả cổ đông của Công ty thông qua việc công bố thông tin.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1634,
+      "text": "[TABLE] [CONTEXT] section: Chủ đề trọng yếu ; column_headers: Tên chủ đề | Đối chiếu Bộ tiêu chuẩn theo chủ đề GRI | Giới hạn chủ đề báo cáo của BSR [ROWS] Tên chủ đề | Đối chiếu Bộ tiêu chuẩn theo chủ đề GRI | Giới hạn chủ đề báo cáo của BSR [ROW] 11.1 – Phát thải Khí nhà kính | GRI 302 – Năng lượng Công bố thông tin 302-1: Tiêu thụ năng lượng trong tổ chức Công bố thông tin 302-2: Tiêu thụ năng lượng bên ngoài tổ chức Công bố 302-3: Cường độ năng lượng GRI 305 – Phát thải Công bố thông tin 305-1: Trực tiếp (Phạm vi 1) Phát thải khí nhà kính Công bố thông tin 305-2: Năng lượng gián tiếp (Phạm vi 2) Phát thải khí nhà kính Công bố thông tin 305-3: Phát thải khí nhà kính gián tiếp khác (Phạm vi 3) Công bố thông tin 305-4: Cường độ phát thải khí nhà kính [ROW] 11.2 - Thích ứng với khí hậu, khả năng phục hồi và chuyển đổi | GRI 201 – Hiệu quả hoạt động kinh tế Công bố thông tin 201-2: Những tác động tài chính cũng như các rủi ro và cơ hội khác do biến đổi khí hậu GRI 305 – Phát thải Công bố thông tin 305-5: Giảm phát thải khí nhà kính [ROW] 11.3 - Khí Thải | GRI 305 – Phát thải Công bố thông tin 305-7: Ôxit nitơ (NOx), ôxit lưu huỳnh (SOx) và các khí thải ôxit quan trọng khác. GRI 416 – An toàn và sức khỏe Khách hàng Công bố thông tin 416-1: Đánh giá tác động đến sức khỏe và an toàn của sản phẩm và danh mục dịch vụ [ROW] 11.4 – Đa dạng sinh học | GRI 304 – Đa dạng sinh học Công bố thông tin 304-1: Các địa điểm hoạt động được sở hữu, cho thuê, quản lý trong hoặc liền kề, khu bảo tồn và khu vực có giá trị đa dạng sinh học cao bên ngoài khu bảo tồn Công bố thông tin 304-2: Tác động đáng kể của các hoạt động, sản phẩm và dịch vụ đến sự đa dạng sinh học Công bố thông tin 304-3: Môi trường sống được bảo vệ hoặc khôi phục Công bố thông tin 304-4: Các loài trong Sách đỏ IUCN và các loài trong danh sách bảo tồn quốc gia với môi trường sống tại các khu vực bị ảnh hưởng bởi hoạt động | Bao gồm các khu vực Nhà máy, văn phòng do BSR quản lý trực tiếp (liệt kê) Bao gồm các hoạt động thuê ngoài của BSR... [ROW] 11.5 – Chất thải | GRI 306 – Chất thải Công bố thông tin 306-1: Phát sinh chất thải và tác động đáng kể liên quan đến chất thải Công bố thông tin 306-2: Quản lý các tác động đáng kể liên quan đến chất thải Công bố thông tin 306-3: Chất thải phát sinh Công bố thông tin 306-4: Chất thải được chuyển hướng khỏi quá trình xử lý Công bố thông tin 306-5: Chất thải được chuyển đến nơi xử lý [ROW] 11.6 – Nước và nước thải | GRI 303: Nước và nước thải 2018 Công bố thông tin 303-1: Tương tác với nước như một nguồn tài nguyên chung Công bố thông tin 303-2: Quản lý các tác động liên quan đến xả nước Công bố thông tin 303-3: Sử dụng nước Công bố thông tin 303-4: Nước thải Công b thông tin 303-5: Lượng nước tiêu thụ [ROW] 11.7 - Đóng cửa và phục hồi | GRI 402 – Quản lý mối quan hệ với người lao động Công bố thông tin 402-1: Thời gian thông báo tối thiểu liên quan đến những thay đổi trong hoạt động GRI 404 – Giáo dục và đào tạo Công bố thông tin 404-2: Các chương trình nâng cao kỹ năng và chuyển tiếp của nhân viên",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 8,
+        "E2": 12,
+        "E_COMMON": 4
+      }
+    },
+    {
+      "paragraph_id": 1635,
+      "text": "[TABLE] [CONTEXT] section: Chủ đề trọng yếu ; column_headers: Tên chủ đề | Đối chiếu Bộ tiêu chuẩn theo chủ đề GRI | Giới hạn chủ đề báo cáo của BSR [ROWS] Tên chủ đề | Đối chiếu Bộ tiêu chuẩn theo chủ đề GRI | Giới hạn chủ đề báo cáo của BSR [ROW] 11.8 - Tính toàn vẹn của tài sản và quản lý sự cố quan trọng | GRI 306 – Nước thải và Chất thải Công bố thông tin 306-3: Sự cố tràn đáng kể [ROW] 11.9 – Sức khỏe và An toàn lao động | GRI 403 – An toàn và sức khỏe lao động Công bố thông tin 403-1 đến 403-10 [ROW] 11.10 – Cách thức làm việc | GRI 401 – Việc làm Công bố thông tin 401 đến 403 GRI 402 – Quản lý mối quan hệ với người lao động Công bố thông tin 402-1 GRI 404 – Giáo dục và đào tạo Công bố thông tin 404-1 và 404 – 2 GRI 414: Đánh giá xã hội của nhà cung cấp Công bố thông tin 414-1 và 414-2 [ROW] 11.11 – Không phân biệt đối xử và cơ hội bình đẳng | GRI 202: Sự hiện diện trên thị trường Công bố thông tin 202-2: Tỷ lệ quản lý cấp cao được thuê từ cộng đồng địa phương GRI 401 – Việc làm Công bố thông tin 401-3: Nghỉ thai sản GRI 404 – Giáo dục và đào tạo Công bố thông tin 404-1: Số giờ đào tạo trung bình mỗi năm cho mỗi nhân viên GRI 405: Đa dạng và Cơ hội Bình đẳng Công bố thông tin 405-1: Sự đa dạng của cấp quản lý và nhân viên Công bố thông tin 405-2: Tỷ lệ lương cơ bản và thù lao [ROW] 11.12 – Lao động cưỡng bức và chế độ nô lệ hiện đại | GRI 409 – Lao động cưỡng bức, lao động bắt buộc Công bố thông tin 409-1: Các hoạt động và nhà cung cấp có nguy cơ đáng kể xảy ra sự cố lao động cưỡng bức hoặc bắt buộc GRI 414: Đánh giá xã hội của nhà cung cấp Công bố thông tin 414-1: Các nhà cung cấp mới được sàng lọc bằng tiêu chí xã hội | Bao gồm các khu vực Nhà máy, văn phòng do BSR quản lý trực tiếp (liệt kê) Bao gồm các hoạt [ROW] 11.13 – Tự do Hiệp hội và Thương lượng Tập thể | GRI 407: Tự do Hiệp hội và Thương lượng tập thể Công bố thông tin 407-1: Các hoạt động và nhà cung cấp trong đó quyền tự do hiệp hội và thương lượng tập thể có thể gặp rủi ro | động thuê ngoài của BSR... [ROW] 11.14 – Tác động kinh tế | GRI 201 – Hiệu quả hoạt động kinh tế Công bố thông tin 201-1: Giá trị kinh tế trực tiếp được tạo ra và phân bổ GRI 202: Sự hiện diện trên thị trường Công bố thông tin 202-2: Tỷ lệ quản lý cấp cao được thuê từ cộng đồng địa phương GRI 203: Tác động kinh tế gián tiếp Công bố thông tin 203-1: Hỗ trợ đầu tư cơ sở hạ tầng và dịch vụ Công bố thông tin 203-2: Tác động kinh tế gián tiếp đáng kể GRI 204: Thông lệ mua sắm Công bố thông tin 204-1: Tỷ lệ chi tiêu cho các nhà cung cấp địa phương [ROW] 11.15 – Cộng đồng địa phương | GRI 413: Cộng đồng địa phương Công bố thông tin 413-1: Hoạt động với sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển Công bố thông tin 413-2: Các hoạt động có tác động tiêu cực thực tế và tiềm ẩn đáng kể về cộng đồng địa phương [ROW] 11.17 - Quyền của người bản địa | GRI 411: Quyền của người bản địa Công bố thông tin 411-1: Các vụ vi phạm liên quan đến quyền của người bản địa",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "S4": 6,
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 1636,
+      "text": "[TABLE] [CONTEXT] section: Chủ đề trọng yếu [ROWS] 1 | GRI 201: Hiệu quả Hoạt động kinh tế | 3 | GRI 403: An toàn và sức khỏe lao động [ROW] 2 | GRI 202: Sự hiện diện trên thị trường | 4 | GRI 404: Giáo dục và đào tạo [ROW] 3 GRI 203: Tác động kinh tế gián tiếp | 5 | GRI 405: Sự đa dạng và cơ hội bình đẳng [ROW] 4 GRI 205: Chống tham nhũng | 6 | GRI 406: Không phân biệt đối xử [ROW] 5 | GRI 207: Thuế | 7 | GRI 407: Tự do lập hội, công đoàn và thương lượng tập thể [ROW] 1 | GRI 301: Vật liệu | 8 | GRI 408: Lao động trẻ em [ROW] 2 | GRI 302: Năng lượng | 9 | GRI 409: Lao động cưỡng bức và bắt buộc [ROW] 3 | GRI 303: Nước và nước thải | 10 | GRI 410: Thông lệ về An Ninh [ROW] 4 | GRI 304: Đa dạng sinh học | 11 | GRI 411: Quyền của người bản địa [ROW] 5 | GRI 305: Phát thải | 12 | GRI 413: Cộng đồng địa phương [ROW] 6 | GRI 306: Chất thải | 13 | GRI 414: Đánh giá nhà cung cấp về mặt xã hội [ROW] 7 | GRI 308: Đánh giá nhà cung cấp về mặt môi trường | 14 | GRI 416: An toàn và sức khỏe khách hàng [ROW] 1 | GRI 401: Việc làm | 15 | GRI 417: Tiếp thị và Nhãn dán [ROW] 2 | GRI 402: Quản lý mối quan hệ với người lao động | 16 | GRI 418: Quyề0n bảo mật thông tin khách hàng",
+      "hard_labels": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "E_COMMON": 1,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 1646,
+      "text": "[TABLE] [CONTEXT] section: Chương trình đào tạo về công nghệ Lọc hóa dầu: ; column_headers: Thu nhập | Thu nhập trung bình | Thu nhập thấp nhất | Mức lương tối thiểu vùng III (Bình Sơn - Quảng Ngãi) [ROWS] Thu nhập | Thu nhập trung bình | Thu nhập thấp nhất | Mức lương tối thiểu vùng III (Bình Sơn - Quảng Ngãi) [ROW] Nam | 59,52 | 26,20 | 3,64 [ROW] Nữ | 50,56",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 1647,
+      "text": "[TABLE] [CONTEXT] section: Lao động ; column_headers: STT | Thông tin | Số liệu [ROWS] STT | Thông tin | Số liệu [ROW] 1 | Số vụ phân biệt đối xử xảy ra trong tổ chức | 0 [ROW] 2 | Số vụ lao động cưỡng bức, lao động trẻ em phát hiện trong chuỗi cung ứng | 0 [ROW] 3 | Tỷ lệ lao động Nam/ nữ | 85,8/14,2 [ROW] 4 | Tỷ lệ phụ nữ nắm vai trò quản lý | 18%",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "S4": 2,
+        "S6": 2
+      }
+    }
+  ]
+}

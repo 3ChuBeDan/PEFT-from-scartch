@@ -1,0 +1,158 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "paragraph_id": 445,
+      "text": "Total direct and indirect greenhouse gas (GHG) emissions: KBC's business lines is not subject to greenhouse gas inventory according to Decree 06/2022/ND-CP and Decision 13/2024/QD-TTg of the Government .",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 449,
+      "text": "Environmental , electricity and water resources protections are always paid attention to by the Corporation. From complying with the regulations on administrative procedures according to the Law on Environmental Protection 2020 (effective from 01/01/2022) to implementing Environmental Protection works (such as wastewater treatment works) to ensure that all wastewater of the IPs meets aseptic standards before discharging it to the receiving source, constructing additional investment in backup wastewater treatment systems in case of emergency. In 2024, KBC complied with legal regulations on environmental protection.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1048,
+      "text": "KBC là đơn vị phát triển hạ tầng các khu công nghiệp thông qua hình thức thuê nhà thầu, chúng tôi không quản lý chi tiết khối lượng vật liệu xây dựng, v.v; Không có hoạt động tái chế nguyên vật liệu được sử dụng; Chúng tôi không sử dụng nước tái chế và tái sử dụng, toàn bộ nước thải từ các nhà máy trong KCN được xử lý đạt tiêu chuẩn của KCN, được xả ra hệ thống thu gom KCN và được đưa về nhà máy xử lý nước thải tập trung để xử lý nước thải sau xử lý đạt QCVN 40/2011/BTNMT cột A xả ra môi trường .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1050,
+      "text": "Công tác bảo vệ môi trường, bảo vệ tài nguyên điện, nước luôn được Tổng Công ty quan tâm chú trọng. Từ việc tuân thủ các quy định về thủ tục hành chính theo luật Bảo vệ Môi trường 2020 (có hiệu lực thực thi từ 01/01/2022) cho đến việc thực hiện các công tác Bảo vệ Môi trường (như công trình xử lý nước thải) đảm bảo xử lý toàn bộ nước thải của KCN đạt quy chuẩn vô trùng trước khi thải ra nguồn tiếp nhận, thực hiện đầu tư thêm hệ thống xử lý nước thải dự phòng trong trường hợp khẩn cấp. Trong năm 2024, KBC đều tuân thủ các quy định pháp luật về bảo vệ môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1236,
+      "text": "[TABLE] [CONTEXT] section: ❖ Major lines of business accounting for more than 10% of the total revenue ; column_headers: Lines of business | Accounting for more than 10% of the 2024 total revenue | Accounting for more than 10% of the 2023 total revenue [ROWS] Lines of business | Accounting for more than 10% of the 2024 total revenue | Accounting for more than 10% of the 2023 total revenue [ROW] 1. Revenue from long-term lease of land and infrastructure | 37 . 98% | 86 . 17% [ROW] 2. Revenue from providing clean water, electricity, service fee, waste water treatment supply | 27 . 62% [ROW] 3. Profit from associates | 12 . 72% [ROW] 4. Finance income | 13 . 71%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 1237,
+      "text": "[TABLE] [CONTEXT] section: ❖ Locations of business accounting for more than 10% of the total revenue ; column_headers: Locations of business | Accounting for more than 10% of the 2024 total revenue | Accounting for more than 10% of the 2023 total revenue [ROWS] Locations of business | Accounting for more than 10% of the 2024 total revenue | Accounting for more than 10% of the 2023 total revenue [ROW] 1. Revenue in Bac Ninh province | 32 . 51% | 43 . 86% [ROW] 2. Revenue in Bac Giang province | 18 . 92% | 35 . 42% [ROW] 3. Revenue in Hai Phong province | 39 . 61% | 13 . 02%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 1257,
+      "text": "[TABLE] [CONTEXT] section: The statiscal criteria by the Corporation ; column_headers: Criteria | Nam Son – Hap Linh IP | Quang Chau and Quang Chau Expanded IP | Que Vo and Que Vo Expanded IP | Trang Due IP | Tan Phu Trung IP [ROWS] Criteria | Nam Son – Hap Linh IP | Quang Chau and Quang Chau Expanded IP | Que Vo and Que Vo Expanded IP | Trang Due IP | Tan Phu Trung IP [ROW] water company (due to the construction of the factory) | consumption, purchased from Ha Bac Company & DNP Company - Bac Giang | and purchased from Bac Ninh Clean Water Company | and purchased from Hai Phong Clean Water Company No. 2. | and purchased from Saigon Water Infrastructure Company [ROW] Number of wastewater treatment plants | 01 factory under construction | 04 factories | 03 factories | 0 factories | 01 factory [ROW] Wastewater treatment capacity | 1,000 m3 /day and night | 26.000 m3/ Day & Night | 18,000 m3 /day and night | 12,000 m3/ Day & Night | 4,000 m3/ Day & Night [ROW] Total treated wastewater | 350.147 m3 | 4,582,446 m3 | 4,424,490 m3 | 3,102,500 m3 | 736.511 m3 [ROW] Outsourced wastewater treatment services | Not | Not | Not | Using the services of Quoc Viet Environmental Science and Technology Co., Ltd. and Posbee Green Environment Joint Stock Company with a total capacity of 12,000 m3/day | Not [ROW] New factory under construction | 01 clean water supply plant with a capacity of 19,000 m3/day, preparing to be put into use; 01 wastewater treatment plant with a capacity of 9,000 m3/day, is in trial operation. | 01 wastewater treatment plant with a capacity of 7,000 m3/day | 01 wastewater treatment plant with a capacity of 6,000 m3/day, preparing to be put into use. | None | None",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 13
+      }
+    },
+    {
+      "paragraph_id": 1303,
+      "text": "[TABLE] [CONTEXT] section: Những tiêu chí Tổng Công ty thống kê được ; column_headers: Tiêu chí | KCN Nam Sơn – Hạp Lĩnh | KCN Quang Châu và Quang Châu mở rộng | KCN Quế Võ và Quế Võ mở rộng | KCN Tràng Duệ | KCN Tân Phú Trung [ROWS] Tiêu chí | KCN Nam Sơn – Hạp Lĩnh | KCN Quang Châu và Quang Châu mở rộng | KCN Quế Võ và Quế Võ mở rộng | KCN Tràng Duệ | KCN Tân Phú Trung [ROW] Số nhà máy xử lý nước thải | 01 nhà máy đang xây dựng | 04 nhà máy | 03 nhà máy | 0 nhà máy | 01 nhà máy [ROW] Công suất xử lý nước thải | 1.000 m3 /ngày đêm | 26.000 m3/ ngày đêm | 18.000 m3 /ngày đêm | 12.000 m3/ ngày đêm | 4.000 m3/ ngày đêm [ROW] Tổng lưu lượng nước thải xử lý | 350.147 m3 | 4.582.446 m3 | 4.424.490 m3 | 3.102.500 m3 | 736.511 m3 [ROW] Dịch vụ xử lý nước thải thuê ngoài | Không | Không | Không | Sử dụng dịch vụ của Công ty TNHH Khoa học Công nghệ Môi trường Quốc Việt và CTCP Môi trường xanh Posbee với tổng công suất 12.000 m3/ ngày đêm | Không [ROW] Nhà máy đang xây dựng mới | 01 nhà máy cung cấp nước sạch với công suất 19.000 m3/ ngày đêm, chuẩn bị đưa vào sử dụng; 01 nhà máy xử lý nước thải với công suất 9.000 m3/ ngày đêm , đang vận hành thử nghiệm. | 01 nhà máy xử nước thải với công suất 7.000 m3/ngày đêm | 01 nhà máy xử lý nước thải với công suất 6.000 m3/ngày đêm, chuẩn bị đưa vào sử dụng. | Không | Không",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 12
+      }
+    }
+  ]
+}

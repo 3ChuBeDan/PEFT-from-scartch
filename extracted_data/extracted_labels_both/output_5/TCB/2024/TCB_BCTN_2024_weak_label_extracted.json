@@ -1,0 +1,157 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "text": "Nhờ vào việc hợp tác với Adobe, chương trình khách hàng thân thiết Techcombank Rewards đã phát triển đáng kể trong năm 2024 và trở thành chương trình khách hàng thân thiết lớn thứ hai tại Việt Nam. Được thiết kế với trọng tâm là khía cạnh \"chi tiêu\", chương trình cho phép khách hàng dễ dàng quy đổi điểm lấy tiền mặt, phiếu mua sắm và các ưu đãi đặc thù khác. Mạng lưới không ngừng gia tăng của chúng tôi gồm hơn 300 đối tác và 19.000 cửa hàng toàn quốc, góp phần nâng cao giá trị khách hàng và thúc đẩy gắn kết sâu sắc hơn. Quy trình đổi thưởng liền mạch tiếp tục thiết lập tiêu chuẩn cho các chương trình khách hàng thân thiết, lấy khách hàng làm trọng tâm. Tính đến cuối năm 2024, Techcombank Rewards có khoảng 10 triệu người dùng đang hoạt động, và 50% các chiến dịch tiếp thị số của Ngân hàng được dựa trên chương trình điểm thưởng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Điều này có nghĩa là trong quá trình sử dụng các mô hình dự báo, chúng tôi có những cơ chế kiểm soát chặt chẽ nhằm loại bỏ các yếu tố đầu vào kém chất lượng – chẳng hạn như dữ liệu không chính xác, giả định sai lệch hoặc phương pháp luận chưa phù hợp – tránh dẫn đến các quyết định sai lầm trong định giá, thẩm định, phát hiện gian lận, phòng chống rửa tiền hay các lĩnh vực khác. Hệ thống quản trị rủi ro mô hình giúp đảm bảo các chính sách, quy định và quy trình được áp dụng hiệu quả trong suốt vòng đời mô hình.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Chúng tôi đã cải thiện năng lực quản trị rủi ro gian lận với sự trợ giúp của trí tuệ nhân tạo và máy học với tốc độ vượt trội, giúp giám sát chặt chẽ hơn đối với các giao dịch, khách hàng và quốc gia. Điều này không chỉ giảm thiểu tổn thất do gian lận mà còn giúp phát hiện các hình thức gian lận mới, đáp ứng tiêu chuẩn quốc tế hàng đầu trong lĩnh vực ngân hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Xử lý chất thải ; column_headers: Loại chất thải | Khối lượng được tạo ra | Biện pháp quản lý áp dụng | Giảm thiểu/tái sử dụng | Xử lý và tiêu hủy [ROWS] Loại chất thải | Khối lượng được tạo ra | Biện pháp quản lý áp dụng [ROW] Giảm thiểu/tái sử dụng | Xử lý và tiêu hủy [ROW] CHẤT THẢI RẮN THÔNG THƯỜNG | 822 tấn/năm (đối với chất thải rắn, hệ số được tính theo lượng trung bình dựa trên báo cáo hiện trạng môi trường quốc gia năm 2019 cho từng địa phương.) | ♦ Loại bỏ việc sử dụng túi rác không cần thiết trong nhiều khu vực của tòa nhà để giảm thiểu rác thải nhựa. ♦ Trang bị thùng phân loại rác tại khu vực phòng ăn và phòng photocopy trên mỗi tầng theo quy định phân loại chất thải rắn, đồng thời đặt bảng hướng dẫn phân loại rác đúng cách. ♦ Khuyến khích nhân viên mang theo đồ ăn từ nhà và hạn chế đặt đồ ăn từ bên ngoài để giảm rác thải và sử dụng nhựa. ♦ Lắp đặt bảng nhắc nhở nhân viên sử dụng giấy tiết kiệm (khi lau tay, vệ sinh, v.v.). ♦ Sử dụng nhà cung cấp có nguyên liệu chất lượng cao (ví dụ: giấy có độ bền cao). ♦ Quản lý chặt chẽ việc sử dụng giấy và vật tư để tránh lãng phí. | ♦ Techcombank đã ký hợp đồng với các công ty chuyên trách để thu gom và xử lý chất thải rắn hàng ngày. ♦ Chất thải sau khi thu gom sẽ được chuyển đến đơn vị đủ điều kiện để xử lý theo quy định pháp luật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 12
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Xử lý chất thải ; column_headers: Biện pháp quản lý áp dụng | Giảm thiểu/tái sử dụng | Xử lý và tiêu hủy | Loại chất thải | Khối lượng được tạo ra [ROWS] Loại chất thải | Khối lượng được tạo ra | Biện pháp quản lý áp dụng [ROW] Giảm thiểu/tái sử dụng | Xử lý và tiêu hủy [ROW] CHẤT THẢI NGUY HẠI | 347 kg đã được tạo ra, bao gồm các loại sau: ♦ Đèn huỳnh quang: 70 kg ♦ Bao bì chất thải: 32 kg ♦ Pin: 117 kg ♦ Dầu thải: 121 kg ♦ Hộp mực in: 7 kg (Thống kê chỉ áp dụng cho ba tòa nhà: HO Quang Trung, HO Trần Duy Hưng và HO Lê Duẩn) | ♦ Thay thế đèn huỳnh quang bằng đèn LED tiết kiệm năng lượng và thân thiện với môi trường. ♦ Giảm thiểu bao bì nhựa cứng và kim loại bằng cách sử dụng bao bì thân thiện với môi trường. ♦ Khuyến khích nạp mực cho máy in, máy photocopy thay vì thay mới để giảm lượng rác thải. | ♦ Techcombank đăng ký các loại chất thải nguy hại tiềm năng theo giấy phép môi trường, đảm bảo tuân thủ các quy định pháp luật. ♦ Chất thải nguy hại được định kỳ chuyển giao cho đơn vị có giấy phép thu gom và xử lý theo tiêu chuẩn bảo vệ môi trường. ♦ Hồ sơ quản lý và chuyển giao chất thải nguy hại được lưu trữ đầy đủ theo yêu cầu pháp lý. [ROW] NƯỚC THẢI | 8,1 m3 trên một nhân viên (Hệ số tính toán theo tiêu chuẩn TCXDVN 33:2006 về cấp nước. Lưu lượng nước thải sinh hoạt được xác định theo Điều 39 Nghị định 80/2014/NĐ\u0002 CP = 100% tiêu chuẩn sử dụng nước) | Tất cả thiết bị vệ sinh tại trụ sở chính đều sử dụng cảm biến để tránh lãng phí và tối ưu hóa việc tiết kiệm nước. ♦ Vòi nước cảm biến tự động: Giảm 30-50% lượng nước tiêu thụ bằng cách tự động bật/tắt khi có/không có tay. ♦ Bồn cầu và tiểu nam cảm biến tự động: Xả nước theo nhu cầu sử dụng, tiết kiệm 30-40% so với loại thông thường. ♦ Bộ sục khí cho vòi nước: Giảm lưu lượng nước xuống 5-6 L/ phút, tiết kiệm 30-40% lượng nước nhưng vẫn đảm bảo áp lực. ♦ Hệ thống tưới thông minh (có hẹn giờ): Tưới 3 lần/ngày, mỗi lần 10 phút, giúp giảm 30- 50% lượng nước so với tưới thủ công. | ♦ Techcombank đã thiết lập hệ thống xử lý nước thải tại các tòa nhà trụ sở, đảm bảo nước thải đầu ra đạt tiêu chuẩn kỹ thuật. ♦ Việc giám sát hàng năm được thực hiện tại các tòa nhà trụ sở, tuân thủ theo QCVN 14:2008/BTNMT đối với nước thải sinh hoạt và QCVN 19:2009/BTNMT đối với khí thải công nghiệp (bụi và các chất vô cơ).",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E3": 0.777029,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 18,
+        "E3": 2,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo) ; column_headers: Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Diễn giải | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn . | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu còn trong hạn; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi:  Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 134 Luật các tổ chức tín dụng; hoặc  Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 135 Luật các tổ chức tín dụng; hoặc  Khoản nợ vi phạm quy định tại các khoản 1, 2, 5, 9 Điều 136 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của Ngân hàng do khách hàng vi phạm thỏa thuận với Ngân hàng chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin tín dụng có liên quan. | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: BÁO CÁO QUẢN TRỊ THEO KHỐI ; column_headers: Tiêu chuẩn GRI | Thông tin công bố | Nội dung trong Báo cáo | Trang [ROWS] Tiêu chuẩn GRI | Thông tin công bố | Nội dung trong Báo cáo | Trang [ROW] GRI 305: Phát thải | 305-2 Phát thải GHG gián tiếp từ năng lượng (Phạm vi 2) | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 305: Phát thải | 305-3 Phát thải GHG gián tiếp khác (Phạm vi 3) | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 305: Phát thải | 305-4 Cường độ phát thải GHG | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 305: Phát thải | 305-5 Giảm phát thải GHG | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 306: Chất thải | 306-1 Phát sinh chất thải và các tác động đáng kể liên quan đến chất thải | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 306: Chất thải | 306-2 Quản lý các tác động đáng kể liên quan đến chất thải | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 306: Chất thải | 306-3 Chất thải phát sinh | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 306: Chất thải | 306-4 Thay đổi phương pháp xử lý rác thải | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 306: Chất thải | 306-5 Chôn/Thải bỏ rác thải | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 177-180 [ROW] GRI 401: Việc làm | 401-1 Tuyển dụng nhân viên mới và luân chuyển nhân viên | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Hoạt động bền vững | 182 [ROW] GRI 401: Việc làm | 401-2 Quyền lợi dành cho nhân viên toàn thời gian không dành cho nhân viên tạm thời hoặc bán thời gian | 04. Chuyển đổi số tại Tech – Khối Quản trị Nguồn nhân lực (HR): ♦ Dấu ấn năm 2024 05. Phát triển bền vững cùng Tech – Quản trị doanh nghiệp: ♦ My Own Greatness ♦ Your Own Greatness 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Thúc đẩy môi trường làm việc xanh và lành mạnh | 1. 91-92, 2. 161-162, 3. 183-184 [ROW] GRI 401: Việc làm | 401-3 Nghỉ thai sản | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Thúc đẩy môi trường làm việc xanh và lành mạnh | 183-184 [ROW] GRI 402: Quan hệ lao động/quản lý | 402-1 Thời hạn thông báo tối thiểu liên quan đến thay đổi hoạt động | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Đảm bảo quyền con người ♦ Thúc đẩy môi trường làm việc xanh và lành mạnh | 181, 183-184 [ROW] GRI 403: Sức khỏe và an toàn nghề nghiệp | 403-1 Hệ thống quản lý sức khỏe và an toàn nghề nghiệp | 04. Chuyển đổi số tại Tech – Khối Quản trị Nguồn nhân lực (HR): ♦ Dấu ấn năm 2024 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Thúc đẩy môi trường làm việc xanh và lành mạnh | 91-92, 183-184 [ROW] GRI 403: Sức khỏe và an toàn nghề nghiệp | 403-2 Nhận dạng mối nguy hiểm, đánh giá rủi ro và điều tra sự cố | 04. Chuyển đổi số tại Tech – Khối Quản trị Nguồn nhân lực (HR): ♦ Dấu ấn năm 2024 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Thúc đẩy môi trường làm việc xanh và lành mạnh | 91-92, 183-184 [ROW] GRI 403: Sức khỏe và an toàn nghề nghiệp | 403-3 Dịch vụ sức khỏe nghề nghiệp | 04. Chuyển đổi số tại Tech – Khối Quản trị Nguồn nhân lực (HR): ♦ Dấu ấn năm 2024 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Thúc đẩy môi trường làm việc xanh và lành mạnh | 91-92, 183-184",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 10
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: BÁO CÁO QUẢN TRỊ THEO KHỐI ; column_headers: Tiêu chuẩn GRI | Thông tin công bố | Nội dung trong Báo cáo | Trang [ROWS] Tiêu chuẩn GRI | Thông tin công bố | Nội dung trong Báo cáo | Trang [ROW] GRI 405: Đa dạng và Bình đẳng | 405-1 Sự đa dạng của đội ngũ quản lý và nhân viên | 05. Phát triển bền vững cùng Tech – Quản trị doanh nghiệp: ♦ Hội đồng quản trị ♦ Các Ủy ban do Hội đồng quản trị thành lập ♦ Giới thiệu về Ban Kiểm soát 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Xây dựng lực lượng lao động đa dạng và hòa nhập | 98-139 182 [ROW] GRI 405: Đa dạng và Bình đẳng | 405-2 Tỷ lệ lương cơ bản và thù lao của phụ nữ so với nam giới | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Xây dựng lực lượng lao động đa dạng và hòa nhập | 182 [ROW] GRI 406: Không phân biệt đối xử | 406-1 Các sự cố phân biệt đối xử và hành động khắc phục đã thực hiện | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Xây dựng lực lượng lao động đa dạng và hòa nhập | 182 [ROW] GRI 408: Lao động trẻ em | 408-1 Các hoạt động và nhà cung cấp có nguy cơ đáng kể về các sự cố lao động trẻ em | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Chính sách môi trường và hệ thống quản lý | 174-176 [ROW] GRI 409: Lao động cưỡng bức hoặc bắt buộc | 409-1 Các hoạt động và nhà cung cấp có nguy cơ đáng kể về các sự cố lao động cưỡng bức hoặc bắt buộc | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Chính sách môi trường và hệ thống quản lý | 174-176 [ROW] GRI 413: Cộng đồng địa phương | 413-1 Các hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Chính sách môi trường và hệ thống quản lý | 174-176 [ROW] GRI 413: Cộng đồng địa phương | 413-2 Các hoạt động có tác động tiêu cực thực tế và tiềm ẩn đáng kể đến cộng đồng địa phương | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Gắn kết với cộng đồng ♦ Tài trợ xã hộ | 188-189 [ROW] GRI 418: Quyền riêng tư của khách hàng | 418-1 Khiếu nại có căn cứ về việc vi phạm Quyền bảo mật thông tin khách hàng và mất dữ liệu khách hàng | 05. Phát triển bền vững cùng Tech – Báo cáo Bền vững: ♦ Phục vụ khách hàng và cộng đồng một cách có trách nhiệm | 187",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "S4": 4,
+        "S6": 4
+      }
+    }
+  ]
+}

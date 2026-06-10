@@ -1,0 +1,96 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Trong một chia sẻ với quý vị vào dịp này năm ngoái, tôi đã nhấn mạnh rằng dù thị trường còn rất nhiều khó khăn, PDR vẫn xác định tâm thế phải tập trung tiến về phía trước, phải quyết liệt tìm kiếm cơ hội và tự kiến tạo cơ hội thay vì chỉ than vãn về thách thức hay động viên tinh thần vượt khó. Xuyên suốt năm 2024 vừa qua, PDR đã thực sự sống với tinh thần đó.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Tổ hợp Dự án khu nhà ở phức hợp cao tầng Thuận An 1 và Thuận An 2 tọa lạc tại đường Nguyễn Thị Minh Khai, Khu phố Hòa Lân 1, phường Thuận Giao, TP. Thuận An. Đây là dự án có quy mô lớn nhất của PDR tại tỉnh Bình Dương và cũng là dự án đầu tiên tại Việt Nam được tích hợp bộ đôi tiêu chuẩn quốc tế LEED and FITWEL về xây dựng các công trình Xanh, tiết kiệm năng lượng, bảo vệ môi trường. Các tiêu chuẩn này đảm bảo mang lại trải nghiệm tốt hơn cho khách hàng, thân thiện với môi trường cũng như hiệu quả cao hơn trong vận hành, cụ thể như tiết kiệm năng lượng, tiết kiệm nước và cung cấp môi trường sống hiện đại cho cư dân thế hệ mới, phục vụ cho lối sống văn minh với hạ tầng tiện ích vượt trội.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: BẢNG THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: Câu hỏi | Nội dung câu hỏi | Tình hình | Cơ sở đánh giá cho năm 2024 | 2023 | 2024 [ROWS] Câu hỏi | Nội dung câu hỏi | Tình hình | Cơ sở đánh giá cho năm 2024 [ROW] 2023 | 2024 [ROW] B.2.2 | Thông báo và tài liệu ĐHĐCĐ gần nhất có được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu theo ngôn ngữ địa phương? | Toàn bộ tài liệu được thông báo và công bố bằng cả tiếng Việt lẫn tiếng Anh. [ROW] Thông báo về ĐHĐCĐ có những chi tiết sau không: [ROW] B.2.3 | Có cung cấp tiểu sử của thành viên/ủy viên HĐQT sẽ được bầu chọn/bầu chọn lại (tối thiểu là tuổi, trình độ đào tạo, chuyên môn, ngày bổ nhiệm đầu tiên, kinh nghiệm, và vị trí thành viên HĐQT đang tại vị trong các công ty niêm yết khác)? | PDR công bố đầy đủ các thông tin về tiểu sử của các thành viên HĐQT sẽ được bầu chọn/bầu chọn lại. [ROW] B.2.4 | Kiểm toán viên/công ty kiểm toán chuẩn bị được bầu chọn/bầu chọn lại có được xác định rõ ràng? | PDR có xác định rõ ràng các tiêu chí lựa chọn công ty kiểm toán và đề xuất công ty kiểm toán cụ thể thông qua Tờ trình được công bố trong mục Tài liệu ĐHĐCĐ thường niên 2024 trên website Công ty [ROW] B.2.5 | Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng? | Mẫu giấy uỷ quyền được gửi kèm trong thư mời tham dự ĐHĐCĐ, đồng thời đăng tải trên mục Tài liệu ĐHĐCĐ thường niên 2024 trên website Công ty để cổ đông thuận tiện tải về. [ROW] B.3 | Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] B.3.1 | Công ty có chính sách và/hoặc quy định cấm thành viên HĐQT và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | Khoản 2 và Khoản 5 Điều 45 ĐLCT. [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Thành viên HĐQT PDR tuân thủ việc báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc và công bố thông tin trên trang thông tin của SSC, HOSE và website Công ty tại mục Thông báo cổ đông [ROW] B.4 | Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao. [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty không? | Khoản 1 và Khoản 3 Điều 45 ĐLCT. [ROW] B.4.2 | Công ty có chính sách yêu cầu một tiểu ban bao gồm thành viên độc lập HĐQT rà soát giao dịch bên liên quan trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của Công ty và cổ đông không? | PDR có Ban kiểm toán nội bộ trực thuộc Ủy ban kiểm toán thường xuyên phối hợp với các phòng/ ban liên quan để rà soát giao dịch với bên liên quan và báo cáo cho Ủy ban kiểm toán/HĐQT. [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | PDR không cho thành viên HĐQT có xung đột lợi ích tham gia biểu quyết, không có cơ sở luật định để yêu cầu thành viên HĐQT không tham gia các cuộc họp. [ROW] B.4.4 | Công ty có chính sách về khoản vay cho thành viên HĐQT, trong đó qui định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | PDR có quy định về chính sách khoản vay cho thành viên HĐQT được nêu tại Khoản 2, Điều 44 Điều lệ Công ty. Các khoản vay (nếu có) sẽ được PDR thực hiện tuân thủ theo quy định pháp luật, Điều lệ Công ty và trên cơ sở giao dịch hợp lý theo lãi suất thị trường. [ROW] B.5 | Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng [ROW] B.5.1 | Công ty có công bố về việc giao dịch bên liên quan được thực hiện theo cách đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | PDR công bố thông tin về giao dịch với bên liên quan đầy đủ trong Báo cáo tình hình quản trị và Báo cáo tài chính. [ROW] B.5.2 | Trong trường hợp cần có phê duyệt của cổ đông thông qua các giao dịch các bên liên quan, việc biểu quyết phê duyệt phải được biểu quyết bởi các cổ đông không liên quan lợi ích. | PDR không phát sinh giao dịch với bên liên quan thuộc trường hợp ĐHĐCĐ thông qua.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3,
+        "G11": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: BẢNG THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: Câu hỏi | Nội dung câu hỏi | Tình hình tuân thủ | Cơ sở đánh giá cho năm 2024 | 2023 [ROWS] Câu hỏi | Nội dung câu hỏi | Tình hình tuân thủ | Cơ sở đánh giá cho năm 2024 [ROW] 2023 [ROW] (P) A.3.2 | Chủ tịch HĐQT, chủ tịch Tiểu ban Kiểm toán và TGĐ/ giám đốc có tham dự ĐHĐCĐ mới nhất? | PDR luôn tuân thủ điều này. Chủ tịch HĐQT và Chủ tịch các Ủy ban và TGĐ không vắng mặt trong kỳ ĐHĐCĐ gần nhất. [ROW] (P)A.4 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai [ROW] Công ty không công bố sự tồn tại của: [ROW] (P) A.4.1 | Thỏa thuận cổ đông? | Tại PDR không tồn tại thoả thuận này. [ROW] (P) A.4.2 | Giới hạn biểu quyết? | PDR quy định cụ thể trong Điều lệ, Chương trình - thể lệ/quy chế biểu quyết tại ĐHĐCĐ thường niên. [ROW] (P) A.4.3 | Cổ phiếu nhiều quyền biểu quyết? | Tại PDR không tồn tại loại quyền biểu quyết này. [ROW] (P)A.5 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai [ROW] (P) A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu sở hữu chéo có tồn tại không? | PDR không ghi nhận cấu trúc sở hữu kim tự tháp hay cấu trúc sở hữu chéo. [ROW] (P)B. Đối xử công bằng với cổ đông [ROW] (P)B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] (P) B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, Ban TGĐ và nhân viên công ty trong ba năm qua? | PDR không ghi nhận bất kỳ vi phạm nào. [ROW] (P)B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] (P) B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | PDR không ghi nhận bất kỳ vi phạm không tuân thủ luật pháp. [ROW] (P) B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | PDR không ghi nhận bất kỳ giao dịch với bên liên quan nào theo cách này. [ROW] (P)C. Vai trò của Các bên có quyền lợi liên quan [ROW] (P)C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng. [ROW] (P) C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/việc làm/người tiêu dùng/phá sản/thương mại/cạnh tranh hay môi trường? | PDR không ghi nhận bất kỳ vi phạm nào. [ROW] (P)C.2 | D. Khi các bên có quyền lợi liên quan tham gia vào quá trình QTCT, họ phải được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên. [ROW] (P) C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không công bố thông tin trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | PDR tuân thủ chặt chẽ quy định về CBTT và không ghi nhận bất kì vi phạm nào.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ ; column_headers: Các bên liên quan | Cách tiếp cận | Các mối quan tâm chính của các bên liên quan | Phản hồi của PDR [ROWS] Các bên liên quan | Cách tiếp cận | Các mối quan tâm chính của các bên liên quan | Phản hồi của PDR [ROW] ĐỐI THỦ CẠNH TRANH | - Gặp gỡ, chia sẻ với các đối thủ cạnh tranh thông qua các cuộc họp của các hiệp hội xây dựng, BĐS, các cuộc gặp gỡ nhà đầu tư quan tâm đến ngành BĐS do HOSE tổ chức. - Duy trì quan hệ cá nhân giữa lãnh đạo doanh nghiệp với lãnh đạo các đối thủ cạnh tranh. - Tổng hợp các thông tin về đối thủ cạnh tranh thông qua các tin tức từ các kênh truyền thông chính thống. | - Quy tắc ứng xử với đối thủ cạnh tranh. - Cạnh tranh lành mạnh. - Tuân thủ luật chống độc quyền, cạnh tranh. | - Hòa hợp với đối thủ cạnh tranh bằng tất cả thiện chí và không ngừng học hỏi từ những thành công của họ. - Không nói xấu hoặc có hành động phá hoại công ty đối thủ, đồng thời công nhận những thành công và tôn trọng lợi ích của họ trên cơ sở “Công ty tốt nhất là công ty chiến thắng”. - Cam kết cạnh tranh công bằng, không thông đồng hoặc có các hoạt động gây ảnh hưởng đến giá cả thị trường, không tiếp nhận những thông tin có thể là bí mật về đối thủ cạnh tranh. - Linh hoạt ứng phó trước sự cạnh tranh gay gắt, nhất quán với nguyên tắc kinh doanh trung thực, lấy chất lượng, uy tín và thương hiệu đặt lên hàng đầu. Tôn trọng và tuân thủ luật chống độc quyền, luật cạnh tranh, đảm bảo sự cạnh tranh lành mạnh, tự do và cởi mở.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

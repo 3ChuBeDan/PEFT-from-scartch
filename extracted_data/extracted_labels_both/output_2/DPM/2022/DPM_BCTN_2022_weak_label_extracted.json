@@ -1,0 +1,101 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 766,
+      "text": "Với những thành quả hoạt động nổi bật mà Tổng công ty đã đạt được trong năm vừa qua, thay mặt Ban lãnh đạo tôi muốn được bày tỏ sự ghi nhận tinh thần cống hiến, cộng tác và sự nỗ lực không ngừng của tập thể PVFCCo để cùng hướng tới các mục tiêu chung. Trong năm qua, chúng ta đã chứng kiến những biến động đầy thách thức và sự thay đổi khó lường, và điều quan trọng là chúng ta đã luôn sẵn sàng linh hoạt để thay đổi và thích ứng với tinh thần lạc quan và bền bỉ. Với ý chí và tinh thần đó, tôi tin rằng chúng ta sẽ có thể làm nhiều hơn nữa, tốt hơn nữa để tiếp tục kiến tạo những giá trị bền vững cho cổ đông và cộng đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 859,
+      "text": "O Thực hiện kiểm kê khí nhà kính, khí thải và các hành động giảm phát thải khí nhà kính trong hoạt động sản xuất.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 908,
+      "text": "O Triển khai các nhiệm vụ liên quan đến kiểm kê khí thải, giảm phát thải khí nhà kính, chống biến đổi khí hậu như: Kiểm kê khí thải cho các hoạt động sản xuất kinh doanh trong năm 2022, Báo cáo tình hình thực hiện Kế hoạch hành động giảm thiểu, thích ứng với biến đổi khí hậu trên Cơ sở dữ liệu của PVN, Phổ biến Sổ tay tuyên truyền về Biến đổi Khí hậu của PVN, Hỗ trợ Viện Dầu khí (VPI) trong việc khảo sát, thu thập tài liệu phát thải khí nhà kính trong các hoạt động sản xuất kinh doanh. Ngoài ra, Tổng công ty còn thực hiện các công tác quản lý sử dụng năng lượng và tiết kiệm hiệu quả (như mục 5 dưới đây).",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5
+      }
+    },
+    {
+      "paragraph_id": 965,
+      "text": "ʞ Thực hiện quản lý nước thải, khí thải, phân loại và lưu trữ chất thải rắn, chất thải nguy hại (CTNH) đúng quy định. Ký hợp đồng chuyển giao chất thải rắn với Đơn vị có chức năng xử lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 1248,
+      "text": "[TABLE] [CONTEXT] section: Số liệu chất thải: ; column_headers: STT Loại chất thải | ĐVT | Lượng phát thải | Lượng xử lý | Mức độ xử lý (Đạt QCVN) [ROWS] STT Loại chất thải | ĐVT | Lượng phát thải | Lượng xử lý | Mức độ xử lý (Đạt QCVN) [ROW] 1 | Nước thải (*) | m3 | 152.737 | 152.737 | Đạt [ROW] 2 | Nước làm mát | m3 | 29.132.940 | 29.132.940 | Đạt [ROW] 3 | Khí thải | m3 /Quý | 12.080.565.600 | 12.080.565.600 | Đạt [ROW] 4 | Chất thải rắn sinh hoạt | Kg | 113.352 | 113.352 | Đạt [ROW] 5 | Chất thải rắn công nghiệp | Kg | 1.171.833 | 1.171.833 | Đạt [ROW] 6 | Chất thải nguy hại | Kg | 77.720 | 77.720 | Đạt",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 11
+      }
+    }
+  ]
+}

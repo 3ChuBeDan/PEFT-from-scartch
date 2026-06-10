@@ -1,0 +1,38 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: HỢP ĐỒNG GIAO DỊCH VỚI NGƯỜI NỘI BỘ ; column_headers: STT | Tên tổ chức/cá nhân | Mối quan hệ liên i ệ quan với công ty | Số giấy NSH*, ngày cấp, ấ gy p nơi cấp NSH | Địa chỉ ở ị trụ sở /ị ụ chính/địa ỉ i ị chỉ liên hệ | Thời điểm giao dịch với công ty | Số Nghị ếủ gị quyết của ĐHĐCĐ thông qua | Nội dung, số ổi ộg, lượng, tổng giá ị iị ợ trị giao dịch [ROWS] STT | Tên tổ chức/cá nhân | Mối quan hệ liên i ệ quan với công ty | Số giấy NSH*, ngày cấp, ấ gy p nơi cấp NSH | Địa chỉ ở ị trụ sở /ị ụ chính/địa ỉ i ị chỉ liên hệ | Thời điểm giao dịch với công ty | Số Nghị ếủ gị quyết của ĐHĐCĐ thông qua | Nội dung, số ổi ộg, lượng, tổng giá ị iị ợ trị giao dịch [ROW] 2 | Công ty CP Dịch vụ Sonadezi | Tổ chức liên quan của Tổng Công ty Sonadezi | Số GCNĐKDN: 3600890938 Ngày cấp: 15/05/2007, Nơi cấp: Sở Kế hoạch & Đầu tư tỉnh Đồng Nai | Tầng 8, cao Ốc Sonadezi, số 1, đường l KCN Biên Hòa 1, Biên Hòa, Đồng Nai | 02/2023 12/2023 | QĐ số 51/ QĐ- SZC\u0002 HĐQT ngày 22/02/2023 QĐ số 433/ QĐ-SZC\u0002 HĐQT ngày 11/12/2023 | Thông qua ký hợp đồng Lập báo cáo kết quả quan trắc môi trường và công tác bảo vệ môi trường KCN Châu Đức; ký hợp đồng lập báo cáo công tác bảo vệ môi trường sân golf Châu Đức, thuê vận hành Nhà máy xử lý nước thải tại KCN Châu Đức [ROW] 3 | Công ty CP Sonadezi Giang Điền | Tổ chức liên quan của Tổng Công ty Sonadezi | Số GCNĐKDN: 3603474037 Ngày cấp: 01/07/2017, Nơi cấp: Sở Kế hoạch & Đầu tư tỉnh Đồng Nai | Tầng 1, số 1, đường 1, KCN Biên Hòa 1, Phường An Bình, Thành phố Biên Hoà, Tỉnh Đồng Nai | Năm 2023 | QĐ số 111/ QĐ- SZC\u0002 HĐQT ngày 23/03/2023 | Giao dịch thuê văn phòng tại Cao ốc Sonadezi, cung ứng dịch vụ tư vấn giám sát nhà xướng và thuê quảng cáo trên hệ thống chiếu sáng mỹ thuật Cao ốc Sonadezi [ROW] 4 | Công ty CP Sonadezi An Bình | Tổ chức liên quan của Tổng Công ty Sonadezi; Bà Phạm Thị Kim Hòa-Trưởng BKS | Số GCNĐKDN: 3600449307 Ngày cấp: 12/01/2000, Nơi cấp: Sở Kế hoạch & Đầu tư tỉnh Đồng Nai | Số 113-116 lô C2, đường 9, Khu dân cư An Bình, Phường An Bình, Thành phố Biên 1 Hoà, Tỉnh Đồng Nai | Năm 2023 | QĐ số 111/ QĐ- SZC\u0002 HĐQT ngày 23/03/2023 | Giao dịch thu phí xử lý nước thải, phí sử dụng nước, phí quản lý theo HĐTĐ tại KCN Châu Đức, Hợp đồng sử dụng nước, Hợp đồng XLNT và Hợp đồng thi công các hạng mục công trình sân golf Châu Đức đã ký",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.8
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S0"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S0"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

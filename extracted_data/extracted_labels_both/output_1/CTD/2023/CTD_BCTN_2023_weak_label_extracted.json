@@ -1,0 +1,210 @@
+{
+  "extracted_count": 12,
+  "extracted": [
+    {
+      "text": "Do đó, từng thành viên đều có trọng trách và không gian phát triển riêng. Trong từng nhóm nhiệm vụ, cũng đã xác định ai là người hỗ trợ, ai là người làm chính . Môi trường đó tạo nên cơ chế tương hỗ và tinh thần tôn trọng nhau, thúc đẩy hiệu quả hợp tác rất tốt. Các bên đều cộng hưởng để đạt được thành quả chung tối ưu. Mỗi người đều có cơ hội phát huy năng lực và vai trò trong phạm vi công việc mình được phụ trách. Cả tổ chức giống như một đội chạy tiếp sức vậy. Theo tôi, đây là tinh thần đoàn kết rất tích cực.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Chúng tôi làm việc với sự thấu hiểu và tinh thần đồng đội. Chúng tôi không thoả hiệp với những hành động đi ngược lại tính nhân văn và không tạo ra giá trị cho cộng đồng. Đối xử công bằng và tử tế, không phân biệt hoàn cảnh xuất thân, vị trí và năng lực.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S11"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S11"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Suốt nhiều tháng liền, đội ngũ chuyên trách của Coteccons đã làm việc cật lực, bất kể thời gian, bằng tinh thần tập trung cao độ để có được đề án tốt nhất. Cùng với uy tín vượt trội, tinh thần chính trực và minh bạch của doanh nghiệp, Coteccons đã chính thức được LMV trao quyền thực hiện dự án mang tính biểu tượng này.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Với vai trò là ngành trụ cột ở hầu hết quốc gia, ngành xây dựng là động lực to lớn để phát triển kinh tế đất nước. Ngành xây dựng đồng thời có những tác động đến môi trường tự nhiên, kinh tế - xã hội và đời sống của cộng đồng, cụ thể như tiêu thụ một lượng lớn nguyên vật liệu (bao gồm cả năng lượng) và thải ra một lượng lớn khí carbon trong quá trình sản xuất. Các hoạt động của ngành xây dựng dẫn đến nhiều vấn đề như làm xáo trộn đa dạng sinh học, tạo ra khí nhà kính, khí thải carbon, chất thải và gây ra các sự cố liên quan đến sức khỏe và an toàn...",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25,
+        "E_COMMON": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Coteccons xác định giảm lượng thải khí nhà kính là một trong 5 mục tiêu chính trong chiến lược ESG và đã xác định lộ trình giảm lượng khí thải carbon cho tới năm 2030 thông qua làm việc với các công ty tư vấn hàng đầu. Chính yếu tố tiên phong trên hành trình Net Zero đã giúp Coteccons được Tập đoàn LEGO lựa chọn là tổng thầu xây dựng nhà máy Net Zero đầu tiên tại Việt Nam với quy mô tỷ đô la.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": "Green Up là sáng kiến nằm trong chương trình IMPACTD – chương trình phát triển bền vững của Coteccons với nỗ lực giảm thiểu - bù đắp các tác động đến xã hội và môi trường. Coteccons sẽ tiếp tiếp tục duy trì dài hạn, hướng đến mục tiêu tăng cường độ phủ xanh trên khắp cả nước nhằm ngăn ngừa thiên tai bão lũ, bảo vệ môi trường, chống biến đổi khí hậu, bảo tồn đa dạng sinh học và duy trì hệ sinh thái tự nhiên cho thế hệ mai sau.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Hoạt động thiết thực và kịp thời, cả về vật chất lẫn tinh thần, này thể hiện tinh thần trân trọng của Coteccons với thành phần đang đóng góp công sức kiến tạo các công trình.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Công ty phối hợp với các chủ đầu tư xây dựng các công trình tiết kiệm năng lượng, đạt tiêu chuẩn LEED Gold như: Diamond Lotus, Friendship, Khu nghỉ dưỡng Nam Hội An... LEED là hệ thống đánh giá, chứng nhận công trình xanh do Hội đồng Công trình xanh của Hoa Kỳ phát triển.",
+      "hard_labels": [
+        "E3",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Đối với 12 tiêu chí về Đối xử bình đẳng với cổ đông mà Coteccons đáp ứng tốt trở lên: Đạt 80%. [ROWS] B.1 Cổ phiếu và quyền biểu quyết | 1. Mỗi cổ phiếu phổ thông có một phiếu biểu quyết. 2. Nếu có nhiều hơn một loại cổ phiếu, có công bố số phiếu biểu quyết gắn với mỗi loại cổ phiếu. [ROW] B.2 Thông báo ĐHĐCĐ | 3. Cung cấp tiểu sử của TV/ủy viên HĐQT sẽ được bầu chọn/bầu chọn lại. 4. Kiểm toán viên/công ty kiểm toán chuẩn bị được bầu chọn/bầu chọn lại có được xác định rõ ràng. 5. Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng. [ROW] B.3 Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân | 6. Chính sách quy định cấm thành viên HĐQT và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra ngoài. 7. Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu của Công ty trong vòng 3 ngày làm việc. [ROW] B.4 Giao dịch Bên liên quan của Thành viên Hội đồng quản trị và nhân sự Quản lý cấp cao | 8. Chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với Công ty. 9. Chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích. 10. Chính sách về khoản vay cho thành viên HĐQT, quy định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường. [ROW] B.5 Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng | 11. Công bố về việc giao dịch Bên liên quan được thực hiện theo cách đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường. 12. Nếu cần có phê duyệt của cổ đông thông qua các giao dịch Bên liên quan, việc biểu quyết phê duyệt phải được biểu quyết bởi cổ đông không liên quan lợi ích.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S11"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S11"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

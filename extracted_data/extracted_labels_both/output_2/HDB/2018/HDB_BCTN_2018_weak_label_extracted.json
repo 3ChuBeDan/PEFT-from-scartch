@@ -1,0 +1,83 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 62,
+      "text": "Hưởng ứng chủ trương của Chính phủ và Ngân hàng nhà nước, HDBank định hướng trở thành \"Ngân hàng xanh\" trong mọi hoạt động, mang đến lợi ích cao nhất cho khách hàng, cổ đông, đối tác và người lao động. Ngân hàng đẩy mạnh các sản phẩm hỗ trợ doanh nghiệp hoạt động thân thiện với môi trường, tài trợ các doanh nghiệp hoạt động trong lĩnh vực nông nghiệp công nghệ cao, nông nghiệp sạch và năng lượng tái tạo, vừa tạo nền tảng phát triển bền vững của chính ngân hàng, vừa mang đến sự ảnh hưởng trực tiếp đến các cộng đồng kinh tế, lĩnh vực kinh doanh theo hướng thúc đẩy kinh tế xanh và sáng tạo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 655,
+      "text": "HDBank ưu tiên vào việc tài trợ dự án thân thiện với môi trường, thúc đẩy các ngành sản xuất, dịch vụ và tiêu dùng xanh, năng lượng sạch và năng lượng tái tạo; tích cực thúc đẩy tăng trưởng xanh và phát triển bền vững.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1193,
+      "text": "Nguồn phát sinh chất thải rắn không nguy hại gồm rác thải sinh hoạt và rác thải tái chế (phế liệu) bao gồm rác thải tái chế các loại bao bì carton, thùng giấy, giấy văn phòng....Chất thải rắn được phân loại, thu gom tại từng tầng và có nhân viên vệ sinh xử lý theo quy định. Ngân hàng cũng thường xuyên nhắc nhở mọi cán bộ nhân viên tái sử dụng bình mực máy in/photocopy bằng cách bơm mực thêm thay vì thay mới để hạn chế phát thải bình mực ra môi trường. Đèn điện hư hỏng được thay thế, các vật dụng văn phòng như bàn, ghế, tủ, bàn phím chuột máy tính, bảng hiệu, biển quảng cáo cũ...khi hư hỏng, không còn sử dụng sẽ được phân loại riêng và xử lý đúng quy trình.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 2189,
+      "text": "[TABLE] [CONTEXT] section: 4.6 PHÂN LOẠI NỢ VÀ MỨC TRÍCH, PHƯƠNG PHÁP TRÍCH LẬP DỰ PHÒNG RỦI RO CHO TIỀN GỬI VÀ CHO VAY CÁC TỔ CHỨC TÍN DỤNG KHÁC, MUA VÀ ỦY THÁC MUA TRÁI PHIẾU DOANH NGHIỆP CHƯA NIÊM YẾT, CHO VAY KHÁCH HÀNG VÀ ỦY THÁC CẤP TÍN DỤNG ; column_headers: Nhóm nợ | Diễn giải | Tỷ lệ dự phòng cụ thể [ROWS] Nhóm nợ | Diễn giải | Tỷ lệ dự phòng cụ thể [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

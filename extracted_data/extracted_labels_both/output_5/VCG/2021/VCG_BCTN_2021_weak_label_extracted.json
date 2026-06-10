@@ -1,0 +1,45 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Giảm thiểu các tác động có hại tới môi trường và cộng đồng trong mọi hành động: Đối với mỗi công trình, dự án, Tổng công ty luôn có giải pháp bảo vệ môi trường, giảm thiểu tác động môi trường trong Báo cáo đánh giá tác động môi trường (ĐTM) đã được cơ quan có thẩm quyền phê duyệt; Tìm kiếm và ký hợp đồng với các đơn vị có đủ chức năng để xử lý các chất thải nguy hại, chất thải rắn, chất thải sinh hoạt; Kiểm soát hàng hóa và hóa chất nguy hiểm; Tiến hành quản lý chất thải nguy hại, chất thải sinh hoạt, chất thải rắn, các chất thải được thu gom và tập kết tạm thời tại các vị trí quy định trong công trường; không đổ các chất thải nêu trên khi chưa được xử lý vào sông ngòi, kênh mương, ao hồ và các khu vực khác xung quanh; Bảo vệ các nguồn sinh thái, các nguồn có giá trị khảo cổ, lịch sử; Bố trí các thiết bị thi công ở khoảng cách phù hợp, kiểm tra và bảo dưỡng thiết bị định kỳ; ưu tiên sử dụng các thiết bị có mức phát thải âm thấp; giảm thiểu và kiểm soát mức ồn, độ rung, khói, bụi, mùi... từ thi công. Các phương tiện, máy, thiết bị thi công của Tổng công ty đảm bảo tiêu chuẩn khí thải theo quy định lộ trình áp dụng tiêu chuẩn khí thải đối với phương tiện giao thông cơ giới đường bộ.",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 1.0,
+        "E_COMMON": 1.0,
+        "S6": 0.412568
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 12,
+        "E_COMMON": 3,
+        "S6": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E9"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E9"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

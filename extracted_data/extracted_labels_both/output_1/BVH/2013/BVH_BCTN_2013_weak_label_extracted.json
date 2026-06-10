@@ -1,0 +1,304 @@
+{
+  "extracted_count": 16,
+  "extracted": [
+    {
+      "paragraph_id": 486,
+      "text": " Giảm cường độ phát thải khí nhà kính và thúc đẩy việc sử dụng năng lượng sạch, năng lượng tái tạo.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1207,
+      "text": "cấp Dịch vụ Kiểm toán đã được ký kết với Ernst & Young Vietnam. Tổ chức xem xét, thẩm tra các báo cáo tài chính bán niên, các báo cáo tài chính quý và báo cáo tài chính năm 2013 của Tập đoàn được soát xét và kiểm toán bởi E&Y. Thảo luận về những vấn đề khó khăn và tồn tại phát hiện từ các kết quả kiểm toán giữa kỳ hoặc cuối kỳ cũng như mọi vấn đề mà kiểm toán viên độc lập muốn bàn bạc. Xem xét thư quản lý của kiểm toán viên độc lập và ý kiến phản hồi của Tổng Giám đốc Tập đoàn và HĐQT. Ban Kiểm soát không có bất cứ sự phản đối nào về các số liệu đã được thể hiện trong các BCTC riêng và BCTC hợp nhất năm 2013 của Tập đoàn Bảo Việt.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 1494,
+      "text": "Năm 2013, Tập đoàn Bảo Việt và các Công ty con đã tăng cường quản lý tập trung về công nghệ thông tin, tăng cường các biện pháp an ninh bảo mật, đảm bảo tính liên tục trong hoạt động kinh doanh của Tập đoàn Bảo Việt và các Công ty con. Duy trì hệ thống quản lý an ninh thông tin (ISMS - Information Security Management System) theo Tiêu chuẩn ISO 27001-2005 để vận hành, giám sát và cải tiến Hệ thống ISMS, giúp Ban lãnh đạo Tập đoàn Bảo Việt thực hiện việc giám sát, quản lý hệ thống thông tin, tăng cường an ninh bảo mật, giảm thiểu rủi ro cho hệ thống thông tin,",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1528,
+      "text": "Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro để tiến hành hoạt động kiểm toán nội bộ và phương pháp ORCA để đánh giá rủi ro (ORCA: Objectives - các mục tiêu kinh doanh của Tập đoàn Bảo Việt và các đơn vị thành viên, Risks - các rủi ro đe dọa việc đạt được các mục tiêu kinh doanh, Controls - các biện pháp kiểm soát nhằm giảm thiểu các rủi ro trên, Alignment - tính thống nhất giữa các mục tiêu kinh doanh, rủi ro và biện pháp kiểm soát).",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "paragraph_id": 1668,
+      "text": "ngày hội doanh nghiệp... đáp ứng các nhu cầu đời sống tinh thần của người lao động, nâng cao chất lượng cuộc sống và sức khỏe, tạo sự hứng thú, say mê trong công việc, tạo sự gắn kết, đồng lòng và xây dựng tinh thần đoàn kết thân ái trong tổ chức.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1684,
+      "text": "Một nét đáng quý trong truyền thống văn hóa của Bảo Việt là tinh thần đoàn kết. Tinh thần ấy là sợi dây gắn kết, thúc đẩy cán bộ Bảo Việt đồng lòng cống hiến cho Bảo Việt vì niềm tin vào sự",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 2311,
+      "text": "Với tình cảm và lòng thành kính biết ơn sâu sắc đến vị Đại tướng của toàn dân tộc Võ Nguyên Giáp và hướng về đồng thương: Hướng về miền Trung thân yêu\". Trong khuôn khổ chương trình \"Bảo Việt: Kết nối yêu thương, hướng về miền Trung thân yêu\", tập thể cán bộ Bảo Việt trong hệ thống đã quyên góp trên 350 triệu đồng hỗ trợ đồng bào miền Trung khắc phục hậu quả trong cơn bão.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 2336,
+      "text": "Bên cạnh việc kiểm soát việc khai thác gián tiếp và sử dụng các nguồn lực tự nhiên, năm 2013, chúng tôi cũng chú trọng hơn đến vấn đề xả thải ra môi trường từ nguồn nước thải sinh hoạt trong quá trình vận hành của doanh nghiệp. Chúng tôi tăng cường vai trò của Ban Quản lý tòa nhà trong việc kiểm soát các chất thải của tòa nhà và xử lý chất thải nguy hại tới môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 2340,
+      "text": "Các đề xuất đưa ra trong Đề án này bao gồm các nội dung liên quan đến giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải. Trong dài hạn, chúng tôi sẽ tiến hành nâng cấp hệ thống xử lý nước thải, giảm thiểu tối đa ô nhiễm của dòng thải vào hệ thống xả thải chung của thành phố.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 2348,
+      "text": "Chúng tôi cũng thực hiện báo cáo định kỳ trong hoạt động quản lý tòa nhà, từ đó đưa ra các biện pháp xử lý nước thải phù hợp. Bảo Việt cũng đã được chứng nhận cấp phép xả nước thải vào lưu vực nguồn nước theo quy định tại QĐ số 35/2010/QĐ-UBND của TP. Hà Nội quy định về việc cấp phép khai thác tài nguyên nước, xả nước thải vào lưu vực nguồn nước tại Hà Nội.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 2885,
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo bằng việc áp dụng giả định tương đối thận trọng để tránh các biến động trong thực tiễn hoạt động. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 2888,
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảo Việt Nhân thọ đang sử dụng Bảng tỷ lệ tử vong CSO 1980.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 3371,
+      "text": "[TABLE] [CONTEXT] section: Bảng đánh giá rủi ro (Minh họa) ; caption: Mức độ rủi ro/Xu hướng trong bảng dưới đây chỉ có tính chất minh họa ; column_headers: STT | Loại rủi ro | Mức độ RR/ Xu hướng | Nhận diện/Tiêu chí xác định rủi ro | Các hành động xử lý thích hợp [ROWS] STT | Loại rủi ro | Mức độ RR/ Xu hướng | Nhận diện/Tiêu chí xác định rủi ro | Các hành động xử lý thích hợp [ROW] 1 | Rủi ro tín dụng | (*) [ROW] Đầu tư (Tiền gửi & Trái phiếu) | Rủi ro phát sinh từ việc gia tăng lượng tiền gửi quá hạn và/hoặc lãi tiền gửi không trả đúng theo thời hạn đã cam kết; trái phiếu không được thanh toán đúng ngày đáo hạn (đối với danh mục trái phiếu nắm giữ đến ngày đáo hạn), lãi coupon không thanh toán đúng hạn; thay đổi tiêu cực trong đánh giá phân loại của các tổ chức tín dụng. | Ban hành và thực thi chính sách về hạn mức tiền gửi tại các định chế tài chính để kiểm soát chặt chẽ hơn về rủi ro tín dụng. Giám sát chặt chẽ hạn mức tín dụng. [ROW] Tín dụng (bảo hiểm) | Rủi ro phát sinh từ việc gia tăng các khoản nợ phí bảo hiểm; tăng giá trị các khoản bồi thường bị quá hạn cần thu hồi từ các nhà nhận tái bảo hiểm (các nhà nhận tái bảo hiểm không thanh toán phần trách nhiệm đúng hạn); đánh giá tín nhiệm của các doanh nghiệp tái bảo hiểm khác thay đổi tiêu cực. | Ban hành và yêu cầu tuân thủ chặt chẽ quy trình gia hạn đóng phí bảo hiểm, việc nhượng tái bảo hiểm chỉ được thực hiện đối với các nhà bảo hiểm được xếp hạng tín dụng cao bởi các tổ chức xếp hạng có uy tín theo quy định hiện hành có liên quan. Đánh giá, theo dõi chặt chẽ tình hình tài chính của các nhà nhận tái bảo hiểm trong nước chưa được xếp hạng tín dụng. [ROW] Cho vay | Rủi ro từ việc tăng các khoản vay và/hoặc lãi vay quá hạn; thay đổi lớn trong điều kiện tài chính của bên đi vay (xảy ra với số lượng lớn các bên đi vay); cho vay ký quỹ (đối với công ty chứng khoán) khi giá trị cầm cố thấp hơn giá trị khoản vay chiếm tỷ trọng lớn. | Nâng cao công tác thẩm định đánh giá cấp tín dụng Phân loại và đánh giá khách hàng, phân loại khoản vay, tăng cường hệ thống phê duyệt và kiểm soát tín dụng. [ROW] 2 | Rủi ro bảo hiểm | Rủi ro từ việc tăng đột biến các khoản bồi thường chưa được tính tới khi tính toán phí bảo hiểm để giao kết hợp đồng bảo hiểm; xu hướng tăng các khoản bồi thường so với tỷ lệ bồi thường trong quá khứ (ví dụ: 3 năm gần nhất). Các khoản bồi thường lớn trên (ví dụ: 20 tỷ đồng) trong năm vừa qua. | Quy định chặt chẽ về thiết kế, định phí và quản lý sản phẩm, ban hành hạn mức khai thác bảo hiểm, rà soát điều kiện chấp nhận bảo hiểm đối với các sự kiện được bảo hiểm; chia sẻ các rủi ro có mức độ tác động lớn thông qua các hợp đồng tái bảo hiểm bảo vệ. Đầu tư phần mềm quản lý bảo hiểm. [ROW] 3 | Rủi ro thanh khoản | Rủi ro thiếu tài sản thanh khoản để đáp ứng nhu cầu thanh toán hiện tại như: tỷ lệ cho vay/dư nợ tín dụng > 100% (không tính khoản tiền gửi liên ngân hàng); chênh lệch lớn trong kế hoạch dòng tiền 12 tháng tới. | So sánh tài sản và nợ phải trả (loại tiền tệ, thời điểm đáo hạn, hình thức thanh toán). Xác định chính sách về thanh khoản phù hợp. Giám sát kế hoạch dự phòng. Rà soát thông tin hoạt động kinh doanh (sản phẩm, tài sản, thị trường) để xác định các tình huống gây áp lực thanh khoản. [ROW] 4 | Rủi ro thị trường [ROW] Cổ phiếu | Biến động tiêu cực giá trị cổ phiếu đang nắm giữ làm tăng các khoản dự phòng; tăng giá trị rủi ro (VaR) trên mức chấp nhận; tăng các khoản lỗ trong các tình huống phân tích kịch bản (Stress -testing). | Xây dựng hạn mức cho danh mục đầu tư theo từng loại tài sản, lĩnh vực đầu tư và thiết lập hệ thống kiểm soát để quản lý. Quản lý chặt chẽ kết quả hoạt động và biến động của danh mục đầu tư. Đánh giá, lựa chọn các cổ phiếu tốt để đầu tư. [ROW] Tỷ giá hối đoái | Biến động lớn về tỷ giá ngoại hối ảnh hưởng đến tài sản và kết quả kinh doanh; tăng danh mục chịu rủi ro tỷ giá. | Thực hiện kiểm tra bắt buộc đối với các loại biến động, thay đổi về tỷ giá hối đoái. [ROW] Lãi suất | Biến động lãi suất tác động đến kết quả đầu tư như việc giảm giá trái phiếu (đối với danh mục trái phiếu kinh doanh). | Thực hiện kiểm tra bắt buộc đối với các loại biến động lãi suất. [ROW] 5 Rủi ro hoạt động [ROW] Báo cáo và kiểm soát tài chính | Cung cấp các thông tin/báo cáo tài chính chậm so với quy định của các cơ quan chức năng hoặc các bên liên quan. Mắc lỗi khi báo cáo thông tin tài chính, có thể dẫn đến việc ra quyết định sai hoặc ảnh hưởng đến danh tiếng. | Tuân thủ nghiêm ngặt thời hạn báo cáo, công bố thông tin theo các quy định hiện hành có liên quan. [ROW] Pháp chế và tuân thủ | Nhận được cảnh báo từ các cơ quan chức năng hoặc bị xử phạt do không tuân thủ theo các quy định của pháp luật. Nhận được báo cáo/thông tin vi phạm từ bộ phận kiểm soát nội bộ hoặc các nguồn khác do không tuân thủ các quy định nội bộ | Tăng cường tính tuân thủ các quy định liên quan đến công tác pháp chế. [ROW] Con người | Ảnh hưởng đến hoạt động kinh doanh do thiếu hụt về kỹ năng làm việc/nhân sự như: số nhân viên nghỉ việc tăng (so với mức trung bình trong quá khứ); tăng số vị trí chưa tuyển dụng được. | Phân công trách nhiệm rõ ràng, phân bổ nguồn nhân lực phù hợp, đào tạo các kỹ năng làm việc chuyên nghiệp. Áp dụng phần mềm quản lý nhân sự (HR) và quản lý hiệu quả làm việc. [ROW] Hệ thống và thông tin | Hiệu quả hoạt động kinh doanh thấp do hệ thống không đáp ứng đủ các yêu cầu của công việc; các chức năng của hệ thống không đáp ứng đủ các yêu cầu hiện tại của công việc hoặc nhu cầu phát triển trong tương lai; hệ thống bị lỗi với tần suất lớn. | Đầu tư nâng cấp hệ thống. Phát triển và vận hành các phần mềm quản lý nghiệp vụ. [ROW] Quy trình và quy chế | Rủi ro từ việc áp dụng sai các quy trình, quy chế; các vấn đề tồn tại/lỗi trong các quy trình tác nghiệp bị phát hiện qua việc kiểm tra chất lượng, kiểm soát nội bộ, khiếu nại của khách hàng hoặc các nguồn thông tin khác. | Tăng cường hoạt động kiểm toán nội bộ, định kỳ đánh giá tuân thủ và kiểm soát chất lượng theo tiêu chuẩn ISO 9001:2008, ISO 27001-2005...",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 3372,
+      "text": "[TABLE] [CONTEXT] section: Tóm tắt mô hình sử dụng cho Việt Nam [ROWS] Thiên tai | Mô hình | Năm | Rủi ro đánh giá được | Rủi ro không đánh giá được [ROW] Bão | IF ATM v5 | 2010 | Gió, mưa - gây ra lũ lụt, bão [ROW] Động đất | RMS DLM v13.1 | 2007 | Địa chấn, sụt lún do động đất | Cháy do động đất, động đất, sóng thần [ROW] Động đất | AIR Clasic2 v15 | 2008 | Địa chấn | Cháy do động đất, động đất, sóng thần, sụt lún do động đất",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "G9": 0.5
+      },
+      "themes": [
+        "E3",
+        "G9"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "G9": 1
+      }
+    },
+    {
+      "paragraph_id": 3396,
+      "text": "[TABLE] [CONTEXT] section: BẢNG TUÂN THỦ (Tóm tắt) ; column_headers: GRI | Nội dung trong Báo cáo [ROWS] GRI | Nội dung trong Báo cáo [ROW] Các nội dung trọng yếu trong báo cáo | Các bên liên quan được xem là các đối tác quan trọng, phản hồi từ các đối tác này là nguồn thông tin quý giá để chúng tôi tiếp tục phát triển và củng cố hoạt động của doanh nghiệp. Qua những lần trao đổi, tiếp xúc, chúng tôi đã rút ra được các vấn đề được các bên quan tâm và tính trọng yếu của các vấn đề này đối với hoạt động của Bảo Việt. Đây cũng là cơ sở để chúng tôi xây dựng nội dung của báo cáo bền vững 2013. (Chi tiết xem phần Sự tham gia của các bên liên quan, trang 166) [ROW] Sự tham gia của các bên liên quan | Trong năm 2013, Bảo Việt đã tăng cường và chủ động xây dựng các mối quan hệ sâu và bền vững với khách hàng, cổ đông nhà đầu tư, cán bộ nhân viên...Vấn đề phát triển bền vững cũng được chúng tôi lồng ghép trong quá trình trao đổi tiếp xúc với các bên nhằm tăng cường nhận thức về vấn đề này cũng như để lắng nghe ý kiến của các bên đối với hoạt động của doanh nghiệp liên quan đến kinh tế - xã hội – môi trường. (Chi tiết xem phần Sự tham gia của các bên liên quan, trang 166) [ROW] Vai trò của HĐQT trong việc thiết lập mục tiêu, giá trị và chiến lược phát triển bền vững | Vấn đề phát triển bền vững được thực hiện xuyên suốt toàn Tập đoàn, từ cấp độ Hội đồng Quản trị đến Ban điều hành; các đơn vị thành viên và phòng ban chức năng của Bảo Việt. HĐQTcó các vai trò: Hoạch định mục tiêu chiến lược và định hướng phát triển bền vững; Đánh giá năng lực và cách thức triển khai liên quan đến vấn đề phát triển bền vững thông qua xây dựng chỉ tiêu đánh giá hiệu quả; Theo dõi, nắm bắt và chỉ đạo các vấn đề liên quan đến phát triển bền vững; Chỉ đạo thực hiện Báo cáo phát triển bền vững (Chi tiết xem phần Quản trị doanh nghiệp hướng tới phát triển bền vững, trang 159) [ROW] MỤC TIÊU KINH TẾ [ROW] Hiệu quả kinh tế | Bảo Việt đạt tăng trưởng và phát triển kinh tế bền vững và ổn định qua các năm. Trong giai đoạn 2009-2013, tốc độ tăng trưởng bình quân của doanh thu hợp nhất đạt 12,8%, của tài sản hợp nhất đạt 13,1%. [ROW] Các ảnh hưởng kinh tế gián tiếp | Thông qua việc đầu tư cơ sở hạ tầng cho đồng bào các tỉnh khó khăn, Bảo Việt muốn hỗ trợ người dân nơi đây yên tâm lao động sản xuất để nuôi sống bản thân và gia đình họ. Năm 2013, Bảo Việt đã đầu tư hơn 8 tỷ đồng cho hoạt động xóa đói giảm nghèo. Năm 2013, Bảo Việt đóng góp gần 22 tỷ đồng cho hoạt động An sinh xã hội, chi trả gần 1.021 tỷ đồng lợi tức cho cổ đông và đóng góp 803 tỷ đồng thuế vào Ngân sách nhà nước cũng như chi trả 73 tỷ đồng cho các nhà cung cấp dịch vụ tại địa phương. (Chi tiết xem thêm tại Xóa đói giảm nghèo, hỗ trợ đồng bào các tỉnh khó khăn trang 192) [ROW] MỤC TIÊU XÃ HỘI | Bảo Việt ưu tiên thực hiện mục tiêu đầu tư cho cộng đồng vì một cộng đồng phát triển an toàn và thịnh vượng là điều kiện quan trọng để doanh nghiệp kinh doanh trong lĩnh vực bảo hiểm, dịch vụ tài chính như Bảo Việt có thể tiếp tục tăng trưởng và phục vụ lâu dài.. [ROW] Trách nhiệm với người lao động | Tại Bảo Việt, chúng tôi luôn coi trọng mục tiêu cá nhân và khuyến khích người lao động phấn đấu hoàn thành mục tiêu của họ, đảm bảo hài hòa với mục tiêu của tổ chức. Bảo Việt tăng cường mức độ gắn bó của cán bộ thông qua chính sách lương và phúc lợi, thăng tiến, đào tạo bồi dưỡng, môi trường làm việc và văn hóa doanh nghiệp. [ROW] Đào tạo và giáo dục | Bảo Việt đã đào tạo được gần 5.000 lượt cán bộ, từng bước trang bị các kỹ năng và nâng cao những năng lực cơ bản và cốt lõi mang tính nền tảng cho đội ngũ cán bộ, nhân viên. Đồng thời, Bảo Việt đã cử cán bộ tham gia các chương trình Hội thảo ở nước ngoài, hướng đến mục tiêu hội nhập và tiếp cận các tiêu chuẩn quốc tế [ROW] Đa dạng và công bằng trong nắm bắt cơ hội; Khen thưởng công bằng không phân biệt giới tính | Chiến lược phát triển nguồn nhân lực của Bảo Việt tập trung xây dựng và phát triển đội ngũ chuyên gia giỏi trong các lĩnh vực then chốt, xây dựng môi trường làm việc hấp dẫn, chuyên nghiệp và thân thiện. Bảo Việt thực hiện quản lý và đánh giá người lao động theo năng suất và hiệu quả công việc, đem lại cơ hội công bằng cho tất cả các cán bộ trong quá trình làm việc, cống hiến và tạo điều kiện để họ phát huy năng lực tối đa. [ROW] Trách nhiệm với xã hội [ROW] Cộng đồng địa phương | Năm 2013, Bảo Việt đã dành gần 22 tỷ đồng cho các hoạt động cộng đồng. Đặc biệt, chúng tôi đẩy mạnh chuỗi chương trình “Kết nối yêu thương”, gắn kết các hoạt động của các đơn vị trong hệ thống, mang thương yêu đến người dân các vùng khó khăn. Các dự án đều có sự tham gia của cán bộ nhân viên Bảo Việt, nhằm gia tăng giá trị đóng góp cho Bảo Việt [ROW] Đánh giá hiệu quả | Năm 2013, Bảo Việt tiếp tục hoàn thiện nội dung Bảng đánh giá hiệu quả dự án cộng đồng (Score Matrix). Bảng đánh giá đề cập sâu hơn với các nội dung lượng hóa cụ thể để đánh giá rõ ràng hơn về hiệu quả của dự án đầu tư cộng đồng của Bảo Việt. [ROW] Trách nhiệm với khách hàng [ROW] Vì sức khỏe và an toàn của khách hàng | Là doanh nghiệp bảo hiểm và tài chính, các sản phẩm Bảo Việt đem lại sự an tâm cho khách hàng trước những rủi ro trong cuộc sống, chúng tôi mong muốn chia sẻ gánh nặng trước những bất trắc liên quan đến sức khỏe, tài sản của bản thân, gia đình và doanh nghiệp. [ROW] Truyền thông tiếp thị | Khi nhận thức về các sản phẩm bảo hiểm và dịch vụ tài chính tại thị trường Việt Nam vẫn chưa cao thì việc thông tin đầy đủ tới khách hàng về sản phẩm, giúp khách hàng hiểu rõ các quyền lợi và nghĩa vụ khi tham gia sản phẩm là trách nhiệm bắt buộc của của Bảo Việt. Một trong nguyên tắc quan trọng được quy định trong đạo đức nghề nghiệp của cán bộ bán hàng Bảo Việt đó là tư vấn đầy đủ, rõ ràng, và có trách nhiệm các nội dung trong Hợp đồng ký kết, không vì các lợi ích trước mắt mà gây ảnh hưởng đến quyền lợi cho khách hàng và doanh nghiệp. [ROW] Thực hiện theo Chiến lược Quốc gia về tăng trưởng xanh của Bộ Kế hoạch và Đầu tư đã công bố ngày 29/10, Bảo Việt tiếp tục đẩy mạnh các chuỗi hoạt động Baoviet GoGreen, hướng đến một công sở xanh và góp phần xây dựng môi trường xanh thông qua các hoạt động: [ROW] MỤC TIÊU MÔI TRƯỜNG | • Xanh hóa hoạt động kinh doanh: sử dụng tiết kiệm và hiệu quả tài nguyên • Xanh hóa lối sống và thúc đẩy tiêu dùng bền vững • Giảm cường độ phát thải khí nhà kính và thúc đẩy việc sử dụng năng lượng sạch, năng lượng tái tạo",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 5
+      }
+    },
+    {
+      "paragraph_id": 3498,
+      "text": "[TABLE] [CONTEXT] section: 37.1 Quản lý rủi ro bảo hiểm (tiếp theo) ; column_headers: Thay đổi biến % | Thay đổi nghĩa vụ được bảo hiểm (triệu VNĐ) | Ảnh hưởng đến nguồn vốn (triệu VNĐ) ; row_headers: Tỷ lệ chiết khấu | Tỷ lệ tử vong [ROWS] Thay đổi biến % | Thay đổi nghĩa vụ được bảo hiểm (triệu VNĐ) | Ảnh hưởng đến nguồn vốn (triệu VNĐ) [ROW] Ngày 31 tháng 12 năm 2013 [ROW] Tỷ lệ chiết khấu | +0.25 | (244.194) | 183.146 [ROW] Tỷ lệ chiết khấu | -0.25 | 287.450 | (215.588) [ROW] Tỷ lệ tử vong | +10 | 6.997 | (5.248) [ROW] Tỷ lệ tử vong | -10 | (6.150) | 4.613 [ROW] Tỷ lệ tử vong | +20 | 14.682 | (11.012) [ROW] Tỷ lệ tử vong | -20 | (11.441) | 8.581 [ROW] Ngày 31 tháng 12 năm 2012 [ROW] Tỷ lệ chiết khấu | +0.25 | (255.053) | 191.290 [ROW] Tỷ lệ chiết khấu | -0.25 | 214.277 | (160.708) [ROW] Tỷ lệ tử vong | +10 | 6.693 | (5.020) [ROW] Tỷ lệ tử vong | -10 | (6.093) | 4.570 [ROW] Tỷ lệ tử vong | +20 | 14.125 | (10.594) [ROW] Tỷ lệ tử vong | -20 | (11.584) | 8.688",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 9
+      }
+    }
+  ]
+}

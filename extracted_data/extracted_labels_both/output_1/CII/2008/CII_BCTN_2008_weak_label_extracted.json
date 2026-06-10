@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 11,
+      "text": "Để đạt được những kết quả nêu trên, Công ty đã không ngừng kiện toàn bộ máy và cải tiến công tác quản lý và luôn xây dựng tinh thần đoàn kết giữa HĐQT, Ban kiểm soát, BĐH và toàn thể CBNV Công ty. Ngoài nỗ lực của bản thân Công ty, sự qua tâm giúp đỡ của lãnh đạo Thành phố và các tỉnh bạn cũng như sự hợp tác của các đối tác trong thời gian qua là vô cùng quan trọng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

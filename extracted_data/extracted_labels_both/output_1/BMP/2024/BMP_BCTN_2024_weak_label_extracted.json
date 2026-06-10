@@ -1,0 +1,249 @@
+{
+  "extracted_count": 13,
+  "extracted": [
+    {
+      "text": " C Công trình xanh: Năm 2024, BMP vinh dự nhận Chứng nhận Lotus Việt Nam từ Hiệp hội Xây dựng Việt Nam, khẳng định sản phẩm đáp ứng các tiêu chí của công trình xanh, góp phần thúc đẩy sự phát triển bền vững của ngành xây dựng. Đồng thời, BMP cam kết sẽ là doanh nghiệp đầu tiên và duy nhất trong ngành Nhựa vật liệu xây dựng Việt Nam đạt chứng nhận Sản phẩm Xanh Singapore (SGBP) ở mức cao nhất – Dẫn đầu (Leader) cho dòng sản phẩm ống và phụ tùng ống PVC-U và PP-R.",
+      "hard_labels": [
+        "E3",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E3": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": " V Về khí thải: Công ty đang triển khai thực hiện quy định về kiểm toán khí nhà kính phát thải đối với tất cả các hoạt động sản xuất kinh doanh tại Công ty theo đúng quy định và lộ trình theo quy định của Chính phủ. Công ty đã đầu tư các trang thiết bị nhằm hạn chế phát thải bụi và đã phát huy hiệu quả rõ rệt. Các kết quả đo kiểm môi trường vi khí hậu đều thấp (tốt) hơn rất nhiều so với quy định cho phép của pháp luật hiện hành.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "G9": 0.5
+      },
+      "themes": [
+        "E1",
+        "G9"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "G9": 1
+      }
+    },
+    {
+      "text": " Tu Tuân thủ nghiêm túc quy định công bố thông tin: Trong năm 2024, Công ty không có trường hợp nào vi phạm quy định công bố thông tin hoặc bị cơ quan quản lý nhắc nhở.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": " M Mức lương khởi điểm so với mức lương tối thiểu: Mức lương khởi điểm của Nhựa Bình Minh tại các địa phương luôn cao hơn mức lương tối thiểu vùng. Điều này thể hiện cam kết của công ty trong việc đảm bảo thu nhập ổn định và công bằng cho người lao động.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": " P Phát triển sản phẩm thân thiện với môi trường: Ứng dụng thành công các loại vật liệu thân thiện với môi trường trong sản xuất các sản phẩm ống nhựa dẫn nước uống và sinh hoạt, đạt chứng nhận WRAS (Vương Quốc Anh), Nhãn Xanh Singapore và LOTUS, khẳng định chất lượng và sự an toàn khi sử dụng cho nước uống, đồng thời góp phần giảm tiêu thụ tài nguyên nguyên sinh.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": " G Giảm phát thải khí nhà kính: Tổng mức giảm phát thải khí nhà kính của BMP đạt 1.114 tấn CO 2 -eq, trong đó:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "text": " T Thu gom và xử lý: Hiện tại, Công ty không có hệ thống xử lý chất thải nội bộ tại nhà máy. Toàn bộ chất thải được thu gom và chuyển giao cho đơn vị có đủ năng lực và giấy phép theo quy định. Riêng chất thải nguy hại được kiểm soát chặt chẽ, chỉ hợp tác với đơn vị được cấp phép.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": " X Xử lý chất thải nguy hại: Tổng lượng chất thải nguy hại được thu gom và và xử lý trong năm 2024 là 57,474 tấn. Toàn bộ chất thải nguy hại được chuyển giao cho các đơn vị xử lý có đủ năng lực và giấy phép theo quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "100% sản phẩm không phù hợp được tái chế, không phát sinh chất thải nhựa ra môi tr không phát sinh chất thải nhựa ra môi trường",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": " Cam kết về nhân quyền: Công ty tuyệt đối không sử dụng lao động trẻ em, lao động cưỡng bức hoặc bắt buộc dưới bất kỳ hình thức nào, đồng thời duy trì môi trường làm việc tôn trọng sự đa dạng về giới tính, tôn giáo, quan điểm chính trị, tuổi tác hoặc bất kỳ yếu tố cá nhân nào khác.",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Các cuộc họp của Ban Kiểm soát ; column_headers: STT Phiên họp | Số thành viên tham gia | Nội dung chính [ROWS] STT Phiên họp | Số thành viên tham gia | Nội dung chính [ROW] 1 25/6/2024 | 3/3 |  C Cập nhật kết quả kinh doanh Quý I/2024  X Xem xét các khoản nợ quá hạn hiện tại và kế hoạch xử lý  X Xem xét các khuyến nghị của đoàn IA SCG  X Xem xét quy định nội bộ liên quan đến bảo mật thông tin [ROW] 2 24/12/2024 | 3/3 |  C Cập nhật các khoản nợ quá hạn hiện tại và kế hoạch xử lý  X Xem xét quy định nội bộ về thẩm quyền phê duyệt và mua hàng  X Xem xét báo cáo tổng thể về rủi ro hoạt động và tuân thủ",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CÔNG TÁC QUẢN TRỊ CÔNG TY Ể QỊ THEO THẺ ĐIỂM QTCT ASEAN (tiếp theo) ; column_headers: STT | Tiêu chí đánh giá | Tính tuân thủ tại BMP | Cơ sở đánh giá năm 2024 [ROWS] STT | Tiêu chí đánh giá | Tính tuân thủ tại BMP | Cơ sở đánh giá năm 2024 [ROW] B.2.2 | Thông báo và tài liệu ĐHĐCĐ gần nhất có được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu theo ngôn ngữ địa phương? | Tài liệu họp ĐHĐCĐ thường niên 2024 được công bố thông tin song song hai ngôn ngữ (Việt - Anh) [ROW] Các thông báo/ thông tư của ĐHĐCĐ có các nội dung sau: [ROW] B.2.3 | Có cung cấp tiểu sử của thành viên/ ủy viên HĐQT sẽ được bầu chọn/bầu chọn lại (tối thiểu là tuổi, trình độ đào tạo, chuyên môn, ngày bổ nhiệm đầu tiên, kinh nghiệm, và vị trí thành viên HĐQT đang tại vị trong các công ty niêm yết khác)? | Thể hiện trong tài liệu họp ĐHĐCĐ thường niên 2024 và BCTN 2024 [ROW] B.2.4 | Kiểm toán viên/công ty kiểm toán chuẩn bị được bầu chọn/bầu chọn lại có được xác định rõ ràng? | Thể hiện trong tài liệu họp ĐHĐCĐ thường niên 2024 [ROW] B.2.5 | Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng? | Giấy ủy quyền tham dự ĐHĐCĐ thường niên 2024 được công bố rộng rãi trên website công ty và gửi đến cổ đông. [ROW] B.3 Giao dịch nội gián và hành vi lạm dụng kinh doanh để tư lợi [ROW] B.3.1 | Công ty có chính sách hoặc quy định cấm Thành viên Hội đồng quản trị và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | Quy định tại Điều lệ Công ty và Nội quy lao động của Công ty [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | BMP cam kết tuân thủ theo quy định công bố thông tin hiện hành trên thị trường. [ROW] B.4 Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao [ROW] B.4.1 | Công ty có chính sách yêu cầu Thành viên Hội đồng quản trị công bố lợi ích liên quan trong các giao dịch và mọi xung đột lợi ích với Công ty không? | Quy định tại Điều lệ Công ty [ROW] B.4.2 | Công ty có chính sách yêu cầu một tiểu ban bao gồm thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/ quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông không? | Ủy ban Quản trị rủi ro và Kiểm soát nội bộ, với sự tham gia của một thành viên HĐQT độc lập trong năm 2024, đã rà soát và đưa ra ý kiến nhằm đảm bảo chặt chẽ các giao dịch với bên liên quan. [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Hiện tại, Công ty chưa có chính sách cụ thể về việc thành viên HĐQT vắng mặt trong các cuộc họp liên quan đến giao dịch có xung đột lợi ích. Tuy nhiên, Công ty tuân thủ quy định về việc thành viên HĐQT không được biểu quyết đối với các giao dịch có liên quan đến bản thân hoặc bên liên quan",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.5,
+        "G10": 1.0,
+        "G11": 0.5,
+        "S4": 0.5
+      },
+      "themes": [
+        "E3",
+        "G10",
+        "G11",
+        "S4"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 3,
+        "G11": 1,
+        "S4": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: NGƯỜI TIÊU DÙNG TRỰC TIẾP VÀ GIÁN TIẾP ; column_headers: Mối quan tâm, chủ đề chính | Phương thức tiếp cận | Hành động của BMP đáp ứng kỳ vọng của bên liên quan [ROWS] Mối quan tâm, chủ đề chính | Phương thức tiếp cận | Hành động của BMP đáp ứng kỳ vọng của bên liên quan [ROW]  Đ Đảm bảo chất lượng sản phẩm bền vững, đáng tin cậy, đáp ứng tiêu chuẩn, quy chuẩn theo quy định.  T Thông tin sản phẩm rõ ràng, minh bạch.  S Sản phẩm đa dạng, đáp ứng nhu cầu khách hàng.  S Sản phẩm an toàn cho sức khỏe, thân thiện môi trường. |  T Thực hiện khảo sát nghiên cứu nhu cầu người tiêu dùng, nhằm nắm bắt xu hướng thị trường và đáp ứng tốt hơn kỳ vọng của khách hàng.  T Thông qua hệ thống tổng đài điện thoại và email của Bộ phận chăm sóc khách hàng để tiếp nhận các phản hồi, ý kiến từ người tiêu dùng. |  Đ Đảm bảo tính nhất quán về chất lượng sản phẩm cung cấp ra thị trường, đáp ứng các tiêu chuẩn cao nhất về an toàn và hiệu quả sử dụng.  T Thường xuyên thực hiện nghiên cứu thị trường để kịp thời nắm bắt nhu cầu người tiêu dùng, từ đó điều chỉnh chiến lược sản phẩm phù hợp.  B BMP cam kết trong dài hạn không sử dụng nguyên liệu độc hại, có mức phát thải cao (không sử dụng nguyên liệu PVC có nguồn gốc từ than và acetylene) nhằm bảo vệ sức khỏe người tiêu dùng và môi trường.  B BMP có hệ thống quản lý ghi nhận ý kiến khách hàng chuyên nghiệp, đảm bảo phản hồi kịp thời và mang lại sự hài lòng cho khách hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

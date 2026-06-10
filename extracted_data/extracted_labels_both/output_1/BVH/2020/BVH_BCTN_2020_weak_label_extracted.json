@@ -1,0 +1,244 @@
+{
+  "extracted_count": 13,
+  "extracted": [
+    {
+      "text": "Rõ ràng các hoạt động của con người đã gây tác động rộng rãi hơn lên cả hành tinh, làm suy thoái các hệ sinh thái tự nhiên, cạn kiệt các nguồn tài nguyên thiên nhiên, đa dạng sinh học, gây ô nhiễm không khí, nước, đất..., và đặc biệt đã làm cho khí hậu toàn cầu bị biến đổi. Bão tố, lũ lụt, hạn hán bất thường đang tăng dần lên, cả về tần số và mức độ, gây thiệt hại về nhiều mặt ở tất cả các vùng trên thế giới, trong đó có Việt Nam.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E_COMMON": 0.5,
+        "G9": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E_COMMON": 1,
+        "G9": 2
+      }
+    },
+    {
+      "text": "Việc chuyển đổi sang nền kinh tế tuần hoàn là một cơ hội lớn để phát triển bền vững, không chỉ đạt mục tiêu kinh tế, xã hội, môi trường mà còn ứng phó với biến đổi khí hậu. Các nghiên cứu gần đây chỉ ra rằng áp dụng các mô hình kinh doanh theo định hướng kinh tế tuần hoàn có thể mở ra cơ hội thị trường khổng lồ trị giá 4,5 nghìn tỷ USD vào năm 2030, tạo ra hàng trăm triệu việc làm mới, mang đến những lợi thế cạnh tranh chưa từng có cho doanh nghiệp thông qua việc giảm bớt các rủi ro đến từ việc khan hiếm tài nguyên biến động giá nguyên vật liệu, giúp doanh nghiệp đón đầu các chính sách mới của các cơ quan quản lý trong tương lai.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Trong nền kinh tế tuần hoàn, các nhà sản xuất chú trọng kéo dài thời hạn và tận dụng tối đa giá trị sử dụng của tài nguyên, sau đó quản lý và tái tạo những sản phẩm và tài nguyên này vào cuối vòng đời sử dụng. Như vậy, việc áp dụng mô hình kinh tế tuần hoàn sẽ giúp giảm phát thải, thúc đẩy sử dụng hiệu quả nguồn tài nguyên, góp phần giải quyết các vấn đề về khan hiếm và bảo tồn tài nguyên, đồng thời hỗ trợ nâng cao năng lực cạnh tranh cho nền kinh tế thế giới và Việt Nam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Song song với các hoạt động thúc đẩy kinh doanh, Tổng Công ty Bảo hiểm Bảo Việt cũng luôn đi đầu trong việc tạo dựng môi trường làm việc chuyên nghiệp, thân thiện, mang đến cơ hội phát triển, thăng tiến và chế độ đãi ngộ tốt đối với toàn thể hơn 3.000 cán bộ nhân viên của Bảo hiểm Bảo Việt. Xuất phát từ việc luôn luôn lắng nghe để thấu hiểu những quan tâm của nhân viên, Bảo hiểm Bảo Việt đã xây dựng một tiêu chuẩn mới về nơi làm việc lý tưởng, nơi mà tất cả nhân viên nhận được cam kết quan tâm toàn diện và phát triển tối đa trong một lộ trình nghề nghiệp cá nhân, tương thưởng xứng đáng cho những đóng góp, thông qua những trải nghiệm đa dạng, những thử thách trong công việc, cơ hội học hỏi để hoàn thiện và phát triển bản thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Năm 2020 là một năm có nhiều biến động với người dân trên toàn thế giới, trong đó có Việt Nam. Dịch bệnh bùng phát đã ảnh hưởng không nhỏ đến đời sống, sức khỏe của cả xã hội. Nhằm nâng cao nhận thức của người dân trong việc chủ động bảo vệ sức khỏe của bản thân và gia đình, Bảo Việt Nhân thọ tiếp tục phối hợp với Đại Sứ quán Ấn Độ tổ chức Ngày Quốc tế Yoga. Thông qua chủ đề \"YOGA - Refresh your life\", Yoga cho Khởi đầu mới, Bảo Việt Nhân thọ mong muốn lan toả thông điệp sống chủ động, lạc quan để sẵn sàng đương đầu với mọi thách thức. Hơn 5.000 người yêu mến bộ môn Yoga tại Vĩnh Phúc, Quảng Ninh, Phú Yên, ... đã cùng Bảo Việt Nhân thọ trở thành đại sứ lan tỏa tinh thần, năng lượng tích cực, sẵn sàng đối phó với dịch bệnh. Chương trình được tổ chức đảm bảo quy định phòng chống dịch bệnh, an toàn cho người tham gia.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Kiểm tra - Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro để thực hiện các hoạt động kiểm toán, theo đó Kiểm tra - Kiểm toán nội bộ căn cứ vào kết quả đánh giá rủi ro để xác định mục tiêu, đối tượng kiểm toán, phạm vi kiểm toán và cách thức thực hiện kiểm toán.",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "text": "Bên cạnh đó, Đề án bảo vệ môi trường của Bảo Việt tiếp tục được triển khai tại các Tòa nhà của Bảo Việt. Đề án này bao gồm các nội dung liên quan đến giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Năm 2020 là một năm có nhiều biến động với người dân trên toàn thế giới, trong đó có Việt Nam. Dịch bệnh bùng phát đã ảnh hưởng không nhỏ đến đời sống, sức khỏe của cả xã hội. Nhằm nâng cao nhận thức của người dân trong việc chủ động bảo vệ sức khỏe của bản thân và gia đình, năm 2020, Bảo Việt Nhân thọ tiếp tục phối hợp với Đại Sứ quán Ấn Độ tổ chức Ngày Quốc tế Yoga. Thông qua chủ đề \"YOGA - Refresh your life\", Yoga cho Khởi đầu mới, Bảo Việt Nhân thọ mong muốn lan toả thông điệp sống chủ động, lạc quan để sẵn sàng đương đầu với mọi thách thức. Hơn 5.000 người yêu mến bộ môn Yoga tại Vĩnh Phúc, Quảng Ninh, Phú Yên, ... đã cùng Bảo Việt Nhân thọ trở thành đại sứ lan tỏa tinh thần, năng lượng tích cực, sẵn sàng đối phó với dịch bệnh. Chương trình được tổ chức đảm bảo quy định phòng chống dịch bệnh, an toàn cho người tham gia.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Với truyền thống tương thân tương ái, từ năm 2013, chương trình hiến máu tình nguyện của Bảo Việt được tổ chức với mong muốn góp phần tiếp thêm niềm tin, tinh thần lạc quan cho các bệnh nhân cần truyền máu. Chương trình luôn nhận được sự ủng hộ nhiệt tình của các cán bộ, tư vấn viên đối với một nghĩa cử cao đẹp, thể hiện lòng nhân ái và trách nhiệm của mỗi cá nhân với cộng đồng. Tính đến nay, chương trình hiến máu tình nguyện \"Bảo Việt - Vì những niềm tin của bạn\" đã đóng góp được 2.700 đơn vị máu, góp phần cùng cộng đồng cung cấp kịp thời nguồn máu, đem lại sự sống cho nhiều bệnh nhân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÁC CẤU PHẦN CỦA HỆ THỐNG KIỂM SOÁT NỘI BỘ TẬP ĐOÀN BẢO VIỆT VÀ ỂỂ Ệ Ộ ĐÁNH GIÁ CỦA KIỂM TRA - KIỂM TOÁN NỘI BỘ ; column_headers: Cấu phần và nguyên tắc | Đánh giá của Kiểm toán nội bộ | Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận [ROWS] Cấu phần và nguyên tắc | Đánh giá của Kiểm toán nội bộ [ROW] Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận [ROW] 4. Cam kết thu hút, phát triển và duy trì các cán bộ có năng lực phù hợp với mục tiêu của Tập đoàn | Ban hành và thống nhất áp dụng Quy chế tuyển dụng nhân sự, Quy chế đào tạo, Quy chế bổ nhiệm, Quy chế luân chuyển cán bộ, Quy chế trả lương, Quy định về quản lý hiệu quả làm việc... [ROW] 5. Đảm bảo các cá nhân chịu trách nhiệm đối với kiểm soát nội bộ trong việc thực hiện mục tiêu | Tham chiếu nguyên tắc 2 và 3. [ROW] TÊN CẤU PHẦN: ĐÁNH GIÁ RỦI RO [ROW] 6. Xác định rõ các mục tiêu, làm cơ sở cho việc nhận diện và đánh giá các rủi ro liên quan đến mục tiêu | Ban hành Chiến lược quản lý rủi ro và thiết lập mục tiêu quản lý rủi ro hàng năm xuyên suốt từ Tập đoàn đến các Công ty con để đảm bảo hỗ trợ cho việc nhận diện, đánh giá, xử lý các rủi ro và đảm bảo tính gắn kết giữa mục tiêu và rủi ro ở mọi cấp độ (chiến lược, hàng năm, toàn Tập đoàn, từng đơn vị thành viên, từng bộ phận, quy trình, cá nhân). [ROW] 7. Nhận diện rủi ro liên quan đến việc hoàn thành mục tiêu xuyên suốt toàn Tập đoàn và phân tích rủi ro làm cơ sở cho việc xác định cách thức quản lý rủi ro | Ban hành Quy chế quản lý rủi ro nhằm nhận diện, kiểm soát và báo cáo về các rủi ro chính, bao gồm: rủi ro bảo hiểm, rủi ro hoạt động, rủi ro thị trường, rủi ro tín dụng, rủi ro thanh khoản, rủi ro danh tiếng, rủi ro chiến lược, rủi ro phát triển bền vững; Quy chế quản lý rủi ro quy định rõ cơ cấu tổ chức, quyền hạn và trách nhiệm của các cấp trong công tác quản lý rủi ro; cách thức nhận diện các rủi ro trọng yếu và các chuẩn mực quản trị rủi ro trong hoạt động kinh doanh của Tập đoàn Bảo Việt và các Công ty con Ban hành Chính sách quản lý rủi ro, Tuyên bố khẩu vị rủi ro và hạn mức rủi ro chủ yếu của Tập đoàn Bảo [ROW] 8. Xem xét nguy cơ gian lận khi đánh giá rủi ro liên quan đến việc hoàn thành các mục tiêu | Rủi ro gian lận là một trong số các loại rủi ro được nhận diện, đánh giá trong Quy chế quản lý rủi ro, Chính sách quản lý rủi ro. [ROW] 9. Nhận diện và đánh giá các thay đổi có thể ảnh hưởng đáng kể đến hệ thống kiểm soát nội bộ | Các vấn đề liên quan đến rủi ro (ví dụ: các yếu tố tác động từ môi trường bên ngoài như chính sách, cơ chế, chính trị...) được phản ánh trong các Báo cáo Ban điều hành đồng thời được phân tích, đánh giá và xử lý tại các cuộc họp định kỳ của Hội đồng Quản lý rủi ro (RMC) và Ủy ban Tài sản Nợ - Tài sản có (ALCO). [ROW] TÊN CẤU PHẦN: HOẠT ĐỘNG KIỂM SOÁT [ROW] 10. Lựa chọn và phát triển các hoạt động kiểm soát nhằm giảm thiểu rủi ro ở mức độ có thể chấp nhận được | Các biện pháp kiểm soát được thiết lập và vận hành đối với mọi hoạt động tại tất cả các cấp, được lồng ghép trong các tác nghiệp hàng ngày ở tất cả các quy trình nghiệp vụ. [ROW] 11. Lựa chọn và phát triển các hoạt động kiểm soát chung về công nghệ thông tin để hỗ trợ thực hiện các mục tiêu | Các loại hình kiểm soát chính bao gồm: Kiểm soát định hướng, Kiểm soát phòng ngừa, Kiểm soát phát hiện; Kiểm soát thủ công, Kiểm soát tự động. Trong đó kiểm soát tự động thông qua hệ thống CNTT đóng vai trò quan trọng nhằm hạn chế sai sót và tác động của con người tới hiệu quả của kiểm toán. [ROW] 12. Triển khai các hoạt động kiểm soát thông qua các chính sách và thủ tục | Các biện pháp kiểm soát chính bao gồm: rà soát kết quả hoạt động của Ban điều hành cấp cao, từng phòng ban; thẩm định, phê duyệt; phân tích các chỉ số KPIs...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Đánh giá chung về thực hành quản trị công ty trong năm 2020 của Tập đoàn Bảo Việt được ghi nhận như sau: ; column_headers: VỀ ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROWS] VỀ ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] Thông báo và tài liệu họp ĐHĐCĐ | • Công bố thông báo họp và các tài liệu liên quan song ngữ Anh – Việt trên website của Bảo Việt; • Cung cấp đầy đủ cơ sở, thông tin và giải trình cho các vấn đề trình ĐHĐCĐ thông qua tại Đại hội; [ROW] Công bố thông tin về ứng viên HĐQT, chính sách chi trả cổ tức | Công bố đầy đủ trong tài liệu ĐHĐCĐ và Báo cáo thường niên. [ROW] Chất lượng và thời gian công bố tài liệu ĐHĐCĐ bằng tiếng Anh | Thông báo và tài liệu ĐHĐCĐ gần nhất đã được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu tiếng Việt. [ROW] Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao | Công ty chưa có quy định yêu cầu phải có một tiểu ban bao gồm các thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông. Công ty chưa có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích, chỉ không. [ROW] Công ty quy định tại Điều lệ và Quy chế quản trị yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CHI TIẾT VỀ THỰC HÀNH QUẢN TRỊ CÔNG TY CỦA TẬP ĐOÀN Ể ỰỊ Ậ BẢO VIỆT THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: PHẦN B - ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG | Mã | Tiêu chí | Tình hình tuân thủ tại Bảo Việt | Ghi chú/Đề xuất cải thiện [ROWS] PHẦN B - ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] Mã | Tiêu chí | Tình hình tuân thủ tại Bảo Việt | Ghi chú/Đề xuất cải thiện [ROW] Thông báo của ĐHĐCĐ có những chi tiết sau không: [ROW] B.2.3 | Tài liệu ĐHĐCĐ có công bố tiểu sử của các ứng cử viên cho HĐQT (bao gồm các thông tin: tuổi, bằng cấp, lần bổ nhiệm đầu tiên, kinh nghiệm, và các vị trí HĐQT đang nắm giữ tại các công ty niêm yết khác). | Bảo Việt đã thực hiện công bố SYLL của ứng viên. [ROW] B.2.4 | Kiểm toán viên/công ty kiểm toán chuẩn bị được bầu chọn/ bầu chọn lại có được xác định rõ ràng? | Bảo Việt thực hiện tốt nội dung này theo Tờ trình ĐHĐCĐ về việc phê duyệt danh sách các công ty kiểm toán độc lập. [ROW] B.2.5 | Giấy ủy quyền ĐHĐCĐ được cung cấp dễ dàng | Đính kèm Thông báo Họp ĐHĐCĐ gửi cổ đông và up lên website Bảo Việt [ROW] B.3 | Phải cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] B.3.1 | Công ty có chính sách và/hoặc quy định cấm thành viên HĐQT và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài | Quy định tại Quy chế quản trị công ty và Quy tắc ứng xử và đạo đức nghề nghiệp [ROW] B.3.2 | Thành viên HĐQT được yêu cầu báo cáo về giao dịch cổ phiếu của họ trong vòng 3 ngày làm việc. | Bảo Việt đã thực hiện tiêu chí này theo quy định tại Thông tư 96/2020/TT-BTC. [ROW] B.4 | Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty không? | Quy định tại Điều lệ và Quy chế quản trị Tập đoàn [ROW] B.4.2 | Công ty có quy định yêu cầu phải có một tiểu ban bao gồm các thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông không? | Theo quy định tại Điều 31 của Điều lệ hiện hành của Tập đoàn Bảo Việt, HĐQT có thể thành lập các uỷ ban trực thuộc để hỗ trợ hoạt động của HĐQT. Thành viên của ủy ban có thể gồm một hoặc nhiều thành viên của HĐQT và một hoặc nhiều thành viên bên ngoài theo quyết định của HĐQT. HĐQT sẽ nghiên cứu việc thành lập/có một tiểu ban có chức năng rà soát GDBLQ trong đó có sự tham gia của TV HĐQT độc lập. [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích | Theo quy định tại Điều 30.11 của Điều lệ hiện hành của TĐBV, TV HĐQT không được biểu quyết về các hợp đồng, các giao dịch hoặc đề xuất mà thành viên đó hoặc người liên quan tới thành viên đó có lợi ích và lợi ích đó mâu thuẫn hoặc có thể mâu thuẫn với lợi ích của Tập đoàn. TV HĐQT không được tính vào tỷ lệ thành viên tối thiểu có mặt để có thể tổ chức cuộc họp HĐQT về những quyết định mà thành viên đó không có quyền biểu quyết.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ CHI TIẾT VỀ THỰC HÀNH QUẢN TRỊ CÔNG TY CỦA TẬP ĐOÀN Ể ỰỊ Ậ BẢO VIỆT THEO THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: Mã | Tiêu chí | Tình hình tuân thủ tại Bảo Việt | Ghi chú/Đề xuất cải thiện [ROWS] Mã | Tiêu chí | Tình hình tuân thủ tại Bảo Việt | Ghi chú/Đề xuất cải thiện [ROW] C.1.5 | Công bố chính sách và các thực hành phòng chống tham nhũng của công ty? | Bảo Việt đã ban hành Quy tắc ứng xử và Quy chế Phòng chống rửa tiền. [ROW] C.1.6 | Công bố chính sách và các thực hành, mô tả cách thức bảo vệ quyền lợi của chủ nợ? | Đã ban hành bản tiếng Anh và tiếng Việt quy chế trên website. [ROW] C.1.7 | Công ty có viết báo cáo/nội dung riêng mô tả các nỗ lực về các vấn đề về môi trường/kinh tế và xã hội? | Bảo Việt sử dụng nguồn vốn chủ sở hữu cho các hoạt động kinh doanh. [ROW] C.2 | Khi lợi ích của các bên có quyền lợi liên quan được pháp luật bảo vệ, các bên có quyền lợi liên quan phải có cơ hội được khiếu nại hiệu quả khi quyền lợi của họ bị vi phạm [ROW] C.2.1 | Công ty có cung cấp thông tin liên hệ trên website của công ty hay Báo cáo thường niên để các bên có quyền lợi liên quan (vd: khách hàng, nhà cung cấp, công chúng...) có thể sử dụng để lên tiếng về lo ngại và/hoặc khiếu kiện về những vi phạm có thể xảy ra đối với quyền lợi của họ | Bảo Việt đã nêu rõ đầu mối liên lạc và bộ phận Quan hệ cổ đông trên Báo cáo thường niên và website Tập đoàn. [ROW] C.3 | Cơ chế nâng cao hiệu quả tham gia của người lao động cần được phép xây dựng [ROW] C.3.1 | Công ty có công bố rõ ràng chính sách và thực hành, nỗ lực về sức khỏe, an toàn, và phúc lợi cho nhân viên? | Bảo Việt đã nêu rõ trong BCTN và Báo cáo phát triển bền vững hàng năm [ROW] C.3.2 | Công ty có công bố rõ ràng chính sách và thực hành, nỗ lực về các chương trình đào tạo và phát triển cho nhân viên? [ROW] C.3.3 | Công ty có chính sách khen thưởng gắn với hiệu quả hoạt động của công ty trong dài hạn hơn là trong ngắn hạn? | Công ty đã thực hiện ESOP cho toàn thể cán bộ nhân viên trong Quý I/2018, hạn chế chuyển nhượng đến tháng 5/2021. [ROW] C.4 | Các bên có quyền lợi liên quan, bao gồm cả người lao động và tổ chức đại diện cho họ, phải được tự do truyền đạt những lo ngại của họ về những việc làm không hợp pháp hoặc không phù hợp đạo đức lên HĐQT và việc này không được ảnh hưởng tới quyền lợi của họ. [ROW] C.4.1 | Công ty có chính sách tố giác bao gồm quy trình khiếu nại dành cho nhân viên và các bên liên quan về hành vi không hợp pháp (kể cả tham nhũng) hoặc không phù hợp đạo đức và cung cấp thông tin liên hệ khiếu nại chi tiết được đề cập trên trang web công ty hoặc báo cáo thường niên? | Quy định tại Quy tắc ứng xử và đạo đức nghề nghiệp. Đã upload bản Tiếng Anh và tiếng Việt Quy tắc ứng xử và đạo đức nghề nghiệp trên website của Công ty. [ROW] C.4.2 | Công ty có chính sách hay thủ tục để bảo vệ nhân viên/cá nhân khỏi bị trả đũa vì đã tiết lộ hành vi không hợp pháp/ không phù hợp đạo đức? | Cần xây dựng quy trình cụ thể và chính sách bảo vệ người tố giác.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

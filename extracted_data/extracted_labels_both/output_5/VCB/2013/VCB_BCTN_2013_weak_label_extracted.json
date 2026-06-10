@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: (c) Chính sách quản lý rủi ro liên quan đến các công cụ tài chính (tiếp theo) ; column_headers: Nợ quá hạn trên 3 tháng | Nợ quá hạn đến 3 tháng | Nợ trong hạn | Đến 1 tháng | Tổng cộng | Từ 1 đến 3 tháng | Từ 3 đến 12 tháng | Từ 1 đến 5 năm | Trên 5 năm | Triệu VNĐ ; row_headers: I Tiền mặt, vàng bạc, đá quý | II Tiền gửi tại Ngân hàng Nhà nước Việt Nam | III Tiền, vàng gửi và cho vay các tổ chức tín dụng khác – gộp | IV Chứng khoán kinh doanh – gộp | V Các công cụ tài chính phái sinh và các tài sản tài chính khác | VI Cho vay và ứng trước khách hàng – gộp | VII Chứng khoán đầu tư – gộp | VIII Góp vốn đầu tư dài hạn – gộp | IX Tài sản cố định | XI Tài sản Có khác – gộp | Tổng tài sản | I, II Tiền gửi của và vay từ NHNN và các tổ chức tín dụng khác | III Tiền gửi của khách hàng | VI Phát hành giấy tờ có giá | VII Các khoản nợ khác | Tổng nợ phải trả | Mức chênh thanh khoản ròng [ROWS] Nợ trong hạn [ROW] Nợ quá hạn trên 3 tháng | Nợ quá hạn đến 3 tháng | Đến 1 tháng | Từ 1 đến 3 tháng | Từ 3 đến 12 tháng | Từ 1 đến 5 năm | Trên 5 năm | Tổng cộng [ROW] Triệu VNĐ | Triệu VNĐ | Triệu VNĐ | Triệu VNĐ | Triệu VNĐ | Triệu VNĐ | Triệu VNĐ | Triệu VNĐ [ROW] Tài sản [ROW] I Tiền mặt, vàng bạc, đá quý | - | - | 6.059.673 | - | - | - | - | 6.059.673 [ROW] II Tiền gửi tại Ngân hàng Nhà nước Việt Nam | - | - | 24.843.632 | - | - | - | - | 24.843.632 [ROW] III Tiền, vàng gửi và cho vay các tổ chức tín dụng khác – gộp | - | - | 83.470.611 | 3.499.537 | 368.314 | 4.337.611 | 127.000 | 91.803.073 [ROW] IV Chứng khoán kinh doanh – gộp | - | - | 196.158 | - | - | - | - | 196.158 [ROW] V Các công cụ tài chính phái sinh và các tài sản tài chính khác | - | - | - | 136.725 | - | - | - | 136.725 [ROW] VI Cho vay và ứng trước khách hàng – gộp | 8.224.523 | 2.467.811 | 19.500.348 | 59.747.986 | 108.572.349 | 54.742.410 | 21.058.782 | 274.314.209 [ROW] VII Chứng khoán đầu tư – gộp | - | - | 14.658.447 | 4.411.904 | 11.192.724 | 29.289.941 | 4.935.026 | 64.488.042 [ROW] VIII Góp vốn đầu tư dài hạn – gộp | - | - | - | - | - | - | 3.078.080 | 3.078.080 [ROW] IX Tài sản cố định | - | - | - | - | - | - | 4.085.686 | 4.085.686 [ROW] XI Tài sản Có khác – gộp | - | - | 14.752 | 6.552.955 | - | - | - | 6.567.707 [ROW] Tổng tài sản | 8.224.523 | 2.467.811 | 148.743.621 | 74.349.107 | 120.133.387 | 88.369.962 | 33.284.574 | 475.572.985 [ROW] Nợ phải trả [ROW] I, II Tiền gửi của và vay từ NHNN và các tổ chức tín dụng khác | - | - | 68.728.695 | 2.015.000 | 242.122 | 5.587.644 | 93.239 | 76.666.700 [ROW] III Tiền gửi của khách hàng | - | - | 119.723.831 | 105.003.957 | 83.625.133 | 14.918.977 | 8.973.700 | 332.245.598 [ROW] VI Phát hành giấy tờ có giá | - | - | 3.806 | 240 | 9.551 | - | 2.000.000 | 2.013.597 [ROW] VII Các khoản nợ khác | - | - | 34.506 | 11.997.939 | 3.500.000 | - | - | 15.532.445 [ROW] Tổng nợ phải trả | - | - | 188.490.838 | 119.017.136 | 87.376.806 | 20.506.621 | 11.066.939 | 426.458.340 [ROW] Mức chênh thanh khoản ròng | 8.224.523 | 2.467.811 | (39.747.217) | (44.668.029) | 32.756.581 | 67.863.341 | 22.217.635 | 49.114.645",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

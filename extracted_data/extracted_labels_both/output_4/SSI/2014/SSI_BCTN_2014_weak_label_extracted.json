@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 1006,
+      "text": "Bên cạnh đó, SSI tiếp tục duy trì kênh truyền thông nội bộ để tiếp tục chia sẻ tầm nhìn, chiến lược, củng cố văn hóa doanh nghiệp nhằm nuôi dưỡng tinh thần SSI. Những chia sẻ này cũng là yếu tố động viên tinh thần làm việc, tránh những căng thẳng không đáng có. Đây cũng là một biện pháp đảm bảo thông tin xuyên suốt và mỗi nhân viên đều hiểu được mục tiêu của bản thân và của tập thể để tiếp tục đóng góp sức mình vào sự phát triển chung của Công ty. Với sự chia sẻ và minh bạch cao trong tổ chức, bộ máy sẽ vận hành được trơn tru hơn, giảm thiểu những tác động tiêu cực tới nhân sự.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1252,
+      "text": "Công ty tiếp tục dành nhiều sự quan tâm đến lĩnh vực chăm sóc sức khỏe cho nhân viên. Theo truyền thống, hàng năm Công ty đều cung cấp gói bảo hiểm sức khỏe bổ sung với các quyền lợi chăm sóc sức khỏe vượt trội cho nhân viên. Đồng thời Công ty cũng tạo điều kiện để người lao động có thể lựa chọn mua cho người thân của mình các gói bảo hiểm sức khỏe linh hoạt để mỗi nhân viên được an tâm công tác, không phải lo lắng đến sức khỏe của người thân. Công ty cũng triển khai chuỗi chương trình hội thảo theo chuyên đề giúp nhân viên nâng cao kiến thức phòng tránh các bệnh thường gặp để nâng cao sức khỏe với sự tham gia của các giáo sư bác sĩ đầu ngành, ví dụ như các buổi hội thảo về chủ đề bệnh văn phòng, cơ xương khớp... Ngoài việc nâng cao nhận thức về y tế cho nhân viên, các diễn giả cũng sẵn sàng giải đáp các thắc mắc thực tế, hoặc có thể tư vấn thêm cho nhân viên nếu gặp vấn đề về sức khỏe liên quan đến chủ đề hội thảo. Việc cung cấp thông tin y tế một cách tích cực và tập trung theo từng chủ đề có thể giúp nhân viên bảo vệ sức khỏe cho bản thân và gia đình.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1562,
+      "text": "Công ty tiếp tục dành nhiều sự quan tâm đến lĩnh vực chăm sóc sức khỏe cho nhân viên. Theo truyền thống, hàng năm Công ty đều cung cấp gói bảo hiểm sức khỏe bổ sung với các quyền lợi chăm sóc sức khỏe vượt trội cho Nhân viên. Đồng thời Công ty cũng tạo điều kiện để người lao động có thể lựa chọn mua cho người thân của mình các gói bảo hiểm sức khỏe linh hoạt để mỗi nhân viên được an tâm công tác, không phải lo lắng đến sức khỏe của người thân. Công ty cũng triển khai chuỗi chương trình hội thảo theo chuyên đề giúp nhân viên nâng cao kiến thức phòng tránh các bệnh thường gặp để nâng cao sức khỏe với sự tham gia của các giáo sư bác sĩ đầu ngành, ví dụ như các buổi hội thảo về chủ đề bệnh văn phòng, cơ xương khớp... Ngoài việc nâng cao nhận thức về y tế cho nhân viên, các diễn giả cũng sẵn sàng giải đáp các thắc mắc thực tế, hoặc có thể tư vấn thêm cho nhân viên nếu gặp vấn đề về sức khỏe liên quan đến chủ đề hội thảo. Việc cung cấp thông tin y tế một cách tích cực và tập trung theo từng chủ để có thể giúp nhân viên bảo vệ sức khỏe cho bản thân và gia đình.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

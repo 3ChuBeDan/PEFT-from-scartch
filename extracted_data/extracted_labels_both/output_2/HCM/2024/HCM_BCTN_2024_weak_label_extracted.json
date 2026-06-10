@@ -1,0 +1,82 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Ngày 18/07/2024, HSC chính thức triển khai hệ thống rà soát tự động danh sách phòng, chống rửa tiền tích hợp dữ liệu từ Dow Jones. Hệ thống này giúp Công ty nhận diện nhanh chóng và kiểm soát hiệu quả các rủi ro liên quan, đảm bảo minh bạch và tuân thủ chặt chẽ các quy định về phòng, chống rửa tiền.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "HSC nhận thức rằng việc xây dựng chính sách, quy trình nội bộ và cơ chế giám sát các tình huống \"xung đột lợi ích\" đối với người quản lý và điều hành trong Công ty không những góp phần ngăn ngừa, giảm thiểu rủi ro vụ lợi cá nhân mà còn đảm bảo sự bình đẳng giữa các cổ đông. Hiện tại, Công ty đang tuân thủ theo chuẩn mực \"tránh xung đột lợi ích\" của pháp luật Việt Nam.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Từ tháng 7/2024, hệ thống rà soát tự động danh sách khủng bố, tội phạm, phòng chống rửa tiền với gói dữ liệu Dow Jones đã chính thức đi vào hoạt động. BKS đánh giá việc áp dụng hệ thống là một bước tiến quan trọng của HSC nhằm đảm bảo tuân thủ chặt chẽ các quy định pháp luật Việt Nam và nâng tầm quản trị theo các chuẩn mực quốc tế trong công tác về phòng chống rửa tiền.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

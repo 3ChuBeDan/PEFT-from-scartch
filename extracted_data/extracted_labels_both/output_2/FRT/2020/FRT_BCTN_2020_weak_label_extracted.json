@@ -1,0 +1,69 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Trong năm, Công ty đã có các giao dịch chủ yếu sau với các bên liên quan: ; column_headers: Năm nay | Năm trước ; row_headers: Công ty TNHH Hệ thống Thông tin FPT | Công ty Cổ phần FPT | Công ty Cổ phần Viễn thông FPT | Công ty TNHH Phần mềm FPT [ROWS] Năm nay | Năm trước [ROW] Bán hàng [ROW] Công ty TNHH Hệ thống Thông tin FPT | 38,870,367,632 | 8,514,342,286 [ROW] Công ty Cổ phần FPT | 32,458,952,465 | 6,998,976,229 [ROW] Công ty Cổ phần Viễn thông FPT | 8,484,046,728 | 7,166,281,329 [ROW] Công ty TNHH Phần mềm FPT | 4,532,520,292 | 4,020,069,565 [ROW] 84,345,887,117 | 26,699,669,409 [ROW] Mua hàng [ROW] Công ty Cổ phần Viễn thông FPT | 17,212,553,787 | 8,998,181 [ROW] Công ty TNHH Hệ thống Thông tin FPT | 11,877,045,435 | 25,921,283,287 [ROW] Công ty Cổ phần FPT | 5,014,980,739 | 6,722,304,188 [ROW] Công ty TNHH Phần mềm FPT | 0 | 155,030,746 [ROW] 34,104,579,961 | 32,807,616,402",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Số dư chủ yếu với các bên liên quan tại ngày kết thúc niên độ kế toán: ; column_headers: Số cuối năm | Số đầu năm | Ðơn vị: VND ; row_headers: Công ty TNHH Hệ thống Thông tin FPT | Công ty Cổ phần FPT | Công ty Cổ phần Viễn thông FPT | Công ty TNHH Phần mềm FPT [ROWS] Ðơn vị: VND [ROW] Số cuối năm | Số đầu năm [ROW] Phải thu ngắn hạn của khách hàng [ROW] Công ty TNHH Hệ thống Thông tin FPT | 2,667,252,351 | 2,486,650,906 [ROW] Công ty Cổ phần FPT | 1,546,677,249 | 3,180,000 [ROW] Công ty Cổ phần Viễn thông FPT | 402,100,000 | 1,876,886,906 [ROW] Công ty TNHH Phần mềm FPT | 48,692,000 | 24,429,200 [ROW] 4,664,721,600 | 4,391,147,012",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Số dư chủ yếu với các bên liên quan tại ngày kết thúc niên độ kế toán: ; column_headers: Số cuối năm | Số đầu năm ; row_headers: Công ty Cổ phần FPT | Công ty Cổ phần Viễn thông FPT | Công ty TNHH Hệ thống Thông tin FPT | Công ty TNHH Phần mềm FPT [ROWS] Số cuối năm | Số đầu năm [ROW] Phải thu về cho vay ngắn hạn [ROW] Công ty Cổ phần FPT | 845,000,000,000 | 220,000,000,000 [ROW] 845,000,000,000 | 220,000,000,000 [ROW] Phải thu ngắn hạn khác [ROW] Công ty Cổ phần FPT | 1,401,945,124 | 5,077,780,822 [ROW] Công ty Cổ phần Viễn thông FPT | 918,087,063 | 0 [ROW] 2,320,032,187 | 5,077,780,822 [ROW] Phải trả người bán ngắn hạn [ROW] Công ty TNHH Hệ thống Thông tin FPT | 11,216,576,470 | 0 [ROW] Công ty Cổ phần FPT | 1,100,000,000 | 1,153,165,126 [ROW] Công ty Cổ phần Viễn Thông FPT | 884,301,208 | 1,359,385,505 [ROW] Công ty TNHH Phần mềm FPT | 0 | 562,500,000 [ROW] 13,200,877,678 | 3,075,050,631 [ROW] Phải trả ngắn hạn khác [ROW] Công ty Cổ phần Viễn Thông FPT | 192,321,244 | 769,228,975 [ROW] 192,321,244 | 769,228,975",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

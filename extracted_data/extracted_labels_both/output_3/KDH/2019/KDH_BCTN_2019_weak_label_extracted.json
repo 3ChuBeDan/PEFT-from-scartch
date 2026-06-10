@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Để bảo vệ sức khỏe cho người lao động, Khang Điền tiếp tục cung cấp các chế độ BHXH - BHYT và khám sức khỏe định kỳ. Trong năm 2019, Công ty tiếp tục cung cấp gói bảo hiểm sức khỏe tư nhân cho toàn thể người lao động. Đối với sức khỏe tinh thần, Công ty luôn duy trì những giá trị cốt lõi bằng việc xây dựng môi trường làm việc thân thiện và cởi mở, thực hiện nhiều chế độ cho người lao động, quan tâm thăm hỏi các dịp lễ Tết, chủ động quan tâm đến đời sống tinh thần của CBNV thông qua các hoạt động đoàn thể như tổ chức sinh nhật cho từng CBNV, tặng quà cho CBNV nữ ngày 8/3, 20/10, quan tâm hỗ trợ CBNV khi ốm đau, tai nạn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

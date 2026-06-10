@@ -1,0 +1,99 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Eximbank nhận thức được vai trò và trách nhiệm của ngân hàng thương mại trong công tác phòng, chống rửa tiền, tài trợ khủng bố và tài trợ phổ biến vũ khí hủy diệt hàng loạt (\"PCRT\"), qua đó góp phần bảo vệ lợi ích quốc gia, các thành phần kinh tế, tăng cường sự ổn định và thúc đẩy nền kinh tế, ngăn ngừa các rủi ro, tổn thất tài chính,... liên quan đến PCRT, Eximbank đã xây dựng và hoàn thiện chính sách nội bộ để bảo đảm tuân thủ quy định Luật Phòng, chống rửa tiền 2022, Nghị định 19/2023/NĐ-CP, Thông tư 09/2023/TT-NHNN, Quyết định 11/2023/QĐ-TTg, các thông lệ quốc tế về PCRT và lệnh cấm vận quốc tế. Bên cạnh đó, hệ thống PCRT của Eximbank được xây dựng theo khuyến nghị của Ngân hàng Nhà nước, phân cấp trách nhiệm PCRT từ Ban điều hành, Đơn vị chuyên trách PCRT tại Hội sở, Đơn vị chuyên trách PCRT tại Đơn vị kinh doanh. Eximbank luôn xem trọng công tác đào tạo PCRT, nâng cao năng lực, nhận thức của cán bộ, nhân viên về PCRT thông qua việc đào tạo bắt buộc 100% cán bộ, nhân viên tân tuyển. Bên cạnh yếu tố con người, Eximbank đã triển khai hệ thống giám sát giao dịch trực tuyến AML Filtering và hệ thống giám sát giao dịch theo kịch bản AML Profiling do EastNets cung cấp. Đồng thời, để bảo đảm dữ liệu cảnh báo của Eximbank luôn được cập nhật tức thời, Eximbank sử dụng dữ liệu WorldCheck do Refinitiv Limited cung cấp. Trong năm 2023, Eximbank tiếp tục đẩy mạnh hệ thống công nghệ thông tin chuyên dụng về PCRT: (i) Nâng cấp hệ thống giám sát giao dịch trực tuyến để đáp ứng công nghệ của hệ thống thanh toán quốc tế Swift, bảo đảm việc xử lý được các giao dịch có giao thức mới; (ii) Nâng cấp gói dịch vụ WorldCheck để bảo đảm đáp ứng được số lượng khách hàng tăng mới. Eximbank luôn đặt PCRT là công tác trọng tâm để ngăn ngừa các rủi ro, tổn thất tài chính,... đây là tiền đề cho sự phát triển của Eximbank.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Eximbank cũng nhận thức được rằng các đối tượng rửa tiền sẽ luôn nghiên cứu các hình thức/biện pháp để thực hiện hành vi trái pháp luật. Vì vậy, bên cạnh việc cập nhật quy định nội bộ theo pháp luật, Eximbank bảo đảm việc cập nhật kịp thời các chỉ đạo, khuyến nghị của Ngân hàng Nhà nước, đồng thời nghiên cứu, cập nhật các hành vi, dấu hiệu rửa tiền mới thông qua các khuyến nghị/tài liệu của Nhóm châu Á – Thái Bình Dương về chống rửa tiền (APG) và Lực lượng Đặc nhiệm tài chính về chống rửa tiền (FATF). Bên cạnh đó, để bảo đảm Đơn vị kinh doanh có thể nhận biết được các hành vi rửa tiền mới, Eximbank định kỳ cập nhật chương trình đào tạo theo các khuyến nghị, hành vi, dấu hiệu rửa tiền mới này. Trong năm 2023, Eximbank tổ chức 16 khóa đào tạo về PCRT với 2311 học viên.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 6
+      }
+    },
+    {
+      "text": "PCRT là công tác chung của toàn xã hội trong đó bao gồm cả Eximbank. Vì vậy, Eximbank nhận thức được trách nhiệm của bản thân trong việc ngăn chặn, phát hiện hành vi rửa tiền. Thông qua việc Eximbank thực hiện các báo cáo, Ngân hàng Nhà nước có cơ sở để xác định các đối tượng thực hiện hành vi rửa tiền từ đó xử lý theo quy định pháp luật. Trong năm 2023, Eximbank tuân thủ đầy đủ chế độ báo cáo theo yêu cầu của Ngân hàng Nhà nước:",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G11": 2
+      }
+    },
+    {
+      "text": "Trong năm 2023, nhiệm vụ quản lý nước thải và chất thải phát sinh được theo dõi giám sát chặt chẽ, Exmbank luôn thực hiện nhiều biện pháp nhằm kiểm soát lượng nước thải và chất thải từ các văn phong, Chi nhánh, PGD, dự án. Đầu tư cho đổi mới công nghệ, sử dụng tài nguyên và năng lượng hiệu quả để tạo ưu thế cạnh tranh và góp phần bảo vệ môi trường là con đường phát triển tất yếu, thực hiện mục tiêu phát triển xanh, phát triển bền vững.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "Nhận thức rõ hệ thống ngân hàng đóng vai trò như một mắt xích trung gian có tác động đến môi trường thông qua hoạt động của khách hàng, Eximbank đã xanh hóa dòng vốn đầu tư thông qua việc hướng các nguồn lực tài chính vào những lĩnh vực xanh như doanh nghiệp ứng dụng công nghệ cao, các dự án năng lượng tái tạo, công nghiệp hỗ trợ, nông nghiệp nông thôn, các dự án thủy điện nhỏ và vừa, sinh khối, xử lý nước thải, rác thải... nhằm tăng dần tỷ trọng tín dụng xanh trong cơ cấu danh mục đầu tư tín dụng, góp phần thúc đẩy khách hàng vay vốn chuyển đổi dự án và mục đích sử dụng vốn vay sang các dự án thân thiện với môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.415339,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
+      }
+    }
+  ]
+}

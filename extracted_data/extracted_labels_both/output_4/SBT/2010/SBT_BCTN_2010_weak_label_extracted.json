@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 230,
+      "text": "Về công tác cho vay, đầu tư cho người trồng mía: Công ty cần ưu tiên hơn nữa công tác thu hồi nợ vay nhằm hạn chế gia tăng nợ quá hạn, thu hồi công nợ quá hạn và từng bước chuyển dần các khoản cho vay đầu tư này sang cho các ngân hàng thương mại. Thay vì cho vay trực tiếp như hiện nay, Công ty có thể hỗ trợ người trồng mía chi phí trả lãi 4-5%/năm nhằm tiết kiệm chi phí thuế TNDN (Tiền lãi Công ty cho vay với lãi suất 13%/năm phải chịu thuế suất 25%, trong khi chi phí trả lãi Công ty đi vay với lãi suất 18%/năm chỉ được khấu trừ 5%), đồng thời tận dụng được năng lực chuyên môn cũng như chia sẻ trách nhiệm theo dõi, thu hồi nợ vay với Ngân hàng. Tăng cường công tác đào tạo, xây dựng chế độ, chính sách nhằm xác định, gắn kết trách nhiệm của cán bộ trực tiếp tham gia thẩm định, lựa chọn và đề xuất đầu tư cho người trồng mía. Tại thời điểm 31/12/2010, tổng dư nợ cho vay, đầu tư trồng mía là 190 tỷ, trong đó nợ quá hạn là 16.7 tỷ và Công ty đã trích lập dự phòng 15.2 tỷ đồng,",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "paragraph_id": 476,
+      "text": "[TABLE] [CONTEXT] section: Các khoản đầu tư nông dân [ROWS] Khoản đầu tư quá hạn : | Mức lập dự phòng [ROW] Từ 3 năm | 100% khoản nợ quá hạn [ROW] Từ 2 đến dưới 3 năm | 70% khoản nợ quá hạn [ROW] Từ 1 năm đến dưới 2 năm | 50% khoản nợ quá hạn [ROW] Từ 3 tháng đến dưới 1 năm | 30% khoản nợ quá hạn",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

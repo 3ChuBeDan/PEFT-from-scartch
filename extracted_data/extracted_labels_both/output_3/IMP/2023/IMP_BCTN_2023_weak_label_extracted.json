@@ -1,0 +1,59 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 1155,
+      "text": "[TABLE] [CONTEXT] section: Nhóm 3 ; column_headers: Mục tiêu PTBV của LHQ | Diễn giải | Cam kết và thực hiện của Imexpharm trong năm 2023 [ROWS] Mục tiêu PTBV của LHQ | Diễn giải | Cam kết và thực hiện của Imexpharm trong năm 2023 [ROW] NƯỚC SẠCH VÀ VỆ SINH | Nước sạch và vệ sinh | • Sử dụng nguồn nước hiệu quả và có trách nhiệm. • 100% nước thải nguy hại được xử lý [ROW] NĂNG LƯỢNG SẠCH VỚI GIÁ THÀNH HỢP LÝ | Năng lượng sạch với giá thành hợp lý | • Ưu tiên sử dụng năng lượng tái tạo, tiết kiệm điện [ROW] VIỆC LÀM BỀN VỮNG Ở Ệ VÀ TĂNG TRƯỞNG KINH TẾ | Việc làm bền vững và tăng trưởng kinh tế | • Doanh thu thuần: 1.994 tỷ đồng • Lợi nhuận trước thuế: 377,3 tỷ đồng • Đóng góp vào ngân sách Nhà nước: 177 tỷ đồng • Imexpharm được vinh danh trong Top 50 Công ty niêm yết tốt nhất Việt Nam [ROW] CÔNG NGHIỆP, ĐỔI MỚI Ở Ầ Ệ VÀ CƠ SỞ HẠ TẦNG | Công nghiệp, đổi mới và cơ sở hạ tầng | • Sở hữu 4 cụm nhà máy, trong đó có 3 nhà máy đạt tiêu chuẩn EU\u0002 GMP, gồm 11 dây chuyền sản xuất thuốc uống và tiêm. • Tính đến hết năm 2023 Imexpharm đã có 27 số đăng ký cho 11 sản phẩm sản phẩm tại Châu Âu. [ROW] GIẢM BẤT BÌNH ĐẲNG | Giảm bất bình đẳng | • Không có khiếu nại về bất bình đẳng • Không có khiếu nại về phân biệt đối xử • Không lao động cưỡng bức, không lao động trẻ em • Đảm bảo việc làm, cải thiện điều kiện lao động, nâng cao trình độ nghề nghiệp, chăm sóc sức khỏe, tăng cường phúc lợi cho lao động là nữ giới • Tăng cường kết nối cộng đồng, tôn trọng quyền của phụ nữ và nhóm người yếm thế; giúp đỡ tất cả mọi người, không phân biệt tuổi tác, giới tính, khuyết tật, chủng tộc, sắc tộc, nguồn gốc, tôn giáo, kinh tế và các tình trạng khác [ROW] CÁC THÀNH PHỐ VÀ CỘNG ĐỒNG BỀN VỮNG | Các thành phố và cộng đồng bền vững | • Xây dựng không gian xanh, giữ gìn cảnh quan • Không phát thải ảnh hưởng đến cư dân và môi trường xung quanh",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 0.623009,
+        "E3": 1.0,
+        "S4": 0.642575,
+        "S6": 0.825137
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 3,
+        "E3": 3,
+        "S4": 2,
+        "S6": 2
+      }
+    },
+    {
+      "paragraph_id": 1156,
+      "text": "[TABLE] [CONTEXT] section: Nhóm 3 ; column_headers: Mục tiêu PTBV của LHQ | Diễn giải | Cam kết và thực hiện của Imexpharm trong năm 2023 [ROWS] Mục tiêu PTBV của LHQ | Diễn giải | Cam kết và thực hiện của Imexpharm trong năm 2023 [ROW] TIÊU DÙNG VÀ SẢN XUẤT CÓ TRÁCH NHIỆM | Tiêu dùng và sản xuất có trách nhiệm | • Áp dụng quy trình sản xuất bền vững, tăng cường ứng dụng khoa học công nghệ, cải tiến kỹ thuật trong sản xuất, kinh doanh • Tất các nguồn chất thải phát sinh trong quá trình hoạt động đều được quản lý, thu gom, lưu giữ, xử lý đạt yêu cầu theo các quy chuẩn kỹ thuật Quốc gia về môi trường, các quy định của pháp luật hiện hành. [ROW] ỨNG PHÓ VỚI BIẾN ĐỔI KHÍ HẬU | Ứng phó với biến đổi khí hậu | • Imexpharm đã và đang triển khai thực thi các quy định của pháp luật về bảo vệ môi trường đối với lĩnh vực biến đổi khí hậu, như kiểm soát chặt chẽ và nâng cao chất lượng nhiên liệu đầu vào, thực hiện các giải pháp kỹ thuật để tối ưu hóa các quá trình sản xuất, hạn chế tối đa lưu lượng khói thải phát thải cũng như nồng độ các chất khí gây ô nhiễm, các khí gây hiệu ứng nhà kính [ROW] ĐỜI SỐNG DƯỚI NƯỚC | Đời sống dưới nước | • Nước thải hoạt động sản xuất được xử lý 100% đạt chuẩn trước khi thải ra môi trường [ROW] ĐỜI SỐNG TRÊN CẠN | Đời sống trên cạn | • Tại các nhà máy điện, cảnh quan cây xanh luôn chăm sóc, cải tạo, tăng diện tích phủ xanh và hình thành môi trường xung quanh xanh, sạch, đẹp. • Không có bất kỳ sự tác động nào làm thay đổi hiện trạng môi trường đất, không khí, hệ sinh thái trên cạn hoặc làm mất đa dạng sinh học. [ROW] HOÀ BÌNH, CÔNG LÝ VÀ THỂ CHẾ HIỆU QUẢ | Hòa bình, công lý và thể chế hiệu quả | • Tham gia ủng hộ các chính sách và hoạt động của Chính phủ và các tổ chức có liên quan nhằm thúc đẩy xã hội hòa bình, dân chủ, công bằng, bình đẳng, văn minh vì sự phát triển bền vững • Hỗ trợ và đồng hành cùng Chính phủ hướng đến 17 mục tiêu phát triển bền vững của Liên Hợp Quốc [ROW] HỢP TÁC ĐẠT MỤC TIÊU | Hợp tác đạt mục tiêu | • Tăng cường quan hệ, hợp tác với nhiều tổ chức trong nước và quốc tế",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.830679,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 4,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

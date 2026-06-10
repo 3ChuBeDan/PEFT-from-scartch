@@ -1,0 +1,239 @@
+{
+  "extracted_count": 13,
+  "extracted": [
+    {
+      "paragraph_id": 244,
+      "text": "Tinh thần trách nhiệm - Minh bạch và trung thực; thể hiện tinh thần trách nhiệm với cộng đồng; xây dựng chuẩn mực trong quản trị doanh nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 927,
+      "text": "Thẩm định báo cáo tài chính, báo cáo tình hình hoạt động kinh doanh: Phối hợp với Ủy ban Kiểm toán làm việc với kiểm toán độc lập về kết quả kiểm toán và các vấn đề phát sinh liên quan đến kiểm toán độc lập, thực hiện việc giám sát nội dung, phạm vi, tiến độ soát xét và kiểm toán các BCTC trong năm 2012 theo Hợp đồng Cung cấp Dịch vụ Kiểm toán đã được ký kết với Công ty TNHH Ernst & Young Vietnam (E&Y); Tổ chức xem xét, thẩm tra các BCTC bán niên, các BCTC quý và BCTC năm 2012 của Tập đoàn được soát xét/kiểm toán bởi E&Y; Thảo luận về những vấn đề khó khăn và tồn tại phát hiện từ các kết quả kiểm toán giữa kỳ hoặc cuối kỳ cũng như mọi vấn đề mà kiểm toán viên độc lập muốn bàn bạc; Xem xét thư quản lý của kiểm toán viên độc lập và ý kiến phản hồi của Tổng Giám đốc Tập đoàn và HĐQT. Ban Kiểm soát không có bất cứ sự phản đối nào về các số liệu đã được thể hiện trong các BCTC riêng và BCTC hợp nhất năm 2012 của TĐBV.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 1077,
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở định phí được phê duyệt và tuân thủ theo quy định của pháp luật. Bảng tỷ lệ tử vong CSO 1980 đang được sử dụng.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 1138,
+      "text": "Việc áp dụng những quy định yêu cầu đối với hệ thống an ninh thông tin theo tiêu chuẩn ISO 27001-2005 giúp Ban lãnh đạo Tập đoàn Bảo Việt thực hiện việc giám sát, quản lý hệ thống thông tin, tăng cường an ninh bảo mật, giảm thiểu rủi ro cho hệ thống thông tin nhằm đáp ứng các mục tiêu phát triển bền vững của Tập đoàn.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1159,
+      "text": "Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro để tiến hành hoạt động kiểm toán nội bộ và phương pháp ORCA để đánh giá rủi ro (ORCA: Objectives – các mục tiêu kinh doanh của Tập đoàn Bảo Việt và các đơn vị thành viên, Risks – các rủi ro đe dọa việc đạt được các mục tiêu kinh doanh, Controls – các biện pháp kiểm soát nhằm giảm thiểu các rủi ro trên, Alignment – tính thống nhất giữa các mục tiêu kinh doanh, rủi ro và biện pháp kiểm soát).",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "paragraph_id": 1329,
+      "text": "Ngoài lương, thưởng, phụ cấp, Bảo Việt còn thực hiện các chế độ phúc lợi cho cán bộ, nhân viên như bảo hiểm sức khỏe toàn diện, bảo hiểm sinh mạng, bảo hiểm cho người thân, tổ chức khám sức khỏe định kỳ... tổ chức các hoạt động văn hóa, văn nghệ, thể thao, ngày hội doanh nghiệp...đáp ứng các nhu cầu đời sống tinh thần của người lao động, nâng cao chất lượng cuộc sống và sức khỏe, tạo sự hứng thú, say mê trong công việc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1344,
+      "text": "Bảo Việt phát huy tinh thần hợp tác giữa cán bộ nhằm tạo ra sức mạnh của tập thể của toàn hệ thống Bảo Việt. Tinh thần hợp tác còn thể hiện ở sự hợp tác và tôn trọng quyền lợi của khách hàng, thực hiện phương châm \"Phục vụ khách hàng tốt nhất để phát triển\" .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1358,
+      "text": "Là 1 trong 10 nước trên thế giới chịu tác động nhiều nhất từ biến đổi khí hậu , Việt Nam đang xảy ra liên tiếp các trận thiên tai như lũ lụt , hạn hán, động đất gây thiệt hại lớn về người và của, ô nhiễm môi trường gây ảnh hưởng nghiêm trọng đến sức khỏe người dân với tỷ lệ người mắc bệnh hiểm nghèo ngày càng cao , làm tăng các rủi ro về thương tật , tử vong . Trong khi đó , nhận thức của người dân về giảm thiểu các thiệt hại thông qua bảo hiểm còn thấp .",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "paragraph_id": 1464,
+      "text": "Bảo Việt tham gia bảo hiểm nông nghiệp với quan điểm không vì lợi nhuận mà xác định đây là một nhiệm vụ chính trị, 20% thực hiện theo tinh thần doanh nhân với nông dân và tinh thần doanh nghiệp nhà nước với chủ trương của Chính phủ. 0% Triển khai loại hình bảo hiểm mang tính nhân văn sâu sắc này, Bảo Việt mong muốn cùng chia sẻ, giảm bớt các thiệt hại Lĩnh vựcLĩnh vực 0% khi đối mặt với rủi ro, và đảm bảo thu nhập cho người nông dân. m bớt Lĩnh vực bảo hiểm Nhân thọ iệt hạ Lĩnh vực bảo hiểm phi Nhân thọ là m 20% ẻ 0%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 2076,
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo bằng việc áp dụng giả định tương đối thận trọng để tránh các biến động trong thực tiễn hoạt động. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 2078,
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảo Việt Nhân thọ đang sử dụng Bảng tỷ lệ tử vong CSO 1980.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 2584,
+      "text": "[TABLE] [CONTEXT] section: QUẢN LÝ RỦI RO HOẠT ĐỘNG ; column_headers: TT Nhóm rủi ro hoạt động Phân loại chi tiết [ROWS] TT Nhóm rủi ro hoạt động Phân loại chi tiết [ROW] 1 Báo cáo & Kiểm soát tài chính | Sai sót trong báo cáo thông tin quản lý Chậm trễ trong báo cáo thông tin quản lý Sai sót trong các báo cáo tài chính/báo cáo với cơ quan chức năng Chậm trễ phát hành báo cáo tài chính/báo cáo với cơ quan chức năng Sai sót trong việc kê khai/thực hiện nghĩa vụ thuế [ROW] 2 Pháp chế & Tuân thủ | Không tuân thủ theo các quy định của pháp luật Lỗi trong các báo cáo khác không phải là báo cáo tài chính với cơ quan chức năng Lưu trữ hồ sơ/ dữ liệu Rủi ro quyền phi hợp đồng Rủi ro pháp lý Kiện tụng bởi người lao động hiện tại/đã từng làm việc tại Bảo Việt Quản lý nhà thầu/công ty quản lý bên ngoài - Rủi ro về hợp đồng Quản lý nhà thầu/công ty quản lý bên ngoài - Rủi ro liên quan đến tranh chấp [ROW] 3 Con người | Thiếu hụt nhân sự chủ chốt Thiếu hụt nguồn nhân lực - Số cán bộ thôi việc tăng Thiếu hụt nguồn nhân lực - Vị trí trống Kỹ năng làm việc không phù hợp [ROW] 4 Quy trình & Quy chế | Sai sót trong việc thanh toán/chi trả Gian lận nội bộ - Đối với các hành động không cho phép Gian lận nội bộ - Trộm cắp Gian lận/Trộm cắp do bên ngoài Quản lý không hiệu quả của bên thứ ba [ROW] 5 Hệ thống & Thông tin | Phân quyền truy cập hệ thống không phù hợp Mất hoặc rò rỉ thông tin Sai lệch hoặc mất dữ liệu do hệ thống Hệ thống không phù hợp Hệ thống bị gián đoạn [ROW] 6 Tính liên tục của hoạt động kinh doanh | Các sự cố lớn - ảnh hưởng đến văn phòng/trụ sở làm việc Các sự cố lớn - ảnh hưởng đến khả năng làm việc của cán bộ, nhân viên",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 2696,
+      "text": "[TABLE] [CONTEXT] section: 39.1 Quản lý rủi ro bảo hiểm (tiếp theo) ; column_headers: Thay đổi biến % | Thay đổi nghĩa vụ được bảo hiểm (triệu VNĐ) | Ảnh hưởng đến nguồn vốn (triệu VNĐ) ; row_headers: Tỷ lệ chiết khấu | Tỷ lệ tử vong [ROWS] Thay đổi biến % | Thay đổi nghĩa vụ được bảo hiểm (triệu VNĐ) | Ảnh hưởng đến nguồn vốn (triệu VNĐ) [ROW] Ngày 31 tháng 12 năm 2012 [ROW] Tỷ lệ chiết khấu | -0,25 | 255.053 | 255.053 [ROW] Tỷ lệ chiết khấu | +0,25 | (214.277) | (214.277) [ROW] Tỷ lệ tử vong | +10 | 6.693 | 6.693 [ROW] Tỷ lệ tử vong | -10 | (6.093) | (6.093) [ROW] Tỷ lệ tử vong | +20 | 14.125 | 14.125 [ROW] Tỷ lệ tử vong | -20 | (11.584) | (11.584) [ROW] Ngày 31 tháng 12 năm 2011 [ROW] Tỷ lệ chiết khấu | +0,25 | (180.903) | (180.903) [ROW] Tỷ lệ chiết khấu | -0,25 | 220.127 | 220.127 [ROW] Tỷ lệ tử vong | +10 | 6.234 | 6.234 [ROW] Tỷ lệ tử vong | -10 | (5.869) | (5.869) [ROW] Tỷ lệ tử vong | +20 | 12.858 | 12.858 [ROW] Tỷ lệ tử vong | -20 | (11.371) | (11.371)",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 9
+      }
+    }
+  ]
+}

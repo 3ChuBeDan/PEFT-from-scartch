@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 92,
+      "text": "Khang Điền chú trọng xây dựng môi trường làm việc thân thiện và chuyên nghiệp, tạo điều kiện để mọi CBNV phát huy tối đa năng lực sáng tạo và hiệu quả làm việc. Trong đó đặt trọng tâm công tác xây dựng đội ngũ quản lý kế thừa nhằm đáp ứng nhu cầu nhân sự cấp quản lý cho những năm tiếp theo. Thu hút nguồn nhân lực trình độ cao từ nhiều nguồn trên thị trường lao động, tham gia chương trình tài trợ học bổng cho sinh viên, tiếp nhận sinh viên thực tập tại Công ty như một phương pháp xây dựng nguồn nhân lực dự trữ. Với phương châm xây dựng đội ngũ lao động trí thức trẻ, năng động, độ tuổi trung bình hiện nay của CBNV Công ty dưới 35 tuổi. Công ty thực hiện chế độ làm việc 5 ngày/tuần. Công ty luôn triển khai hoạt động đào tạo, bồi dưỡng và thu hút thêm nguồn nhân lực nhằm nâng cao chất lượng đội ngũ nhân sự Công ty là tài sản vô giá của doanh nghiệp. Năm 2013, Công ty đã triển khai cùng lúc 2 dự án Hoja Villa, Mega Residence, thì số lượng CBNV tăng cao từ số lượng 55 người năm 2012 tăng lên 76 người năm 2013. Công ty xây dựng một chế độ thu nhập cạnh tranh để thu hút nguồn nhân lực có trình độ cao. Mặc dù năm 2013 là một trong những năm khó khăn đối với ngành bất động sản, nhưng Công ty nỗ lực từng bước nâng cao thu nhập bình quân của CBNV. Ngoài ra, để động viên tinh thần làm việc của CBNV, Công ty có chế độ lương tháng 13 cho toàn thể CBNV Công ty; Thưởng cho cá nhân có nhiều đóng góp cho sự phát triển của Công ty; Thưởng hoàn thành công việc vượt tiến độ cho CBNV trực tiếp tham gia phát triển dự án. Công ty rất quan tâm chăm sóc đến đời sống tinh thần của CBNV thông qua các hoạt động đoàn thể: tổ chức sinh nhật tập thể hàng tháng cho CBNV, tặng quà cho CBNV nữ",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "extracted_count": 15,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Nhiệt điện than luôn duy trì tỷ trọng cao nhất trong tổng sản lượng điện sản xuất và cung cấp cho hệ thống. Do ảnh hưởng của dịch Covid-19 nên nhu cầu điện thấp, đặc biệt 4 tháng cuối năm, tình hình thủy văn về các hồ tốt, các nhà máy điện mặt trời đưa vào vận hành nhiều nên các nhà máy nhiệt điện than chủ yếu là chạy nền. Năm 2020, tổng sản lượng điện sản xuất và nhập khẩu toàn hệ thống ước đạt 247 tỷ kWh, trong đó Nhiệt điện than chiếm tỷ trọng khoảng 50%.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Với mảng bất động sản: Các tòa nhà văn phòng của REE mới xây dựng gần đây đều đạt chuẩn LEED GOLD, tiết kiệm tối đa năng lượng, đem đến cho khách hàng một không gian thoải mái khi làm việc. Điển hình là tòa nhà văn phòng e.town Central, theo tiêu chuẩn LEED chứng chỉ Vàng của Hội đồng Công trình Xanh Mỹ (USGBC) và e.town 5 theo tiêu chuẩn EDGE - chứng chỉ của SGS (World Bank), với các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện hơn 30%, giảm hơn 50% lượng nước sử dụng, giảm tối đa lượng khí thải CO 2 và sử dụng",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Hoạt động văn phòng cho thuê ứng dụng các công nghệ thân thiện môi trường vào xây dựng và vận hành tòa nhà thông minh, tiết kiệm năng lượng. Điển hình là việc xây dựng tòa nhà văn phòng mới e.town 5 theo tiêu chuẩn EDGE chứng chỉ của SGS (World Bank) với các tiêu chí chính như giảm thiểu điện năng tiêu thụ điện đến 31%, giảm đến 51% lượng nước sử dụng, giảm tối đa lượng khí thải CO 2 và sử dụng vật liệu thân thiện môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "text": "Coal thermal power always maintains the highest proportion in the total Power output produced and supplied to the system. Due to the influence of the Covid-19 epidemic, the Power demand was low, especially in the last 4 months of the year, the hydrological situation of the lakes was good, a lot of solar power plants had been put into operation, so coal-fired power plants were mainly running in the background. By 2020, the total Power production and import of the whole system was estimated at 247 billion kWh, of which coal-fired thermal power accounted for about 50%.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "S1",
+        "S2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

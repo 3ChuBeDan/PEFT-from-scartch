@@ -1,0 +1,280 @@
+{
+  "extracted_count": 14,
+  "extracted": [
+    {
+      "paragraph_id": 234,
+      "text": "Quyết sách thần tốc, đi đầu thị trường, triển khai chương trình tín dụng, dịch vụ đặc biệt hỗ trợ Cán bộ y tế tuyến đầu chống dịch theo đúng chủ trương của Chính phủ, thể hiện tinh thần đồng hành cùng ngành y, chung tay vượt đại dịch đồng thời gia tăng nền khách hàng bán lẻ, hướng tới phục vụ đối tượng KH tốt, có uy tín. BIDV đã triển khai (i) gói 20.000 tỷ đồng cho vay nhu cầu nhà ở với LSCV cố định 5,5%/năm trong 24 tháng và (ii) gói 5.700 tỷ đồng cho vay phục vụ nhu cầu đời sống không TSBĐ với LSCV cố định 1%/năm trong 24 tháng và miễn giảm nhiều",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 383,
+      "text": "Triển khai các gói \"tín dụng xanh\", dành tỷ trọng nhất định tài trợ khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch... qua đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 420,
+      "text": "Luật Đầu tư 2020 được đánh giá là đã làm rõ, phân định phạm vi điều chỉnh của Luật Đầu tư và các Luật có liên quan, đảm bảo tính thống nhất, đồng bộ của hệ thống pháp luật về đầu tư kinh doanh, góp phần tạo thuận lợi cho doanh nghiệp. Ví dụ như Luật đầu tư 2020 sửa đổi, bổ sung một số điều của Luật bảo vệ môi trường theo đó đối với các dự án đầu tư, cấp có thẩm quyền sẽ căn cứ đánh giá sơ bộ tác động môi trường để chấp thuận chủ trương đầu tư; nhà đầu tư chỉ được thực hiện dự án sau khi báo cáo đánh giá tác động môi trường được phê duyệt; loại bỏ tình trạng doanh nghiệp phải có báo cáo đánh giá khả thi tác động môi trường mới được chấp thuận chủ trương đầu tư.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 434,
+      "text": "Ngoài ra, trước các nguy cơ về an ninh mạng ngày càng gia tăng, BIDV đã tăng cường các công tác chuẩn bị, nâng cao tính sẵn sàng CNTT tại BIDV để đối phó với những tác động xấu từ bên ngoài và đáp ứng đầy đủ các yêu cầu ngày càng khắt khe về tuân thủ trong thời gian tới như: Thành lập Ban chỉ đạo/ Ban ứng cứu sự cố đối với các tình huống về an ninh mạng; Thành lập Trung tâm SOC để theo dõi, giám sát, phát hiện sớm và phân tích, xử lý sự sự cố bảo mật; Phối hợp/ký kết thỏa thuận hợp tác với các đối tác uy tín trong công tác đánh giá an ninh ANBM hệ thống CNTT của BIDV. Phối hợp chặt chẽ với NHNN, Hiệp hội An toàn thông tin Việt Nam (VNISA), Bộ Công an (A05 – Cục an ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) thực hiện tốt công tác cảnh báo và giám sát an ninh mạng của BIDV. Đồng thời, để nâng cao năng lực xử lý của hệ thống cơ sở hạ tầng CNTT, năm 2020, BIDV đã hoàn thành và đưa vào sử dụng Trung tâm dữ liệu mới hiện đại, theo các chuẩn quốc tế, đưa mức độ an toàn bảo mật hệ thống CNTT của BIDV ngang hàng với các Trung tâm dữ liệu cung cấp dịch vụ cho thuê trên lãnh thổ Việt Nam và khu vực, đảm bảo an toàn trước những sự cố, các đợt tấn công an ninh mạng gia tăng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 5
+      }
+    },
+    {
+      "paragraph_id": 922,
+      "text": "BIDV đã triển khai đồng bộ nhiều giải pháp để huy động thành công các nguồn vốn phát triển tín dụng xanh như nguồn WB tài trợ Dự án Hiệu quả tiết kiệm năng lượng cho các ngành công nghiệp Việt Nam và Dự án Phát triển năng lượng tái tạo REDP, nguồn AFD cho Hạn mức tín dụng xanh Sunref, nguồn EIB hạn mức 100 triệu EUR. Qua đó, BIDV đã khẳng định hình ảnh, thương hiệu của ngân hàng hàng đầu trong việc phát triển kinh tế bền vững theo chủ trương định hướng của Chính phủ, giải quyết ô nhiễm và nâng cao chất lượng môi trường; thích ứng với biến đổi khí hậu và tăng trưởng xanh; nâng cao hạ tầng giao thông, hạ tầng xã hội; nghiên cứu, xây dựng chính sách, thể chế và cải cách; phát triển nguồn nhân lực, chuyển giao tri thức và phát triển công nghệ; nâng cao năng suất lao động, tạo công ăn việc làm, xóa đói giảm nghèo, thu hẹp khoảng cách về trình độ phát triển giữa các vùng, các dân tộc.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 932,
+      "text": "Quyết sách thần tốc, đi đầu thị trường, triển khai chương trình tín dụng, dịch vụ đặc biệt hỗ trợ Cán bộ y tế tuyến đầu chống dịch theo đúng chủ trương của Chính phủ, thể hiện tinh thần đồng hành cùng ngành y, chung tay vượt đại dịch đồng thời gia tăng nền khách hàng bán lẻ, hướng tới phục vụ đối tượng KH tốt, có uy tín. BIDV đã triển khai (i) gói 20.000 tỷ đồng cho vay nhu cầu nhà ở với LSCV cố định 5,5%/ năm trong 24 tháng và (ii) gói 5.700 tỷ đồng cho vay phục vụ nhu cầu đời sống không TSBĐ với LSCV cố định 1%/năm trong 24 tháng và miễn giảm nhiều loại phí dịch vụ bán lẻ theo gói Bfree lương, miễn phí trả nợ trước hạn, giảm phí bảo hiểm... Qua 4 tháng chương trình đã hỗ trợ 115.300 KH là cán bộ y tế tuyến đầu chống dịch với >11.000 KH mới và 80 cơ sở y tế là các Bệnh viện, Trung tâm y tế, CDC thiết lập quan hệ mới với BIDV.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1194,
+      "text": "Năm 2020 - 2021, Việt Nam và thế giới chứng kiến sự bùng phát dữ dội của đại dịch COVID-19. Chưa bao giờ lịch sử thế giới chứng kiến cuộc khủng hoảng kép về kinh tế, y tế, gây thiệt hại nặng nề cả về mặt kinh tế và xã hội như 2 năm vừa qua. Trong cuộc chiến chống đại dịch cùng Đảng, Nhà nước và Nhân dân, BIDV đã phát huy cao nhất trách nhiệm xã hội vì cộng đồng, có những đóng góp tích cực, hiệu quả cho công tác phòng chống dịch COVID-19, được lãnh đạo, chính quyền, nhân dân và cộng đồng ghi nhận. BIDV đã đóng góp số tiền hơn 300 tỷ đồng cho các hoạt động phòng, chống dịch COVID-19 ủng hộ các quỹ, các chương trình phòng chống Covid, các cơ sở y tế, an ninh cửa khẩu, hỗ trợ Chính phủ, các địa phương trong cả nước. Đối với các bệnh viện cơ sở y tế tuyến đầu thực hiện công tác khám chữa bệnh, xét nghiệm, hỗ trợ trang thiết bị y tế,... BIDV cũng kịp thời dành sự hỗ trợ thiết thực cho đội ngũ y bác sỹ, mua sắm trang thiết bị y tế phục vụ chống dịch cho các đơn vị như: Bệnh viện K, Bệnh viện Nhiệt đới Trung ương, Bệnh viện Nhi Trung ương, Bệnh viện Bạch Mai, Bệnh viện E, Bệnh viện Phổi TƯ, Bệnh viện Đà Nẵng, Bệnh viện Hùng Vương, Bệnh viện Nhiệt đới Tp.Hồ Chí Minh,... Hơn 100.000 bộ đồ bảo hộ đã được BIDV gửi tặng đến các y bác sỹ vùng tâm dịch tại 19 tỉnh, thành phía Nam, tiếp thêm sức mạnh tinh thần cho các chiến sỹ áo trắng trong cuộc chiến chống lại đại dịch, bảo vệ sức khỏe nhân dân. Tổng kinh phí ủng hộ ngành y là gần 80 tỷ đồng. Đó là sự động viên ủng hộ kịp thời, ý nghĩa về tinh thần cũng như vật chất dành cho đội ngũ những chiến sỹ áo trắng trên mặt trận chống lại đại dịch. Trong các đợt bùng phát dịch bệnh COVID-19 tại các địa phương trong 2 năm 2020 - 2021, BIDV đã nhanh chóng ủng hộ cho công tác phòng, chống dịch bệnh tại các tỉnh cũng như các cơ quan lực lượng chức năng: Đà Nẵng, Quảng Nam, Hà Tĩnh, Gia Lai, Hải Dương, Quảng Ninh, Bắc Giang, Bắc Ninh, Thành phố Hồ Chí Minh, Tiền Giang, Hưng Yên, Vĩnh Long, Long An, Tiền Giang, Bình Dương,... số tiền lên tới hàng tỷ đồng tại mỗi địa phương. Bên cạnh đó, BIDV đã góp phần trang bị/nâng cấp cơ sở vật chất, thiết bị y tế cho các bệnh viện, trạm y tế, cơ sở khám chữa bệnh tại các địa phương, giúp người dân cải thiện điều kiện thăm khám sức khỏe, nâng cao chất lượng cuộc sống.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1231,
+      "text": "Hồ sơ yêu cầu từ khách hàng bao gồm các hồ sơ liên quan đến đánh giá mức độ rủi ro, phương án phòng ngừa, giảm thiểu rủi ro môi trường - xã hội (như Giấy phép khai thác tài nguyên đối với doanh nghiệp hoạt động trong lĩnh vực này, báo cáo đánh giá tác động môi trường, phương án phòng cháy chữa cháy, xử lý nguồn nước thải (đối với những dự án có yêu cầu); giấy phép môi trường, giấy phép xả thải...).",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "paragraph_id": 1232,
+      "text": "Triển khai Chỉ thị của NHNN về thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường và xã hội trong hoạt động cấp tín dụng; Khuyến nghị của Ngân hàng Phát triển châu Á (ADB) cũng như thể hiện cam kết của BIDV hướng tới mục tiêu phát triển bền vững của BIDV, tháng 2/2019, BIDV đã ban hành Khung quản lý rủi ro Môi trường và Xã hội (ESMS), trong đó áp dụng bắt buộc đối với các Dự án sử dụng nguồn vốn ADB. Khung quản lý rủi ro môi trường và xã hội quy định quy trình đánh giá rủi ro môi trường và xã bao gồm đầy đủ các nội dung: (i) Sàng lọc, phân loại rủi ro môi trường và xã hội; (ii) Đánh giá chi tiết rủi ro môi trường và xã hội phù hợp quy định chung và quy định riêng của 10 nhóm ngành nghề đặc thù; (iii) Kế hoạch hành động khắc phục cũng như chế độ báo cáo kiểm tra giám sát môi trường xã hội sau khi vay.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 3
+      }
+    },
+    {
+      "paragraph_id": 1250,
+      "text": "triển khai dự án. BIDV đã hướng dẫn cho các PFI và các chủ tiểu dự án về chế biến lúa gạo hoàn tất các thủ tục về môi trường theo đúng quy định. Tính đến 31/12/2021, 100% tiểu dự án tham gia đã có Quyết định phê duyệt Báo cáo đánh giá tác động môi trường/Kế hoạch quản lý môi trường do các cấp có thẩm quyền của Việt Nam phê duyệt với tổng số vốn lũy kế đã giải ngân cho 10 Doanh nghiệp giải ngân hợp phần lúa gạo xấp xỉ 765 tỷ VND. Đối với Hợp phần cà phê, BIDV đã giải ngân thông qua 10 PFI cho 5.412 khoản vay tái canh cà phê với tổng vốn lũy kế đã giải ngân đạt 1.949 tỷ VND. Theo báo cáo của các PFI, 100% các khoản vay tái canh cà phê đều đã được bên vay và PFI lập \"Bản Thỏa thuận bảo vệ môi trường\" thỏa mãn các điều khoản, điều kiện về bảo vệ môi trường như đã được qui định trong ESMF và POM2.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 1254,
+      "text": "Tại BIDV, số lượng dự án năng lượng tái tạo và dư nợ tài trợ cho lĩnh vực năng lượng tái tạo (năng lượng mặt trời, điện gió...) trong năm 2021 đã tăng lên rõ rệt. Chỉ tính riêng các dự án điện gió, điện mặt trời lớn có quy mô vay vốn trên 500 tỷ, trong giai đoạn 2020 – 2021 BIDV đã tài trợ 25 dự án với tổng số tiền cho vay ~23.400 tỷ đồng (hơn 1 tỷ USD).",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1258,
+      "text": "Với những đóng góp trong tăng trưởng xanh và phát triển bền vững, BIDV đã vinh dự được trao giải Top 10 Doanh nghiệp bền vững 2018, 2019, 2020 trong lĩnh vực Thương mại - Dịch vụ. Ngoài ra, BIDV đồng thời là thành viên thường trực của Hội đồng quốc gia về phát triển bền vững. Tính đến cuối năm 2021, quy mô tín dụng trong lĩnh vực năng lượng tái tạo của BIDV đạt hơn 1,7 tỷ USD, chiếm 36% dư nợ tín dụng cho năng lượng tái tạo ở Việt Nam.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1261,
+      "text": "Nguồn vốn WB cho Dự án Phát triển năng lượng tái tạo REDP hạn mức 200 triệu USD tài trợ đầu tư xây dựng 10 nhà máy thủy điện tại các tỉnh Lào Cai, Sơn La, Hòa Bình góp phần hạn chế phát thải khí gây hiệu ứng nhà kính, bảo vệ môi trường, giảm sự phụ thuộc vào nhiên liệu hóa thạch, đảm bảo an ninh năng lượng quốc gia.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 1262,
+      "text": "Nguồn vốn AFD cho Hạn mức tín dụng xanh Sunref hạn mức 100 triệu USD tài trợ 03 dự án điện gió tại các tỉnh Gia Lai, Sóc Trăng với tổng mức đầu tư là 4.642 tỷ đồng, giúp hỗ trợ cho các doanh nghiệp đầu tư sản xu ất năng lượng tái tạo, bảo vệ môi trường, ứng phó với biến đổi khí hậu và tăng trưởng xanh, qua đó góp phần vào sự phát triển kinh tế xã hội của các địa phương và an ninh năng lượng quốc gia.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 172,
+      "text": "Những kết quả đạt được từ công tác nhận sáp nhập HBB như: Tiếp nhận 1.528 nhân sự từ HBB về làm việc tại SHB nâng tổng số cán bộ nhân viên của Ngân hàng đến cuối năm lên 4.996 người; Tiếp nhận 20 Chi nhánh, 117 điểm giao dịch của HBB cũ nâng tổng sốđiểm giao dịch của SHB đến cuối năm lên 44 Chi nhánh và 270 điểm giao dịch trong cả nước và 02 Chi nhánh tại nước ngoài; Tích hợp hệ thống Corebanking của HBB vào SHB nhằm phục vụ cho công tác quản lý, ý, đ điều hành và thực hiện chế độ báo cáo thống kê của SHB; Tập trung vào nhiều giải pháp để giảm tỷ lệ nợ quá hạn, nợ xấu như: Tập trung thu hồi nợ quá hạn, nợ xấu , Cơ cấu nợ, thực hiện các giải pháp về tái cấu trúc doanh nghiệp , Xử lý tài sản, Các giải pháp về tư vấn tài chính, hỗ trợ tìm kiếm khách hàng, thị trường tiêu thụ, Hạn chế tối đa nợ quá hạn, nợ xấu mới phát sinh. Do vậy nợ xấu của SHB đến 31/12/2012 đã giảm xuống còn 8,8% so với nợ xấu của SHB sau sáp nhập tại thời điểm 30/09/2012 là 13,23%....",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

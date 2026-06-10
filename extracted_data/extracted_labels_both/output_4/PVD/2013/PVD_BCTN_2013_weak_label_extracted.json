@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 1450,
+      "text": "[TABLE] [CONTEXT] section: Môi trường và Quản lý chất thải ; caption: Ghi chú: - Lượng nước thải của DD ngoài giàn khoan được tính cho nhà thầu ; column_headers: Nội dung | Đơn vị | DD | Offshore | Tech | Well | Logging ; row_headers: Lượng nước thải sinh hoạt của mỗi đơn vị | Lượng nước thải sản xuất tại mỗi đơn vị | Tổng lượng nước tiêu thụ của mỗi đơn vị [ROWS] Nội dung | Đơn vị | DD | Offshore | Tech | Well | Logging [ROW] Lượng nước thải sinh hoạt của mỗi đơn vị | m 3 /năm | NA | 5.062 | 5.180 | 305 | 104 [ROW] Lượng nước thải sản xuất tại mỗi đơn vị | m 3 /năm | NA | 5.060 | 1.295 | 340 | 256 [ROW] Tổng lượng nước tiêu thụ của mỗi đơn vị | m 3 /năm | 840 | 10.122 | 6.475 | 645 | 360",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "paragraph_id": 1451,
+      "text": "[TABLE] [CONTEXT] section: Môi trường và Quản lý chất thải ; column_headers: Nội dung | Đơn vị | DD | Offshore | Tech | Well | Logging ; row_headers: Tổng số lượng chất thải | Lượng chất thải nguy hại | Lượng chất thải không nguy hại | Lượng chất thải có thể tái chế/ tái sử dụng [ROWS] Nội dung | Đơn vị | DD | Offshore | Tech | Well | Logging [ROW] Tổng số lượng chất thải | kg/năm | 356.140 | 36.000 | 75.550 | 4.000 | 4.640 [ROW] Lượng chất thải nguy hại | kg/năm | 126.300 | 33.000 | 74.350 | 2.500 | 2.140 [ROW] Lượng chất thải không nguy hại | kg/năm | 229.840 | 3.000 | 1.200 | 1.500 | 2.500 [ROW] Lượng chất thải có thể tái chế/ tái sử dụng | kg/năm | NA | 300 | 30.000 | 350 | 150",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    },
+    {
+      "paragraph_id": 1452,
+      "text": "[TABLE] [CONTEXT] section: Môi trường và Quản lý chất thải ; column_headers: TT | Thành phần chất thải [ROWS] TT | Thành phần chất thải [ROW] 1 | Bùn thải có dầu từ hoạt động bảo dưỡng cơ sở, máy móc, trang thiết bị [ROW] 2 | Que hàn thải [ROW] 3 | Chất thải từ quá trình cạo, bóc tách sơn hoặc véc ni có dung môi hữu cơ hoặc các thành phần nguy hại khác [ROW] 4 | Các loại dầu thải: dầu động cơ, hộp số, dầu bôi trơn, dầu cặn, và các loại dầu thải khác [ROW] 5 | Bao bì thải các loại có chứa chất hoặc nhiễm các thành phần nguy hại [ROW] 6 | Giẻ lau nhiễm dầu [ROW] 7 | Hộp mực in thải [ROW] 8 | Chất thải nhiễm dầu [ROW] 9 | Chất thải có các thành phần nguy hại khác với dầu (rắn/lỏng) [ROW] 10 | Bóng đèn huỳnh quang thải [ROW] 11 | Pin, ắc quy chì thải [ROW] 12 | Hóa chất thải [ROW] 13 | Pháo sáng thải",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 110,
+      "text": "GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept, GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept, tiên phong mở ra những con đường mới và không ngừng thách thức mọi giới tiên phong mở ra những con đường mới và không ngừng thách thức mọi giới hạn của bản thân.hạn của bản thân. GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept, GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept, tiên phong mở ra những con đường mới và không ngừng thách thức mọi giới tiên phong mở ra những con đường mới và không ngừng thách thức mọi giới hạn của bản thân.hạn của bản thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 122,
+      "text": "\"Gien Mở Đường\" khẳng \"Gien Mở Đường\" khẳng định năng lực của mỗi định năng lực của mỗi thành viên Gemadept với thành viên Gemadept với tinh thần tiên phong, dám tinh thần tiên phong, dám nghĩ dám làm, mở ra những nghĩ dám làm, mở ra những hướng đi mới, cách làm mới hướng đi mới, cách làm mới hiệu quả hơn.hiệu quả hơn. \"Gien Mở Đường\" khẳng \"Gien Mở Đường\" khẳng định năng lực của mỗi định năng lực của mỗi thành viên Gemadept với thành viên Gemadept với tinh thần tiên phong, dám tinh thần tiên phong, dám nghĩ dám làm, mở ra những nghĩ dám làm, mở ra những hướng đi mới, cách làm mới hướng đi mới, cách làm mới hiệu quả hơn.hiệu quả hơn.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1115,
+      "text": "Giấy phép môi trường số 3132/GPMT-UBND cấp ngày 26/11/2024 của UBND Quận Hải An (giấy phép này tích hợp gồm xả nước thải vào nguồn nước, bảo vệ môi trường đối với thu gom, xử lý nước thải, đảm bảo các giá trị giới hạn với tiếng ồn và độ rung, quản lý chất thải và phòng ngừa ứng phó sự cố môi trường).",
+      "hard_labels": [
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5,
+        "E_COMMON": 5
+      }
+    },
+    {
+      "paragraph_id": 1465,
+      "text": "Chất thải nguy hại cũng được phân loại ngay tạinguồn phát sinh chất thải nguy hại, được thu gom bảo quản có che đậy, dán cảnh báo chất thải nguy hại. Biện pháp xử lý đăng ký với đơn vị có chức năng xử lý.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Thấu hiểu việc đội ngũ nhân sự luôn là lực lượng nòng cốt cho sự phát triển của công ty, BSC luôn chú trọng vào công tác đào tạo năng lực chuyên môn, nâng cao nghiệp vụ cho cán bộ. Đồng thời, bồi đắp tinh thần yêu nghề, tận tâm với công việc qua những chương trình đạo tạo hàng năm, những hoạt động gắn kết nội bộ. Nhờ đó, tại BSC, cán bộ nhân viên luôn có tinh thần trách nhiệm, chú trọng xây dựng niềm tin với khách hàng và đồng nghiệp, liên tục cải tiến và sáng tạo, trung thực và thẳng thắn trên cơ sở tôn trọng bản thân và tôn trọng đồng nghiệp. Thái độ tích cực thể hiện qua lòng ham mê nhiệt huyết trong công việc mỗi ngày, sẵn sàng học hỏi, nâng cao năng lực với tinh thần cầu thị.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 5
+      }
+    }
+  ]
+}

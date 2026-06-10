@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "Công tác phân loại chất thải luôn được tuân thủ nghiêm ngặt trong toàn Tổng Công ty. Chất thải trong hoạt động sản xuất kinh doanh của PV Drilling bao gồm 2 loại chính: chất thải rắn thông thường và chất thải nguy hại.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "Đối với các cơ sở sản xuất trên bờ, hầu hết các phân xưởng sản xuất đều nằm trong khu công nghiệp có hệ thống xử lý nước thải tập trung của PV Drilling, mặc dù các xưởng sản xuất đều nằm trong khu công nghiệp có hệ thống xử lý nước thải tập trung nhưng một số đơn vị vẫn tự xây dựng hệ thống riêng để thu gom và xử lý nước đạt tiêu chuẩn trước khi thải ra hệ thống thu gom chung. Hệ thống xử lý nước thường xuyên được kiểm tra các thông số nước thải đầu vào và nước sau xử lý ở đầu ra để đảm bảo hệ thống luôn hoạt động tốt.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Bảng thống kê các sự cố trên toàn Tổng Công ty qua các năm 2012 - 2015 ; column_headers: 2012 | 2013 | 2014 | 2015 ; row_headers: Cận nguy - Near miss | Hư hỏng tài sản - Property Damage | Sơ cấp cứu - First Aid | Điều trị y tế/ chuyển sang công việc khác - Medical Treatment Case/RWTC | Tai nạn mất thời gian lao động - LTI | Chết người - Fatality [ROWS] Loại sự cố | 2012 | 2013 | 2014 | 2015 [ROW] Cận nguy - Near miss | 19 | 8 | 14 | 9 [ROW] Hư hỏng tài sản - Property Damage | 16 | 7 | 6 | 11 [ROW] Sơ cấp cứu - First Aid | 8 | 5 | 5 | 9 [ROW] Điều trị y tế/ chuyển sang công việc khác - Medical Treatment Case/RWTC | 4 | 2 | 2 | 2 [ROW] Tai nạn mất thời gian lao động - LTI | 2 | 2 | 0 | 0 [ROW] Chết người - Fatality | 0 | 0 | 0 | 1",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 4
+      }
+    }
+  ]
+}

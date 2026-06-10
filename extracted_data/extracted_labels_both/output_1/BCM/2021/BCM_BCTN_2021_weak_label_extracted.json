@@ -1,0 +1,92 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Để hạn chế đến mức thấp nhất các rủi ro về môi trường, Tổng Công ty tập trung triển khai xây dựng và nâng cấp các trạm xử lý nước thải tập trung công nghệ cao. Nước thải đầu ra được lấy mẫu tự động và truyền tín hiệu liên tục về trung tâm điều khiển cũng như Sở Tài nguyên môi trường nhằm theo dõi và kịp thời xử lý khi nước thải đầu ra vượt ngưỡng cho phép.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E2",
+        "E6",
+        "E7",
+        "G27"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E2",
+        "E6",
+        "E7",
+        "G27"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Trong năm qua, dưới sự tác động to lớn của đại dịch Covid-19, tinh thần trách nhiệm và tinh thần nhân văn của doanh nghiệp đã được phát huy cao thông qua nhiều hoạt động thiết thực và ý nghĩa. Tổng Công ty đã có những chính sách quan trọng để chăm sóc tốt nhất cho nhân viên, người lao động, những người có liên quan và đồng hành sâu sắc với nhiều địa phương. Trong thời gian đó, bên cạnh nỗ lực xây dựng các kế hoạch thúc đẩy hoạt động kinh doanh, Becamex IDC cũng đặt ra nhiều yêu cầu mới để liên tục nâng cao trách nhiệm trong phát triển bền vững. Đối với Tổng Công ty, phát triển bền vững bắt đầu từ hệ giá trị cốt lõi của doanh nghiệp và là nguyên tắc cơ sở cho mọi quyết định và hành động trên tư cách doanh nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Bên cạnh đó, trong suốt những năm qua, Becamex IDC luôn cố gắng tạo mọi điều kiện tốt nhất để đảm bảo mọi thành viên, bất kể giới tính, độ tuổi, trình độ đều có được những cơ hội phát triển bản thân một cách công bằng nhất. Becamex IDC tự đặt cho mình trách nhiệm nâng cao đời sống của không chỉ khách hàng mà cả toàn thể cán bộ, nhân viên của Công ty. Doanh nghiệp đã thực hiện đúng các quy định của pháp luật về chính sách bảo hiểm bắt buộc, chi trả toàn bộ chi phí mua bảo hiểm sức khỏe/tai nạn cho người lao động hàng năm và tổ chức khám sức khỏe định kỳ 1 năm/lần. Bên cạnh đó, Ban lãnh đạo luôn tạo điều kiện để người lao động phát triển năng lực và phát huy hết khả năng trong môi trường làm việc năng động, chuyên nghiệp, đặc biệt, tại Becamex IDC, mọi đóng góp, sáng tạo giúp nâng cao kết quả sản xuất kinh doanh cho Tổng Công ty đều được khen thưởng xứng đáng. Tổng Công ty cũng luôn quan tâm chăm lo đời sống tinh thần cho người lao động thông qua các hoạt động du lịch, thể thao, tổ chức thăm hỏi vào các dịp hiếu hỉ, lễ tết,...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E2",
+        "E6",
+        "E7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E2",
+        "E6",
+        "E7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

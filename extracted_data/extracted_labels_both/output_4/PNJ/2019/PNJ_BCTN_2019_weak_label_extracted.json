@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: Đảm bảo điều kiện kinh tế cho người lao động ; column_headers: 2019 | 2016 ĐVT | 2017 | 2018 | Deloitte đảm bảo ; row_headers: Lương tối thiểu theo quy định | Lương trung bình với lao động nữ | Lương trung bình cấp quản lý nam | Tỷ lệ lương trung bình của LĐ nữ/lương tối thiểu | Lương trung bình với lao động nam | Lương trung bình cấp quản lý nữ | Tỷ lệ lương trung bình của LĐ nam/lương tối thiểu | Thù lao trung bình cấp quản lý nam | Thù lao trung bình cấp quản lý nữ | Lương trung bình của nhân viên [ROWS] Chỉ tiêu | Deloitte đảm bảo | 2016 ĐVT | 2017 | 2018 | 2019 [ROW] Lương tối thiểu theo quy định | Triệu đồng | 3.5 | 3.75 | 3.98 | 4.18 [ROW] Lương trung bình với lao động nam | Triệu đồng | 11.5 | 12.9 | 13.0 | 12.32 [ROW] Lương trung bình cấp quản lý nam | Triệu đồng | 40.8 | 46.9 | 52.2 | 52.54 [ROW] Thù lao trung bình cấp quản lý nam | Triệu đồng | 40.8 | 46.9 | 52.2 | 71.26 [ROW] Lương trung bình với lao động nữ | Triệu đồng | 10.8 | 12.1 | 12.2 | 11.43 [ROW] Lương trung bình cấp quản lý nữ | Triệu đồng | 11.5 | 12.9 | 13.0 | 53.22 [ROW] Thù lao trung bình cấp quản lý nữ | Triệu đồng | 39.7 | 44.3 | 52.0 | 73.23 [ROW] Tỷ lệ lương trung bình của LĐ nam/lương tối thiểu | % | 331% | 369% | 327% | 295% [ROW] Tỷ lệ lương trung bình của LĐ nữ/lương tối thiểu | % | 309% | 345% | 321% | 273% [ROW] Lương trung bình của nhân viên | Triệu đồng | 11.2 | 12.5 | 12.9 | 13.79",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 6
+      }
+    }
+  ]
+}

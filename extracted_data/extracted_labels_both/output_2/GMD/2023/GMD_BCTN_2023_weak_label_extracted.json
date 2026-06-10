@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept, tiên GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept, tiên phong mở ra những con đường mới và không ngừng thách thức mọi giới hạn của bản phong mở ra những con đường mới và không ngừng thách thức mọi giới hạn của bản thân.thân. GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept, tiên GMD - \"Gen Mở Đường\": khẳng định năng lực của mỗi con người Gemadept, tiên phong mở ra những con đường mới và không ngừng thách thức mọi giới hạn của bản phong mở ra những con đường mới và không ngừng thách thức mọi giới hạn của bản thân.thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

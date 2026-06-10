@@ -1,0 +1,38 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "S0"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S0"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Xây dựng kế hoạch cắt giảm Khí nhà kính của Tập đoàn với các hoạt động chủ chốt là Đánh giá hiện trạng, Đo lường và Kiểm kê khí nhà kính, trồng rừng và sử dụng năng lượng tái tạo;",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.388514
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E3": 1
+      }
+    }
+  ]
+}

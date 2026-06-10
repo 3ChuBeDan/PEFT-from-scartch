@@ -1,0 +1,254 @@
+{
+  "extracted_count": 13,
+  "extracted": [
+    {
+      "paragraph_id": 675,
+      "text": "Current ratio was greater than 1, quick ratio was greater than 0.5 and higher than 2023.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 755,
+      "text": "Besides, using energy economically and efficiently is a practical solution to improve economic efficiency, while contributing to conserve national energy resources, protect the environment and reduce greenhouse gas emissions. Vietnam National Petroleum Group, whose main business lines are: Distribution, wholesale, and retail of petroleum, petrochemical products, and related products, and not being a direct manufacturing enterprise, the demand for water, energy, etc., only serves the living and working processes of employees at Offices, Terminals, and Petroleum Stations. The Group has launched a campaign to implement greenhouse gas emission reduction towards the goal of carbon neutrality and net-zero throughout the entire system, in which solutions to reduce electricity consumption and reduce transportation fuel consumption are the optimal solutions encouraged to be applied.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 803,
+      "text": "All liquidity ratios in 2024 increased compared to 2023 and were within the safe threshold (current ratio was greater than 1, the quick ratio was greater than 0.5; interest payment ratio was greater than 2). This showed that the Group was able to pay its short-term obligations and that the use of borrowed capital was effective.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 878,
+      "text": "Environmental monitoring was carried out periodically. The results of environmental sample analysis of wastewater, exhaust gas, seawater and groundwater were all within permissible limits. Hazardous waste generated during the Company's operations such as (sludge, oil-contaminated iron filings, hazardous waste containers, oil-contaminated towels and rags, fluorescent bulbs, etc.) were classified at source, managed, stored and contracted with a competent unit for treatment according to regulations.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1150,
+      "text": "Regarding ensuring that conflicts of interest are properly managed and protecting the interests of the Group and shareholders, Section 6 of the Group's Charter clearly stipulates that Board of Directors (BOD) members must have the responsibility to be diligent, honest, avoid conflicts of interest, and act in the best interests of shareholders and the Group. At the same time, clearly stipulate the responsibility to compensate for damages caused by one's violations. In addition, members of the Board of Directors must exercise their rights, obligations and responsibilities in accordance with the provisions of the Enterprise Law, the Group's Charter, the Internal Governance Regulations and other internal regulations.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1243,
+      "text": "Solid waste generated daily at the facilities includes: domestic waste (vegetables, tubers, fruits, leaves, grass, paper, etc.) and common industrial solid waste (non-hazardous packaging materials). The average waste volume of each gas station is about 70kg/ month.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 1965,
+      "text": "Petrolimex đã và đang là doanh nghiệp tiên phong trong việc triển khai kinh doanh các sản phẩm xăng dầu có mức phát thải khí CO 2 thấp, thân thiện với môi trường. Petrolimex hiện đang nhận được sự đồng hành, hỗ trợ của ENEOS Corporation trong việc nghiên cứu, phát triển các sản phẩm xăng dầu chất lượng cao, các sản phẩm năng lượng mới xanh, sạch, thân thiện với môi trường như hydrogen, amonia... Ngoài ra, Petrolimex đã ký biên bản ghi nhớ hợp tác với Trung tâm đổi mới sáng tạo quốc gia (NIC) và Liên minh Năng lượng toàn cầu vì con người và Hành tinh (GEAPP) nhằm hỗ trợ, phối hợp chuyển đổi, chuyển giao công nghệ trong lĩnh vực năng lượng Hydrogen, năng lượng mới, năng lượng tái tạo...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 2250,
+      "text": "Trước sự gia tăng mạnh mẽ của các hình thức tấn công qua mạng vào các doanh nghiệp, Lãnh đạo Tập đoàn Xăng dầu đã chỉ đạo triển khai quyết liệt từ Tập đoàn cho đến các đơn vị thành viên thực hiện nghiêm túc các giải pháp để phòng ngừa và ngăn chặn sự tấn công an ninh mạng từ các hacker. Tập đoàn đã triển khai đầu tư hệ thống dự phòng DR; sao lưu dữ liệu backup lên cloud; triển khai mua bảo hiểm an toàn an ninh mạng nhằm bảo đảm lợi ích, giảm thiệt hại về tài chính cũng như gia tăng uy tín và vị thế của Tập đoàn; triển khai xác thực đa yếu tố trên các ứng dụng doffice; ban hành các quy chế quy định về phòng ngừa, ứng cứu sự cố an toàn thông tin mạng...",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 2293,
+      "text": "Việc quản lý một hệ thống cơ sở vật chất, trang thiết bị đa dạng, lại phân bố trên phạm vi rộng lớn, trong đó có những hạng mục nằm ngầm dưới đất như tuyến ống vận chuyển xăng dầu đặt ra một thách thức không hề nhỏ đối với Petrolimex trong việc đảm bảo an toàn môi trường. Petrolimex luôn chú trọng rà soát, kiểm tra hệ thống bảo vệ môi trường tại các đơn vị nhằm hạn chế thấp nhất các tác động đến môi trường, đảm bảo tuân thủ chặt chẽ Luật Bảo vệ môi trường và Quy chế Bảo vệ môi trường của Tập đoàn: 100% cơ sở có các loại giấy phép môi trường, đăng ký môi trường và báo cáo môi trường, thực hiện quan trắc môi trường theo đúng quy định; Không vi phạm pháp luật; Không có sự cố môi trường; Không có khiếu nại của cộng đồng xung quanh về môi trường; các thông số môi trường tại các công trình xăng dầu hàng năm đều nằm trong giới hạn cho phép của các quy chuẩn và tiêu chuẩn Việt Nam hiện hành. Báo cáo về công tác bảo vệ môi trường được các đơn vị cập nhật gửi về Tập đoàn và cơ quan quản lý môi trường địa phương định kỳ theo quy định.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 4
+      }
+    },
+    {
+      "paragraph_id": 2417,
+      "text": "Việc quan trắc môi trường được thực hiện định kỳ. Các chỉ số kết quả phân tích mẫu môi trường về nước thải, khí thải, nước biển, nước ngầm đều trong giới hạn cho phép. Các chất thải nguy hại phát sinh trong quá trình hoạt động của Công ty như (bùn thải, mạt sắt nhiễm dầu, thùng chứa chất thải nguy hại, khăn, giẻ lau nhiễm dầu, bóng đèn huỳnh quang...) được phân loại tại nguồn, quản lý, lưu trữ và ký hợp đồng với đơn vị có năng lực xử lý theo quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 7,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 2749,
+      "text": "Ngày 10/4/2025, Tập đoàn Xăng dầu Việt Nam (Petrolimex) đã trở thành Tập đoàn nhà nước quy mô lớn đầu tiên tại Việt Nam vinh dự được Viện tiêu chuẩn Anh BSI trao Giấy kiểm tra xác nhận Báo cáo kiểm kê khí nhà kính theo tiêu chuẩn ISO 140641:2018 cho hoạt động kiểm kê phát thải khí nhà kính.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 2776,
+      "text": "Chất thải rắn phát sinh hàng ngày tại các cơ sở gồm: chất thải sinh hoạt (rau, củ, quả, lá cây, cỏ, giấy...) và chất thải rắn công nghiệp thông thường (các loại bao bì không nằm trong danh mục nguy hại). Khối lượng chất thải trung bình của mỗi cửa hàng xăng dầu khoảng 70kg/tháng.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 3179,
+      "text": "[TABLE] [CONTEXT] section: CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 31 DECEMBER 2024 (INDIRECT METHOD) ; column_headers: 17 | (1,078,126,941,733) | (542,538,240,177) ; row_headers: Net cash flows from operating activities | CASH FLOWS FROM INVESTING ACTIVITIES | Payments for additions to fixed assets and other long\u0002 term assets | Proceeds from disposals of fixed assets and other long\u0002 term assets | Payments for placement of deposits with terms of more than 3 months, purchase of debt instruments of other entities | Receipts from withdrawal of deposits with terms of more than 3 months, sales of debt instruments of other entities | Collections on investments in other entities | Receipts of interests, dividends and shares of profits | Net cash flows from investing activities | CASH FLOWS FROM FINANCING ACTIVITIES | Proceeds from borrowings | Payments to settle loan principals | Payments of dividends | Net cash flows from financing activities | Net cash flows during the year (50 = 20 + 30 + 40) | Cash and cash equivalents at the beginning of the year | Effect of exchange rate fluctuations on cash and cash equivalents | Cash and cash equivalents at the end of the year (70 = 50 + 60 + 61) (Note 5) [ROWS] Other payments for operating activities | 17 | (1,078,126,941,733) | (542,538,240,177) [ROW] Net cash flows from operating activities | 20 | 2,372,990,773,154 | 5,273,573,151,161 [ROW] CASH FLOWS FROM INVESTING ACTIVITIES | Code | 2024 VND | 2023 VND [ROW] Payments for additions to fixed assets and other long\u0002 term assets | 21 | (1,995,731,599,636) | (1,652,018,073,110) [ROW] Proceeds from disposals of fixed assets and other long\u0002 term assets | 22 | 44,365,512,966 | 32,687,539,636 [ROW] Payments for placement of deposits with terms of more than 3 months, purchase of debt instruments of other entities | 23 | (22,861,164,367,130) | (28,587,141,387,911) [ROW] Receipts from withdrawal of deposits with terms of more than 3 months, sales of debt instruments of other entities | 24 | 26,024,480,599,593 | 19,111,847,066,624 [ROW] Collections on investments in other entities | 26 | - | 2,573,005,260,000 [ROW] Receipts of interests, dividends and shares of profits | 27 | 1,339,532,126,854 | 1,446,768,601,730 [ROW] Net cash flows from investing activities | 30 | 2,551,482,272,647 | (7,074,850,993,031) [ROW] CASH FLOWS FROM FINANCING ACTIVITIES | Code | 2024 VND | 2023 VND [ROW] Proceeds from borrowings | 33 | 71,468,190,918,980 | 82,478,085,876,631 [ROW] Payments to settle loan principals | 34 | (73,402,086,128,922) | (77,133,802,144,004) [ROW] Payments of dividends | 36 | (2,107,418,183,785) | (1,099,707,459,657) [ROW] Net cash flows from financing activities | 40 | (4,041,313,393,727) | 4,244,576,272,970 [ROW] Net cash flows during the year (50 = 20 + 30 + 40) | 50 | 883,159,652,074 | 2,443,298,431,100 [ROW] Cash and cash equivalents at the beginning of the year | 60 | 14,048,245,083,619 | 11,606,028,926,698 [ROW] Effect of exchange rate fluctuations on cash and cash equivalents | 61 | 1,664,056,622 | (1,082,274,179) [ROW] Cash and cash equivalents at the end of the year (70 = 50 + 60 + 61) (Note 5) | 70 | 14,933,068,792,315 | 14,048,245,083,619",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

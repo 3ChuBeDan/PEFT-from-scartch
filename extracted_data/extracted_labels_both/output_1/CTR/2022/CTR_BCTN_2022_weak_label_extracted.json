@@ -1,0 +1,47 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 344,
+      "text": "Thực hiện giám sát và đo lường quan trắc môi trường lao động (khí thải, tiếng ồn, bụi...) theo đúng yêu cầu của Pháp luật.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 354,
+      "text": "Toàn bộ chất thải nguy hại đều có thùng chứa chất thải nguy hại như bóng đèn, mực in, vỏ can sơn... được thu gom vào thùng chứa riêng biệt có biển báo và nhận dạng trước khi tập kết đến kho chứa của Tòa nhà, chủ đầu tư.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    }
+  ]
+}

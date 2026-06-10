@@ -1,0 +1,374 @@
+{
+  "extracted_count": 20,
+  "extracted": [
+    {
+      "paragraph_id": 129,
+      "text": "Tinh thần trách nhiệm - Tinh thần hợp tác - Năng động - Chất lượng - Dễ tiếp cận",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 562,
+      "text": "Nâng cao trải nghiệm khách hàng, đại lý thông qua các chương trình khách hàng thân thiết (Loyalty), cung cấp thêm những công cụ cho đại lý dành cho bán hàng, tương tác (MyAP, BaoViet Digital Platform)... Việc nâng cao trải nghiệm khách hàng được Bảo Việt ưu tiên thực hiện giúp hành trình trải nghiệm của khách hàng được đầy đủ, liên tục, liền mạch và không bị ngắt quãng từ khi khách hàng quan tâm đến sản phẩm cho đến khi mua hàng, thanh toán phí, và các dịch vụ chăm sóc sau bán hàng như Bồi thường, thay đổi điều kiện, điều khoản hợp đồng và các chương trình chăm sóc khách hàng thân thiết của Bảo Việt. Khách hàng có nhiều lựa chọn và được trải qua nhiều điểm chạm khác nhau với Bảo Việt: Qua web site, Chatbot, Call Center, SMS, các công ty, văn phòng của Bảo Việt trên toàn quốc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 629,
+      "text": "Kinh tế tuần hoàn, hiểu một cách đơn giản là biến rác thải đầu ra của ngành này thành nguồn tài nguyên đầu vào của ngành khác hay tuần hoàn trong nội tại bản thân của một doanh nghiệp. Kinh tế tuần hoàn một phần góp phần gia tăng giá trị cho doanh nghiệp, giảm khai thác tài nguyên, giảm chi phí xử lý chất thải, giảm thiểu ô nhiễm môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.75,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 767,
+      "text": "Về bảo hiểm tàu cá, Bảo Việt đã cùng với 3 doanh nghiệp (Bảo Minh, PJICO và PVI) triển khai chương trình bảo hiểm tàu cá theo Nghị định 67/2014/ NĐ-CP của Chính phủ. Đây là một chủ trương lớn của Chính phủ trong việc hỗ trợ, giúp đỡ bà con ngư dân yên tâm vươn khơi, bám biển, cải thiện đời sống, nâng cao thu nhập cho các hộ gia đình và góp phần khẳng định chủ quyền và bảo vệ biển đảo của Việt Nam. Từ tháng 4/2020, các doanh nghiệp đã dừng triển khai theo Quy tắc, biểu phí của Bộ Tài Chính. Từ năm 2021 đến nay, Bảo Việt triển khai nghiệp vụ bảo hiểm tàu cá theo Quy tắc bảo hiểm tàu cá của Bảo Việt, bao gồm: bảo hiểm thân tàu; bảo hiểm trách nhiệm dân sự chủ tàu và bảo hiểm tai nạn thuyền viên. Trong đó, 2 nghiệp vụ (bảo hiểm thân tàu và bảo hiểm tai nạn thuyền viên) được triển khai theo quyết định số 48/2010/QĐ-TTg ngày 13/7/2010. Nhà nước hỗ trợ 50% kinh phí mua bảo hiểm thân tàu và hỗ trợ 100% kinh phí mua bảo hiểm tai nạn thuyền viên. Trong giai đoạn 2021-2023, Bảo Việt đã thực hiện bảo hiểm cho 16.653 tàu cá, thực hiện chi trả bồi thường khoảng 63 tỷ đồng. Đối với bảo hiểm tai nạn thuyền viên, trong giai đoạn 2021-2023, Bảo Việt đã thực hiện chi trả bồi thường khoảng 10 tỷ đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1169,
+      "text": "Các loại hình bảo hiểm Phi nhân thọ để bảo vệ sức khỏe và an toàn tài chính trước các rủi ro về sức khỏe cho cán bộ nhân viên và người thân bao gồm: Bảo hiểm sức khỏe và bảo hiểm kết hợp con người (Healthcare), Bảo hiểm sức khỏe cho người thân, Bảo hiểm kết hợp con người và Bảo hiểm Bệnh ung thư (K�Care).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1301,
+      "text": "Song song với các hoạt động thúc đẩy kinh doanh, Tổng Công ty Bảo hiểm Bảo Việt cũng luôn đi đầu trong việc tạo dựng môi trường làm việc chuyên nghiệp, thân thiện, mang đến cơ hội phát triển, thăng tiến và chế độ đãi ngộ tốt đối với toàn thể hơn 3.000 cán bộ nhân viên của Bảo hiểm Bảo Việt. Xuất phát từ việc luôn luôn lắng nghe để thấu hiểu những quan tâm của nhân viên, Bảo hiểm Bảo Việt đã xây dựng một tiêu chuẩn mới về nơi làm việc lý tưởng, nơi mà tất cả nhân viên nhận được cam kết quan tâm toàn diện và phát triển tối đa trong một lộ trình nghề nghiệp cá nhân, tương thưởng xứng đáng cho những đóng góp, thông qua những trải nghiệm đa dạng, những thử thách trong công việc, cơ hội học hỏi để hoàn thiện và phát triển bản thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1362,
+      "text": "Tiếp tục triển khai chuỗi chương trình \"Ngày Quốc tế Yoga\" với chủ đề \"Yoga hài hòa và an lạc\", mong muốn truyền đi thông điệp \"Sự kết hợp hài hòa giữa thân thể khỏe mạnh và tâm an lạc sẽ giúp ta bình thản đối mặt với thử thách, đón nhận cuộc sống hạnh phúc, an lành\". Chương trình thu hút hơn 10.000 người trực tiếp tham dự đồng diễn tại sự kiện.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1365,
+      "text": "Trong từng giai đoạn của cuộc đời, BVNT luôn ở bên, cùng khách hàng xây dựng các giải pháp tài chính linh hoạt và vững chắc để bảo vệ bản thân và những người thân yêu. Với tinh thần \"Niềm tin vững chắc - Cam kết vững bền\", BVNT luôn kịp thời thực hiện trách nhiệm đã cam kết với khách hàng. Năm 2023, BVNT đã thực hiện chi trả quyền lợi cho khách hàng với số tiền là 3.535 tỷ đồng, trong đó chi trả quyền lợi rủi ro là 1.326 tỷ đồng và quyền lợi đáo hạn là 2.209 tỷ đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 2210,
+      "text": "Khối Kiểm tra - Kiểm toán nội bộ Tập đoàn Bảo Việt sử dụng phương pháp tiếp cận dựa trên rủi ro để thực hiện các hoạt động kiểm toán, theo đó Khối Kiểm tra - Kiểm toán nội bộ căn cứ vào kết quả đánh giá rủi ro để xác định mục tiêu, đối tượng kiểm toán, phạm vi kiểm toán và cách thức thực hiện kiểm toán.",
+      "hard_labels": [
+        "S5"
+      ],
+      "soft_labels": {
+        "S5": 1.0
+      },
+      "themes": [
+        "S5"
+      ],
+      "top_label": "S5",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S5": 1
+      }
+    },
+    {
+      "paragraph_id": 2675,
+      "text": "Là doanh nghiệp có các hoạt động kinh doanh dịch vụ tài chính, hoạt động kinh doanh Bảo Việt không sản sinh nhiều lượng khí thải nhà kính cũng gây ra các tác động đáng kể đến môi trường. Tuy nhiên với các trụ sở làm việc, các Tòa nhà do Bảo Việt quản lý và sử dụng, việc kiểm soát lượng khí thải, chất thải, nước thải từ các Tòa nhà Bảo Việt là biện pháp bảo vệ môi trường tiếp theo sẽ được Bảo Việt triển khai. Hiện tại, Bảo Việt cũng đang xây dựng quy chế quản lý các nguồn phát thải khí nhà kính căn cứ theo Giao thức báo cáo Khí nhà kính (GHG Protocol).",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 2
+      }
+    },
+    {
+      "paragraph_id": 2682,
+      "text": "Báo cáo Khí thải nhà kính (GHG Protocol) tại các tòa nhà Bảo Việt",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 2683,
+      "text": "Giao thức báo cáo Khí nhà kính (GHG Protocol) là công cụ kiểm đếm được sử dụng rộng rãi trên thế giới để định lượng, nắm bắt và quản lý phát thải Khí nhà kính do Viện Tài nguyên Thế giới (WRI) và Hội đồng Doanh nghiệp thế giới về phát triển bền vững (WBCSD) xây dựng. Báo cáo Khí nhà kính phân biệt 3 \"phạm vi\" (Scope) phát thải mà hiện nay được các hệ thống trên thế giới sử dụng, bao gồm:",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 2689,
+      "text": "Theo đó, trong năm 2023, trung bình cứ 01 tỷ đồng doanh thu Tập đoàn Bảo Việt thu được sẽ cần triển khai các hoạt động hỗ trợ kinh doanh liên quan và thải ra 0,014 tấn C0 2 ra môi trường. Với sự nỗ lực của cán bộ nhân viên của toàn hệ thống cùng các chính sách tiết kiệm và bền vững, cường độ phát thải khí nhà kính tại Bảo Việt năm 2023 đã giảm 33% cường độ phát thải ra môi trường so với năm 2022 và bằng 40% cường độ phát thải khí nhà kính trung bình trên 01 tỷ đồng GDP Việt Nam.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 2822,
+      "text": "Trong năm 2023, Công đoàn Tập đoàn Bảo Việt phối hợp với đơn vị thành viên tại các địa phương triển khai xây dựng và bàn giao 03 nhà tình nghĩa cho các gia đình chính sách tại các tỉnh Lạng Sơn, Hà Nam, An Giang với mong muốn tri ân và hỗ trợ các gia đình có công với đất nước có mái ấm khang trang hơn, thể hiện tinh thần tương thân tương ái của một doanh nghiệp có lịch sử hoạt động lâu đời nhất trong lĩnh vực bảo hiểm. Trong khuôn khổ chương trình, đoàn cũng trao quà cho 10 gia đình chính sách tại huyện Kỳ Sơn, tỉnh Nghệ An, thể hiện sự quan tâm tới các gia đình chính sách nhân dịp kỷ niệm Ngày Thương binh liệt sỹ 27/7.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 2844,
+      "text": "Trước sự cố cháy chung cư mini đêm ngày 12/9 tại tại số nhà 37 ngách 29/70 phố Khương Hạ, quận Thanh Xuân, Hà Nội, Công đoàn Tập đoàn Bảo Việt phối hợp cùng Công đoàn Chứng khoán Bảo Việt phát động và kêu gọi toàn thể cán bộ cùng tham gia chương trình quyên góp, hỗ trợ về tinh thần và vật chất, chung tay cùng chính quyền và nhân dân địa phương sớm khắc phục hậu quả của sự tổn thất to lớn này. Chương trình đã huy động đóng góp tự nguyện được tổng cộng 518 triệu đồng từ các Công đoàn viên và đã chuyển toàn bộ kinh phí trên về Ủy ban Mặt trận Tổ quốc quận Thanh Xuân để tập trung phân bổ cho nạn nhân bị thiệt hại. Hi vọng đây là nguồn động viên tinh thần gửi đến các nạn nhân, gia đình, để vượt qua khó khăn tai nạn này, đồng thời cũng là lan toả, giáo dục tinh thần nhân đạo, vì cộng đồng tới từng cán bộ nhân viên trong công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 3420,
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo bằng việc áp dụng giả định tương đối thận trọng để tránh các biến động bất lợi trong thực tiễn hoạt động. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả xảy ra trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 3424,
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảo Việt Nhân thọ đang sử dụng Bảng tỷ lệ tử vong CSO 1980. Riêng với các sản phẩm niên kim nhân thọ, bảng tỷ lệ riêng biệt được sử dụng nhằm đảm bảo trích lập dự phòng thận trọng và đầy đủ.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "E3": 0.5,
+        "S4": 1.0
+      },
+      "themes": [
+        "E3",
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 3984,
+      "text": "[TABLE] [CONTEXT] section: Đánh giá chung về thực hành quản trị công ty trong năm 2023 của Tập đoàn Bảo Việt được ghi nhận như sau: ; column_headers: Tiêu chí | Kết quả đánh giá | Giải thích kết quả | Về đối xử bình đẳng với cổ đông [ROWS] Tiêu chí | Kết quả đánh giá | Giải thích kết quả [ROW] Về đối xử bình đẳng với cổ đông [ROW] Thông báo và tài liệu họp ĐHĐCĐ | • Công bố thông báo họp và các tài liệu liên quan song ngữ Anh - Việt trên website của Bảo Việt; • Cung cấp đầy đủ cơ sở, thông tin và giải trình cho các vấn đề trình ĐHĐCĐ thông qua tại Đại hội; [ROW] Công bố thông tin về ứng viên HĐQT, chính sách chi trả cổ tức | Công bố đầy đủ trong tài liệu ĐHĐCĐ và Báo cáo thường niên [ROW] Chất lượng và thời gian công bố tài liệu ĐHĐCĐ bằng tiếng Anh | Thông báo và tài liệu ĐHĐCĐ gần nhất đã được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu tiếng Việt. [ROW] Công ty chưa có quy định yêu cầu phải có một tiểu ban bao gồm các thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông. [ROW] Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao. | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích trong Điều lệ, Quy chế nội bộ và Quy chế hoạt động của HĐQT [ROW] Công ty quy định tại Điều lệ và Quy chế quản trị yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 4001,
+      "text": "[TABLE] [CONTEXT] section: Các cấu phần của hệ thống kiểm soát nội bộ Tập đoàn Bảo Việt và đánh giá của khối Kiểm tra - Kiểm toán nội bộ ; column_headers: STT | Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận [ROWS] STT | Nguyên tắc | Mô tả kiểm soát tại Tập đoàn Bảo Việt | Kiểm soát có tồn tại không? | Kiểm soát có hoạt động hiệu quả không? | Kết luận [ROW] 7. | Nhận diện rủi ro liên quan đến việc hoàn thành mục tiêu xuyên suốt toàn Tập đoàn và phân tích rủi ro làm cơ sở cho việc xác định cách thức quản lý rủi ro | Ban hành Quy chế quản lý rủi ro nhằm nhận diện, kiểm soát và báo cáo về các rủi ro chính, bao gồm: rủi ro bảo hiểm, rủi ro hoạt động, rủi ro thị trường, rủi ro tín dụng, rủi ro thanh khoản, rủi ro danh tiếng, rủi ro chiến lược, rủi ro phát triển bền vững; Quy chế quản lý rủi ro quy định rõ cơ cấu tổ chức, quyền hạn và trách nhiệm của các cấp trong công tác quản lý rủi ro; cách thức nhận diện các rủi ro trọng yếu và các chuẩn mực quản trị rủi ro trong hoạt động kinh doanh của Tập đoàn Bảo Việt và các Công ty con Ban hành Chính sách quản lý rủi ro, Tuyên bố khẩu vị rủi ro và hạn mức rủi ro chủ yếu của Tập đoàn Bảo Việt cho từng thời kỳ. [ROW] 8. | Xem xét nguy cơ gian lận khi đánh giá rủi ro liên quan đến việc hoàn thành các mục tiêu | Rủi ro gian lận là một trong số các loại rủi ro được nhận diện, đánh giá trong Quy chế quản lý rủi ro, Chính sách quản lý rủi ro. [ROW] 9. | Nhận diện và đánh giá các thay đổi có thể ảnh hưởng đáng kể đến hệ thống kiểm soát nội bộ | Các vấn đề liên quan đến rủi ro (ví dụ: các yếu tố tác động từ môi trường bên ngoài như chính sách, cơ chế, chính trị...) được phản ánh trong các Báo cáo Ban điều hành đồng thời được phân tích, đánh giá và xử lý tại các cuộc họp định kỳ của Hội đồng Quản lý rủi ro (RMC) và Ủy ban Tài sản Nợ - Tài sản có (ALCO). [ROW] TÊN CẤU PHẦN: HOẠT ĐỘNG KIỂM SOÁT [ROW] 10. | Lựa chọn và phát triển các hoạt động kiểm soát nhằm giảm thiểu rủi ro ở mức độ có thể chấp nhận được | Các biện pháp kiểm soát được thiết lập và vận hành đối với mọi hoạt động tại tất cả các cấp, được lồng ghép trong các tác nghiệp hàng ngày ở tất cả các quy trình nghiệp vụ. Các loại hình kiểm soát chính bao gồm: Kiểm soát định hướng, Kiểm [ROW] 11. | Lựa chọn và phát triển các hoạt động kiểm soát chung về công nghệ thông tin để hỗ trợ thực hiện các mục tiêu [ROW] 12. | Triển khai các hoạt động kiểm soát thông qua các chính sách và thủ tục | soát phòng ngừa, Kiểm soát phát hiện; Kiểm soát thủ công, Kiểm soát tự động. Trong đó kiểm soát tự động thông qua hệ thống CNTT đóng vai trò quan trọng nhằm hạn chế sai sót và tác động của con người tới hiệu quả của kiểm toán. Các biện pháp kiểm soát chính bao gồm: rà soát kết quả hoạt động của Ban điều hành cấp cao, từng phòng ban; thẩm định, phê duyệt; phân tích các chỉ số KPIs...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 4091,
+      "text": "[TABLE] [CONTEXT] section: Các giao dịch với các bên liên quan khác ; column_headers: Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 VND ; row_headers: Bà Trần Thị Diệu Hằng | Bà Thân Hiền Anh | Ông Nguyễn Xuân Việt | Ông Nguyễn Đình An | Ông Arai Kazuhiko | Ông Inami Ryota | Tiền lương và chi phí hoạt động của Ban Kiểm soát | Ông Nguyễn Xuân Hòa [ROWS] Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 VND [ROW] Thù lao của thành viên Hội đồng Quản trị [ROW] Bà Trần Thị Diệu Hằng | 240.000.000 [ROW] Bà Thân Hiền Anh | 240.000.000 [ROW] Ông Nguyễn Xuân Việt | 240.000.000 [ROW] Ông Nguyễn Đình An | 240.000.000 [ROW] Ông Arai Kazuhiko | 240.000.000 [ROW] Ông Inami Ryota | 240.000.000 [ROW] Tiền lương và chi phí hoạt động của Ban Kiểm soát | 780.571.532 [ROW] Tiền lương của Tổng Giám đốc và Người quản lý khác [ROW] Ông Nguyễn Đình An | 409.959.600 [ROW] Ông Nguyễn Xuân Hòa | 889.066.092",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 531,
+      "text": "9 Về an ninh mạng: Rủi ro an ninh mạng, nguy cơ rò rỉ thông tin mật, gián đoạn hệ thống khi yêu cầu, mức độ chuyển ổ ạg đổi số ngày càng sâu rộng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 734,
+      "text": "Về việc kiểm kê phát thải khí nhà kính, trong năm qua, Gemadept Dung Quất đã thực hiện kiểm kê khí nhà kính nội bộ để theo dõi, quản lý và đưa ra mục tiêu cắt giảm năng lượng theo lộ trình tầm nhìn đến năm 2025. Trên cơ sở đó, đơn vị cam kết sẽ thực hiện hoàn thiện nhằm đảm bảo tiêu chí cảng xanh trong năm 2023. Đây là bước tiếp theo cho một kế hoạch phát triển bền vững trong tương lai. Ban lãnh đạo cùng toàn thể CBNV Công ty sẽ không ngừng phấn đấu duy trì và cải tiến liên tục những thành quả đã đạt được để ngày càng hoàn thiện hơn về chất lượng dịch vụ, tạo uy tín, niềm tin cho các đối tác, khách hàng trong KKT Dung Quất và KKT mở Chu lai cũng như toàn khu vực miền Trung, với phương châm Cảng sinh thái – Giá trị cho ngày mai.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    }
+  ]
+}

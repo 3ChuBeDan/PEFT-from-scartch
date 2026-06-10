@@ -1,0 +1,152 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "paragraph_id": 141,
+      "text": "Tại FPT Ông lần lượt kinh qua các vị trí: Trưởng phòng nghiên cứu của Trung tâm dịch vụ tin học ISC, Trưởng phòng marketing, Giám đốc Trung tâm Hệ thống Thông tin. Tháng 5/2003, ông trở thành Tổng Giám đốc Công ty Hệ thống Thông tin FPT.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 170,
+      "text": "Từ tháng 07/2008, Công ty Hệ thống Thông tin FPT cũng sẽ vận hành theo cơ cấu mới gồm 7 công ty thành viên: Công ty Hệ thống Thông tin FSE FPT; Công ty Hệ thống Thông tin Viễn thông – Dịch vụ công FPT, Công ty Dịch vụ Hệ thống Thông tin FPT, Công ty Dịch vụ ERP FPT, Công ty Giải pháp Tài chính công FPT, Công ty Phát triển Phần mềm FPT.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    },
+    {
+      "paragraph_id": 496,
+      "text": "Tiền thân là Trung tâm Hệ thống Thông tin FPT thành lập năm 1994, đến năm 2003 Trung tâm Hệ thống thông tin FPT trở thành Công ty Hệ thống Thông tin FPT, đây là một trong 6 công ty con đầu tiên của FPT.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 3
+      }
+    },
+    {
+      "paragraph_id": 497,
+      "text": "Năm 2007, Công ty Giải pháp Phần mềm FPT và Trung tâm dịch vụ ERP được sáp nhập với Công ty Hệ thống Thông tin FPT trở thành Công ty TNHH Hệ thống Thông tin FPT (FPT-IS) với gần 2000 cán bộ nhân viên và chi nhánh tại các thành phố lớn: Hà nội, Tp Hồ Chí Minh, Đà nẵng, Nha Trang và Cần Thơ. Năm 2008 Công ty đặt văn phòng đại diện đầu tiên ở Singapore và kế hoạch năm 2010 sẽ đặt văn phòng tại Nhật Bản.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 498,
+      "text": "Công ty cung cấp các giải pháp tích hợp hệ thống thông tin như: Hệ thống mạng, Hệ thống bảo mật, Hệ thống lưu trữ, Hệ thống trung tâm dữ liệu, Hệ thống dự phòng và phục hồi sau thảm họa, Giải pháp tòa nhà thông minh; giải pháp phần mềm trong các lĩnh vực: Tài chính ngân hàng, An ninh quốc phòng, Bưu chính - Viễn thông, Chính phủ điện tử, Doanh nghiệp, Giáo dục, Y tế, Giao thông vận tải; các dịch vụ như: Tư vấn hệ thống thông tin, Bảo hành bảo trì hệ thống thông tin, Các dịch vụ dữ liệu GIS, Contact center, Data center, eProcess, SMS, BPO.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3
+      }
+    },
+    {
+      "paragraph_id": 731,
+      "text": "Thông qua việc thành lập văn phòng đại diện công ty FPT tại Thành phố Cần Thơ; thành lập các công ty Công ty TNHH Dịch vụ Hệ thống Thông Tin FPT, Công ty TNHH Dịch vụ ERP FPT, Công ty TNHH Hệ thống Thông tin Viễn Thông và Dịch vụ công FPT, Công ty TNHH Hệ thống thông tin Ngân hàng Tài chính FPT, Công ty TNHH Hệ thống thông tin FSE FPT, Công ty TNHH Giải pháp Tài chính Công FPT, Công ty TNHH Phát triển Phần mềm FPT trực thuộc Công ty TNHH Hệ thống thông tin FPT; thành lập Quỹ phát triển cộng đồng FPT.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 5
+      }
+    },
+    {
+      "paragraph_id": 807,
+      "text": "Từ ngày 01/07/2008, Công ty Hệ thống Thông tin FPT (FPT-IS) sẽ vận hành theo cơ cấu mới gồm 7 công ty thành viên và các trung tâm phòng ban trực thuộc gồm: Công ty Hệ thống Thông tin FSE FPT; Công ty Hệ thống Thông tin Viễn thông – Dịch vụ công FPT; Công ty Dịch vụ Hệ thống Thông tin FPT; Công ty Dịch vụ ERP FPT; Công ty Giải pháp Tài chính công FPT; Công ty Phát triển Phần mềm FPT.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    },
+    {
+      "paragraph_id": 1035,
+      "text": "[TABLE] [CONTEXT] section: Các hoạt động bảo vệ môi trường ; column_headers: TÊN CÔNG TY THÀNH VIÊN | CÁC ĐƠN VỊ TRỰC THUỘC | TÊN TIẾNG ANH | TÊN VIẾT TẮT [ROWS] TÊN CÔNG TY THÀNH VIÊN | CÁC ĐƠN VỊ TRỰC THUỘC | TÊN TIẾNG ANH | TÊN VIẾT TẮT [ROW] Công ty TNHH Hệ thống Thông tin FPT | FPT Information System Company Limited | FIS [ROW] Công ty TNHH Hệ thống Thông tin Ngân hàng Tài chính FPT | FPT Information System of Finnacing and Banking Services Company Limited | FPT-IS BANK [ROW] Công ty TNHH Hệ thống Thông tin Viễn thông và Dịch vụ công FPT | FPT Information System of Telecom & Public Ser\u0002 vices Limited Company | FPT-IS-TES [ROW] Công ty TNHH Hệ thống Thông tin FSE FPT | FPT FSE Information System Limited Company | FPT-IS FSE [ROW] Công ty TNHH Giải pháp Tài chính công FPT | FPT Public Finance Solutions Limited Company | FPT-IS FPS [ROW] Công ty TNHH Dịch vụ ERP FPT | FPT ERP Services Limited Company | FPT-IS-ERP [ROW] Công ty TNHH Dịch vụ Hệ thống Thông tin FPT | FPT Information System Services Limited Company | FPT-IS Services [ROW] Công ty TNHH Phát triển Phần mềm FPT | FPT Software Development Limited Company | FPT-IS SOFT [ROW] Trung tâm Phát triển Thương mại Toàn cầu | Global Business Development Center | FPT-IS Global [ROW] Trung tâm Dịch vụ Gia công Quy trình Doanh nghiệp | FPT BPO Services Center | FPT-BPO [ROW] Trung tâm Dịch vụ Hạ tầng CNTT | FPT Information System Infrastructure Center | FPT-IS INF [ROW] Trung tâm Đào tạo Tư vấn Quốc tế FPT | FPT International Consultant Training Center | FPT-ITC [ROW] Trung tâm Hệ thống Thông tin Tài chính - An ninh - Giáo dục (thuộc FPT-IS HCM) | FPT Information System for Financing - Security - Education Center (in HCMC) | FPT-IS FSE (HCM) [ROW] Trung tâm Hệ thống Thông tin Viễn thông - Chính phủ (thuộc FPT-IS HCM) | FPT Informarion System for Telecom - Government Center (in HCMC) | FPT-IS TEG [ROW] Trung tâm Hệ thống Thông tin Doanh nghiệp (thuộc FPT-IS HCM) | FPT Information System for Enterprises Center (in HCMC) | FPT-IS ENT [ROW] Công ty CP Phần mềm FPT | FPT Software JSC | FSOFT [ROW] Công ty TNHH FPT Nhật Bản | FPT Japan Co.,Ltd | FSOFT JP [ROW] Công ty TNHH FPT Châu Á – Thái Bình Dương | FPT Asia Pacific Pte Ltd | FAP [ROW] Công ty TNHH FPT Australasia | FPT Australia Pty. Ltd. | FAUST [ROW] Công ty TNHH PM FPT Châu Âu | FPT Software Europe Co.ltd | FSOFT EU [ROW] Công ty TNHH PM FPT Malaysia | FPT Software Malaysia Co.ltd | FSOFT MAS [ROW] Công ty TNHH FPT USA | FPT USA LLC | FUSA [ROW] Công ty TNHH một thành viên Giải pháp Phần mềm Doanh nghiệp | FPT Software Enterprise Solution Co.ltd | FPTSS",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 8
+      }
+    }
+  ]
+}

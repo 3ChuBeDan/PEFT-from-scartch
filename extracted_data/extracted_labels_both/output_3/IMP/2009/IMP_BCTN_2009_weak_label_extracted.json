@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 642,
+      "text": "Nhằm góp phần giúp học sinh, sinh viên ngành y dược có thêm tinh thần và điều kiện gắn bó yêu trường lớp; giúp cán bộ y tế vùng sâu, vùng xa có điều kiện nâng cao tay nghề, bồi dưỡng nghiệp vụ , đáp ứng được yêu cầu phục vụ ở địa bàn khó khăn; động viên cán bộ y tế phát huy sáng kiến, biểu dương tinh thần vượt khó, tận tuỵ phục vụ nhân nhân và học tập, nêu cao tinh thần, lối sống của BS Đặng Thuỳ Trâm. Với sự tài trợ của Imexpharm, báo Tuổi trẻ, Tỉnh đoàn và Sở Y tế Bắc",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

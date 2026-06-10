@@ -1,0 +1,112 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "paragraph_id": 622,
+      "text": "Qua soát xét BCTC, không phát hiện sai sót trọng yếu, gian lận hoặc rủi ro gian lận tiềm tàng trong lập và trình bày BCTC.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1655,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: CÂU HỎI | NỘI DUNG | ĐÁNH GIÁ | GIẢI THÍCH KẾT QUẢ [ROWS] CÂU HỎI | NỘI DUNG | ĐÁNH GIÁ | GIẢI THÍCH KẾT QUẢ [ROW] B | ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] B.2.5 | Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng? | Mẫu giấy uỷ quyền được gửi kèm trong thư mời tham dự ĐHĐCĐ và đăng tải trên website mục Quan hệ cổ đông. [ROW] B.3 | Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] B.3.1 | Mỗi nghị quyết trong ĐHĐCĐ gần nhất chỉ liên quan đến một nội dung của dự thảo nghị quyết, nghĩa là không gộp nhiều nội dung vào trong cùng một nghị quyết? | Quy định và thực hiện theo Quy chế nội bộ về Quản trị công ty. [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Quy định và thực hiện theo Điều lệ Công ty, phù hợp Thông tư 155/2015/TT-BTC [ROW] B.4 | Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty không? | Quy định và thực hiện theo Điều lệ Công ty, Quy chế nội bộ về Quản trị công ty, Quy chế hoạt động của HĐQT, Quy chế công bố thông tin. [ROW] B.4.2 | Công ty có chính sách yêu cầu một tiểu ban bao gồm thành viên độc lập HĐQT rà soát giao dịch với bên liên quan trọng yéu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông không? | Uỷ ban Kiểm toán trực thuộc HĐQT, trong đó có 2/3 thành viên là thành viên độc lập HĐQT thực hiện chức năng này. [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Quy định và thực hiện theo Quy chế nội bộ về Quản trị công ty. Thành viên HĐQT có thể tham gia họp trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích để giải trình giao dịch nhưng không tham gia bỏ phiếu biểu quyết.",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 1.0
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3,
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 1677,
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM QUẢN TRỊ CÔNG TY KHU VỰC ASEAN ; column_headers: CÂU HỎI | NỘI DUNG | ĐÁNH GIÁ | GIẢI THÍCH KẾT QUẢ [ROWS] CÂU HỎI | NỘI DUNG | ĐÁNH GIÁ | GIẢI THÍCH KẾT QUẢ [ROW] CÂU HỎI PHẠT [ROW] Cơ cấu vốn và các thoả ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được Cơ cấu vốn và các công bố công khai (P)A.4 [ROW] (P)A.4.1 | Thỏa thuận cổ đông? [ROW] (P)A.4.2 | Giới hạn biểu quyết? [ROW] (P)A.4.3 | Cổ phiếu nhiều quyền biểu quyết? [ROW] (P)A.5 | Cơ cấu vốn và các thoả ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai [ROW] (P)A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc Cấu trúc sở hữu chéo có tồn tại không? | PNJ không ghi nhận sự tồn tại của cấu trúc sở hữu kim tự tháp hay cấu trúc sở hữu chéo. [ROW] (P)A. (P)B. (P)A. (P)B. | Quyền của cổ đôngĐối xử công bằng v Quyền của cổ đôngĐối xử công bằng với cổ đông [ROW] (P)A.1 (P)B.1 (P)A.1 (P)B.1 | Quyền cơ bản của cổ đôngCần ngăn cấm giao dịch nộ Quyền cơ bản của cổ đôngCần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân [ROW] (P)A.3.1(P)B.1.1 (P)A.3.1(P)B.1.1 | Công ty có đưa nội dung bổ sung và không được thông báo Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên trước trong chương trình nghị sự vào thông báo quan đến thành viên HĐQT, Ban điều hành và nhân viên công ty ĐHĐCĐ/ĐHĐCĐ bất thường?trong ba năm qua? Công ty có đưa nội dung bổ sung và không được thông báo Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên trước trong chương trình nghị sự vào thông báo quan đến thành viên HĐQT, Ban điều hành và nhân viên công ty ĐHĐCĐ/ĐHĐCĐ bấtrong ba năm qua? | PNJ luôn thông báo trước cho cổ đông các nội dung bổ sung trong PNJ khôhi hậbất kỳ i hà chương trình cuộc họp ĐHĐCĐ/ĐHĐCĐ bất thường PNJ không ghi nhận bất kỳ vi phạm nào. g g chương trình cuộc họp ĐHĐCĐ/ĐHĐCĐ PNJ không ghi nhận bất kỳ vi phạm nào. [ROW] (P)A.1B2 | Quyền cơ bản của cổ đông Bảo vệ cổ đông thiểu số trước hành vi lạm dụng",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 1681,
+      "text": "[TABLE] [CONTEXT] section: Danh mục một số quy định pháp luật về công tác Bảo vệ Môi trường được đánh giá tuân thủ định kỳ tại PNJ: ; column_headers: STT | Số | Tên văn bản pháp luật [ROWS] STT | Số | Tên văn bản pháp luật [ROW] 1 | Luật 55/2014/QH13 | Luật Bảo vệ môi trường [ROW] 2 | Nghị định 08/2022/NĐ-CP | Nghị định quy định chi tiết một số điều của Luật Bảo vệ môi trường [ROW] 3 | Nghị định 53/2020/NĐ-CP | Nghị định quy định phí bảo vệ môi trường đối với nước thải [ROW] 4 | Nghị định 155/2016/NĐ-CP | Nghị định quy định về xử phạt vi phạm hành chính trong lĩnh vực bảo vệ môi trường [ROW] 5 | Nghị định 80/2014/NĐ-CP | Nghị định về thoát nước và xử lý nước thải [ROW] 6 | Thông tư 02/2022/TT-BTNMT | Thông tư quy định chi tiết một số điều của Luật Bảo vệ môi trường [ROW] 7 | Thông tư 43/2015/TT-BTNMT | Thông tư về báo cáo hiện trạng môi trường, bộ chỉ thị môi trường và quản lý số liệu quan trắc môi trường [ROW] 8 | TCVN 6707/2009 | Tiêu chuẩn Việt Nam về chất thải nguy hại - dấu hiệu cảnh báo [ROW] 9 | QCVN 01-1:2018/BYT | Quy chuẩn kỹ thuật quốc gia về chất lượng nước sạch sử dụng cho mục đích sinh hoạt [ROW] 10 | QCVN 6-1:2010/BYT | Quy chuẩn kỹ thuật quốc gia đối với nước khoáng thiên nhiên và nước uống đóng chai [ROW] 11 | QCVN 40:2011/BTNMT | Quy chuẩn kỹ thuật quốc gia về nước thải công nghiệp [ROW] 12 | QCVN 19:2019/BTNMT | Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp đối với bụi và các chất vô cơ [ROW] 13 | QCVN 5:2013/BTNMT | Quy chuẩn kỹ thuật quốc gia về chất lượng không khí xung quanh [ROW] 14 | Quyết định 3455/QĐ-BCĐQG 2020 | Hướng dẫn quản lý chất thải vệ sinh trong phòng chống COVID-19",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E2": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 8,
+        "E_COMMON": 1
+      }
+    },
+    {
+      "paragraph_id": 1687,
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI ; column_headers: GRI | STT | Trang [ROWS] STT | GRI | Trang [ROW] GRI 403: An toàn và sức khoẻ nghề nghiệp [ROW] 49 | 403-5: Đào tạo cho người lao động về an toàn và sức khỏe nghề nghiệp [ROW] 50 | 403-6: Hỗ trợ sức khỏe người lao động [ROW] 51 | 403-7: Phòng ngừa và giảm thiểu các tác động về an toàn và sức khoẻ nghề nghiệp có liên quan trực tiếp đến các mối quan hệ kinh doanh | 165 - 169 [ROW] 52 | 403-8: Người lao động được bảo vệ bởi hệ thống quản lý an toàn và sức khoẻ nghề nghiệp [ROW] GRI 404: Giáo dục và đào tạo [ROW] 53 | 404-1: Số giờ đào tạo trung bình mỗi năm cho mỗi nhân viên | 171 - 172 [ROW] 54 | 404-2: Các chương trình nâng cao kỹ năng cho nhân viên và chương trình hỗ trợ chuyển tiếp [ROW] 55 | 404-3: Tỷ lệ phần trăm nhân viên được đánh giá định kỳ hiệu quả công việc và phát triển nghề nghiệp [ROW] GRI 405: Sự đa dạng và cơ hội bình đẳng [ROW] 56 | 405-1: Sự đa dạng của cấp quản lý và nhân viên | 150 [ROW] 57 | 405-2: Tỷ lệ lương cơ bản và thù lao của phụ nữ so với nam giới | 163 [ROW] GRI 406: Không phân biệt đối xử [ROW] 58 | 406-1: Các vụ việc phân biệt đối xử và các hành động khắc phục đã thực hiện | 147 - 154 [ROW] GRI 408: Lao động trẻ em [ROW] 59 | 408-1: Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động trẻ em | 150 [ROW] GRI 409: Lao động cưỡng bức hoặc bắt buộc [ROW] 60 | 409-1: Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc | 147 - 154",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "S4": 4,
+        "S6": 4
+      }
+    }
+  ]
+}

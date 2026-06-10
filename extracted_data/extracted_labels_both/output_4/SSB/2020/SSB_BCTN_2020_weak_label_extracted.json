@@ -1,0 +1,177 @@
+{
+  "extracted_count": 10,
+  "extracted": [
+    {
+      "text": "Công tác quản trị rủi ro hoạt động tại SeABank trong năm 2020 tiếp tục được củng cố và tăng cường thông qua việc vận hành hiệu quả mô hình 03 tuyến bảo vệ, thực hiện nghiêm túc các công cụ quản lý rủi ro hoạt động theo Thông tư 13 và triển khai thêm công cụ KRIs. Hoạt động phòng chống gian lận cũng được củng cố thông qua việc áp dụng phần mềm quản lý gian lận giả mạo vào hoạt động thẩm định phê duyệt tín dụng và triển khai bộ tiêu chí nhận diện giao dịch thẻ tín dụng khống.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Về công tác tuân thủ AML: Khối Pháp chế và Tuân thủ có nhiều chương trình đào tạo E -Learning và phát hành các bản tin về chống tài trợ khủng bố, phòng chống rửa tiền giúp các đơn vị kinh doanh nâng cao tinh thần cảnh giác, ý thức tuân thủ trong công tác phòng chống rửa tiền, chống tài trợ khủng bố.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G11": 1.0
+      },
+      "themes": [
+        "E3",
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G11": 2
+      }
+    },
+    {
+      "text": "Quy định phòng chống rửa tiền đã được ban hành trong tháng 6/2020 đã cập nhật đầy đủ các nội dung sửa đổi theo quy định pháp luật về phòng chống rửa tiền. Các hướng dẫn chuyển tiền quốc tế, hướng dẫn về báo cáo giao dịch đáng ngờ cũng được SeABank tập trung rà soát điều chỉnh, ban hành nhằm hướng dẫn thực hiện, nâng cao trách nhiệm các bên tham gia giúp phát huy tối đa hiệu quả chốt kiểm soát nội bộ đảm bảo hoàn thành mục tiêu kinh doanh và trên hết là sự an toàn cho khách hàng, đối tác.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Với chủ đề \"Lời tri ân\", cuộc thi \"Bé SeABank vẽ tranh cuộc sống\" đã gợi mở cho các em nhỏ thỏa sức sáng tạo về lòng biết ơn, tinh thần đoàn kết dân tộc qua những nét vẽ ngây ngô, giàu cảm xúc. Hơn 50 bức tranh là hơn 50 lời cảm ơn dành cho ba mẹ, người thân, các cô chú bác sỹ, y tá, bộ đội tuyến đầu chống dịch, thầy cô giáo thân yêu, cô chú phi công không ngại gian khổ...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "khó khăn bởi dịch bệnh, thiên tai... Những hoạt động này đã góp phần chia sẻ về vật chất và tinh thần với những gia đình có hoàn cảnh khó khăn, trẻ em nghèo hiếu học trên cả nước, thể hiện tinh thần tương thân tương ái sâu sắc của SeABank dành cho cộng đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Để phù hợp với xu hướng năng lượng sạch, năng lượng tái tạo và hỗ trợ các giải pháp tài chính cho các c hủ đầu tư trong lĩnh vực năng lượng sạch SeABank đã xây dựng ban hành Quy định cấp tín dụng đối với các dự án điện mặt trời. Đối tượng khách hàng mà sản phẩm hướng tới là các KHDNL, các khách hàng SME và các KHCN có nhu cầu vay vốn để thực hiện đầu tư hệ thống điện mặt trời mái nhà và dự án điện mặt trời nối lưới. Ngay khi sản phẩm được ban hành, các đơn vị kinh doanh của Ngân hàng đã và đang tích cực triển khai, giới thiệu sản phẩm đến các khách hàng tiềm năng, xem xét đánh giá các cơ hội cấp tín dụng cho khách hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "S24"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "S24"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: a. Tình hình tài chính ; column_headers: Chỉ tiêu | Năm 2019 | Năm 2020 ; row_headers: Vốn điều lệ | Tổng tài sản có | Tỷ lệ an toàn vốn | Số dư huy động tiền gửi | Số dư cho vay khách hàng | Doanh số huy động tiền gửi | Doanh số cho vay | Doanh số thu nợ | Nợ quá hạn | Nợ khó đòi | Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | Tỷ lệ nợ quá hạn/Tổng dư nợ | Tỷ lệ nợ khó đòi/Tổng dư nợ | Khả năng thanh toán ngay [ROWS] Chỉ tiêu | Năm 2019 | Năm 2020 [ROW] 1. Quy mô vốn [ROW] Vốn điều lệ | 9.369.000 | 12.087.442 [ROW] Tổng tài sản có | 157.398 . 288 | 180.207.288 [ROW] Tỷ lệ an toàn vốn | 12,12% | 11,50% [ROW] 2. Kết quả hoạt động kinh doanh [ROW] Số dư huy động tiền gửi | 95.727.318 | 113.276.597 [ROW] Số dư cho vay khách hàng | 98.613.839 | 108.869.236 [ROW] Doanh số huy động tiền gửi | 374.534.578 | 304.895.035 [ROW] Doanh số cho vay | 77.768.124 | 95.057.206 [ROW] Doanh số thu nợ | 63.064.444 | 84.801.809 [ROW] Nợ quá hạn | 2.419.254 | 2.143.334 [ROW] Nợ khó đòi | 2.280.009 | 2.022.473 [ROW] Hệ số sử dụng vốn [ROW] Tỷ lệ nợ bảo lãnh quá hạn/Tổng số dư bảo lãnh | 0% | 0% [ROW] Tỷ lệ nợ quá hạn/Tổng dư nợ | 2,45% | 1,97% [ROW] Tỷ lệ nợ khó đòi/Tổng dư nợ | 2,31% | 1,86% [ROW] 3. Khả năng thanh khoản [ROW] Khả năng thanh toán ngay | 14,82% | 11,74%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: (ii) Dự phòng rủi ro tín dụng cụ thể ; column_headers: Nhóm | Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm | Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đầy chưa thu hồi được t rong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi:  Khoản nợ vi phạm quy định tại các khoản 1. 3. 4. 5. 6 Điều 126 Luật các tổ chức tín dụng; hoặc  Khoản nợ vi phạm quy định tại các khoản 1. 2. 3. 4 Điều 127 Luật các tổ chức tín dụng; hoặc  Khoản nợ vi phạm quy định tại các khoản 1. 2. 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. | 20% [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc (d) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được. | 50% [ROW] 5 | Nợ có khả năng mất vốn | (a) Nợ quá hạn trên 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc (d) Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị | 100%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: NGÂN HÀNG TMCP ĐÔNG NAM Á ; column_headers: 31/12/2020 | 31/12/2019 | Giá gốc | Tỷ lệ nắm giữ | Giá gốc giữgiữ Triệu VND Triệu VND Triệu VND | Tỷ lệ nắm ; row_headers: Công ty cổ phần thanh toán Quốc gia Việt Nam | Công ty cổ phần chứng khoán Bảo Minh | Công ty CP vàng bạc đá quý ASEAN (AJC) | Công ty CP Xăng dầu dầu khí Thừa Thiên Huế | Công ty CP Xăng dầu dầu khí Sài Gòn | Công ty CP Xăng dầu dầu khí Vũng Tàu | Công ty CP Sản xuất và chế biến Dầu khí Phú Mỹ | Công ty CP Xăng dầu dầu khí Tây Ninh | Công ty CP Xăng dầu dầu khí Hà Nội | Công ty CP Xăng dầu dầu khí Thái Bình | Công ty CP Dịch vụ Dầu khí Thái Bình | CTCP Đầu tư và Công nghệ VPT | Công ty CP Dịch vụ Số liệu Toàn Cầu | Công ty CP Phát triển Nhân trí Việt Nam | Công ty CP Tư vấn Đầu tư và Xây dựng Bưu điện (PTICC) | Công ty CP Phát triển Dịch vụ Học tập và Giải trí trực tuyến | Công ty CP đầu tư Bất động sản Phương Nam | Quỹ Đầu tư Chứng khoán Sài Gòn A2 [ROWS] 31/12/2020 | 31/12/2019 [ROW] Giá gốc | Tỷ lệ nắm giữ | Giá gốc giữgiữ Triệu VND Triệu VND Triệu VND | Tỷ lệ nắm [ROW] Công ty cổ phần thanh toán Quốc gia Việt Nam | 3.300 | 1,06% | 2.000 | 0,83% [ROW] Công ty cổ phần chứng khoán Bảo Minh | 15.000 | 3,00% | 15.000 | 3,00% [ROW] Công ty CP vàng bạc đá quý ASEAN (AJC) | 24.102 | 10,00% | 24.102 | 10,00% [ROW] Công ty CP Xăng dầu dầu khí Thừa Thiên Huế | 4.800 | 6,00% | 4.800 | 6,00% [ROW] Công ty CP Xăng dầu dầu khí Sài Gòn | 10.000 | 5,00% | 10.000 | 5,00% [ROW] Công ty CP Xăng dầu dầu khí Vũng Tàu | 10.000 | 8,33% | 10.000 | 8,33% [ROW] Công ty CP Sản xuất và chế biến Dầu khí Phú Mỹ | 11.000 | 2,20% | 11.000 | 2,20% [ROW] Công ty CP Xăng dầu dầu khí Tây Ninh | 12.470 | 9,59% | 12.470 | 9,59% [ROW] Công ty CP Xăng dầu dầu khí Hà Nội | 7.500 | 3,00% | 7.500 | 3,00% [ROW] Công ty CP Xăng dầu dầu khí Thái Bình | - | - | 8.512 | 7,81% [ROW] Công ty CP Dịch vụ Dầu khí Thái Bình | - | - | 1.640 | 5,86% [ROW] CTCP Đầu tư và Công nghệ VPT | - | - | 2.000 | 6,67% [ROW] Công ty CP Dịch vụ Số liệu Toàn Cầu | 2.670 | 2,13% | 8.000 | 2,13% [ROW] Công ty CP Phát triển Nhân trí Việt Nam | 500 | 11,43% | 500 | 11,43% [ROW] Công ty CP Tư vấn Đầu tư và Xây dựng Bưu điện (PTICC) | 256 | 0,45% | 256 | 0,45% [ROW] Công ty CP Phát triển Dịch vụ Học tập và Giải trí trực tuyến | 5.940 | 6,00% | 5.940 | 6,00% [ROW] Công ty CP đầu tư Bất động sản Phương Nam | 20.000 | 7,69% | 20.000 | 7,69% [ROW] Quỹ Đầu tư Chứng khoán Sài Gòn A2 | 4.128 | 1,13% | 4.128 | 1,13% [ROW] 131.666 | 100,00% | 147.848 | 100,00%",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    }
+  ]
+}

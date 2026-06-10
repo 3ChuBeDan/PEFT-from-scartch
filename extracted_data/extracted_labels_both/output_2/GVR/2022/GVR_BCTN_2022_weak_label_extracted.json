@@ -1,0 +1,96 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "động viên 92 công nhân bị tai nạn lao động với tỷ lệ thương tật trên 31%, với số tiền 92 triệu đồng; Thực hiện chương trình \"Ánh sáng Công đoàn\" với số tiền 1 tỷ đồng cho 17 đơn vị, trong đó ưu tiên thực hiện các công trình về nước sạch, pin năng lượng mặt trời nhằm hỗ trợ đời sống NLĐ tại vùng sâu, vùng xa nơi chưa có nguồn điện và nước sạch sinh hoạt. Thăm hỏi, động viên và tặng quà cho công nhân có hoàn cảnh đặc biệt khó khăn tại 76 đơn vị, dự án, mỗi đơn vị 5 triệu đồng, với tổng số tiền 380 triệu đồng. Thực hiện quy chế phối hợp với các LĐLĐ có công ty cao su đứng chân, CĐ CSVN trao tặng 02 căn nhà \"Mái ấm Công đoàn\" cho LĐLĐ tỉnh Gia Lai và LĐLĐ tỉnh Quảng Trị, 02 căn nhà cho LĐLĐ tỉnh Bình Phước, 01 căn cho công nhân khó khăn tại Công ty Than Núi Béo thuộc Tập đoàn Than Khoáng sản VN với số tiền 50 triệu đồng/căn. Công đoàn Than - Khoáng sản VN cũng đã trao tặng Công đoàn Cao su Việt Nam 02 căn nhà Mái ấm Công",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "Sử dụng năng lượng tiết kiệm và hiệu quả là một giải pháp thiết thực giúp cải thiện hiệu quả của nền kinh tế, đồng thời giúp bảo tồn nguồn năng lượng quốc gia, bảo vệ môi trường và giảm phát thải khí nhà kính. hiên liệu Biomass từ mùn cưa, dăm gỗ, phụ phẩm nông nghiệp... được chuyển thành năng lượng lò hơi phục vụ cho sản xuất - thân thiện với môi trường. VRG đã hoàn chỉnh đưa vào sử dụng 11 hệ thống lò hơi Biomass riêng cho sấy mủ cao su thiên nhiên chiếm tương đương 10% năng lượng sử dụng, giúp tiết kiệm ít nhất 20% so với lò sấy thông thường và dự kiến sẽ tăng số lượng lò sấy Biomass trong những năm tới.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: \"TRIỂN KHAI THỰC HIỆN CAM KẾT PHÁT TRIỂN BỀN VỮNG CỦA VRG GẮN VỚI MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA VIỆT NAM VÀ LIÊN HỢP QUỐC\" [ROWS] Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi người ở mọi lứa tuổi | Tất cả người lao động được khám sức khỏe định kỳ, phòng chữa bệnh kịp thời, hướng dẫn phòng chống dịch bệnh. Đảm bảo người lao động được hưởng đầy đủ chế độ theo pháp luật. Hỗ trợ thân nhân của người lao động trong phòng chống, chữa bệnh. Đóng góp xây dựng trạm y tế, bệnh viện trong vùng dự án cho người lao động và cộng đồng địa phương. Xử lý tốt các loại chất thải; không gây ô nhiễm môi trường. Tập huấn và trang bị đầy đủ để đảm bảo an toàn lao động. Sản phẩm an toàn cho người sử dụng. [ROW] Đảm bảo nền giáo dục có chất lượng, công bằng, toàn diện và thúc đẩy các cơ hội học tập suốt đời cho tất cả mọi người | Đào tạo cho người lao động để thực hành tốt công việc và tăng năng suất. Tạo điều kiện được học tập suốt đời để nâng cao kỹ năng làm việc và hòa nhập với chuyển biến của xã hội, xu thế phát triển bền vững. Tạo điều kiện, đóng góp và khuyến khích việc học tập cho con em của người lao động. [ROW] 5 | Đạt được bình đẳng giới; tăng quyền và tạo cơ hội cho phụ nữ và trẻ em gái | Không phân biệt giới trong chính sách tuyển dụng lao động, trả lương, khen thưởng, kỷ luật, đào tạo, đảm bảo quyền lợi nữ lao động theo pháp luật. Đảm bảo sự tham gia đầy đủ, hiệu quả của phụ nữ và cơ hội bình đẳng để lãnh đạo ở tất cả các cấp. Tăng cường công nghệ, thiết bị để tạo thuận lợi cho công việc giao phụ nữ phụ trách. Không sử dụng lao động trẻ em. [ROW] Đảm bảo đầy đủ và quản lý bền vững tài nguyên nước và hệ thống vệ sinh cho tất cả mọi người | Tạo nguồn nước sạch an toàn và giá cả phù hợp cho người lao động, chú ý đến nhu cầu của phụ nữ và người yếu thế. Không tác hại đến chất lượng nước (không xả rác thải, hóa chất, vật liệu độc hại vào nguồn nước). Tiết kiệm nước, xử lý nước thải theo tiêu chuẩn quốc gia và tái sử dụng nước ở mức đáng kể. Bảo vệ nguồn nước qua phục hồi hệ sinh thái (rừng, sông suối, nước ngầm, hồ chứa...). Kết nối cộng đồng địa phương để duy trì, cải thiện, quản lý nguồn nước sạch. [ROW] Đảm bảo khả năng tiếp cận nguồn năng lượng bền vững, đáng tin cậy và có khả năng chi trả cho tất cả mọi người | Tăng cường áp dụng năng lượng sạch, tái tạo, hiệu quả, bền vững (sử dụng ánh sáng tự nhiên, điện mặt trời, dầu DO thay dầu diesel, năng lượng biomass...) với giá cả phù hợp trong chuỗi cung ứng và trong sinh hoạt của các gia đình người lao động. [ROW] 8 | Đảm bảo tăng trưởng kinh tế bền vững, toàn diện, liên tục; tạo việc làm đầy đủ, năng suất và việc làm tốt cho tất cả mọi người | Cải tiến quản lý và kỹ thuật liên tục, tạo năng suất cao, giá trị gia tăng và bền vững cho rừng cây cao su, các nhà máy và cho người lao động với mức thu nhập cao hơn trung bình cùng ngành nghề trong khu vực. Xóa bỏ mọi hình thức lao động cưỡng bức và lao động trẻ em. Đảm bảo quyền lợi của người lao động theo pháp luật và theo Công ước Lao động quốc tế (ILO).",
+      "hard_labels": [
+        "E2",
+        "E3",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 1.0,
+        "E3": 1.0,
+        "S4": 0.963863,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6,
+        "E3": 3,
+        "S4": 3,
+        "S6": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: \"TRIỂN KHAI THỰC HIỆN CAM KẾT PHÁT TRIỂN BỀN VỮNG CỦA VRG GẮN VỚI MỤC TIÊU PHÁT TRIỂN BỀN VỮNG CỦA VIỆT NAM VÀ LIÊN HỢP QUỐC\" [ROWS] Bảo tồn và sử dụng bền vững đại dương, biển và nguồn lợi biển để phát triển bền vững | Tham gia ủng hộ các hoạt động, truyền thông về bảo tồn và sử dụng bền vững nguồn lợi biển. Tuyên truyền, hướng dẫn người lao động ngăn chặn, giảm thiểu ô nhiễm biển, không sử dụng, không tiêu thụ sản phẩm từ biển liên quan đến các hoạt động tác hại biển bị pháp luật ngăn cấm. [ROW] Bảo vệ và phát triển rừng bền vững, bảo tồn đa dạng sinh học, phát triển dịch vụ hệ sinh thái, chống sa mạc hóa, ngăn chặn suy thoái và phục hồi tài nguyên đất | Xây dựng và thực hiện các phương án quản lý rừng cao su bền vững, giám sát (qua GIS) và có báo cáo về quản lý rừng; ngăn chặn phá rừng, mất rừng, chuyển đổi hệ sinh thái tự nhiên từ sau năm 2015; phục hồi và bảo tồn rừng, hệ sinh thái tự nhiên, đa dạng sinh học; đánh giá trữ lượng carbon và giá trị bảo tồn cao; cấm săn bắt, mua bán, tiêu thụ sản phẩm rừng bất hợp pháp. Không trồng cao su, khai thác trên đất than bùn ở bất cứ độ sâu nào. Bảo vệ hành lang sông suối. Áp dụng phương pháp quản lý dịch hại tổng hợp. Giảm thiểu hóa chất và không sử dụng hóa chất cấm. Các nhà cung ứng phải thực hiện quy tắc này. Thực hiện lộ trình đến 2030 có chứng chỉ quản lý rừng bền vững quốc gia và quốc tế (VFCS, PEFC, FSC) cho tất cả diện tích cao su của Tập đoàn tại Việt Nam, Lào và Campuchia. Đánh giá, báo cáo tác động xã hội và môi trường theo quy định. [ROW] Thúc đẩy xã hội hòa bình, dân chủ, công bằng, bình đẳng, văn minh vì sự phát triển bền vững, tạo khả năng tiếp cận công lý cho tất cả mọi người; xây dựng các thể chế hiệu quả, có trách nhiệm giải trình và có sự tham gia ở các cấp | Tham gia ủng hộ các chính sách và hoạt động của Chính phủ và các tổ chức có liên quan đến mục tiêu này. Phòng chống tham nhũng và hối lộ. Xây dựng thể chế minh bạch, hiệu quả ở các cấp. Tôn trọng quyền hợp pháp và chính đáng của cộng đồng và các bên liên quan được Việt Nam cam kết với Liên Hiệp Quốc và các công ước quốc tế (ILO). [ROW] Tăng cường phương thức thực hiện và thúc đẩy đối tác toàn cầu vì sự phát triển bền vững | Cải tiến hệ thống quản trị nội bộ, Có quy trình xử lý khiếu nại. Xây dựng báo cáo theo quy định quốc gia, hướng đến báo cáo theo tiêu chuẩn quốc tế. Tăng cường quan hệ, hợp tác với nhiều tổ chức, chuyên gia trong nước và quốc tế nhằm huy động, chia sẻ kiến thức, công nghệ, nguồn lực và nâng cao năng lực để đạt các mục tiêu phát triển bền vững.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E3": 0.388514,
+        "E_COMMON": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "E_COMMON",
+        "G11"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 1,
+        "E_COMMON": 3,
+        "G11": 1
+      }
+    }
+  ]
+}

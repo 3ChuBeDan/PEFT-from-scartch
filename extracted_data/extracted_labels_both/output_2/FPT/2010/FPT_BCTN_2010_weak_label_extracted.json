@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 159,
+      "text": "l Tháng 03/2010, ông Dương Dũng Triều được bổ nhiệm giữ chức Tổng Giám đốc Công ty Hệ thống Thông tin FPT, thay thế cho ông Đỗ Cao Bảo. Cũng trong tháng 3, Công ty Hệ thống Thông tin FPT bổ nhiệm 2 Phó Tổng Giám đốc là ông Lê Thành Trung và ông Đỗ Sơn Giang .",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 883,
+      "text": "[TABLE] [CONTEXT] section: Đơn vị: tỷ VNĐ ; column_headers: CÔNG TY | DOANH THU* | TĂNG TRƯỞNG | LỢI NHUẬN SAU THUẾ ; row_headers: Công ty Cổ phần Viễn thông FPT | Công ty Cổ phần Hệ thống thông tin FPT | Công ty Cổ phần Phần mềm FPT | Công ty Cổ phần Thương mại FPT | Công ty TNHH Giáo dục FPT | Công ty Dịch vụ Tin học FPT | Tổng số ngành công nghệ thông tin & viễn thông [ROWS] CÔNG TY | DOANH THU* | TĂNG TRƯỞNG | LỢI NHUẬN SAU THUẾ | TĂNG TRƯỞNG [ROW] Công ty Cổ phần Viễn thông FPT | 2.457 | 32,8% | 601 | 11,4% [ROW] Công ty Cổ phần Hệ thống thông tin FPT | 3.244 | 8,3% | 484 | 16,7% [ROW] Công ty Cổ phần Phần mềm FPT | 1.000 | 34,0% | 230 | 10,0% [ROW] Công ty Cổ phần Thương mại FPT | 13.339 | 4,7% | 412 | 13,0% [ROW] Công ty TNHH Giáo dục FPT | 279 | 58,8% | 102 | 66,5% [ROW] Công ty Dịch vụ Tin học FPT | 100 | 46,9% | 32 | 22,3% [ROW] Tổng số ngành công nghệ thông tin & viễn thông | 20.419 | 9,4% | 1.861 | 14,0%",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

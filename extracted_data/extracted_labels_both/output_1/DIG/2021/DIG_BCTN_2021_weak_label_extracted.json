@@ -1,0 +1,79 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Các công trình, dự án của DIC Corp đều có báo cáo đánh giá tác động môi trường, bản cam kết về bảo vệ môi trường, báo cáo quan trắc môi trường được phê duyệt và tổ chức thực hiện đầy đủ theo qui định hiện hành",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ VỀ VIỆC THỰC HIỆN CÁC QUY ĐỊNH VỀ QUẢN TRỊ CÔNG TY ; column_headers: STT | Tiêu chí | Đánh giá | Cơ sở đánh giá [ROWS] STT | Tiêu chí | Đánh giá | Cơ sở đánh giá [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Tốt | DIC Corp thực hiện tốt nguyên tắc này theo thông tư 96/2020/TT\u0002 BTC và điều lệ TCT. [ROW] B.4 | Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao. [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty không? | Tốt | Quy định tại Điều 51 Quy chế Quản trị nội bộ. [ROW] B.4.2 | Công ty có chính sách yêu cầu một tiểu ban bao gồm thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông không? | Tốt | Được trình bày tại Điều 13, Quy chế Kiểm toán nội bộ & hoạt động của Ủy ban Kiểm toán DIC Corp. [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Tốt | TV HĐQT có tham gia họp nhưng không được biểu quyết các nội dung khi có các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích. [ROW] B.4.4 | Công ty có chính sách về khoản vay cho thành viên HĐQT, trong đó qui định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Chưa đáp ứng [ROW] B.5 | Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng [ROW] B.5.1 | Công ty có công bố về việc GDBLQ được thực hiện theo cách đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | Tốt | Được trình bày trong Báo cáo Quản trị định kỳ. [ROW] B.5.2 | Trong trường hợp cần có phê duyệt của cổ đông thông qua các giao dịch các bên liên quan, việc biểu quyết phê duyệt phải được biểu quyết bởi các cổ đông không liên quan lợi ích. | Tốt | Khi có phát sinh, DIC Corp tiến hành tổ chức ĐHĐCĐ để lấy ý kiến biểu quyết của các cổ đông. [ROW] C | Vai trò của các bên có quyền lợi liên quan [ROW] C.1 | Quyền của các bên có quyền lợi liên quan được pháp luật quy định hoặc theo các thỏa thuận song phương phải được tôn trọng [ROW] Công ty có công bố chính sách và các thực hành về: [ROW] C.1.1 | Công bố chính sách và các thực hành nhằm bảo vệ quyền lợi khách hàng? | Tốt [ROW] C.1.2 | Công bố chính sách và các thực hành, qui trình và thủ tục lựa chọn nhà cung cấp/nhà thầu? | Tốt | Quy định tại Quy chế lựa chọn nhà thầu của DIC Corp và được đăng tải trên website. [ROW] C.1.3 | Công bố chính sách và các thực hành, mô tả nỗ lực của công ty nhằm bảo đảm chuỗi giá trị của công ty thân thiện với môi trường hoặc phù hợp với việc thúc đẩy phát triển bền vững ? | Tốt [ROW] C.1.4 | Công bố chính sách và các thực hành, mô tả nỗ lực của công ty trong việc tương tác với cộng đồng nơi công ty hoạt động? | Tốt [ROW] C.1.5 | Công bố chính sách và các thực hành phòng chống tham nhũng của công ty? | Tốt",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "E3": 0.388514,
+        "G10": 1.0
+      },
+      "themes": [
+        "E3",
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 1,
+        "G10": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: ĐÁNH GIÁ VỀ VIỆC THỰC HIỆN CÁC QUY ĐỊNH VỀ QUẢN TRỊ CÔNG TY ; column_headers: STT | Tiêu chí | Đánh giá | Cơ sở đánh giá [ROWS] STT | Tiêu chí | Đánh giá | Cơ sở đánh giá [ROW] THẺ ĐIỂM PHẠT [ROW] (P)A | Quyền của cổ đông [ROW] (P)A.1 | Quyền cơ bản của cổ đông [ROW] (P)A.1.1 | Công ty không hoặc sơ suất không đối xử công bằng đối với việc mua lại cổ phần đối với tất cả các cổ đông? | Tốt | Trong năm 2021, DIC Corp chưa xảy ra trường hợp này. [ROW] (P)A.2 | Cổ đông, bao gồm cả cổ đông tổ chức, phải được trao đổi với nhau về các vấn đề liên quan tới quyền cơ bản của cổ đông như nêu trong bộ Nguyên tắc Quản trị Công ty này, trừ trường hợp ngoại lệ nhằm ngăn ngừa lạm dụng. [ROW] (P)A.2.1 | Có bằng chứng gì về rào cản đối với việc cổ đông không được trao đổi thông tin hoặc tham khảo ý kiến các cổ đông khác? | Tốt | DIC Corp chưa ghi nhận trường hợp rào cản nào. [ROW] (P)A.3 | Quyền tham gia hiệu quả vào và biểu quyết trong đại hội đồng cổ đông và được thông báo về các quy định, bao gồm thủ tục biểu quyết diễn ra trong đại hội đồng cổ đông. [ROW] (P)A.3.1 | Công ty có đưa nội dung bổ sung và không được thông báo trước trong chương trình nghị sự vào thông báo ĐHĐCĐ/ĐHĐCĐ bất thường? | Tốt | Các nội dung của ĐHĐCĐ/ĐHĐCĐ bất thường đều được thông báo trước đến cổ đông. [ROW] (P)A.3.2 | Chủ tịch HĐQT, chủ tịch tiểu ban kiểm toán và Tổng Giám đốc/ giám đốc có tham dự ĐHĐCĐ mới nhất? | Tốt | Các TV HĐQT, các tiểu ban trực thuộc HĐQT và Ban Tổng Giám đốc đều tham gia đầy đủ ở các ĐHĐCĐ. [ROW] (P)A.4 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai. [ROW] Công ty không công bố sự tồn tại của: [ROW] (P)A.4.1 | Thỏa thuận cổ đông? | Tốt | Không phát sinh trương hợp này. [ROW] (P)A.4.2 | Giới hạn biểu quyết? | Tốt | Quy định rõ trong tờ trình thể lệ biểu quyết ĐHĐCĐ. [ROW] (P)A.4.3 | Cổ phiếu nhiều quyền biểu quyết? | Tốt | DIC Corp không có cổ phiếu có nhiều quyền biểu quyết. [ROW] (P)A.5 | Cơ cấu vốn và các thỏa ước cho phép một số cổ đông nắm giữ quyền kiểm soát không tương ứng với tỷ lệ cổ phần mà họ sở hữu phải được công bố công khai. [ROW] (P)A.5.1 | Cấu trúc sở hữu kim tự tháp và/hoặc cấu trúc sở hữu sở hữu chéo có tồn tại không? | Tốt [ROW] (P)B | Đối xử công bằng với cổ đông [ROW] (P)B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] (P)B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, ban điều hành và nhân viên công ty trong ba năm qua? | Tốt | DIC Corp không ghi nhận trường hợp vi phạm nào. [ROW] (P)B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] (P)B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | Tốt | DIC Corp không ghi nhận trường hợp vi phạm nào.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Nội dung ; column_headers: Tiêu chí | Mục tiêu | Nội dung [ROWS] Tiêu chí | Mục tiêu | Nội dung [ROW] 6. Nước sạch và vệ sinh | Đảm bảo đầy đủ và quản lý bền vững tài nguyên nước và hệ thống vệ sinh cho tất cả mọi người. | • Sử dụng các thiết bị vệ sinh tiết kiệm nước, vòi rửa lưu lượng thấp. • Xây dựng các trạm xử lý nước thải tại các dự án theo qui định. • Các công trường đều có nhà vệ sinh lưu động cho mọi người. • Trước khi xây dựng công trình khai thác nước dưới đất, thực hiện thăm dò để đánh giá trữ lượng, chất lượng, khả năng khai thác. Nhằm đảm bảo nhu cầu cấp nước liên tục, áp lực cần thiết tại các điểm sử dụng nước, căn cứ và chỉ tiêu tính toán và diện tích đất dự kiến xây dựng công trình, xác định lưu lượng nước. • Xây dựng mạng lưới thoát nước thải riêng lẻ với nước mưa. • Mạng lưới thoát nước mưa được tính toán thiết kế đảm bảo thu gom và vận chuyển nước mưa ra khỏi lưu vực một cách nhanh nhất, tránh ngập úng đường phố và các khu dân cư. • Nước thải được thu gom vào tuyến ống chính sau đó dẫn về trạm xử lý nước thải. • Chủ đầu tư xây dựng và vận hành trạm xử lý nước thải và thực hiện đúng theo quy định về Luật Bảo vệ Môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "QLRRHĐ được nâng cao với (i) Triển khai mua Bảo hiểm gian lận nhằm bảo vệ Ngân hàng trước các tổn thất phát sinh từ rủi ro gian lận, nâng cao năng lực, uy tín của Ngân hàng; (ii) Triển khai đồng bộ công tác Quản lý kinh doanh liên tục toàn hệ thống góp phần duy trì tính liên tục của hoạt động kinh doanh đặc biệt trong điều kiện dịch bệnh Covid-19 bùng phát mạnh mẽ; và (iii) Dự án Đánh giá an ninh an toàn công nghệ thông tin góp phần nâng cao năng lực quản trị rủi ro của Ngân hàng nhằm ứng phó với rủi ro hoạt động công nghệ thông tin đặc biệt là trong bối cảnh Ngân hàng đang trong giai đoạn từng bước chuyển đổi số hóa.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E6"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E6"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 2. CÁC CHỈ TIÊU TÀI CHÍNH CHỦ YẾU ; column_headers: Chỉ tiêu | Năm 2019 | Năm 2020 | Năm 2021 ; row_headers: Vốn điều lệ | Tổng tài sản | Tỷ lệ an toàn vốn | Huy động thị trường 1 | Cho vay thị trường 1 | Nợ quá hạn | Nợ khó đòi | Tỷ lệ nợ quá hạn/Tổng dư nợ | Tỷ lệ nợ khó đòi/Tổng dư nợ | Khả năng thanh toán ngay | Khả năng thanh toán chung (VND) [ROWS] Chỉ tiêu | Năm 2019 | Năm 2020 | Năm 2021 [ROW] 1. Quy mô vốn [ROW] Vốn điều lệ | 8.881.441 | 10.746.389 | 12.035.905 [ROW] Tổng tài sản | 202.058.040 | 242.342.951 | 289.193.879 [ROW] Tỷ lệ an toàn vốn | 8,35% | 10,81% | 11,26% [ROW] 2. Kết quả hoạt động kinh doanh [ROW] Huy động thị trường 1 | 166.161.821 | 206.777.192 | 217.013.975 [ROW] Cho vay thị trường 1 | 140.882.621 | 177.024.148 | 209.028.936 [ROW] Nợ quá hạn | 3.552.882 | 3.843.644 | 4.864.444 [ROW] Nợ khó đòi | 2.030.337 | 2.527.349 | 2.863.454 [ROW] Tỷ lệ nợ quá hạn/Tổng dư nợ | 2,52% | 2,18% | 2,33% [ROW] Tỷ lệ nợ khó đòi/Tổng dư nợ | 1,44% | 1,43% | 1,37% [ROW] 3. Khả năng thanh khoản [ROW] Khả năng thanh toán ngay | 13,29% | 14,79% | 11,54% [ROW] Khả năng thanh toán chung (VND) | 85,04% | 77,80% | 50,23%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Trước ngày 1 tháng 10 năm 2021 ; column_headers: Nhóm | Tình trạng quá hạn [ROWS] Nhóm | Tình trạng quá hạn [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra. [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai còn trong hạn; hoặc (d) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong [ROW] 5 | Nợ có khả năng mất vốn | (a) Nợ quá hạn trên 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 90 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai; hoặc (d) Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, kể cả chưa bị quá hạn hoặc đã [ROW] thanh tra trên 60 ngày mà vẫn chưa thu hồi được; hoặc [ROW] (f) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận (g) Nợ của khách hàng là tổ chức tín dụng được NHNNVN công bố đặt vào tình trạng kiểm soát đặc biệt, hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Sau ngày 1 tháng 10 năm 2021 ; column_headers: Nhóm [ROWS] Nhóm [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn. [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu còn trong hạn; hoặc (c) Nợ được miễn, giảm lãi do khách hàng không có khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc • Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng. (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra; hoặc [ROW] 4 | Nợ nghi ngờ | (a) Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc (b) Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn đến 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc (c) Nợ cơ cấu lại thời hạn trả nợ lần thứ hai còn trong hạn; hoặc (d) Khoản nợ quy định tại điểm (d) của Nợ dưới tiêu chuẩn chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc (e) Nợ phải thu hồi theo kết luận thanh tra nhưng quá thời hạn thu hồi theo kết luận thanh tra đến 60 ngày mà vẫn chưa thu hồi được; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn do khách hàng vi phạm thỏa thuận chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi .",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

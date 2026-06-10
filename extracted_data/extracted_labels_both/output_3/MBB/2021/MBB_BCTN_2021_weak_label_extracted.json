@@ -1,0 +1,76 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "ỦY B AN QUẢN LÝ RỦI RO có chức năng tham mưu cho Hội đồng Quản trị các vấn đề về hệ thống QLRR và tu ân thủ của Tập đoàn, MB, Công ty thành viên; giúp việc Hội đồng Quản trị thực hiện giám sát của quản lý cấp cao về hệ thống Kiểm soát nội bộ, hệ thống QLRR, tuân thủ và đánh giá n ội bộ về mức đủ vốn. Năm 2021, Ủy ban đã tổ chức thực hiện hiệu quả các công việc thuộc thẩm quyền của Ủy ban, gồm: thực hiện các công việc thuộ c thẩm quyền của Ủy ban, gồm: tổ chức họp 9 lần, xem xét, đánh giá về tình hình rủi ro và tuân thủ đến hết Quý IV/2020, Quý I, Quý II và Quý III/2021 của MB và các Công ty thành viên; tham mưu Hội đồng quả n trị các nội dung chỉ đ ạo Báo cáo kết quả triển khai 03 dự án thuộc sáng kiến Smart Risk (Mô hình lượ ng hóa rủ i ro tín dụn g - PD, Phòng chống tội phạm tài chính FCRM, Đánh giá mứ c độ đầy đủ vốn - ICAA P); Điều chỉnh hạn mức VaR danh mục tự doanh; Chính sách Quản lý rủi ro tập đoàn và Chính sách Quả n lý rủi ro MB; Đánh giá tác động của Thô ng tư 11/2021/T T-NHNN, Thông tư 14/2021/ TT-NHNN và rủi ro trong hoạt động thẻ tín dụn g tại MB.... Tổ chức Hội thảo/Họp chuyên đề về Dự án ICAAP và Phương án triển khai Dự án dự án FCRM (về GAP khung Quản trị rủi ro gian lận và Phòng chống rửa tiền).",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0,
+        "G9": 0.426401
+      },
+      "themes": [
+        "G11",
+        "G9"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2,
+        "G9": 1
+      }
+    },
+    {
+      "text": "Trong bối cảnh tình hình tội phạm tài chính ngày càng có xu hướng gia tăng, các cơ quan quản lý trong nước và quốc tế đã/đang đưa ra các yêu cầu ngày càng khắt khe, buộc các Tổ chức tín dụng phải tuân thủ nhằm đảm bảo an toàn cho hệ thống tài chính và giao dịch của khách hàng, MB là một trong số ít các Ngân hàng tại Việt Nam tiê n phong triển khai Dự án Phòng chống tội phạm tài chính một cách đồng bộ và toàn diện, kết hợp đồng thời giữa tư vấn phương pháp luận và phát triển phẩn mềm để thiết lập, hoàn thiện khung quản trị rủi ro vững chắc, đảm bảo quản trị hiệu quả đượ c 02 nhóm tội phạm tài chính điển hình là Gian lận và Rửa tiền. Trong năm 2021, cùng đối tác tư vấn có năng lực, kinh nghiệm triển khai quốc tế, MB đã hoàn thành xây dựng Khung phươn g pháp luận quản trị rủi ro gian lận theo thông lệ quốc tế (COSO, AS 8001-2008) với các cấu phần chính : Đánh giá rủi ro gian lận; Phân tích dữ liệu phát hiện gian lận bằng phương pháp kịch bản và phương pháp mô hình Học máy; Điều tra gian lận. Song song với đó MB cũng đã/ đang cùng đối tác tư vấn đặt đầu bài để phát triển Hệ thống phòng chống gian lận, phòng chống rửa tiền toàn diện; giúp tự động hóa quá trình giám sát, phát hiện rủi ro nhanh hơ n, chính xác hơn, đảm bảo a n toàn cho tiền/ tài sản của khách hàng và Ngân hàng.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 8
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Kính gửi: Các cổ đông [ROWS] TRÁCH NHIỆM CỦA B AN ĐIỀU HÀN H NGÂN HÀNG | Ban Điều hành Ngân hàng chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất theo các Chuẩn mực kế toán Việt Nam, Hệ thống kế toán các tổ chức tín dụng Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trác h nhiệm về kiểm soát nội bộ mà Ban Điều hành Ngân hàng xác định là cần thiết để đảm bảo việ c lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn. [ROW] TRÁCH NHIỆM CỦA KIỂM TOÁN VIÊN | Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các Chuẩ n mực kiểm toán Việt Nam. Các chuẩn mực này yêu c ầu chúng tôi tuân thủ chu ẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cu ộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Ngân hàng và các Công ty thành viên có còn sai sót trọng yếu hay không. [ROW] Công v iệc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xé t đoán của kiểm toán viên, bao gồm đánh giá rủ i ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Ngân hàng và các Công ty thành v iên liê n quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiế t kế các thủ tụ c kiể m toán phù hợ p với tình hình thực tế, tuy nhiên không nhằm mụ c đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Ngân hàng và các Công ty thành viên. Công việc kiểm toán cũng bao gồm đánh giá tính thíc h hợp của các chính sách kế toán được áp dụng và tính hợ p lý c ủa các ước tính kế toán của Ban Điều hành cũng như đánh giá việ c trình bày tổng thể báo cáo tài chính hợp nhất. [ROW] Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chún g tôi.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: (tiếp theo) ; column_headers: Nhóm nợ | Phân loại nợ theo phương pháp định lượng | Phân loại nợ theo phương pháp định tí nh | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Phân loại nợ theo phương pháp định lượng | Phân loại nợ theo phương pháp định tí nh | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | a. Nợ trong h ạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc b. Nợ quá hạn dư ới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị qu á hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. c. Nợ đượ c phân loại vào nhóm 1 theo quy định | Các k hoản nợ được đánh giá là có khả n ăng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn . | 0% [ROW] 2 | Nợ cần chú ý | a. Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc b. Nợ điều chỉnh kỳ hạn trả nợ lần đầu; hoặc c. Nợ đư ợc phân loại vào nhóm 2 th eo quy định tại Khoản 2, Khoản 3 Điều 10 Thông tư 11/ 2021. | Các k hoản nợ được đánh giá là có khả n ăng thu hồi đầy đủ cả nợ gốc và lãi nhưng có dấu hiệu khách hàn g suy giảm khả năn g trả nợ. | 5% [ROW] 3 | Nợ dưới tiê u chuẩn | a. Nợ quá hạn từ 91 ngày đến 180 ngày ; hoặc b. Nợ gia hạn nợ lần đầu; hoặc c. Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc d. Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: ‐ Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụ ng; hoặc ‐ Khoản nợ vi phạm qu y định tại các khoản 1, 2, 3, 4 Điều 127 L uật các tổ chức tín dụng; hoặc ‐ Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ c hức tín dụng. e. Nợ được phân loại vào nhóm 3 theo quy định tại Khoản 2, Khoản 3 Điều 10 Thông tư 11/2021. | Các k hoản nợ được đánh giá là không có khả năng thu hồi đầy đủ cả nợ gốc và lãi khi đế n hạn , c ó khả năn g tổn thất. | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    }
+  ]
+}

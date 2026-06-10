@@ -1,0 +1,39 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Tổng khối lượng nước thải phát sinh trên toàn KCN Tràng Duệ khoảng gần 4.000 m 3 /ngày đêm. Công ty SHP đã phối hợp với công ty TNHH KHCN Môi Trường Quốc Việt hoàn thiện nâng cấp công suất của nhà máy xử lý nước thải giai đoạn 1 từ 1.500m 3 /ngày đêm lên 4.000m 3 /ngày đêm, đảm bảo đáp ứng đủ công suất xử lý trước khi nhà đầu tư đi vào hoạt động. Đồng thời dự kiến trong năm 2019 và các năm tiếp theo lượng nước thải của các nhà đầu tư tăng cao do các nhà đầu tư mới thuê đất và các nhà đầu tư lớn đang mở rộng sản xuất giai đoạn 2, Công ty SHP tiếp tục phối hợp với công ty Cổ phần Môi trường xanh Posbee xây dựng nhà máy xử lý nước thải giai đoạn 2 với công suất 4.000m 3 /ngày đêm, sử dụng công nghệ hóa –sinh hiện đại, hiện đang trong quá trình vận hành thử nghiệm và xin cấp giấy phép xả thải. Tổng công suất xử lý nước thải của 2 nhà máy xử lý nước thải đạt 8.000m 3 /ngày đêm, đảm bảo công suất xử lý nước thải cho các nhà đầu tư trong khu công nghiệp.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 12
+      }
+    },
+    {
+      "text": "Tại Khu công nghiệp Tân Phú Trung có 01 nhà máy cấp nước có công suất tối đa 3.000m 3 /ngđêm, trong năm 2018 tổng lượng nước sạch đã cung cấp cho các nhà đầu tư là: 431.751m3trung bình 1.182,9 m 3 /ngđêm; có 01 nhà máy xử lý nước thải công suất 4.000 m 3 /ngđêm, tổng lượng nước thải đã xử lý trong năm 2018: 416.252,4m 3 , lưu lượng xử lý nước thải trung bình: 1.140,4m 3 /ngđêm.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 480,
+      "text": "Khai thác tài nguyên để cung cấp nguyên liệu đầu vào cho sản xuất: nguyên liệu đầu vào quan trọng nhất để sản xuất urê là khí tự nhiên hoặc than đá. Khí tự nhiên và than đá là nguyên liệu hóa thạch không tái tạo, do đó việc khai thác phải được cân nhắc ở mức độ hợp lý, đồng thời công nghệ khai thác phải được cải tiến thường xuyên nhằm đạt hiệu quả khai thác cao nhất.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 4
+      }
+    }
+  ]
+}

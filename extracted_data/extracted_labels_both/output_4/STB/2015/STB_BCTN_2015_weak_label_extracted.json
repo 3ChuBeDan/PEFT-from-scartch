@@ -1,0 +1,341 @@
+{
+  "extracted_count": 23,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Ban Chỉ đạo ngăn chặn và xử lý nợ quá hạn có trách nhiệm tham mưu cho HĐQT quyết định thực hiện việc khoanh nợ, mua, bán khoán nợ quá hạn; chuyển nợ thành vốn góp, cổ phần của khách hàng vay và các phương pháp xử lý, thu hồi nợ quá hạn khác theo quy định pháp luật. Trong năm 2015, Ban đã tích cực chỉ đạo, xử lý nhiều khoản nợ xấu, bán nợ cho VAMC, đảm bảo hoạt động an toàn của Sacombank.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "» Vấn đề về sử dụng lao động trẻ em: Chúng tôi hiểu rằng việc sử dụng lao động trẻ em có thể làm gián đoạn việc giáo dục trẻ em hoặc gây nguy hại về sức khỏe, thể chất, tinh thần, trí não, đạo đức hoặc phát triển xã hội của trẻ em. Vì vậy chúng tôi tuyệt đối không sử dụng lao động trẻ em dưới bất kỳ hình thức nào trong hoạt động kinh doanh.",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.623009,
+        "E3": 0.388514,
+        "S4": 0.963863,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E3": 1,
+        "S4": 3,
+        "S6": 3
+      }
+    },
+    {
+      "text": "Sacombank đặc biệt chú trọng quan tâm, đầu tư về cơ chế chính sách, hệ thống công nghệ thông tin, đào tạo, nhân sự để chung tay với NHNN Việt Nam ngăn chặn các giao dịch về rửa tiền, tài trợ khủng bố. Sacombank xây dựng chương trình Phòng chống rửa tiền có đầy đủ các yếu tố để thực thi hiệu quả các quy định phòng, chống rửa tiền, cụ thể như sau:",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "Sacombank đã xây dựng và ban hành đầy đủ các văn bản nội bộ triển khai công tác phòng chống rửa tiền trên nguyên tắc công tác phòng chống rửa tiền được chỉ đạo xuyên suốt từ cấp cao nhất HĐQT và BĐH.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Sacombank đã phối hợp với Công ty GTONE - Hàn Quốc xây dựng thành công chương trình phòng chống rửa tiền bao gồm các phân hệ nhận biết khách hàng, phân loại khách hàng theo mức độ rủi ro, đánh giá tăng cường khách hàng, lọc Giao dịch/Khách hàng so với danh sách đen, danh sách cảnh báo và phân hệ giám sát giao dịch tự động bằng chương trình AML Express, đảm bảo phát hiện kịp thời ra các giao dịch đáng ngờ theo quy định của Luật Phòng chống rửa tiền.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Việt Nam và khuyến nghị quốc tế về phòng chống rửa tiền. Ngoài hệ thống AML Express do đối tác nước ngoài cung cấp bản quyền, hiện nay Sacombank đã xây dựng và vận hành thành công hệ thống báo cáo giao dịch tiền mặt giá trị lớn và giao dịch chuyển tiền điện tử theo quy định của Luật phòng chống rửa tiền và các văn bản hướng dẫn, đảm bảo tất cả các giao dịch bắt buộc báo cáo được báo cáo đầy đủ, kịp thời về cho Cục Phòng chống rửa tiền - NHNN.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G4"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G4"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.4 Dự phòng rủi ro tín dụng ; column_headers: Nhóm nợ | Diễn giải [ROWS] Nhóm nợ | Diễn giải [ROW] 1 | Nợ đủ tiêu chuẩn | (a) | Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc [ROW] (b) | Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. [ROW] 2 | Nợ cần chú ý | (a) | Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc [ROW] (a) | Nợ điều chỉnh kỳ hạn trả nợ lần đầu. [ROW] 3 | Nợ dưới tiêu chuẩn | (a) | Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc [ROW] (b) | Nợ gia hạn nợ lần đầu; hoặc [ROW] (c) | Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo hợp đồng tín dụng; hoặc [ROW] (d) | Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: • Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc [ROW] • [ROW] Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc [ROW] (e) | Nợ trong thời hạn thu hồi theo kết luận thanh tra. [ROW] (a) | Nợ quá hạn từ 181 ngày đến 360 ngày; hoặc [ROW] (b) | Nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn dưới 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu; hoặc [ROW] 4 | Nợ nghi ngờ | (c) | Nợ cơ cấu lại thời hạn trả nợ lần thứ hai; hoặc [ROW] (d) | Khoản nợ quy định tại điểm (d) của nợ Nhóm 3 chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi; hoặc",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "extracted_count": 9,
+  "extracted": [
+    {
+      "text": "Trong bối cảnh kinh tế vĩ mô năm 2024 còn nhiều khó khăn, thách thức, các hành vi gian lận sẽ ngày càng tinh vi hơn. Nhận thức được vấn đề này, Sacombank đặt ra mục tiêu không ngừng đổi mới, thay đổi linh hoạt ứng dụng công nghệ số hiện đại vào hoạt động quản trị rủi ro, kiên quyết ngăn chặn các hành vi gian lận thông qua việc triển khai thực hiện Dự án phòng chống gian lận. Với dự án này, Sacombank sẽ được trang bị phương pháp và công cụ để phát hiện sớm, ngăn chặn kịp thời các hành vi gian lận phức tạp trong tương lai.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "text": "Nhận thức được tầm quan trọng của công tác phòng, chống tham nhũng và rửa tiền, đồng thời khẳng định quyết tâm phòng chống tội phạm rửa tiền, Ủy ban Phòng, chống tham nhũng, tội phạm và rửa tiền tại Sacombank đã không ngừng nỗ lực xây dựng khung pháp lý, tổ chức bộ máy quản lý hiệu quả. Cụ thể trong năm 2023, Ủy ban đã họp nhiều kỳ và cử thành viên tham dự nhiều cuộc họp định kỳ và đột xuất của các Hội đồng, Ban trực thuộc Ủy ban theo từng đơn vị cụ thể để thực hiện các chức năng, nhiệm vụ theo quy định gồm:",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "text": "Những hạn chế vốn có của dịch vụ đảm bảo có giới hạn bao gồm việc sử dụng phán đoán và kiểm tra chọn mẫu dữ liệu, dẫn tới rủi ro gian lận, sai sót hoặc không tuân thủ có thể xảy ra và không bị phát hiện. Do vậy, vẫn tồn tại rủi ro sai sót trọng yếu trong các Chỉ số phát triển bền vững được lựa chọn không bị phát hiện. Ngoài ra, dịch vụ đảm bảo có giới hạn không nhằm phát hiện ra các gian lận, sai sót không trọng yếu.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Nhận thức được tầm quan trọng của công tác phòng, chống tham nhũng và rửa tiền đồng thời khẳng định quyết tâm phòng chống tội phạm rửa tiền, Ủy ban phòng, chống tham nhũng và rửa tiền tại Sacombank đã không ngừng nỗ lực xây dựng khung pháp lý, tổ chức bộ máy quản lý hiệu quả, cụ thể trong năm 2023, Hội đồng phòng, chống tham nhũng, tội phạm và rửa tiền đã họp nhiều kỳ và cử thành viên tham dự nhiều cuộc họp định kỳ và đột xuất của các Hội đồng, Ban trực thuộc Ủy ban theo từng đơn vị cụ thể để thực hiện chức năng, nhiệm vụ.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "text": "» Nước thải từ hệ thống các thiết bị vệ sinh sẽ thu gom và xử lý sơ bộ tại hai bể tự hoại, sau đó bơm ra hệ thống xử lý nước thải tập trung của tòa nhà. Quy trình xử lý nước thải tại Sacombank đạt quy chuẩn QCVN 14:2008/BTNMT.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: 4.6.1 Phân loại nợ và dự phòng rủi ro tín dụng (tiếp theo) ; column_headers: Nhóm nợ | Tình trạng quá hạn | Tỷ lệ dự phòng [ROWS] Nhóm nợ | Tình trạng quá hạn | Tỷ lệ dự phòng [ROW] 1 | Nợ đủ tiêu chuẩn | (a) Nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn; hoặc (b) Nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn. | 0% [ROW] 2 | Nợ cần chú ý | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu. | 5% [ROW] 3 | Nợ dưới tiêu chuẩn | (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc (b) Nợ gia hạn nợ lần đầu; hoặc (c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận; hoặc (d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi: » Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật các tổ chức tín dụng; hoặc » Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật các tổ chức tín dụng (e) Nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra; hoặc (f) Nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do khách hàng vi phạm hợp đồng tín dụng với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi; hoặc (g) Khi có yêu cầu của NHNN dựa trên kết quả thanh tra, giám sát và thông tin tín dụng có liên quan. | 20%",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: CÁC BẢNG BIỂU, SỐ LIỆU CỤ THỂ ; column_headers: 2023 | 2022 | 2021 ; row_headers: Khối lượng giấy sử dụng (kg) | Năng lượng không tái tạo 2 (têrajun) | Năng lượng tái tạo (têrajun) | Điện (têrajun) | Tổng năng lượng tiêu thụ (têrajun) | Cường độ sử dụng năng lượng trên mỗi nhân viên (têrajun/người) | Tổng lượng nước tiêu thụ (mêgalít) | Tổng lượng nước tiêu thụ tại khu vực thiếu nước 3 (mêgalít) | Phạm vi 1 (tấn CO 2 e 5 ) | Phạm vi 2 (tấn CO 2 e) | Phạm vi 3 (tấn CO 2 e) | Tổng phát thải khí nhà kính (tấn CO 2 e) | Thâm dụng phát thải khí nhà kính trên mỗi nhân viên (tấn CO 2 /người) 6 | Tổng chất thải rắn sinh hoạt (tấn) [ROWS] 2023 | 2022 | 2021 [ROW] Vật liệu [ROW] Khối lượng giấy sử dụng (kg) | 22.060 | 20.550 | 23.292 [ROW] Năng lượng [ROW] Năng lượng không tái tạo 2 (têrajun) | 6,74 | 5,79 | 3,10 [ROW] Năng lượng tái tạo (têrajun) | - | - | - [ROW] Điện (têrajun) | 18,18 | 18,00 | 17,32 [ROW] Tổng năng lượng tiêu thụ (têrajun) | 24,91 | 23,80 | 20,42 [ROW] Cường độ sử dụng năng lượng trên mỗi nhân viên (têrajun/người) | 0,01 | 0,01 | 0,01 [ROW] Nước [ROW] Tổng lượng nước tiêu thụ (mêgalít) | 15,55 | 14,69 | 14,33 [ROW] Tổng lượng nước tiêu thụ tại khu vực thiếu nước 3 (mêgalít) | - | - | - [ROW] Khí nhà kính4 [ROW] Phạm vi 1 (tấn CO 2 e 5 ) | 479,37 | 412,27 | 220,26 [ROW] Phạm vi 2 (tấn CO 2 e) | 3.645,73 | 3.611,28 | 3.474,63 [ROW] Phạm vi 3 (tấn CO 2 e) | 220,44 [ROW] Tổng phát thải khí nhà kính (tấn CO 2 e) | 4.345,54 | 4.023,55 | 3.694,89 [ROW] Thâm dụng phát thải khí nhà kính trên mỗi nhân viên (tấn CO 2 /người) 6 | 2,61 | 2,25 | 2,14 [ROW] Chất thải [ROW] Tổng chất thải rắn sinh hoạt (tấn) | 4,65 | 4,65 | 4,65",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 8,
+        "E2": 11,
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI (tiếp theo) ; column_headers: Số tiêu chuẩn | Tiêu đề tiêu chuẩn GRI | Báo cáo PTBV | Trang [ROWS] Số tiêu chuẩn | Tiêu đề tiêu chuẩn GRI | Báo cáo PTBV | Trang [ROW] GRI 301-3 | Sản phẩm được tái chế và vật liệu đóng gói sản phẩm | x | - [ROW] GRI 302 | Năng lượng [ROW] GRI 302-1 | Tiêu thụ năng lượng trong tổ chức | √ | 198-201 [ROW] GRI 302-2 | Tiêu thụ năng lượng ngoài tổ chức | x | - [ROW] GRI 302-3 | Cường độ sử dụng năng lượng | √ | 223-225 [ROW] GRI 302-4 | Giảm tiêu hao năng lượng | x | - [ROW] GRI 302-5 | Giảm nhu cầu năng lượng của sản phẩm và dịch vụ | x | - [ROW] GRI 303 | Nước và Nước thải [ROW] GRI 303-1 | Tương tác với nước như một nguồn tài nguyên chung | x | - [ROW] GRI 303-2 | Quản lý các tác động liên quan đến xả nước | x | - [ROW] GRI 303-3 | Nước đầu vào | x | - [ROW] GRI 303-4 | Nước thải | x | - [ROW] GRI 303-5 | Nước tiêu thụ | √ | 223-225 [ROW] GRI 304 | Đa dạng sinh học [ROW] GRI 304-1 | Các cơ sở hoạt động được sở hữu, cho thuê, quản lý trong, hoặc gần kề các khu vực được bảo tồn và các khu vực đa dạng sinh học cao bên ngoài khu được bảo tồn | x | - [ROW] GRI 304-2 | Tác động đáng kể của các hoạt động, sản phẩm và du lịch đối với đa dạng sinh học | x | - [ROW] GRI 304-3 | Các môi trường sống được bảo tồn hoặc phục hồi | x | - [ROW] GRI 304-4 | Các loài trong Sách Đỏ của IUCN và các loài trong các khu vực chịu ảnh hưởng bởi các hoạt động | x | - [ROW] GRI 305 | Phát thải [ROW] GRI 305-1 | Phát thải khí nhà kính (GHG) trực tiếp (Phạm vi 1) | √ | 223-225 [ROW] GRI 305-2 | Phát thải khí nhà kính (GHG) gián tiếp từ năng lượng (Phạm vi 2) | √ | 223-225 [ROW] GRI 305-3 | Phát thải khí nhà kính (GHG) gián tiếp khác (Phạm vi 3) | √ | 223-225 [ROW] GRI 305-4 | Thâm dụng phát thải khí nhà kính (GHG) | √ | 223-225 [ROW] GRI 305-5 | Giảm phát thải khí nhà kính (GHG) | x | - [ROW] GRI 305-6 | Phát thải các chất phá hủy tầng ô-zôn (ODS) | x | - [ROW] GRI 305-7 | Nitrogen oxides (Nox), sulfur oxides (SOx), và các phát thải khí đáng kể khác | x | - [ROW] GRI 306 | Chất thải [ROW] GRI 306-1 | Phát sinh chất thải và các tác động đáng kể liên quan đến chất thải | x | - [ROW] GRI 306-2 | Quản lý các tác động đáng kể liên quan đến chất thải | x | - [ROW] GRI 306-3 | Chất thải phát sinh | √ | 223-225 [ROW] GRI 306-4 | Chất thải được chuyển hướng khỏi việc thải bỏ | x | -",
+      "hard_labels": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 9,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: MỤC LỤC GRI (tiếp theo) ; column_headers: Số tiêu chuẩn | Tiêu đề tiêu chuẩn GRI | Báo cáo PTBV | Trang [ROWS] Số tiêu chuẩn | Tiêu đề tiêu chuẩn GRI | Báo cáo PTBV | Trang [ROW] GRI 407 | Tự do lập hội/Quyền tham gia công đoàn và Thương lượng tập thể [ROW] GRI 407-1 | Các hoạt động và các nhà cung cấp mà ở đó quyền tự do lập hội/quyền tham gia công đoàn và thương lượng tập thể có thể gặp rủi ro | x | - [ROW] GRI 408 | Lao động trẻ em [ROW] GRI 408-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động trẻ em | x | - [ROW] GRI 409 | Lao động cưỡng bức hoặc bắt buộc [ROW] GRI 409-1 | Các hoạt động và nhà cung cấp có rủi ro đáng kể về các vụ việc lao động cưỡng bức hoặc bắt buộc | x | - [ROW] GRI 410 | Thông lệ về an ninh [ROW] GRI 410-1 | Nhân viên an ninh được đào tạo về các quy trình hoặc chính sách về quyền con người | x | - [ROW] GRI 411 | Quyền của người bản địa [ROW] GRI 411-1 | Các vụ vi phạm liên quan đến quyền của người bản địa | x | - [ROW] GRI 413 | Cộng đồng địa phương [ROW] GRI 413-1 | Những hoạt động có sự tham gia của cộng đồng địa phương, đánh giá tác động và các chương trình phát triển | √ | 203 210-211 [ROW] GRI 413-2 | Những hoạt động có tác động tiêu cực tiềm ẩn và thực tế đáng kể với cộng đồng địa phương | x | - [ROW] GRI 414 | Đánh giá nhà cung cấp về mặt xã hội [ROW] GRI 414-1 | Các nhà cung cấp mới đã được đánh giá sơ bộ bằng cách sử dụng các tiêu chí về xã hội | x | - [ROW] GRI 414-2 | Các tác động xã hội tiêu cực trong chuỗi cung ứng và các hành động đã thực hiện | x | - [ROW] GRI 415 | Chính sách công [ROW] GRI 415-1 | Đóng góp chính trị | x | - [ROW] GRI 416 | Sức khỏe và an toàn của Khách hàng [ROW] GRI 416-1 | Đánh giá tác động về sức khỏe và an toàn của các sản phẩm hoặc dịch vụ | x | - [ROW] GRI 416-2 | Các vụ việc không tuân thủ liên quan đến tác động sức khỏe và an toàn các sản phẩm và dịch vụ | x | - [ROW] GRI 417 | Tiếp thị và Nhãn hiệu [ROW] GRI 417-1 | Các yêu cầu đối với thông tin nhãn hiệu, sản phẩm và dịch vụ | x | - [ROW] GRI 417-2 | Các vụ việc không tuân thủ liên quan thông tin và nhãn hiệu của sản phẩm và dịch vụ | x | - [ROW] GRI 417-3 | Các vụ việc không tuân thủ liên quan đến truyền thông tiếp thị | x | - [ROW] GRI 418 | Quyền bảo mật thông tin khách hàng [ROW] GRI 418-1 | Khiếu nại có căn cứ về việc vi phạm Quyền bảo mật thông tin khách hàng và mất dữ liệu khách hàng | x | -",
+      "hard_labels": [
+        "S4",
+        "S6"
+      ],
+      "soft_labels": {
+        "E2": 0.830679,
+        "S4": 1.0,
+        "S6": 1.0
+      },
+      "themes": [
+        "E2",
+        "S4",
+        "S6"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4,
+        "S4": 4,
+        "S6": 4
+      }
+    }
+  ]
+}

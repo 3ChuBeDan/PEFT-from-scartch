@@ -1,0 +1,183 @@
+{
+  "extracted_count": 10,
+  "extracted": [
+    {
+      "text": "Tiêu dùng xanh đang là xu hướng chủ đạo của tiêu dùng thế giới. Người tiêu dùng hiện đại không chỉ muốn sử dụng sản phẩm chất lượng tốt mà còn muốn sản phẩm đó cho sức khỏe và thân thiện với môi trường. Trong thị trường phân bón, sản phẩm xanh chính là yếu tố cốt lõi tạo nên lợi thế cạnh tranh. Hiểu được điều này cùng với thế mạnh nội lực doanh nghiệp, PVCFC đặc biệt chú trọng đến công tác nghiên cứu và phát triển (R&D) tập trung vào việc: xây dựng gói giải pháp dinh dưỡng cho cây trồng, đa dạng hóa sản phẩm, tối ưu hóa công nghệ sản xuất và nâng cao chất lượng sản phẩm. Mọi công việc nghiên cứu của PVCFC đều hướng đến một mục tiêu duy nhất là cung ứng cho thị trường phân bón trong và ngoài nước những sản phẩm đạt chất lượng cao nhất, nâng cao năng suất canh tác và thân thiện với môi trường. Lợi ích của người nông dân chính là lợi ích của PVCFC. \" \"",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Lắp đặt các trạm quan trắc môi trường online EMS (environmental monitoring stations)",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.5,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "text": "Năm 2012, Việt Nam xác định chuyển đổi phương thức phát triển, hướng tới xây dựng \"Nền Kinh tế Xanh\" được xem là một hướng tiếp cận mới, phù hợp với xu thế phát triển chung của hệ thống kinh tế toàn cầu. Trong đó, phát triển kinh tế xanh cần được xem như là một trong những giải pháp quan trọng cho sự phát triển bền vững trong lĩnh vực nông nghiệp tại Việt Nam. Điều này không những góp phần sử dụng hợp lý, tiết kiệm, hiệu quả các nguồn tài nguyên thiên nhiên, bảo vệ môi trường mà còn làm thay đổi cơ cấu sản xuất và tiêu dùng, mang lại hiệu quả kinh tế, tạo thêm nhiều việc làm, nâng cao đời sống cho người dân. Đồng hành cùng mục tiêu chiến lược Quốc gia về Tăng trưởng xanh do Nhà nước ban hành, cũng như hiểu rõ trách nhiệm của doanh nghiệp đối với cộng đồng, PVCFC không chỉ cam kết mang lại các giải pháp dinh dưỡng tốt nhất cho cây trồng mà còn nỗ lực xây dựng các chương trình liên kết khác nhằm chung tay cùng bà con nông dân gia tăng lợi ích trong canh tác nông nghiệp, phát huy vai trò mắc xích trong liên kết 4 nhà: \"Nhà nước – Nhà khoa học – Nhà nông – Nhà doanh nghiệp\" một cách hiệu quả. \"",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Với nhà máy sản xuất được đầu tư công nghệ hiện đại bậc nhất Việt Nam và khu vực Đông Nam Á, trong năm 2015, PVCFC tiếp tục thực hiện cải tiến công nghệ, triển khai các chương trình hành động với mục tiêu sử dụng hiệu quả nguồn tài nguyên thiên nhiên, giảm thiểu tối đa các tác động xấu đến môi trường, cũng như ảnh hưởng đến khu dân cư xung quanh. Ngay khi Nhà máy bắt đầu đi vào hoạt động, PVCFC đã thực hiện rất nghiêm túc trong công tác môi trường đảm bảo việc xả thải luôn đạt theo Quy chuẩn Quốc Gia (QCVN14:2008/BTNMT, QCVN40:2011/BTNMT, QCVN19:2009/BTNMT, QCVN21:2009/BTNMT). Ngoài việc thường xuyên lấy mẫu, phân tích xử lý tại: Hệ thống xử lý nước thải; Đầu ra ngoài sông; Các ống khói trong khu vực sản xuất, PVCFC đã ký hợp đồng với Công ty cổ phần dịch vụ công nghệ Sài Gòn thực hiện quan trắc môi trường bên trong và khu vực lân cận nhà máy định kỳ 3 tháng / lần và báo cáo về Sở Tài nguyên môi trường tỉnh Cà Mau. Và năm 2015, PVCFC đã thực hiện báo cáo gửi trực tiếp cho Bộ Tài nguyên và Môi trường theo quy định hiện hành. Bên cạnh đó, PVCFC luôn chấp hành nghiêm chỉnh các pháp lệnh về môi trường và không để xảy ra các hành vi vi phạm pháp luật, tuân thủ đúng và thực hiện đầy đủ các cam kết trong đánh giá tác động môi trường (ĐTM) và các văn bản thẩm định phê duyệt báo cáo ĐTM.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.75,
+        "E_COMMON": 1.0,
+        "S6": 0.5
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E_COMMON": 2,
+        "S6": 1
+      }
+    },
+    {
+      "text": "Để đảm bảo không khí xung quanh không bị ảnh hưởng do hoạt động sản xuất, công ty xây dựng 2 trạm giám sát môi trường online một số chỉ tiêu môi trường như COx, bụi, Nox. Môi trường không khí xung quanh nhà máy luôn được quan trắc định kỳ và đảm bảo đạt tiêu chuẩn. Ngoài ra, Nhà máy Đạm Cà Mau còn thiết kế xây dựng 3 ống khói và 4 đuốc đốt trong khu vực vận hành để đốt hoàn toàn các loại khí thải ra trong suốt quá trình sản xuất, đảm bảo khí thải ra môi trường đạt QCVN 19:2009/ BTNMT – Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp bụi và chất vô cơ và QCVN 21:2009/BTNMT – Quy chuẩn kỹ thuật quốc gia về khí thải công nghiệp sản xuất phân bón hóa học.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.25
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4,
+        "E2": 1
+      }
+    },
+    {
+      "text": "Nước thải phát sinh từ các khu vực tại Nhà máy của PVCFC được thu gom về hệ thống xử lý nước thải, bao gồm: xử lý nước thải nhiễm amoniac (công suất: 5 m 3 /h); nước thải nhiễm",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "text": "tại nguồn thành 3 loại: chất thải sinh hoạt, chất thải tái chế và chất thải nguy hại. Công tác quản lý chất thải rắn được PVCFC báo cáo định kỳ 6 tháng với Chi cục bảo vệ môi trường tỉnh Cà Mau. Theo đó, PVCFC đã tiến hành ký hợp đồng cùng các đơn vị chuyên xử lý chất thải để thu gom, vận chuyển chất thải rắn về nơi tập kết theo đúng chức năng và quy định của pháp luật.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G7"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G7"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tăng trưởng xanh là định hướng mới thúc đẩy kinh tế phát triển theo mô hình tiêu thụ và sản xuất bền vững, nhằm đảm bảo nguồn vốn tự nhiên, tiếp tục cung cấp những nguồn lực và dịch vụ sinh thái mà đời sống của chúng ta phụ thuộc vào phục vụ cho sự phát triển kinh tế toàn cầu. Tất cả mọi nỗ lực của PVCFC đến hôm nay là bước tiền đề cho sự tập trung vào mô hình tăng trưởng theo hướng thân thiện với môi trường mà bản thân doanh nghiệp định hướng phát triển ngay từ những ngày đầu thành lập, cũng như góp phần chung tay rút ngắn thời gian thực hiện Chiến lược Quốc gia về tăng trưởng xanh đến năm 2020 mà Việt Nam đang theo đuổi. \" \"",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ ; column_headers: STT | Số NQ/QĐ | Ngày ban hành | Nội dung [ROWS] STT | Số NQ/QĐ | Ngày ban hành | Nội dung [ROW] 1 | 08/QĐ-PVCFC | 15/01/2015 | Quyết định phê duyệt kế hoạch hoạt động sản xuất kinh doanh chi tiết năm 2015 của PVCFC [ROW] 2 | 1162/QĐ-PVCFC-HĐ | 08/06/2015 | Quyết định phê duyệt kết quả thực hiện Báo cáo nghiên cứu tiền khả thi đầu tư xây dựng dự án mở rộng công suất phân xưởng Ammonia (NH3) Nhà máy Đạm Cà Mau [ROW] 3 | 1800/QĐ-PVCFC | 01/9/2015 | Quyết định về việc “Xây dựng & vận hành hệ thống Kiểm soát nội bộ và Quản trị rủi ro doanh nghiệp theo chuẩn COSO” [ROW] 4 | 413/QĐ-PVCFC | 13/03/2015 | Quyết định về việc phê duyệt danh mục quản lý rủi ro năm 2015 [ROW] 5 | 1492/QĐ-PVCFC | 24/7/2015 | Quyết định về việc mua trạm liên lạc tại TPHCM [ROW] 6 | 2466/QĐ-PVCFC | 30/12/2015 | Quyết định về việc ban hành “Định mức Kinh tế kỹ thuật” của PVCFC [ROW] 7 | 973/QĐ-PVCFC | 25/05/2015 | Quyết định về việc bổ nhiệm Phó Tổng Giám đốc công ty [ROW] 8 | 974/QĐ-PVCFC | 25/05/2015 | Quyết định về việc tiếp nhận và bổ nhiệm Kế toán trưởng công ty [ROW] 9 | 1792/QĐ-PVCFC | 28/8/2015 | Quyết định về việc phê duyệt phạm vi công việc và dự toán chi phí, kế hoạch lựa chọn nhà thầu tư vấn lập báo cáo đánh giá tác động môi trường, thẩm tra dự án đầu tư thuộc dự án “Đầu tư dây chuyền sản xuất phân bón phức hợp từ Urê nóng chảy” [ROW] 10 | 1925/QĐ-PVCFC | 02/10/2015 | Quyết định về việc thành lập hội đồng thẩm định Báo cáo nghiên cứu khả thi “Sản xuất phân bón phức hợp từ ure nóng chảy công suất 300.000 tấn/năm",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E_COMMON": 2
+      }
+    }
+  ]
+}

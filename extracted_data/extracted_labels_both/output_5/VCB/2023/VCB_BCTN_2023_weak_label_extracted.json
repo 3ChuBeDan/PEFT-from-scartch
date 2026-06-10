@@ -1,0 +1,44 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G77"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G77"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Tín dụng xanh đang là một chủ đề được các tổ chức tín dụng trong và ngoài nước quan tâm và dành nhiều ưu tiên, đặc biệt là đối với sự phát triển kinh tế - xã hội. Trong đó, các lĩnh vực năng lượng tái tạo, đầu tư vào công trình xanh, phương tiện giao thông điện và nông nghiệp sạch đang là các xu hướng thị trường nhằm hiện thực hóa các cam kết mạnh mẽ của Chính phủ Việt Nam tại COP 26. Với vai trò là ngân hàng thương mại tiên phong, Vietcombank luôn xác định tăng trưởng phải gắn liền với yếu tố bền vững, cũng như cấp tín dụng cho các dự án xanh là một trong những nhiệm vụ trọng tâm của ngân hàng. Trong thời gian qua, Vietcombank đã tập trung mở rộng tín dụng xanh cho nền kinh tế, đặc biệt đối với các dự án năng lượng tái tạo, nông nghiệp xanh và xử lý môi trường. Đến cuối năm 2023, dư nợ cho các dự án xanh tại Vietcombank đã chiếm trên 3,6% tổng dư nợ của Ngân hàng. Cụ thể, vốn tài trợ cho các dự án xử lý chất thải và phòng chống ô nhiễm chiếm ~44%, các dự án tái chế, tái sử dụng các nguồn tài nguyên chiếm ~ 22 %, dự án công nghiệp xanh chiếm ~16%, dự án giao thông bền vững ~12%, công trình xây dựng xanh ~5%, các lĩnh vực xanh khác ~1%.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.601317,
+        "E2": 0.20767,
+        "E3": 1.0,
+        "E_COMMON": 0.4
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3",
+        "E_COMMON"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 1,
+        "E3": 3,
+        "E_COMMON": 1
+      }
+    }
+  ]
+}

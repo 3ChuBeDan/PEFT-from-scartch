@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 143,
+      "text": "Một trong những vấn đề đáng ghi nhận là công tác điều hành thanh khoản và công tác quản lý và ngăn chặn nợ quá hạn đã được kiểm soát một cách chặt chẽ, đảm bảo hoạt động thông suốt. Nợ quá hạn luôn trong tầm kiểm soát do từ đầu năm, Ngân hàng đã thành lập Ban Xử lý và ngăn chặn nợ quá hạn nhằm theo dõi và xử lý kịp thời mọi khoản nợ có dấu hiệu rủi ro. Tỷ lệ nợ quá hạn cuối năm chỉ ở mức 1% trên tổng dư nợ. Sacombank cũng đã trích lập Quỹ dự phòng rủi ro đầy đủ theo quyết định 493/QD-NHNN và các quy định khác của ngành;",
+      "hard_labels": [
+        "S6"
+      ],
+      "soft_labels": {
+        "S6": 1.0
+      },
+      "themes": [
+        "S6"
+      ],
+      "top_label": "S6",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S6": 4
+      }
+    }
+  ]
+}

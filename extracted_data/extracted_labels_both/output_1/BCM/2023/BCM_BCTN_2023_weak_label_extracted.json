@@ -1,0 +1,330 @@
+{
+  "extracted_count": 17,
+  "extracted": [
+    {
+      "paragraph_id": 14,
+      "text": "\"Trải qua hơn ba thập kỷ miệt mài vun đắp, Becamex IDC giữ vai trò chủ chốt trong quá trình phát triển kinh tế xã hội và công nghiệp hóa đáng tự hào của tỉnh Bình Dương. Với tầm nhìn chiến lược hướng đến phát triển theo các tiêu chí bền vững, Becamex IDC luôn giữ vững tinh thần \"Tiên Phong\" trong việc phát triển hạ tầng công nghiệp và đô thị tại Việt Nam. Nhờ đó, Becamex IDC khẳng định bản thân là một trong những Doanh nghiệp hàng đầu và tiên phong trong việc kiến tạo giá trị bền vững cho sự phát triển của cộng đồng, nền kinh tế, môi trường và xã hội.\"",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 170,
+      "text": "Hạ tầng xử lý nước thải: Tại các khu công nghiệp đều có nhà máy xử lý nước thải tập trung với công suất lớn, đảm bảo tiếp nhận và xử lý đạt tiêu chuẩn theo quy định trước khi thải ra môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 251,
+      "text": "Để hạn chế đến mức thấp nhất các rủi ro về môi trường, Tổng Công ty tập trung triển khai xây dựng và nâng cấp các trạm xử lý nước thải tập trung công nghệ cao. Nước thải đầu ra được lấy mẫu tự động và truyền tín hiệu liên tục về trung tâm điều khiển của Tổng Công ty cũng như Sở Tài nguyên môi trường nhằm theo dõi và kịp thời xử lý khi nước thải đầu ra vượt thách thức này. Để giải quyết, Tổng Công ty đã thiết lập hợp đồng thuê có tính pháp lý chặt chẽ và đảm bảo tiến độ thanh toán từ phía khách hàng, đặt ra các biện pháp nhằm giảm thiểu rủi ro trong việc quản lý tiến độ xây dựng và thanh toán.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 435,
+      "text": "» Chất thải rắn công nghiệp không nguy hại: Tại trạm XLNT tập trung KCN không phát sinh loại chất thải này. Chất thải phát sinh tại các công ty trong KCN đều thực hiện thu gom, lưu trữ và ký hợp đồng với các đơn vị có chức năng để thu gom, vận chuyển và xử lý đúng theo quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 443,
+      "text": "Ngoài lĩnh vực chuyên môn, Tổng công ty luôn chăm lo đến đời sống tinh thần cho người lao động thông qua các hoạt động như tặng hoa, quà cho công đoàn viên nữ nhân dịp 8/3, 20/10; tổ chức cuộc Thi \"Áo dài đẹp\", \"Nét đẹp công nhân lao động\" qua ảnh; Khen thưởng cho các CĐV nữ đạt danh hiệu Giỏi việc nước đảm việc nhà; Khen thưởng cho hơn 500 cháu là con cán bộ nhân viên đạt danh hiệu học sinh giỏi trong năm học 2022 – 2023; Tổ chức hoạt động nhân ngày Hội Gia Đình Việt Nam 28/06 với chủ đề Gắn kết tình thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 569,
+      "text": "BKS thực hiện thẩm tra BCTC quý, 6 tháng, năm trên cơ sở báo cáo kết quả kiểm toán của Kiểm toán độc lập và đồng ý với kết luận kiểm toán BCTC 2023 được lập và trình bày trung thực, phù hợp với Chuẩn mực kế toán Việt nam và các quy định hiện hành. Trong năm tài chính 2023, Tổng Công ty áp dụng thống nhất các chính sách kế toán và nguyên tắc xác định các ước tính kế toán từ kỳ kế toán năm trước. Không phát hiện các gian lận hoặc rủi ro gian lận tiềm tàng trên BCTC.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 640,
+      "text": "Trong năm qua, tinh thần trách nhiệm và tinh thần nhân văn của doanh nghiệp đã được phát huy cao thông qua nhiều hoạt động thiết thực và ý nghĩa. Tổng Công ty đã có những chính sách quan trọng để chăm sóc tốt nhất cho nhân viên, người lao động, những người có liên quan và đồng hành sâu sắc với nhiều địa phương. Trong thời gian đó, bên cạnh nỗ lực xây dựng các kế hoạch thúc đẩy hoạt động kinh doanh, Becamex IDC cũng đặt ra nhiều yêu cầu mới để liên tục nâng cao trách nhiệm trong phát triển bền vững, tạo ra giá trị xã hội, môi trường sống bền vững và thân thiện với con người.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 776,
+      "text": "Tổng công ty Becamex đã chú trọng vào việc phát triển năng lượng sạch như một phần quan trọng của chiến lược kinh doanh của mình. Bằng cách tận dụng tiềm năng của năng lượng tái tạo, Tổng công ty đã triển khai hàng loạt các dự án, bao gồm việc cung cấp giải pháp năng lượng tái tạo cho các nhà đầu tư trong các Khu công nghiệp. Một số dự án tiêu biểu bao gồm việc lắp đặt năng lượng áp mái cho khách hàng Emivest Feedmill và dự án cung cấp hệ thống năng lượng hướng đến nhà máy trung hòa carbon đầu tiên của tập đoàn Lego trên thế giới được phát triển theo hướng xanh, bền vững và thân thiện môi trường. Mục tiêu đặt ra là không có khí thải carbon, nguồn điện sử dụng hoạt động nhà máy là năng lượng tái tạo cung cấp từ hệ thống pin mặt trời từ cánh đồng pin ngay cạnh nhà máy. Các dự án này đều đóng góp vào việc kết nối năng lượng tái tạo vào lưới điện KCN, giúp giảm tải tác động lên lưới điện quốc gia và đáp ứng nhu cầu năng lượng cho hoạt động sản xuất kinh doanh của các nhà đầu tư.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E3": 6
+      }
+    },
+    {
+      "paragraph_id": 780,
+      "text": "Với đặc thù ngành nghề kinh doanh, nên phần lớn lượng phát thải, nước thải từ tòa nhà và các dự án trong KCN nếu không được xử lý trước khi thải ra môi trường sẽ kéo theo các tác động tới sức khỏe và môi trường sống của cộng đồng. Do đó, Tổng công ty luôn tìm kiếm các giải pháp công nghệ tiên tiến để giảm thiểu phát thải, nước thải và chất thải, nâng cao hiệu quả hoạt động và góp phần phát triển ngành công nghệ môi trường và năng lượng tái tạo góp phần giảm tối đa lượng phát thải nhà kính độc hại ra môi trường và sử dụng tài nguyên hiệu quả.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.75,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E2": 3,
+        "E3": 1
+      }
+    },
+    {
+      "paragraph_id": 784,
+      "text": "Tổng công ty ban hành Quy trình xử lý nước thải nhằm quy định các biện pháp, trình tự thực hiện hoạt động kiểm soát chất lượng nước thải từ điểm xả thải, đến hệ thống thu gom, hệ thống xử lý và xả nước thải ra môi trường tại xí nghiệp xử lý nước thải do Tổng Công Ty quản lý để đảm bảo đúng yêu cầu của Pháp luật về môi trường và được mục tiêu của hệ thống quản lý chất lượng - môi trường.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 7
+      }
+    },
+    {
+      "paragraph_id": 785,
+      "text": "Với hệ thống xử lý xả thải đạt tiêu chuẩn QCVN 40:2011, Becamex IDC tiếp nhận nước thải từ các nguồn (các công ty trong khu công nghiệp, hộ dân cư, tòa nhà trong các khu đô thị) về các NM XLNT tập trung của Becamex IDC để xử lý theo quy trình chặt chẽ xả nước thải ra môi trường. Nước thải xử lý trong năm 2023: 8.035.799 m3.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 793,
+      "text": "Thuê đơn vị có đủ chuyên môn tiến hành quan trắc và lập báo cáo định kỳ về tình hình thu gom, xử lý nước thải, xả nước thải gửi đến Sở Tài nguyên và Môi trường (Phòng Tài nguyên nước) theo quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 802,
+      "text": "Chất thải rắn công nghiệp không nguy hại: Tại trạm XLNT tập trung KCN không phát sinh loại chất thải này. Chất thải phát sinh tại các công ty trong KCN đều thực hiện thu gom, lưu trữ và ký hợp đồng với các đơn vị có chức năng để thu gom, vận chuyển và xử lý đúng theo quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 812,
+      "text": "Chiến lược trồng 1 triệu cây xanh, trong đó ưu tiên cây rừng, cây bản địa góp phần phủ xanh, giảm phát thải cácbon, và phục hồi đa dạng sinh học. Trồng cây rừng và cây bản địa tại các KCN, KĐT và KDC do Tổng Công ty quản lý: hơn 270.000 cây được trồng đến hết năm 2023. Dự kiến trong năm 2024, sẽ có thêm 89.000 cây xanh được trồng tại các KCN. Thông qua việc này, Tổng công ty dự kiến có thể cắt giảm trên 85,300 tấn CO2 phát thải và lưu giữ 3,8 triệu m3 nước mưa hàng năm giúp phục hồi đa dạng sinh học với nhiều chủng loại cây rừng thực hiện dự án tạo ra hành lang cây xanh xung quanh KCN. Đây không chỉ là một cách để tạo ra một môi trường làm việc dễ chịu mà còn có vai trò quan trọng trong việc giữ nước, chống xói lở đất và lọc chất ô nhiễm từ môi trường xung quanh. Bên cạnh đó, góp phần loại bỏ hoàn toàn khí nhà kính từ quá trình sản xuất và khôi phục, bảo tồn hệ sinh thái động thực vật bản địa. Tổng công ty sẽ đầu tư vào công nghệ xanh và tiên tiến nhằm đạt được mục tiêu tín chỉ carbon, giúp giảm thiểu tác động tiêu cực đến môi trường và khí hậu toàn cầu.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E2": 0.25,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E2": 1,
+        "E_COMMON": 2
+      }
+    },
+    {
+      "paragraph_id": 822,
+      "text": "1 lò đốt chất thải sinh hoạt, công nghiệp, nguy hại công suất 201,6 tấn/ngày có tận thu nhiệt phát điện, công suất 5 MW, 02 lò đốt chất thải y tế: 7,2 tấn/ngày, 02 lò đốt chất thải công nghiệp, 03 lò đốt chất thải nguy hại: 182,4 tấn/ngày",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 1372,
+      "text": "[TABLE] [CONTEXT] section: HỢP ĐỒNG HOẶC GIAO DỊCH VỚI NGƯỜI NỘI BỘ ; column_headers: STT | Tên Công ty | Mối quan hệ liên quan với Tổng công ty | Địa chỉ trụ sở chính | Thời điểm giao dịch với Tổng công ty | Số hợp đồng/biên bản thông qua (nếu có) | Nội dung hợp đồng | Nội dung, số lượng, giá trị giao dịch [ROWS] STT | Tên Công ty | Mối quan hệ liên quan với Tổng công ty | Địa chỉ trụ sở chính | Thời điểm giao dịch với Tổng công ty | Số hợp đồng/biên bản thông qua (nếu có) | Nội dung hợp đồng | Nội dung, số lượng, giá trị giao dịch [ROW] 21-06-2023 | 71/06/2023/HĐVT/HĐ | Cung cấp mặt hàng cống HDPE và phụ kiện cống HDPE | 72.221.531.800 [ROW] 18 | Cty CP Xây dựng và Giao thông Bình Dương BCE | Công ty con, tổ chức có liên quan với người nội bộ | LÔ G, Đường Đồng Khởi, P. Hòa Phú, TP.TDM, Bình Dương | 21-06-2023 | 62/06/2023/HĐVT/HĐ | Cung cấp mặt hàng cống HDPE và phụ kiện cống HDPE | 103.605.055.950 [ROW] 21-06-2023 | 61/06/2023/HĐVT/HĐ | Cung cấp mặt hàng cống HDPE và phụ kiện cống HDPE | 98.132.458.886 [ROW] 01-08-2023 | 04/08/2023/HĐVT/HĐ | Thi công ép cọc thử Việt Sing | 2.144.902.680 [ROW] 05/10/2023 | 19/10/2023/HĐVT/HĐ | Thi công HỒ BƠI – KHU THAY ĐỒ - WC tại Bàu Bàng | 3.148.364.536 [ROW] 19 | Cty CP Phát Triển Đô Thị (Becamex UDJ) | Công ty con, tổ chức có liên quan với người nội bộ | C1-2-3 Đường DT6, KLH CN DV Bình Dương, P.Hoà Phú, thành phố Thủ Dầu Một, tỉnh Bình Dương | 28/11/2023 | 28A/11/2023/HĐVT/HĐ | Thanh lý và thu hồi dự án Lakeview | 50.670.142.936 [ROW] 20 | Cty CP Giải Pháp Năng lượng thông minh Việt Nam Singapore | Công ty liên kết, tổ chức có liên quan với người nội bộ | Tầng 19, Tòa nhà Be \u0002 camex Tower, số 230, Đại lộ Bình Dương, Hòa Phú, Thủ Dầu Một, Bình Dương | 28-02-2023 | 76/02/2023/HĐVT/HĐ | Mua điện năng lượng mặt trời | 8.139.492.900 [ROW] 21 | Công ty Liên doanh TNHH KCN Việt Nam – Singapore | Công ty liên doanh, tổ chức có liên quan với người nội bộ | Đại lộ Bình Dương, Thuận An, Bình Dương | 24/10/2023 | 39/NQ-HĐQT | Ghi nhận vốn góp của BCM tại VSIP | 795.139.279.769 (vốn góp BCM sau khi ghi nhận) [ROW] 30/10/2023 | 39/NQ-HĐQT | Góp tăng vốn điều lệ | 517.274.184.000 [ROW] 27/09/2023 | 97-VC/HĐ-KT/23 | Vận chuyển rác sinh hoạt tại các điểm tập kết thị trấn Lai Uyên về Chi Nhánh Xử lý Chất thải. | Nghiệm thu thanh toán theo tháng theo khối lượng thực tế [ROW] 22 | Chi Nhánh Nước Thải Thủ Dầu Một– Công Ty Cp – Tổng Công Ty Nước – Môi Trường Bình Dương | Công ty đầu tư tài chính | Số 138, khu phố 6, đường Lý Tự Trọng, P. Phú Thọ, TP. TDM, Bình Dương | 05/10/2023 | 02A/10/2023/HĐVT/HĐ | Nạo vét cát tại trạm bơm nước thải 5C | 27.000.000 [ROW] 05/10/2023 | 03A/10/2023/HĐVT/HĐ | Nạo vét cát tại trạm bơm nước thải 5F | 27.000.000 [ROW] 05/10/2023 | 04A/10/2023/HĐVT/HĐ | Nạo vét cát tại trạm bơm nước thải Bàu Bàng – Hồ Chí Minh | 27.000.000 [ROW] 05/10/2023 | 05A/10/2023/HĐVT/HĐ | Nạo vét cát tại các trạm bơm nước thải Lai Hưng và 5E | 54.000.000 [ROW] 23 | Công ty CP Giáo Dục Miền Đông | Công ty liên kết, tổ chức có liên quan với người nội bộ | P. Hòa Phú, TP TDM, Bình Dương | Trong năm 2023 | 34/2022/NQ-HĐQT | Cho thuê mặt bằng | 681.818.182 (Theo số liệu quý 4) [ROW] Công ty TNHH Becamex Tokyu | Công ty liên kết, tổ chức có liên quan | 34/2022/NQ-HĐQT | Dịch vụ khác [ROW] 24 | với người nội bộ | P. Hòa Phú, TP TDM, Bình Dương | Trong năm 2023 | 113.473.023 (Theo số liệu quý 4)",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 1401,
+      "text": "[TABLE] [CONTEXT] section: ty liên doanh, liên kết công ; row_headers: cấp dich vu Cung | Nhận chuyén nhuợng sử dẩt quyền dung | Xây trinh dung công | câp dịch vụ Cung | Thù lao Hội đồng | Phí quan lý, xử lý nuớc thảỉ | Chi dịch vụ thi trinh phi công công | Mua hóa, cu durg cu hàng công | Hoàn trà ký quỹ | Bán hóa, thành phẩm hảng | Cung cấp dịch vụ | vay hợp dong | Chi phí các dịch vụ khac | câp dich vu Cung | Ký quỷ | Cổ tửc đugc chia | Thi công xây dung | Doanh thu cho thuê | Ký quỳ | Góp vón | hóa, thành phẩm | Doanh thu cho thuè xe | Doanh thu ban cây | Mua dich vụ | Xây dung công | bẳng | Cung [ROWS] Singapore Công Công [ROW] bẳng | 45,454.545 | 4.216.827.845 [ROW] 980.000.000.000 [ROW] cấp dich vu Cung | 3.214.771.800 [ROW] ty Cổ phần Setia Becumex Công [ROW] Nhận chuyén nhuợng sử dẩt quyền dung | 22.342.090.909 [ROW] Xây trinh dung công | 12./73.680.821 | 10.304.051.575 [ROW] câp dịch vụ Cung | 109.202.00 [ROW] ty Cổ phần phẩm Savi Công Dưực [ROW] 16.889,700.000 | 16.889.700.0o0 [ROW] Thù lao Hội đồng | 600.000.000 [ROW] ty Cẩ nghệ & Truyền Việt Nam phần Công Công thông [ROW] Phí quan lý, xử lý nuớc thảỉ | 1 1.049.513 | 28.174.413 [ROW] Chi dịch vụ thi trinh phi công công | 14.557.953.164 | 18.722.105.043 [ROW] 12.491.220.000 | 10.706.760.000 [ROW] 5.929.952.630 | 22.909.290.925 [ROW] Mua hóa, cu durg cu hàng công | 13,.039.403.689 | 46,651.293.650 [ROW] Hoàn trà ký quỹ [ROW] 59.482.000,000 [ROW] Bán hóa, thành phẩm hảng | 203,712.63] | 5.794.429.304 [ROW] Cung cấp dịch vụ | 1.918.036.186 | 605.388,829 [ROW] ty TNHH Becamex Tokyu Công [ROW] vay hợp dong | 204.475.144 [ROW] Chi phí các dịch vụ khac | 19.214.965.522 | 3.085.992 000 [ROW] 12.087.640.404 | 10.202.176,431 [ROW] 12.663.000 [ROW] câp dich vu Cung | 705.693.000 [ROW] Ký quỷ | 452.193,855 [ROW] ty Cổ Phút triển Giáo dục Miền phần Đông Công [ROW] Cổ tửc đugc chia | 13.150.000.000 [ROW] Thi công xây dung | 45,885.770.914 [ROW] Doanh thu cho thuê [ROW] Ký quỳ | 750.000.000 [ROW] ty Cẩ Phát triển \"ghiêp BW phần Công Công [ROW] 38.539.312.835 | 31395.858.481 [ROW] Góp vón [ROW] Kỹ thuật tầng Công [ROW] Cung | 9.869.532.382 | 9.701.396.248 [ROW] hóa, thành phẩm | 3.210.147.990 | 5.794,429.304 [ROW] Doanh thu cho thuè xe | 5.455.754.269 | 19.948.027.698 [ROW] Doanh thu ban cây | 2.179.950.000 [ROW] Mua dich vụ | 244.778.465 | 201.381,934 [ROW] Xây dung công | 59.071.293.051 | 104.816.285.707 [ROW] 30.972 362.457",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    }
+  ]
+}

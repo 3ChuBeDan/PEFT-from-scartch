@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Triển khai và áp dụng công cụ phát hiện rủi ro gian lận, nhằm tăng cường việc giám sát từ xa, liên tục và toàn diện đối với chi nhánh, kịp thời phát hiện các hành vi gian lận.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

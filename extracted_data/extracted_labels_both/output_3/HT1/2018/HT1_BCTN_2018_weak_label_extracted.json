@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "Chi phí các nguyên nhiên liệu cho sản xuất tăng mạnh, đặc biệt là chi phí năng lượng (than tăng giá 2 lần, tương ứng trên 15%), nguồn than, thạch cao trong nước không đủ đáp ứng cho sản xuất, bắt đầu phải phụ thuộc thị trường than thế giới. Chiến tranh thương mại Mỹ - Trung tác động đến chi phí vận tải quốc tế, sự mất giá đồng tiền ở một số quốc gia.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

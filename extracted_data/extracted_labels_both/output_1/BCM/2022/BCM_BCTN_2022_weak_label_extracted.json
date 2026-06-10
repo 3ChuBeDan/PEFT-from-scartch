@@ -1,0 +1,107 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "text": "BKS thực hiện thẩm tra BCTC quý, 6 tháng, năm trên cơ sở báo cáo kết quả kiểm toán của Kiểm toán độc lập và đồng ý với kết luận kiểm toán BCTC 2022 được lập và trình bày trung thực, phù hợp với Chuẩn mực kế toán Việt nam và các quy định hiện hành. Trong năm tài chính 2022, Tổng Công ty áp dụng thống nhất các chính sách kế toán và nguyên tắc xác định các ước tính kế toán từ kỳ kế toán năm trước. Không phát hiện các gian lận hoặc rủi ro gian lận tiềm tàng trên BCTC.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "Với tinh thần trách nhiệm, xây dựng và hợp tác trong quá trình hoạt động, BKS luôn phối hợp, trao đổi và đóng góp ý kiến thẳng thắn với HĐQT, Ban Tổng Giám đốc trong các cuộc họp. Các Nghị quyết, Quyết định của HĐQT, Ban Tổng Giám đốc được ban hành phù hợp với mục tiêu của HĐQT và các quy chế nội bộ của Tổng Công ty.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Thuê đơn vị có đủ chuyên môn tiến hành quan trắc và lập báo cáo định kỳ về tình hình thu gom, xử lý nước thải, xả nước thải gửi đến Sở Tài nguyên và Môi trường (Phòng Tài nguyên nước) theo quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Chất thải rắn nguy hại khá lớn và có nguy cơ ảnh hưởng lớn nên môi trường nên phải được tập trung tại khu vực lưu trữ chất thải nguy hại. (Tổng Công ty đã ký hợp đồng với đơn vị có chức năng thu gom, xử lý tuân thủ Thông tư số 36/2015/TT-BTNMT).",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "text": "Đối với mục tiêu thứ hai, Becamex cũng song song đó cải tạo công nghệ các hệ thống xử lý nước thải nhằm nâng cao hiệu quả xử lý với hệ số an toàn cao cho môi trường, nâng cao tính tự động và tiết kiệm năng lượng cho hoạt động xử lý nước thải và giảm phát sinh bùn thải. Việc cải tạo cũng chú trọng theo dõi điều chỉnh liều lượng hóa chất theo đúng nhu cầu thành phần nước thải, giúp tối ưu hóa lượng hóa chất sử dụng.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Giao djch với các ty liên doanh, liên kết công ; column_headers: Luỹ kế từ đầu năm đến cuối Năm nay | Nm trước ; row_headers: Chuyến nhượng quyền sử dụng | Cho thuê mặt bẳng | Doanh thu djch vụ | Chi phí hợp tác kinh doanh | bán trà lại Hàng | Cổ tức chia được | Chi phi các djch vụ khác | Nhận chuyên nhưgng | Doanh thu tác kinh doanh tạm chia hợp | Bán hoá, thành phẩm | Cho thuê mặt bằng | Cổ túc chia | Nhận chuyen nhượng quyền sừ đất dung | Xây dựng trình công | cấp dịch vụ Cung | Thù lao Hội đổng quản | Phí quán lý, xử lý nước thài | Chi phí dich vụ thi công trinh công | Cố tức được chia | Mua hóa, công cu dung cụ hàng | Hoàn trả ký quỹ | Góp vốn | Bán hóa, thành phẩm hàng | Phí bào lãnh híện vay đồng- thực hợP | Chi phí các dịch vụ khác | Cho thuê xe | Tiền điện thu hộ | Thi xẩy công dựng | Thù lao Hộí trị và Ban kiềm soát chi dổng quàn [ROWS] Các giao djch trọng yếu giũa Tập đoàn với các ty liên doanh, liên kết nhu sau: công [ROW] Luỹ kế từ đầu năm đến cuối Năm nay | Nm trước [ROW] Ky thuật đất Công tẩng [ROW] Chuyến nhượng quyền sử dụng | 1.097.470.829.845 [ROW] Cho thuê mặt bẳng | 218.181.818 | 218.181.818 [ROW] Doanh thu djch vụ | 772.422.000 [ROW] Chi phí hợp tác kinh doanh | 16.661.316.796 | 20,208,174.364 [ROW] bán trà lại Hàng | (3.605.199.353) [ROW] Cổ tức chia được | 162.049.504.500 [ROW] Chi phi các djch vụ khác | 2.670.863.638 | 695.036.364 [ROW] Nhận chuyên nhưgng | 49.404.560.195 [ROW] Doanh thu tác kinh doanh tạm chia hợp | 19.568.142.873 | 30.411.950.673 [ROW] Bán hoá, thành phẩm | 4.573.611 [ROW] ty Liên doanh TNHH Khu \"ghiệp Việt Nam Công Công | ~ Singapore [ROW] Cho thuê mặt bằng | 4.216.827.845 [ROW] Cổ túc chia | 980.000.000.000 [ROW] 3.214.771.800 [ROW] ty Cổ phần Setia Becamex Công [ROW] Nhận chuyen nhượng quyền sừ đất dung | 22.342.090.909 [ROW] Xây dựng trình công | 10.304.051.575 [ROW] cấp dịch vụ Cung | 80.529.000 [ROW] 'phẫm Savi Công Dược [ROW] Cổ tức chia được | 16.889.700.000 | 16,889,700.000 [ROW] Thù lao Hội đổng quản | 100.000,000 | 600.000.000 [ROW] nghệ & Truyền thông Vìệt Nam Công Công [ROW] Phí quán lý, xử lý nước thài | 28.174.413 | 30.742.283 [ROW] Chi phí dich vụ thi công trinh công | 18.722.105.043 [ROW] Cố tức được chia | 10.706.760.000 | 14.275.680.000 [ROW] 22.909.290.925 [ROW] Mua hóa, công cu dung cụ hàng | 46.651.293.650 [ROW] Hoàn trả ký quỹ | 50.000.000 [ROW] Góp vốn | 59.482.000.000 [ROW] Bán hóa, thành phẩm hàng | 5.794.429.304 [ROW] cấp dịch vụ Cung | 605.388.829 [ROW] ty TNHH Becamex Tokyu Công [ROW] Phí bào lãnh híện vay đồng- thực hợP | 234.391.109 [ROW] Chi phí các dịch vụ khác | 3,085.992.000 [ROW] Cho thuê xe | 10.202.176,431 [ROW] Tiền điện thu hộ | 11.256.778 [ROW] cấp dịch vụ Cung | 705.693.000 [ROW] ty Cổ phần Phát triển Giáo duc Mìền Công Đô\"g [ROW] 13.150.000.000 | 1.000.000.000 [ROW] Thi xẩy công dựng | 45.885.770,914 [ROW] Thù lao Hộí trị và Ban kiềm soát chi dổng quàn | 2.104,201.948",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    }
+  ]
+}

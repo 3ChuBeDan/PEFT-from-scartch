@@ -1,0 +1,22 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "text": "[TABLE] [CONTEXT] section: (g) Tangible fixed assets ; column_headers: Overdue period | Allowance rate [ROWS] Overdue period | Allowance rate [ROW] From six (06) months to less than one (01) year | 30% [ROW] From one (01) year to less than two (02) years | 50% [ROW] From two (02) years to less than three (03) years | 70% [ROW] Over three (03) years | 100%",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

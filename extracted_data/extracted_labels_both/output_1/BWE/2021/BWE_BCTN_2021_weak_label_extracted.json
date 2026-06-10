@@ -1,0 +1,242 @@
+{
+  "extracted_count": 13,
+  "extracted": [
+    {
+      "paragraph_id": 348,
+      "text": "trình chuyên về cấp nước, xử lý nước thải, xây dựng, lắp đặt, điện và điện tự động hóa...Ra đời chưa đầy 1 năm Công ty cổ phần Xây lắp – Điện Biwase đã thực hiện nhiều công trình quan trọng như: Công trình Nhà máy xử lý nước thải Kiến An – Chợ Mới – An",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 383,
+      "text": "Hoạt động sản xuất nước chủ yếu tiêu thụ điện năng nên không thải ra khí thải. Máy phát điện chỉ sử dụng khi mất điện đột xuất hay có thông báo của điện lực, nên nguồn phát sinh khí thải không đáng kể. Máy phát điện khi hoạt động có thải ra khí thải nhưng ống thải khí được bố trí n ằm giữa khuôn viên rộng lớn của nhà máy nên không ảnh hưởng đến môi trường không khí xung quanh khu dân cư. Bên cạnh đó, xung quanh nhà máy trồng rất nhiều cây xanh nên khí thải sẽ được xử lý thông qua nhiều lớp cây xanh.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 386,
+      "text": "Do đặc thù của ngành cấp nước là khai thác, sản xuất và cung cấp nước sinh hoạt nên chất thải nguy hại gẩn như không đáng kể, nên không đáng lo ngại. Tuy nhiên, Công ty vẫn có những quy định để xử lý những loại chất thải này. Các chất thải nguy hại chủ yếu là giẻ lau dính nhớt trong quá trình sửa chữa sự cố máy bơm và các bóng đèn huỳnh quang bị hư. Các chất thải này đều tập trung vào một chỗ tại nhà máy, sau đó Công ty sẽ tìm đơn vị thu gom và xử lý để ký hợp đồng thu gom .",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 389,
+      "text": " Hệ thống Quản lý chất lượng – ISO 9001:2015 cho phạm vi: \"Sản xuất và kinh doanh nước sạch\", \"Sản xuất và kinh doanh phân bón hữu cơ, gạch xây, gạch lát và bê tông. Thu gom, vận chuyển và xử lý chất thải sinh hoạt, chất thải công nghiệp, chất thải nguy hại, chất thải y tế. Tái chế chất thải sinh hoạt và chất thải công nghiệp\", \"Sản xuất và kinh doanh nước uống tinh khiết đóng chai\".",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "paragraph_id": 391,
+      "text": " Hệ thống Quản lý an toàn và sức khỏe nghề nghiệp ISO 45001:2018 cho phạm vi \"Sản xu ất và kinh doanh phân bón hữu cơ, gạch xây, gạch lát và bê tông. Thu gom, vận chuyển và xử lý chất thải sinh hoạt, chất thải công nghiệp, chất thải nguy hại, chất thải y tế. Tái chế chất thải sinh hoạt và chất thải công nghiệp\".",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "paragraph_id": 392,
+      "text": " Hệ thống quản lý Môi trường – ISO 14001:2015 cho phạm vi \"Sản xuất và kinh doanh phân bón hữu cơ, gạch xây, gạch lát và bê tông. Thu gom, vận chuyển và xử lý chất thải sinh hoạt, chất thải công nghiệp, chất thải nguy hại, chất thải y tế. Tái chế chất thải sinh hoạt và chất thải công nghiệp\".",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 8
+      }
+    },
+    {
+      "paragraph_id": 436,
+      "text": "Nguôn nhân lực là một trong những yếu tố quan trọng quyết định sự thành công và phát triển bền vững của Công ty. Chính vì thế, hàng năm, Công ty luôn tích cực chăm lo đời s ống cán bộ, công nhân viên. Công ty luôn tạo điều kiện để cán bộ, công nhân viên được làm việc trong môi trường an toàn, lành mạnh, được tham gia các khóa đào tạo, huấn luyện nâng cao kỹ năng chuyên môn, kỹ năng quản lý, tham gia các chuyên đề nghiên cứu khoa học, phát triển năng lực bản thân. Ngoài ra, cán bộ, công nhân viên còn tổ chức các hoạt động văn nghệ thể thao để tăng cường giao lưu giữa các phòng ban, nâng cao tinh thần đoàn kết và phối hợp giữa các bộ phận trong thực hiện công tác chung.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 557,
+      "text": " Tháng 12/2021: BIWASE đón nhận Giải Vàng- thể loại \" Chất lượng môi trường đô thị\" –h –hạng mục: công trình xử lý nước thải và Giải Bạc-hạng mục: công trình xử lý chất thải -Giải thưởng Quy hoạch Đô thị Quốc gia lần thứ II (VUPA 2020) do Hội Quy hoạch Phát triển Đô thị Việt Nam (VUPDA) tổ chức 2 năm 1 lần, với sự bảo trợ của Bộ Xây Dựng, Bộ Tài Nguyên và Môi Trường, Phòng Thương mại và Công nghiệp Việt Nam.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 560,
+      "text": " BIWASE đã triển khai chương trình \"Điện mặt trời\" tại các chi nhánh nhằm tạo ra ngu ồn năng lượng tái tạo Xanh – Sạch – Thân thiện môi trường hiện tại đã lắp được 5MW. Dự kiến hệ thống điện mặt trời của Biwase sẽ lắp đủ 7MW vào đầu năm 2022.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 594,
+      "text": "Ban Tổng Giám đốc cũng hỗ trợ kịp thời cho cán bộ công nhân viên, quan tâm đến đời sống vật chất và tinh thần của người lao động, duy trì môi trường làm việc ổn định, lành mạnh, thân thiện.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 732,
+      "text": "[TABLE] [CONTEXT] section: * Thu gom, vận chuyển và xử lý rác: ; column_headers: STT | Thành phần | Khối lượng (tấn) | Chiếm tỷ lệ (%) [ROWS] STT | Thành phần | Khối lượng (tấn) | Chiếm tỷ lệ (%) [ROW] 1 | Rác thải sinh hoạt | 776.158,5 | 87,68 [ROW] 2 | Chất thải công nghiệp không nguy hại | 65.755,7 | 7,43 [ROW] 3 | Bùn thải nguy hại | 16.031,3 | 1,81 [ROW] 4 | Chất thải lỏng nguy hại | 5.044,2 | 0,57 [ROW] 5 | Chất thải rắn nguy hại | 10.556,7 | 1,19 [ROW] 6 | Chất thải y tế nguy hại | 11.703,4 | 1,32 [ROW] Tổng cộng | 885.249,7 | 100",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 733,
+      "text": "[TABLE] [CONTEXT] section: * Bảng tổng hợp tình hình hoạt động của các Chi nhánh xử lý nước thải trong kỳ ; column_headers: S T T | Chi nhánh x ử lý nước thải | Công su ất thiết kế (m 3 /ng đêm) | Lượng nước xử lý năm 2021 (m 3 ) | Lượng xử lý Bình quân (m 3 /ngày đêm) | Lượng theo kế hoạch 2021 (m 3 /ngày đêm) | So với Kế hoạch 2021 (%) | Số lượng đấu n ối (khách hàng) | Ghi chú Ngày bắt đầu vận hành | Tăng trong kỳ | Lũy kế [ROWS] S T T | Chi nhánh x ử lý nước thải | Công su ất thiết kế (m 3 /ng đêm) | Lượng nước xử lý năm 2021 (m 3 ) | Lượng xử lý Bình quân (m 3 /ngày đêm) | Lượng theo kế hoạch 2021 (m 3 /ngày đêm) | So với Kế hoạch 2021 (%) | Số lượng đấu n ối (khách hàng) | Ghi chú Ngày bắt đầu vận hành [ROW] Tăng trong kỳ | Lũy kế [ROW] 1 | Thủ Dầ u Một | 17.650 | 5.504.763 | 15.082 | 16.100 | 94 | 513 | 8.212 | 31/05/2013 [ROW] 2 | Thuận An | 17.000 | 4.490.824 | 12.304 | 15.000 | 82 | 594 | 6.294 | 21/04/2017 [ROW] 3 | Dĩ An | 20.000 | 4.070.733 | 11.153 | 12.000 | 93 | 1.115 | 4.462 | 30/11/2018 [ROW] 4 | Tân Uyên | 15.000 | 2.161.211 | 5.921 | 5.500 | 108 | 605 | 1.798 | 01/04/2019 [ROW] Tổng cộng | 69.650 | 16.227.531 | 44.459 | 48.600 | 91 | 2.867 | 20.766",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 743,
+      "text": "[TABLE] [CONTEXT] section: 2.8.1 Một số sáng kiến được công nhận liên quan đến công nghệ áp dụng tại BIWASE ; column_headers: STT T | Tên sáng kiến Năm được trao giải | Hiệu quả áp dụng | Đơn vị thực hiện [ROWS] STT T | Tên sáng kiến Năm được trao giải | Hiệu quả áp dụng | Đơn vị thực hiện [ROW] 1 | Thiết kế và chế tạo hệ thống máy nghiền phân Compost | Đạt giải Nhất hội thi sáng tạo kỹ thuật toàn quốc lần VII năm 2017 Quyết định 120/QĐ \u0002 BTCHT ngày 25/8/2017 | Giúp năng cao năng suất lao động và hiệu quả công việc | Giám đốc Xí nghiệp xử lý chất thải, Công ty Cổ phần Nước – – Môi trường Bình Dương Xí nghiệp xử lý chất thải, Công ty Cổ phần Nước – – Môi trường Bình Dương [ROW] 2 | Thiết kế và chế tạo máy băm chất thải r ắn công nghiệp công su ất 10 t ấn/giờ | Đạt giải Nhất hội thi sáng tạo kỹ thuật toàn quốc lần VII năm 2017 Quyết định 120/QĐ \u0002 BTCHT ngày 25/8/2017 | Giúp năng cao năng suất lao động và hiệu quả công việc | Giám đốc Xí nghiệp xử lý chất thải, Công ty Cổ phần Nước – – Môi trường Bình Dương Xí nghiệp Xử lý chất thải rắn Nam Bình Dương, Công ty Cổ phần Nước - Môi trường Bình Dương [ROW] 3 | Nghiên cứu chế tạo hệ thống tự động hút xả bùn trong bể lắng nước ứng dụng trong nghành cấp thoát nước | Không làm gián đoạn sản xuất phải ngưng để hốt bùn bằng thủ công (định kỳ 1 quý phải ngưng bể 1 lần) Thời gian nhập máy với tính tương tự mất từ 6 - 8 tháng. (Từ khi đàm phán đến ký kết hợp đồng mất í t nhất sáu tháng chưa kể thời gian giao hàng) Chi phí chế tạo thấp hơn khoảng 65% so với máy nhập từ nước ngoài cùng tính năng, góp phần giảm chi chi phí sản xu ất đáng kể . Vật tư, vật liệu, thiết bị điện có s ẵn thị trường trong nước. Tất cả đều chủ động trong quá trình sửa chữ, bảo trì. Tự sửa chửa khắc phục nên khả năng bảo hành vĩnh viễn so với hàng nhập ngoại chỉ có 24 tháng | Kỹ sư điện Công ty Cổ phần Nước – – Môi trường Bình Dương Kỹ sư điện Công ty Cổ phần Nước – – Môi trường Bình Dươg",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    }
+  ]
+}

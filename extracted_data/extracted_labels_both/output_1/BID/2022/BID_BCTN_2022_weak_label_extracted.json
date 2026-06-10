@@ -1,0 +1,392 @@
+{
+  "extracted_count": 20,
+  "extracted": [
+    {
+      "text": "Triển khai các gói \"tín dụng xanh\", dành tỷ trọng nhất định để tài trợ cho các khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, các ngành sản xuất và tiêu dùng phát thải carbon thấp, thích ứng với biến đổi khí hậu, qua đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường, ngăn chặn biến đổi khí hậu, nâng cao hiệu quả sử dụng tài nguyên, năng lượng, thể hiện trách nhiệm với cộng đồng và môi trường. Ngoài ra, bố trí nguồn vốn cần thiết để phát triển các sản phẩm cho vay phục vụ đời sống tạo điều kiện thuận lợi đáp ứng nhu cầu chính đáng của người dân, góp phần hạn chế tín dụng đen.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Kiểm soát rủi ro tín dụng đối với các lĩnh vực tiềm ẩn rủi ro cao; Kiểm soát mức độ tập trung tín dụng vào một số khách hàng/nhóm khách hàng lớn, các dự án có quy mô lớn. BIDV định hướng thúc đẩy tín dụng xanh, ngân hàng xanh, đầu tư vào các ngành sản xuất và tiêu dùng phát thải các-bon thấp: Triển khai các gói \"Tín dụng xanh\", dành tỷ trọng nhất định để tài trợ cho các khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, các ngành sản xuất và tiêu dùng phát thải các-bon thấp, thích ứng với biến đổi khí hậu, qua đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường, ngăn chặn biến đổi khí hậu, nâng cao hiệu quả sử dụng tài nguyên, năng lượng, thể hiện trách nhiệm với cộng đồng và môi trường.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Năm 2022, BIDV tiếp tục dành nguồn lực tài chính để hạ lãi suất cho vay hỗ trợ các khách hàng bị ảnh hưởng bởi dịch Covid-19 với 16 gói tín dụng hỗ trợ khách hàng, với tổng quy mô 690.000 tỷ đồng, mức hạ lãi suất từ 0,5 -2,5%, tương ứng với thu nhập của BIDV giảm trên 5.500 tỷ đồng; Triển khai chương trình hỗ trợ lãi suất từ NSNN đối với các khách hàng bị ảnh hưởng bởi dịch Covid-19 theo Nghị định số 31/2022/NĐ-CP của Chính Phủ và Thông tư số 03/2021/TT-NHNN của NHNN với doanh số cho vay hỗ trợ lãi suất lũy kế là 7.730 tỷ đồng, dư nợ gần 4.600 tỷ đồng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "Trên cơ sở định hướng nêu trên, BIDV luôn ưu tiên cung cấp các sản phẩm \"Tài chính Xanh\", cung cấp vốn tín dụng để tài trợ các dự án xanh, tín dụng xanh, tăng cường hợp tác với các tổ chức quốc tế trong lĩnh vực phát triển bền vững để hỗ trợ triển khai nguồn vốn xanh và bền vững về Việt Nam. Đến nay, BIDV dẫn đầu thị trường về tài trợ các dự án xanh với hơn 1.710 khách hàng và dự án, tổng số tiền dư nợ cấp tín dụng hơn 63.770 tỷ đồng. Dư nợ tín dụng xanh tập trung chủ yếu vào lĩnh vực năng lượng tái tạo, năng lượng sạch. BIDV là định chế tài chính trong nước đầu tiên hợp tác với Bộ Tài nguyên và Môi trường để xây dựng các giải pháp và hành động hướng đến thực hiện các mục tiêu chiến lược về bảo vệ môi trường, ứng phó với biến đổi khí hậu.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "HĐQT ghi nhận và đánh giá cao nỗ lực của BĐH trong việc thực hiện nhiệm vụ và hoàn thành xuất sắc các chỉ tiêu kế hoạch kinh doanh được ĐHĐCĐ thường niên 2022 giao. Đồng chí Tổng Giám đốc và các thành viên BĐH đã phát huy tinh thần gương mẫu, trách nhiệm, đi đầu và tạo ra sự đột phá mạnh mẽ trong việc xây dựng môi trường làm việc chuyên nghiệp, thân thiện, lan toả văn hoá doanh nghiệp và gắn kết người lao động trong các hoạt động của Ngân hàng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Nghiên cứu báo cáo tài chính do kiểm toán viên độc lập chuẩn bị, có ý kiến hoặc yêu cầu người quản trị, điều hành BIDV, kiểm toán viên độc lập và kiểm toán nội bộ giải trình các vấn đề có liên quan đến báo cáo.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "text": "Tại Nghị quyết Hội đồng Quản trị về chiến lược phát triển kinh doanh của BIDV đến năm 2025, tầm nhìn đến năm 2030 nêu rõ, BIDV sẽ nghiên cứu mô hình Chi nhánh/Phòng giao dịch \"Ngân hàng xanh\" gắn với yêu cầu thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường và xã hội trong hoạt động cấp tín dụng. Đồng thời, BIDV cam kết triển khai các gói \"Tín dụng xanh\", dành tỷ trọng tương xứng để tài trợ cho các khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, các ngành sản xuất và tiêu dùng phát thải các-bon thấp, thích ứng với biến đổi khí hậu, qua đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường, ngăn chặn biến đổi khí hậu, nâng cao hiệu quả sử dụng tài nguyên, năng lượng, thể hiện trách nhiệm với cộng đồng và môi trường. Kết quả bảo vệ môi trường của Chuỗi dự án tài chính nông thôn do Ngân hàng Thế giới (WB) tài trợ và BIDV với vai trò ngân hàng đầu mối - là một trong những điển hình xuất sắc được cộng đồng quốc tế đánh giá cao. Trong hoạt động của mình, BIDV cũng đẩy mạnh tuyên truyền nâng cao nhận thức của người lao động thực hiện tiết kiệm và bảo vệ môi trường, đồng thời hỗ trợ cho các chương trình vì môi trường.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0,
+        "G9": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3",
+        "G9"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2,
+        "G9": 1
+      }
+    },
+    {
+      "text": "Hoạt động tín dụng: Triển khai các gói \"Tín dụng xanh\", dành tỷ trọng nhất định để tài trợ cho các khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, các ngành sản xuất và tiêu đúng phát thải carbon thấp, thích ứng với biến đổi khí hậu. Qua đó, góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường, ngăn chặn biến đổi khí hậu, nâng cao hiệu quả sử dụng tài nguyên, năng lượng, thể hiện trách nhiệm với cộng đồng và môi trường.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Dư nợ tín dụng xanh tập trung chủ yếu vào lĩnh vực năng lượng tái tạo, trong đó có hơn 800 dự án năng lượng tái tạo, năng lượng sạch với tổng số tiền cấp tín dụng chiếm khoảng 97% dư nợ tín dụng xanh. Tính riêng các dự án điện gió, điện mặt trời có quy mô vay vốn trên 500 tỷ đồng, trong giai đoạn 20202021, BIDV đã tài trợ 25 dự án với tổng số tiền cho vay ~23.400 tỷ đồng (tương đương 1 tỷ USD).",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, chống biến đổi khí hậu.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "Năm 2021, BIDV đã huy động và triển khai thành công Hạn mức tín dụng xanh SUNREF nguồn vốn AFD, chỉ trong 06 tháng đã giải ngân 100% hạn mức nguồn vốn để tài trợ cho doanh nghiệp đầu tư vào lĩnh vực năng lượng tái tạo. Đây là khoản vay ưu đãi trực tiếp đầu tiên AFD cấp cho một ngân hàng thương mại tại Việt Nam và được AFD đánh giá là một trong những dự án triển khai nhanh nhất trong các dự án AFD đã thực hiện. Để đáp ứng các quy định và tiêu chuẩn quản lý rủi ro nghiêm ngặt của nguồn vốn, cùng với sự hỗ trợ của AFD, trong năm 2022, BIDV đã ban hành văn bản hướng dẫn quản lý rủi ro môi trường xã hội cho các dự án năng lượng tái tạo tham gia sử dụng nguồn vốn SUNREF và tổ chức các khóa đào tạo kiến thức chuyên sâu về phân tích tài chính, quản lý rủi ro môi trường xã hội đối với các dự án đầu tư lĩnh vực năng lượng tái tạo, hiệu quả năng lượng cho các cán bộ ngân hàng. Các dự án tham gia sử dụng nguồn vốn SUNREF hoạt động hiệu quả, cung cấp nguồn năng lượng sạch, góp phần bảo đảm an ninh năng lượng quốc gia, tạo công ăn việc làm, tăng thu nhập lao động tại địa phương. Việc hướng dòng vốn tín dụng vào việc tài trợ các dự án thân thiện với môi trường, thúc đẩy năng lượng sạch và năng lượng tái tạo thể hiện nhận thức, trách nhiệm, vai trò của BIDV trong việc bảo vệ môi trường, ứng phó với biến đổi khí hậu. BIDV đang tích cực thực hiện lộ trình xây dựng hệ thống quản lý rủi ro môi trường xã hội theo tiêu chuẩn quốc tế áp dụng cho tất cả các dự án tại BIDV trên cơ sở hướng dẫn của Ngân hàng nhà nước về thực hiện quản lý rủi ro môi trường trong hoạt động cấp tín dụng tại Thông tư số 17/2022/TT-NHNN ngày 23/12/2022.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E3": 8
+      }
+    },
+    {
+      "text": "Từ những chương trình trên, BIDV đã góp phần tạo ra những phong trào ủng hộ ASXH trong xã hội, lan tỏa tinh thần tương thân, tương ái, chia sẻ với người nghèo, cùng cộng đồng xây dựng nên những giá trị tốt đẹp, giàu tính nhân văn. Những hoạt động tích cực trên của BIDV đã góp phần vào thành quả chung của cả nước về giảm nghèo.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "BIDV luôn tuân thủ các văn bản pháp luật hiện hành về bảo vệ môi trường như Luật Bảo vệ môi trường năm 2014, các Nghị định và Thông tư hướng dẫn báo cáo hiện trạng và quản lý số liệu quan trắc môi trường. Định kỳ hàng năm, BIDV ký kết các hợp đồng dịch vụ với các đơn vị chuyên môn để thực hiện quan trắc nước thải và quan trắc môi trường lao động định kỳ (về chất lượng không khí, tiếng ồn,...), ký hợp đồng thu gom, vận chuyển và xử lý rác thải tại các trụ sở làm việc theo quy định của pháp luật.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.75,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E_COMMON": 3
+      }
+    },
+    {
+      "text": "Tại nghị quyết Hội đồng quản trị về chiến lược phát triển kinh doanh của BIDV đến năm 2025, tầm nhìn đến năm 2030 nêu rõ: BIDV sẽ nghiên cứu mô hình Chi nhánh, Phòng giao dịch \"Ngân hàng xanh\" gắn với yêu cầu thúc đẩy tăng trưởng tín dụng xanh và quản lý rủi ro môi trường - xã hội trong hoạt động cấp tín dụng. Đồng thời, BIDV cam kết triển khai các gói \"Tín dụng xanh\", dành tỷ trọng tương xứng để tài trợ cho các khách hàng trong lĩnh vực năng lượng tái tạo, năng lượng sạch, các ngành sản xuất và tiêu dùng phát thải carbon thấp, thích ứng với biến đổi khí hậu, qua đó góp phần chuyển đổi nền kinh tế theo hướng tăng trưởng xanh, bảo vệ môi trường, ngăn chặn biến đổi khí hậu, nâng cao hiệu quả sử dụng tài nguyên, năng lượng, thể hiện trách nhiệm với cộng đồng và môi trường.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 2
+      }
+    },
+    {
+      "text": "BIDV luôn ưu tiên tập trung vốn tín dụng tài trợ các dự án tín dụng xanh và đã đạt được những kết quả rất tích cực. BIDV hiện đang nằm trong 5 ngân hàng có dư nợ tín dụng xanh lớn nhất toàn hệ thống. Đến 31/12/2022, dư nợ tín dụng lĩnh vực xanh tại BIDV đạt 63.773 tỷ đồng (chiếm tỷ trọng 4,25% tổng dư nợ), trong đó, chủ yếu tập trung vào lĩnh vực Năng lượng tái tạo, năng lượng sạch với dư nợ 54.382 tỷ đồng (chiếm 85% tổng dư nợ tín dụng xanh). 01",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 2
+      }
+    },
+    {
+      "text": "BIDV tăng cường hợp tác với các tổ chức quốc tế trong lĩnh vực phát triển bền vững, để hỗ trợ triển khai nguồn vốn về Việt Nam, qua đó góp phần thúc đẩy tài chính bền vững, tiết kiệm năng lượng và thúc đẩy chuyển đổi năng lượng sạch. Năm 2021, BIDV và AFD đã ký kết Thỏa ước tín dụng xanh SUNREF 100 triệu USD để tài trợ cho doanh nghiệp đầu tư vào lĩnh vực năng lượng tái tạo. Đây là khoản vay ưu đãi trực tiếp đầu tiên AFD cấp cho một ngân hàng thương mại tại Việt Nam và được AFD đánh giá là một trong những dự án triển khai nhanh nhất trong các dự án AFD đã thực hiện. Chỉ trong 06 tháng triển khai, 100% hạn mức đã được BIDV giải ngân hỗ trợ cho các doanh nghiệp đầu tư sản xuất năng lượng tái tạo.",
+      "hard_labels": [
+        "E1",
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 3
+      }
+    },
+    {
+      "text": "Xác định vai trò của tăng trưởng xanh trong tiến trình chuyển dịch năng lượng hướng tới mục tiêu phát triển bền vững, kể từ 2018 BIDV đã quyết định dừng xem xét tài trợ cho các dự án nhiệt điện than; các dự án có tác động, ảnh hưởng xấu đến môi trường. Tính đến 31/12/2021, dư nợ dự án nhiệt điện than giảm xuống khoảng 110 triệu USD và chỉ còn thu nợ cho đến khi hết thời hạn cho vay của các dự án.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: HOẠT ĐỘNG QUẢN TRỊ CÔNG TY ; column_headers: STT | Tiêu chí | Kết quả đánh giá | Cơ sở/Lý do đánh giá [ROWS] STT | Tiêu chí | Kết quả đánh giá | Cơ sở/Lý do đánh giá [ROW] B.2.5 | Giấy ủy quyền tham dự ĐHĐCĐ được cung cấp dễ dàng? | Thể hiện tại tài liệu họp Đại hội đồng Cổ đông thường niên 2023 được công bố trên Website Ngân hàng [ROW] B.3 | Phải ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] B.3.1 | Công ty có chính sách và/hoặc quy định cấm thành viên HĐQT và nhân viên không được kiếm lợi từ những kiến thức không được công bố ra bên ngoài? | Quy định tại Điều lệ [ROW] B.3.2 | Thành viên HĐQT có được yêu cầu phải báo cáo giao dịch cổ phiếu công ty trong vòng 3 ngày làm việc? | Quy định tại Quy chế công bố thông tin trên thị trường chứng khoán của Ngân hàng [ROW] B.4 | Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao. [ROW] B.4.1 | Công ty có chính sách yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty không? | Quy định tại Điều lệ [ROW] B.4.2 | Công ty có chính sách yêu cầu một tiểu ban bao gồm thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/ quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông không? | Việc thông qua các GD với bên liên quan được BIDV thực hiện theo quy định pháp luật hiện hành và Điều lệ BIDV [ROW] B.4.3 | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích? | Quy định tại Điều lệ [ROW] B.4.4 | Công ty có chính sách về khoản vay cho thành viên HĐQT, trong đó qui định cấm hoạt động này hoặc đảm bảo rằng các khoản vay được thực hiện trên cơ sở giao dịch hợp lý theo lãi suất thị trường? | Quy định tại Điều lệ [ROW] B.5 | Bảo vệ cổ đông thiểu số trước các hành vi lạm dụng [ROW] B.5.1 | Công ty có công bố về việc GDBLQ được thực hiện theo cách đảm bảo rằng những giao dịch đó là hợp lý và theo cơ chế thị trường? | Công bố tại Báo cáo thường niên [ROW] B.5.2 | Trong trường hợp cần có phê duyệt của cổ đông thông qua các giao dịch các bên liên quan, việc biểu quyết phê duyệt phải được biểu quyết bởi các cổ đông không liên quan lợi ích. | BIDV đang nghiên cứu thực hiện",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: THẺ ĐIỂM PHẠT (tiếp theo) ; column_headers: STT | Tiêu chí | Kết quả đánh giá | Cơ sở/Lý do đánh giá [ROWS] STT | Tiêu chí | Kết quả đánh giá | Cơ sở/Lý do đánh giá [ROW] (P)B. | Đối xử công bằng với cổ đông [ROW] (P)B.1 | Cần ngăn cấm giao dịch nội gián và lạm dụng mua bán tư lợi cá nhân. [ROW] (P)B.1.1 | Công ty có bị kết luận vi phạm nào về giao dịch nội gián liên quan đến thành viên HĐQT, ban điều hành và nhân viên công ty trong ba năm qua? | Không phát sinh tại BIDV [ROW] (P)B.2 | Bảo vệ cổ đông thiểu số trước hành vi lạm dụng [ROW] (P)B.2.1 | Có trường hợp nào không tuân thủ luật pháp, quy tắc và quy định liên quan đến giao dịch bên liên quan đáng kể hoặc trọng yếu trong ba năm trước không? | Không phát sinh tại BIDV [ROW] (P)B.2.2 | Có bất kỳ giao dịch bên liên quan nào có thể được phân loại là hỗ trợ tài chính (nghĩa là không được thực hiện hợp lý trên cơ sở thị trường) cho các đơn vị không phải là công ty con? | Không phát sinh tại BIDV [ROW] (P)C. | Vai trò của Các bên có quyền lợi liên quan [ROW] (P)C.1.1 | Có vi phạm luật pháp nào về các vấn đề lao động/ việc làm/người tiêu dùng/phá sản/thương mại/cạnh tranh hay môi trường? | Không phát sinh tại BIDV [ROW] (P)C.2 | D. Khi các bên có quyền lợi liên quan tham gia vào quá trình quản trị công ty, họ phải được tiếp cận với thông tin phù hợp, đầy đủ và đáng tin cậy một cách kịp thời và thường xuyên. [ROW] (P)C.2.1 | Công ty có phải chịu bất kỳ hình phạt nào của cơ quan quản lý vì đã không công bố thông tin trong khoảng thời gian được yêu cầu đối với các sự kiện trọng yếu? | Không phát sinh tại BIDV [ROW] (P)D. | Công bố thông tin và minh bạch [ROW] (P)D.1 | Hình phạt của cơ quan quản lý liên quan đến báo cáo tài chính [ROW] (P)D.1.1 | Công ty có nhận được \"ý kiến loại trừ\" trong báo cáo kiểm toán độc lập? | Ý kiến kiểm toán chấp nhận toàn phần",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E2"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

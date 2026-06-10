@@ -1,0 +1,149 @@
+{
+  "extracted_count": 8,
+  "extracted": [
+    {
+      "paragraph_id": 791,
+      "text": "HFCs electrici s HFCs hd",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 894,
+      "text": "HFCs purchased electricity, steam, NO HFCs PFCs SF6 O HFCs",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3
+      }
+    },
+    {
+      "paragraph_id": 895,
+      "text": "heating & cooling for own use N2O HFCs PFCs SF6 N2O HFCs purchased electricity, s",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 918,
+      "text": "y, steam or own HFCs S HFC ectricity",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 975,
+      "text": "P Scope 1 HFCs SF HFCs & cooling for",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1146,
+      "text": "HFCs PFC g & cooling for own use O HFCs PFCs SF6 O HFCs purchased electricity, steam,",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 3
+      }
+    },
+    {
+      "paragraph_id": 1147,
+      "text": "Scope 1 HFCs O HFCs heating & cooling for own use",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    },
+    {
+      "paragraph_id": 1318,
+      "text": "Tôi muốn chia sẻ một trường gẩn dây liên quan dến kết quả thẩu của Coteccons trong dự án nhà Lego; Coteccons thẩu được nhờ vào nhiêu tố, trong dó, có yếu tố quan trọng là tinh thẩn hành Shinryo là một nhà thẩu Iớn và Shinryo đã ngổi lại với Coteccons để tìm điểm mạnh của nhau nhằm lợi với tinh thẩn nhu thắng hợp thắng máy 'dổng yêu mong thắng vậy",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

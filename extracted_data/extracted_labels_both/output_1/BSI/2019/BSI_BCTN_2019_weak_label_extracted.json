@@ -1,0 +1,113 @@
+{
+  "extracted_count": 6,
+  "extracted": [
+    {
+      "paragraph_id": 606,
+      "text": "Trung thực là phẩm chất hàng đầu mà BSC cố gắng thực hiện mỗi ngày để xây dựng lòng tin và sự tín nhiệm lâu dài với khách hàng. Điều này thể hiện ở bộ quy tắc ứng xử của BSC bao gồm chỉ số đo lường để ngăn chặn tham nhũng cũng như các giao dịch nội gián, đồng thời đảm bảo việc tuân thủ tất cả các luật và quy định hiện hành. Ngoài ra, báo cáo lỗi tác nghiệp được BSC thực hiện hàng quý, bất cứ cá nhân nào bị nghi ngờ hoặc có hành vi gian lận hoặc nhận hối lộ, BSC quyết không che dấu, và sẽ bị điều tra trực tiếp bởi ban Thanh tra Nhân dân và đội ngũ quản trị cấp cao.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 612,
+      "text": "Tại BSC, Chúng tôi cam kết nói không với rửa tiền. Ngay trong chính sách quản trị, BSC luôn thống nhất và đề cao chính sách phòng chống rửa tiền. BSC đã xây dựng và ứng dụng văn bản hướng dẫn về đánh giá khách hàng, chia sẻ thông tin và các nỗ lực trong việc phòng chống rửa tiền và tài trợ khủng bố, rủi ro tuân thủ và chức năng kiểm soát tuân thủ, các nguyên tắc quản lý rủi ro trong hoạt động ngân hàng điện tử,...",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 740,
+      "text": "Tiếp nối những giá trị nhân văn sâu sắc đó, năm 2019, BSC cùng kết hợp với Ủy ban Chứng khoán Nhà nước thực hiện chương trình thiện nguyện \"Mái trường cho em 2019\" với tinh thần tự nguyện của toàn bộ cán bộ công nhân viên công ty, quyết chung tay vì một tương lai cho các em nhỏ. Qua khảo sát thực tế của BSC, thôn Ma Xí, xã Ma Lé, huyện Đồng Văn, tỉnh Hà Giang là một trong những huyện thuộc vùng núi cao, hoạt động kinh tế đều dựa vào nông nghiệp du canh, du cư. Đây là điểm trường ở vùng sâu xa, còn nhiều khó khăn, thiếu thốn về cơ sở vật chất, khó khăn trong việc đi lại khi các em nhỏ đến trường vào mùa mưa. Hiện tại các cơ sở vật chất của trường học đều thiếu lớp học. Các điểm trường đa phần được xây dựng bằng việc đắp đất, bên trên là bệ mái proximang được giữ bằng các thanh gỗ do dân làng góp lại mà thành, đất nền ẩm thấp. Điều kiện cơ sở vật chất thiếu thốn là thế, ấy vậy mà không ngăn được tinh thần hiếu học của các em nhỏ, sự chịu thương chịu khó của những thầy cô giáo vẫn ấp ủ trong mình nghiệp trồng người ở những điểm trường xa xôi. Nhìn thấy những hành ảnh đó, chúng tôi tự nhủ với lòng mình, đã đến lúc hành động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 758,
+      "text": "Một trong những yếu tố quan trọng nhất của mỗi một công ty đó là văn hóa doanh nghiệp. Sự phát triển dài hạn, bền vững của công ty phụ thuộc rất lớn vào điều này. Chúng tôi luôn cố gắng tạo ra môi trường thân thiện, văn hóa doanh nghiệp tốt đẹp nhất trong mắt những khách hàng, nhân viên của mình và cả xã hội. Bên cạnh những chính sách lương thưởng hợp lý cho người lao động, đời sống tinh thần của các cán bộ trong công ty luôn được quan tâm, đặc biệt là môi trường làm việc chuyên nghiệp luôn được chúng tôi chú trọng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 767,
+      "text": "Sự trung thực và thẳng thắn, sẵn sàng nói thẳng, nói thật để công việc được tốt hơn, trên cơ sở tôn trọng bản thân và tôn trọng đồng nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1230,
+      "text": "[TABLE] [CONTEXT] section: I. CÁC YẾU TỐ TÁC ĐỘNG THỊ TRƯỜNG CHỨNG KHOÁN ; column_headers: Xây dựng các sản phẩm mới, hoàn thiện thị trường Phái sinh ; row_headers: 3. Các dòng vốn | 4. Các vấn đề khác | Lãi suất và tỷ giá USD/VND ổn định | Dòng tiền đầu tư nước ngoài | Các hiệp định thương mại (hiệp định EVFTA) | Cuộc chiến thương mại Hoa Kỳ - Trung | Giải ngân chậm 2019 bổ sung nguồn cho 2020 | Bầu cử và luận tội Tổng Thống Mỹ, | Tăng vốn ngân hàng theo chuẩn Basel II | Các vấn đề địa chính trị | FED và các quốc gia chủ chốt đang theo trước khi tiếp tục điều chỉnh lãi suất | Các nền KT lớn tăng trưởng chậm lại | OPEC cắt giảm sản lượng dầu | Brexit | Chính sách tiền tệ thận trọng theo hướng giảm lãi suất. Tăng cường kỷ luật, quản lý chặt chẽ đầu tư chứng khoán, BĐS [ROWS] Xây dựng các sản phẩm mới, hoàn thiện thị trường Phái sinh [ROW] 3. Các dòng vốn | Lãi suất và tỷ giá USD/VND ổn định | ••••• | Định giá thị trường và dòng tiền [ROW] Dòng tiền đầu tư nước ngoài | •••• | Dòng tiền đầu tư mới nhờ triển vọng nâng hạng [ROW] Chính sách tiền tệ thận trọng theo hướng giảm lãi suất. Tăng cường kỷ luật, quản lý chặt chẽ đầu tư chứng khoán, BĐS | ••• | Hạn chế rủi ro thị trường [ROW] 4. Các vấn đề khác | Các hiệp định thương mại (hiệp định EVFTA) | •••• [ROW] Giải ngân chậm 2019 bổ sung nguồn cho 2020 | •••• | Đầu tư công 2010 có dư địa tăng trưởng [ROW] Tăng vốn ngân hàng theo chuẩn Basel II | •••• | An toàn hệ thống, tín dụng bền vững [ROW] Các vấn đề địa chính trị | ••• [ROW] Cuộc chiến thương mại Hoa Kỳ - Trung | ••••• | Ảnh hưởng triển vọng kinh tế và thương mại thế giới [ROW] Bầu cử và luận tội Tổng Thống Mỹ, | ••••• | Tiềm ẩn bất ổn định [ROW] FED và các quốc gia chủ chốt đang theo trước khi tiếp tục điều chỉnh lãi suất | •••• | Ảnh hưởng dòng vốn ngoại [ROW] Các nền KT lớn tăng trưởng chậm lại | •••• | Ảnh hưởng Triển vọng tăng trưởng và XNK [ROW] OPEC cắt giảm sản lượng dầu | ••• | Tác động giá dầu, lạm phát [ROW] Brexit | •• | Tiềm ẩn bất ổn định [ROW] Các vấn đề địa chính trị | •• | Tiềm ẩn bất ổn định",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

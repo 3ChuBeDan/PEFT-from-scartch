@@ -1,0 +1,45 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "Tất cả các nhà máy đều đang thực hiện tốt việc quản lý chất thải nguy hại bằng việc trang bị kho chứa chất thải nguy hại, bảng nhận dạng và phân loại từng chất thải, sổ đăng ký chủ nguồn chất thải nguy hại, ký kết hợp đồng với các đơn vị có chức năng vận chuyển và xử lý chất thải nguy hại và thực hiện báo cáo đầy đủ công tác quản lý chất thải nguy hại định kỳ 6 tháng/lần.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 11
+      }
+    },
+    {
+      "text": "Công tác quan trắc môi trường nước thải định kỳ của các đơn vị đều tuân thủ đúng tần suất như trong báo cáo đánh giá tác động môi trường (ĐTM) được phê duyệt.",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.415339,
+        "E_COMMON": 1.0,
+        "S6": 0.412568
+      },
+      "themes": [
+        "E2",
+        "E_COMMON",
+        "S6"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 2,
+        "E_COMMON": 3,
+        "S6": 1
+      }
+    }
+  ]
+}

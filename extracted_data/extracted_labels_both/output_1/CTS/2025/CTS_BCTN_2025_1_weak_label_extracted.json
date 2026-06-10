@@ -1,0 +1,124 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "text": "The accompanying financial statements are not intended to present the financial position, the financial performance, the cash flows and the changes in equity in accordance with accounting principles generally accepted in jurisdictions other than Vietnam. The accounting principles and practices utilised in Vietnam may differ from those generally accepted in countries and jurisdictions other than Vietnam.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "A financial asset shall not be classified as held to maturity if the Company has, during the current financial year or during the two preceding financial years, sold or reclassified more than an insignificant amount of HTM financial assets before maturity (more than insignificant in relation to the total amount of HTM financial assets) other than sales or reclassifications that:",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "CAR is calculated and presented in the Company's capital adequacy ratio report. This report is prepared monthly in accordance with Circular 91/2020/TT-BTC issued by the Ministry of Finance on 13 November 2020 (\"Circular 91/2020/TTBTC\") effective from 1 January 2021 and Circular 102/2025/TT-BTC issued by the Ministry of Finance on 29 October 2025 (\"Circular 102/2025/TT-BTC\") effective from 15 December 2025. Circular 91/2020/TT-BTC and Circular 102/2025/TT-BTC stipulate requirements of capital adequacy ratio applicable to securities dealing institutions and sanctions imposed on non-compliance cases. According to Circular 91/2020/TT-BTC and Circular 102/2025/TT-BTC, the Company is required to maintain a prescribed minimum level of CAR of 180%.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: (b) Held-to-maturity financial assets (\"HTM\") ; column_headers: 31/12/2025 | 31/12/2024 | Amortised cost VND | Provision VND ; row_headers: Term deposits with original maturity from 3 months to 1 year (*) | Vietnam Prosperity Joint Stock Commercial Bank – Head Office | Electricity Finance Joint Stock Company | Vietcredit Finance Joint Stock Company | An Binh Commercial Bank – Hanoi Branch | Vietnam Investment and Development Bank – Thanh Xuan Branch | Fortune Vietnam Joint Stock Commercial Bank – Hanoi Branch | Agricultural and Rural Development Bank of Vietnam – So Giao Dich Branch | Term deposits with original maturity more than 1 year (*) [ROWS] 31/12/2025 | 31/12/2024 [ROW] Amortised cost VND | Provision VND | Amortised cost VND | Provision VND [ROW] Term deposits with original maturity from 3 months to 1 year (*) | 3,362,611,569,910 | - | 1,708,531,750,000 | - [ROW] Vietnam Prosperity Joint Stock Commercial Bank – Head Office | 1,244,506,662,376 | - | 1,304,700,000,000 | - [ROW] Electricity Finance Joint Stock Company | 600,000,000,000 | - | 300,000,000,000 | - [ROW] Vietcredit Finance Joint Stock Company | 500,000,000,000 | - | - | - [ROW] An Binh Commercial Bank – Hanoi Branch | 380,920,657,534 | - | 35,000,000,000 | - [ROW] Vietnam Investment and Development Bank – Thanh Xuan Branch | 237,184,250,000 | - | 68,831,750,000 | - [ROW] Fortune Vietnam Joint Stock Commercial Bank – Hanoi Branch | 200,000,000,000 | - | - | - [ROW] Agricultural and Rural Development Bank of Vietnam – So Giao Dich Branch | 200,000,000,000 | - | - | - [ROW] Term deposits with original maturity more than 1 year (*) | 200,000,000,000 | - | - | - [ROW] 200,000,000,000 | - | - | - [ROW] 3,562,611,569,910 | - | 1,708,531,750,000 | -",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: (b) Business segments ; column_headers: For the year ended 31 December 2025 | Brokerage and services VND | Proprietary trading VND | Underwriting VND | Consultancy VND | Total VND ; row_headers: Revenue and income (*) | Expenses | Direct cash expenses | Total amount of significant non-cash expenses, other than depreciation, amortisation and allocation of prepaid expenses | Total depreciation and amortisation of fixed assets | Allocation of long-term and short-term prepaid expenses | Segment result | Net financial expenses | Net other income | General and administration expenses | Total accounting profit before tax [ROWS] For the year ended 31 December 2025 [ROW] Brokerage and services VND | Proprietary trading VND | Underwriting VND | Consultancy VND | Total VND [ROW] Revenue and income (*) | 640,549,410,227 | 1,430,195,934,097 | 3,202,727,273 | 21,893,874,720 | 2,095,841,946,317 [ROW] Expenses | (160,214,019,099) | (674,970,642,026) | - | (14,093,152,792) | (849,277,813,917) [ROW] In which: [ROW] Direct cash expenses | (150,909,090,027) | (75,133,275,076) | - | (12,761,617,615) | (238,803,982,718) [ROW] Total amount of significant non-cash expenses, other than depreciation, amortisation and allocation of prepaid expenses | - | (597,941,994,454) | - | - | (597,941,994,454) [ROW] Total depreciation and amortisation of fixed assets | (2,469,503,145) | (558,174,957) | - | (365,193,452) | (3,392,871,554) [ROW] Allocation of long-term and short-term prepaid expenses | (6,835,425,927) | (1,337,197,539) | - | (966,341,725) | (9,138,965,191) [ROW] Segment result | 480,335,391,128 | 755,225,292,071 | 3,202,727,273 | 7,800,721,928 | 1,246,564,132,400 [ROW] Net financial expenses | (371,917,440,828) [ROW] Net other income | 474,073,828 [ROW] General and administration expenses | (160,467,913,465) [ROW] Total accounting profit before tax | 714,652,851,935",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: (b) Business segments ; column_headers: Brokerage and services VND | Proprietary Trading VND | Underwriting VND | Consultancy VND | Total VND ; row_headers: Revenue and income (*) | Expenses | Direct cash expenses | Total amount of significant non-cash expenses, other than depreciation, amortisation and allocation of prepaid expenses | Total depreciation and amortisation of fixed assets | Allocation of long-term and short-term prepaid expenses | Segment result | Net financial expenses | Net other income | General and administration expenses | Total accounting profit before tax [ROWS] Brokerage and services VND | Proprietary Trading VND | Underwriting VND | Consultancy VND | Total VND [ROW] Revenue and income (*) | 446,088,778,079 | 576,172,791,993 | 1,120,000,000 | 8,865,183,340 | 1,032,246,753,412 [ROW] Expenses | (96,061,945,541) | (247,111,341,561) | - | (12,802,328,051) | (355,975,615,153) [ROW] In which: [ROW] Direct cash expenses | (89,967,951,506) | (25,126,172,719) | - | (11,249,269,625) | (126,343,393,850) [ROW] Total amount of significant non-cash expenses, other than depreciation, amortisation and allocation of prepaid expenses | - | (220,987,596,628) | - | - | (220,987,596,628) [ROW] Total depreciation and amortisation of fixed assets | (1,212,409,280) | (243,740,146) | - | (348,085,197) | (1,804,234,623) [ROW] Allocation of long-term and short-term prepaid expenses | (4,881,584,755) | (753,832,068) | - | (1,204,973,229) | (6,840,390,052) [ROW] Segment result | 350,026,832,538 | 329,061,450,432 | 1,120,000,000 | (3,937,144,711) | 676,271,138,259 [ROW] Net financial expenses | (252,538,001,903) [ROW] Net other income | 2,277,383,781 [ROW] General and administration expenses | (138,618,995,359) [ROW] Total accounting profit before tax | 287,391,524,778",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: (v) Other receivables and assets ; column_headers: Past due and impaired VND | Past due but not impaired VND | Neither past due nor impaired VND | Total VND ; row_headers: Current | Overdue for more than 3 months | Provision made | Net balance [ROWS] Past due and impaired VND | Past due but not impaired VND | Neither past due nor impaired VND | Total VND [ROW] As at 31/12/2025 [ROW] Current | - | - | 161,135,072,055 | 161,135,072,055 [ROW] Overdue for more than 3 months | 1,025,809,834 | - | - | 1,025,809,834 [ROW] 1,025,809,834 | - | 161,135,072,055 | 162,160,881,889 [ROW] Provision made | (705,305,495) | - | - | (705,305,495) [ROW] Net balance | 320,504,339 | - | 161,135,072,055 | 161,455,576,394 [ROW] As at 31/12/2024 [ROW] Current | - | - | 89,300,614,479 | 89,300,614,479 [ROW] Overdue for more than 3 months | 947,377,218 | - | - | 947,377,218 [ROW] 947,377,218 | - | 89,300,614,479 | 90,247,991,697 [ROW] Provision made | (628,464,589) | - | - | (628,464,589) [ROW] Net balance | 318,912,629 | - | 89,300,614,479 | 89,619,527,108",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

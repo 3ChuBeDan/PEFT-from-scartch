@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 1728,
+      "text": "[TABLE] [CONTEXT] section: 13. Các Khoản Đầu Tư Tài Chính (tiếp theo)13.3 Đầu Tư Vào Các Công Ty Liên Kết [ROWS] Ngành nghề kinh doanh | Nhiệt điện | Thủy điện | Thủy điện Cung cấp nước | Bất động sản | Thủy điện | Khai thác than | Khai thác than | Cung cấp nước | Nhiệt điện | Bất động sản | Cung cấp nước | Cung cấp nước | Thủy điện | Cơ điện Cung cấp nước | Cơ điện | Cơ điện [ROW] Giá trị đầu tư | VNĐ | 1.268.341.447.108 | 400.489.996.401 | 368.000.000.000 | 342.511.604.982 | 211.640.550.248 | 173.808.962.643 | 94.493.223.883 | 67.154.434.165 | 60.556.547.693 | 73.776.315.114 | 65.531.933.111 | 23.093.725.398 | 60.571.743.037 | - | 24.949.744.974 | 22.623.120.000 | 3.021.424.762 | 2.163.300.482 | 3.262.728.074.001 [ROW] Tỷ lệ sở hữu | (%) | 22,35 | 39,02 | 25,00 | 42,10 | 46,37 | 34,30 | 23,81 | 24,01 | 43,11 | 29,44 | 28,87 | 32,00 | 40,00 | - | 35,00 | 29,00 | 35,62 | 35,00 [ROW] Giá trị đầu tư | VNĐ | 1.276.288.621.989 | 461.584.783.483 | 381.894.838.015 | 288.941.122.382 | 260.452.196.469 | 173.295.459.685 | 95.317.385.176 | 78.759.547.603 | 68.508.554.676 | 68.300.177.052 | 65.450.077.680 | 52.829.211.149 | 51.037.570.797 | 37.506.316.476 | 27.348.593.856 | 24.254.733.462 | - | - | 3.411.769.189.950 [ROW] Tỷ lệ sở hữu | (%) | 22,35 | 41,35 | 25,00 | 42,10 | 46,37 | 34,30 | 23,81 | 24,01 | 43,11 | 29,44 | 28,87 | 32,00 | 40,00 | 30,41 | 35,00 | 29,00 | - | - [ROW] phần Nhiệt Điện Phả Lại | phần Thủy điện Thác Mơ | phần Thủy điện Sông Ba Hạ | phần B.O.O Nước Thủ Đức | phần Hạ tầng và Bất động sản Việt Nam | phần Thủy điện Srok Phu Miêng | phần Than Núi Béo | phần Than Đèo Nai | phần Cấp nước Thủ Đức | phần Nhiệt điện Ninh Bình | phần Địa ốc Sài Gòn | phần Đầu tư Nước Tân Hiệp | phần Đầu tư và Kinh doanh Nước Sạch Sài Gòn | phần Thủy điện Sông Ông | phần Cơ điện Đoàn Nhất | phần Cấp nước Trung An | phần Cơ điện Chất Lượng | phần Cơ điện Hợp Phát [ROW] Tên công ty | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ [ROW] Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | Công ty Cổ | TỔNG CỘNG [ROW] Công ty Cổ",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1842,
+      "text": "[TABLE] [CONTEXT] section: 13.3 Investments in associates [ROWS] Business activities | Thermal power | Hydropower | Hydropower | Water supply | Real estate | Hydropower | Coal Minning Coal Minning | Water supply | Thermal power | Real estate | Water supply | Water supply | Hydropower | Mechanical and Engineering Water supply | Mechanical and Engineering | Mechanical and Engineering [ROW] Amount | VND | 1,268,341,447,108 | 400,489,996,401 | 368,000,000,000 | 342,511,604,982 | 211,640,550,248 | 173,808,962,643 | 94,493,223,883 | 67,154,434,165 | 60,556,547,693 | 73,776,315,114 | 65,531,933,111 | 23,093,725,398 | 60,571,743,037 | - 24,949,744,974 | 22,623,120,000 | 3,021,424,762 | 2,163,300,482 | 3,262,728,074,001 [ROW] Beginning balance % of interest | (%) | 22.35 | 39.02 | 25.00 | 42.10 | 46.37 | 34.30 | 23.81 | 24.01 | 43.11 | 29.44 | 28.87 | 32.00 | 40.00 | - | 35.00 29.00 | 35.62 | 35.00 [ROW] Amount | VND | 1,276,288,621,989 | 461,584,783,483 | 381,894,838,015 | 288,941,122,382 | 260,452,196,469 | 173,295,459,685 | 95,317,385,176 | 78,759,547,603 | 68,508,554,676 | 68,300,177,052 | 65,450,077,680 | 52,829,211,149 | 51,037,570,797 | 37,506,316,476 | 27,348,593,856 24,254,733,462 | - | - | 3,411,769,189,950 [ROW] Ending balance % of interest | (%) | 22.35 | 41.35 | 25.00 | 42.10 | 46.37 | 34.30 | 23.81 | 24.01 | 43.11 | 29.44 | 28.87 | 32.00 | 40.00 | 30.41 | 35.00 29.00 | - | - [ROW] Pha Lai Therma Power Joint Stock Company | Thac Mo Hydropower Joint-Stock Company | Song Ba Ha Hydropower Joint-Stock Company | Thu Duc Water B.O.O Corporation | Vietnam Infrastructure and Real Estate Joint Stock Company | Srok Phu Mieng Hydropower Joint-Stock Company | Nui Beo Coal Joint Stock Company | Deo Nai Coal Joint Stock Company | Thu Duc Water Supply Joint Stock Company | Ninh Binh Thermal Power Joint Stock Company | Saigon Real Estate Joint Stock Company | Tan Hiep Water Investment Joint Stock Company | Saigon Water Investment and Trading Joint Stock Company | Song Ong Hydropower Joint-Stock Company | Trung An Water Supply Joint Stock Company | Quality Mechanical Electrical Joint Stock Company | Hop Phat Mechanical Electrical Joint Stock Company [ROW] Name | Doan Nhat Mechanical Electrical Joint Stock Company | Total",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "paragraph_id": 1873,
+      "text": "[TABLE] [CONTEXT] section: 32.2 Operating lease commitments – where the Group is a lessor ; column_headers: VND Previous year | Current year ; row_headers: Less than 1 year | From 1-5 years | More than 5 years | Total [ROWS] Current year | VND Previous year [ROW] Less than 1 year | 359,083,339,329 | 265,034,579,803 [ROW] From 1-5 years | 191,024,745,705 | 198,349,283,003 [ROW] More than 5 years | 347,236,400 | - [ROW] Total | 550,455,321,434 | 463,383,862,806",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

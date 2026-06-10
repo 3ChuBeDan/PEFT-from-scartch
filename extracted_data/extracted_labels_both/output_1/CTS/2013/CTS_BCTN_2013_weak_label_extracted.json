@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 477,
+      "text": "[TABLE] [CONTEXT] section: Tổng quan ; column_headers: Dịch vụ cung cấp | Một số khách hàng lớn năm 2013 [ROWS] Dịch vụ cung cấp | Một số khách hàng lớn năm 2013 [ROW] Phát hành trái phiếu | Tập đoàn Công nghiệp Than khoáng sản Việt Nam, Tập đoàn Bitexco, Tập đoàn VinGroup < [ROW] Ký mới | Phát hành cổ phiếu | Ngân hàng TMCP Công Thương Việt Nam, Công ty Cổ phần Than Hà Lầm – Vinacomin , Công ty cổ phần Công nghiệp [ROW] 79 | Hapulico < [ROW] Hợp đồng | Cổ phần hóa | Tổng Công ty Chăn nuôi, Tổng Công ty Cơ điện nông nghiệp và thủy lợi< [ROW] Chuyển nhượng các khoản đầu tư tài chính | Tổng Công ty Đầu tư và kinh doanh vốn nhà nước (SCIC) , Nhà xuất bản Giáo dục Việt Nam <",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "paragraph_id": 176,
+      "text": "Cimg vai viec nang cao the dO lucmg thutmg, BLD CII ding luon chit trong chdm lo dCri song sire khoe va tinh thAn cua nhan vien. Ben canh viec dam bao thisc hien day du nhung quyen Icri lao dOng nhu the dO bao hiem xa hOi, bao hiem y te, to chirc kiem tra khan) sirc kb:Se dinh IcS/ cho toan lx) nhan vien tai cac benh vien c6 uy tin nhu BV Hoan my hay BV Hoa Hao, BLD CII luon cho dOng quan tam to chirc cac chuyen du lich thutrng nien cho CBCNV, nhung chuyen di tham quan ngan ngay vao the dip le\", nhAm giam ap lirc ding viec ding nhu tao car hOi de CBCNV gap got, giao km, nang cao tinh than doan ket... Vi do nhu de chao mimg ngay 8/3 vira qua, toan b0 nit nhan vien ctia cong ty dd dircic tai trcf tham gia tour hOi hoa ban\" 6 Dien Bien, mien nui phia Bac.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 735,
+      "text": "[TABLE] [CONTEXT] section: ❖ NOi dung vi ket qui Cu cfic cuQc h9p Hqi Hong Quin Try' (nien khoa 2012-2017) ; column_headers: TT | SO Nghi quyet/ Quyet dinh | Ni dung [ROWS] TT | SO Nghi quyet/ Quyet dinh | Ni dung [ROW] 01 | 108/NQ\u0002 HDQTngay 11/01/2016 | Chap than chi tra khoan tai TPCD cho cac nha dau tu do Goldman Sachs quan ly (GS) va Cong ty DAu tu tai chinh Nha nu& Tp.HCM (HFIC), theo do, GS cam ket chuyen d6i town be. 25 trieu USD tri gia trai phieu chuyen dOi (TPCD) va HFIC cam ket chuyen d6i town bO 44,424 tj, j, dOng tri gia TPCD vao ngay 26/01/2016, d6i lai, GS va HFIC ducrc huang lAi TPCD ten s6 tien g6c Trai phieu ke tir ngay 01/01/2016 den het ngay 26/01/2016. [ROW] 02 | 109/NQ\u0002 HDQTngay 11/01/2016 | 1. Chap than cho Cong ty CII thanh lap Cong ty TNHH Tnrang ThuAn Phat ty Trutmg ThuAn Phat). 2. ChAp than cho Cong ty CII chuyen nhuvng mOt tai san cua CII theo gia xac dinh trtroc cho Cong ty Twang ThuAn Phat. 3. ChAp than cho Cong ty CII chuyen nhuvng phAn von gop trong Cong ty Tnrirng ThuAn Phat cho mOt d6i tac (dOi tac nay lien doanh vcn nha dau tu ntrac ngoai). [ROW] 03 | 110/NQ\u0002 HDQTngay | 1. ChAp thuAn thong qua nOi dung Bao cao s6 01/BC-CII ngay 04/01/2016 ve tong ket host &Ong ram 2015 va ke",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    }
+  ]
+}

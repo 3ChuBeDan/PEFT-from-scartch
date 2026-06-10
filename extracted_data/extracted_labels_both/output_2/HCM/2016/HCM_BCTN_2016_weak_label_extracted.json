@@ -1,0 +1,135 @@
+{
+  "extracted_count": 7,
+  "extracted": [
+    {
+      "paragraph_id": 526,
+      "text": "Các hoạt động của HSC liên quan đến việc phát triển Bộ phận CNTT tập trung vào hướng chính: quản lý an ninh mạng và quản lý dịch vụ CNTT. Quản lý an ninh mạng là việc quản trị hệ thống CNTT và bảo vệ các thông tin và dữ liệu; trong khi đó, quản lý dịch vụ CNTT là việc phát triển hệ thống giao dịch lõi của HSC và đảm bảo hệ thống CNTT được duy trì để hỗ trợ các chức năng nghiệp vụ khác trong toàn công ty. Bộ phận CNTT cũng hỗ trợ thực hiện các kế hoạch dự phòng của HSC để toàn công ty có thể phối hợp chặt chẽ với Bộ phận Quản trị Rủi ro trong việc duy trì các hoạt động kinh doanh của công ty một cách liên tục.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 540,
+      "text": "Hiện nay, rủi ro an ninh mạng đang ở trong tình trạng đáng báo động. HSC đã thực hiện nhiều biện pháp nhằm ngăn chặn các cuộc tấn công mạng thông qua việc nâng cấp hệ thống theo tiêu chuẩn ISO 27001:2013. Hạ tầng an ninh mạng của HSC đã được củng cố bằng việc thực hiện các cuộc kiểm tra thử xâm nhập, thiết lập các tiêu chí đánh giá cho các báo cáo đánh giá lỗ hổng bảo mật hàng tháng và áp dụng các công cụ tăng cường an ninh mạng quan trọng. Công tác bảo vệ thông tin được thực hiện nghiêm túc trong tất cả các hoạt động của HSC nhằm duy trì tính toàn vẹn dữ liệu. Ngoài ra, sự phối hợp giữa Bộ phận CNTT và các bộ phận khác đã thúc đẩy việc xây dựng Ma trận Phân quyền để phân cấp thẩm quyền truy cập thông tin phù hợp theo từng phòng ban của HSC. Trong tương lai, an ninh mạng vẫn là một vấn đề ưu tiên hàng đầu của Bộ phận CNTT.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 4
+      }
+    },
+    {
+      "paragraph_id": 591,
+      "text": "Chính sách Phòng chống Rửa tiền của HSC tuân thủ nghiêm ngặt các hướng dẫn về phòng chống rửa tiền do Ngân hàng Nhà nước ban hành. Chính sách này quy định chi tiết các yêu cầu đối với quy trình nhận biết khách hàng (KYC - Know Your Customer), trong đó các khách hàng cá nhân và tổ chức của HSC phải trình bày các thông tin tài chính nhất định để phục vụ công tác nhận diện. Chúng tôi tuyệt đối tuân thủ theo chính sách Phòng chống Rửa tiền nhằm khẳng định rằng các khách hàng của chúng tôi chỉ tham gia vào các giao dịch kinh doanh hợp pháp. Chính sách Phòng chống Rửa tiền góp phần quan trọng trong quá trình xây dựng một mô hình quản trị rủi ro vững chắc và hiệu quả.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 4
+      }
+    },
+    {
+      "paragraph_id": 626,
+      "text": "Trong khuôn khổ Kế hoạch Kiểm toán Nội bộ năm 2017, Quản lý An ninh mạng và Phòng chống Rửa tiền là hai lĩnh vực trọng tâm của HĐQT và BĐH trong việc phòng chống tội phạm tài chính. Quy trình Phòng chống Rửa tiền được nhóm kiểm toán nội bộ rà soát hàng năm, trong đó Báo cáo Soát xét Quy trình Phòng chống Rửa tiền được lập theo Thông tư số 31/2014/TT-NHNN và Thông tư số 35/2013/TT-NHNN về việc hướng dẫn thực hiện các biện pháp phòng chống rửa tiền. Trong năm 2017, Kế hoạch Kiểm toán Quy trình Quản lý An ninh mạng sẽ được KPMG, đối tác đồng kiểm toán nội bộ của HSC, thực hiện. Đây là một phần trong kế hoạch có quy mô lớn hơn - Kế hoạch Kiểm toán Nội bộ Quy trình CNTT và Quản lý An ninh mạng. Những khiếm khuyết còn tồn đọng trong hệ thống kiểm soát nội bộ đã được xác định và các Kiểm toán viên nội bộ đã đưa ra các khuyến nghị nhằm cải thiện hệ thống. Một số phát hiện quan trọng trong quá trình kiểm toán nội bộ phản ánh những điểm cần được cải thiện trong quy trình quản lý tài khoản khách hàng, quy trình quản lý tiền, quy định về thẩm quyền, phân quyền truy cập của người sử dụng trong hệ thống CNTT và quy trình thẩm định khách hàng.",
+      "hard_labels": [
+        "G10",
+        "G11"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 1.0
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 3,
+        "G11": 4
+      }
+    },
+    {
+      "paragraph_id": 956,
+      "text": "Chính sách Kiểm soát gian lận nhằm mục đích xây dựng cơ sở cho việc phát triển các hoạt động kiểm soát, hỗ trợ việc phát hiện, ngăn ngừa và xử lý gian lận; thể hiện ý chí của Công ty, thúc đẩy tính nhất quán trong hành vi của tổ chức thông qua việc đưa ra các hướng dẫn, phân công trách nhiệm kiểm soát gian lận và tiến hành điều tra khi cần thiết.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    },
+    {
+      "paragraph_id": 958,
+      "text": "Chính sách về xung đột lợi ích nhằm cung cấp cơ sở cho BĐH và nhân viên Công ty trong việc nhận biết và kiểm soát các xung đột lợi ích phát sinh trong quá trình giao dịch với cổ đông, khách hàng, nhà cung ứng, bên cấp tín dụng, nhà thầu và các bên khác có quan hệ kinh doanh với HSC hoặc các mâu thuẫn phát sinh từ quy trình quản lý và điều hành nội bộ của Công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 1442,
+      "text": "[TABLE] [CONTEXT] section: Đào tạo về Rủi ro ; column_headers: Dự án/ Hoạt động | Mô tả [ROWS] Dự án/ Hoạt động | Mô tả [ROW] Tổ chức các khóa đào tạo về Phòng chống Rửa tiền tại văn phòng Hồ Chí Minh và Hà Nội | Các buổi đào tạo về phòng chống rửa tiền góp phần tăng cường văn hóa quản trị rủi ro trong HSC thông qua việc nâng cao kiến thức cho nhân viên về chính sách phòng chống rửa tiền, đẩy mạnh việc thực hiện chính sách này, và qua đó giúp cải thiện công tác quản trị doanh nghiệp. [ROW] Tổ chức các buổi đào tạo trực tiếp nhằm giới thiệu các chính sách về quản trị rủi ro mới tại tất cả các Chi nhánh và Phòng giao dịch | Các buổi đào tạo trực tiếp hỗ trợ việc thực hiện các chính sách về quản trị rủi ro mới được ban hành, trong đó nhân viên đóng vai trò chủ đạo ảnh hưởng tới văn hóa quản trị rủi ro của HSC. Văn hóa quản trị rủi ro vững mạnh góp phần đưa các hoạt động kiểm soát nội bộ đạt được những chuẩn mực cao hơn, đặc biệt trong các hoạt động hàng ngày của Công ty.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "extracted_count": 14,
+  "extracted": [
+    {
+      "paragraph_id": 85,
+      "text": "Bảo Việt cam kết chung tay cùng cộng đồng doanh nghiệp và Chính phủ trong tiến trình hiện thực hóa Chiến lược Tăng trưởng xanh, thúc đẩy thực hiện mục tiêu phát triển nhanh và bền vững thông qua các mục tiêu xanh hóa các ngành kinh tế, xanh hóa lối sống và thúc đẩy tiêu dùng bền vững, xanh hóa quá trình chuyển đổi, đặc biệt tập trung thực hiện Mục tiêu xanh hóa lối sống gắn kết chặt chẽ với kinh tế số và kinh tế tuần hoàn nhằm thúc đẩy nền kinh tế xanh, góp phần thực hiện các mục tiêu phát triển bền vững",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.25,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 160,
+      "text": "Bảo Việt đã đồng hành cùng Nhà nước, nhân dân và khách hàng trong đại dịch. Phát huy tinh thần \"tương thân tương ái\" và tinh thần trách nhiệm vì cộng đồng, Tập đoàn Bảo Việt đã đóng góp 41,5 tỷ đồng vào quỹ Vaccine phòng Covid quốc gia để đầu tư tăng cường các biện pháp phòng dịch, đẩy nhanh tiến độ tiêm chủng toàn quốc, nhanh chóng triển khai các chính sách đặc biệt để hỗ trợ cho khách hàng không may nhiễm covid.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 670,
+      "text": "Năm 2021, hơn 400 trạm thời tiết trên khắp thế giới ghi nhận nền nhiệt phá kỷ lục 30 năm. Biến đổi khí hậu đang tăng tốc nhanh hơn bao giờ hết. Hàng loạt vụ Hạn hán, cháy rừng và thiếu nước, Nắng nóng ở Tây Bắc Thái Bình Dương, Lốc xoáy tại Mỹ, Siêu bão Ida (Mỹ), Lũ lụt lớn tại Tây Âu, tỉnh Hà Nam (Trung Quốc) và bang Tennessee (Mỹ) được coi là các hiện tượng nổi bật của biến đổi khí hậu trong năm 2021.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "G9": 1.0
+      },
+      "themes": [
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G9": 2
+      }
+    },
+    {
+      "paragraph_id": 672,
+      "text": "Rõ ràng các hoạt động của con người đã gây tác động rộng rãi hơn lên cả hành tinh, làm suy thoái các hệ sinh thái tự nhiên, cạn kiệt các nguồn tài nguyên thiên nhiên, đa dạng sinh học, gây ô nhiễm không khí, nước, đất..., và đặc biệt đã làm cho khí hậu toàn cầu bị biến đổi. Bão tố, lũ lụt, hạn hán bất thường đang tăng dần lên, cả về tần số và mức độ, gây thiệt hại về nhiều mặt ở tất cả các vùng trên thế giới, trong đó có Việt Nam.",
+      "hard_labels": [
+        "G9"
+      ],
+      "soft_labels": {
+        "E1": 0.5,
+        "E_COMMON": 0.5,
+        "G9": 1.0
+      },
+      "themes": [
+        "E1",
+        "E_COMMON",
+        "G9"
+      ],
+      "top_label": "G9",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E_COMMON": 1,
+        "G9": 2
+      }
+    },
+    {
+      "paragraph_id": 695,
+      "text": "Kinh tế tuần hoàn, hiểu một cách đơn giản là biến rác thải đầu ra của ngành này thành nguồn tài nguyên đầu vào của ngành khác hay tuần hoàn trong nội tại bản thân của một doanh nghiệp. Kinh tế tuần hoàn một phần góp phần gia tăng giá trị cho doanh nghiệp, giảm khai thác tài nguyên, giảm chi phí xử lý chất thải, giảm thiểu ô nhiễm môi trường.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E2": 0.75,
+        "E3": 1.0
+      },
+      "themes": [
+        "E2",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 3,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 1217,
+      "text": "Các loại hình bảo hiểm Phi nhân thọ để bảo vệ sức khỏe và an toàn tài chính trước các rủi ro về sức khỏe cho cán bộ nhân viên và người thân bao gồm: Bảo hiểm sức khỏe và bảo hiểm kết hợp con người (Healthcare), Bảo hiểm sức khỏe cho người thân, Bảo hiểm kết hợp con người và Bảo hiểm Bệnh ung thư (K-Care).",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 1385,
+      "text": "Song song với các hoạt động thúc đẩy kinh doanh, Tổng Công ty Bảo hiểm Bảo Việt cũng luôn đi đầu trong việc tạo dựng môi trường làm việc chuyên nghiệp, thân thiện, mang đến cơ hội phát triển, thăng tiến và chế độ đãi ngộ tốt đối với toàn thể hơn 3.000 cán bộ nhân viên của Bảo hiểm Bảo Việt. Xuất phát từ việc luôn luôn lắng nghe để thấu hiểu những quan tâm của nhân viên, Bảo hiểm Bảo Việt đã xây dựng một tiêu chuẩn mới về nơi làm việc lý tưởng, nơi mà tất cả nhân viên nhận được cam kết quan tâm toàn diện và phát triển tối đa trong một lộ trình nghề nghiệp cá nhân, tương thưởng xứng đáng cho những đóng góp, thông qua những trải nghiệm đa dạng, những thử thách trong công việc, cơ hội học hỏi để hoàn thiện và phát triển bản thân.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 2494,
+      "text": "Là doanh nghiệp có các hoạt động kinh doanh dịch vụ tài chính, hoạt động kinh doanh Bảo Việt không sản sinh nhiều lượng khí thải nhà kính cũng như gây ra các tác động đáng kể đến môi trường. Tuy nhiên với các trụ sở làm việc, các Tòa nhà do Bảo Việt quản lý và sử dụng, việc kiểm soát lượng khí thải, chất thải, nước thải từ các Tòa nhà Bảo Việt là biện pháp bảo vệ môi trường tiếp theo sẽ được Bảo Việt triển khai. Hiện tại, Bảo Việt cũng đang xây dựng quy chế quản lý các nguồn phát thải khí nhà kính căn cứ theo Giao thức báo cáo Khí nhà kính (GHG Protocol).",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 0.5
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 5,
+        "E2": 2
+      }
+    },
+    {
+      "paragraph_id": 2515,
+      "text": "Bên cạnh đó, Đề án bảo vệ môi trường của Bảo Việt tiếp tục được triển khai tại các Tòa nhà của Bảo Việt. Đề án này bao gồm các nội dung liên quan đến giải pháp giảm thiểu ô nhiễm nguồn nước thải thông qua việc bổ sung chế phẩm vi sinh, dọn dẹp hệ thống cống thoát nước để đảm bảo thông thoáng sạch sẽ; kiểm tra định kỳ hệ thống xử lý nước thải, hệ thống thu gom và thoát nước thải tránh hiện tượng tắc nghẽn trên các dòng thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 4
+      }
+    },
+    {
+      "paragraph_id": 3143,
+      "text": "Quy trình xây dựng các giả định của Bảo Việt Nhân thọ nhằm đưa ra các ước tính thận trọng và ổn định về kết quả tương lai. Điều này được đảm bảo bằng việc áp dụng giả định tương đối thận trọng để tránh các biến động bất lợi trong thực tiễn hoạt động. Hoạt động kiểm tra hàng năm được thực hiện nhằm đảm bảo mức chênh lệch giữa giả định áp dụng và ước tính khả thi nhất với kết quả trong tương lai nằm trong giới hạn chấp nhận được.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 3150,
+      "text": "Bảng tỷ lệ tử vong sử dụng trong tính toán dự phòng dựa trên cơ sở toán học được phê duyệt và tuân thủ theo quy định của pháp luật. Bảo Việt Nhân thọ đang sử dụng Bảng tỷ lệ tử vong CSO 1980 để tham chiếu và so sánh.",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 2
+      }
+    },
+    {
+      "paragraph_id": 3384,
+      "text": "[TABLE] [CONTEXT] section: Đánh giá chung về thực hành quản trị công ty trong năm 2021 của Tập đoàn Bảo Việt được ghi nhận như sau: ; column_headers: VỀ ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROWS] VỀ ĐỐI XỬ BÌNH ĐẲNG VỚI CỔ ĐÔNG [ROW] Thông báo và tài liệu họp ĐHĐCĐ | • Công bố thông báo họp và các tài liệu liên quan song ngữ Anh - Việt trên website của Bảo Việt; • Cung cấp đầy đủ cơ sở, thông tin và giải trình cho các vấn đề trình ĐHĐCĐ thông qua tại Đại hội; [ROW] Công bố thông tin về ứng viên HĐQT, chính sách chi trả cổ tức | Công bố đầy đủ trong tài liệu ĐHĐCĐ và Báo cáo thường niên. [ROW] Chất lượng và thời gian công bố tài liệu ĐHĐCĐ bằng tiếng Anh | Thông báo và tài liệu ĐHĐCĐ gần nhất đã được dịch đầy đủ sang tiếng Anh và công bố vào cùng ngày với tài liệu tiếng Việt. [ROW] Công ty chưa có quy định yêu cầu phải có một tiểu ban bao gồm các thành viên HĐQT độc lập rà soát GDBLQ trọng yếu/quan trọng để xác định liệu những giao dịch đó có phục vụ lợi ích tốt nhất của công ty và cổ đông. [ROW] Giao dịch bên liên quan của thành viên HĐQT và cán bộ quản lý cấp cao. | Công ty có chính sách yêu cầu thành viên HĐQT không tham gia họp HĐQT trong các cuộc họp về các hoạt động, giao dịch mà thành viên đó có xung đột lợi ích trong Điều lệ, Quy chế nội bộ và Quy chế hoạt động của HĐQT [ROW] Công ty quy định tại Điều lệ và Quy chế quản trị yêu cầu thành viên HĐQT công bố lợi ích có liên quan trong các giao dịch và mọi xung đột lợi ích với công ty.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "paragraph_id": 3479,
+      "text": "[TABLE] [CONTEXT] section: Các giao dịch với các bên liên quan khác ; column_headers: Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 VND | Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 VND ; row_headers: Ông Kenji Yoneda | Ông Teruo Shimmen | Ông Arai Kazuhiko | Ông Nguyễn Đình An | Bà Thân Hiền Anh | Ông Đỗ Trường Minh | Bà Trần Thị Diệu Hằng | Ông Nguyễn Xuân Việt | Ông Nguyễn Minh Hoàng | Ông Đào Đình Thi | Ông Ông Tiến Hùng | Ông Nguyễn Xuân Hòa [ROWS] Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 VND | Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 VND [ROW] Thù lao của thành viên Hội đồng Quản trị [ROW] Ông Kenji Yoneda | 69.333.333 | 228.000.000 [ROW] Ông Teruo Shimmen | 240.000.000 | 228.000.000 [ROW] Ông Arai Kazuhiko | 170.666.667 | - [ROW] Ông Nguyễn Đình An | 240.000.000 | 114.000.000 [ROW] Bà Thân Hiền Anh | 240.000.000 | 228.000.000 [ROW] Ông Đỗ Trường Minh | 240.000.000 | 228.000.000 [ROW] Bà Trần Thị Diệu Hằng | 240.000.000 | 228.000.000 [ROW] Ông Nguyễn Xuân Việt | 240.000.000 | 228.000.000 [ROW] Ông Nguyễn Minh Hoàng | - | 32.413.793 [ROW] Tiền lương của Tổng Giám đốc và Người quản lý khác [ROW] Ông Đào Đình Thi | 1.228.757.948 | 1.188.203.387 [ROW] Ông Đỗ Trường Minh | 1.102.092.191 | 1.037.109.208 [ROW] Ông Ông Tiến Hùng | 825.196.450 | 778.413.905 [ROW] Ông Nguyễn Xuân Hòa | 990.628.204 | 939.102.524",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 3489,
+      "text": "[TABLE] [CONTEXT] section: Các yếu tố tác động đến lợi nhuận báo cáo và vốn chủ sở hữu ; column_headers: Thay đổi biến (%) | Thay đổi trách nhiệm bảo hiểm | Ảnh hưởng đến nguồn vốn chủ sở hữu ; row_headers: Tỷ lệ chiết khấu | Tỷ lệ tử vong [ROWS] Thay đổi biến (%) | Thay đổi trách nhiệm bảo hiểm | Ảnh hưởng đến nguồn vốn chủ sở hữu [ROW] Ngày 31 tháng 12 năm 2021 [ROW] Tỷ lệ chiết khấu | +0,25 | (1.021.279) | 817.023 [ROW] Tỷ lệ chiết khấu | -0,25 | 1.141.236 | (912.989) [ROW] Tỷ lệ tử vong | +10 | 165.007 | (132.006) [ROW] Tỷ lệ tử vong | -10 | (162.760) | 130.208 [ROW] Tỷ lệ tử vong | +20 | 335.192 | (268.154) [ROW] Tỷ lệ tử vong | -20 | (321.925) | 257.540 [ROW] Ngày 31 tháng 12 năm 2020 [ROW] Tỷ lệ chiết khấu | +0,25 | (1.110.687) | 888.550 [ROW] Tỷ lệ chiết khấu | -0,25 | 1.230.826 | (984.661) [ROW] Tỷ lệ tử vong | +10 | 201.596 | (161.277) [ROW] Tỷ lệ tử vong | -10 | (198.934) | 159.147 [ROW] Tỷ lệ tử vong | +20 | 409.519 | (327.615) [ROW] Tỷ lệ tử vong | -20 | (393.475) | 314.780",
+      "hard_labels": [
+        "S4"
+      ],
+      "soft_labels": {
+        "S4": 1.0
+      },
+      "themes": [
+        "S4"
+      ],
+      "top_label": "S4",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "S4": 9
+      }
+    }
+  ]
+}

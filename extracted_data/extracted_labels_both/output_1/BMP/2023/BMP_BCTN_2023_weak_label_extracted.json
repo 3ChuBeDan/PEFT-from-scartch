@@ -1,0 +1,76 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "BTGĐ duy trì mối quan hệ đồng thuận và khích lệ được tinh thần làm việc tập thể của NLĐ thông qua các hoạt động gắn kết nhân viên, xây dựng một môi trường làm việc nội bộ thân thiện, an toàn và nâng cao lợi ích cho người lao động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": " Phát triển sản phẩm có mức phát thải thấp, bằng cách chọn nguyên liệu có mức phát thải thấp, thân thiện với môi trường (không sử dụng nguyên liệu PVC có nguồn gốc từ than và acetylene) và giảm phát thải CO 2 trong quá trình sản xuất.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": " Giảm phát thải khí nhà kính, hướng tới mục tiêu trung hòa carbon vào năm 2050 và tăng tỷ lệ sử dụng năng lượng tái tạo.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E3": 0.5
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2,
+        "E3": 1
+      }
+    },
+    {
+      "text": "BMP đặc biệt quan tâm và chú trọng vấn đề phát thải khí nhà kính và nóng lên toàn cầu, do đó Công ty không ngừng cải tiến kỹ thuật, tối ưu hóa lượng vật liệu sử dụng trong quá trình sản xuất, tổng hiệu suất sử dụng nguyên liệu hiện tại lớn hơn 95% và đang tiếp tục cải tiến nâng cao hơn nữa. BMP cũng không ngừng nỗ lực tìm kiếm các giải pháp mới và đột phá để tiết kiệm và nâng cao công suất, qua đó giảm phát thải khí nhà kính cho các Nhà máy.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 2
+      }
+    }
+  ]
+}

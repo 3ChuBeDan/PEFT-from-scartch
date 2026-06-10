@@ -1,0 +1,59 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "paragraph_id": 651,
+      "text": "Sự trung thực và thẳng thắn, sẵn sàng nói thẳng, nói thật để công việc được tốt hơn, trên cơ sở tôn trọng bản thân và tôn trọng đồng nghiệp.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "paragraph_id": 701,
+      "text": "BSC đã xây dựng văn bản hướng dẫn về đánh giá khách hàng, chia sẻ thông tin và các nỗ lực trong việc phòng chống rửa tiền và tài trợ khủng bố, rủi ro tuân thủ và chức năng kiểm soát tuân thủ, các nguyên tắc quản lý rủi ro trong hoạt động ngân hàng điện tử.... Trong đó điển hình là \"Các yêu cầu chú ý xác đáng khách hàng\". Trong tài liệu này, BSC nhấn mạnh rằng, chất lượng hay độ sâu của các thủ tục nhận biết khách hàng có ảnh hưởng trực tiếp đến sự an toàn và lành mạnh trong hoạt động của BSC. Theo đó, chính sách phòng chống rửa tiền của BSC nhấn mạnh các nội dung cơ bản sau:",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    },
+    {
+      "paragraph_id": 777,
+      "text": "c. Vị trí địa lý nơi khách hàng cư trú hoặc có trụ sở chính: các nước trong danh sách cấm vận nêu tại các Nghị quyết của Hội đồng Bảo an Liên Hợp quốc; các nước trong danh sách công khai không tuân thủ hoặc tuân thủ không đầy đủ các khuyến nghị về chống rửa tiền và chống tài trợ khủng bố do Lực lượng đặc nhiệm tài chính công bố định kỳ; quốc gia hoặc vùng, lãnh thổ được, nhận định có nhiều hoạt động ma túy, tham nhũng, rửa tiền.",
+      "hard_labels": [
+        "G11"
+      ],
+      "soft_labels": {
+        "G11": 1.0
+      },
+      "themes": [
+        "G11"
+      ],
+      "top_label": "G11",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G11": 2
+      }
+    }
+  ]
+}

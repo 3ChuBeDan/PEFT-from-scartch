@@ -1,0 +1,83 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 41,
+      "text": "Công nghệ thân thiện với môi trường; thân thiện trong hợp tác với các đối tác cũng như với các đồng nghiệp; tạo dựng và phát triển thương hiệu, bản sắc văn hóa doanh nghiệp với tinh thần xây dựng công ty trở thành \"mái nhà chung\" cho tập thể CBCNV và địa chỉ đầu tư tin cậy cho các cổ đông.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 153,
+      "text": "Đối với các công ty nhiệt điện, thì giá nguyên liệu đầu vào từ than, khí và dầu là một trong những yếu tố ảnh hưởng trực tiếp đến kết quả hoạt động kinh doanh của Công ty. Là doanh nghiệp hoạt động trong lĩnh vực cung cấp điện năng, Nhà máy điện Nhơn Trạch 2 với công suất lớn (750 MW) sử dụng nguồn nguyên liệu đầu vào chính là khí tự nhiên (GAS) và nguyên liệu dự phòng là dầu DO; chi phí nhiên liệu khí chiếm trên 60% giá thành sản xuất điện. NT2 và Tập đoàn Điện lực Việt Nam (EVN) đã ký kết Hợp đồng Mua bán điện (PPA) dài hạn với giá điện chính thức theo Hợp đồng Mua bán điện đã ký kết, phương pháp tính giá điện cho phép Công ty chuyển những rủi ro của chi phí đầu vào và các chi phí khác vào giá bán bao gồm giá khí, chi phí lãi vay, khấu hao và chi phí lao động.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E1": 0.300658,
+        "E3": 1.0
+      },
+      "themes": [
+        "E1",
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 1,
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 641,
+      "text": "Dựa trên các nội quy được ban hành trong văn hóa ứng xử nội bộ đến quy tắc tiếp công dân...tất cả nội dung được Công ty triển khai đến phòng ban và được cán bộ công nhân viên Công ty nghiêm túc thực hiện. Ngay trong slogan của công ty \"Thân thiện – Hiệu quả - An toàn\" luôn đề cao sự thân thiện trong văn hóa giao tiếp giữa nội bộ Công ty, giữa NT2 và các đối tác, cổ đông và nhà đầu tư. Quy chế dân chủ ở cơ sở được triển khai đồng bộ trên các mặt đã tạo sự quyết tâm và nhất trí cao trong việc lãnh đạo, chỉ đạo xây dựng mối quan hệ lao động hài hòa, ổn định, tiến bộ trong Công ty, phát huy tinh thần tập thể đại đoàn kết để nâng cao hiệu quả hoạt động SXKD của Công ty trong giai đoạn phát triển hiện nay. Bên cạnh đó, việc tổ chức các hoạt động chăm lo đời sống cho đoàn viên và người lao động luôn luôn được quan tâm đúng mức.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "paragraph_id": 693,
+      "text": "Định kỳ hàng năm NT2 thực hiện đo đạc lấy mẫu quan trắc môi trường xung quanh theo quy định của Pháp luật và báo cáo đánh giá tác động môi trường đã được phê duyệt (ĐTM).",
+      "hard_labels": [
+        "E_COMMON"
+      ],
+      "soft_labels": {
+        "E2": 0.20767,
+        "E_COMMON": 1.0
+      },
+      "themes": [
+        "E2",
+        "E_COMMON"
+      ],
+      "top_label": "E_COMMON",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 1,
+        "E_COMMON": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "paragraph_id": 315,
+      "text": "Ngoài ra, Tập đoàn đã triển khai và hoàn thành việc kiểm kê khí nhà kính tại các nhà máy sản xuất tôn mạ trên cả nước, đáp ứng đầy đủ các yêu cầu, đạt chứng nhận tiêu chuẩn ISO 14064-1:2018 về kiểm kê khí nhà kính tại doanh nghiệp. Cùng với đó, Tập đoàn cũng hoàn thành việc truy vết carbon trên gần 20 dòng sản phẩm Tôn Hoa Sen theo tiêu chuẩn ISO 14067:2018.",
+      "hard_labels": [
+        "E1"
+      ],
+      "soft_labels": {
+        "E1": 1.0
+      },
+      "themes": [
+        "E1"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 4
+      }
+    },
+    {
+      "paragraph_id": 949,
+      "text": "+ Chất thải rắn phát sinh trong Công ty đều được thực hiện phân loại, thu gom và chuyển giao xử lý theo đúng yêu cầu của pháp luật. Chất thải được phân loại tại nguồn, mỗi loại chất thải đều chứa trong thùng rác có dấu hiện nhận dạng riêng. Khi thùng chứa chất thải đầy thì được chuyển về nhà chứa rác của Công ty theo đúng khu vực quy định.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 5
+      }
+    },
+    {
+      "paragraph_id": 950,
+      "text": "- Đối với chất thải nguy hại, Tập đoàn Hoa Sen đã được cấp Sổ chủ nguồn thải chất thải nguy hại. Tập đoàn Hoa Sen đã ký hợp đồng với các đơn vị có năng lực và đạt tiêu chuẩn về vận chuyển và xử lý chất thải.",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 6
+      }
+    },
+    {
+      "paragraph_id": 1031,
+      "text": "[TABLE] [CONTEXT] section: 2.3. Kết quả tiêu thụ năng lượng thực tế trong NĐTC 2023 – 2024 ; column_headers: STT NỘI DUNG NĂM 2024 [ROWS] STT NỘI DUNG NĂM 2024 [ROW] I | TÁI SINH ACID [ROW] 1 Sản lượng acid tái sinh trong năm (m 3 | ) 54.502 [ROW] 2 Sản lượng acid đầu vào trong năm (m 3 | ) 53.296 [ROW] 3 Tỷ lệ tái sinh so với đầu vào (%) 102% [ROW] II | NƯỚC [ROW] 1 Lượng nước sử dụng cho nhà máy trong năm (m 3 | ) 740.752 [ROW] 2 Lượng nước tuần hoàn, tái sử dụng trong năm (m 3 | ) 351.878 [ROW] 3 Lượng nước thải được xử lý trong năm (m 3 | ) 520.988 [ROW] III | ĐIỆN [ROW] 1 Năng lượng điện tiêu thụ của nhà máy trong năm (Kwh) 394.884.005 [ROW] 2 Năng lượng tiết kiệm trong năm (Kwh) 4.353.883 [ROW] IV | NƯỚC THẢI [ROW] 1 Tổng lưu lượng nước thải xử lý (m 3 | ) 527.970 [ROW] V | CHẤT THẢI, CHẤT THẢI NGUY HẠI [ROW] 1 | Lượng chất thải xử lý trong năm (kg) 4.569.198 [ROW] 2 | Lượng chất thải nguy hại xử lý trong năm (kg) 3.974.343",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    }
+  ]
+}

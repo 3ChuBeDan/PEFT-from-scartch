@@ -1,0 +1,75 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G20"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G20"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Việc tổ chức một HSC hạnh phúc thật sự không đơn giản và gặp nhiều thách thức. Trước mắt, những điều kiện cơ bản nhất được thực hiện tại HSC: người lao động phải có việc làm ổn định, có điều kiện thăng tiến, có điều kiện mở rộng phát triển bản thân và cân bằng được đời sống tinh thần. Khi mỗi nhân viên HSC cùng nắm tay nhau cùng kiến tạo các giá trị tích cực, đó là cách lan tỏa hạnh phúc từ bản thân đến chính HSC và cộng đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Nỗ lực cải tiến liên tục [ROWS] 1 | Báo cáo rà soát hoạt động phòng chống rửa tiền (kiểm toán hàng năm) |  [ROW] 2 | CNTT và An ninh mạng (rà soát lần 2) |  [ROW] 3 | Theo dõi tiến độ thực hiện các phát hiện kiểm toán CNTT và An ninh mạng | ",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Giám sát hoạt động Kiểm toán nội bộ năm 2019 [ROWS] STT | Quy trình kiểm toán [ROW] 1 | Báo cáo hoạt động Phòng chống rửa tiền (hằng năm) [ROW] 2 | Quy trình Công nghệ thông tin và Quản lý an ninh mạng (kiểm toán lần 1) [ROW] 3 | Theo dõi tiến độ thực hiện các phát hiện kiểm toán cho Quy trình Công nghệ thông tin và Quản lý an ninh mạng",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0,
+        "G11": 0.5
+      },
+      "themes": [
+        "G10",
+        "G11"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2,
+        "G11": 1
+      }
+    }
+  ]
+}

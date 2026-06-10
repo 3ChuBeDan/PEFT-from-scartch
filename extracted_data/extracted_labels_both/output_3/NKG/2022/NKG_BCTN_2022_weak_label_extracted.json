@@ -1,0 +1,48 @@
+{
+  "extracted_count": 3,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G10"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G10"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "Than cốc: Than cốc là sản phẩm chính phục vụ cho ngành công nghiệp luyện than và điện. Giá than đã tăng rất cao trong năm 2022 do ảnh hưởng cuộc chiến Nga – Ukraine. Việc Nga chiếm đến 15% sản lượng than xuất khẩu toàn cầu hiện đang chịu các lệnh cấm vận khiến giá than tăng rất mạnh. Trong đó, giá than nhiệt 5,500kcal tại Cảng Thanh Đảo đã tăng lên đỉnh điểm 250 USD/tấn ở giữa năm 2022 trước khi điều chỉnh về mức 175 USD/tấn trong tháng 1/2023 .",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 7
+      }
+    }
+  ]
+}

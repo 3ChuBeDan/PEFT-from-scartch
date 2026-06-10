@@ -1,0 +1,65 @@
+{
+  "extracted_count": 2,
+  "extracted": [
+    {
+      "text": "---",
+      "hard_labels": [
+        "E02",
+        "E03",
+        "E05",
+        "E06",
+        "E07",
+        "E08",
+        "E09",
+        "E10",
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16",
+        "E19"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "E02",
+        "E03",
+        "E05",
+        "E06",
+        "E07",
+        "E08",
+        "E09",
+        "E10",
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16",
+        "E19"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G05"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G01",
+        "G02",
+        "G03",
+        "G04",
+        "G05"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

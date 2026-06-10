@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 185,
+      "text": "Tại Tập đoàn HAGL, tùy theo từng vị trí cụ thể sẽ có những tiêu chuẩn bắt buộc riêng, song tất cả các cán bộ công nhân viên đều đáp ứng yêu cầu: có trình độ chuyên môn, tinh thần trách nhiệm và tinh thần kỉ luật cao. Công ty luôn ghi nhận, đánh giá hiệu quả làm việc và năng lực của cán bộ, nhân viên nhằm phát huy năng lực sáng tạo và tính cạnh tranh. Chính sách nhân sự luôn được coi trọng và cải tiến thường xuyên nhằm tạo ra môi trường làm việc tích cực, thân thiện và gắn kết.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 3
+      }
+    }
+  ]
+}

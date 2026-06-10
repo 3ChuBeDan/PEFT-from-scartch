@@ -1,0 +1,23 @@
+{
+  "extracted_count": 1,
+  "extracted": [
+    {
+      "paragraph_id": 1700,
+      "text": "[TABLE] [CONTEXT] section: Nhóm rủi ro hoạt ộng ; column_headers: Tên rủi ro | Nội dung | Biện pháp quản trị [ROWS] Tên rủi ro | Nội dung | Biện pháp quản trị [ROW] Rủi ro về công bố thông tin | Thông tin công bố không úng thời hạn và không ầy ủ, chính xác. | • Cập nhật ầy ủ các quy ịnh liên quan ến công bố thông tin ối với công ty niêm yết. • Xây dựng quy trình nội bộ về cung cấp và công bố thông tin nhằm ảm bảo các thông tin hoạt ộng, thông tin tài chính ược báo cáo chính xác, kịp thời, úng thời hạn. • Thường xuyên trao ổi với ại diện phụ trách công bố thông tin của Ủy ban Chứng khoán Nhà nước, Sở giao dịch Chứng khoán Tp. HCM ể kiểm tra tính ầy ủ và chính xác của các thông tin cần công bố. [ROW] Rủi ro về nguồn nhân lực | Rủi ro về nguồn nhân lực liên quan ến cạnh tranh thu hút nhân sự; số lượng, chất lượng không bắt kịp nhu cầu tăng trưởng cũng như những chuẩn mực quốc tế ể toàn cầu hóa hiệu quả. | • Xây dựng FPT thành tổ chức học tập, phát triển lực lượng lao ộng có trình ộ cao, tổ chức tốt nguồn nhân lực, quy hoạch nhân sự quản lý với ịnh hướng lâu dài. • Đầu tư cho hoạt ộng ào tạo của ĐH FPT thông qua việc mở rộng cơ sở vật chất tại Đà Nẵng, Quy Nhơn, Cần Thơ, Tp.HCM và Tp.Hà Nội. • FPT xây dựng chính sách ãi ngộ ảm bảo các tiêu chí: “Làm nhiều – hưởng nhiều”, thu nhập tương xứng với kết quả công việc, giá trị óng góp cho FPT; công bằng và minh bạch; cạnh tranh theo thị trường. Ngoài ra FPT còn thực hiện các chính sách khác như trợ cấp mua nhà cho CBNV. • Tiếp tục ịnh hướng mua bán và sáp nhập (M&A) ể tăng cường số lượng chuyên gia tư vấn, chuyên gia công nghệ trong nước và quốc tế. • Xây dựng môi trường làm việc tốt ể nâng cao năng lực cạnh tranh trong thu hút nguồn nhân lực. [ROW] Rủi ro về danh tiếng/ thương hiệu | Danh tiếng xấu có ảnh hưởng lớn ối với các doanh nghiệp – từ hình ảnh thương hiệu ến các hiệu ứng tiền tệ. | • Xây dựng hệ thống thu thập và phân tích ý kiến khách hàng ể kịp thời iều chỉnh, cải tiến dịch vụ, áp ứng nhu cầu khách hàng. Định kỳ khảo sát o ộ hài lòng của các bên liên quan. • Xây dựng quy trình quản trị xử lý khủng hoảng truyền thông. • Xây dựng quy ịnh phát ngôn, chia sẻ và cung cấp thông tin trên các phương tiện truyền thông. • Giám sát, theo dõi các thông tin về Tập oàn và CTTV trên các phương tiện truyền thông, mạng xã hội hàng ngày, hàng giờ ể có phương án xử lý kịp thời khi có các thông tin không chính xác hoặc ảnh hưởng bất lợi ến danh tiếng/thương hiệu của Tập oàn. [ROW] Rủi ro bảo mật thông tin và rủi ro an ninh mạng | Thông tin là một trong những tài sản quan trọng, quý giá ối với tổ chức doanh nhiệp. Những rủi ro ối với các thông tin như bị lộ, bị thay ổi, bị mất mát ều ảnh hưởng nghiêm trọng ến hoạt ộng, ến uy tín, ến chiến lược của tổ chức, doanh nghiệp. | • Áp dụng triệt ể các biện pháp chống thất thoát dữ liệu và an toàn hệ thống nhằm ảm bảo an ninh thông tin của Tập oàn. • Tăng cường ầu tư hệ thống và giải pháp an toàn thông tin, cập nhật các quy trình áp dụng các tiêu chuẩn bảo mật mới nhất. Hiện tại, bên cạnh các hệ thống mua ngoài, FPT ã ầu tư phát triển một số sản phẩm về an toàn an ninh mạng như CyRadar, FPT.EagleEye...",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}

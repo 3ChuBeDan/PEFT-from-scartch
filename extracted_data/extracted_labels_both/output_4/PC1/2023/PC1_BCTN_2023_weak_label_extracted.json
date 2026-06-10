@@ -1,0 +1,75 @@
+{
+  "extracted_count": 4,
+  "extracted": [
+    {
+      "text": "Công đoàn Tập đoàn gồm 12 công đoàn cơ sở, bộ phận trực thuộc với gần 1.600 đoàn viên công đoàn. Trong những năm qua, Lãnh đạo, Đảng ủy và Công đoàn luôn quan tâm đến đời sống vật chất, tinh thần đối với cán bộ, người lao động, đặc biệt là với những đoàn viên công đoàn có hoàn cảnh khó khăn. Đây là những người lao động gặp phải những không may trong cuộc sống, bản thân bị bệnh nặng, ốm đau thường xuyên, phải chữa trị bệnh trong thời gian dài, chi phí tốn kém trong khi điều kiện gia đình cũng hết sức khó khăn; hoặc có trường hợp bản thân khỏe mạnh là trụ cột chính trong gia đình đông người, có người thân bệnh nặng, hiểm nghèo, chi phí hàng tháng tốn kém...",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 4
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: Kiểm kê, đo lường phát thải ra môi trường ; column_headers: Tên nhà máy | Tiêu chí | Năm 2023 | Năm 2022 | Hệ thống xử lý khí thải và chất thải [ROWS] Tên nhà máy | Tiêu chí | Năm 2023 | Năm 2022 | Hệ thống xử lý khí thải và chất thải [ROW] Tổng lượng khí thải (m3) | 10.333.040 | 7.994.940 | Kết quả quan trắc khí thải và hệ thống xử lý khí thải năm 2022 cho thấy các chỉ tiêu, thông số quan trắc đều đạt quy | DAST [ROW] TNST Tổng lượng khí thải (m3) | 40.800 | 27.200 | chuẩn [ROW] DAST Chất thải rắn thông thường (tấn) Chất thải nguy hại (tấn) | 906 | 761 240 | Các nhà máy đều ký kết các hợp đồng xử lý rác thải sinh hoạt, chất thải công nghiệp thông thường và chất thải nguy hại với các công ty như: Công ty TNHH môi 228 [ROW] Chất thải rắn thông thường (tấn) Chất thải nguy hại (tấn) | 4,68 | 8,16 | môi trường trên địa bàn, trường Việt Tiến, Công ty TNHH xây dựng và phát triển kinh doanh Việt Anh... 14,69 | TNST 3,20",
+      "hard_labels": [
+        "E1",
+        "E2"
+      ],
+      "soft_labels": {
+        "E1": 1.0,
+        "E2": 1.0
+      },
+      "themes": [
+        "E1",
+        "E2"
+      ],
+      "top_label": "E1",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E1": 6,
+        "E2": 13
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: TIÊU THỤ NƯỚC ; column_headers: Đơn vị tiêu thụ | Nguồn cung cấp nước | Lượng nước sử dụng năm 2023 (m3) | Tỷ lệ % và tổng lượng nước tái chế và tái sử dụng | Thông tin về hệ thống xử lý nước thải [ROWS] Đơn vị tiêu thụ | Nguồn cung cấp nước | Lượng nước sử dụng năm 2023 (m3) | Tỷ lệ % và tổng lượng nước tái chế và tái sử dụng | Thông tin về hệ thống xử lý nước thải [ROW] DAST | Công ty CP nước sạch số 2 Hà Nội | 29,857 | 0.62 | Có hệ thống xử lý nước thải công nghiệp 150m3/ngày đêm. [ROW] TNST | Công ty CP nước sạch Thái Nguyên | 7,547 | 0.73 | Có hệ thống xử lý nước thải công nghiệp 80m3/ngày đêm. [ROW] NMTĐ Trung Thu | Nước ngầm, nước mó | Không áp dụng | Không tạo ra nước thải phải xử lý theo quy định pháp luật [ROW] NMTĐ Bảo Lâm 1 | Nước từ giếng khoan [ROW] NMTĐ Bảo Lâm 3 | Nước ngầm, nước mó [ROW] NMTĐ Bảo Lâm 3A | Nước từ giếng khoan [ROW] NMTĐ Mông Ân | Nước từ giếng khoan [ROW] NMTĐ Bảo Lạc B | Nước từ giếng khoan [ROW] NMTĐ Sông nhiệm 4 | Nước ngầm, nước mó [ROW] NMĐG Liên Lập | Nước từ giếng khoan | Không áp dụng NMĐG Phong Huy Nước từ giếng khoan [ROW] NMĐG Phong Nguyên | Nước từ giếng khoan",
+      "hard_labels": [
+        "E2"
+      ],
+      "soft_labels": {
+        "E2": 1.0
+      },
+      "themes": [
+        "E2"
+      ],
+      "top_label": "E2",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E2": 9
+      }
+    },
+    {
+      "text": "---",
+      "hard_labels": [
+        "G5",
+        "G8"
+      ],
+      "soft_labels": {},
+      "themes": [
+        "G5",
+        "G8"
+      ],
+      "top_label": null,
+      "top_score": null,
+      "keyword_counts": {}
+    }
+  ]
+}

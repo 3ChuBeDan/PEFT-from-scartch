@@ -1,0 +1,90 @@
+{
+  "extracted_count": 5,
+  "extracted": [
+    {
+      "text": "Năm 1996 Thành lập Trung tâm Tích hợp Hệ thống (tiền thân của CMC SI) và Trung tâm Giải pháp Phần mềm (tiền thân của CMC Soft)",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "CMC luôn chú trọng phát triển cơ sở vật chất, xây dựng môi trường làm việc thân thiện cho toàn bộ CBNV. Các văn phòng làm việc của CMC đề được xây dựng theo tiêu chuẩn quốc tế, thân thiện đảm bảo CBNV có được điều kiện tốt nhất để sáng tạo, phát huy hết năng lực của mình trong công việc.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Trong năm 2018, CMC tiếp tục có những hoạt động thiết thực hướng tới cộng đồng. CMC thực hiện trợ cấp thường xuyên cho 15 trẻ em có hoàn cảnh khó khăn quận Cầu Giấy từ 2010. Nhiều năm qua, CMC duy trì nhận nuôi phụng dưỡng trọn đời 2 mẹ liệt sỹ ở xã Hiền Ninh - huyện Sóc Sơn. Với tinh thần tương thân tương ái nhằm chia sẻ với những mất mát và hỗ trợ trường học sớm khôi phục cơ sở vật chất để chuẩn bị cho năm học mới, CMC tặng 40 dàn máy tính CMS cho hai phòng máy tính của Trường mầm non Hoa Lan, Trường Tiểu học và Trung học Cơ sở thị trấn Mù Cang Chải (Yên Bái) tổng trị giá 400 triệu đồng.",
+      "hard_labels": [
+        "E3"
+      ],
+      "soft_labels": {
+        "E3": 1.0
+      },
+      "themes": [
+        "E3"
+      ],
+      "top_label": "E3",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "E3": 2
+      }
+    },
+    {
+      "text": "Sau một thời gian nghiên cứu, triển khai, ngày 9/4/2019, CMC đã ra mắt hệ sinh thái hạ tầng mở C.OPE2N với mong muốn đưa Việt Nam thành \"Digital Hub\" của Châu Á, hội tụ, kết nối dữ liệu và chia sẻ tri thức, hệ sinh thái C.OPE2N sẽ đem lại lợi ích cho chính phủ và các doanh nghiệp, tạo nền tảng xây dựng một \"Việt Nam 4.0\". Những nền tảng trụ cột của hệ sinh thái C.OPE2N ngoài việc phục vụ cho hoạt động kinh doanh của Tập đoàn CMC và khách hàng đối tác còn là một môi trường mô phỏng thu nhỏ của một xã hội số hiện đại mà thông qua đó, CMC mong muốn góp phần xây dựng Chính phủ điện tử và quốc gia số. Hệ sinh thái C.OPE2N có thể nhanh chóng tạo ra các dịch vụ hành chính công, chính phủ điện tử nhanh, an toàn, hiệu quả với các công cụ chất lượng cao, giảm chi phí đầu tư hạ tầng CNTT cho các tổ chức cơ quan nhà nước, bắt kịp xu thế CMCN 4.0 của thế giới. Do được xây dựng trên nền tảng hạ tầng Data Center và hệ thống an ninh an toàn thông tin đảm bảo với chất lượng quốc tế, C.OPE2N sẽ là lựa chọn tối ưu cho các cơ quan nhà nước trong bối cảnh luật an ninh mạng được đưa vào thực thi, chống lại các cuộc chiến tranh mạng và giảm các nguy cơ tấn công an ninh mạng.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    },
+    {
+      "text": "[TABLE] [CONTEXT] section: QUẢN LÝ CÁC RỦI RO QUAN TRỌNG ; column_headers: RỦI RO | MÔ TẢ RỦI RO | BIỆN PHÁP KIỂM SOÁT [ROWS] RỦI RO | MÔ TẢ RỦI RO | BIỆN PHÁP KIỂM SOÁT [ROW] - Tiếp tục chú trọng và đề cao công tác chọn lọc các cán bộ trẻ và tài năng làm nòng cốt tương lai cho CMC. - Thực hiện xây dựng hệ thống Success Factor để nâng cao chất lượng quản lý nhân sự và tuyển dụng. [ROW] AN NINH THÔNG TIN | Những rủi ro đối với các thông tin như bị lộ, bị thay đổi, bị mất mát đều ảnh hưởng nghiêm trọng đến hoạt động, đến uy tín, đến chiến lược của tập đoàn. | - Áp dụng triệt để các biện pháp chống thất thoát dữ liệu và an toàn hệ thống nhằm đảm bảo an ninh thông tin của CMC. - Triển khai hệ thống quản lý an ninh thông tin ISMS tại một số công ty thành viên lớn. - Áp dụng các tiêu chuẩn bảo mật mới nhất theo tiêu chuẩn quốc tế. Gán trách nhiệm an toàn thông tin với các thành viên tổ chức, nhằm tránh vi phạm an toàn thông tin dẫn tới hậu quả nghiêm trọng. - Triển khai giám sát an toàn an ninh mạng tự động qua Trung tâm điều hành an ninh mạng CMC (CMC NextGen SOC) – được tích hợp trí tuệ nhân tạo & công nghệ Automation. [ROW] TUÂN THỦ | Những rủi ro liên quan đến việc không tuân thủ pháp luật gây ảnh hưởng đến hoạt động, uy tín, lợi nhuận của CMC. | - Luôn cập nhật các thay đổi về chính sách và các văn bản bản quy định pháp luật của nhà nước về ngành CNTT, viễn thông, thuế và hải quan... thành bản tin Quản trị rủi ro để thông báo tới toàn thể CBNV trong công ty nắm được. - Đào tạo nhân viên về văn hóa nước sở tại trước khi cử đi công tác và làm việc tại nước ngoài. - Đón đầu các xu hướng thay đổi luật pháp để có thể tận dụng và phát huy được thế mạnh của mình một cách tốt nhất, đặc biệt là những chính sách ưu đãi, khuyến khích việc phát triển và ứng dụng công nghệ của Chính phủ và Nhà nước.",
+      "hard_labels": [
+        "G10"
+      ],
+      "soft_labels": {
+        "G10": 1.0
+      },
+      "themes": [
+        "G10"
+      ],
+      "top_label": "G10",
+      "top_score": 1.0,
+      "keyword_counts": {
+        "G10": 2
+      }
+    }
+  ]
+}
