@@ -5,44 +5,44 @@ Reallocating 'name_of_file' (item size: 1) to 11 items.
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: icml2024.bst
 Database file #1: references.bib
-You've used 3 entries,
+You've used 6 entries,
             2773 wiz_defined-function locations,
-            610 strings with 5719 characters,
-and the built_in function-call counts, 1830 in all, are:
-= -- 130
-> -- 171
-< -- 1
-+ -- 57
-- -- 54
-* -- 168
-:= -- 293
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 27
-chr.to.int$ -- 3
-cite$ -- 6
-duplicate$ -- 73
-empty$ -- 125
-format.name$ -- 57
-if$ -- 367
+            624 strings with 6521 characters,
+and the built_in function-call counts, 3359 in all, are:
+= -- 245
+> -- 297
+< -- 2
++ -- 99
+- -- 93
+* -- 293
+:= -- 530
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 49
+chr.to.int$ -- 6
+cite$ -- 12
+duplicate$ -- 144
+empty$ -- 247
+format.name$ -- 101
+if$ -- 686
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 3
-newline$ -- 23
-num.names$ -- 12
-pop$ -- 65
+missing$ -- 6
+newline$ -- 38
+num.names$ -- 24
+pop$ -- 120
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 43
 quote$ -- 0
-skip$ -- 55
+skip$ -- 106
 stack$ -- 0
-substring$ -- 6
-swap$ -- 8
+substring$ -- 12
+swap$ -- 14
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 33
+type$ -- 66
 warning$ -- 0
-while$ -- 9
+while$ -- 18
 width$ -- 0
-write$ -- 44
+write$ -- 80

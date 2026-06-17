@@ -2,11 +2,9 @@ from __future__ import annotations
 
 import argparse
 import csv
-import json
-import os
-import random
 import inspect
-import sys
+import json
+import random
 import time
 from pathlib import Path
 from typing import Any
@@ -41,6 +39,7 @@ def require_runtime_dependencies() -> None:
 
 DEFAULT_MODEL = "vinai/phobert-base-v2"
 DEFAULT_TARGET_MODULES = "query,value"
+DEFAULT_UIT_VION_PATH = Path("data/uit_vion/dataset.csv")
 RESULT_COLUMNS = [
     "run_id",
     "method",
@@ -83,9 +82,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--dropout", type=float, default=0.05)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--output-dir", default="outputs")
-    parser.add_argument("--results-file", default="results/benchmark_results.csv")
+    parser.add_argument("--results-file", default="results/benchmark_results_2.csv")
     parser.add_argument("--target-modules", default=DEFAULT_TARGET_MODULES)
-    parser.add_argument("--epochs", type=float, default=3.0)
+    parser.add_argument("--epochs", type=float, default=5.0)
     parser.add_argument("--learning-rate", type=float, default=None)
     parser.add_argument("--batch-size", type=int, default=16)
     parser.add_argument("--eval-batch-size", type=int, default=32)
@@ -110,7 +109,7 @@ def normalize_dataset_name(name: str) -> str:
     return name.strip().lower()
 
 
-def load_uit_vsfc_or_local(dataset_arg: str) -> DatasetDict:
+def load_named_or_local_dataset(dataset_arg: str) -> DatasetDict:
     dataset_key = normalize_dataset_name(dataset_arg)
     if dataset_key == "uit-vsfc":
         try:
@@ -121,6 +120,16 @@ def load_uit_vsfc_or_local(dataset_arg: str) -> DatasetDict:
                 "with columns text,label(s),split via --dataset."
             ) from exc
 
+    if dataset_key == "uit-vion":
+        if not DEFAULT_UIT_VION_PATH.exists():
+            raise FileNotFoundError(
+                "UIT-ViON is not bundled in this repo. Prepare it first with "
+                "`python scripts/prepare_uit_vion.py --input <data.zip|data_dir|csv> "
+                "--output data/uit_vion/dataset.csv`, or pass a local CSV/JSONL path "
+                "with columns text,label,split via --dataset."
+            )
+        dataset_arg = str(DEFAULT_UIT_VION_PATH)
+
     dataset_path = Path(dataset_arg)
     suffix = dataset_path.suffix.lower()
     if suffix == ".csv":
@@ -128,7 +137,7 @@ def load_uit_vsfc_or_local(dataset_arg: str) -> DatasetDict:
     elif suffix in {".json", ".jsonl"}:
         raw = load_dataset("json", data_files=str(dataset_path))["train"]
     else:
-        raise ValueError("--dataset must be 'uit-vsfc' or a local CSV/JSONL path")
+        raise ValueError("--dataset must be 'uit-vsfc', 'uit-vion' or a local CSV/JSONL path")
 
     if "split" not in raw.column_names:
         raise ValueError("Local CSV/JSONL dataset must include a split column")
@@ -232,7 +241,7 @@ def prepare_dataset(
     task_type: str = "single_label",
     label_map_path: str | None = None,
 ) -> tuple[DatasetDict, int, dict[str, int]]:
-    dataset = load_uit_vsfc_or_local(dataset_arg)
+    dataset = load_named_or_local_dataset(dataset_arg)
     if "validation" not in dataset and "dev" in dataset:
         dataset["validation"] = dataset["dev"]
     if "validation" not in dataset and "test" in dataset:
@@ -291,6 +300,7 @@ def configure_method(args: argparse.Namespace, model: torch.nn.Module) -> list[s
     if args.method == "dora" and dropout != 0.0:
         print("Warning: DoRA does not support dropout. Setting dropout=0.0.")
         dropout = 0.0
+        args.dropout = 0.0
 
     return apply_peft(
         model=model,

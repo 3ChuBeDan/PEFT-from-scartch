@@ -1,4 +1,4 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{6}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -29,5 +29,29 @@ Liu, S.-Y., Wang, C.-Y., Yin, H., Molchanov, P., Wang, Y.-C.~F., Cheng, K.-T.,
 \newblock In \emph{Proceedings of the 41st International Conference on Machine
   Learning}, volume 235 of \emph{Proceedings of Machine Learning Research},
   2024.
+
+\bibitem[Nguyen \& Nguyen(2020)Nguyen and Nguyen]{nguyen2020phobert}
+Nguyen, D.~Q. and Nguyen, A.~T.
+\newblock {PhoBERT}: Pre-trained language models for vietnamese.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2020}, 2020.
+
+\bibitem[Nguyen et~al.(2018)Nguyen, Nguyen, Nguyen, Truong, and
+  Nguyen]{nguyen2018uitvsfc}
+Nguyen, K.~V., Nguyen, D.-V., Nguyen, P. X.~V., Truong, T. T.~H., and Nguyen,
+  N. L.~T.
+\newblock {UIT-VSFC}: Vietnamese students' feedback corpus for sentiment
+  analysis.
+\newblock In \emph{2018 10th International Conference on Knowledge and Systems
+  Engineering}, 2018.
+
+\bibitem[Tran et~al.(2021)Tran, Trinh, Tran, Le, Ha, and
+  Nguyen]{tran2021uitvion}
+Tran, K.~Q., Trinh, P.~N., Tran, K. N.-A., Le, A. T.-H., Ha, L.~V., and Nguyen,
+  K.~V.
+\newblock An empirical investigation of online news classification on an
+  open-domain, large-scale and high-quality dataset in vietnamese.
+\newblock In \emph{The 20th International Conference on Intelligent Software
+  Methodologies, Tools and Techniques}, 2021.
 
 \end{thebibliography}

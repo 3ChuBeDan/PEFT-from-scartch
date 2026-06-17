@@ -117,9 +117,10 @@ def test_dora_magnitude_initialization() -> None:
     torch.testing.assert_close(dora_ones.magnitude, torch.ones(1, 5))
 
 
-def test_save_and_load_adapter_preserves_output(tmp_path) -> None:
+def test_save_and_load_dora_adapter_preserves_output(tmp_path) -> None:
     torch.manual_seed(0)
-    model = nn.Sequential(nn.Linear(5, 3))
+    linear = nn.Linear(5, 3)
+    model = nn.Sequential(linear)
     apply_peft(model, method="dora", rank=2, alpha=4, dropout=0.0, target_modules=["0"])
     x = torch.randn(7, 5)
     out_before = model(x).detach().clone()
@@ -127,8 +128,32 @@ def test_save_and_load_adapter_preserves_output(tmp_path) -> None:
     path = tmp_path / "adapter.pt"
     save_adapters(model, path)
 
-    new_model = nn.Sequential(nn.Linear(5, 3))
+    new_linear = nn.Linear(5, 3)
+    new_linear.load_state_dict(linear.state_dict())
+    new_model = nn.Sequential(new_linear)
     apply_peft(new_model, method="dora", rank=2, alpha=4, dropout=0.0, target_modules=["0"])
+    load_adapters(new_model, path)
+
+    out_after = new_model(x).detach().clone()
+    torch.testing.assert_close(out_after, out_before)
+
+
+def test_save_and_load_lora_adapter_preserves_output(tmp_path) -> None:
+    torch.manual_seed(0)
+    linear = nn.Linear(5, 3)
+    model = nn.Sequential(linear)
+    apply_peft(model, method="lora", rank=2, alpha=4, dropout=0.0, target_modules=["0"])
+    model[0].lora_B.data.normal_(mean=0.0, std=0.02)
+    x = torch.randn(7, 5)
+    out_before = model(x).detach().clone()
+
+    path = tmp_path / "adapter.pt"
+    save_adapters(model, path)
+
+    new_linear = nn.Linear(5, 3)
+    new_linear.load_state_dict(linear.state_dict())
+    new_model = nn.Sequential(new_linear)
+    apply_peft(new_model, method="lora", rank=2, alpha=4, dropout=0.0, target_modules=["0"])
     load_adapters(new_model, path)
 
     out_after = new_model(x).detach().clone()

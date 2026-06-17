@@ -11,6 +11,8 @@ Thay đổi quan trọng: dữ liệu ESG nội bộ chưa được gán nhãn/l
 - [x] Dựa trên `paper/implementation_exposition.md` để mở rộng phần `Chi tiết cài đặt` trong `paper.tex`.
 - [x] Trình bày theo hướng implementation-first: `LoRALinear`, `DoRALinear`, `apply_peft()`, sau đó tới luồng `Trainer`.
 - [x] Tách việc mô tả implementation khỏi roadmap benchmark.
+- [x] Sau PR #1, LoRA/DoRA đã có thêm save/load adapter, enable/disable adapter, merge/unmerge cho LoRA, `init_magnitude` và detached gradient cho DoRA.
+- [x] `results/benchmark_results_2.csv` là schema v2/canonical cho các run mới; `results/benchmark_results.csv` chỉ giữ vai trò lịch sử vì đã lẫn schema cũ/mới.
 
 ## 1. Định hướng mới của báo cáo
 
@@ -18,7 +20,6 @@ Thay đổi quan trọng: dữ liệu ESG nội bộ chưa được gán nhãn/l
 - [x] Xem DoRA paper là nguồn phương pháp chính, còn báo cáo này là tái cài đặt thuật toán lõi và kiểm chứng trong bối cảnh nhỏ hơn.
 - [x] Định vị UIT-VSFC là benchmark sanity-check cho phân loại cảm xúc tiếng Việt, đồng thời dùng cho ablation nhỏ.
 - [x] Định vị UIT-ViON là benchmark ứng dụng chính thay cho ESG nội bộ.
-- [x] Định vị ESG nội bộ là case study/hướng ứng dụng dài hạn, chưa đủ điều kiện làm kết quả định lượng chính.
 - [ ] Tiêu chí thành công chính là: giảm tham số trainable/checkpoint/VRAM trong khi giữ chất lượng phân loại chấp nhận được, không phải tái hiện số liệu benchmark LLM/LVLM gốc.
 - [ ] Khi sửa `paper.tex`, đổi các câu dễ gây hiểu nhầm từ "tái hiện benchmark gốc" sang "tái hiện thuật toán lõi trong điều kiện tài nguyên hạn chế".
 
@@ -29,7 +30,7 @@ Thay đổi quan trọng: dữ liệu ESG nội bộ chưa được gán nhãn/l
 - [x] UIT-ViON có nhãn sẵn, quy mô lớn, có nguồn công khai và có paper/dataset để trích dẫn.
 - [x] UIT-ViON là bài toán phân loại chủ đề tin tức tiếng Việt, khác miền với UIT-VSFC nên giúp đánh giá tổng quát hơn.
 - [ ] Cần kiểm tra trực tiếp file dữ liệu UIT-ViON để xác nhận format, số lớp, phân bố nhãn và split.
-- [ ] Cần quyết định chạy toàn bộ UIT-ViON hay stratified subset nếu thời gian/GPU không đủ.
+- [x] Kế hoạch chạy UIT-ViON dùng hai giai đoạn: stratified subset trước, sau đó full dataset hoặc subset lớn cho bảng chính.
 
 ## 3. Phạm vi không làm do giới hạn tài nguyên
 
@@ -46,34 +47,30 @@ Thay đổi quan trọng: dữ liệu ESG nội bộ chưa được gán nhãn/l
 - [x] Báo cáo đã có bảng kết quả FT, LoRA r8/r16 và DoRA r8/r16 trên UIT-VSFC với ba seed 42, 43, 44.
 - [x] Báo cáo đã ghi rõ DoRA chưa vượt LoRA nhất quán trong thiết lập PhoBERT/UIT-VSFC.
 - [x] Báo cáo đã loại ba run DoRA r8 đầu file CSV khỏi bảng chính vì có dấu hiệu smoke/debug runs.
-- [ ] Chưa có pipeline tải/tiền xử lý UIT-ViON trong repo.
+- [x] Đã có script chuẩn hóa UIT-ViON hoặc dataset tương thích sang CSV `text,label,split`: `scripts/prepare_uit_vion.py`.
 - [ ] Chưa có kết quả benchmark UIT-ViON.
-- [ ] Chưa cập nhật `paper.tex` để thay ESG bằng UIT-ViON trong định hướng thực nghiệm tiếp theo.
+- [x] Đã cập nhật `paper.tex` để thay ESG bằng UIT-ViON trong định hướng thực nghiệm tiếp theo.
 
 ## 5. Hạn chế hiện tại cần ghi rõ
 
-- [ ] Dataset chính trong bảng hiện tại mới là UIT-VSFC, chưa có benchmark ứng dụng thứ hai.
-- [ ] ESG nội bộ hiện chỉ nên mô tả như dữ liệu mục tiêu dài hạn, không dùng để kết luận hiệu quả DoRA.
-- [ ] UIT-ViON là title-only; kết quả trên tập này phản ánh phân loại văn bản ngắn, chưa đại diện cho phân loại văn bản dài.
-- [ ] UIT-ViON được mô tả là semi-automatic annotated; cần ghi rõ khả năng còn nhiễu nhãn.
-- [ ] Chưa có ablation theo target modules, ví dụ `query,value` so với `query,key,value` hoặc `query,key,value,dense`.
-- [ ] Chưa có kiểm chứng chính thức cho `merge()` bằng logits trước/sau merge.
-- [ ] Chưa có citation riêng cho PhoBERT, UIT-VSFC và UIT-ViON trong `references.bib`.
-- [ ] Chưa bổ sung CPU/RAM, hệ điều hành, tên môn học và ngày nộp chính thức.
+- [x] Unit tests đã kiểm tra `merge()` giữ logits cho LoRA/DoRA trên layer nhỏ.
+- [x] Đã có citation riêng cho PhoBERT, UIT-VSFC và UIT-ViON trong `references.bib`.
+
 
 ## 6. Việc cần sửa trong báo cáo chính
 
-- [ ] Sửa Abstract để nói rõ báo cáo đánh giá LoRA/DoRA trên PhoBERT với UIT-VSFC và UIT-ViON, không phải ESG.
-- [ ] Sửa Introduction để giải thích ESG nội bộ chưa đủ sạch nên được chuyển thành hướng ứng dụng dài hạn.
-- [ ] Sửa phần dữ liệu: UIT-VSFC là sanity-check; UIT-ViON là benchmark chính cho tác vụ phân loại chủ đề tin tức.
-- [ ] Thêm bảng "Paper DoRA gốc vs báo cáo này" gồm: model, task, dataset, metric, tài nguyên, phạm vi tái hiện.
-- [ ] Sửa Discussion để trình bày thiếu LLaMA/LLaVA/VL-BART như một quyết định phạm vi, không phải mục tiêu còn dang dở.
-- [ ] Sửa Conclusion để bỏ hướng "nếu có tài nguyên thì tái hiện benchmark gốc"; thay bằng hướng "mở rộng sang các tác vụ phân loại tiếng Việt khác và dữ liệu ESG sau khi được làm sạch".
+- [x] Sửa Abstract để nói rõ báo cáo đánh giá LoRA/DoRA trên PhoBERT với UIT-VSFC và UIT-ViON, không phải ESG.
+- [x] Sửa Introduction để giải thích ESG nội bộ chưa đủ sạch nên được chuyển thành hướng ứng dụng dài hạn.
+- [x] Sửa phần dữ liệu: UIT-VSFC là sanity-check; UIT-ViON là benchmark chính cho tác vụ phân loại chủ đề tin tức.
+- [x] Cập nhật phần implementation: DoRA chuẩn hóa theo cột (`dim=0`), `init_magnitude=weight_norm`, `use_detached_gradient=True`, dropout hiệu dụng của DoRA là `0.0`, adapter save/load được kiểm thử.
+- [x] Thêm bảng "Paper DoRA gốc vs báo cáo này" gồm: model, task, dataset, metric, tài nguyên, phạm vi tái hiện.
+- [x] Sửa Discussion để trình bày thiếu LLaMA/LLaVA/VL-BART như một quyết định phạm vi, không phải mục tiêu còn dang dở.
+- [x] Sửa Conclusion để bỏ hướng "nếu có tài nguyên thì tái hiện benchmark gốc"; thay bằng hướng "mở rộng sang các tác vụ phân loại tiếng Việt khác và dữ liệu ESG sau khi được làm sạch".
 - [ ] Nếu có kết quả UIT-ViON, thêm bảng kết quả chính và phân tích nhầm lẫn giữa các chủ đề.
 
 ## 7. Thực nghiệm cần chạy tiếp
 
-- [ ] Ưu tiên 1: tải hoặc chuẩn hóa UIT-ViON vào pipeline hiện có.
+- [x] Ưu tiên 1: thêm script chuẩn hóa UIT-ViON vào pipeline hiện có.
 - [ ] Ưu tiên 2: kiểm tra phân bố nhãn UIT-ViON và quyết định dùng full dataset hay stratified subset.
 - [ ] Ưu tiên 3: chạy FT, LoRA r8, LoRA r16, DoRA r8 và DoRA r16 trên UIT-ViON với ba seed nếu thời gian cho phép.
 - [ ] Nếu FT trên UIT-ViON quá tốn thời gian, chạy FT một seed làm mốc tham chiếu và ghi rõ giới hạn; LoRA/DoRA vẫn nên chạy ba seed.
@@ -94,9 +91,9 @@ Thay đổi quan trọng: dữ liệu ESG nội bộ chưa được gán nhãn/l
 
 ## 9. Ghi chú cho session sau
 
-- [ ] Bắt đầu bằng cách đọc `paper/paper.tex`, `paper/Replan.md`, `paper/implementation_exposition.md`, file này và `results/benchmark_results.csv`.
-- [ ] Kiểm tra repo có sẵn script/dataset loader nào cho UIT-ViON chưa.
-- [ ] Nếu chưa có, tạo script tiền xử lý UIT-ViON sao cho output khớp pipeline hiện tại.
-- [ ] Khi chạy thêm benchmark, giữ schema CSV hiện tại và thêm `dataset=uit-vion` để dễ tổng hợp mean/std.
+- [ ] Bắt đầu bằng cách đọc `paper/paper.tex`, `paper/Replan.md`, `paper/implementation_exposition.md`, file này và `results/benchmark_results_2.csv`; chỉ đọc `results/benchmark_results.csv` khi cần đối chiếu lịch sử.
+- [x] Kiểm tra repo có sẵn script/dataset loader nào cho UIT-ViON chưa.
+- [x] Nếu chưa có, tạo script tiền xử lý UIT-ViON sao cho output khớp pipeline hiện tại.
+- [ ] Khi chạy thêm benchmark, giữ schema CSV v2 hiện tại trong `results/benchmark_results_2.csv` và thêm `dataset=uit-vion` để dễ tổng hợp mean/std.
 - [ ] Nếu tạo script tổng hợp kết quả, ưu tiên xuất cả Markdown và LaTeX table.
 - [ ] Giữ tinh thần báo cáo kỹ thuật: trung thực về phạm vi, rõ về tài nguyên, không tuyên bố phát minh phương pháp mới.

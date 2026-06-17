@@ -13,12 +13,12 @@ class DoRALinear(nn.Module):
 
     For a PyTorch Linear weight W with shape [out_features, in_features],
     DoRA keeps W0 frozen, learns a low-rank direction update BA, and learns one
-    magnitude scalar per output **column**:
+    magnitude scalar per input column:
 
         W = m * normalize(W0 + BA, dim=0)
 
     Features:
-    - merge / unmerge: merge adapter into the base weight and restore.
+    - merge: merge adapter into the base weight or export a plain Linear.
     - enable / disable: temporarily turn off the adapter.
     - save / load adapter: persist only the trainable parameters.
     - magnitude initialisation: 'weight_norm' (default) or 'ones'.

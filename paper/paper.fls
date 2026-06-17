@@ -1,6 +1,6 @@
-PWD c:\Users\letie\OneDrive\Documents\GitHub\PEFT-from-scartch\paper
+PWD C:\Users\letie\OneDrive\Documents\GitHub\PEFT-from-scartch\paper
 INPUT C:\Users\letie\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\letie\OneDrive\Documents\GitHub\PEFT-from-scartch\paper\paper.tex
+INPUT paper.tex
 OUTPUT paper.log
 INPUT C:\Users\letie\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\letie\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

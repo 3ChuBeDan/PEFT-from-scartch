@@ -43,18 +43,20 @@ DoRA được cài đặt bằng lớp `DoRALinear`, cũng bọc một lớp `to
 
 Khi khởi tạo, trọng số gốc `W0` được lưu vào buffer `weight_base`, không phải parameter trainable. Bias của lớp gốc, nếu có, cũng được sao chép và đóng băng. Module sau đó tạo ba nhóm tham số học được:
 
-- `magnitude`: vector độ lớn, được khởi tạo bằng norm của từng hàng trọng số gốc.
+- `magnitude`: vector độ lớn, mặc định được khởi tạo bằng norm của từng cột trọng số gốc (`init_magnitude=weight_norm`).
 - `lora_A`: ma trận hạng thấp thứ nhất.
 - `lora_B`: ma trận hạng thấp thứ hai.
 
-Do trọng số của `torch.nn.Linear` trong PyTorch có shape `[out_features, in_features]`, triển khai hiện tại chuẩn hóa theo từng hàng đầu ra. Cập nhật hướng được tính như sau:
+Do trọng số của `torch.nn.Linear` trong PyTorch có shape `[out_features, in_features]`, triển khai hiện tại chuẩn hóa theo từng cột đầu vào (`dim=0`) để khớp với magnitude có shape `[1, in_features]`. Cập nhật hướng được tính như sau:
 
 ```text
 direction_update = (lora_B @ lora_A) * scaling
 direction = weight_base + direction_update
-norm = vector_norm(direction, dim=1, keepdim=True)
+norm = vector_norm(direction, dim=0, keepdim=True)
 merged_weight = magnitude * direction / norm
 ```
+
+Mặc định `DoRALinear` dùng `use_detached_gradient=True`, tức norm trong forward pass được detach khỏi computational graph trước khi chuẩn hóa. Đây là tùy chọn được PR #1 bổ sung để giảm VRAM trong huấn luyện; nếu muốn kiểm chứng full gradient có thể truyền `--no-detach`. Khác với LoRA, DoRA trong repo không hỗ trợ dropout trên adapter branch; `train.py` tự đặt dropout hiệu dụng về `0.0` cho DoRA trước khi gọi `apply_peft()`.
 
 Trong forward pass, `DoRALinear` dựng lại `merged_weight` rồi gọi:
 
@@ -109,6 +111,8 @@ Script `train.py` điều phối toàn bộ pipeline từ CLI đến huấn luy�
 - `--label-threshold`
 - `--dataset`
 - `--label-map`
+- `--init-magnitude`
+- `--no-detach`
 
 Sau khi parse arguments, script đặt default tự động:
 
@@ -118,7 +122,7 @@ Sau khi parse arguments, script đặt default tự động:
 Pipeline huấn luyện có thể trình bày theo các bước:
 
 1. Load tokenizer của `vinai/phobert-base-v2`.
-2. Load dataset UIT-VSFC hoặc file CSV/JSONL cục bộ.
+2. Load dataset UIT-ViON đã chuẩn hóa, hoặc file CSV/JSONL cục bộ.
 3. Encode label:
    - single-label dùng nhãn nguyên.
    - multi-label dùng vector multi-hot.
@@ -128,7 +132,7 @@ Pipeline huấn luyện có thể trình bày theo các bước:
 7. Đếm tổng tham số và tham số trainable.
 8. Tạo `TrainingArguments` và `Trainer`.
 9. Train, evaluate, đo thời gian và VRAM đỉnh.
-10. Lưu checkpoint và append một dòng vào `results/benchmark_results.csv`.
+10. Lưu checkpoint và append một dòng vào `results/benchmark_results_2.csv`.
 
 Trong `configure_method()`:
 
@@ -154,7 +158,8 @@ Sau huấn luyện, cách lưu checkpoint khác nhau giữa FT và PEFT:
 
 Mỗi run ghi lại các thông tin sau vào CSV:
 
-- method, model, dataset, rank, alpha, dropout, seed.
+- method, model, dataset, task type, rank, alpha, dropout hiệu dụng, seed.
+- `init_magnitude` và `use_detached_gradient` cho DoRA.
 - metrics.
 - số tham số trainable và tổng tham số.
 - trainable percent.
@@ -170,7 +175,7 @@ Trong báo cáo, phần này nên được dùng để giải thích rằng so s
 Không nên đưa toàn bộ nội dung file này vào paper chính vì sẽ quá dài. Thay vào đó, phần `Chi tiết cài đặt` trong `paper.tex` nên được mở rộng theo ba đoạn ngắn:
 
 1. `LoRALinear`: frozen base weight/bias, hai ma trận A/B, forward và merge.
-2. `DoRALinear`: `weight_base`, `magnitude`, cập nhật hướng hạng thấp, chuẩn hóa theo hàng.
+2. `DoRALinear`: `weight_base`, `magnitude`, cập nhật hướng hạng thấp, chuẩn hóa theo cột, detached gradient mặc định.
 3. `Tích hợp vào PhoBERT và Trainer`: `freeze_all_but_classifier()`, `apply_peft()`, target modules `query,value`, checkpoint FT vs PEFT.
 
 Có thể thêm một bảng nhỏ trong paper chính:

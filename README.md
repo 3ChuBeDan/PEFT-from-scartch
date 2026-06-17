@@ -13,8 +13,8 @@ DoRA-style fine-tuning for PhoBERT sentiment classification.
   - Column‑wise magnitude and direction decomposition.
   - Optional detached gradient (saves ~24% VRAM, accuracy drop ~0.2%).
   - Configurable magnitude initialisation (`weight_norm` or `ones`).
-  - Merge/unmerge, enable/disable, save/load adapter.
-- Benchmark CLI for FT, LoRA and DoRA on UIT‑VSFC or a local CSV fallback.
+  - Merge to a plain linear layer, enable/disable, save/load adapter.
+- Benchmark CLI for FT, LoRA and DoRA on UIT‑VSFC, prepared UIT‑ViON or a local CSV fallback.
 - Notebook for result aggregation and plots.
 
 ## Install
@@ -51,7 +51,7 @@ python train.py --method dora --rank 8 --alpha 16 --epochs 1 --max-train-samples
 ```
 
 Every run writes `metrics.json`, `config.json`, a checkpoint under `outputs/`,
-and appends one row to `results/benchmark_results.csv`.
+and appends one row to `results/benchmark_results_2.csv`.
 
 ## DoRA‑specific options
 
@@ -73,6 +73,32 @@ The CSV must contain:
 - `text`: input sentence
 - `label`: sentiment label
 - `split`: `train`, `validation` or `test`
+
+## UIT-ViON preparation
+
+UIT-ViON is not bundled in this repository. Download `data.zip` from the
+UIT-ViON repository, then normalize it to the local CSV schema:
+
+```bash
+python scripts/prepare_uit_vion.py \
+  --input path/to/data.zip \
+  --output data/uit_vion/dataset.csv
+```
+
+For a quick stratified subset before full benchmarking:
+
+```bash
+python scripts/prepare_uit_vion.py \
+  --input path/to/data.zip \
+  --output data/uit_vion/subset.csv \
+  --max-per-label 1000
+```
+
+Train on the prepared default file:
+
+```bash
+python train.py --method lora --dataset uit-vion --rank 8 --alpha 16 --seed 42
+```
 
 ## Multi‑label extracted dataset
 
@@ -124,7 +150,7 @@ for module in base_model.modules():
 ## Benchmark notebook
 
 Open `notebooks/phobert_dora_benchmark.ipynb` to run the planned benchmark
-commands, aggregate `results/benchmark_results.csv`, plot metrics and verify
+commands, aggregate `results/benchmark_results_2.csv`, plot metrics and verify
 that DoRA merge preserves logits.
 
 ## Tests
