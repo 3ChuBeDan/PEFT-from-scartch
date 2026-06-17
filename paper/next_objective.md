@@ -1,67 +1,102 @@
-# Next Objective: Cải thiện báo cáo tái hiện DoRA
+# Next Objective: Cải thiện báo cáo DoRA với benchmark UIT-ViON
 
-File này là ghi chú bàn giao cho các session tiếp theo. Mục tiêu là ghi lại trạng thái hiện tại của báo cáo, các hạn chế còn tồn tại, và thứ tự công việc nên làm để cải thiện chất lượng tái hiện thực nghiệm.
+File này là ghi chú bàn giao cho các session tiếp theo. Định hướng mới là xem dự án như một báo cáo kỹ thuật về cài đặt và đánh giá LoRA/DoRA trong điều kiện tài nguyên hạn chế, tập trung vào PhoBERT và các bài toán phân loại văn bản tiếng Việt. Do máy hiện tại chỉ phù hợp với mô hình tối đa khoảng 2 tỷ tham số, roadmap không đặt mục tiêu chạy lại benchmark lớn của DoRA trên LLaMA, LLaVA hoặc VL-BART.
 
-## 0. Việc cần làm trước roadmap chính
+Thay đổi quan trọng: dữ liệu ESG nội bộ chưa được gán nhãn/làm sạch đầy đủ và mất cân bằng mạnh, nên không dùng làm benchmark chính ở giai đoạn này. Benchmark ứng dụng chính sẽ chuyển sang UIT-ViON, một tập phân loại chủ đề tin tức tiếng Việt có nhãn sẵn, quy mô lớn và phù hợp với PhoBERT.
+
+## 0. Việc đã làm trước roadmap chính
 
 - [x] Viết rõ phần cài đặt LoRA/DoRA và cách tích hợp vào training trước khi chạy thêm thực nghiệm.
+- [x] Tạo `paper/implementation_exposition.md` để ghi cách trình bày implementation theo hướng kỹ thuật.
 - [x] Dựa trên `paper/implementation_exposition.md` để mở rộng phần `Chi tiết cài đặt` trong `paper.tex`.
-- [x] Khi cập nhật `paper.tex`, trình bày theo hướng implementation-first: `LoRALinear`, `DoRALinear`, `apply_peft()`, sau đó mới tới luồng `Trainer`.
-- [x] Không trộn việc viết rõ implementation với roadmap benchmark ESG/PhoBERT; đây là bước cải thiện báo cáo cần làm trước.
+- [x] Trình bày theo hướng implementation-first: `LoRALinear`, `DoRALinear`, `apply_peft()`, sau đó tới luồng `Trainer`.
+- [x] Tách việc mô tả implementation khỏi roadmap benchmark.
 
-## 1. Đánh giá nhanh báo cáo hiện tại
+## 1. Định hướng mới của báo cáo
 
-- [x] `paper/paper.tex` đã được chuyển sang dạng reproduction report, nhưng vẫn giữ layout ICML.
-- [x] Báo cáo đã nêu rõ phạm vi tái hiện là một phần: cài đặt lõi LoRA/DoRA trên `torch.nn.Linear`, tích hợp với PhoBERT và benchmark trên UIT-VSFC.
-- [x] Báo cáo đã có bảng kết quả chính cho FT, LoRA r8/r16 và DoRA r8/r16 trên ba seed 42, 43, 44.
-- [x] Báo cáo đã ghi rõ DoRA chưa vượt LoRA một cách nhất quán trong thiết lập hiện tại.
+- [x] Giữ layout ICML, nhưng giọng văn là báo cáo kỹ thuật thay vì bài báo đề xuất phương pháp mới.
+- [x] Xem DoRA paper là nguồn phương pháp chính, còn báo cáo này là tái cài đặt thuật toán lõi và kiểm chứng trong bối cảnh nhỏ hơn.
+- [x] Định vị UIT-VSFC là benchmark sanity-check cho phân loại cảm xúc tiếng Việt, đồng thời dùng cho ablation nhỏ.
+- [x] Định vị UIT-ViON là benchmark ứng dụng chính thay cho ESG nội bộ.
+- [x] Định vị ESG nội bộ là case study/hướng ứng dụng dài hạn, chưa đủ điều kiện làm kết quả định lượng chính.
+- [ ] Tiêu chí thành công chính là: giảm tham số trainable/checkpoint/VRAM trong khi giữ chất lượng phân loại chấp nhận được, không phải tái hiện số liệu benchmark LLM/LVLM gốc.
+- [ ] Khi sửa `paper.tex`, đổi các câu dễ gây hiểu nhầm từ "tái hiện benchmark gốc" sang "tái hiện thuật toán lõi trong điều kiện tài nguyên hạn chế".
+
+## 2. Lý do thay ESG bằng UIT-ViON
+
+- [x] ESG nội bộ chưa được gán nhãn và làm sạch hoàn chỉnh.
+- [x] ESG nội bộ mất cân bằng mạnh; một số nhãn quá hiếm nên metric dễ dao động và khó kết luận công bằng về LoRA/DoRA.
+- [x] UIT-ViON có nhãn sẵn, quy mô lớn, có nguồn công khai và có paper/dataset để trích dẫn.
+- [x] UIT-ViON là bài toán phân loại chủ đề tin tức tiếng Việt, khác miền với UIT-VSFC nên giúp đánh giá tổng quát hơn.
+- [ ] Cần kiểm tra trực tiếp file dữ liệu UIT-ViON để xác nhận format, số lớp, phân bố nhãn và split.
+- [ ] Cần quyết định chạy toàn bộ UIT-ViON hay stratified subset nếu thời gian/GPU không đủ.
+
+## 3. Phạm vi không làm do giới hạn tài nguyên
+
+- [x] Không chạy benchmark gốc trên LLaMA, LLaVA hoặc VL-BART vì không phù hợp tài nguyên phần cứng và không khớp trực tiếp với bài toán phân loại hiện tại.
+- [x] Không xem việc thiếu benchmark LLaMA/LLaVA/VL-BART là lỗi cần sửa của báo cáo; đây là giới hạn phạm vi cần ghi rõ.
+- [x] Không ưu tiên causal LLM lớn cho bài toán phân loại khi PhoBERT đã phù hợp hơn về ngôn ngữ, kích thước và tài nguyên.
+- [ ] Chỉ cân nhắc mô hình lớn hơn PhoBERT nếu mô hình đó dưới khoảng 2B tham số, chạy được trên GPU hiện tại, và có lý do rõ ràng cho tác vụ phân loại.
+- [ ] Nếu thêm mô hình dưới 2B, phải xem đó là benchmark phụ, không thay thế trọng tâm PhoBERT/UIT-ViON.
+
+## 4. Đánh giá nhanh trạng thái hiện tại
+
+- [x] `paper/paper.tex` đã chuyển sang dạng technical reproduction report và vẫn giữ layout ICML.
+- [x] Báo cáo đã mô tả phạm vi tái hiện: cài đặt lõi LoRA/DoRA trên `torch.nn.Linear`, tích hợp với PhoBERT và benchmark trên UIT-VSFC.
+- [x] Báo cáo đã có bảng kết quả FT, LoRA r8/r16 và DoRA r8/r16 trên UIT-VSFC với ba seed 42, 43, 44.
+- [x] Báo cáo đã ghi rõ DoRA chưa vượt LoRA nhất quán trong thiết lập PhoBERT/UIT-VSFC.
 - [x] Báo cáo đã loại ba run DoRA r8 đầu file CSV khỏi bảng chính vì có dấu hiệu smoke/debug runs.
-- [ ] Chưa có kết quả benchmark đầy đủ cho dữ liệu ESG multi-label.
-- [ ] Chưa có bảng đối chiếu trực tiếp với các số liệu trong paper DoRA gốc.
+- [ ] Chưa có pipeline tải/tiền xử lý UIT-ViON trong repo.
+- [ ] Chưa có kết quả benchmark UIT-ViON.
+- [ ] Chưa cập nhật `paper.tex` để thay ESG bằng UIT-ViON trong định hướng thực nghiệm tiếp theo.
 
-## 2. Hạn chế hiện tại
+## 5. Hạn chế hiện tại cần ghi rõ
 
-- [ ] Báo cáo chưa tái hiện benchmark gốc trên LLaMA, LLaVA hoặc VL-BART.
-- [ ] Dataset chính hiện tại là UIT-VSFC, không phải dataset trong paper DoRA gốc.
-- [ ] Kết quả hiện tại cho thấy DoRA gần FT và LoRA về accuracy, nhưng chưa chứng minh được ưu thế rõ ràng so với LoRA.
-- [ ] Chưa có ablation theo target modules, ví dụ `query,value` so với `query,key,value,dense` hoặc các cấu hình attention/MLP mở rộng.
-- [ ] Chưa có per-class F1, confusion matrix, loss curve hoặc phân tích lỗi mẫu dự đoán sai.
-- [ ] Chưa mô tả đủ chi tiết optimizer/scheduler thực tế của Hugging Face `Trainer`.
-- [ ] Chưa có citation riêng cho PhoBERT và UIT-VSFC trong `references.bib`.
-- [ ] Chưa xác minh lại các cảnh báo LaTeX còn lại như duplicate anchor của bảng nếu cần bản nộp thật sạch.
+- [ ] Dataset chính trong bảng hiện tại mới là UIT-VSFC, chưa có benchmark ứng dụng thứ hai.
+- [ ] ESG nội bộ hiện chỉ nên mô tả như dữ liệu mục tiêu dài hạn, không dùng để kết luận hiệu quả DoRA.
+- [ ] UIT-ViON là title-only; kết quả trên tập này phản ánh phân loại văn bản ngắn, chưa đại diện cho phân loại văn bản dài.
+- [ ] UIT-ViON được mô tả là semi-automatic annotated; cần ghi rõ khả năng còn nhiễu nhãn.
+- [ ] Chưa có ablation theo target modules, ví dụ `query,value` so với `query,key,value` hoặc `query,key,value,dense`.
+- [ ] Chưa có kiểm chứng chính thức cho `merge()` bằng logits trước/sau merge.
+- [ ] Chưa có citation riêng cho PhoBERT, UIT-VSFC và UIT-ViON trong `references.bib`.
+- [ ] Chưa bổ sung CPU/RAM, hệ điều hành, tên môn học và ngày nộp chính thức.
 
-## 3. Thông tin cần bổ sung vào báo cáo
+## 6. Việc cần sửa trong báo cáo chính
 
-- [ ] Bổ sung tên môn học và ngày nộp chính thức vào phần Giới thiệu hoặc thông tin chung.
-- [ ] Bổ sung CPU, RAM hệ thống và hệ điều hành vào mục môi trường.
-- [ ] Thêm citation cho PhoBERT.
-- [ ] Thêm citation cho UIT-VSFC hoặc nguồn Hugging Face dataset nếu không tìm được paper gốc phù hợp.
-- [ ] Ghi rõ optimizer/scheduler mặc định của `Trainer` đang dùng trong phiên bản Transformers hiện tại.
-- [ ] Thêm bảng "Paper gốc vs báo cáo này" để làm rõ khác biệt về model, dataset, task, metric và tài nguyên.
-- [ ] Nếu có kết quả ESG multi-label, thêm bảng kết quả phụ hoặc section riêng trong phần thực nghiệm.
+- [ ] Sửa Abstract để nói rõ báo cáo đánh giá LoRA/DoRA trên PhoBERT với UIT-VSFC và UIT-ViON, không phải ESG.
+- [ ] Sửa Introduction để giải thích ESG nội bộ chưa đủ sạch nên được chuyển thành hướng ứng dụng dài hạn.
+- [ ] Sửa phần dữ liệu: UIT-VSFC là sanity-check; UIT-ViON là benchmark chính cho tác vụ phân loại chủ đề tin tức.
+- [ ] Thêm bảng "Paper DoRA gốc vs báo cáo này" gồm: model, task, dataset, metric, tài nguyên, phạm vi tái hiện.
+- [ ] Sửa Discussion để trình bày thiếu LLaMA/LLaVA/VL-BART như một quyết định phạm vi, không phải mục tiêu còn dang dở.
+- [ ] Sửa Conclusion để bỏ hướng "nếu có tài nguyên thì tái hiện benchmark gốc"; thay bằng hướng "mở rộng sang các tác vụ phân loại tiếng Việt khác và dữ liệu ESG sau khi được làm sạch".
+- [ ] Nếu có kết quả UIT-ViON, thêm bảng kết quả chính và phân tích nhầm lẫn giữa các chủ đề.
 
-## 4. Thực nghiệm cần chạy tiếp
+## 7. Thực nghiệm cần chạy tiếp
 
-- [ ] Ưu tiên 1: chạy benchmark ESG multi-label với FT, LoRA r8, LoRA r16, DoRA r8 và DoRA r16 trên ít nhất ba seed.
-- [ ] Ưu tiên 2: chạy ablation target modules, tối thiểu so sánh `query,value` với một cấu hình mở rộng hơn.
-- [ ] Ưu tiên 3: sinh per-class F1 và confusion matrix cho UIT-VSFC.
-- [ ] Ưu tiên 4: sinh per-label F1, micro-F1, macro-F1, samples-F1 và hamming loss cho ESG multi-label.
-- [ ] Ưu tiên 5: kiểm tra tính đúng của `merge()` bằng cách so sánh logits trước và sau merge cho LoRA/DoRA.
-- [ ] Ưu tiên 6: nếu có tài nguyên, tái hiện thêm một thí nghiệm nhỏ gần paper DoRA gốc hơn thay vì chỉ dùng PhoBERT.
+- [ ] Ưu tiên 1: tải hoặc chuẩn hóa UIT-ViON vào pipeline hiện có.
+- [ ] Ưu tiên 2: kiểm tra phân bố nhãn UIT-ViON và quyết định dùng full dataset hay stratified subset.
+- [ ] Ưu tiên 3: chạy FT, LoRA r8, LoRA r16, DoRA r8 và DoRA r16 trên UIT-ViON với ba seed nếu thời gian cho phép.
+- [ ] Nếu FT trên UIT-ViON quá tốn thời gian, chạy FT một seed làm mốc tham chiếu và ghi rõ giới hạn; LoRA/DoRA vẫn nên chạy ba seed.
+- [ ] Ưu tiên 4: báo cáo metric UIT-ViON gồm accuracy, macro-F1, weighted-F1 và confusion matrix.
+- [ ] Ưu tiên 5: chạy ablation target modules trên UIT-VSFC, tối thiểu so sánh `query,value` với `query,key,value`.
+- [ ] Ưu tiên 6: thêm baseline classifier-only hoặc frozen PhoBERT nếu muốn tách lợi ích của adapter khỏi classifier head.
+- [ ] Ưu tiên 7: kiểm tra tính đúng của `merge()` bằng cách so sánh logits trước và sau merge cho LoRA/DoRA trên cùng batch.
 
-## 5. Tiêu chí cập nhật báo cáo sau khi có kết quả mới
+## 8. Tiêu chí cập nhật kết quả
 
-- [ ] Mỗi bảng kết quả phải ghi rõ dataset, số seed, metric, rank, target modules và rule loại run nếu có.
-- [ ] Không đưa run smoke/debug vào bảng chính.
-- [ ] Nếu thêm ESG, phải nói rõ đây là benchmark mở rộng của repo, không phải benchmark gốc của DoRA paper.
-- [ ] Nếu DoRA vẫn không vượt LoRA, giữ phân tích trung thực và không viết theo hướng quảng bá.
-- [ ] Nếu thay target modules hoặc learning rate, phải cập nhật cả bảng siêu tham số và phần thảo luận.
+- [ ] Mỗi bảng kết quả phải ghi rõ dataset, task type, số seed, rank, alpha, dropout, target modules và metric.
+- [ ] Không đưa smoke/debug run vào bảng chính.
+- [ ] Nếu dùng subset UIT-ViON, phải ghi rõ cách lấy mẫu, số mẫu mỗi lớp và seed chia dữ liệu.
+- [ ] Nếu UIT-ViON có mất cân bằng nhãn, phải dùng macro-F1 và confusion matrix để phân tích thay vì chỉ nhìn accuracy.
+- [ ] Nếu DoRA không vượt LoRA, giữ phân tích trung thực: DoRA là biến thể PEFT cạnh tranh, không phải kết luận thắng tuyệt đối.
+- [ ] Nếu thay learning rate, target modules hoặc max length, phải cập nhật bảng siêu tham số.
 - [ ] Sau mỗi lần sửa `paper.tex`, chạy `latexmk -pdf -g paper.tex` trong thư mục `paper`.
 
-## 6. Ghi chú cho session sau
+## 9. Ghi chú cho session sau
 
-- [ ] Bắt đầu bằng cách đọc `paper/paper.tex`, `paper/objective.md`, file này và `results/benchmark_results.csv`.
-- [ ] Kiểm tra xem có dòng kết quả mới nào trong CSV sau các run hiện tại không.
-- [ ] Nếu chạy thêm benchmark, lưu kết quả vào cùng schema CSV hiện tại để dễ tổng hợp.
-- [ ] Nếu tạo script tổng hợp kết quả, ưu tiên xuất ra bảng LaTeX để copy trực tiếp vào paper.
-- [ ] Giữ nguyên tinh thần báo cáo kỹ thuật: trung thực, ghi rõ phạm vi tái hiện, không tuyên bố phát minh phương pháp mới.
+- [ ] Bắt đầu bằng cách đọc `paper/paper.tex`, `paper/Replan.md`, `paper/implementation_exposition.md`, file này và `results/benchmark_results.csv`.
+- [ ] Kiểm tra repo có sẵn script/dataset loader nào cho UIT-ViON chưa.
+- [ ] Nếu chưa có, tạo script tiền xử lý UIT-ViON sao cho output khớp pipeline hiện tại.
+- [ ] Khi chạy thêm benchmark, giữ schema CSV hiện tại và thêm `dataset=uit-vion` để dễ tổng hợp mean/std.
+- [ ] Nếu tạo script tổng hợp kết quả, ưu tiên xuất cả Markdown và LaTeX table.
+- [ ] Giữ tinh thần báo cáo kỹ thuật: trung thực về phạm vi, rõ về tài nguyên, không tuyên bố phát minh phương pháp mới.
