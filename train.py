@@ -13,8 +13,6 @@ from typing import Any
 
 import numpy as np
 import torch
-print(torch.cuda.is_available())
-print(torch.cuda.get_device_name(0) if torch.cuda.is_available() else "CPU only")
 from datasets import DatasetDict, load_dataset
 from sklearn.metrics import accuracy_score, f1_score, hamming_loss
 from transformers import (
@@ -27,6 +25,9 @@ from transformers import (
 from src.models import build_phobert_classifier
 from src.peft import apply_peft, count_parameters
 
+print(torch.cuda.is_available())
+print(torch.cuda.get_device_name(0) if torch.cuda.is_available() else "CPU only")
+
 
 def require_runtime_dependencies() -> None:
     try:
@@ -34,8 +35,7 @@ def require_runtime_dependencies() -> None:
     except ImportError as exc:
         raise RuntimeError(
             "Missing dependency: accelerate>=1.1.0 is required by transformers.Trainer. "
-            "Install dependencies in the active notebook/kernel environment with: "
-            f"{sys.executable} -m pip install -r requirements.txt"
+            "Install dependencies with: pip install -r requirements.txt"
         ) from exc
 
 
@@ -51,6 +51,8 @@ RESULT_COLUMNS = [
     "alpha",
     "dropout",
     "seed",
+    "init_magnitude",
+    "use_detached_gradient",
     "accuracy",
     "micro_f1",
     "macro_f1",
@@ -90,6 +92,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--max-length", type=int, default=256)
     parser.add_argument("--max-train-samples", type=int, default=None)
     parser.add_argument("--max-eval-samples", type=int, default=None)
+    # DoRA-specific options
+    parser.add_argument("--init-magnitude", choices=["weight_norm", "ones"], default="weight_norm")
+    parser.add_argument("--no-detach", action="store_true", default=False, help="Disable detached gradient for DoRA")
     return parser.parse_args()
 
 
@@ -280,13 +285,22 @@ def configure_method(args: argparse.Namespace, model: torch.nn.Module) -> list[s
 
     freeze_all_but_classifier(model)
     target_modules = [item.strip() for item in args.target_modules.split(",") if item.strip()]
+
+    # Safe dropout for DoRA
+    dropout = args.dropout
+    if args.method == "dora" and dropout != 0.0:
+        print("Warning: DoRA does not support dropout. Setting dropout=0.0.")
+        dropout = 0.0
+
     return apply_peft(
         model=model,
         method=args.method,
         rank=args.rank,
         alpha=args.alpha,
-        dropout=args.dropout,
+        dropout=dropout,
         target_modules=target_modules,
+        init_magnitude=args.init_magnitude,
+        use_detached_gradient=not args.no_detach,
     )
 
 
@@ -442,6 +456,8 @@ def main() -> None:
         "alpha": "" if args.method == "ft" else args.alpha,
         "dropout": "" if args.method == "ft" else args.dropout,
         "seed": args.seed,
+        "init_magnitude": args.init_magnitude if args.method == "dora" else "",
+        "use_detached_gradient": (not args.no_detach) if args.method == "dora" else "",
         "accuracy": metrics.get("eval_accuracy"),
         "micro_f1": metrics.get("eval_micro_f1"),
         "macro_f1": metrics.get("eval_macro_f1"),
