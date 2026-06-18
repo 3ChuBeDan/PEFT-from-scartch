@@ -1,0 +1,39 @@
+\frametitle{Mã giả – apply\_peft \& Quản lý Adapter}
+\footnotesize
+\begin{columns}[T]
+
+\begin{column}{0.48\textwidth}
+\textbf{Hàm \texttt{apply\_peft}}
+\begin{enumerate}
+\item \textbf{Với mỗi} module\_name, module trong model:
+   \begin{enumerate}
+   \item \textbf{Nếu} tên khớp với target\_modules và module là Linear:
+      \begin{itemize}
+      \item Tạo LoRALinear hoặc DoRALinear
+      \item Thay thế module cha
+      \end{itemize}
+   \end{enumerate}
+\item \textbf{Trả về} danh sách tên module đã thay thế
+\end{enumerate}
+\end{column}
+
+\begin{column}{0.48\textwidth}
+\textbf{Lưu / Tải adapter}
+\begin{enumerate}
+\item \textbf{Lưu:}
+   \begin{enumerate}
+   \item Thu thập các tham số huấn luyện được (lora\_A, lora\_B, magnitude,…)
+   \item Lưu vào file với tên module tương ứng
+   \end{enumerate}
+\item \textbf{Tải:}
+   \begin{enumerate}
+   \item Đọc file đã lưu
+   \item Với mỗi module trong file:
+      \begin{itemize}
+      \item Sao chép tham số vào module tương ứng trong model hiện tại
+      \end{itemize}
+   \end{enumerate}
+\end{enumerate}
+\end{column}
+
+\end{columns}

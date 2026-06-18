@@ -1,0 +1,12 @@
+\babel@toc {vietnamese}{}\relax 
+\beamer@sectionintoc {1}{LoRA - Parameter-Efficient Fine-Tuning - Tinh chỉnh tham số hiệu quả}{4}{0}{1}
+\beamer@subsectionintoc {1}{1}{LoRA - Parameter-Efficient Fine-Tuning (PEFT)}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Nút thắt hình học của LoRA}{7}{0}{1}
+\beamer@sectionintoc {2}{DoRA: : Weight-Decomposed Low-Rank Adaptation}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Nền tảng toán học - Weight Normalization}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Kiến trúc toán học của DoRA}{12}{0}{2}
+\beamer@subsectionintoc {2}{3}{Phân tích Gradient của DoRA}{15}{0}{2}
+\beamer@subsectionintoc {2}{4}{Đột phá hình học - Phép chiếu trực giao}{17}{0}{2}
+\beamer@subsectionintoc {2}{5}{Phân tích Động học: Tương quan nghịch giữa Hướng và Độ lớn}{19}{0}{2}
+\beamer@subsectionintoc {2}{6}{Tối ưu hóa bộ nhớ: Cơ chế Detached Gradient}{22}{0}{2}
+\beamer@sectionintoc {3}{Tài liệu tham khảo}{26}{0}{3}
