@@ -3,6 +3,7 @@ transformers>=4.40,<5.0
 accelerate>=1.1.0
 datasets>=2.18,<4.0
 evaluate>=0.4
+peft>=0.19
 scikit-learn>=1.3
 pandas>=2.0
 matplotlib>=3.7
